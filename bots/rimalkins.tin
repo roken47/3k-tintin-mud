@@ -1,0 +1,15 @@
+#class {bot} {open}
+
+#var {areaname} {rimalkins}
+#var {botpath} {e;ne;se;n;nw;se;s;se;nw;s;sw;w;n;e;d;n;nw;ne;enter;leave;sw;se;s;u;n;w;w}
+
+#act {^[MoNSTaR]{A small Rimalkin|A large Rimalkin|A very large Rimalkin}}
+{
+#if {"%1" == "A small Rimalkin"} {#var mobname {small rimalkin}};
+#if {"%1" == "A large Rimalkin"} {#var mobname {large rimalkin}};
+#if {"%1" == "A very large Rimalkin"} {#var mobname {very large rimalkin}};
+_check_mob
+} {6};
+
+#class {bot} {close}
+#read bots/generic.tin

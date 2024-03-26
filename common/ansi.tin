@@ -1,0 +1,20 @@
+aset cwchat yellow
+aset flapchat white
+//---Bladesinger---
+aset bladesinger_tell cyan
+//---Jedi---
+aset jedi_com himagenta
+aset jedi_notify white
+aset jedi_death hired
+aset jedi_cpain blue
+aset jedi_dodge hicyan
+aset jedi_lfs white
+aset jedi_gfs yellow
+aset jedi_r_i higreen
+aset jedi_absorb himagenta
+aset jedi_c_m higreen
+aset jedi_dissipate himagenta
+aset jedi_fdef yellow
+//---Eternal---
+aset eternal_main white
+

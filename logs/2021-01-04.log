@@ -1,0 +1,997 @@
+- = LOG STARTED [00:00] = -
+[05:28] [0mYou can currently reforge 11 items.[0m
+[05:48] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[06:17] [0m[31;1m[Clan] Blutash enters the game.[0m  [0m
+[06:18] [0m[31;1m[Clan] Decav leaves the game.[0m  [0m
+[06:18] [0m[31;1m[Clan] Sonaten enters the game.[0m  [0m
+[06:20] [0m[31;1m[Clan] Sonaten leaves the game.[0m  [0m
+[06:20] [0m[31;1m[Clan] Decav enters the game.[0m  [0m
+[06:20] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[06:45] [0m[Auction] Robert : Up for bids: Balangool Gloves (Bright Green Aura).[0m
+[06:45] [0m[Auction] Robert : Xiu has requested 0 as the opening offer.[0m
+[06:45] [0m[Auction] Robert : Got 0 from Wert(jedi).  Do I hear 50?[0m
+[06:45] [0m[Auction] Robert : Got 50,000 from Space(necr).  Do I hear 51,000?[0m
+[06:45] [0m[Auction] Robert : Got 51,000 from Wert(jedi).  Do I hear 56,100?[0m
+[06:45] [0m[Auction] Robert : Got 100,000 from Space(necr).  Do I hear 110,000?[0m
+[06:45] [0m[Auction] Robert : Got 110,000 from Wert(jedi).  Do I hear 121,000?[0m
+[06:45] [0m[Auction] Robert : Got 500,000 from Space(necr).  Do I hear 550,000?[0m
+[06:45] [0m[Auction] Wert (jedi) : space wins[0m
+[06:45] [0m[Auction] Xiu (blad) : green gloves. Grove Street represent.[0m
+[06:45] [0m[Auction] Robert : 500,000 going once![0m
+[06:45] [0m[Auction] Robert : 500,000 going twice![0m
+[06:46] [0m[Auction] Robert : Sold to Space for 500,000 coins![0m
+[06:47] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[06:49] [0m[31;1m[Clan] Roken :[0m good morning![0m
+[06:55] [0m[31;1m[Clan] Roken :[0m good afternoon bruce[0m
+[06:55] [0m[31;1m[Clan] Bruce :[0m yoyo :)[0m
+[06:55] [0m[31;1m[Clan] Bruce :[0m first day back at work for 2021, shoot me now[0m
+[06:56] [0m[31;1m[Clan] Roken :[0m hear that[0m
+[06:56] [0m[31;1m[Clan] Roken :[0m im playing hookie, going in late. It's my birthday damnit :)[0m
+[06:56] [0m[31;1m[Clan] Bruce :[0m oh happy birthday - i would just not go to work![0m
+[06:56] [0m[31;1m[Clan] Bruce :[0m then again i'm in lockdown london, not going to work is the same as going to work[0m
+[06:57] [0m[31;1m[Clan] Roken :[0m wishing for working at home this year. Wanna leave the warehouse life badly[0m
+[06:58] [0m[31;1m[Clan] Bruce :[0m i hear that, you're at amazon right?[0m
+[06:58] [0m[31;1m[Clan] Roken :[0m ill just have another set of 'kill me now' vibe from Office Space[0m
+[06:58] [0m[31;1m[Clan] Roken :[0m nod[0m
+[06:58] [0m[31;1m[Clan] Bruce :[0m what are you looking at doing?[0m
+[06:58] [0m[31;1m[Clan] Roken :[0m pandemic changed my attitude[0m
+[06:58] [0m[31;1m[Clan] Roken :[0m web dev[0m
+[06:58] [0m[31;1m[Clan] Bruce :[0m ahh - better lifestyle for sure :D[0m
+[06:59] [0m[31;1m[Clan] Roken :[0m but if i can help it, steering away from gig work[0m
+[06:59] [0m[31;1m[Clan] Bruce :[0m so no contract work[0m
+[06:59] [0m[31;1m[Clan] Bruce :[0m ?[0m
+[06:59] [0m[31;1m[Clan] Roken :[0m is that traditional thinking..? just seems comforting to have the company provide[0m
+[06:59] [0m               benefits[0m
+[07:00] [0m[31;1m[Clan] Bruce :[0m yeah just gotta find the right company i guess[0m
+[07:00] [0m[31;1m[Clan] Bruce :[0m my company is 100% remote[0m
+[07:00] [0m[31;1m[Clan] Bruce :[0m i can be anywhere and do my job, they don't care[0m
+[07:00] [0m[31;1m[Clan] Bruce :[0m which suits my lifestyle (no kids, no desire to get married, don't want to be[0m
+[07:00] [0m               stuck in 1 city for too long) - covid made a mockery of that of course[0m
+[07:01] [0m[31;1m[Clan] Roken :[0m yeah, i'm getting a taste of it from my gf. She's in life insurance. Most of her[0m
+[07:01] [0m               biz in cali but can do her own schedule[0m
+[07:01] [0m[31;1m[Clan] Bruce :[0m it's a nice freedom[0m
+[07:01] [0m[31;1m[Clan] Bruce :[0m especially if you don't want adult things like houses, possessions[0m
+[07:01] [0m[31;1m[Clan] Roken :[0m only that she has kids, which it makes it difficult at times[0m
+[07:01] [0m[31;1m[Clan] Bruce :[0m ah yes that slows things down :D[0m
+[07:02] [0m[31;1m[Clan] Roken :[0m well could do the same with kids during the summer :)[0m
+[07:02] [0m[31;1m[Clan] Roken :[0m clock in at the hotel lol[0m
+[07:02] [0m[31;1m[Clan] Bruce :[0m for sure - i met lots of people travelling with kids[0m
+[07:02] [0m[31;1m[Clan] Bruce :[0m mostly younger kids tho[0m
+[07:02] [0m[31;1m[Clan] Bruce :[0m i guess there's a point where they need education or something haha[0m
+[07:03] [0m[31;1m[Clan] Roken :[0m ya and if you rich enough hire a homeschool teach[0m
+[07:04] [0m[31;1m[Clan] Bruce :[0m the dream! i just need covid to stop fucking stuff up[0m
+[07:06] [0m[31;1m[Clan] Roken :[0m slowing down biz?[0m
+[07:09] [0m[31;1m[Clan] Bruce :[0m the other way fortunately - i work for a elearning company[0m
+[07:09] [0m[31;1m[Clan] Bruce :[0m business has gone mental[0m
+[07:09] [0m[31;1m[Clan] Bruce :[0m just that i can't leave the UK to work remotely[0m
+[07:12] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[07:15] [0m[37;1mBruce flaps :[0m belochs?[0m
+[07:15] [0m[31;1m[Clan] Bruce :[0m wanna hit beloch?[0m
+[07:45] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[07:51] [0m[32mYou say:[0m fcm[0m
+[07:59] [0m[31;1m[Clan] Roken :[0m sorry[0m
+[08:00] [0m[31;1m[Clan] Ser :[0m what[0m
+[08:01] [0m[31;1m[Clan] Phenom :[0m wot[0m
+[08:03] [0m[32;1mFrom afar, Space screams Doooohhhhhhhh!!! at you.[0m[0m
+[08:04] [0m[31;1m[Clan] Ser :[0m laf[0m
+[08:04] [0m             https://ethermine.org/miners/0xCDaC5bbb2bd22359442ae25747e1d877b29532dD/dashboard[0m
+[08:04] [0m[31;1m[Clan] Ser :[0m the estimated amount like 2 weeks ago was like $500 or so[0m
+[08:04] [0m[32mYou say:[0m sw[0m
+[08:05] [0m[31;1m[Clan] Ser :[0m (monthly)[0m
+[08:07] [0m[31;1m[Clan] Ser :[0m and no you cant change anything in there to take my money so stop trying[0m
+[08:09] [0m[35;1mElindal [Jedi(41)]:[0m haven't been around in a while. how is everyone? have a good christmas/new[0m
+[08:09] [0m                    year?[0m
+[08:13] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[08:16] [0m[31;1m[Clan] Ser :[0m well, there goes $14k[0m
+[08:17] [0m[31;1m[Clan] Roken :[0m someone like to rally me?[0m
+[08:17] [0mYou can currently reforge 11 items.[0m
+[08:18] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[08:18] [0m[31;1m[Clan] Saim climbs out of your ass, and into the game.[0m  [0m
+[08:22] [0m[31;1m[Clan] Ser :[0m no[0m
+[08:30] [0m[Auction] Robert : Up for bids: Balangool Armour (Bright Green Aura).[0m
+[08:30] [0m[Auction] Robert : Decav has requested 1,000 as the opening offer.[0m
+[08:30] [0m[Auction] Decav (mage) : scaler 90[0m
+[08:30] [0m[Auction] Robert : Got 1,000 from Sharkbait(figh).  Do I hear 1,050?[0m
+[08:30] [0m[Auction] Sharkbait (figh) : f it, why not?[0m
+[08:30] [0m[Auction] Space (necr) : stats ftw[0m
+[08:30] [0m[Auction] Robert : 1,000 going once![0m
+[08:30] [0m[Auction] Robert : 1,000 going twice![0m
+[08:30] [0m[Auction] Space (necr) : and all dtype resists too[0m
+[08:30] [0m[Auction] Robert : Sold to Sharkbait for 1,000 coins![0m
+[08:31] [0m[Auction] Sharkbait (figh) : I'm sure it's at least as good as this translucent armor I'm[0m
+[08:31] [0m                             rocking[0m
+[08:31] [0m[Auction] Elindal (jedi) : what translucent armour? I can't see it.[0m
+[08:31] [0m[Auction] Elindal (jedi) : *ba dum tissssss*[0m
+[08:34] [0m[35;1mRoken [Jedi(91)]:[0m anyone avail to rally me at fantasy?[0m
+[08:34] [0m[35;1mSaim [Jedi(Elder)]:[0m after i finish angels i can[0m
+[08:34] [0m[34;1mHeffalump shouts:[0m Wooooo[0m
+[08:34] [0m[34;1mFlaxen shouts:[0m way[0m
+[08:34] [0m[34;1mDecav shouts:[0m thanks all :)[0m
+[08:38] [0m[31;1m[Clan] Byron :[0m anyone got a spork or mask?[0m
+[08:38] [0m[31;1m[Clan] Decav :[0m mask on ah[0m
+[08:39] [0m[31;1m[Clan] Roken :[0m zanadu i think[0m
+[08:39] [0m[31;1m[Clan] Byron :[0m ty[0m
+[08:39] [0m[31;1m[Clan] Roken :[0m ya zanadu last night offered mask dupe[0m
+[08:42] [0m[31;1m[Clan] Byron :[0m hrmmm beads by any chance decav?[0m
+[08:43] [0m[31;1m[Clan] Decav :[0m newp :/ i havent even tried dotar yet[0m
+[08:43] [0m[31;1m[Clan] Byron :[0m gonna try for spork and then dotar. if i strike out might just play necro[0m
+[08:44] [0m[31;1m[Clan] Byron :[0m codpiece fuck[0m
+[08:45] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[08:47] [0m[31;1m[Clan] Byron :[0m gonna try dotar if yoiu wanna hit or fefresh[0m
+[08:48] [0m[31;1m[Clan] Ser :[0m want me to come[0m
+[08:48] [0m[37;1mSer flaps :[0m greaves on conglom, bplate on ground[0m
+[08:49] [0m[31;1m[Clan] Byron :[0m sure[0m
+[08:50] [0m[32mYou say:[0m rally me, please?[0m
+[08:51] [0m[31;1m[Clan] Phenom :[0m tankafewbelochs[0m
+[08:52] [0m[32mYou say:[0m one sec[0m
+[08:52] [0mYou can currently reforge 11 items.[0m
+[08:52] [0m[32mYou say:[0m rallying alts :) just 1[0m
+[08:53] [0mYou can currently reforge 11 items.[0m
+[08:54] [0m[33;1m[PARTY][0m Lost our leader![0m
+[08:54] [0m[33;1m[PARTY][0m New leader for the party: dangerzone.[0m
+[08:54] [0m[33;1m[PARTY][0m Dangerzone has quit the party.[0m
+[08:54] [0m[32mSaim tells you:[0m hsmia got u?[0m
+[08:54] [0m[32mYou tell Saim:[0m no just roken[0m
+[08:54] [0m[31;1m[Clan] Byron :[0m ill be killin this cube for a bit[0m
+[08:54] [0mYou can currently reforge 11 items.[0m
+[08:55] [0m[33;1m[PARTY][0m Dangerzone joins the party.[0m
+[08:55] [0m[31;1m[Clan] Byron :[0m so come pew and dupe dotat[0m
+[08:55] [0m[33;1m[PARTY][0m Saim has quit the party.[0m
+[08:55] [0m[33;1m[PARTY][0m The leader quit the party![0m
+[08:55] [0m[33;1m[PARTY][0m New leader for the party: roken.[0m
+[08:55] [0m[31;1m[Clan] Byron :[0m and i can :D[0m
+[08:55] [0m[31;1m[Clan] Saim :[0m where i dotar i can help[0m
+[08:55] [0m[31;1m[Clan] Saim :[0m is[0m
+[08:55] [0m[32;1mFrom afar, Hsima pats you on the head.[0m[0m
+[08:55] [0m[31;1m[Clan] Saim :[0m past cubeS?[0m
+[08:55] [0m[31;1m[Clan] Byron :[0m ya[0m
+[08:56] [0m[31;1m[Clan] Byron :[0m all the way west[0m
+[08:56] [0m[31;1m[Clan] Decav :[0m oops running to sbux then i can help if youre still there[0m
+[08:56] [0m[31;1m[Clan] Byron :[0m ok. no worries[0m
+[08:56] [0m[32mYou tell Hsima:[0m saim got me[0m
+[08:56] [0mYou can currently reforge 11 items.[0m
+[08:57] [0m[31;1m[Clan] Phenom :[0m need hits?[0m
+[08:59] [0m[31;1m[Clan] Byron :[0m dupe him if you can[0m
+[08:59] [0m[31;1m[Clan] Saim :[0m i will[0m
+[09:00] [0m[31;1m[Clan] Byron :[0m im gonna pop martyr on for refresh once room dies[0m
+[09:00] [0m[31;1m[Clan] Byron :[0m he has dupe as well[0m
+[09:00] [0m[31;1m[Clan] Byron :[0m dotar is such a cunt[0m
+[09:00] [0m[31;1m[Clan] Saim :[0m whats the deal with feeding these things[0m
+[09:01] [0m[31;1m[Clan] Byron :[0m they regen or you can fuse 200k hps into them and then you do that as damage[0m
+[09:01] [0m[31;1m[Clan] Byron :[0m like a monster hit[0m
+[09:01] [0m[31;1m[Clan] Byron :[0m you sjould turn dmg off when alister pops up but im lazy[0m
+[09:02] [0m[31;1m[Clan] Saim :[0m i didnt even see him[0m
+[09:02] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[09:02] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[09:04] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[09:04] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[09:07] [0m[31;1m[Clan] Byron :[0m just dont do acid dmg[0m
+[09:07] [0m[31;1m[Clan] Saim :[0m i dont[0m
+[09:07] [0m[31;1m[Clan] Saim :[0m or fire[0m
+[09:07] [0m[31;1m[Clan] Byron :[0m nog[0m
+[09:07] [0m[31;1m[Clan] Byron :[0m fire ia fine[0m
+[09:07] [0m[31;1m[Clan] Byron :[0m just acid heals them[0m
+[09:07] [0m[31;1m[Clan] Byron :[0m fire makes them angry and room attacks[0m
+[09:08] [0m[31;1m[Clan] Saim :[0m nod, used to be a no no[0m
+[09:08] [0m[31;1m[Clan] Byron :[0m brb w necro next for fresh[0m
+[09:08] [0m[31;1m[Clan] Saim :[0m prob back when cubes were the most bs mob in the game for the most part[0m
+[09:08] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[09:09] [0m[31;1m[Clan] Toren enters the game.[0m  [0m
+[09:10] [0m[31;1m[Clan] Toren leaves the game.[0m  [0m
+[09:10] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[09:10] [0m[37;1mWert flaps :[0m anyone interested in paul party despite short boot, let me know :)[0m
+[09:11] [0m[37;1mAlassra flaps :[0m sure, why not[0m
+[09:11] [0m[31;1m[Clan] Oscar :[0m need to study spellbook[0m
+[09:11] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[09:11] [0m[31;1m[Clan] Oscar :[0m can you tank this one? or i can golem[0m
+[09:12] [0m[37;1mZanadu flaps :[0m i'll play[0m
+[09:12] [0m[31;1m[Clan] Saim :[0m me?[0m
+[09:12] [0m[31;1m[Clan] Saim :[0m i have no gear[0m
+[09:12] [0m[31;1m[Clan] Oscar :[0m golem on it[0m
+[09:12] [0m[31;1m[Clan] Saim :[0m i can help him[0m
+[09:12] [0m[37;1mVerminous flaps :[0m Short is a relative term.[0m
+[09:13] [0m[37;1mElindal flaps :[0m that's what your mom sai[0m
+[09:13] [0m[37;1mAlassra flaps :[0m aren't you a little short to be a stormtrooper?[0m
+[09:13] [0m[37;1mVerminous flaps :[0m Yours was too short.[0m
+[09:13] [0m[31;1m[Clan] Oscar :[0m you can have most that gear[0m
+[09:14] [0m[37;1mFlaxen flaps :[0m your face is short[0m
+[09:14] [0m[34;1mSock shouts:[0m estoy poopin[0m
+[09:14] [0m[37;1mVerminous flaps :[0m Well at least it isn't a horse face.[0m
+[09:15] [0m[31;1m[Clan] Sock :[0m anyone need enhances[0m
+[09:15] [0m[31;1m[Clan] Oscar :[0m ill take some[0m
+[09:15] [0m[31;1m[Clan] Sock :[0m ok lemme kill these roaches[0m
+[09:17] [0m[31;1m[Clan] Sock :[0m headed to box[0m
+[09:17] [0m[31;1m[Clan] Oscar :[0m anyone get a spork?[0m
+[09:17] [0m[31;1m[Clan] Saim :[0m you done in here oscar?[0m
+[09:17] [0m[31;1m[Clan] Oscar :[0m ya[0m
+[09:17] [0m[31;1m[Clan] Oscar :[0m we can trade dupes[0m
+[09:17] [0mArahnapogue <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[09:17] [0m[31;1m[Clan] Oscar :[0m if you want[0m
+[09:17] [0m[31;1m[Clan] Saim :[0m sure[0m
+[09:17] [0m[31;1m[Clan] Oscar :[0m beads were bop[0m
+[09:18] [0m[31;1m[Clan] Oscar :[0m at box[0m
+[09:18] [0m[31;1m[Clan] Sock :[0m 2 rnhances left[0m
+[09:22] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[09:23] [0m[31;1m[Clan] Oscar :[0m any chance someone can reforge mask?[0m
+[09:23] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[09:23] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[09:23] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[09:24] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[09:24] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[09:24] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[09:25] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[09:25] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[09:25] [0m[31;1m[Clan] Saim :[0m i can[0m
+[09:26] [0m[31;1m[Clan] Oscar :[0m ty[0m
+[09:26] [0m[31;1m[Clan] Oscar :[0m electric. at box[0m
+[09:26] [0m[32mGuard says: [0mOne day it will be ME making movies.[0m
+[09:26] [0m[32mGuard says: [0mOne day it will be ME making movies.[0m
+[09:26] [0m[32mGuard says: [0mOne day it will be ME making movies.[0m
+[09:27] [0m[32mGuard says: [0mOne day it will be ME making movies.[0m
+[09:27] [0m[32mGuard says: [0mOne day it will be ME making movies.[0m
+[09:29] [0m[31;1m[Clan] Zorbaine walks into the rain.[0m  [0m
+[09:29] [0m[31;1m[Clan] Zorbaine :[0m hi[0m
+[09:29] [0m[31;1m[Clan] Oscar :[0m sup zorb[0m
+[09:29] [0m[31;1m[Clan] Zorbaine :[0m ahh[0m
+[09:29] [0m[31;1m[Clan] Zorbaine :[0m just working out the weaknesses of the heart eh? :-p[0m
+[09:35] [0m[31;1m[Clan] Sock :[0m what[0m
+[09:38] [0m[31;1m[Clan] Bruce :[0m anyone wanna do some belochs?[0m
+[09:39] [0m[31;1m[Clan] Ser :[0m sure gimme 5 mins for tacos[0m
+[09:39] [0m[31;1m[Clan] Ser :[0m maybe 10[0m
+[09:42] [0m[32mMaude says: [0mIsn't it a wonderful day?  I feel like thanking the Lord.[0m
+[09:43] [0m[32mMaude says: [0mNed is so wonderful...not like I'm repressed for sex or anything.[0m
+[09:43] [0m[32mMaude says: [0mNed is so wonderful...not like I'm repressed for sex or anything.[0m
+[09:43] [0m[32mMaude says: [0mNed is so wonderful...not like I'm repressed for sex or anything.[0m
+[09:43] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[09:43] [0m[32mMaude says: [0mNed is so wonderful...not like I'm repressed for sex or anything.[0m
+[09:43] [0m[31;1m[Clan] Roken :[0m tf 'kevlar composite bulletproof' doesnt exist but I have 2[0m
+[09:44] [0m[32mTodd says: [0mWill you be my friend?  i LoVe YoU![0m
+[09:44] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:45] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:46] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:46] [0m[31;1m[Clan] Ser :[0m jfc ive gotten like 5 nacho cheeses this boot, wheres the sour cream[0m
+[09:46] [0m[31;1m[Clan] Ser :[0m theres 1[0m
+[09:46] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:47] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:47] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:48] [0m[37;1mSer flaps :[0m anyone in for paul[0m
+[09:48] [0m[37;1mWert flaps :[0m yep, need mroe plz[0m
+[09:48] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:48] [0m[37;1mZanadu flaps :[0m i already said make it happen[0m
+[09:48] [0m[37;1mWert flaps :[0m nod ive been trying[0m
+[09:49] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:49] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:50] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:50] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:50] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:50] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:50] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[09:54] [0m[31;1m[Clan] Sock :[0m anyone need enhances, got 2[0m
+[09:54] [0m[31;1m[Clan] Oscar :[0m me me[0m
+[09:54] [0m[31;1m[Clan] Oscar :[0m got a cooon finally[0m
+[09:55] [0m[31;1m[Clan] Sock :[0m racist af[0m
+[09:56] [0m[31;1m[Clan] Bruce :[0m coon was a brand of cheese in australia[0m
+[09:57] [0m[34;1mRheiu shouts:[0m Who's fault was that?!?![0m
+[09:58] [0m[34;1mVerminous shouts:[0m fault maverik[0m
+[10:04] [0m[37;1mSky flaps :[0m I'll be resetting tacos soonish. I'm still working on current instance and hope to[0m
+[10:04] [0m            finish before meeting to refresh (or will refresh after meeting) so send me a tell[0m
+[10:04] [0m            if you want to be notified in like 30m-hr for taco resets[0m
+[10:09] [0mFlaxen {Professions}: reforger syntax has changed slightly to allow targeting of 'hat 2'[0m
+[10:09] [0mFlaxen {Professions}: recover to get it.[0m
+[10:10] [0mThom {Professions}: woo awesome XD[0m
+[10:10] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[10:10] [0mVerminous {Professions}: But what about my 3rd hat?[0m
+[10:10] [0mKillergate {Professions}: hehehe[0m
+[10:10] [0mSer {Professions}: you mean your sock?[0m
+[10:11] [0m[37;1mSer flaps :[0m afk, gonna go eat before i buy this house[0m
+[10:11] [0mFlaxen {Professions}: hat 3 is not acceptable[0m
+[10:11] [0mFlaxen {Professions}: hat 4 is not at all desired[0m
+[10:11] [0mFlaxen {Professions}: hat 5 is right out[0m
+[10:11] [0mVerminous {Professions}: I wear at least a hundred.[0m
+[10:11] [0mAlassra {Professions}: never forget to wear your hat[0m
+[10:11] [0mEcholoc {Professions}: that will be helpful. having to smuggle/drop/box rings[0m
+[10:12] [0mFlaxen {Professions}: hat 6 will be reported to the authorities[0m
+[10:12] [0mFlaxen {Professions}: hat 7 will have people knocking at your door[0m
+[10:12] [0mFlaxen {Professions}: hat 8 will trigger a nuclear war[0m
+[10:13] [0mBlutash {Professions}: But hat 2 is fine though, right?[0m
+[10:13] [0m[31;1m[Clan] Ser :[0m anyone wanna pew epw anything[0m
+[10:13] [0mRheiu {Professions}: Hat 8 for president?[0m
+[10:13] [0mFlaxen {Professions}: hat 2 is fine and even encouraged,  but not too often[0m
+[10:14] [0mFlaxen {Professions}: sparingly[0m
+[10:15] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:15] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:15] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:15] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:15] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:15] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:15] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:15] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:15] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:16] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:16] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:16] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:16] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:16] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:17] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:17] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:17] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:17] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:17] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:18] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:18] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:18] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:18] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:18] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:18] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:18] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:18] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:18] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:18] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:18] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:18] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:18] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:19] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:19] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:19] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:19] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:19] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:19] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:19] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:20] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:20] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:20] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:20] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:20] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:20] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:20] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:20] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:20] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:21] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:21] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:21] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:21] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:21] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:21] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:21] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:22] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:22] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:22] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:22] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:22] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:23] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:23] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:23] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:23] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:23] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:23] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:23] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:23] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:24] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:24] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:24] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:24] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:24] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:24] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:24] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:24] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:24] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:24] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:24] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:25] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:25] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:25] [0m[31;1m[Clan] Ser :[0m what's max for terra ring?  142?[0m
+[10:25] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:25] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:25] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:25] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:25] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:25] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:25] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:25] [0m[37;1mSky flaps :[0m taco reset in 4 minutes[0m
+[10:25] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:26] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:26] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:26] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:26] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:26] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:26] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:26] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:26] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:26] [0m[32mNed says:[0m In Leviticus 3:14 it says '...place not thy private[0m
+[10:26] [0m          parts between thy legs, to see thyself as a female...'.[0m
+[10:27] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:27] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:27] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:27] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:27] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:27] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:27] [0m[32mNed says:[0m Hyddly-ho neighborino!                                           [0m
+[10:27] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:28] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:28] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:28] [0m[32mNed says:[0m PRAISE the Lord!                                                 [0m
+[10:28] [0;32mNed says:[0m Hellodly odly!  We got ourselves a new member of the church!    [0m
+[10:28] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[10:29] [0m[32;1mFrom afar, Tuba salutes you.[0m[0m
+[10:32] [0mYou can currently reforge 11 items.[0m
+[10:34] [0mYou can currently reforge 8 items.[0m
+[10:52] [0mYou can currently reforge 12 items.[0m
+[10:53] [0mYou can currently reforge 12 items.[0m
+[10:55] [0m[32mYou say:[0m w[0m
+[11:03] [0m[31;1m[Clan] Oscar :[0m ya[0m
+[11:04] [0m[31;1m[Clan] Oscar :[0m ser, able to mr a spork?[0m
+[11:05] [0m[32mYou say:[0m wake trout[0m
+[11:08] [0m[37;1mSky flaps :[0m come one Slack. People are trying to work here![0m
+[11:08] [0m[32mTrout tells you:[0m all yours if you want her. need some help?[0m
+[11:08] [0m[37;1mElminster flaps :[0m they must be using solar winds[0m
+[11:08] [0m[32mYou say:[0m ill wait to refresh her[0m
+[11:09] [0m[37;1mEcholoc flaps :[0m first day back after a holiday. things blew up :)[0m
+[11:09] [0m[32mTrout tells you:[0m i'm looking for a specific skill so if you want the[0m
+[11:09] [0m        rings, you are welcome to them[0m
+[11:09] [0m[37;1mInvincible flaps :[0m oh wow thought it was just my work slack[0m
+[11:09] [0m[37;1mElminster flaps :[0m all of slack for like 3.5 hours now or so[0m
+[11:09] [0m[37;1mSky flaps :[0m What I find funny is on their status page: Uptime for the[0m
+[11:09] [0m            current quarter:[0m
+[11:09] [0m[37;1mSky flaps :[0m What I find funny is on their status page: Uptime for the[0m
+[11:09] [0m            current quarter:[0m
+[11:10] [0m[37;1mSky flaps :[0m whoops, 100% had to escape that out heh[0m
+[11:10] [0m[37;1mWiener flaps :[0m It's system wide, and the updates are sounding like something[0m
+[11:10] [0m               nontrivial, no diagnosis yet[0m
+[11:10] [0m[37;1mLocrian flaps :[0m oh geez[0m
+[11:10] [0m[32mYou say:[0m copy[0m
+[11:11] [0m[37;1mElminster flaps :[0m if the mud has taught me anything, its that something in[0m
+[11:11] [0m                  slacks infrastructure has exceeded a 32 bit integer[0m
+[11:11] [0m[37;1mSky flaps :[0m how long has it been down? I've been only trying for about 30[0m
+[11:11] [0m            minutes heh[0m
+[11:11] [0m[37;1mEcholoc flaps :[0m https://status.slack.com/[0m
+[11:11] [0m[37;1mEcholoc flaps :[0m since 9am Central :)[0m
+[11:11] [0m[37;1mLocrian flaps :[0m i feel a little bit closer to each of you now. slackers[0m
+[11:11] [0m                unite![0m
+[11:12] [0m[37;1mSky flaps :[0m oh i see the time right there.. heh 7:14 PT[0m
+[11:12] [0m[37;1mEcholoc flaps :[0m one slack to rule them all![0m
+[11:13] [0m[37;1mEcholoc flaps :[0m or One Chat to rule them all... and in outage bind them....[0m
+[11:14] [0m[32;1mFrom afar, Daeth comforts you.[0m[0m
+[11:15] [0m[37;1mSky flaps :[0m i normally use other people's Slack.. but i do have my own.. i[0m
+[11:15] [0m            should figure out how to make a 3k channel.[0m
+[11:15] [0m[32;1mFrom afar, Tuba screams Doooohhhhhhhh!!! at you.[0m[0m
+[11:15] [0m[37;1mSky flaps :[0m cause like, we need more places to chat about a text based game.[0m
+[11:15] [0m            :D[0m
+[11:16] [0m[32mYou say:[0m oof[0m
+[11:16] [0m[32mYou say:[0m dz died[0m
+[11:16] [0m[37;1mEcholoc flaps :[0m 3k goes all modern, a slack workspace/GIT repository and so on :0)[0m
+[11:16] [0m[37;1mSky flaps :[0m heh well id have to figure out how to do it first :([0m
+[11:17] [0m[32mTrout says:[0m sure[0m
+[11:17] [0m[32mTuba says:[0m i'd like to corpsecion the queen corpse if you don't mind :)[0m
+[11:17] [0m[37;1mFlaxen flaps :[0m man i wish i could get a separate port for development[0m
+[11:17] [0m[32mTuba says:[0m thanks :)[0m
+[11:17] [0m[37;1mFlaxen flaps :[0m having to muck with things in prod is ... awful[0m
+[11:17] [0m[37;1mEcholoc flaps :[0m the players could update helpfiles and submit requests to be approved by the wiz[0m
+[11:17] [0m                team :)[0m
+[11:18] [0m[37;1mThom flaps :[0m i know that pain flaxen[0m
+[11:18] [0m[37;1mFlaxen flaps :[0m a submission and approval process would also be awesome[0m
+[11:18] [0m[32mYou tell Trout:[0m like to help?[0m
+[11:18] [0m[32mYou tell Trout:[0m only need 1 ring anyway[0m
+[11:18] [0m[32mTrout tells you:[0m you bet :)[0m
+[11:18] [0m[32mTrout tells you:[0m i'm looking for maintenance[0m
+[11:19] [0m[37;1mCrolack flaps :[0m Bi-weekly CAB meetings[0m
+[11:19] [0m[37;1mEcholoc flaps :[0m heh, i thought 3s was the "test port" :)[0m
+[11:19] [0m[32mTrout tells you:[0m i have 4 rings i don't need if you'd like one of them[0m
+[11:19] [0m[37;1mElindal flaps :[0m no, we're the "best" port :P[0m
+[11:20] [0m[37;1mFlaxen flaps :[0m god the CAB process here was awful for a few years[0m
+[11:20] [0m[37;1mSky flaps :[0m whats CAB?[0m
+[11:20] [0m[37;1mFlaxen flaps :[0m the powers that be declared EVERYTHING as prod and requiring CAB approval[0m
+[11:20] [0m[37;1mRheiu flaps :[0m I run our CAB[0m
+[11:20] [0m[37;1mEcholoc flaps :[0m sounds very familiar....[0m
+[11:20] [0m[37;1mFlaxen flaps :[0m so that tiny little app I wrote to process data once every 6 months, just for my[0m
+[11:20] [0m               own use?  prod, requiring CAB[0m
+[11:21] [0m[37;1mFlaxen flaps :[0m  for us CAB = Change Advisory Board[0m
+[11:21] [0m[37;1mFlaxen flaps :[0m their approval is required for anu change to production systems[0m
+[11:22] [0m[37;1mSky flaps :[0m and... the kicker... this CAB - are they people who actually know the grunt work?[0m
+[11:22] [0m[37;1mZiphe flaps :[0m anyone free to hit beloch?[0m
+[11:22] [0m[37;1mFlaxen flaps :[0m so you wanna upgarde exchange?  CAB needs to approve.  Wanna migrate your[0m
+[11:22] [0m               application to a new OS?  approval.  Switching hardware?  CAB approval[0m
+[11:22] [0m[37;1mSky flaps :[0m or are they managers and supervisors that havent a clue of whats going on?[0m
+[11:22] [0m[32mTrout tells you:[0m anything good on that ring?[0m
+[11:23] [0m[37;1mFlaxen flaps :[0m usually managers and supervisors afaik[0m
+[11:23] [0m[32mYou tell Trout:[0m no, mtx[0m
+[11:23] [0m[37;1mFlaxen flaps :[0m but they're also usually the technical ones, not the process ones[0m
+[11:23] [0m[32mTrout tells you:[0m mtx?[0m
+[11:23] [0m[32mYou tell Trout:[0m crits, hands, and blacksmith[0m
+[11:23] [0m[32mYou tell Trout:[0m maintenance[0m
+[11:23] [0m[37;1mSky flaps :[0m at least that sounds slightly more.... productive.[0m
+[11:23] [0m[32mYou say:[0m ill refresh for you[0m
+[11:23] [0m[32mYou tell Trout:[0m ill refresh for you[0m
+[11:24] [0mYou can currently reforge 12 items.[0m
+[11:24] [0m[32mTrout tells you:[0m oooo[0m
+[11:24] [0m[32mYou tell Trout:[0m refreshed[0m
+[11:24] [0m[32mTrout tells you:[0m thanks tons :)[0m
+[11:24] [0m[37;1mFlaxen flaps :[0m the bigger problem we usually experience is not that there's a problem with the[0m
+[11:24] [0m               design, but that it doesn't 'achieve the stated overarching infrastruture goals'[0m
+[11:24] [0m               like moving to cloud-first ,etc.[0m
+[11:25] [0m[37;1mFlaxen flaps :[0m so we've actually had arguments around I DONT CARE ABOUT CLOUD FIRST THE DAMN[0m
+[11:25] [0m               SERVER NEEDS TO BE REBOOTED SEVEN TIMES A DAY LETS PUT OUT THE DAMN FIRE[0m
+[11:26] [0m[37;1mFlaxen flaps :[0m or you get supervisors who wish they were back in design and try to redesign the[0m
+[11:26] [0m               whole thing on the spot[0m
+[11:26] [0m[37;1mSky flaps :[0m okay, even i understand what that means[0m
+[11:28] [0m[37;1mFlaxen flaps :[0m I had one CAB ask to see how I was handling user input in the code[0m
+[11:28] [0m[37;1mGaidin flaps :[0m I don't know if I'd trade that for us.  We have a literal "more expensive must be[0m
+[11:28] [0m               better" policy.[0m
+[11:28] [0m[37;1mEcholoc flaps :[0m flashbacks... oh the horror stories...[0m
+[11:29] [0m[37;1mFlaxen flaps :[0m our cab has gotten a lot better since we got a new CIO[0m
+[11:29] [0m[37;1mFlaxen flaps :[0m that is, once he finally realized that everyone reporting to him was a lying,[0m
+[11:29] [0m               fact-spinning POS.[0m
+[11:29] [0m[37;1mGaidin flaps :[0m THey wanted a system in surveillance to show which doors were open/closed in the[0m
+[11:29] [0m               security offices.  Not an actual alarm system, just informational.  I told them I[0m
+[11:29] [0m               could do something like that for a few hundred bucks.[0m
+[11:30] [0m[37;1mGaidin flaps :[0m They declined and literally said that a solution that cheap couldn't possibly[0m
+[11:30] [0m               work very well.[0m
+[11:30] [0m[37;1mEcholoc flaps :[0m i remember one backout plan that was brought up... change was to reboot a[0m
+[11:30] [0m                server... backout... you can't unreboot a server...[0m
+[11:30] [0m[37;1mGaidin flaps :[0m They're not paying $32,000 for the same thingi from an outside vendor.[0m
+[11:30] [0m[37;1mGaidin flaps :[0m *now paying[0m
+[11:30] [0m[37;1mFlaxen flaps :[0m oh, ha, well i could see an argument against support issues, but 'cheap means[0m
+[11:30] [0m               bad' is ... not true[0m
+[11:31] [0mYou can currently reforge 12 items.[0m
+[11:31] [0m[37;1mGaidin flaps :[0m SOmething that simple is something anyone could support.[0m
+[11:31] [0m[32;1mFrom afar, you thank Trout.[0m[0m
+[11:32] [0m[37;1mGaidin flaps :[0m It's literally just tiny VM running a monitoring loop that[0m
+[11:32] [0m               shows open/closed/no connection and spits out a webpage that[0m
+[11:32] [0m               refreshes every few seconds.[0m
+[11:33] [0m[37;1mEcholoc flaps :[0m that is a fallicy.. anyone is a broad term.. i would rather[0m
+[11:33] [0m                have a technical person on my tech issue and a medical[0m
+[11:33] [0m                person on that side :0)[0m
+[11:34] [0m[37;1mGaidin flaps :[0m Yes, it was hyperbolic, but we're the biggest company in the[0m
+[11:34] [0m               state.  We have plenty of people who can upkeep something[0m
+[11:34] [0m               that simple even if I leave.[0m
+[11:36] [0m[37;1mBlutash flaps :[0m England going into full lockdown tonight by the looks of it[0m
+[11:36] [0m[37;1mAlassra flaps :[0m prepare for a new influx of UK mudders?[0m
+[11:36] [0m[31;1m[Clan] Oscar :[0m so england is getting worse?[0m
+[11:36] [0m[37;1mEcholoc flaps :[0m i have had people not mean it that way... they literaly want[0m
+[11:36] [0m                to set joe or sue off the sidewalk into positions with[0m
+[11:36] [0m                immense access and power to shut down entire flows :)[0m
+[11:36] [0m[31;1m[Clan] Blutash :[0m Yep... still going up[0m
+[11:37] [0m[31;1m[Clan] Blutash :[0m Full lockdown as of March probably going to be enforced[0m
+[11:37] [0m                 tonight[0m
+[11:38] [0m[37;1mFlaxen flaps :[0m what, we gonna get a brexit bump ?[0m
+[11:39] [0m[37;1mBlutash flaps :[0m Looks like we're locking the doors and turning off the[0m
+[11:39] [0m                lights for the next month[0m
+[11:39] [0mFlaxen {Professions}: turning the lights off seems pretty extreme[0m
+[11:39] [0m[37;1mFlaxen flaps :[0m turning the lights off seems pretty extreme[0m
+[11:39] [0mFlaxen {Professions}: mt[0m
+[11:40] [0m[37;1mBlutash flaps :[0m I wonder what the pregnancy rates are like for the past[0m
+[11:40] [0m                year....[0m
+[11:42] [0m[37;1mEllegon flaps :[0m low, because everything is a dumpster fire, and the economy[0m
+[11:42] [0m                is crap.[0m
+[11:46] [0mYou can currently reforge 9 items.[0m
+[11:47] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[11:47] [0m                          Northern Hills of Fantasy!  We are localizing it[0m
+[11:47] [0m                          now - get ready![0m
+[11:48] [0m[34;1mFlaxen shouts:[0m omgweregonnadie[0m
+[11:48] [0m[34;1mZiphe shouts:[0m that's a given[0m
+[11:50] [0m[34;1mThom shouts:[0m like taxes, its the only other certain thing in life[0m
+[12:05] [0m[31;1m[Clan] Oscar :[0m ooo you killing terra ser?[0m
+[12:06] [0m[31;1m[Clan] Decav :[0m yeah we are in here, you wanna join?[0m
+[12:06] [0m[31;1m[Clan] Decav :[0m join the death train lol[0m
+[12:08] [0mYou can currently reforge 12 items.[0m
+[12:10] [0m[31;1m[Clan] Oscar :[0m i cant stay corpse positive prolly[0m
+[12:25] [0m[37;1mCrolack flaps :[0m I got the Moderna vaccine. I have a craving for human flesh.[0m
+[12:25] [0m                Is that normal?[0m
+[12:25] [0m[37;1mGaidin flaps :[0m Did you crave human flesh before?[0m
+[12:26] [0m[37;1mDearth flaps :[0m depends, does this flesh have finished oak cabinets?[0m
+[12:26] [0m[37;1mCrolack flaps :[0m Yes, but only when I was in werewolf form.[0m
+[12:26] [0m[37;1mGaidin flaps :[0m So sounds like a pre-existing condition.[0m
+[12:27] [0m[37;1mFlaxen flaps :[0m those are illegal now[0m
+[12:34] [0m[37;1mCrolack flaps :[0m Let me call GA and have them change that.[0m
+[12:37] [0m[37;1mSer flaps :[0m someone mention GA[0m
+[12:38] [0m[37;1mSpace flaps :[0m I am only looking for 11780 volts of powah[0m
+[12:47] [0mYou can currently reforge 12 items.[0m
+[12:48] [0mYou can currently reforge 12 items.[0m
+[13:20] [0m[34;1mTex shouts:[0m whoknw maverik did it blame naverik[0m
+[13:22] [0mYou can currently reforge 12 items.[0m
+[13:29] [0m[37;1mElminster flaps :[0m for anyone interested qinfo for boomer rampage,[0m
+[13:29] [0m                  schroedingers cat and orc slayer is now posted[0m
+[13:35] [0m[37;1mNightrider flaps :[0m thats illeagal[0m
+[13:35] [0m[37;1mNightrider flaps :[0m dest him[0m
+[13:35] [0m[37;1mDaeth flaps :[0m if you look up qinfo for schroedingers cat, it ceases to be a[0m
+[13:35] [0m              quest.[0m
+[13:36] [0m[37;1mLocrian flaps :[0m i think that's why it changes to be qinfo.[0m
+[13:37] [0m[31;1m[Clan] Ser :[0m 250 wis[0m
+[13:38] [0m[31;1m[Clan] Ser :[0m 11 stats left...  i think my heat is out here[0m
+[13:38] [0m[31;1m[Clan] Ser :[0m need to get my miner going haha[0m
+[13:38] [0m[31;1m[Clan] Gik :[0m wooaww[0m
+[13:38] [0m[31;1m[Clan] Ser :[0m unfortunately no internet until tomorrow[0m
+[13:39] [0m[31;1m[Clan] Ser :[0m 55 out and 49 in the house..  there is this big ass attic fan i[0m
+[13:39] [0m             hadnt seen the first time round so turned it on to suck in the[0m
+[13:39] [0m             warmer air :p[0m
+[13:41] [0m[37;1mAiki flaps :[0m there may or may not be a guild that thanks you El.[0m
+[13:46] [0m[34;1mTex shouts:[0m blame maverik 2021[0m
+[13:54] [0m[34;1mTex shouts:[0m mindbender on ground at hopate[0m
+[14:08] [0m[31;1m[Clan] Saim :[0m hmmm[0m
+[14:08] [0m[31;1m[Clan] Saim :[0m u trying to get warm running an attic fan?[0m
+[14:09] [0m[31;1m[Clan] Oscar :[0m his mining rig is down i think[0m
+[14:17] [0m[34;1mHsima shouts:[0m DIEDIEDIE[0m
+[14:26] [0m[34;1mGik shouts:[0m mmm pie[0m
+[14:27] [0m[34;1mFlaxen shouts:[0m what ?[0m
+[14:31] [0m[34;1mNightrider shouts:[0m Moo[0m
+[14:40] [0m[34;1mFlaxen shouts:[0m haha u ded[0m
+[14:40] [0m[34;1mSer shouts:[0m and im killing clanmates[0m
+[14:41] [0m[34;1mNauda shouts:[0m Ser zosma hard at work[0m
+[14:43] [0m[34;1mFlaxen shouts:[0m Thing to do in Chessboard When You're Dead[0m
+[14:53] [0m[31;1m[Clan] Ser :[0m anyone able to come beat on terra[0m
+[14:55] [0m[37;1mSer flaps :[0m priest mends welcome[0m
+[14:55] [0m[37;1mSer flaps :[0m for the next 20 mins ot so[0m
+[14:56] [0m[37;1mSer flaps :[0m gp[0m
+[14:56] [0m[37;1mZiphe flaps :[0m no, die[0m
+[14:56] [0m[37;1mHeffalump flaps :[0m ok twist...[0m
+[14:56] [0m[37;1mDaeth flaps :[0m what if necros could anti-mend[0m
+[14:56] [0m[37;1mZiphe flaps :[0m gotta carry the tradition knaw mean[0m
+[14:56] [0m[37;1mAlassra flaps :[0m that's just called invoke[0m
+[14:56] [0m[37;1mDaeth flaps :[0m doesn't do damage mind you, just removes the healing of mends[0m
+[14:57] [0m[37;1mDaeth flaps :[0m Ziphe tries to mend you from afar but Space blocks the mend!![0m
+[14:59] [0mYou can currently reforge 12 items.[0m
+[14:59] [0m[37;1mNauda flaps :[0m When we said 'flatten the curve' we should have specified[0m
+[14:59] [0m              'along the X axis'[0m
+[15:00] [0m[37;1mPhoenix flaps :[0m laf[0m
+[15:01] [0m[37;1mElminster flaps :[0m https://wemudtogether.com/guilds/ <--  Melly's guide to[0m
+[15:01] [0m                  picking a guild.[0m
+[15:02] [0m[37;1mInix flaps :[0m "Look at their themes, pick the one you like"[0m
+[15:03] [0m[37;1mElminster flaps :[0m if you dont want to look at mellys funny chart and be lame[0m
+[15:03] [0m                  just do what Inix says[0m
+[15:03] [0m[37;1mNauda flaps :[0m jedi go brrr, pewpewpew[0m
+[15:04] [0m[37;1mLocrian flaps :[0m DO YOU LIKE THOUGHT BUBBLES?! that is the most important[0m
+[15:04] [0m                question.[0m
+[15:04] [0m[37;1mMelly flaps :[0m all im saying is if you dont like thought bubbles, sii are not[0m
+[15:04] [0m              for you[0m
+[15:04] [0m[37;1mFlaxen flaps :[0m :([0m
+[15:05] [0m[37;1mElminster flaps :[0m .o0( truth )0o.[0m
+[15:05] [0m[37;1mFlaxen flaps :[0m i think this is an awesomely fun flowchart[0m
+[15:05] [0m[37;1mMelly flaps :[0m thanks![0m
+[15:06] [0m[37;1mNauda flaps :[0m that site is bad for zoomin in, need to open the image and[0m
+[15:06] [0m              zoom it[0m
+[15:06] [0m[37;1mLocrian flaps :[0m necromancers are edgy.[0m
+[15:06] [0m[37;1mSer flaps :[0m i still only have 4 weapons :(  but i havent spent more than a[0m
+[15:06] [0m            single lifetime on it yet[0m
+[15:06] [0m[37;1mNauda flaps :[0m I'd say whole 3k comunity is very edgy[0m
+[15:06] [0m[37;1mEcholoc flaps :[0m but eternals have half a thought bubble :)[0m
+[15:07] [0m[37;1mFlaxen flaps :[0m edgelords everywhere[0m
+[15:07] [0m[37;1mLocrian flaps :[0m that's cause by the time you reach 111, you're only half[0m
+[15:07] [0m                there.[0m
+[15:07] [0m[37;1mMelly flaps :[0m originally that said, is your character your child's only[0m
+[15:07] [0m              inheritance but that was kinda long[0m
+[15:07] [0m[37;1mEcholoc flaps :[0m guess i need to start grooming my kid to take over when i[0m
+[15:07] [0m                retire...[0m
+[15:08] [0m[37;1mLocrian flaps :[0m i need to put that in the will.[0m
+[15:08] [0m[37;1mElminster flaps :[0m im a third generation elminster[0m
+[15:09] [0m[37;1mNauda flaps :[0m And Thunder/Sumi had plans for his grandkids to inherit his[0m
+[15:09] [0m              toons, too bad he rage-quit[0m
+[15:13] [0m[34;1mZiphe shouts:[0m one moe try, try try.. one more try[0m
+[15:13] [0m[34;1mSer shouts:[0m 23% we can do it[0m
+[15:14] [0m[34;1mOmalley shouts:[0m "If I take one more try... I'm gonna end up killing you...[0m
+[15:14] [0m                You too..."[0m
+[15:20] [0m[34;1mLocrian shouts:[0m Join the Mages and YOU TOO can be like Oscar!!![0m
+[15:21] [0m[34;1mNauda shouts:[0m Join Red Cross, and you can win Oscar today.[0m
+[15:39] [0mYou can currently reforge 0 items.[0m
+[15:59] [0mYou can currently reforge 4 items.[0m
+[16:11] [0m[31;1m[Clan] Anecdote leaves the game.[0m  [0m
+[16:17] [0mAlassra <.oO>: hax![0m
+[16:18] [0mNauda <.oO>: chop chop, these are rookie numbers[0m
+[16:18] [0mKikitest <.oO>: No way, I bot hard[0m
+[16:18] [0mNauda <.oO>: bot hareder, daddy![0m
+[16:19] [0mKikitest <.oO>: Like that?[0m
+[16:19] [0mVaan <.oO>: wow!![0m
+[16:19] [0mAlassra <.oO>: that's definitely hax[0m
+[16:19] [0mZiphe <.oO>: uh, woo?[0m
+[16:19] [0mMelly <.oO>: cheater[0m
+[16:19] [0m[34;1mLiskerlol shouts:[0m qinfo[0m
+[16:19] [0m[34;1mLiskar shouts:[0m DIE CHEATER![0m
+[16:19] [0m[34;1mOld shouts:[0m he's tough, but fair[0m
+[16:20] [0m[34;1mTex shouts:[0m any one available for port please[0m
+[16:36] [0m[31;1m[Clan] Ser :[0m yo[0m
+[16:41] [0m[31;1m[Clan] Mako leaves the game.[0m  [0m
+[16:57] [0m[34;1mSpace shouts:[0m only 85 more to 500 keep it up Oscar![0m
+[16:57] [0m[34;1mGik shouts:[0m playcult, die harder[0m
+[16:59] [0mYou can currently reforge 8 items.[0m
+[17:01] [0m[34;1mKagour shouts:[0m umm, you guys do know its 2021 right?? :)[0m
+[17:01] [0m[34;1mOrthas shouts:[0m 2021 of what?[0m
+[17:01] [0mnewb Confessor [adventurer/60]: any priest availible to recruit?[0m
+[17:02] [0m[34;1mEcholoc shouts:[0m numbers are just constructs, man.[0m
+[17:05] [0mnewb Echoloc [juggernaut/123]: someone has a plan...[0m
+[17:33] [0mVerminous <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[17:33] [0mVerminous <C-Trade>: I don't want to craft... I want to TRADE![0m
+[17:45] [0m[37;1mCaeli flaps :[0m Good evening y'all![0m
+[17:46] [0m[37;1mVerminous flaps :[0m What do you mean good evening? Do you wish it to be a good[0m
+[17:46] [0m                  evening or are you implying that it's a good evening[0m
+[17:46] [0m                  whether we wish it or not?[0m
+[17:46] [0m[37;1mVerminous flaps :[0m Or maybe you feel good on this particular evening.[0m
+[17:47] [0m[31;1m[Clan] Ser :[0m anyone else wanna hit section z[0m
+[17:47] [0m[31;1m[Clan] Ser :[0m so far dragging Gik, more damage would be appreciated[0m
+[17:47] [0m[31;1m[Clan] Saim :[0m i can take a break from training fdef[0m
+[17:47] [0m[31;1m[Clan] Saim :[0m finishing off king rim[0m
+[17:48] [0m[31;1m[Clan] Ser :[0m just killing some rims myself[0m
+[17:48] [0m[31;1m[Clan] Saim :[0m rimmin[0m
+[17:48] [0m[31;1m[Clan] Ser :[0m Oscar/Decav?[0m
+[17:48] [0m[31;1m[Clan] Oscar :[0m ya[0m
+[17:49] [0m[31;1m[Clan] Saim :[0m ser ahh, i might pass then. im training fdef too and i need to[0m
+[17:49] [0m              be tanking. if you get oscar you should be fine at 120[0m
+[17:49] [0m[31;1m[Clan] Oscar :[0m im not reliable[0m
+[17:49] [0m[31;1m[Clan] Saim :[0m im at 99.20% fdef[0m
+[17:49] [0m[31;1m[Clan] Ser :[0m he explodes occasionally[0m
+[17:49] [0m[31;1m[Clan] Oscar :[0m ill dir and go idle with 100% certainty[0m
+[17:49] [0m[31;1m[Clan] Ser :[0m wanna come with?[0m
+[17:49] [0m[31;1m[Clan] Saim :[0m can we do 130?[0m
+[17:49] [0m[31;1m[Clan] Oscar :[0m ya[0m
+[17:49] [0m[31;1m[Clan] Ser :[0m or saim, you can tank :D[0m
+[17:50] [0m[31;1m[Clan] Ser :[0m sure[0m
+[17:50] [0m[31;1m[Clan] Oscar :[0m if i cam get corpses even better too[0m
+[17:50] [0m[31;1m[Clan] Ser :[0m if you promise to cpain me[0m
+[17:50] [0m[31;1m[Clan] Saim :[0m i can tank 120 prob, i just dont have rings yet really[0m
+[17:50] [0m[31;1m[Clan] Ser :[0m or tank :P[0m
+[17:50] [0m[31;1m[Clan] Ser :[0m i can loan you my cocoon[0m
+[17:50] [0m[31;1m[Clan] Oscar :[0m come rally?[0m
+[17:50] [0m[31;1m[Clan] Saim :[0m that i have[0m
+[17:50] [0m[31;1m[Clan] Saim :[0m you dont want me tanking, im all manual and not going to pay[0m
+[17:50] [0m              attn ;)[0m
+[17:51] [0m[31;1m[Clan] Saim :[0m can you tank 130?[0m
+[17:51] [0m[31;1m[Clan] Ser :[0m should be able to[0m
+[17:51] [0m[37;1mNauda flaps :[0m feeling particularly verminous this evening[0m
+[17:51] [0m[31;1m[Clan] Ser :[0m ok saim ready when you are[0m
+[17:52] [0m[31;1m[Clan] Saim :[0m im at entrance[0m
+[18:01] [0mYou can currently reforge 12 items.[0m
+[18:03] [0m[37;1mVerminous flaps :[0m Ok so not even flash emulators work now.[0m
+[18:03] [0m[37;1mEcholoc flaps :[0m let it die![0m
+[18:03] [0m[37;1mVerminous flaps :[0m Youtube is so much nicer without ads. :D[0m
+[18:03] [0m[37;1mEcholoc flaps :[0m or... let it go! :)[0m
+[18:11] [0m[37;1mVerminous flaps :[0m blah, can a wiz help me with spawnsecond a moment?[0m
+[18:13] [0m[37;1mVerminous flaps :[0m too idle I guess[0m
+[18:13] [0m[37;1mAlassra flaps :[0m they're probably botting[0m
+[18:13] [0m[37;1mVerminous flaps :[0m Dang botting wizards.[0m
+[18:13] [0m[37;1mBliss flaps :[0m laf[0m
+[18:13] [0m[37;1mVerminous flaps :[0m Apparently I can't use anyterm and blowtorch to[0m
+[18:13] [0m                  spawnsecond because it thinks I'm on different IPs.[0m
+[18:14] [0m[37;1mAlassra flaps :[0m quit downloading porn and turn off your vpn? :)[0m
+[18:15] [0m[37;1mEcholoc flaps :[0m do a simple connection from a computer to get that done then[0m
+[18:15] [0m                it doesn't care[0m
+[18:15] [0m[37;1mHeffalump flaps :[0m i mean why even mud then if you have to turn pron off...[0m
+[18:16] [0m[37;1mDerfus flaps :[0m Ok anyterm x2 worked. :D[0m
+[18:21] [0m[34;1mPrism shouts:[0m Would anyone like to hear a joke?[0m
+[18:21] [0m[34;1mAlassra shouts:[0m Character Anyone does not exist @ this realm (3k).[0m
+[18:23] [0m[34;1mAgni shouts:[0m A bot walks into a bar ...[0m
+[18:23] [0m[34;1mEcholoc shouts:[0m humor me :)[0m
+[18:24] [0m[34;1mEcholoc shouts:[0m 3 mudders walk into a bar, the 4th one ducks.[0m
+[18:25] [0m[34;1mDaeth shouts:[0m 3 mudders walk into a bar.......stop laughing...ok.....3[0m
+[18:25] [0m              mudders walk into an internet bar, the 4th was already there.[0m
+[18:28] [0mnewb Derfus [Newbie]: I noobie, can I has moneys?[0m
+[18:28] [0mnewb Derfus [Newbie]: lol[0m
+[18:28] [0mnewb Echoloc [juggernaut/123]: the monsters have your money, go get it :)[0m
+[18:29] [0mnewb Derfus [Newbie]: Gee thanks Sir Kirwan.[0m
+[18:29] [0mnewb Echoloc [juggernaut/123]: if he is handing out cash..... :)[0m
+[18:32] [0mnewb Derfus [Newbie]: Has anyone played with the shiny flute in Woonstock[0m
+[18:32] [0m                      yet?[0m
+[18:32] [0mnewb Jasmine [jedi/83]: No, but this one time at band camp....[0m
+[18:33] [0mnewb Derfus [Newbie]: There doesn't appear to be a bank in Woonstock.[0m
+[18:34] [0mnewb Echoloc [juggernaut/123]: https://wemudtogether.com/images/maps/woonsoc[0m
+[18:34] [0m                               ket.png[0m
+[18:35] [0mnewb Echoloc [juggernaut/123]: you can walk out[0m
+[18:35] [0mnewb Locrian [bard/111]: the shiny flute is supposed to stop combat[0m
+[18:35] [0mnewb Derfus [Newbie]: Oh cool.[0m
+[18:35] [0mnewb Derfus [Newbie]: Ok this Gatekeeper is freaken annoying.[0m
+[18:36] [0mnewb Echoloc [juggernaut/123]: you want to stop combat? weird[0m
+[18:36] [0mnewb Derfus [Newbie]: It seems a bit early to need but maybe it would help[0m
+[18:36] [0m                      in a pinch.[0m
+[18:36] [0mnewb Locrian [bard/111]: gatekeeper doesn't do anything. go 4e and then[0m
+[18:36] [0m                         tutorial[0m
+[18:37] [0mnewb Locrian [bard/111]: it's helpful when something is kicking your newbie[0m
+[18:37] [0m                         butt. like that vicious vampire king in woonsocket[0m
+[18:37] [0m                         castle.[0m
+[18:37] [0mnewb Omalley [gentech/104]: stop... combat??? does not compute![0m
+[18:39] [0m[34;1mNightrider shouts:[0m ch more glvls[0m
+[18:48] [0mnewb Derfus [android/6]: Finally I killed that zombie.[0m
+[18:52] [0mnewb Derfus [android/7]: Vampire King is not nice.[0m
+[18:59] [0mnewb Derfus [android/8]: This VK has to die sometime.[0m
+[19:02] [0mnewb Derfus [android/9]: Oops newbie academy time.[0m
+[19:02] [0mnewb Locrian [bard/111]: you got this, man![0m
+[19:11] [0m[31;1m[Clan] Karvec leaves the game.[0m  [0m
+[19:15] [0m[Auction] Robert : Up for bids: Greaves of the Elements.[0m
+[19:15] [0m[Auction] Robert : Adalius has requested 120,000 as the opening offer.[0m
+[19:16] [0m[Auction] Ziphe (prie) : random[0m
+[19:16] [0m[Auction] Gore (necr) : haha nice[0m
+[19:16] [0m[Auction] Robert : Got 120,000 from Echoloc(jugg).  Do I hear 132,000?[0m
+[19:16] [0m[Auction] Ziphe (prie) : do these have adalius sweat on them?[0m
+[19:16] [0m[Auction] Alassra (necr) : cheats![0m
+[19:16] [0m[Auction] Adalius (viki) : *shrug*[0m
+[19:16] [0m[Auction] Robert : 120,000 going once![0m
+[19:16] [0m[Auction] Sylph (jugg) : heh, viki[0m
+[19:16] [0m[Auction] Alassra (necr) : already bound to Adalius, joke's on you![0m
+[19:16] [0m[Auction] Robert : 120,000 going twice![0m
+[19:16] [0m[Auction] Asp (bard) : vikings don't wear shirts[0m
+[19:16] [0m[Auction] Robert : Got 132,000 from Sally(jedi).  Do I hear 145,200?[0m
+[19:16] [0mnewb Derfus [android/10]: sunknife + undead = fun[0m
+[19:16] [0m[Auction] Gore (necr) : adalius is just trying to get mudders to wear some[0m
+[19:16] [0m                        dang pants[0m
+[19:16] [0m[Auction] Robert : 132,000 going once![0m
+[19:17] [0m[Auction] Robert : 132,000 going twice![0m
+[19:17] [0m[Auction] Adalius (viki) : damn cheap people[0m
+[19:17] [0m[Auction] Kagour (jugg) : mudders own pants?[0m
+[19:17] [0m[Auction] Robert : Sold to Sally for 132,000 coins![0m
+[19:17] [0m[Auction] Ziphe (prie) : well I already have some[0m
+[19:17] [0m[Auction] Alassra (necr) : it's no speedo![0m
+[19:17] [0m[Auction] Adalius (viki) : wait[0m
+[19:17] [0m[Auction] Adalius (viki) : there's actually real greaves of the elements?[0m
+[19:18] [0m[Auction] Ziphe (prie) : laf[0m
+[19:18] [0m[Auction] Marlon (bree) : :O[0m
+[19:18] [0m[Auction] Rand (frem) : lol[0m
+[19:18] [0m[Auction] Nightrider (knig) : yup[0m
+[19:18] [0m[Auction] Sally (jedi) : refund![0m
+[19:18] [0m[Auction] Saim (jedi) : laf[0m
+[19:18] [0m[Auction] Adalius (viki) : lauuuugh I misread something[0m
+[19:18] [0m[Auction] Sally (jedi) : take these back[0m
+[19:18] [0m[Auction] Disruptor (elem) : lolol really? conglom 2.0 snicker[0m
+[19:18] [0m[Auction] Ziphe (prie) : description is totally different now that I'm[0m
+[19:18] [0m                         looking[0m
+[19:18] [0m[Auction] Liskerlol (gent) : scamz[0m
+[19:19] [0m[Auction] Gore (necr) : some mage really just missed out[0m
+[19:19] [0m[Auction] Gore (necr) : possibly every mage[0m
+[19:19] [0m[Auction] Robert : Up for bids: Greaves of the Elements.[0m
+[19:19] [0m[Auction] Robert : Sally has requested 1 as the opening offer.[0m
+[19:19] [0m[Auction] Robert : Got 1 from Ziphe(prie).  Do I hear 51?[0m
+[19:19] [0m[Auction] Robert : 1 going once![0m
+[19:20] [0m[Auction] Robert : 1 going twice![0m
+[19:20] [0m[Auction] Robert : Sold to Ziphe for 1 coins![0m
+[19:20] [0m[Auction] Asp (bard) : laf[0m
+[19:20] [0m[Auction] Ziphe (prie) : big money[0m
+[19:20] [0m[Auction] Adalius (viki) : We call that 'depreciation'[0m
+[19:20] [0m[Auction] Alassra (necr) : it loses a lot of value once you drive it off the[0m
+[19:20] [0m                           lot[0m
+[19:21] [0m[Auction] Ziphe (prie) : mmmm warm pants[0m
+[19:22] [0m[Auction] Adalius (viki) : Ok, I bet you dont have.... THESE[0m
+[19:22] [0m[Auction] Robert : Up for bids: Bracers of the Elements.[0m
+[19:22] [0m[Auction] Robert : Adalius has requested 120,000 as the opening offer.[0m
+[19:22] [0m[Auction] Robert : Got 120,000 from Ziphe(prie).  Do I hear 132,000?[0m
+[19:23] [0m[Auction] Robert : Got 132,000 from Sally(jedi).  Do I hear 145,200?[0m
+[19:23] [0m[Auction] Sally (jedi) : fake again[0m
+[19:23] [0m[Auction] Robert : 132,000 going once![0m
+[19:23] [0m[Auction] Ziphe (prie) : define fake[0m
+[19:23] [0m[Auction] Robert : 132,000 going twice![0m
+[19:23] [0m[Auction] Robert : Got 145,200 from Asp(bard).  Do I hear 159,720?[0m
+[19:23] [0m[Auction] Robert : Got 159,720 from Sally(jedi).  Do I hear 175,692?[0m
+[19:23] [0m[Auction] Robert : Got 250,000 from Asp(bard).  Do I hear 275,000?[0m
+[19:23] [0m[Auction] Robert : 250,000 going once![0m
+[19:24] [0m[Auction] Robert : 250,000 going twice![0m
+[19:24] [0m[Auction] Robert : Got 275,000 from Sally(jedi).  Do I hear 302,500?[0m
+[19:24] [0m[Auction] Robert : 275,000 going once![0m
+[19:24] [0m[Auction] Robert : Got 302,500 from Gore(necr).  Do I hear 332,750?[0m
+[19:24] [0m[Auction] Robert : 302,500 going once![0m
+[19:24] [0m[Auction] Robert : 302,500 going twice![0m
+[19:25] [0m[Auction] Robert : Sold to Gore for 302,500 coins![0m
+[20:12] [0m[37;1mCaeli flaps :[0m Is there anything special about Aldi's or is it ust another[0m
+[20:12] [0m              niche grocery store?[0m
+[20:12] [0m[37;1mWert flaps :[0m cheaper generally but less varieties, german efficiency[0m
+[20:13] [0m[37;1mHsima flaps :[0m it is a small grocery store chain, they have different store[0m
+[20:13] [0m              brands some people like[0m
+[20:13] [0m[37;1mLocrian flaps :[0m i think it's the brother of whomever owns trader joe's. i'm[0m
+[20:13] [0m                not too familiar with either one.[0m
+[20:14] [0m[37;1mHsima flaps :[0m I didn't find anything particularly interesting about the one[0m
+[20:14] [0m              here, but it was fine.[0m
+[20:14] [0m[37;1mCaeli flaps :[0m I mean the city already has a Trader Joe's, a Whole Foods, a[0m
+[20:14] [0m              Sprouts, Albertson's, Winn Dixie, and a great local with 2[0m
+[20:14] [0m              locations.[0m
+[20:14] [0m[37;1mRaeth flaps :[0m no Kroger/Fred Meyer?[0m
+[20:15] [0m[37;1mCaeli flaps :[0m Oh add 4 more locals to that.  No Kroger. Last time I saw one[0m
+[20:15] [0m              of those I lived in Indiana[0m
+[20:15] [0m[37;1mAdalius flaps :[0m Aldis came from Germany, two brothers split their dad's[0m
+[20:15] [0m                chain in to Aldi Nord and Aldi Sud (literally north &[0m
+[20:15] [0m                south), when they got to the US one continued as Aldi, the[0m
+[20:15] [0m                other bought Trader Joes. So the companies haven't been[0m
+[20:15] [0m                intertwined since around WW2.[0m
+[20:16] [0m[37;1mPhoenix flaps :[0m you made that up[0m
+[20:16] [0m[37;1mLocrian flaps :[0m wow, i didn't realize they'd been around that long.[0m
+[20:16] [0m                fascinating![0m
+[20:16] [0m[37;1mAdalius flaps :[0m started around 1900[0m
+[20:16] [0m[37;1mDisruptor flaps :[0m And one was for the Union, and the other[0m
+[20:16] [0m                  Confederate...they've been rivals ever since[0m
+[20:16] [0m[37;1mAdalius flaps :[0m Actually learned it a few months ago on a podcast[0m
+[20:16] [0m                (Freakonomics talking about Trader Joes), and refreshed my[0m
+[20:16] [0m                memory online just now[0m
+[20:17] [0m[37;1mKsemia flaps :[0m now tell us the one about the 1/2 Price Store and Gordman's[0m
+[20:17] [0m[37;1mLocrian flaps :[0m oh i liked that book. read it forever and a day ago.[0m
+[20:17] [0m[37;1mAlassra flaps :[0m I love Freakonomics - the Trader Joe's episode was a great[0m
+[20:17] [0m                one[0m
+[20:17] [0m[37;1mAdalius flaps :[0m There's 3? books now I think. I have 1 & 2. The podcast is[0m
+[20:17] [0m                great.[0m
+[20:17] [0m[37;1mEcholoc flaps :[0m aldi has less[0m
+[20:18] [0m[37;1mAdalius flaps :[0m Not so keep on their moving to Stitcher since I hate the UI[0m
+[20:18] [0m                more than just plain google podcasts so I listen less now.[0m
+[20:18] [0m[37;1mAlassra flaps :[0m yeah I just listened to the podcast / radio show on NPR[0m
+[20:18] [0m[37;1mTurnhold flaps :[0m Only 'nomics worth knowing is Thuganomics.[0m
+[20:18] [0m[32mSkippy tells you:[0m Bum-bum-be-bum-bum-bum-ba-bum-bum[0m
+[20:19] [0m[34;1mPrism shouts:[0m Well put[0m
+[20:19] [0m[37;1mAsp flaps :[0m might makes right![0m
+[20:19] [0m[34;1mAlassra shouts:[0m thong tha-thong thong thong?[0m
+[20:19] [0m[34;1mSpace shouts:[0m Stone Cold Killer mode[0m
+[20:19] [0m[34;1mZiphe shouts:[0m choosey moms choose Gif[0m
+[20:20] [0m[37;1mLocrian flaps :[0m is there really a thuganomics?[0m
+[20:21] [0m[37;1mAdalius flaps :[0m You could ask Mysterio, he'd know, but he's not here.[0m
+[20:22] [0m[37;1mCaeli flaps :[0m Not counting walmart/target we have something like 15 regular[0m
+[20:22] [0m              grocery stores, 10 Hispanic grocery stores, 5 international[0m
+[20:22] [0m              and 5 Asian.[0m
+[20:22] [0m[37;1mCaeli flaps :[0m Not including multiple locations.[0m
+[20:22] [0m[37;1mAdalius flaps :[0m we have 2.7 bars for every grocery store.[0m
+[20:23] [0m[37;1mHsima flaps :[0m kroger and food lion, one aldi's in a weird corner, some[0m
+[20:23] [0m              latino places, asian places[0m
+[20:23] [0m[37;1mCaeli flaps :[0m I don't want to look up how many bars we have.... Major[0m
+[20:23] [0m              university, plus an hour drive from a MAJOR party town...[0m
+[20:24] [0m[37;1mHsima flaps :[0m There have to be some bad laws for straight up bars here[0m
+[20:24] [0m              because everything is a "restraunt"[0m
+[20:24] [0m[37;1mHsima flaps :[0m there have been a few but even they served food technically[0m
+[20:25] [0m[37;1mCaeli flaps :[0m I live in the South. Everybody and their Momma drinks here.[0m
+[20:25] [0m[37;1mLocrian flaps :[0m is that really a southern thing? i kind of thought that was[0m
+[20:25] [0m                an everywhere thing.[0m
+[20:25] [0m[37;1mHsima flaps :[0m oh, everybody drinks, they just do it at restraunts :D[0m
+[20:25] [0m[37;1mHsima flaps :[0m or "breweries"[0m
+[20:26] [0m[37;1mLocrian flaps :[0m i like touring breweries. it's fun.[0m
+[20:26] [0m[37;1mHsima flaps :[0m I guess they fall under a different category even though it is[0m
+[20:26] [0m              really just a bar[0m
+[20:26] [0m[37;1mCaeli flaps :[0m Have you BEEN to New Orleans?[0m
+[20:26] [0m[37;1mLocrian flaps :[0m oh! new orleans. that's like a southern all to itself.[0m
+[20:27] [0m[37;1mAdalius flaps :[0m we beat new orleans for bars :D Here's the map:[0m
+[20:27] [0m                http://worh.org/library/bars-vs-grocery-stores-mapping-data[0m
+[20:27] [0m[37;1mCaeli flaps :[0m I live an hour from there.[0m
+[20:28] [0m[37;1mPhoenix flaps :[0m what else is there to do in Wisconsin but drink and mud?[0m
+[20:29] [0m[37;1mTurnhold flaps :[0m eat cheese? gripe about your horrible football team?[0m
+[20:29] [0m[37;1mThom flaps :[0m eat cheese of course[0m
+[20:29] [0m[37;1mHsima flaps :[0m eat your horrible football team?[0m
+[20:29] [0m[37;1mAlassra flaps :[0m join a militia![0m
+[20:29] [0m[37;1mEcholoc flaps :[0m and other human interactions :)[0m
+[20:30] [0m[37;1mCaeli flaps :[0m Wisconsin has some great cheese....[0m
+[20:31] [0m[37;1mNauda flaps :[0m A little bit of Corona in my life, A little bit of dying[0m
+[20:31] [0m              people by my side, A little bit of liberty is all I need, A[0m
+[20:31] [0m              little bit of mayhem is all I see[0m
+[20:31] [0m[37;1mCaeli flaps :[0m I need to order some 10 year aged cheddar soon....[0m
+[20:31] [0m[37;1mAlassra flaps :[0m still 8 years too young[0m
+[20:32] [0m[37;1mCaeli flaps :[0m Heh[0m
+[21:56] [0mYou can currently reforge 12 items.[0m
+[21:57] [0mYou can currently reforge 0 items.[0m
+[22:01] [0m[31;1m[Clan] Ser :[0m kills so much slower :([0m
+[22:02] [0m[31;1m[Clan] Nix :[0m im so busted up man[0m
+[22:03] [0m[31;1m[Clan] Nix :[0m this came out of nowhere, it's been 2.5 weeks since he started[0m
+[22:03] [0m             showing signs, and the prognosis is grim[0m
+[22:03] [0m[31;1m[Clan] Nix :[0m i'm fucking heartbroken[0m
+[22:04] [0mYou can currently reforge 4 items.[0m
+[22:09] [0m[31;1m[Clan] Ser :[0m what[0m
+[22:09] [0m[31;1m[Clan] Ser :[0m damn bro[0m
+[22:09] [0m[31;1m[Clan] Ser :[0m happened to mine ~6 months ago[0m
+[22:10] [0m[31;1m[Clan] Nix :[0m leukemia?[0m
+[22:10] [0m[31;1m[Clan] Ser :[0m i blame taste of the wild[0m
+[22:10] [0m[31;1m[Clan] Ser :[0m stomach cancer of some kind[0m
+[22:10] [0m[31;1m[Clan] Ser :[0m you should file litigation[0m
+[22:10] [0m[31;1m[Clan] Nix :[0m mines been on purina pro sport since he was a pup[0m
+[22:10] [0m[31;1m[Clan] Ser :[0m oh nvm then[0m
+[22:10] [0m[31;1m[Clan] Ser :[0m i'm sorry dude :([0m
+[22:11] [0m[31;1m[Clan] Nix :[0m thank man, hoping for a miracle but the outlook is grim[0m
+[22:11] [0m[31;1m[Clan] Ser :[0m i didn't wanna pay 10k+ for uncertainty[0m
+[22:11] [0m[31;1m[Clan] Ser :[0m so i paid 3k and put him down anyways :([0m
+[22:11] [0m[31;1m[Clan] Nix :[0m this dog is literally my best friend, been my right hand for[0m
+[22:11] [0m             the past 3 years[0m
+[22:11] [0m[31;1m[Clan] Ser :[0m so i'm really sorry[0m
+[22:11] [0m[31;1m[Clan] Void leaves the game.[0m  [0m
+[22:11] [0m[31;1m[Clan] Roor leaves the game.[0m  [0m
+[22:11] [0m[31;1m[Clan] Nix :[0m i'm all in, but i know it's probably going to end badly =([0m
+[22:12] [0m[31;1m[Clan] Nix :[0m i wont let him suffer tho, i can't let his quality of life[0m
+[22:12] [0m             suffer if he doesn't improve[0m
+[22:13] [0m[36m<BS> Xiu :[0m here's an idea if we're gonna "run out" of dmg cap and have 0 dmg[0m
+[22:13] [0m           attacks at the end of the round then replace those swings with a[0m
+[22:13] [0m           customize-able emote. so one blade might have it say "you have[0m
+[22:13] [0m           mercy on $M$." and another might have "you twirl your weapon,[0m
+[22:13] [0m           playfully mocking $M$" ect. that would actually add to theme[0m
+[22:13] [0m           instead of harming it.[0m
+[22:14] [0m[31;1m[Clan] Gik :[0m damn, im sorry Nix[0m
+[23:04] [0mYou can currently reforge 8 items.[0m
+[23:04] [0mSpace <.oO>: BooM[0m
+[23:44] [0m[31;1m[Clan] Ser :[0m just ordered 2x grow tents, guts for another miner, and a bunch[0m
+[23:44] [0m             of other shit for new place[0m
+[23:45] [0m[31;1m[Clan] Ser :[0m got the rack over there, tomorrow is going to be homewoek[0m
+[23:45] [0m             homewoek homework, then moving wed/thurs[0m
+[23:46] [0m[31;1m[Clan] Ser :[0m also ordered another monitor for gaming, going to start[0m
+[23:46] [0m             snatching up graphics cards when they go on sale[0m
+[23:48] [0m[31;1m[Clan] Ser :[0m all of this luckily is out of pocket..  need to figure out how[0m
+[23:48] [0m             to run 220 and ill be 100%[0m

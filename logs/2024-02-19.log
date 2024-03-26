@@ -1,0 +1,165 @@
+[19:54] [0m[32mYou say:[0m  test[0m
+[20:10] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[20:27] [0m[31;1m[Clan] Tick :[0m tick with velvet hat ring! damage increase![0m
+[20:28] [0m[31;1m[Clan] Taleast :[0m nice![0m
+[20:28] [0m[31;1m[Clan] Taleast :[0m Ill be honest though, maybe I wasn't high enough glvl, but I never noticed much[0m
+[20:28] [0m                 difference with a helmet on[0m
+[20:29] [0m[31;1m[Clan] Taleast :[0m I think I had a conversation with Ukyo about that and decided to just wear them[0m
+[20:29] [0m[31;1m[Clan] Tick :[0m ya maybe i should farm another bol piece for more wis/dex[0m
+[20:34] [0m[32mYou tell Ser:[0m yo each time I come back to 3k, my tt configs are fucked. HP bar isn't loading[0m
+[20:34] [0m        until I type hp and transmuter action is not updating in hp bar[0m
+[20:35] [0m[32mYou tell Ser:[0m yet to test bots and I think everything else looks fine[0m
+[20:38] [0m[32mYou tell Ser:[0m ya variables aren't updating. I'd figure this out. 3k.sh had to change with the[0m
+[20:38] [0m        shebang /bin/bash to work. Maybe debian 12 isn't liking tt?[0m
+[20:40] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[20:42] [0m[32mYou tell Ser:[0m hmmm perhaps something sluggish. Weapon charge variable did update, but not[0m
+[20:42] [0m        transmuter. Generally sluggish. I set LXC at 1 core, 1 gig ram no swap[0m
+[20:44] [0m[32mYou tell Ser:[0m omg ok... working. Slowness needs a fix. What do you recommend for specs for LXC?[0m
+[20:44] [0m        or something else?[0m
+[20:50] [0m[31;1m[Clan] Roken :[0m Happy Monday![0m
+[20:51] [0m[31;1m[Clan] Karen :[0m hey roken[0m
+[20:53] [0m[31;1m[Clan] Roken :[0m my bot needs an auto stop sigh[0m
+[20:56] [0m[31;1m[Clan] Taleast :[0m hey[0m
+[20:56] [0m[31;1m[Clan] Taleast :[0m also, HDII is back on the outs for now[0m
+[20:56] [0m[31;1m[Clan] Taleast :[0m apparently their server capacity issues isn't #of servers, it's backend code[0m
+[20:57] [0m[31;1m[Clan] Taleast :[0m they must be providing special servers for streamers[0m
+[21:02] [0m[31;1m[Clan] Roken :[0m Who has a homelab?[0m
+[21:02] [0m[31;1m[Clan] Taleast :[0m Walter White[0m
+[21:02] [0m[31;1m[Clan] Taleast :[0m I'm sorry, I use humor to cover ignorance. What's a homelab?[0m
+[21:05] [0m[31;1m[Clan] Roken :[0m your own server(s) to tinker with hosting your own instance of software like Plex[0m
+[21:05] [0m               and can be a electronics workshop. I fall into self-hosting. It can be done to[0m
+[21:05] [0m               host media for your family or whatever family would use, to learn[0m
+[21:05] [0m               networking/linux/etc for you or career[0m
+[21:05] [0m[31;1m[Clan] Tick :[0m i am not yet, but thats a goal[0m
+[21:06] [0m[31;1m[Clan] Roken :[0m I started because of Plex, but I do so much more now with Proxmox virtualizations[0m
+[21:06] [0m               and Docker.[0m
+[21:06] [0m[31;1m[Clan] Tick :[0m i have set up some stuff on free tier cloud services[0m
+[21:06] [0m[31;1m[Clan] Tick :[0m 32mil zombies are a bit tough, especially the double rooms on level 5 aegis, but[0m
+[21:06] [0m              if i am paying attention i can do it...[0m
+[21:07] [0m[31;1m[Clan] Tick :[0m just an update on how my jedi sucks :)[0m
+[21:07] [0m[31;1m[Clan] Karen :[0m ticktick < licklick[0m
+[21:07] [0m[31;1m[Clan] Roken :[0m that is also Homelabbing, using AWS, azure, google cloud, linode etc as your[0m
+[21:07] [0m               choice of host. It does lack full privacy of hosting on "prim"[0m
+[21:07] [0m[31;1m[Clan] Tick :[0m CloudLabbing![0m
+[21:08] [0m[31;1m[Clan] Roken :[0m but benefits as a learning opportunity, plenty love someone with cloud skills[0m
+[21:08] [0m[31;1m[Clan] Taleast :[0m nice[0m
+[21:08] [0m[31;1m[Clan] Roken :[0m thanks, Tick, I'll use that :D[0m
+[21:11] [0m[31;1m[Clan] Taleast :[0m oh, gotcha, yeah I have self-hosted stuff, haven't done any 'lab' stuff as you[0m
+[21:11] [0m                 put it in the last year, last time I messed with it was AWS[0m
+[21:12] [0m[31;1m[Clan] Roken :[0m gcloud ran tt++ and 3k better than my own server woof. Frames are delayed,[0m
+[21:12] [0m               Scrollback? Scroll? I can transcode with my server, if I were thinking power..[0m
+[21:12] [0m               any tips?[0m
+[21:14] [0m[31;1m[Clan] Tick :[0m i am probably not skilled enough to help, but i can try if you rephrase the[0m
+[21:14] [0m              question so i understand it hehe[0m
+[21:14] [0m[31;1m[Clan] Tick :[0m you are trying to run tt on google vps?[0m
+[21:15] [0m[31;1m[Clan] Roken :[0m was a couple years back[0m
+[21:16] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[21:16] [0m[31;1m[Clan] Roken :[0m desktop class pc is better and still slower than its potential.[0m
+[21:19] [0m[31;1m[Clan] Badger :[0m *confused* lol if you want to run tintin... use on your local machine > windows[0m
+[21:19] [0m                > wsl > kali linux[0m
+[21:19] [0m[31;1m[Clan] Tick :[0m so you are trying to get better performance from your desktop pc?[0m
+[21:20] [0m[31;1m[Clan] Tick :[0m please clearly state your objectives :D[0m
+[21:20] [0m[31;1m[Clan] Roken :[0m I setup a container on proxmox, LXC container with 1 core, 1024 mb RAM 0 Swap on[0m
+[21:20] [0m               Debian 12 template[0m
+[21:21] [0m[31;1m[Clan] Badger :[0m this def sounds like a ser thing[0m
+[21:21] [0m[31;1m[Clan] Roken :[0m scrollback can delay, like moving to a new room[0m
+[21:21] [0m[31;1m[Clan] Roken :[0m i heard he is in the process of migrating to Proxmox from eSXi[0m
+[21:21] [0m[31;1m[Clan] Tick :[0m I haven't never used that vm[0m
+[21:22] [0m[31;1m[Clan] Badger :[0m if its running slow, maybe up the cores and ram?[0m
+[21:22] [0m[31;1m[Clan] Badger :[0m other than that i have no clue. sorry. but ser might[0m
+[21:22] [0m[31;1m[Clan] Roken :[0m it's nice... Docker might be simpler[0m
+[21:23] [0m[31;1m[Clan] Roken :[0m what about client scrolling? Windows Terminal[0m
+[21:24] [0m[31;1m[Clan] Badger :[0m i use windows 11 > wsl > kali linux > windows terminal and works fine[0m
+[21:24] [0m[31;1m[Clan] Badger :[0m mine is a local machine though, not a server or anything like that[0m
+[21:24] [0m[31;1m[Clan] Roken :[0m history size is 9001 but I'm not able to scroll up. Tmux?[0m
+[21:25] [0m[31;1m[Clan] Badger :[0m i dont use tmux but def can[0m
+[21:25] [0m[31;1m[Clan] Roken :[0m no tmux? Do you use something else to follow chats?[0m
+[21:25] [0m[31;1m[Clan] Badger :[0m maybe this might help, checkout byrons repo: https://github.com/jmitchell33/3kdb[0m
+[21:26] [0m[31;1m[Clan] Badger :[0m he also has a way to make chats go to discord but i dont get into that kinda[0m
+[21:26] [0m                thing[0m
+[21:27] [0m[31;1m[Clan] Badger :[0m that would drive me bonkers tbh :P[0m
+[21:30] [0m[31;1m[Clan] Roken :[0m aren't you byron?[0m
+[21:30] [0m[31;1m[Clan] Badger :[0m no :P[0m
+[21:30] [0m[31;1m[Clan] Roken :[0m so he keeps your character?[0m
+[21:30] [0m[31;1m[Clan] Badger :[0m i use his stuff, so my tunes are on his repo[0m
+[21:30] [0m[31;1m[Clan] Roken :[0m ok[0m
+[21:31] [0m[31;1m[Clan] Badger :[0m i like things to be open for all to see, no secrets. helps ppl understand how to[0m
+[21:31] [0m                use things easier[0m
+[21:32] [0m[31;1m[Clan] Badger :[0m iv been helping alot lately to fix things etc also. and iv been trying to get[0m
+[21:32] [0m                others to use his repo :P[0m
+[21:32] [0m[31;1m[Clan] Roken :[0m I love his formating, easier code to read[0m
+[21:32] [0m[31;1m[Clan] Badger :[0m exactly[0m
+[21:33] [0m[31;1m[Clan] Badger :[0m been trying to get cable/tal/guru to switch but thats proving to be difficult :P[0m
+[21:33] [0m[31;1m[Clan] Badger :[0m lol[0m
+[21:33] [0m[31;1m[Clan] Roken :[0m without looking more, I don't understand hp bar or mipbar. Byron's is short[0m
+[21:34] [0m[31;1m[Clan] Badger :[0m some stuff might need to be added still, im not sure if he has a jedi or not but[0m
+[21:34] [0m                the basics should be captured[0m
+[21:34] [0m[31;1m[Clan] Xaro arrives!.[0m  [0m
+[21:39] [0m[31;1m[Clan] Elektra :[0m finally some good news with russia[0m
+[21:39] [0m[31;1m[Clan] Elektra :[0m once every hundred years or so i guess[0m
+[21:40] [0m[31;1m[Clan] Elektra :[0m putin says he'll send the entire nuke arsenal to Washington D.C. if he loses[0m
+[21:40] [0m                 Ukraine...  I say, win-win![0m
+[21:41] [0m[31;1m[Clan] Taleast :[0m I mean, I don't want a nuclear wasteland in the united states, but it's already[0m
+[21:41] [0m                 a moral wasteland there[0m
+[21:41] [0m[31;1m[Clan] Badger :[0m um[0m
+[21:42] [0m[31;1m[Clan] Badger :[0m i dont see how thats a win win :P[0m
+[21:42] [0m[31;1m[Clan] Taleast :[0m an obvious impossible threat though[0m
+[21:42] [0m[31;1m[Clan] Taleast :[0m if he sent all his nukes the world would go through a nuclear winter and[0m
+[21:42] [0m                 everyone would eventually die, maybe decades from now, even theym[0m
+[21:43] [0m[31;1m[Clan] Badger :[0m well, the momemnt he fired, the us would fire back.. and ya wed all be dead[0m
+[21:43] [0m[31;1m[Clan] Badger :[0m no more 3k :([0m
+[21:43] [0m[31;1m[Clan] Taleast :[0m I'm just talking about the direct repercussions, the others are in question[0m
+[21:44] [0m[31;1m[Clan] Elektra :[0m well he promised all of them on D.C., so 3k is in Michigan[0m
+[21:44] [0m[31;1m[Clan] Elektra :[0m and hopefully our counterattack wouldn't be aimed at michigan either.[0m
+[21:44] [0m[31;1m[Clan] Badger :[0m im no expert but im pretty sure if he fires nukes, it dont matter were we live[0m
+[21:44] [0m                :P[0m
+[21:45] [0m[31;1m[Clan] Taleast :[0m speaking of Putin, here's one most people haven't seen: https://www.reddit.com/[0m
+[21:45] [0m                 r/Unexpected/comments/t1t105/directly_from_putins_office/[0m
+[21:45] [0m[31;1m[Clan] Elektra :[0m from radiation?  we should compare to fukishima and the one in Ukraine that[0m
+[21:45] [0m                 melted down without containment[0m
+[21:46] [0m[31;1m[Clan] Elektra :[0m i have no idea what these units are, hmm.[0m
+[21:46] [0m[31;1m[Clan] Elektra :[0m The accident was rated level 7 on the International Nuclear and Radiological[0m
+[21:46] [0m                 Event Scale, due to high radioactive releases over days 4 to 6, eventually a[0m
+[21:46] [0m                 total of some 940 PBq (I-131 eq).[0m
+[21:46] [0m[31;1m[Clan] Elektra :[0m but that is japan[0m
+[21:47] [0m[31;1m[Clan] Elektra :[0m russia/ukraine is probably classified[0m
+[21:47] [0m[31;1m[Clan] Taleast :[0m the reason an area becomes uninhabitable after a nuclear strike is the[0m
+[21:47] [0m                 radioactive particles, not particles that are themselves radioactive, but the[0m
+[21:47] [0m                 debris that becomes radioactive after the fact[0m
+[21:47] [0m[31;1m[Clan] Taleast :[0m the amount of firepower we're talking about, would effectively be a recreation[0m
+[21:47] [0m                 of the asteroid that destroyed the dinosaurs[0m
+[21:48] [0m[31;1m[Clan] Taleast :[0m because of the amount of particles that would cover most of the atmosphere for[0m
+[21:48] [0m                 years, blocking out sunlight[0m
+[21:48] [0m[31;1m[Clan] Taleast :[0m that's not even considering the radioactivity[0m
+[21:48] [0m[31;1m[Clan] Elektra :[0m oecd-nea.org/jcms/pl_28405/chernobyl-explanation-of-terms[0m
+[21:48] [0m[31;1m[Clan] Elektra :[0m hmm that doesn't have P... what is P peta?[0m
+[21:49] [0m[31;1m[Clan] Elektra :[0m oh it does, P is yeah hmm basically round it off to an exa-becquerel.[0m
+[21:51] [0m[31;1m[Clan] Elektra :[0m hmm hard to say... they say it's hard to compare those two.[0m
+[21:51] [0m[31;1m[Clan] Elektra :[0m basically chernobyll was 400x the WWII bombs, but bomb testing in the[0m
+[21:51] [0m                 atmosphere in the bikini atols and other countries was 400 worse than that.[0m
+[21:52] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[22:07] [0m[31;1m[Clan] Taleast :[0m I think you mean the radiation was at that level, not the explosion[0m
+[22:08] [0m[31;1m[Clan] Taleast :[0m to be clear, if Chernobyl continued, they expect it to make the entire european[0m
+[22:08] [0m                 land pass uninhabitable[0m
+[22:08] [0m[31;1m[Clan] Taleast :[0m er expected[0m
+[22:16] [0m[31;1m[Clan] Taleast :[0m land mass, stupid typos[0m
+[22:18] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[22:40] [0m[31;1m[Clan] Tick :[0m wow you guys getting serious over here[0m
+[22:40] [0m[31;1m[Clan] Tick :[0m for good reason i am sure.[0m
+[22:41] [0m[31;1m[Clan] Taleast :[0m I just find it interesting[0m
+[22:45] [0m[31;1m[Clan] Tick :[0m I agree it is.[0m
+[22:47] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[22:47] [0m[31;1m[Clan] Badger :[0m guess who fixed inductor stepper... muahhahahaha[0m
+[22:51] [0m[31;1m[Clan] Brianna :[0m woo!! :)[0m
+[22:52] [0m[31;1m[Clan] Morion :[0m lies, it wasn't broken![0m
+[22:52] [0m[31;1m[Clan] Badger :[0m yes it was lol[0m
+[22:52] [0m[31;1m[Clan] Tick :[0m fight! fight![0m
+[22:52] [0m[31;1m[Clan] Badger :[0m byrons was different than inix's[0m
+[22:52] [0m[31;1m[Clan] Badger :[0m and still is[0m
+[22:52] [0m[31;1m[Clan] Morion :[0m ooooh[0m
+[22:55] [0m[31;1m[Clan] Badger :[0m now i want to take it a step further to change brief back to whatever it was[0m
+[22:55] [0m                prior too using the stepper, thats probably simple im sure tho :)[0m
+[22:56] [0m[31;1m[Clan] Badger :[0m and of course transfer the same logic from inductor to the crack stepper[0m
+[22:56] [0m[31;1m[Clan] Badger :[0m :)[0m
+[23:23] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[23:50] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m

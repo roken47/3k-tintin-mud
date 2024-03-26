@@ -1,0 +1,1130 @@
+- = LOG STARTED [00:00] = -
+[00:00] [0mnewb Triple [cyborg/73]: portal any good? i see it advertised in mud[0m
+[00:00] [0mnewb Glowie [priest/59]: problem is cmud isn't really supported much anymore[0m
+[00:00] [0m                         (one of the main reasons i switched to tt++), TT++[0m
+[00:00] [0m                         has an awesome mapper program, but there is a[0m
+[00:00] [0m                         slight learning curve. Cmud would be easier to get[0m
+[00:00] [0m                         started on.[0m
+[00:00] [0mnewb Rhoenix [cyborg/59]: and I think cmud costs monies[0m
+[00:00] [0mnewb Triple [cyborg/73]: TT++ is tin tin?[0m
+[00:00] [0mnewb Glowie [priest/59]: portal was created by Tensor - big man of 3k. That[0m
+[00:00] [0m                         said, it's no longer supported[0m
+[00:01] [0mnewb Glowie [priest/59]: i think cmud is a 1 time fee of $30. tt++ =[0m
+[00:01] [0m                         tintin++, yes[0m
+[00:01] [0mnewb Rhoenix [cyborg/59]: abandonedware shouldnt cost anything imo[0m
+[00:01] [0mnewb Triple [cyborg/73]: i'm not code stupid, i can figure out how to make[0m
+[00:01] [0m                         basic stuff, idk why but mudlet mapper just made me[0m
+[00:01] [0m                         feel like a mongoloid[0m
+[00:02] [0mnewb Rhoenix [cyborg/59]: because it was written for a different type of mud[0m
+[00:02] [0m                          and muds with strict cardinal directions[0m
+[00:02] [0mnewb Glowie [priest/59]: Rhoenix I agree- last i knew, Zugg still checked[0m
+[00:02] [0m                         the forums for cmud, but yeah no developing in a[0m
+[00:02] [0m                         few years.[0m
+[00:02] [0mnewb Rhoenix [cyborg/59]: that 3k mapper from Chris was as close as it can[0m
+[00:02] [0m                          get. no one has bothered expanding on that any[0m
+[00:02] [0m                          more[0m
+[00:03] [0mnewb Glowie [priest/59]: if you're willing to put in a little effort, try[0m
+[00:03] [0m                         tt++ - can get pretty comprehensive maps from Sock[0m
+[00:03] [0m                         or Inix.[0m
+[00:03] [0mnewb Glowie [priest/59]: but there is a learning curve[0m
+[00:03] [0mnewb Rhoenix [cyborg/59]: as nifty as a mapper is, i personally dont find[0m
+[00:03] [0m                          the challenge to set it up worth the effort[0m
+[00:03] [0mnewb Glowie [priest/59]: (once you learn it though, it comes pretty[0m
+[00:03] [0m                         natually)[0m
+[00:04] [0mnewb Triple [cyborg/73]: i'll take a look at it glowie[0m
+[00:04] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[00:04] [0mnewb Glowie [priest/59]: and i never got the mapper to work effectively on[0m
+[00:04] [0m                         cmud - and dont remember mappng when i used portal[0m
+[00:04] [0m                         (20 years ago, seriously)[0m
+[00:05] [0mnewb Rhoenix [cyborg/59]: it's just so much easier to store dirs to an area[0m
+[00:05] [0m                          in a table and search/click where I wanna go now[0m
+[00:05] [0mnewb Rhoenix [cyborg/59]: goto keep -> click lonely keep -> die[0m
+[00:05] [0mnewb Triple [cyborg/73]: l[0m
+[00:05] [0m[34;1mHyuga shouts:[0m Who watches the watchers?[0m
+[00:05] [0m[34;1mRhoenix shouts:[0m the watcher watchers[0m
+[00:06] [0m[34;1mXiu shouts:[0m just give the watchers a mirror, problem solved.[0m
+[00:09] [0mnewb Rhoenix [cyborg/59]: anyone install tmux/tintin on android device per[0m
+[00:09] [0m                          Inix' instructions recently?[0m
+[00:10] [0mnewb Triple [cyborg/73]: Heres the cuplrit found in ansivars: 'room_short¡ [0m
+[00:10] [0m                         The short description of rooms'[0m
+[00:11] [0mnewb Glowie [priest/59]: im not sure what his instructions are - but i use[0m
+[00:11] [0m                         termius or something like that to ssh in[0m
+[00:11] [0mnewb Glowie [priest/59]: yes, triple - I asked abuot room short prior -[0m
+[00:11] [0m                         sorry thought you had figured it out at that point.[0m
+[00:11] [0mnewb Rhoenix [cyborg/59]: ssh in to what? the mud or some computer running a[0m
+[00:11] [0m                          client?[0m
+[00:11] [0mnewb Triple [cyborg/73]: i thought i had, i think i have to fix the suffix[0m
+[00:12] [0mnewb Glowie [priest/59]: aws server[0m
+[00:12] [0mnewb Glowie [priest/59]: its costing a little over $1 a month to use the[0m
+[00:12] [0m                         "free tier" of aws[0m
+[00:12] [0mnewb Rhoenix [cyborg/59]: care to write up steps for that and put on the[0m
+[00:12] [0m                          forum? I'd be interested in utilizing remote[0m
+[00:12] [0m                          access when I work away from home[0m
+[00:13] [0mnewb Glowie [priest/59]: Nope.[0m
+[00:13] [0mnewb Triple [cyborg/73]: lelele[0m
+[00:13] [0mnewb Rhoenix [cyborg/59]: great! thanks![0m
+[00:13] [0mnewb Glowie [priest/59]: like, not because im mean and dont wanna share[0m
+[00:13] [0mnewb Rhoenix [cyborg/59]: have it on my desk by noon. thanks Glowie. you're[0m
+[00:13] [0m                          a real team player[0m
+[00:13] [0mnewb Glowie [priest/59]: but like.. i dont know how to set that stuff up.[0m
+[00:13] [0m                         (Ask Sock and/or Inix - they will tell you as it[0m
+[00:13] [0m                         took both of them to get me set up cause i fubard[0m
+[00:13] [0m                         so badly)[0m
+[00:14] [0mnewb Glowie [priest/59]: but i can tell you that aws will give you a free[0m
+[00:14] [0m                         ec2 server and mine is unbuntu (whatever that[0m
+[00:14] [0m                         means)[0m
+[00:14] [0m[34;1mSpace shouts:[0m Road portal/2s/radioactive[0m
+[00:26] [0mYou can currently reforge 8 items.[0m
+[00:32] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[00:59] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[01:23] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[01:26] [0mYou can currently reforge 12 items.[0m
+[01:52] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[02:22] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[02:50] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[03:19] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[08:49] You can currently reforge 12 items.[0m
+[08:50] [0mYou can currently reforge 0 items.[0m
+[08:54] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[09:17] [0mYou can currently reforge 4 items.[0m
+[09:27] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[09:28] [0m[37;1mPrismal <.oO>:[0m woo, go me![0m
+[09:28] [0m[35;1mRoken [Jedi(62)]:[0m wow 92 scaler hotel with a lucky zombie[0m
+[09:32] [0m[37;1mLachlan <.oO>:[0m go Prismal![0m
+[09:33] [0m[35;1mWhisper [Jedi(18)]:[0m i see lightwep emotes are still off-by-a-mile from dmg[0m
+[09:33] [0m                    done heheh[0m
+[09:33] [0m[35;1mWhisper [Jedi(18)]:[0m totally demolished is less dmg than a destroy :p[0m
+[09:34] [0m[35;1mWhisper [Jedi(18)]:[0m although logically those 2 would mean roughly the same[0m
+[09:34] [0m                    thing....utterly annihilate?[0m
+[09:34] [0m[35;1mSaim [Jedi(Elder)]:[0m kightweapon emotes rae their own thing[0m
+[09:35] [0m[35;1mSaim [Jedi(Elder)]:[0m someone made a list once, but i dont have that[0m
+[09:36] [0m[35;1mWhisper [Jedi(18)]:[0m im considering it...i ususlly do just for reference. if[0m
+[09:36] [0m                    i do ill post it on one of baords. accuracy may be hard[0m
+[09:36] [0m                    to have though. stats/mastery/glvl[0m
+[09:55] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[10:19] [0mYou can currently reforge 8 items.[0m
+[10:20] [0m[34;1mVoodoo shouts:[0m I can milk anything with teats![0m
+[10:20] [0m[32;1mFrom afar, Voodoo milks you.[0m[0m
+[10:20] [0m[34;1mVasha shouts:[0m What part of the almond are you milking?[0m
+[10:21] [0m[35;1mSaim [Jedi(Elder)]:[0m oh its prob posted on the boards if anywhere, good place[0m
+[10:21] [0m                    to check for sure[0m
+[10:21] [0m[35;1mSaim [Jedi(Elder)]:[0m ukyo prob has it[0m
+[10:22] [0m[35;1mMugen [Jedi(Knight)]:[0m the top emote caps pretty low, its fairly worthless,[0m
+[10:22] [0m                      fairly quickly[0m
+[10:23] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[10:25] [0m[35;1mSimple [Jedi(45)]:[0m why do the lvl 1 droid repair better than the lvl 2[0m
+[10:27] [0m[35;1mSimonz [Jedi(66)]:[0m maintenance vs heavy industry?[0m
+[10:27] [0m[35;1mSimple [Jedi(45)]:[0m heavy[0m
+[10:28] [0m[35;1mSimonz [Jedi(66)]:[0m maybe because it does two things, so it doesnt do them as[0m
+[10:28] [0m                   well[0m
+[10:28] [0m[35;1mSimonz [Jedi(66)]:[0m dunno[0m
+[10:29] [0m[35;1mSimple [Jedi(45)]:[0m and i have had it for about 8+ hours and it has gain m=no[0m
+[10:29] [0m                   xp[0m
+[10:29] [0m[35;1mSimple [Jedi(45)]:[0m no xp[0m
+[10:29] [0m[35;1mHyuga [Jedi(92)]:[0m did you give it stuff to carry?[0m
+[10:29] [0m[35;1mSimonz [Jedi(66)]:[0m its slow for sure. it can also carry a bit[0m
+[10:30] [0m[35;1mSimonz [Jedi(66)]:[0m i find it procs more often when im not in combat[0m
+[10:30] [0m[35;1mSimple [Jedi(45)]:[0m i have it carrying at max capacity[0m
+[10:31] [0m[35;1mSimonz [Jedi(66)]:[0m so if im going straight through a dungeon it doesnt proc[0m
+[10:31] [0m                   as often as if im mining[0m
+[10:31] [0m[34;1mHex shouts:[0m manifest random![0m
+[10:32] [0m[34;1mRhoenix shouts:[0m manifest deva[0m
+[10:33] [0m[34;1mCrolack shouts:[0m manifest mani/pedi[0m
+[10:36] [0m[34;1mKitt shouts:[0m that was a big D[0m
+[10:36] [0m[34;1mRhoenix shouts:[0m thats what she said[0m
+[10:36] [0m[34;1mNauda shouts:[0m Capital D[0m
+[10:38] [0m[34;1mDin shouts:[0m this new din concerns me[0m
+[10:53] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[11:15] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[11:15] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[11:15] [0m                          get ready![0m
+[11:23] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[11:24] [0m[35;1mBurnaby [Jedi(59)]:[0m yo![0m
+[11:24] [0m[34;1mSpace shouts:[0m desert portal e/4n radioactive[0m
+[11:24] [0m[35;1mChaed [Jedi(AGM)]:[0m oy[0m
+[11:27] [0m[34;1mHex shouts:[0m how do you toggle skills again?[0m
+[11:31] [0m[34;1mSpace shouts:[0m for evasion type evasion, dunno about others[0m
+[11:32] [0m[34;1mEnemy shouts:[0m this one is for the old timers..."type quit skills"..don't[0m
+[11:32] [0m              type that[0m
+[11:33] [0m[34;1mByron shouts:[0m you have to hold alt f4 while you do it[0m
+[11:34] [0m[34;1mCaboose shouts:[0m i do it like this "advance skill reset;y"[0m
+[11:34] [0m[34;1mCaboose shouts:[0m toggles them off REAL good :P[0m
+[11:39] [0m[34;1mThom shouts:[0m fancy fancy. look at all this nice. knowledge :P[0m
+[11:42] [0m[35;1mBurnaby [Jedi(59)]:[0m I can get the 70-89 without too much hassle. not looking[0m
+[11:42] [0m                    forward to 22mil zell at 90[0m
+[11:42] [0m[35;1mBurnaby [Jedi(59)]:[0m wl[0m
+[11:45] [0m[34;1mParzival shouts:[0m that other place has skillnegate - not sure the equivalent[0m
+[11:45] [0m                 exists here[0m
+[11:53] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[11:58] [0m[35;1mWhisper [Jedi(18)]:[0m whats this howl in agony as the force rips through you[0m
+[11:58] [0m                    thing? it killed me...[0m
+[11:58] [0m[35;1mMugen [Jedi(Knight)]:[0m not paying attention, cant script this gobj, itll kill[0m
+[11:58] [0m                      ya[0m
+[11:59] [0m[35;1mMugen [Jedi(Knight)]:[0m should of seen warnings before it happened[0m
+[12:00] [0m[35;1mWhisper [Jedi(18)]:[0m oh ok. i didnt see anything in back log. just that[0m
+[12:00] [0m                    message and boom...[0m
+[12:01] [0m[35;1mWhisper [Jedi(18)]:[0m it wasnt force saturation either...just wondered what it[0m
+[12:01] [0m                    means[0m
+[12:03] [0mYou can currently reforge 12 items.[0m
+[12:31] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[12:40] [0mBaramore flaps : Okay, I'm dumb.  How do I get the fake HK to teach me[0m
+[12:40] [0m                 combat.proficiency.evaluation?[0m
+[12:40] [0mGore flaps : pay him[0m
+[12:40] [0mGlowie flaps : give him 1k coins[0m
+[12:40] [0mVoodoo flaps : remove pants[0m
+[12:40] [0mGilead flaps : pay that man his money[0m
+[12:41] [0mBaramore flaps : Thanks. It doesn't quite work the way I'd expect.[0m
+[12:56] [0m[35;1mLicklick [Jedi(38)]:[0m annnnd im back[0m
+[13:03] [0mYou can currently reforge 12 items.[0m
+[13:04] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[13:20] [0m[35;1mWhisper [Jedi(18)]:[0m whelp, apparently the space in our hpbar line for %[0m
+[13:20] [0m                    values is whats borking me, i gagged everything and it[0m
+[13:20] [0m                    doesnt register until im past 100% force, so i keep[0m
+[13:20] [0m                    dying.[0m
+[13:23] [0m[33;1m[Clan] Martyr :[0m 5 mexican police just circled up a dude outside my room[0m
+[13:23] [0m[33;1m[Clan] Martyr :[0m lol. lets see how this goes[0m
+[13:27] [0mYou can currently reforge 0 items.[0m
+[13:30] [0m[33;1m[Clan] Mud :[0m go yell WORLDSTAR! and film the whole thing[0m
+[13:31] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[13:32] [0m[33;1m[Clan] Martyr :[0m I think Ive seen that one before[0m
+[13:32] [0m[33;1m[Clan] Martyr :[0m I have a good idea how it ends[0m
+[13:33] [0m[33;1m[Clan] Ipsie :[0m lol[0m
+[13:48] [0m[34;1mRoken shouts:[0m closer and closer to 120[0m
+[13:48] [0m[32;1mFrom afar, Enemy claps at you.[0m[0m
+[13:48] [0m[34;1mSpace shouts:[0m grats, but, 120 ? nah 130 is where its at you have wrong info[0m
+[13:48] [0m[32;1mFrom afar, Simonz goes 'Woo Woo!' at you.[0m[0m
+[13:49] [0m[32;1mFrom afar, Xaryl goes 'Woo Woo!' at you.[0m[0m
+[13:49] [0m[34;1mRoken shouts:[0m too bashful to corrwxt myself[0m
+[13:52] [0m[34;1mLeto shouts:[0m ... what ... what happens at 130?[0m
+[13:53] [0m[34;1mRoken shouts:[0m 75 stats to allocate[0m
+[13:53] [0m[34;1mSaim shouts:[0m thats when lightspeed moves to plaid[0m
+[13:53] [0m[34;1mLeto shouts:[0m mmm... nice[0m
+[13:53] [0m[34;1mKitt shouts:[0m thats when you win 3k and wipe[0m
+[13:53] [0m[34;1mLeto shouts:[0m ack. noooo![0m
+[13:54] [0mLeto flaps : so i overheard some people talking about wearin their alts as[0m
+[13:54] [0m             amulets using a string or something. Is that a thing?[0m
+[13:55] [0m[34;1mSpace shouts:[0m 75 stats to allocate yes, but, do note, after 130, each level[0m
+[13:55] [0m              requires about 15 levels worth of exp, so its not a free for[0m
+[13:55] [0m              all, but yes its super nice to have 75 stats to go for rather[0m
+[13:55] [0m              than 5 at a time[0m
+[13:56] [0m[34;1mDisruptor shouts:[0m 21b to lvl131 is a lot less than 15 levels[0m
+[13:56] [0m[32;1mFrom afar, you nod to Space.[0m[0m
+[13:56] [0m[34;1mNeodin shouts:[0m not to mention at this point stats cost crazy amounts of xp?[0m
+[13:56] [0m[34;1mSpace shouts:[0m stats cap out at 2b per around 227 mark[0m
+[13:57] [0m[34;1mLeto shouts:[0m sweeeeet :D[0m
+[13:57] [0m[34;1mNauda shouts:[0m 15 levels? which 15? 1 to 16? 30 to 45?[0m
+[13:57] [0m[34;1mWhisper shouts:[0m 130-145:P[0m
+[13:59] [0m[34;1mThom shouts:[0m i just want to get to 111 XD[0m
+[14:03] [0mYou can currently reforge 4 items.[0m
+[14:04] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[14:28] [0m[35;1mGandalf [Jedi(67)]:[0m sigh, exploring and training flurry doesnt really help[0m
+[14:28] [0m                    xp :P[0m
+[14:28] [0m[35;1mWhisper [Jedi(19)]:[0m good for exploring tho:P[0m
+[14:33] [0m[35;1mHyuga [Jedi(92)]:[0m whats this xp of which you speak[0m
+[14:35] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[15:02] [0m[35;1mSimonz [Jedi(66)]:[0m woot, guide 10![0m
+[15:03] [0m[35;1mSimonz [Jedi(66)]:[0m checked my delta and it was up 7m from previos max lol[0m
+[15:04] [0mYou can currently reforge 8 items.[0m
+[15:04] [0m[35;1mLicklick [Jedi(38)]:[0m nice[0m
+[15:04] [0mnewb Triple [cyborg/72]: how do you keep a mob that killed you that wasn't[0m
+[15:04] [0m                         aggro from killing you again next time you see it[0m
+[15:04] [0m[35;1mHyuga [Jedi(92)]:[0m woo you are bs now[0m
+[15:05] [0mnewb Triple [cyborg/72]: I.E. my freaking guild implant mob[0m
+[15:05] [0mnewb Inix [juggernaut/138]: Avoid it, have someone else kill it, or quit and[0m
+[15:05] [0m                            reconnect.[0m
+[15:05] [0mnewb Skyblade [sorcerer/56]: quit[0m
+[15:05] [0mnewb Triple [cyborg/72]: doesn't quitting drop all your stuff?[0m
+[15:06] [0mnewb Bink [fremen/65]: no[0m
+[15:06] [0mnewb Inix [juggernaut/138]: Yes.[0m
+[15:06] [0mnewb Bro [necromancer/73]: I think stuff autoloads if you're low enoug level[0m
+[15:06] [0m[35;1mSimonz [Jedi(66)]:[0m relog and go pick it back up[0m
+[15:06] [0mnewb Inix [juggernaut/138]: 72 is not low enough, 60 and below is.[0m
+[15:06] [0mnewb Triple [cyborg/72]: lots of conflicting info :D[0m
+[15:06] [0m[35;1mSimonz [Jedi(66)]:[0m w[0m
+[15:06] [0mnewb Simonz [jedi/124]: relog and go pick it back up[0m
+[15:06] [0mnewb Gaidin [elemental/131]: Level 60 and under, most equipment will[0m
+[15:06] [0m                             autoload[0m
+[15:06] [0mnewb Parzival [angel/62]: quitting will drop all your stuff - make sure you[0m
+[15:06] [0m                          do so in a safe room or, better, put it in a box[0m
+[15:07] [0mnewb Triple [cyborg/72]: *sigh* alright then[0m
+[15:08] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[15:10] [0m[32mSimonz tells you:[0m new delta of 120m in hotel[0m
+[15:15] [0m[34;1mNauda shouts:[0m Dis dis dis[0m
+[15:15] [0m[34;1mNauda shouts:[0m Can you dis this?[0m
+[15:16] [0m[34;1mInix shouts:[0m New shout, who dis?[0m
+[15:18] [0m[34;1mParzival shouts:[0m buff[0m
+[15:29] [0mnewb Parzival [angel/62]: are qps no longer shared across alts? ie I have 1[0m
+[15:29] [0m                          alt that's a crusader but I'm just a champion?[0m
+[15:29] [0mnewb Whisper [jedi/133]: marbles are not shared...[0m
+[15:29] [0mnewb Martyr [gentech/111]: Some things (marbles) are not.[0m
+[15:30] [0mnewb Parzival [angel/62]: ahh ok - I'm 2 QP shy of crusader so that must be[0m
+[15:30] [0m                          it :D[0m
+[15:31] [0mnewb Parzival [angel/62]: any obvious reason why I can't access the hm line?[0m
+[15:31] [0m                          I can hmwho, hmcheck, hmheal, etc but not the[0m
+[15:31] [0m                          actual chatline[0m
+[15:31] [0mnewb Whisper [jedi/133]: hm on?[0m
+[15:31] [0mnewb Inix [juggernaut/138]: Well, there goes the secret to the hm-line quest[0m
+[15:31] [0mnewb Parzival [angel/62]: hm on did it - thanks :D[0m
+[15:32] [0mNeodin <Craft>: is there any NPC or shop that buys components or items by[0m
+[15:32] [0m                any chance?[0m
+[15:32] [0mInix <Craft>: You can put them up for sale near the entrance to the crafting[0m
+[15:32] [0m              area[0m
+[15:32] [0mInix <Craft>: Or donate them in the box located there[0m
+[15:32] [0mInix <Craft>: Or sell them normally to any shop, also they don't pay well[0m
+[15:32] [0m              for them.[0m
+[15:33] [0mInix <Craft>: although*[0m
+[15:33] [0mNeodin <Craft>: they're crappy creations to raise my skills, so no chance of[0m
+[15:33] [0m                getting sold in that shop :)[0m
+[15:33] [0mInix <Craft>: I'd just sell the fodder to Cancer, or any other close shop[0m
+[15:33] [0m              you have on hand.[0m
+[15:33] [0mNeodin <Craft>: aha, thanks.[0m
+[15:33] [0mInix <Craft>: or donate to your guild, if it'll accept it.[0m
+[15:33] [0mWhisper <Craft>: better off keeping the fragments/essence and combining them[0m
+[15:33] [0m                 into hearts and selling them via craft cosignment office or[0m
+[15:33] [0m                 on the auction line.[0m
+[15:34] [0mInix <Craft>: Think Neodin is talking about items that have been smithed.[0m
+[15:34] [0mInix <Craft>: 'creations'[0m
+[15:34] [0mNeodin <Craft>: yeah, haven't used any of those yet, although I have only[0m
+[15:34] [0m                gotten 1 fragment so far:( I hope it changes at higher[0m
+[15:34] [0m                levels.[0m
+[15:34] [0mNeodin <Craft>: yes[0m
+[15:35] [0mInix <Craft>: Nod, frags and essences drop pretty regularly.  They were[0m
+[15:35] [0m              given a boost not too long ago.[0m
+[15:35] [0mWhisper <Craft>: ohhh sorry. well in that case yeah, can donate to box, or[0m
+[15:35] [0m                 newbie bin, or try and auction them:P[0m
+[15:35] [0m[34;1mVilgan shouts: [0mArgh, I'm dying!  Trout is a meany![0m
+[15:35] [0mSkyblade <Craft>: can't you combine smaller things to make bigger ones? why[0m
+[15:35] [0m                  sell any?[0m
+[15:36] [0mSkyblade <Craft>: or am I mixing that up with something else[0m
+[15:37] [0mInix <Craft>: You can't combine copper greaves or whatever, he's wanting to[0m
+[15:37] [0m              sell end products, not components.[0m
+[15:37] [0mParzival <Craft>: I always dump them in my guild junk box[0m
+[15:37] [0mSkyblade <Craft>: ah, I derp it now[0m
+[15:37] [0mParzival <Craft>: although, I have learned to stop crafting junk for cxp and[0m
+[15:37] [0m                  focus more on crafting fewer higher quality things.[0m
+[15:38] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[15:38] [0mSimonz <Craft>: nod, you get far more cxp for higher quality items[0m
+[15:38] [0mParzival <Craft>: get a ton more cxp per item and it means I can just dump[0m
+[15:38] [0m                  any raw materials less than good or so[0m
+[15:50] [0m[37;1mSimonz <.oO>:[0m anyone planning/willing to reset hotel anytime soon?[0m
+[15:52] [0m[37;1mSpace <.oO>:[0m BOOM![0m
+[15:55] [0m[34;1mSomeone shouts: ICE CREAAAAM!![0m[0m
+[15:55] [0mYou can currently reforge 0 items.[0m
+[16:06] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[16:07] [0mnewb Neodin [mage/49]: is it possible to manipulate all items with the same[0m
+[16:07] [0m                       keyword or type? I mean can I get or drop all items[0m
+[16:07] [0m                       with the keyword sword for example?[0m
+[16:08] [0mnewb Rictor [monk/138]: No, not really.  You could do a keep all, then[0m
+[16:08] [0m                        unkeep all sword, then drop all[0m
+[16:08] [0mnewb Rictor [monk/138]: But there isn't a drop all sword command[0m
+[16:08] [0mnewb Neodin [mage/49]: ok, thanks.[0m
+[16:27] [0m[34;1mHex shouts:[0m ppppeeeww, you eat pickled eggs before that belch?[0m
+[16:27] [0m[34;1mSaim shouts:[0m i eat pickled eggs before i fight beloch[0m
+[16:28] [0mUkyo <Craft>: ok, putting this out here for everyone to know why i just[0m
+[16:28] [0m              posed. testing. Legendary gem of standard spirit: Baked in[0m
+[16:28] [0m              gives 3sp/rnd. Gemchanted gives only 1 sp/round[0m
+[16:28] [0mUkyo <Craft>: you're welcome[0m
+[16:28] [0mWhisper <Craft>: meowly?![0m
+[16:34] [0m[32mVoodoo tells you:[0m If you want my botty and you think I'm sessy. Come on[0m
+[16:34] [0m        Roken let me know.[0m
+[16:34] [0mYou can currently reforge 4 items.[0m
+[16:36] [0m[34;1mNauda shouts:[0m Voodoo booty, please behave[0m
+[16:37] [0m[34;1mLeto shouts:[0m it was PG ... botty[0m
+[16:37] [0m[34;1mGilead shouts:[0m botty mouth[0m
+[16:38] [0m[34;1mTex shouts:[0m i'll you know the answer is no oh look, a comma and a rhyme[0m
+[16:38] [0m            voodoo wears pants that is all[0m
+[16:39] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[16:39] [0m[34;1mHex shouts:[0m if I ignore you, what does that mean?[0m
+[16:39] [0m[34;1mMud shouts:[0m peace[0m
+[16:40] [0m[34;1mCaboose shouts:[0m you have sense?[0m
+[16:40] [0m[34;1mSkyblade shouts:[0m if you are ignore bad, happy comes again[0m
+[16:41] [0m[34;1mKitt shouts:[0m if i wanted to let you know. ill just call your phone number[0m
+[16:45] [0m[34;1mWhisper shouts:[0m can we have voodoo renamed to rictor's alt?[0m
+[16:46] [0m[34;1mRictor shouts:[0m Voodoo already is my alt[0m
+[16:46] [0m[32;1mFrom afar, you raise an eyebrow at Voodoo.[0m[0m
+[16:47] [0m[34;1mKitt shouts:[0m you mean Heart[0m
+[16:50] [0m[34;1mHex shouts:[0m tyvm[0m
+[16:51] [0m[34;1mLeto shouts:[0m 234?[0m
+[16:52] [0m[34;1mLeto shouts:[0m i mean 294[0m
+[16:52] [0m[34;1mFlaxen shouts:[0m wastin time[0m
+[16:52] [0m[34;1mFlaxen shouts:[0m in the waitin line[0m
+[16:52] [0m[34;1mFlaxen shouts:[0m do you believe[0m
+[16:52] [0m[34;1mFlaxen shouts:[0m this ice cream is free[0m
+[16:52] [0m[34;1mInix shouts:[0m I believe your shouttimer is too low.[0m
+[16:54] [0m[34;1mLeto shouts:[0m sings, do you beliiiieve in life after love...[0m
+[16:56] [0m[34;1mDin shouts:[0m no[0m
+[16:56] [0mUkyo <Craft>: Flaxen. You need to unbork spirit gems. just tested two[0m
+[16:56] [0m              gems(courtesy  of Disruptor for the major). Legendary gem of[0m
+[16:56] [0m              standard spirit, and superior gem of major spirit. both[0m
+[16:56] [0m              gemchanted. gives 1sp/round. baked in may be different, and if[0m
+[16:56] [0m              this is 'working as intended', could you let us know, because[0m
+[16:56] [0m              that's some xanky stuff.[0m
+[16:57] [0mUkyo <Craft>: both gems give 1 sp/rnd. stepping up from standard to major,[0m
+[16:57] [0m              even gemchanted, we were expecting some daylight in between[0m
+[16:57] [0m              the two. but alas, it wasn't to be. it should be. don't you[0m
+[16:57] [0m              think?[0m
+[17:08] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[17:09] [0m[34;1mNauda shouts:[0m Bless you[0m
+[17:09] [0m[34;1mLlyandren shouts:[0m You're so good looking[0m
+[17:09] [0m[34;1mHex shouts:[0m gaaa, use your elbow![0m
+[17:10] [0m[34;1mLeto shouts:[0m ga-zoon-tight[0m
+[17:19] [0mNeodin <Craft>: what do C and W stand for when viewing the contents of a[0m
+[17:19] [0m                satchel?[0m
+[17:19] [0mHex <Craft>: crude worthless[0m
+[17:19] [0mNeodin <Craft>: oh, thanks.[0m
+[17:20] [0mUkyo <Craft>: crude and worthless are technically still there, but they[0m
+[17:20] [0m              won't drop any more. so, more a grandfathered thing.[0m
+[17:21] [0mNeodin <Craft>: oh, was curious why I haven't gotten anything with those[0m
+[17:21] [0m                qualities.[0m
+[17:21] [0mUkyo <Craft>: you can still crack a gem and end up with one crude or[0m
+[17:21] [0m              worthless, but more likely they'll shatter, since you'd have[0m
+[17:21] [0m              to start from poor to end up there, and who would do that?[0m
+[17:23] [0mUkyo <Craft>: also, something to keep in mind when leveling up[0m
+[17:23] [0m              enchanting/wrangling/blacksmithing/cooking, quality matters.[0m
+[17:23] [0m              more quality, more craft xp, or cxp, as we abbreviate it.[0m
+[17:31] [0mNeodin <Craft>: oh, no kidding! I got 7 enchanting levels from a superior[0m
+[17:31] [0m                gem.[0m
+[17:31] [0mSimonz <Craft>: yup[0m
+[17:32] [0mSimonz <Craft>: you'd have gotten even more if it was legendary[0m
+[17:32] [0mNeodin <Craft>: too bad I the fragment was good, the rest wer  legendary[0m
+[17:32] [0mEnemy <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[17:33] [0mNeodin <Craft>: someone make him an axe please :P[0m
+[17:34] [0mYou can currently reforge 8 items.[0m
+[17:38] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[17:38] [0m[32;1m <Congratulations!>[0m : Ranautos has become a miner![0m
+[17:38] [0m[32;1m <Congratulations!>[0m : Ranautos has become a blacksmith![0m
+[17:40] [0m[33;1m[Clan] Ser :[0m woo just got new keyboard for laptop[0m
+[17:40] [0m[33;1m[Clan] Ser :[0m no more broken shift key[0m
+[17:40] [0m[33;1m[Clan] Archangel :[0m Woo!![0m
+[17:45] [0mNeodin <Craft>: more noob questions, is there a way to see what a gem adds[0m
+[17:45] [0m                to an item? I just added a blades aggression to a weapon,[0m
+[17:45] [0m                but the effects don't show with identify, only says[0m
+[17:45] [0m                gemchanted with x[0m
+[17:45] [0mSimonz <Craft>: check the wiki[0m
+[17:45] [0mSimonz <Craft>: it's all documented there as to what gems do what[0m
+[17:47] [0m[33;1m[Clan] Ser :[0m anyone want to do day 5[0m
+[17:48] [0m[33;1m[Clan] Archangel :[0m We're up for it.[0m
+[17:48] [0m[33;1m[Clan] Archangel :[0m Just need a tank.[0m
+[17:48] [0mUkyo <Craft>: when it comes to gems to bake into a weapon, aggression gems[0m
+[17:48] [0m              are best.[0m
+[17:49] [0m[33;1m[Clan] Archangel :[0m Anyone know if ewell gives a message or prevents you from[0m
+[17:49] [0m                   using it if an ewell is already present?[0m
+[17:56] [0m[33;1m[Clan] Ser :[0m i dont think it prevents you[0m
+[17:56] [0m[33;1m[Clan] Ser :[0m but i'm not 100% sure, sorry trying to get my trackpoint[0m
+[17:56] [0m             working[0m
+[17:57] [0m[33;1m[Clan] Archangel :[0m S'all good.[0m
+[17:57] [0m[33;1m[Clan] Archangel :[0m Thanks[0m
+[17:58] [0m[34;1mWhisper shouts:[0m meowdin died folks, and yes it was a toad that did him in:([0m
+[18:00] [0m[33;1m[Clan] Mud :[0m pretty sure I've lost a few ewells to multiple folks doing it[0m
+[18:00] [0m             at once[0m
+[18:01] [0m[33;1m[Clan] Martyr :[0m It doesnt prevent it. 2 ewells in room[0m
+[18:01] [0m[33;1m[Clan] Martyr :[0m or 3[0m
+[18:01] [0m[33;1m[Clan] Martyr :[0m or 4[0m
+[18:01] [0m[33;1m[Clan] Mud :[0m true[0m
+[18:01] [0m[33;1m[Clan] Archangel :[0m Any benefit to that?[0m
+[18:01] [0m[33;1m[Clan] Xaryl :[0m that sucks[0m
+[18:01] [0m[33;1m[Clan] Martyr :[0m nada[0m
+[18:01] [0m[33;1m[Clan] Martyr :[0m wasted ewells[0m
+[18:01] [0m[33;1m[Clan] Archangel :[0m Indeed[0m
+[18:02] [0m[33;1m[Clan] Mud :[0m not sure if day5 is still going down, but I'd be interested.  [0m
+[18:02] [0m             Though about to leave work.  home in 15ish[0m
+[18:02] [0m[34;1mNeodin shouts:[0m it was an uprising :([0m
+[18:02] [0m[33;1m[Clan] Ser :[0m i am harassing nix[0m
+[18:04] [0m[33;1m[Clan] Mud :[0m i could maybe tank if needed.  have guacs.  solo'd day3 once[0m
+[18:04] [0m             without trouble[0m
+[18:04] [0m[33;1m[Clan] Xaryl :[0m and I can heal[0m
+[18:05] [0m[33;1m[Clan] Xaryl :[0m I am scared of day 5[0m
+[18:05] [0m[33;1m[Clan] Xaryl :[0m tanked day 4, but was VERY ouchy[0m
+[18:05] [0m[33;1m[Clan] Mud :[0m though id feel bad if i caused everyone to die[0m
+[18:05] [0m[33;1m[Clan] Mud :[0m even if the kill pays off all death debt :P[0m
+[18:05] [0m[33;1m[Clan] Mud :[0m headed home here.  back in 10-15ish[0m
+[18:07] [0m[33;1m[Clan] Martyr :[0m i can tank it, nix is afkish[0m
+[18:08] [0m[33;1m[Clan] Ser :[0m @byron you know who has OG?[0m
+[18:08] [0m[33;1m[Clan] Martyr :[0m nfi[0m
+[18:09] [0m[33;1m[Clan] Ser :[0m i'm going to guess space[0m
+[18:10] [0m[33;1m[Clan] Byron :[0m want me to tank or no?[0m
+[18:11] [0m[33;1m[Clan] Ser :[0m yah[0m
+[18:11] [0m[33;1m[Clan] Archangel :[0m Would greatly appreciate it. :D[0m
+[18:11] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[18:13] [0m[33;1m[Clan] Byron :[0m someone able to reforge coon?[0m
+[18:13] [0m[33;1m[Clan] Byron :[0m and auro w loads[0m
+[18:14] [0m[33;1m[Clan] Xaryl :[0m I can[0m
+[18:15] [0m[33;1m[Clan] Byron :[0m ok. bat?[0m
+[18:15] [0m[33;1m[Clan] Xaryl :[0m we are E of him[0m
+[18:16] [0m[33;1m[Clan] Ser :[0m omw[0m
+[18:16] [0m[33;1m[Clan] Byron :[0m anyone else[0m
+[18:16] [0m[33;1m[Clan] Ser :[0m i can ask hm[0m
+[18:17] [0m[33;1m[Clan] Byron :[0m just us 4?[0m
+[18:17] [0m[33;1m[Clan] Ser :[0m if you'd like[0m
+[18:27] [0m[33;1m[Clan] Mud :[0m home now.  need a sec to let dog out and id be redy whenever[0m
+[18:27] [0m[33;1m[Clan] Archangel :[0m Possibly, been a lot of corpse usage.[0m
+[18:28] [0m[33;1m[Clan] Archangel :[0m We may be doing another anyway, partymate didn't get tag.[0m
+[18:29] [0m[33;1m[Clan] Archangel :[0m oh[0m
+[18:31] [0m[33;1m[Clan] Ser :[0m so who has og[0m
+[18:31] [0m[33;1m[Clan] Archangel :[0m Oh.. no idea[0m
+[18:33] [0m[33;1m[Clan] Mud :[0m another round going down?[0m
+[18:34] [0m[33;1m[Clan] Ser :[0m oh sorry mud[0m
+[18:34] [0m[33;1m[Clan] Mud :[0m or am i outta luck too?[0m
+[18:34] [0m[33;1m[Clan] Byron :[0m i can do another[0m
+[18:35] [0m[33;1m[Clan] Ser :[0m roken[0m
+[18:35] [0m[32;1mFrom afar, Ser pokes you in the ribs.[0m[0m
+[18:35] [0m[33;1m[Clan] Archimedes :[0m I'll be back there as soon as I finish these sac[0m
+[18:35] [0m                    spiders.[0m
+[18:35] [0m[33;1m[Clan] Byron :[0m lets give it 15 mins[0m
+[18:35] [0m[33;1m[Clan] Ser :[0m gonna try and get roken to come too[0m
+[18:35] [0m[32;1mFrom afar, Ser shouts 'WAKE UP!' at you. (at 6:35 pm)[0m[0m
+[18:35] [0m[33;1m[Clan] Byron :[0m i want to finish off my HA in hotel[0m
+[18:35] [0m[33;1m[Clan] Byron :[0m and can get more people[0m
+[18:35] [0m[33;1m[Clan] Mud :[0m No prob[0m
+[18:36] [0m[33;1m[Clan] Archimedes :[0m Okay, I'll stay on as this toon until then.[0m
+[18:36] [0m[33;1m[Clan] Mud :[0m missed out on day7 tag last boot.  couldnt get enough folks[0m
+[18:36] [0m             together[0m
+[18:36] [0m[33;1m[Clan] Archimedes :[0m Was last boot even 7 days long?[0m
+[18:36] [0m[33;1m[Clan] Mud :[0m err, one before that.  i didnt even bother last boot[0m
+[18:37] [0m[33;1m[Clan] Mud :[0m my fault for sleeping in though[0m
+[18:37] [0m[33;1m[Clan] Ser :[0m grr my new spacebar is feeling weird[0m
+[18:38] [0m[33;1m[Clan] Ser :[0m hard to press from just the right side[0m
+[18:38] [0m[33;1m[Clan] Ser :[0m think i just need to work it more[0m
+[18:38] [0m[33;1m[Clan] Mud :[0m break er in[0m
+[18:38] [0m[33;1m[Clan] Byron :[0m spit on it[0m
+[18:39] [0m[33;1m[Clan] Ser :[0m no[0m
+[18:39] [0m[33;1m[Clan] Byron :[0m fucking prude[0m
+[18:41] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[18:43] [0m[35;1mJasmine [Jedi(Knight)]:[0m hmmm 1 to 7 odds, we can take these lighties[0m
+[18:43] [0m[35;1mSimonz [Jedi(66)]:[0m bring it[0m
+[18:43] [0m[35;1mJasmine [Jedi(Knight)]:[0m i already stabbitied ukyo[0m
+[18:43] [0m[35;1mUkyo [Jedi(Knight)]:[0m Want some, come get some.[0m
+[18:44] [0m[35;1mSimonz [Jedi(66)]:[0m of course, to bring it you'd have to actually leave town,[0m
+[18:44] [0m                   since we're all out xping ;)[0m
+[18:44] [0m[33;1m[Clan] Mud :[0m kitt/sleepy/I are already 1e of FB room[0m
+[18:45] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Excuse me.  I'm flurrying for fdef.  It's gxping.[0m
+[18:45] [0m                           The xp is trash.[0m
+[18:45] [0m[35;1mSimonz [Jedi(66)]:[0m *p-ing[0m
+[18:45] [0mYou can currently reforge 12 items.[0m
+[18:45] [0m[35;1mUkyo [Jedi(Knight)]:[0m it's trash for now. until you master it. at which point[0m
+[18:45] [0m                     it's only about 1/3rd what you'd get with guide. i[0m
+[18:45] [0m                     think.[0m
+[18:46] [0m[35;1mUkyo [Jedi(Knight)]:[0m which is about the same as melee or h2h[0m
+[18:46] [0m[35;1mUkyo [Jedi(Knight)]:[0m and it only gets better as normal increases[0m
+[18:47] [0m[35;1mInquisitor [Jedi(Knight)]:[0m I'm using daggers so I'm at all of 6/6.  It's[0m
+[18:47] [0m                           pretty wimpy.  Unless I dissipate, and then it's[0m
+[18:47] [0m                           spammy and wimpy.[0m
+[18:48] [0m[35;1mUkyo [Jedi(Knight)]:[0m sounds about par for the course[0m
+[18:50] [0m[33;1m[Clan] Ser :[0m brt[0m
+[18:50] [0m[33;1m[Clan] Archimedes :[0m Guys about to start?[0m
+[18:52] [0m[35;1mUkyo [Jedi(Knight)]:[0m yea, you're sour cream > your current gobj.[0m
+[18:52] [0m[33;1m[Clan] Ser :[0m tryna watch spiderman far from home[0m
+[18:52] [0m[33;1m[Clan] Mud :[0m what size is day5?  750m?[0m
+[18:52] [0m[34;1mKitt shouts:[0m creamy[0m
+[18:52] [0m[33;1m[Clan] Mud :[0m think byron would head over after his HA finishes[0m
+[18:53] [0m[33;1m[Clan] Archimedes :[0m HA?[0m
+[18:53] [0m[33;1m[Clan] Byron :[0m ya[0m
+[18:53] [0m[33;1m[Clan] Mud :[0m heightened awareness.  took me a few mins at first to realize[0m
+[18:53] [0m             what it was[0m
+[18:53] [0m[33;1m[Clan] Byron :[0m im ready[0m
+[18:54] [0m[33;1m[Clan] Byron :[0m heightened awareness = ha[0m
+[18:54] [0m[33;1m[Clan] Archimedes :[0m brt after this rimalkin[0m
+[18:54] [0m[33;1m[Clan] Archimedes :[0m Gotcha, thanks.[0m
+[18:54] [0m[33;1m[Clan] Byron :[0m great power if you can bank the xp[0m
+[18:54] [0m[33;1m[Clan] Ser :[0m HA[0m
+[18:55] [0m[33;1m[Clan] Mud :[0m we got 6x here already[0m
+[18:55] [0m[32;1mFrom afar, Ser shouts 'WAKE UP!' at you. (at 6:55 pm)[0m[0m
+[18:55] [0m[32mSer tells you:[0m you're going to miss day 5 cmc[0m
+[18:55] [0m[33;1m[Clan] Mud :[0m i assume we can just refresh room to respawn?[0m
+[18:55] [0m[33;1m[Clan] Xaryl :[0m nod[0m
+[18:55] [0m[33;1m[Clan] Ser :[0m yah[0m
+[18:55] [0m[33;1m[Clan] Byron :[0m yep[0m
+[18:56] [0m[33;1m[Clan] Byron :[0m what is path from door?[0m
+[18:56] [0m[33;1m[Clan] Byron :[0m going to make an alias[0m
+[18:57] [0m[33;1m[Clan] Mud :[0m e,e,n,n,w,w,n,n,n,w,w,n,w[0m
+[19:00] [0m[32mSer tells you:[0m you missed it[0m
+[19:00] [0m[32mSer tells you:[0m bitch[0m
+[19:02] [0m[33;1m[Clan] Ser :[0m fkin priests getting kb[0m
+[19:02] [0m[33;1m[Clan] Xaryl :[0m FLEX![0m
+[19:05] [0m[33;1m[Clan] Xaryl :[0m coon cannot be dupped?[0m
+[19:06] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[19:09] [0m[33;1m[Clan] Ser :[0m negative batman[0m
+[19:11] [0m[33;1m[Clan] Mud :[0m is the OG day5 still unknown?[0m
+[19:11] [0m[33;1m[Clan] Ser :[0m correct[0m
+[19:11] [0m[33;1m[Clan] Xaryl :[0m nod :([0m
+[19:11] [0m[33;1m[Clan] Xaryl :[0m I hope not gore![0m
+[19:12] [0m[33;1m[Clan] Mud :[0m lemme ask[0m
+[19:13] [0m[33;1m[Clan] Mud :[0m he said maybe nauda[0m
+[19:13] [0m[33;1m[Clan] Mud :[0m who is 3min LD[0m
+[19:14] [0m[32mYou tell Ser:[0m missed what[0m
+[19:28] [0m[34;1mJasmine shouts:[0m PLAYCULT! Join now and kill Nik![0m
+[19:31] [0mMud flaps : anyone know who may have the original day5?  believe a handful[0m
+[19:31] [0m            of folks tagged now that would love you long time for a copy[0m
+[19:33] [0m[32mSer tells you:[0m cmc bitch[0m
+[19:36] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[19:45] [0mYou can currently reforge 12 items.[0m
+[19:45] [0mnewb Erol [elemental/23]: when creating an alias is there a character that[0m
+[19:45] [0m                          will allow you to stack the commands? Like alias[0m
+[19:45] [0m                          kb kill bob([0m
+[19:46] [0mnewb Erol [elemental/23]: alias kb kill bob(special character[0m
+[19:46] [0mnewb Gaidin [elemental/131]: No, not on mudside aliases[0m
+[19:46] [0mnewb Erol [elemental/23]: Ok thanks[0m
+[19:47] [0mnewb Gaidin [elemental/131]: Elementals have perform (info perform) that[0m
+[19:47] [0m                             will execute one command per round, otherwise[0m
+[19:47] [0m                             you need to use a mud alias to stack commands[0m
+[19:47] [0mnewb Skyblade [sorcerer/56]: am I misunderstanding the use of the word[0m
+[19:47] [0m                             stack? you want to stack kill bob?[0m
+[19:48] [0mnewb Ukyo [jedi/114]: stacking commands is, for the most part, done client[0m
+[19:48] [0m                      side.[0m
+[19:48] [0mnewb Gaidin [elemental/131]: Unless you're a necro.  Command stacking is[0m
+[19:48] [0m                             thier superpower.[0m
+[19:48] [0mnewb Disruptor [elemental/122]: he uses a mac ... probably havent released[0m
+[19:48] [0m                                stacked commands yet...too cutting edge[0m
+[19:48] [0mnewb Ukyo [jedi/114]: there are some very specific exceptions, but rule of[0m
+[19:48] [0m                      thumb, if you want to stack, you're going to have to[0m
+[19:48] [0m                      do it client side[0m
+[19:49] [0mnewb Erol [elemental/23]: Ok thanks Gaiden. No I just kept accidentally[0m
+[19:49] [0m                          pressing enter before I finished explaining.[0m
+[19:49] [0m                          Basically was asking could I add an alias that[0m
+[19:49] [0m                          triggered multiple commands like kill bob and cast[0m
+[19:49] [0m                          'x' spell or something.[0m
+[19:49] [0mnewb Disruptor [elemental/122]: accidently pressed eneter...thats the mac[0m
+[19:49] [0m                                revolting[0m
+[19:50] [0mnewb Simonz [jedi/124]: yes, Macs are revolting[0m
+[19:50] [0mnewb Erol [elemental/23]: Lol Disruptor.. yes. Theres macro and trigger[0m
+[19:50] [0m                          capabilities so I'm trying to figure those out.[0m
+[19:50] [0m                          Was looking for an easy way out via the MUD side.[0m
+[19:50] [0mnewb Skyblade [sorcerer/56]: ah yeah, that's a guild ability - like priests[0m
+[19:50] [0m                             have hplan and hplan2[0m
+[19:50] [0mnewb Gaidin [elemental/131]: As a mental, there's not much to do in combat.[0m
+[19:51] [0mnewb Skyblade [sorcerer/56]: not sure why they dole it out like that. I've[0m
+[19:51] [0m                             been on muds where it was just a "do" command,[0m
+[19:51] [0m                             do thing1, thing2, thing3, etc[0m
+[19:51] [0mnewb Gaidin [elemental/131]: You've got preservation which you usually use[0m
+[19:51] [0m                             to heal, and perform which you usually use to[0m
+[19:51] [0m                             energy drain[0m
+[19:52] [0mnewb Erol [elemental/23]: I'd have an easier way of it if my client didn't[0m
+[19:52] [0m                          use an option key plus enter to stack commands. My[0m
+[19:52] [0m                          JMC client long ago had the ; key as default to[0m
+[19:52] [0m                          stack and it worked out much better.[0m
+[19:53] [0mnewb Sorrow [fremen/61]: on the lostsouls mud, you can use aliases 5[0m
+[19:53] [0m                         commands deep or if you plan you can do 4 commands[0m
+[19:53] [0m                         and another alias of 4 with a 5th command for yet[0m
+[19:53] [0m                         another alias[0m
+[19:53] [0mnewb Erol [elemental/23]: Nice.[0m
+[19:53] [0mnewb Glowie [priest/60]: what client are you using? sometimes yu can change[0m
+[19:53] [0m                         the command[0m
+[19:53] [0mnewb Erol [elemental/23]: Savitar[0m
+[19:54] [0mnewb Disruptor [elemental/122]: that sounds like a neat name fir a player[0m
+[19:54] [0mnewb Glowie [priest/60]: never heard of it but i think all clients ive used[0m
+[19:54] [0m                         allow you to change the separator command.[0m
+[19:54] [0mnewb Glowie [priest/60]: might be something worth looking into to see if[0m
+[19:54] [0m                         your client has that ability.[0m
+[19:59] [0m[37;1mFluffy <.oO>:[0m yew gogurl![0m
+[20:00] [0m[37;1mMud <.oO>:[0m gogurt[0m
+[20:01] [0m[34;1mJasmine shouts:[0m PLAYCULT! One more needed, join and kill Nik![0m
+[20:14] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[20:28] [0mSkyblade <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[20:37] [0m[34;1mFluffy shouts:[0m big and simple, just how we like it![0m
+[20:40] [0m[34;1mGlowie shouts:[0m yall don't even know -- vagrant has the gud stuffs![0m
+[20:43] [0mnewb Skyblade [sorcerer/56]: Does anyone know what the taco shell you fight[0m
+[20:43] [0m                             in the taco area ID's as? because I can only[0m
+[20:43] [0m                             look a the room description's "look at taco"[0m
+[20:44] [0mnewb Glowie [priest/60]: shell[0m
+[20:44] [0mnewb Skyblade [sorcerer/56]: nope. same with lettuce I guess[0m
+[20:44] [0mnewb Glowie [priest/60]: and ingredient works for all[0m
+[20:44] [0m[34;1mFluffy shouts:[0m old farts of the mud unite![0m
+[20:44] [0mnewb Glowie [priest/60]: you "grab shell"[0m
+[20:44] [0mnewb Skyblade [sorcerer/56]: that's the item that drops, I meant the mob[0m
+[20:44] [0m[34;1mSimonz shouts:[0m get off my ... dungeon?[0m
+[20:44] [0mnewb Fluffy [changeling/134]: hey i told you to stop 'fondling' me when i'm[0m
+[20:44] [0m                              in turtle form![0m
+[20:45] [0mnewb Glowie [priest/60]: you like it[0m
+[20:45] [0mnewb Fluffy [changeling/134]: oh wait .. i like it[0m
+[20:45] [0mnewb Glowie [priest/60]: *wink*[0m
+[20:48] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[20:59] [0m[33;1m[Clan] Mud :[0m it was vaggy[0m
+[20:59] [0mVagrant flaps : ss for day 5 cmc dupe if you have tag etcs[0m
+[20:59] [0m[34;1mVagrant shouts:[0m ss for day 5 cmc dupe if you have tag etcs[0m
+[20:59] [0mWhoknows flaps : :([0m
+[21:00] [0m[37;1mUkyo <.oO>:[0m since eternals are the only ones with dupe capabilities,[0m
+[21:00] [0m            wouldn't it be logical to post that message here?[0m
+[21:00] [0mSkyblade flaps : what does that mean in newbie?[0m
+[21:00] [0m[37;1mVagrant <.oO>:[0m nog that would make sense! but i have nevre watched this[0m
+[21:00] [0m               channel or have it ansi'ed so i barely see any chatter here[0m
+[21:01] [0m[37;1mUkyo <.oO>:[0m background cyan i think is what mine is[0m
+[21:01] [0m[37;1mVagrant <.oO>:[0m whats the line name?[0m
+[21:01] [0mWhoknows flaps : means you can't touch this, get bent[0m
+[21:01] [0m[33;1m[Clan] Byron :[0m anyone able to reforge cmc[0m
+[21:01] [0m[37;1mVagrant <.oO>:[0m actually s it, not gonna start watching this channel[0m
+[21:02] [0m[37;1mUkyo <.oO>:[0m eternal_main[0m
+[21:02] [0mWhoknows flaps : play harder[0m
+[21:02] [0m[33;1m[Clan] Mud :[0m ive got 2x free in a moment, about to do fluffys[0m
+[21:02] [0m[33;1m[Clan] Xaryl :[0m want me to reforge it Byron?[0m
+[21:02] [0m[33;1m[Clan] Byron :[0m woo ya[0m
+[21:03] [0m[33;1m[Clan] Byron :[0m at cbox[0m
+[21:03] [0m[33;1m[Clan] Byron :[0m xaryl got me[0m
+[21:03] [0mGlowie flaps : sad how much #truth there is in WKs translation[0m
+[21:04] [0m[33;1m[Clan] Mud :[0m okedoke[0m
+[21:04] [0mSkyblade flaps : Thanks everyone, is that a unique area? I mean, I know how[0m
+[21:04] [0m                 the scalers work.[0m
+[21:09] [0mGaidin flaps : It's from an area which gets harder the longer you are in to[0m
+[21:09] [0m               boot.  You have to do a certain amount of damage to get[0m
+[21:09] [0m               tagged and then you can wear the CMC[0m
+[21:10] [0mGaidin flaps : They were saying that they have the day 5 version of the CMC[0m
+[21:10] [0m               and are at Surreal Spirits if you got the tag (i.e. did[0m
+[21:10] [0m               enough damage) and want to copy the armor.[0m
+[21:13] [0mUkyo flaps : but the only people that can copy the armor are eternals, ie:[0m
+[21:13] [0m             level 111+. and, probably, you'd need to be 130+ to do the[0m
+[21:13] [0m             damage required in the first place.[0m
+[21:14] [0m[33;1m[Clan] Ser :[0m anyone get day 5?[0m
+[21:14] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[21:14] [0m[33;1m[Clan] Ser :[0m or find out who had it?[0m
+[21:14] [0m[33;1m[Clan] Martyr :[0m vagrant at ss[0m
+[21:14] [0m[33;1m[Clan] Martyr :[0m or was[0m
+[21:14] [0m[33;1m[Clan] Martyr :[0m go check[0m
+[21:15] [0m[33;1m[Clan] Nix :[0m n00b gear[0m
+[21:15] [0m[33;1m[Clan] Ser :[0m stfu mr dodgey man[0m
+[21:15] [0m[33;1m[Clan] Nix :[0m got dodge 41/53 yesterday[0m
+[21:16] [0m[33;1m[Clan] Martyr :[0m stupid how much gxp you have in dodge[0m
+[21:16] [0m[33;1m[Clan] Martyr :[0m Ill have like 150mil saved when/if I hit 96[0m
+[21:16] [0m[33;1m[Clan] Nix :[0m probably more than 200m[0m
+[21:16] [0m[33;1m[Clan] Martyr :[0m to dump into dodge[0m
+[21:17] [0m[33;1m[Clan] Nix :[0m i'll switch to gallant soon to test out the difference[0m
+[21:25] [0m[32mYou tell Ser:[0m can i dupe it?[0m
+[21:25] [0m[33;1m[Clan] Roken :[0m there a CMC to dupe?[0m
+[21:26] [0m[33;1m[Clan] Boot :[0m you have to get tag dumbass[0m
+[21:26] [0m[33;1m[Clan] Boot :[0m which is why i told you about the TWO parties earlier[0m
+[21:26] [0m[33;1m[Clan] Roken :[0m mb distracted with work[0m
+[21:27] [0m[33;1m[Clan] Boot :[0m  no excuses[0m
+[21:27] [0m[32;1mFrom afar, you run your finger up and down your lips, making a[0m
+[21:27] [0m[33;1m[Clan] Xaro :[0m ser will tank for you[0m
+[21:27] [0m[33;1m[Clan] Boot :[0m ha[0m
+[21:27] [0m[33;1m[Clan] Nix :[0m bahaha[0m
+[21:27] [0m[33;1m[Clan] Boot :[0m i do have a guac[0m
+[21:27] [0m[33;1m[Clan] Nix :[0m let's go roast this fool for roken[0m
+[21:27] [0m[33;1m[Clan] Boot :[0m but i need to spend about 500mil more gxp i think[0m
+[21:28] [0m[33;1m[Clan] Boot :[0m alright 2 seconds[0m
+[21:28] [0m[33;1m[Clan] Roken :[0m ... i am hungry[0m
+[21:28] [0m[33;1m[Clan] Boot :[0m stick around for 5 mins fool[0m
+[21:28] [0m[33;1m[Clan] Boot :[0m vagrant has original day 5 for dupe[0m
+[21:28] [0m[33;1m[Clan] Boot :[0m if you want to send him a tell--  did you pick up dupe?[0m
+[21:28] [0m[33;1m[Clan] Roken :[0m i did[0m
+[21:29] [0m[32mSer tells you:[0m do you have 2 points in dupe?[0m
+[21:29] [0m[32mYou tell Ser:[0m no t1[0m
+[21:29] [0m[32mSer tells you:[0m go to SS[0m
+[21:30] [0m[32;1mFrom afar, Ser taps you on the shoulder.[0m[0m
+[21:30] [0m[33;1m[Clan] Nix :[0m ok i'm east of him, martyr afk at entrance[0m
+[21:30] [0m[32mSer says:[0m waiting for Vagrant[0m
+[21:30] [0m[33;1m[Clan] Ser :[0m ok[0m
+[21:30] [0m[33;1m[Clan] Ser :[0m seeing if he can even dupe first[0m
+[21:30] [0m[33;1m[Clan] Ser :[0m otw i'll swap to sock and check[0m
+[21:30] [0m[33;1m[Clan] Ser :[0m actualllly[0m
+[21:30] [0m[33;1m[Clan] Sock wiggles on your foot.[0m  [0m
+[21:31] [0m[33;1m[Clan] Sock :[0m yah 10.5 hr remaining on dupe on sock[0m
+[21:31] [0m[33;1m[Clan] Ser :[0m so if he can't dupe he goin have to wiat[0m
+[21:31] [0m[33;1m[Clan] Ser :[0m will drag roken there tho in a sec[0m
+[21:31] [0m[33;1m[Clan] Ser :[0m actually will  just head that way[0m
+[21:31] [0m[32mSer says:[0m follow[0m
+[21:31] [0m[33;1m[Clan] Nix :[0m least he'll have it for this boot and next[0m
+[21:31] [0m[33;1m[Clan] Ser :[0m  nod[0m
+[21:32] [0m[33;1m[Clan] Roken :[0m the tag?[0m
+[21:32] [0m[33;1m[Clan] Nix :[0m yeah[0m
+[21:32] [0m[33;1m[Clan] Ser :[0m yup, lasts current boot + next if you get tag[0m
+[21:32] [0m[32mSer says:[0m hi[0m
+[21:32] [0m[33;1m[PARTY][0m Roken joins the party.[0m
+[21:32] [0m[33;1m[PARTY][0m Nix: topping songs[0m
+[21:32] [0m[33;1m[PARTY][0m Ser: np[0m
+[21:33] [0m[33;1m[Clan] Roken :[0m anyone a bladesinger?[0m
+[21:33] [0m[33;1m[Clan] Ser :[0m no[0m
+[21:34] [0m[33;1m[Clan] Nix :[0m nah i'm axeman[0m
+[21:34] [0m[33;1m[Clan] Roken :[0m guess id better hardcore on a short boot[0m
+[21:34] [0m[33;1m[Clan] Ser :[0m why[0m
+[21:34] [0m[33;1m[PARTY][0m Nix: ok ready?[0m
+[21:34] [0m[33;1m[Clan] Roken :[0m want to try bladesinger/angel/jugg[0m
+[21:34] [0m[33;1m[PARTY][0m Roken: rdy[0m
+[21:34] [0m[33;1m[PARTY][0m Nix: shredded[0m
+[21:35] [0m[33;1m[PARTY][0m Ser: i should  really get ewell[0m
+[21:35] [0m[33;1m[PARTY][0m Ser: new keyboard space sticking slightly[0m
+[21:36] [0m[33;1m[Clan] Xaro :[0m unless they were upgraded.....angels suck[0m
+[21:36] [0m[33;1m[Clan] Ser :[0m nod angels blow hard[0m
+[21:36] [0m[33;1m[Clan] Nix :[0m the delayed attack is crazy tho[0m
+[21:36] [0m[33;1m[Clan] Roken :[0m still wanna see the rp side[0m
+[21:36] [0m[33;1m[Clan] Ser :[0m i spent 2 hrs in that guild and couldnt figure out how to make[0m
+[21:36] [0m             gxp[0m
+[21:37] [0m[33;1m[Clan] Ser :[0m you should try breed[0m
+[21:37] [0m[33;1m[Clan] Roken :[0m noone should have more rokens in this world ^_^[0m
+[21:38] [0m[33;1m[Clan] Nix :[0m yeah roleplaying is encouraged in breed, but no one plays so[0m
+[21:38] [0m             you end up just playing with yourself[0m
+[21:38] [0m[33;1m[Clan] Ser :[0m i'm used to that[0m
+[21:39] [0m[33;1m[PARTY][0m Nix: martyr we need your dmg in here hurrah[0m
+[21:39] [0m[33;1m[PARTY][0m Ser: fluffy otw[0m
+[21:39] [0m[33;1m[Clan] Roken :[0m sounds great. I solo[0m
+[21:39] [0m[33;1m[Clan] Ser :[0m yah you'll have questions tho[0m
+[21:39] [0m[33;1m[Clan] Ser :[0m i promise[0m
+[21:39] [0m[33;1m[Clan] Nix :[0m lots of questions[0m
+[21:39] [0m[33;1m[Clan] Ser :[0m plus you haven't quested at all[0m
+[21:39] [0m[33;1m[Clan] Ser :[0m so you'd hate it[0m
+[21:40] [0m[33;1m[Clan] Nix :[0m im tier 159 and i still don't know what half the shit does[0m
+[21:40] [0m[33;1m[Clan] Roken :[0m ser loves ppl nagging him[0m
+[21:40] [0m[33;1m[Clan] Ser :[0m shit man i'm 212 and i still have nfc[0m
+[21:40] [0m[33;1m[Clan] Ser :[0m esp since i lost a bunch of my files[0m
+[21:40] [0m[32mFluffy says:[0m shuttle is damn slow[0m
+[21:40] [0m[32mNix says:[0m pquit[0m
+[21:40] [0m[33;1m[PARTY][0m Fluffy joins the party.[0m
+[21:41] [0m[33;1m[PARTY][0m Ser: hi[0m
+[21:41] [0m[33;1m[PARTY][0m Ser: and yah[0m
+[21:41] [0m[33;1m[PARTY][0m Fluffy: {Fur-Rug} nad i had to find my direction/speedwalk to fb[0m
+[21:41] [0m[33;1m[PARTY][0m Ser: you made it for the last 1/3[0m
+[21:41] [0m[33;1m[PARTY][0m Ser: so you might be good[0m
+[21:41] [0m[33;1m[PARTY][0m Fluffy: {Fur-Rug} laf im lazy/use to crypt[0m
+[21:41] [0m[33;1m[PARTY][0m Fluffy: {Fur-Rug} oops trigger off[0m
+[21:41] [0m[33;1m[PARTY][0m Ser: i use my map[0m
+[21:41] [0m[33;1m[PARTY][0m Ser: go sci/up 4/board shuttle/go starcraft/wait/go firebat[0m
+[21:41] [0m[33;1m[PARTY][0m Nix: yeah i almost died there lol[0m
+[21:42] [0m[33;1m[PARTY][0m Ser: i end up 1 east of him[0m
+[21:42] [0m[33;1m[PARTY][0m Fluffy: {Fur-Rug} yeah my directios take me to room east of here[0m
+[21:42] [0m[33;1m[PARTY][0m Ser: safe place[0m
+[21:43] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[21:43] [0m[33;1m[Clan] Xaro :[0m ack[0m
+[21:43] [0m[33;1m[PARTY][0m Ser: wtf happened there[0m
+[21:43] [0m[34;1mGilead shouts:[0m Need a light?[0m
+[21:43] [0m[33;1m[PARTY][0m Nix: no idea? did you leave and come back?[0m
+[21:44] [0m[33;1m[PARTY][0m A ghostly form of Roken: eh not sure[0m
+[21:44] [0m[34;1mUkyo shouts:[0m Ashes, ashes, we all fall down.[0m
+[21:44] [0m[34;1mGilead shouts:[0m I sense a pattern...[0m
+[21:44] [0m[33;1m[PARTY][0m Ser: were you running cpain on nix?  oh he got me too  --  was[0m
+[21:44] [0m     at 1%[0m
+[21:45] [0m[33;1m[PARTY][0m Roken: ya i was and ran it too long[0m
+[21:45] [0m[33;1m[PARTY][0m Ser: i shouldve popped protection[0m
+[21:45] [0m[33;1m[PARTY][0m Ser: and embiggen[0m
+[21:45] [0m[33;1m[PARTY][0m Ser: couldve got em[0m
+[21:45] [0m[33;1m[PARTY][0m Fluffy: {Fur-Rug} 1% ... that was funny[0m
+[21:45] [0m[33;1m[PARTY][0m Nix: i just scrolled back i'm not even sure how i died..[0m
+[21:46] [0m[33;1m[PARTY][0m Nix: roken's death is a mystery[0m
+[21:46] [0m[33;1m[PARTY][0m Ser: nod[0m
+[21:46] [0m[33;1m[PARTY][0m Fluffy: {Fur-Rug} yeah i died just after you[0m
+[21:46] [0m[33;1m[PARTY][0m Ser: well i think force[0m
+[21:46] [0m[32;1mFrom afar, Simonz screams Doooohhhhhhhh!!! at you.[0m[0m
+[21:46] [0m[33;1m[PARTY][0m Ser: he was cpaining you[0m
+[21:46] [0m[33;1m[PARTY][0m Roken: ok ok i wasn't paying attention to my gp2/force[0m
+[21:46] [0m[33;1m[PARTY][0m Ser: you both get tag?[0m
+[21:46] [0m[33;1m[PARTY][0m Nix: would that have zapped me tho somehow?[0m
+[21:46] [0m[33;1m[PARTY][0m Fluffy: {Fur-Rug} laf i walked it and did dblow[0m
+[21:46] [0m[33;1m[PARTY][0m Ser: fluffster?[0m
+[21:46] [0m[33;1m[PARTY][0m Fluffy: {Fur-Rug} flex![0m
+[21:46] [0m[33;1m[PARTY][0m Roken: large yellow text yes[0m
+[21:47] [0m[33;1m[PARTY][0m Ser: nah shouldntve[0m
+[21:47] [0m[33;1m[PARTY][0m Ser: cool[0m
+[21:47] [0m[33;1m[PARTY][0m Fluffy: {Fur-Rug} got tag nod[0m
+[21:47] [0m[33;1m[PARTY][0m Nix: i had karma i can't figureo ut how i died[0m
+[21:47] [0m[33;1m[PARTY][0m Roken: thanks[0m
+[21:47] [0m[33;1m[PARTY][0m Ser: shuttle leaving[0m
+[21:47] [0m[33;1m[PARTY][0m Roken: does that mean my cpain made a difference[0m
+[21:47] [0m[33;1m[PARTY][0m Ser has quit the party.[0m
+[21:47] [0m[32mSer says:[0m pquit[0m
+[21:47] [0m[33;1m[PARTY][0m Roken has quit the party.[0m
+[21:48] [0m[33;1m[Clan] Roken :[0m does that mean my cpain made a difference for nix? dying[0m
+[21:48] [0m               shortly after i did of force saturation[0m
+[21:48] [0m[32mYou tell Ser:[0m id like to think so[0m
+[21:48] [0m[33;1m[Clan] Ser :[0m i dunno but look at your arch foe[0m
+[21:49] [0m[33;1m[Clan] Roken :[0m hella better than 35M zel[0m
+[21:49] [0m[32mSer says:[0m stay[0m
+[21:49] [0m[32mSer says:[0m get cmc[0m
+[21:49] [0m[32mSer says:[0m (duplicate item cmc[0m
+[21:49] [0m[32mSer says:[0m give cmc to vagrant[0m
+[21:50] [0m[32mSer says:[0m get cmc[0m
+[21:50] [0m[32mSer says:[0m i'm 80% sure you wont be able to[0m
+[21:50] [0m[32mSer says:[0m cuz you suck[0m
+[21:50] [0m[32mSer says:[0m woo you did[0m
+[21:50] [0m[32mSer says:[0m l8r[0m
+[21:50] [0m[32mSer says:[0m does fluffy already have one[0m
+[21:51] [0m[32mYou say:[0m  how would i know?[0m
+[21:51] [0m[32mSer says:[0m talking to vagrant not your punk ass[0m
+[21:51] [0m[32mSer says:[0m see ya, thnx vagrant[0m
+[21:51] [0m[32mFluffy says:[0m you old softie[0m
+[21:52] [0m[33;1m[Clan] Void enters the game.[0m  [0m
+[21:53] [0m[32mYou tell Ser:[0m which cmc?[0m
+[21:53] [0mYou can currently reforge 0 items.[0m
+[21:55] [0m[34;1mJasmine shouts:[0m PLAYCULT! One more needed, Nik needs to die![0m
+[21:56] [0m[32;1mFrom afar, you thank Nix.[0m[0m
+[21:56] [0m[32;1mFrom afar, Nix sticks his thumb up at you and says 'No problemo'.[0m[0m
+[21:56] [0m[32;1mFrom afar, you thank Fluffy.[0m[0m
+[21:56] [0m[32;1mFrom afar, you thank Martyr.[0m[0m
+[21:57] [0m[32;1mFrom afar, you thank Boot.[0m[0m
+[22:01] [0m[34;1mDisruptor shouts:[0m wahoooo!!!![0m
+[22:01] [0m[34;1mDin shouts:[0m fake[0m
+[22:01] [0m[34;1mFluffy shouts:[0m big letters[0m
+[22:02] [0m[32;1mFrom afar, you go 'Woo Woo!' at Sorin.[0m[0m
+[22:02] [0m[34;1mSorin shouts:[0m thanks everyone![0m
+[22:02] [0m[32mYou tell Sorin:[0m BIG 130! :D[0m
+[22:03] [0m[34;1mRaest shouts:[0m LIES[0m
+[22:03] [0m[32;1mFrom afar, Sorin grins at you.[0m[0m
+[22:04] [0m[34;1mLachlan shouts:[0m heh... discord - Roken new medal - Godlike Bug Abuser. nice[0m
+[22:06] [0mYou can currently reforge 4 items.[0m
+[22:07] [0m[34;1mRoken shouts:[0m well it was an extreme stat adj from cmc, but 3 stats are over[0m
+[22:07] [0m              100 without cmc[0m
+[22:07] [0m[34;1mSkyblade shouts:[0m yeah, but does it look good Translucent gear[0m
+[22:09] [0m[34;1mCrolack shouts:[0m I wear transparent gear[0m
+[22:10] [0m[34;1mLachlan shouts:[0m I don't see your point?[0m
+[22:10] [0m[34;1mRaest shouts:[0m keep yourself covered.  no one needs to see that[0m
+[22:10] [0m[34;1mSkyblade shouts:[0m You can't see his "point"... he tucks it.[0m
+[22:11] [0m[34;1mCrolack shouts:[0m It's The Crying Game[0m
+[22:11] [0mRoken flaps : watching YouTube in CANADA, God Bless VPN[0m
+[22:12] [0mLachlan flaps : wait... watching US YouTube in Canada via VPN or watching[0m
+[22:12] [0m                Canadian Youtube in the US via vpn? (or other countries)[0m
+[22:12] [0mRoken flaps : watching CA from US[0m
+[22:13] [0m[32;1mFrom afar, Lachlan nogs at you.[0m[0m
+[22:13] [0mLachlan flaps : Im in canada... so what's the draw?[0m
+[22:13] [0mRoken flaps : at a hotel, figure I'd protect my NSFW browsing lawl[0m
+[22:13] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[22:13] [0mLachlan flaps : seal bunnies?[0m
+[22:13] [0mLachlan flaps : Moose maids?[0m
+[22:14] [0mLachlan flaps : timbit bitties?[0m
+[22:14] [0mRoken flaps : nothing different, but I'm sure I'd run into issues buying[0m
+[22:14] [0m              stuff[0m
+[22:14] [0mLachlan flaps : what are we talking here?[0m
+[22:14] [0mParzival flaps : extra furry furries[0m
+[22:14] [0m[34;1mSkyblade shouts:[0m the J is silent but deadly.[0m
+[22:14] [0mRoken flaps : we had timbit bitties until they closed all stores in MN. Er[0m
+[22:14] [0m              w/e that CA donut shop is called[0m
+[22:15] [0mLachlan flaps : I have to admit, some of your dumber brethren make us laugh.[0m
+[22:15] [0m                Cross the border in June with a ski rack and ask for[0m
+[22:15] [0m                directions to the 'powder'. amazing.[0m
+[22:15] [0mLachlan flaps : Tim Horton's is the place[0m
+[22:16] [0mLachlan flaps : they call donut holes, Timbits.[0m
+[22:16] [0m[34;1mSkyblade shouts:[0m Didn't TH partner with Coldstone Creamery to open shops in[0m
+[22:16] [0m                 the US?[0m
+[22:16] [0m[34;1mLeto shouts:[0m buy jeans, and outgrow them all in one trip.[0m
+[22:17] [0m[34;1mLachlan shouts:[0m There's a bunch in border states. MI has a ton[0m
+[22:17] [0m[34;1mLachlan shouts:[0m most of the Coldstone dual outlets up here closed[0m
+[22:18] [0mLachlan flaps : or rather, they just revereted to a TH again[0m
+[22:18] [0mRoken flaps : no clue, I just know MN can't keep a donut shop chain for[0m
+[22:18] [0m              long. Krispie Kreme couldn't even survive long[0m
+[22:19] [0mGlowie flaps : what does TH stand for?[0m
+[22:20] [0mLachlan flaps : Tim Horton's[0m
+[22:20] [0mGlowie flaps : never heard of it - which explains why i could come up with[0m
+[22:20] [0m               was turnie[0m
+[22:20] [0mLachlan flaps : Canadian donut shop, up here literally on every corner,[0m
+[22:20] [0m                sometimes 2 across from each other on the same corner[0m
+[22:20] [0mLachlan flaps : ok, not literally.. that was figuratively speaking.[0m
+[22:20] [0mGlowie flaps : so the Eh version os starbucks?[0m
+[22:20] [0m[34;1mSkyblade shouts:[0m OH, not referring to Turnhold thistime.[0m
+[22:21] [0mSkyblade flaps : oops wl[0m
+[22:21] [0mLachlan flaps : more like Dunkin's[0m
+[22:21] [0mGlowie flaps : eq[0m
+[22:21] [0mGlowie flaps : eww, too[0m
+[22:21] [0mHyuga flaps : have you been to that donut shop, Turnhold's?[0m
+[22:21] [0mLachlan flaps : personally I think TH is better than Dunkin's but not[0m
+[22:21] [0m                Starbucks[0m
+[22:21] [0mGlowie flaps : (I've worked at Dunkin Donuts before - you do not want to[0m
+[22:21] [0m               know)[0m
+[22:21] [0mRoken flaps : and we don't hear of many fat canadians[0m
+[22:21] [0mSkyblade flaps : Turnhold's holes are the best[0m
+[22:22] [0mRaest flaps : you need a net worth of 2m+ to own a tim hortons and each[0m
+[22:22] [0m              location is basically a licence to print money.  it takes huge[0m
+[22:22] [0m              mismanagement to lose with a TH[0m
+[22:22] [0mLachlan flaps : and McDonald's coffee up here at a McCafe beats a TH's imo[0m
+[22:22] [0mBro flaps : dunkin is the worst[0m
+[22:22] [0mHyuga flaps : nod i love putting turnholds in my mouth[0m
+[22:22] [0mLachlan flaps : yeah pretty much[0m
+[22:22] [0mBro flaps : krispy kreme FTW[0m
+[22:22] [0mGlowie flaps : ^^^^[0m
+[22:23] [0mParzival flaps : can someone send me a poutine with timbits instead of[0m
+[22:23] [0m                 fries?[0m
+[22:23] [0mRoken flaps : KK ftw ... one nearby Tucson AZ[0m
+[22:23] [0mGlowie flaps : Is the light on?!?!?![0m
+[22:23] [0mRoken flaps : @parzival brilliant idea. Id try it once[0m
+[22:23] [0mLachlan flaps : cheese curds and beef gravy on fried sugary dough balls.[0m
+[22:23] [0m                hrm...[0m
+[22:23] [0mRoken flaps : don't forget bacon[0m
+[22:24] [0mGlowie flaps : no Krispy Kreme here - just a couple of over priced frozen[0m
+[22:24] [0m               home town donut shops but i grew up around krispy kreme,[0m
+[22:24] [0m               drive by and look for the light - if it was on, you stopped[0m
+[22:24] [0m               and got a fresh hot glazed donut from the conveyor belt[0m
+[22:25] [0mRoken flaps : conveyance takes a lil of the soul out of it[0m
+[22:26] [0mGlowie flaps : they are handmade in store -- the store is in the factory --[0m
+[22:26] [0m               so yeah they ahve a conveyor belt but they make soooo many[0m
+[22:26] [0m               donuts cause they know how to make em, that they have to use[0m
+[22:26] [0m               technology/machinery to keep up with demand :)[0m
+[22:26] [0m[35;1mLicklick [Jedi(38)]:[0m im sick and off all day tommorow[0m
+[22:27] [0mBro flaps : it's OK, they put the souls in after the conveyor belt[0m
+[22:27] [0m[35;1mKortor [Jedi(65)]:[0m mud marathon[0m
+[22:27] [0m[32mLachlan tells you:[0m which cad city are you in?[0m
+[22:27] [0mBink flaps : this should be a foodies line[0m
+[22:28] [0m[32mYou tell Lachlan:[0m idk VPN placed me in a CA[0m
+[22:29] [0m[32mLachlan tells you:[0m oh right vpn. my bad. heh[0m
+[22:29] [0m[32mYou tell Lachlan:[0m i'm staying in Arizona for work[0m
+[22:29] [0m[32mLachlan tells you:[0m yeah, I travel for work 8-10 weeks a year[0m
+[22:30] [0m[32mYou tell Lachlan:[0m nice if only I could do this for Amazon more. But only[0m
+[22:30] [0m        happens when a new fulfillment center launches[0m
+[22:30] [0m[35;1mLicklick [Jedi(38)]:[0m yes please[0m
+[22:30] [0m[32mLachlan tells you:[0m nice. long visit then?[0m
+[22:31] [0m[35;1mLicklick [Jedi(38)]:[0m quest suck and im to retarded to do em and they arent[0m
+[22:31] [0m                     worth it[0m
+[22:31] [0m[32mYou tell Lachlan:[0m what brings you to travel? Tech support like Sock?[0m
+[22:31] [0m[32mYou tell Lachlan:[0m 3 weeks.. thru Oct3[0m
+[22:31] [0m[35;1mLicklick [Jedi(38)]:[0m cant wait till i turn 18[0m
+[22:31] [0m[35;1mSimonz [Jedi(66)]:[0m totally worth it[0m
+[22:31] [0m[35;1mLicklick [Jedi(38)]:[0m 5 years to go[0m
+[22:31] [0m[32mLachlan tells you:[0m no, Im a writer/marketer. I work remotely, so head to[0m
+[22:31] [0m        our HQ once a month or so[0m
+[22:32] [0m[35;1mSimonz [Jedi(66)]:[0m seriously?[0m
+[22:32] [0m[35;1mLicklick [Jedi(38)]:[0m seriously what?[0m
+[22:32] [0m[35;1mSimonz [Jedi(66)]:[0m you're only 13?[0m
+[22:33] [0m[35;1mLicklick [Jedi(38)]:[0m maybe[0m
+[22:33] [0m[35;1mChaed [Jedi(AGM)]:[0m I thought this gobj had an age limit...where's mah cane[0m
+[22:33] [0m                   of forced retirement?[0m
+[22:33] [0mGlowie flaps : took me a minute to find: http://bit.ly/32Nctfd[0m
+[22:33] [0m[35;1mLicklick [Jedi(38)]:[0m what if i am?[0m
+[22:34] [0m[35;1mSimonz [Jedi(66)]:[0m then you're clearly not doing your homework[0m
+[22:34] [0m[32mYou tell Lachlan:[0m you have desk porn?[0m
+[22:35] [0m[35;1mLicklick [Jedi(38)]:[0m never did never will[0m
+[22:35] [0m[32mLachlan tells you:[0m heh, desk porn?[0m
+[22:36] [0m[35;1mLicklick [Jedi(38)]:[0m would you even be surprised?[0m
+[22:36] [0m[35;1mSimonz [Jedi(66)]:[0m that's the most foolish thing I've seen you say, and[0m
+[22:36] [0m                   that's saying something[0m
+[22:36] [0m[35;1mKortor [Jedi(65)]:[0m is there an evil version of the ToH?[0m
+[22:36] [0m[35;1mLicklick [Jedi(38)]:[0m if think im not thats you[0m
+[22:36] [0m[34;1mLachlan shouts:[0m DOH! Looked in the mirror?[0m
+[22:36] [0m[32mYou tell Lachlan:[0m ya like minimaldesks.com[0m
+[22:36] [0m[34;1mThom shouts:[0m *golf clap*[0m
+[22:36] [0m[35;1mSimonz [Jedi(66)]:[0m education is is vital[0m
+[22:36] [0m[35;1mChaed [Jedi(AGM)]:[0m symbol of dorthi[0m
+[22:37] [0m[35;1mChaed [Jedi(AGM)]:[0m it'll bring you down to immoral[0m
+[22:37] [0m[35;1mChaed [Jedi(AGM)]:[0m and yeah, reading riting rithmetic...the three Rs of[0m
+[22:37] [0m                   edukashun[0m
+[22:37] [0m[35;1mKortor [Jedi(65)]:[0m asking "for a friend", thanks Chaed[0m
+[22:37] [0m[35;1mKortor [Jedi(65)]:[0m We are the people our parents warned us about.[0m
+[22:38] [0m[35;1mChaed [Jedi(AGM)]:[0m nice try Kor :D[0m
+[22:38] [0m[35;1mSimonz [Jedi(66)]:[0m wow, timing[0m
+[22:38] [0m[32mLachlan tells you:[0m heh.. my desk is literally 30 years old. Used it in Uni[0m
+[22:38] [0m        and never got rid of it. but not a old wood desk, it's a[0m
+[22:38] [0m        press-board, formica type thing with a keyboard rollout. heh[0m
+[22:38] [0m[34;1mVagrant shouts:[0m reseeting zambies swing by[0m
+[22:38] [0mVagrant flaps : reseeting zambies swing by[0m
+[22:38] [0mRoken flaps : ok[0m
+[22:39] [0m[33;1m[PARTY][0m Roken joins the party.[0m
+[22:39] [0m[33;1m[PARTY][0m Simonz joins the party.[0m
+[22:39] [0m[32mLachlan tells you:[0m wait, 25 years old, not 30. Forgot how old I was. lol[0m
+[22:39] [0m[33;1m[PARTY][0m Space joins the party.[0m
+[22:39] [0m[33;1m[PARTY][0m Vagrant: wheee[0m
+[22:39] [0m[33;1m[PARTY][0m Mud joins the party.[0m
+[22:39] [0m[33;1m[PARTY][0m Vagrant: dang full party lol[0m
+[22:39] [0m[33;1m[PARTY][0m Vagrant: just waiting on glowie[0m
+[22:39] [0m[32;1mFrom afar, you laff at Lachlan.[0m[0m
+[22:39] [0m[33;1m[PARTY][0m Mud: thankya![0m
+[22:40] [0m[33;1m[PARTY][0m Vagrant: she finishing up a mobbie inthere[0m
+[22:40] [0m[33;1m[PARTY][0m Space: thanks vaggy[0m
+[22:40] [0m[33;1m[PARTY][0m Vagrant: 24%[0m
+[22:41] [0m[33;1m[PARTY][0m Vagrant: 4%[0m
+[22:41] [0m[33;1m[PARTY][0m Glowie joins the party.[0m
+[22:41] [0m[32mGlowie says:[0m hi[0m
+[22:41] [0m[33;1m[PARTY][0m Vagrant: woo[0m
+[22:41] [0m[33;1m[PARTY][0m Vagrant: boom![0m
+[22:41] [0m[32mYou say:[0m hi[0m
+[22:41] [0m[33;1m[PARTY][0m Space has quit the party.[0m
+[22:41] [0m[33;1m[PARTY][0m Vagrant has quit the party.[0m
+[22:41] [0m[33;1m[PARTY][0m The leader quit the party![0m
+[22:41] [0m[33;1m[PARTY][0m New leader for the party: simonz.[0m
+[22:41] [0m[33;1m[PARTY][0m Glowie has quit the party.[0m
+[22:41] [0m[33;1m[PARTY][0m Roken has quit the party.[0m
+[22:42] [0mVagrant flaps : resetted, lots of ppl came and it became a festiva[0m
+[22:42] [0mNik flaps : Vagrant is a global hero[0m
+[22:42] [0m[37;1mStasis <.oO>:[0m anyone have an auro shield i can dupe?[0m
+[22:42] [0mParzival flaps : did you resetted deep ones too?[0m
+[22:42] [0mGlowie flaps : for some, it's the only way they can say that they came.[0m
+[22:42] [0mRoken flaps : TransylFest ^_^[0m
+[22:43] [0mGlowie flaps : Pridesyvania ?[0m
+[22:43] [0m[32;1mFrom afar, you laff at Glowie.[0m[0m
+[22:43] [0mKitt flaps : Moo[0m
+[22:43] [0mBoot flaps : jfc can we just rename this line circlejerk[0m
+[22:44] [0mGlowie flaps : Sure - after you and mud go get a 4skin[0m
+[22:44] [0m[32mYou tell Simonz:[0m worked it out.. after this lvl 7 lvls to 200 Dex then on[0m
+[22:44] [0m        L130 I can max Dex[0m
+[22:44] [0mParzival flaps : everyone pass their hand to the left and boot will commence[0m
+[22:44] [0m                 the ceremony[0m
+[22:45] [0m[32mYou tell Simonz:[0m 4 lvls for wis and con... just dragging those along[0m
+[22:45] [0mGlowie flaps : how many of you are lefties?[0m
+[22:45] [0mRoken flaps : annoyed much @boot[0m
+[22:45] [0mSkyblade flaps : I'm a "lefty", but I do many things ambi, or right.[0m
+[22:46] [0mRoken flaps : lefty for only 1 thing[0m
+[22:46] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[22:46] [0mLachlan flaps : lol[0m
+[22:46] [0mFluffy flaps : nod he is so proficient he can switch hands and GAIN a stroke[0m
+[22:46] [0m               ;-)[0m
+[22:46] [0mLachlan flaps : it feels different that way I hear[0m
+[22:47] [0mRoken flaps : so bad, this makes me laugh out loud[0m
+[22:47] [0mGlowie flaps : im a lefty - not much i can do right handed... i seriously[0m
+[22:47] [0m               can't even pick up a writing utensil with my right hand :([0m
+[22:47] [0mXiu flaps : that's some pretty extreme handed-ness[0m
+[22:48] [0mSkyblade flaps : Pencil rolls away due to telekinesis, thinks she's super[0m
+[22:48] [0m                 left handed.[0m
+[22:48] [0mGlowie flaps : i was "taught" to shoot a gun right handed, but i can't hit[0m
+[22:48] [0m               the broad side of a barn that way... so--- you have until my[0m
+[22:48] [0m               2nd or 3rd shot to get awya cause im confused if i should[0m
+[22:48] [0m               hold a gun left or right handed and you have until i figure[0m
+[22:48] [0m               it out to run... once i figure it out.. game over.[0m
+[22:48] [0mXiu flaps : i can do almost anything with my left that i can with my right,[0m
+[22:48] [0m            except write with a pen/pencil. at least, not in such a way that[0m
+[22:48] [0m            anyone but me could read it.[0m
+[22:50] [0mGlowie flaps : there was one franchise i worked for that had left handed and[0m
+[22:50] [0m               right handed touch screens - it was awesome :) no one could[0m
+[22:50] [0m               use my login. :)[0m
+[22:51] [0mDisruptor flaps : are you blond by chance? I feel like a touch screen is[0m
+[22:51] [0m                  ambi...[0m
+[22:51] [0mRoken flaps : ya hmmm[0m
+[22:52] [0mRoken flaps : some orientation configuration on screen, maybe?[0m
+[22:52] [0mGlowie flaps : i am a natural blonde, yes - but the left/right handed touch[0m
+[22:52] [0m               screen was about the position of the main ordering menu (food[0m
+[22:52] [0m               service fanchise)[0m
+[22:52] [0m[33;1m[Clan] Boot :[0m funniest thing ive seen all month... [0m
+[22:52] [0m              https://m.youtube.com/watch?v=H1WhbvKRQ78[0m
+[22:52] [0mGlowie flaps : so my screen was a mirror image of everyone elses[0m
+[22:53] [0m[33;1m[Clan] Roken :[0m about to be rick rolled amiright?[0m
+[22:53] [0m[34;1mLicklick shouts:[0m Almost coyote season!!![0m
+[22:53] [0m[34;1mGlowie shouts:[0m seriously? its christmas season -- or so the store thinks[0m
+[22:53] [0m               so..[0m
+[22:53] [0mRoken flaps : https://m.youtube.com/watch?v=H1WhbvKRQ78[0m
+[22:54] [0m[34;1mLicklick shouts:[0m yeah it starts the 15th of october[0m
+[22:54] [0mRoken flaps : laff[0m
+[22:55] [0mGlowie flaps : lol - dad joke of the yaer[0m
+[23:06] [0mYou can currently reforge 8 items.[0m
+[23:14] [0m[33;1m[Clan] Mud :[0m At this rate you will level in 47 minutes.   dont think ill[0m
+[23:14] [0m             make it tonight though. fallin asleep[0m
+[23:14] [0m[33;1m[Clan] Xaryl :[0m heh :([0m
+[23:16] [0m[32mSimonz tells you:[0m XP Gain for the last 30 minutes: 121,168,489[0m
+[23:16] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[23:22] [0mLachlan flaps : mallen has fallen.[0m
+[23:34] [0m[35;1mSimonz [Jedi(66)]:[0m ack[0m
+[23:34] [0mLeto flaps : i tried a new cereal today. Krave, strawberry with chocolate[0m
+[23:34] [0m             center. It was horrible. Horrible. Almost as bad as cookie[0m
+[23:34] [0m             crunch is now.[0m
+[23:35] [0mLicklick flaps : i just eat stuff my mom makes me:/[0m
+[23:36] [0m[33;1m[Clan] Nix :[0m who is hex[0m
+[23:36] [0m[33;1m[Clan] Xaryl :[0m do not know :([0m
+[23:37] [0mKitt gshouts: Got MOO? Got MOO? Got Moo?[0m
+[23:45] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[23:46] [0m[32mYou tell Simonz:[0m no worries im trying 100 hotel with cmc[0m
+[23:47] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[23:47] [0m[32mYou tell Simonz:[0m duped it from vagrant :) love it having dupe[0m
+[23:47] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[23:48] [0m[32mSimonz tells you:[0m eh, I do just fine with my crafted eq, I'm focused on[0m
+[23:48] [0m        the rush up to 132 so I can get stats maxxed out[0m
+[23:48] [0m[32mSimonz tells you:[0m well, the push, not the rush lol[0m
+[23:49] [0m[32mSimonz tells you:[0m 100m to level[0m
+[23:49] [0mLachlan flaps : love it when you think a soul is one thing and it's another.[0m
+[23:49] [0m                Rub = rub-down, not 'rubs your back'.[0m
+[23:50] [0m[32mYou tell Simonz:[0m 20B to go[0m
+[23:50] [0m[32;1mFrom afar, you give Lachlan a good rub-down.[0m[0m
+[23:50] [0mJasmine flaps : sexual assault = sexual assault......NO MEANS NO![0m
+[23:51] [0m[32;1mFrom afar, you punch Lachlan in the face 16 times, hug him twice, beg[0m
+[23:51] [0m[32mLachlan tells you:[0m Do I know you?![0m
+[23:51] [0mLachlan flaps : nice... digital rub-downs.. Im getting lots of them.[0m
+[23:51] [0mSkyblade flaps : rub = 'rub your hands with glee!' not 'rubs one out'[0m
+[23:51] [0mLachlan flaps : I say no, but mean yes![0m
+[23:51] [0mFluffy flaps : does this cloth smell like chloroform to you ?[0m
+[23:52] [0mWhoknows flaps : everyone is passed out on the ground so they can't answer[0m
+[23:52] [0mJasmine flaps : Lachlan plays hard to get then finally gives in and gives[0m
+[23:52] [0m                himself a rub-down[0m
+[23:53] [0mLachlan flaps : well duh![0m
+[23:53] [0mJasmine flaps : but he also said that he wishes space blue[0m
+[23:54] [0m[35;1mLicklick [Jedi(38)]:[0m cant wait to get guide 3 so i can go back to flurry[0m
+[23:55] [0mLachlan flaps : hrm... taken literally... that's interesting.[0m
+[23:57] [0mLachlan flaps : err, taken suggestively rather... word choice. make it[0m
+[23:57] [0m                right.[0m

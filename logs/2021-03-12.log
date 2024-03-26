@@ -1,0 +1,283 @@
+- = LOG STARTED [00:00] = -
+[00:14] [0m[37;1mElminster flaps :[0m Anyone looking for some light 3k reading, the contents of the Wayhaven library[0m
+[00:14] [0m                  have been copied here: https://wemudtogether.com/library/  all topics and[0m
+[00:14] [0m                  contents are searchable![0m
+[00:14] [0m[37;1mVoodoo flaps :[0m i ne'er lernt to reed![0m
+[00:14] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[00:14] [0m[37;1mLeianne flaps :[0m copyright. have to ask 3k to approve :p[0m
+[00:35] [0m[32mBenek says:[0m Full Mana![0m
+[00:42] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[07:49] [0mGuru <Craft>: Thanks for ensuring there is food for the people[0m
+[07:57] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[07:59] [0m[34;1mNightrider shouts:[0m Moo time![0m
+[07:59] [0m[34;1mPdog shouts:[0m It's web-touching time![0m
+[07:59] [0m[31;1m[Clan] Nameless :[0m sec z is dead, long live hotel[0m
+[08:02] [0m[31;1m[Clan] Decav :[0m anyone need a blue terra ring[0m
+[08:21] [0m[31;1m[Clan] Toren :[0m we gonna sz again?[0m
+[08:22] [0m[31;1m[Clan] Toren :[0m this solo xp rate is bullshit[0m
+[08:26] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[08:59] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[09:29] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[09:40] [0m[37;1mToren flaps :[0m what's the way to dig in tintin to make a new room that isn't a n/e/w/s etc?[0m
+[09:40] [0m[37;1mToren flaps :[0m i remember there being like #map dig sw path[0m
+[09:41] [0m[37;1mToren flaps :[0m If for example you wanted 'path' to create and add a room southwest[0m
+[09:45] [0m[37;1mTurnhold flaps :[0m #dig quitusingmapsandpapergraphyourareas slacker[0m
+[09:46] [0m[37;1mZiphe flaps :[0m #map dig {hole}[0m
+[09:47] [0m[37;1mZiphe flaps :[0m the linking back will be manual[0m
+[09:47] [0m[37;1mToren flaps :[0m But how will that know the room in southwest?[0m
+[09:47] [0m[37;1mZiphe flaps :[0m for return path[0m
+[09:48] [0m[37;1mZiphe flaps :[0m your question is not clear[0m
+[09:48] [0m[37;1mDin flaps :[0m this potato has a fluffy tail[0m
+[09:48] [0m[37;1mRaest flaps :[0m don't call yourself a potato[0m
+[09:48] [0m[37;1mGaidin flaps :[0m #map exit {sw} {COMMAND} {path}[0m
+[09:57] [0m[37;1mToren flaps :[0m thanks gaidin[0m
+[09:57] [0m[37;1mToren flaps :[0m a bit janky, need to dig sw then do the map exit thing[0m
+[09:58] [0m[37;1mTurnhold flaps :[0m yer fac eis a bit janky[0m
+[09:58] [0m[37;1mToren flaps :[0m for.some reason i thought there was a 1-liner to do it[0m
+[09:58] [0m[37;1mApocalypse flaps :[0m your typing is a alot janky[0m
+[09:58] [0m[37;1mTurnhold flaps :[0m nod :([0m
+[09:58] [0m[37;1mToren flaps :[0m :([0m
+[10:00] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[10:17] [0m[31;1m[Clan] Nameless :[0m secz or shall i try running a solo one?[0m
+[10:19] [0m[31;1m[Clan] Saim :[0m i wanna do an inductor run[0m
+[10:19] [0m[31;1m[Clan] Nameless :[0m ooo yes[0m
+[10:19] [0m[31;1m[Clan] Saim :[0m wish you still played your priest, for healies[0m
+[10:19] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[10:19] [0m[31;1m[Clan] Nameless :[0m i played priest a little earlier, its not unplayable now that i fixed scripts[0m
+[10:19] [0m[31;1m[Clan] Nameless :[0m just the gobj sucks so much where i am now[0m
+[10:19] [0m[31;1m[Clan] Saim :[0m just for inductor or something like that[0m
+[10:20] [0m[31;1m[Clan] Saim :[0m a priest would be good[0m
+[10:20] [0m[31;1m[Clan] Saim :[0m xar is pretty bs[0m
+[10:20] [0m[31;1m[Clan] Nameless :[0m xar also has like 20 glvls on me[0m
+[10:20] [0m[31;1m[Clan] Saim :[0m nod heh[0m
+[10:20] [0m[31;1m[Clan] Saim :[0m i remember at one point you were pretty bs back in the day tho for where you were[0m
+[10:20] [0m              at[0m
+[10:21] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[10:21] [0m[31;1m[Clan] Nameless :[0m i am curious if invin would block the inductor hits better than me just face[0m
+[10:21] [0m                  tanking with bard prot/immort[0m
+[10:23] [0m[37;1mNightrider flaps :[0m Hide Yo Cash, Nauda is back from LD world[0m
+[10:24] [0m[37;1mNauda flaps :[0m and your cashiers[0m
+[10:24] [0m[31;1m[Clan] Nameless :[0m if we can get a party together, i can swap to priest for inductor and try that[0m
+[10:24] [0m                  out, just toss out invins and some heals i guess?[0m
+[10:25] [0m[31;1m[Clan] Nameless :[0m i wanna get a balagool main to graft tho[0m
+[10:25] [0m[31;1m[Clan] Saim :[0m i dont know what u can and cant graft[0m
+[10:29] [0m[31;1m[Clan] Toren :[0m pretty sure you can graft anything[0m
+[10:29] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[10:29] [0m[34;1mHighjinx shouts:[0m *POOF*[0m
+[10:29] [0m[34;1mTeerex shouts:[0m WOOTT!![0m
+[10:30] [0m[37;1mBliss <.oO>:[0m boom[0m
+[10:30] [0m[34;1mNightrider shouts:[0m le moo?[0m
+[10:30] [0m[37;1mNauda <.oO>:[0m Moo[0m
+[10:31] [0m[34;1mBenek shouts:[0m :D[0m
+[10:31] [0m[31;1m[Clan] Saim :[0m auro?[0m
+[10:31] [0m[37;1mBliss <.oO>:[0m I don't think I want to know what's the cost of 45[0m
+[10:31] [0m[31;1m[Clan] Saim :[0m cause if we did that on the reg, id re-spec my mskills[0m
+[10:31] [0m[37;1mNauda <.oO>:[0m (info levels[0m
+[10:32] [0m[37;1mNauda <.oO>:[0m doesn't say what cost is for level 100[0m
+[10:32] [0m[37;1mBliss <.oO>:[0m heh ok I knew I didn't want to[0m
+[10:32] [0m[37;1mNauda <.oO>:[0m (info levels 100[0m
+[10:32] [0m[37;1mSaim <.oO>:[0m (info levels 200[0m
+[10:32] [0m[37;1mNauda <.oO>:[0m (info levels 300[0m
+[10:32] [0m[37;1mSaim <.oO>:[0m after 150 you are an Eternaler[0m
+[10:32] [0m[37;1mBliss <.oO>:[0m don't give me nightmares heh[0m
+[10:32] [0m[31;1m[Clan] Toren :[0m auro works[0m
+[10:32] [0m[31;1m[Clan] Toren :[0m but you dont get the block %[0m
+[10:33] [0m[37;1mNauda <.oO>:[0m not even 100 million combat rounds[0m
+[10:33] [0m[31;1m[Clan] Toren :[0m just the ac[0m
+[10:33] [0m[31;1m[Clan] Saim :[0m still nice for me id say, unless you can think of better[0m
+[10:33] [0m[31;1m[Clan] Saim :[0m cant double CMC i take it[0m
+[10:33] [0m[37;1mNauda <.oO>:[0m a little over 6 combat years only[0m
+[10:33] [0m[31;1m[Clan] Toren :[0m balangool main is nice[0m
+[10:34] [0m[37;1mSaim <.oO>:[0m hope the nursing hope have fios by then[0m
+[10:34] [0m[37;1mSaim <.oO>:[0m *home[0m
+[10:34] [0m[31;1m[Clan] Toren :[0m pfp would be good[0m
+[10:34] [0m[31;1m[Clan] Toren :[0m alien skin, cocoon[0m
+[10:34] [0m[37;1mNauda <.oO>:[0m them hot fembots[0m
+[10:34] [0m[31;1m[Clan] Saim :[0m do specials stick or just not with block[0m
+[10:35] [0m[31;1m[Clan] Toren :[0m specials stick[0m
+[10:35] [0m[31;1m[Clan] Toren :[0m so cocoon has dr[0m
+[10:35] [0m[31;1m[Clan] Toren :[0m balangool has +stats or regen or whatever[0m
+[10:35] [0m[31;1m[Clan] Toren :[0m balangool main is prolly the best[0m
+[10:36] [0m[31;1m[Clan] Saim :[0m where do you even make that? the brain room?[0m
+[10:36] [0m[31;1m[Clan] Saim :[0m i never bothered to learn[0m
+[10:36] [0m[31;1m[Clan] Nameless :[0m i thought coon didnt work?[0m
+[10:36] [0m[31;1m[Clan] Nameless :[0m or rather, it works, but youd have to do smuggle shenanigans since fuse wont[0m
+[10:36] [0m                  hit both if you choose to wear 2[0m
+[10:37] [0m[31;1m[Clan] Timmy :[0m yeah need a series of crazy aliases to wear more coons - i wore 3 on 3s for a[0m
+[10:37] [0m               while until korenth raged at me and made them unmutable[0m
+[10:37] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[10:38] [0m[31;1m[Clan] Nameless :[0m whatta pooper[0m
+[10:38] [0m[31;1m[Clan] Timmy :[0m then i started waering as many auros as i could, he raged at me for that too[0m
+[10:38] [0m[31;1m[Clan] Timmy :[0m got to 5 xmuted auros before he put an end to that[0m
+[10:39] [0m[31;1m[Clan] Nameless :[0m i totally forgot about event most of this boot lol[0m
+[10:40] [0m[31;1m[Clan] Nameless :[0m boggles my mind that carnegie corpses are rated as better than zombies[0m
+[10:40] [0m[31;1m[Clan] Nameless :[0m or my coffin is dumb, i guess[0m
+[10:40] [0m[37;1mBliss <.oO>:[0m in 6 combat years I'll be retired I hope so I'll have more time to mud heh[0m
+[10:41] [0m[37;1mRaest <.oO>:[0m in 6 combat years on here you'll be more powerful[0m
+[10:41] [0m[37;1mBliss <.oO>:[0m yes I meant rl heh[0m
+[10:42] [0m[31;1m[Clan] Nameless :[0m but yes, if we wanna do an inductor party today i would be down to trying[0m
+[10:42] [0m                  priest to see if i can cheese with invins. otherwise i could go all in on[0m
+[10:42] [0m                  epowers and hope for the best[0m
+[10:42] [0m[31;1m[Clan] Nameless :[0m could also wait until post day 7 cmc[0m
+[10:50] [0m[31;1m[Clan] Toren :[0m so you could xmute aurothon and keep block %?[0m
+[11:04] [0m[31;1m[Clan] Nameless :[0m any idea what the lowest scaler one can get the +18 stat greens from?[0m
+[11:04] [0m[31;1m[Clan] Nameless :[0m doubt i can solo that high, but a guy can dream[0m
+[11:09] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[11:11] [0m[31;1m[Clan] Toren :[0m dunno[0m
+[11:11] [0m[31;1m[Clan] Toren :[0m why not just start running max scaler?[0m
+[11:11] [0m[31;1m[Clan] Toren :[0m and people can jump in[0m
+[11:24] [0m[31;1m[Clan] Nameless :[0m because it would take me forever to do max scaler solo[0m
+[11:24] [0m[31;1m[Clan] Nameless :[0m i can solo those, but either means i have to stop every mob and do leader of[0m
+[11:24] [0m                  the band, or take 10 corpses per mob[0m
+[11:31] [0m[37;1mRaest flaps :[0m anyone have bark from Terra's Treehouse?[0m
+[11:34] [0m[31;1m[Clan] Nameless :[0m and i think even lower ones take me too long, think like scaler 110 or[0m
+[11:34] [0m                  whatever was comfortable karmawise, but still took like 12 hours to get to[0m
+[11:34] [0m                  section 40 or some such[0m
+[11:38] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[11:52] [0m[31;1m[Clan] Saim :[0m whats the bark from terra's treehouse do?[0m
+[11:54] [0m[31;1m[Clan] Toren :[0m sells for 10 coins[0m
+[11:54] [0m[31;1m[Clan] Toren :[0m dunno[0m
+[11:54] [0m[31;1m[Clan] Toren :[0m 100*[0m
+[11:55] [0m[31;1m[Clan] Nameless :[0m i always just donate it so no clue[0m
+[12:04] [0m[31;1m[Clan] Saim :[0m think he is marble hunt'n[0m
+[12:05] [0m[31;1m[Clan] Nameless :[0m hehe[0m
+[12:05] [0m[31;1m[Clan] Nameless :[0m i havent done that in awhile[0m
+[12:06] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[12:09] [0m[37;1mNauda flaps :[0m does 3k time change with daylight saving time?[0m
+[12:12] [0m[37;1mHsima flaps :[0m yer metaphysically unstable[0m
+[12:14] [0m[37;1mBenek flaps :[0m oooor aaaam i?[0m
+[12:14] [0m[37;1mBenek flaps :[0m now i want to watch dr strange. My favorite movie from that whole series.[0m
+[12:15] [0m[37;1mRaest flaps :[0m oooor iiiis it?[0m
+[12:15] [0m[37;1mBenek flaps :[0m rofl[0m
+[12:27] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[12:32] [0m[31;1m[Clan] Nameless :[0m 2.4 hours til HA reset, merrrr[0m
+[12:52] [0m[34;1mRaest shouts:[0m that's a smelly about of xp needed for that[0m
+[12:53] [0m[34;1mBenek shouts:[0m :O[0m
+[12:56] [0m[31;1m[Clan] Toren :[0m any tanks out there?[0m
+[12:59] [0m[31;1m[Clan] Nameless :[0m technically me, but i suck[0m
+[13:00] [0m[31;1m[Clan] Timmy :[0m have you considered wiping and coming back as a gallant?[0m
+[13:00] [0m[31;1m[Clan] Nameless :[0m :p[0m
+[13:00] [0m[31;1m[Clan] Timmy :[0m and technically me but i can't tank >12M for reasons unknown[0m
+[13:00] [0m[31;1m[Clan] Timmy :[0m which means i should just play my gallant[0m
+[13:00] [0m[31;1m[Clan] Prism :[0m People actually play Mystics? :D[0m
+[13:01] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[13:01] [0m[31;1m[Clan] Toren :[0m bards unidle?[0m
+[13:01] [0m[34;1mNauda shouts:[0m Blame Maverik![0m
+[13:01] [0m[31;1m[Clan] Timmy :[0m i think there's a mystic or too[0m
+[13:01] [0m[31;1m[Clan] Timmy :[0m nix and that thom guy right?[0m
+[13:02] [0m[31;1m[Clan] Nameless :[0m i wonder how gallants do with karma efficiency compared to a similar sized[0m
+[13:02] [0m                  mystic[0m
+[13:02] [0m[31;1m[Clan] Nameless :[0m imagine the better physical skills maybe means less karma consumed fora void[0m
+[13:02] [0m                  blow[0m
+[13:02] [0m[31;1m[Clan] Toren :[0m the same[0m
+[13:04] [0m[31;1m[Clan] Nameless :[0m ahh[0m
+[13:06] [0m[31;1m[Clan] Toren :[0m i think you're a great tank and would love tond you namelss :P[0m
+[13:06] [0m[31;1m[Clan] Nameless :[0m gonna go to gfs around 530 or so, so i can do a babymode secz or something[0m
+[13:06] [0m[31;1m[Clan] Toren :[0m to hit behind*[0m
+[13:06] [0m[31;1m[Clan] Toren :[0m can keep working on marshall too[0m
+[13:07] [0m[31;1m[Clan] Toren :[0m wherever is good[0m
+[13:07] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[13:07] [0m[31;1m[Clan] Toren :[0m my solo rate is like 6m/30[0m
+[13:07] [0m[31;1m[Clan] Nameless :[0m oof[0m
+[13:07] [0m[31;1m[Clan] Nameless :[0m outside of running hotel mine is like 153m/30[0m
+[13:08] [0m[31;1m[Clan] Nameless :[0m hopefully can do better with secz, seems most of my areas suck for exp :/[0m
+[13:09] [0m[31;1m[Clan] Toren :[0m thank tony for complaining spells were too strong[0m
+[13:09] [0m[31;1m[Clan] Nameless :[0m i think maybe 1 more hitter and i can swing 130 scaler secz[0m
+[13:09] [0m[31;1m[Clan] Nameless :[0m heh[0m
+[13:09] [0m[31;1m[Clan] Toren :[0m meet at title?[0m
+[13:10] [0m[31;1m[Clan] Nameless :[0m brt[0m
+[13:13] [0m[31;1m[Clan] Meatloaf :[0m want me to just tank[0m
+[13:13] [0m[31;1m[Clan] Nameless :[0m oh laf[0m
+[13:13] [0m[31;1m[Clan] Nameless :[0m HI MEATLOAF[0m
+[13:13] [0m[31;1m[Clan] Meatloaf :[0m ey[0m
+[13:13] [0m[31;1m[Clan] Nameless :[0m i can reset this if you want, or you can join and take over[0m
+[13:14] [0m[31;1m[Clan] Ser :[0m come pick me up[0m
+[13:14] [0m[31;1m[Clan] Nameless :[0m alrighty[0m
+[13:22] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[13:25] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Northern Hills of[0m
+[13:25] [0m                          Fantasy!  We are localizing it now - get ready![0m
+[13:33] [0mFleeting <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[13:37] [0m[37;1mFleeting flaps :[0m If we're talkin' turkey. You got a juicy one. So slice some off for me. Swear[0m
+[13:37] [0m                 it won't take me long. If you feed me right. We fat for life![0m
+[13:42] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[13:49] [0m[34;1mPdog shouts:[0m good thing no HC hitters took you up on your offer :p[0m
+[13:57] [0m[34;1mBenek shouts:[0m woooooo![0m
+[13:57] [0m[34;1mPdog shouts:[0m BIG LETTERS[0m
+[13:58] [0m[34;1mSuicaudio shouts:[0m something something maverik?s fault[0m
+[13:58] [0m[34;1mHsima shouts:[0m I blame the insurance industry and air conditioning.[0m
+[13:59] [0m[34;1mTex shouts:[0m nah just blame maverik its easier[0m
+[13:59] [0m[34;1mHsima shouts:[0m Cosmic rays are also a pretty decent answer.  Those things are everywhere.[0m
+[14:00] [0m[34;1mSimonz shouts:[0m di-hydrogen monoxide.  everyone ingests it and they don't even know it![0m
+[14:01] [0m[34;1mBenek shouts:[0m ban di-hydrogen monoxide![0m
+[14:01] [0m[34;1mFluffy shouts:[0m meeeeeeedddddddddiiiiiiiicccccc[0m
+[14:01] [0m[34;1mTex shouts:[0m just blame the dead hence maverik who is a necro bring out your dead rings bell[0m
+[14:01] [0m[34;1mFleeting shouts:[0m we'll be ok. We just need to find a way to get bleach in there. inside our[0m
+[14:01] [0m                 bodies[0m
+[14:02] [0m[34;1mJeraud shouts:[0m Dihydrogen monoxide is such a dead thing it's not even funny.[0m
+[14:04] [0m[34;1mNauda shouts:[0m a cup of hot dihydrogen monoxide with a pinch of polonium 210, makes for a very[0m
+[14:04] [0m              potent tea.[0m
+[14:05] [0m[34;1mTex shouts:[0m so gun powder makes strong coffee for miners but hey drink up[0m
+[14:05] [0m[34;1mRaest shouts:[0m ahhhh, chemical names!!!   must be poison[0m
+[14:06] [0m[34;1mTex shouts:[0m if you can pronounce is it safe beware if you cant pronounce[0m
+[14:07] [0m[34;1mRaest shouts:[0m i can pronounce all sorts of polyglycerides and anhydrous ammonia, doesn't mean[0m
+[14:07] [0m              it's safe[0m
+[14:08] [0m[34;1mJeraud shouts:[0m Yes yes, 100 per cent of the people who ingest dihydrogen monoxide die...[0m
+[14:09] [0m[34;1mFluffy shouts:[0m 78.4% of statistics are made up[0m
+[14:09] [0m[34;1mElminster shouts:[0m is worcestershire sauce unsafe?[0m
+[14:10] [0m[34;1mTex shouts:[0m 1% are true if fluffy eats it[0m
+[14:10] [0m[34;1mPresmir shouts:[0m "Don't believe everything you read on the internet" - Abraham Lincoln.[0m
+[14:10] [0m[34;1mDalthazar shouts:[0m if you pronounce it like its supposed to be, its fine.[0m
+[14:10] [0m[34;1mDaeth shouts:[0m depends on how hard you throw it at someone and if it's still in the bottle.[0m
+[14:10] [0m[34;1mRaest shouts:[0m worchestershire sauce[0m
+[14:10] [0m[34;1mSarge shouts:[0m point of clarification... IF Tex can spell it, it's harmless... as it's probably[0m
+[14:10] [0m              imaginary...[0m
+[14:11] [0m[34;1mTex shouts:[0m good point hydrakillsargeinsleepproxide[0m
+[14:12] [0m[35;1mAl [Jedi(74)]:[0m 200 or so frags in[0m
+[14:15] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[14:22] [0m[34;1mRaest shouts:[0m does it[0m
+[14:22] [0m[34;1mFluffy shouts:[0m it tingles!![0m
+[14:23] [0m[34;1mTingles shouts:[0m thanks[0m
+[14:28] [0m[34;1mZarzon shouts:[0m try the chili .. elmy liked it![0m
+[14:28] [0m[34;1mPdog shouts:[0m tell us how you REALLY feel[0m
+[14:29] [0m[34;1mHsima shouts:[0m The real secret behind "global warming"[0m
+[14:31] [0m[37;1mSissy flaps :[0m portal road/15e/s .. theme radioactive[0m
+[14:31] [0m[34;1mSissy shouts:[0m portal road/15e/s .. theme radioactive[0m
+[14:34] [0m[34;1mNightrider shouts:[0m Nauda almighty Nauda where are .stoo[0m
+[14:34] [0m[34;1mNightrider shouts:[0m oops[0m
+[14:49] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[15:06] [0mArundin shouts: Many thanks to Gamst!  With his donation, the Elemental[0m
+[15:06] [0m                Guild is now leading in donations![0m
+[15:26] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[15:49] [0m[34;1mNightrider shouts:[0m Reboot in 3 days Thank You for your Moo cooroperation[0m
+[16:01] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[16:12] [0m[34;1mSer shouts:[0m help i cant figure out how to get to pump station gamma[0m
+[16:13] [0m[34;1mEcholoc shouts:[0m so that is what the kids are calling it nowadays...[0m
+[16:13] [0m[34;1mTaris shouts:[0m I'm told it's just a jump to the left....[0m
+[16:13] [0m[34;1mSer shouts:[0m portal 2[0m
+[16:13] [0m[34;1mLocrian shouts:[0m and then a step to the right[0m
+[16:14] [0m[34;1mEcholoc shouts:[0m put your hands on your hips[0m
+[16:14] [0m[34;1mSer shouts:[0m nevermind i just figured it out[0m
+[16:14] [0m[34;1mEcholoc shouts:[0m and pull you knees in tight[0m
+[16:14] [0m[34;1mTaris shouts:[0m I kinda sorta apologize for starting this, but not really.  (Also, no idea about[0m
+[16:14] [0m              the area you're in man, I r newbsauce)[0m
+[16:27] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[17:01] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[17:05] [0m[34;1mVolt shouts:[0m totally[0m
+[17:32] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[17:52] [0mSissy {Professions}: other than trial and error .. how can i tell what weapons and armour i can[0m
+[17:52] [0m                     transmute at any give plvl ?[0m
+[17:57] [0mSer {Professions}: error and trial[0m
+[18:06] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[18:18] [0m[37;1mBarian flaps :[0m anyone have a biggen corpse I can use, a fresh one please?[0m
+[22:35] [0m[31;1m[Clan] Turin enters the game.[0m  [0m
+[22:56] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[23:08] [0m[31;1m[Clan] Turin leaves the game.[0m  [0m
+[23:09] [0m[31;1m[Clan] Elektra enters the game.[0m  [0m
+[23:31] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[23:31] [0m[34;1mFluffy shouts:[0m i could take the grue ... bring it![0m
+[23:40] [0m[37;1mCrimson flaps :[0m need something good to watch on prime[0m
+[23:43] [0m[37;1mBenek flaps :[0m my spy was fun.[0m
+[23:47] [0m[37;1mDin flaps :[0m knives out was fun[0m
+[23:48] [0m[37;1mDin flaps :[0m or the grand tour if your into brit humor and car shows[0m
+[23:53] [0m[31;1m[Clan] Elektra leaves the game.[0m  [0m
+[23:53] [0mRPDFd  Wm:g Wc: 97% Gx: 34.39% Fx: 12.23%[0m

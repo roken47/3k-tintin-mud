@@ -1,0 +1,38 @@
+#class {bot} {open}
+#var foundmob 0;
+#var foundplayer 0;
+#var mobname 0;
+#var bot 0;
+#var IdleTimeout 600;
+#event {RECEIVED INPUT} {
+	#var IDLE 0;
+	#undelay {deadmanSwitch};
+	#undelay {tell_stop};
+	#delay {deadmanSwitch} {.stop;#var IDLE 1} {$IdleTimeout};
+	};
+
+#alias {.pause} {#class {xbot} {kill};#alias {_check_mob} {.pause}};
+#alias {.stop} {#class {xbot} {kill};#al {_step_room} {#nop};#al {_check_mob} {#nop};#al {_enter_room} {#nop};#var halt 1}
+#alias {_check_mob} {#nop}
+#alias {..} {#var halt 0;
+	#class {xbot} {open};
+	#act {^-R-_%%1$} {#var room_short %%1;_step_room};
+	#alias {_step_room} {#unvar foundplayer;#act {^>$} {#path walk;#unact {^>$}} {1}};
+	#alias {_check_mob} {#act {^>$} {#if {$foundplayer} {_enter_room;#path walk} {_enter_room;.pause;k $mobname;#var foundmob 1}}};
+	#alias {_enter_room} {#unact {^>$}};
+	glance;
+	#class {xbot} {close}
+	}
+
+#alias {killbot} {.stop;#class bot kill;#class xbot kill;#map find home;#undelay {deadmanSwitch};#alias {.bot} {#nop};#act {dealt the killing blow to} {corpsetrig}}
+
+#alias {.bot} {#if {$halt == 0} {..}}
+
+#act {dealt the killing blow to} {corpsetrig;.bot}
+#act {^[PLaYeR]} {#var foundplayer 1} {6}
+#nop switching the two acts below... endless loop for EVENT and simple off switch for everything else
+#nop act {#END OF PATH} {#if {$no_loop | !$foundmob} {killbot} {_enter_room;#path load botpath;.bot;#var foundmob 0}}
+#act {#END OF PATH} {killbot}
+
+.cbot;#path load botpath;#var halt 0
+#class {bot} {close}

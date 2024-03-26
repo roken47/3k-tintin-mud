@@ -1,0 +1,883 @@
+- = LOG STARTED [00:00] = -
+[00:08] [0m[35;1mBaywatch [Jedi(9)]:[0m how do i return from an area, like chaos[0m
+[00:08] [0m[35;1mBaywatch [Jedi(9)]:[0m im in the square where i endered it[0m
+[00:09] [0m[35;1mSimple [Jedi(70)]:[0m vortex[0m
+[00:09] [0mInix flaps : Enjoy yourself, it's later than you think.[0m
+[00:10] [0m[35;1mBaywatch [Jedi(9)]:[0m cool thanks[0m
+[00:11] [0m[33;1m[Clan] Dartholiver leaves the game.[0m  [0m
+[00:12] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[00:15] [0mYour transmuter's stone bursts with 5 new colours![0m
+[00:23] [0m[35;1mBaywatch [Jedi(9)]:[0m how can i see unspent xp[0m
+[00:24] [0m[35;1mRoken [Jedi(80)]:[0m xp[0m
+[00:24] [0m[32;1mFrom afar, Simonz laffs at you![0m[0m
+[00:25] [0mInix flaps : "You remember Zork?  The old text based video game?"[0m
+[00:25] [0mInix flaps : *smh* Chuck, starting off weak.[0m
+[00:25] [0m[35;1mSimonz [Jedi(Knight)]:[0m or rcost[0m
+[00:25] [0mEli flaps : yep[0m
+[00:25] [0m[35;1mSimonz [Jedi(Knight)]:[0m umm...[0m
+[00:25] [0m[35;1mRoken [Jedi(80)]:[0m 'focus check /cost' to see costs of mortal stats and how many you can allocate[0m
+[00:25] [0m[35;1mSimonz [Jedi(Knight)]:[0m make that focus check on cost[0m
+[00:26] [0m[35;1mRoken [Jedi(80)]:[0m heh both work[0m
+[00:26] [0m[35;1mBaywatch [Jedi(9)]:[0m rcost doesnt seam to work[0m
+[00:26] [0mEli flaps : that's the game where the goal was to get eaten by grues right?[0m
+[00:26] [0m[35;1mSimonz [Jedi(Knight)]:[0m I've just had rcost as my alias for 23 years, I forgot sometimes that[0m
+[00:26] [0m                       there's a different command behind it lol[0m
+[00:26] [0m[35;1mRoken [Jedi(80)]:[0m rcost is for adventures[0m
+[00:27] [0m[35;1mRoken [Jedi(80)]:[0m adventurers and he did say unspent so 'xp' works plainly lol[0m
+[00:27] [0m[35;1mSimonz [Jedi(Knight)]:[0m it's what it used to be for witches too, and maybe priests?[0m
+[00:27] [0m[35;1mSimonz [Jedi(Knight)]:[0m oh sure, xp is definitely the goto[0m
+[00:27] [0m[35;1mSimonz [Jedi(Knight)]:[0m just tossing out the other as another option[0m
+[00:27] [0m[32;1mFrom afar, you snicker at Simonz.[0m[0m
+[00:28] [0m[32mYou tell Simonz:[0m you are making me smarter? I had to step with you gone for the jedi noobs :D[0m
+[00:29] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[00:29] [0m[32mYou tell Simonz:[0m woo 4.5B to go for T3 HA... maybe complete it tomorrow[0m
+[00:29] [0;1;31mInix flaps : Well, it's the text-based game, aka, *not* a video game[0m
+[00:30] [0m[32mSimonz tells you:[0m nice[0m
+[00:30] [0m[35;1mSimple [Jedi(70)]:[0m focus check /stats[0m
+[00:30] [0mNik flaps : can you even say its a video game if it doesnt have fmv's?[0m
+[00:30] [0m[32mYou tell Simonz:[0m ya it's nice. can't wait to do embiggen and HA together[0m
+[00:31] [0mXiu flaps : sinistar hungers![0m
+[00:31] [0mZeiron flaps : way way back when anybody ever write their own zork like program[0m
+[00:32] [0mInix flaps : Yeah, on my TI[0m
+[00:32] [0m[32mSimonz tells you:[0m I'm just focused on maxing stats right now[0m
+[00:34] [0mCinis flaps : I played my first text based game on a C64[0m
+[00:34] [0m[32mYou tell Simonz:[0m maybe do the same after T3... almost a lvl to max HA @ 50B[0m
+[00:34] [0mSimonz flaps : man, I miss my C64[0m
+[00:34] [0m[32mSimonz tells you:[0m nog, it's crazy[0m
+[00:34] [0mCinis flaps : I don't remember the name of it, but it was likely one of the many "Adventure"[0m
+[00:34] [0m              titles.[0m
+[00:35] [0mCinis flaps : I'm sure that had a huge impact on why I MUD[0m
+[00:35] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[00:35] [0m[32mYou tell Simonz:[0m Gxp:42.21% Dxp:21.85% am I ahead?[0m
+[00:36] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[00:36] [0mCaeli flaps : So, am I wrong to be annoyed that a dude has asked me at least 3 times if I know[0m
+[00:36] [0m              who Megatron and Optimus Prime are?[0m
+[00:36] [0m[32mSimonz tells you:[0m Fdx:  2.53% Gx: 40.66%[0m
+[00:37] [0mNik flaps : your answer must not be optimal[0m
+[00:37] [0mCinis flaps : I'm curious about the context of this conversation[0m
+[00:37] [0mInix flaps : Yeah, it's a yes or no question, doesn't require three repeat asking unless you[0m
+[00:37] [0m             aren't saying 'yes' or 'no'.[0m
+[00:38] [0mSquirrel flaps : mountain king, and return of the jedi for atari 400[0m
+[00:38] [0mCaeli flaps : He's 50, I'm 44 and female. He keepsaskingme about Primeand Megatron and saying i[0m
+[00:38] [0m              wouldn't knowwho they were.[0m
+[00:38] [0mNik flaps : tell him maximals n predicons are sexier, thatll show him[0m
+[00:38] [0mCinis flaps : ahhh ok that makes more sense and yes it would me annoying[0m
+[00:38] [0mSquirrel flaps : tell him gobots were better[0m
+[00:39] [0mSquirrel flaps : more betterer[0m
+[00:39] [0mOmni flaps : mo' bettah fo sho fo sho[0m
+[00:39] [0mSimonz flaps : macross YF-19 ftw[0m
+[00:39] [0mNik flaps : tell him bout the time optimus went back in time and became his own monkey daddy[0m
+[00:40] [0mSquirrel flaps : ask him who orion pax is[0m
+[00:40] [0mCinis flaps : haven't heard anyone mention macross in a loooong time[0m
+[00:40] [0mCaeli flaps : Honestly, about to just stop talking to him all together because he seems to be in[0m
+[00:40] [0m              a mood no matter what.[0m
+[00:41] [0mSquirrel flaps : go buy some booze thatll change the mood[0m
+[00:41] [0mNik flaps : or just bring up beast machines, where they went to robot world, to save the plants[0m
+[00:41] [0mCaeli flaps : I've got enough booze for myself until the SAH ordersgo away[0m
+[00:42] [0mCinis flaps : that's what I thought, but I've restocked 5 times.[0m
+[00:43] [0mSquirrel flaps : you havent gotten the IV yet?[0m
+[00:43] [0mCaeli flaps : I live in Louisiana. Booze is never going to be shut down.[0m
+[00:43] [0mEli flaps : you guys are making me feel like I've got the touch... I've got the power?[0m
+[00:43] [0mSquirrel flaps : why do you think west virginia has a low count of covid 19? Moonshine.[0m
+[00:44] [0mCinis flaps : nope, I got bored of drinking.  Gave up.  For now.[0m
+[00:44] [0mZeiron flaps : only about 200 cases here[0m
+[00:44] [0mSquirrel flaps : just tell him that dragonball is animated by the toei anime company which did[0m
+[00:44] [0m                 Gen 1 Transformers[0m
+[00:45] [0mSimonz flaps : cases of beer or cases of covid-19?[0m
+[00:45] [0mInfectious flaps : resetting zambies swang by[0m
+[00:45] [0mInfectious flaps : resetting zambies swang by[0m
+[00:45] [0mZeiron flaps : here i one that blows peoples minds. transformers and gi joe is same universe.[0m
+[00:45] [0mCaeli flaps : Gen 1. The 80's cartoons?[0m
+[00:45] [0mZeiron flaps : there was actually a transformers gi jo crossover episode[0m
+[00:46] [0mSimonz flaps : .... GI Joe[0m
+[00:46] [0mSquirrel flaps : blow his mind whne he starts arguing and say, One shall stand and one shall[0m
+[00:46] [0m                 fall.[0m
+[00:46] [0mInfectious flaps : come on come all! reseting zambiesss[0m
+[00:46] [0m[34;1mInfectious shouts:[0m resetting zambies swang by[0m
+[00:46] [0mXiu flaps : then punch him in the jimmy so he knows which is which[0m
+[00:48] [0mInfectious flaps : resetted[0m
+[00:49] [0m[33;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[00:57] [0m[32mSimonz tells you:[0m what kind of delta are you getting these days?[0m
+[00:58] [0m[32mSimonz tells you:[0m not counting embiggen / HA ;)[0m
+[00:59] [0m[32mYou tell Simonz:[0m 130m~ @ zel, ~120m @chess (improved from 110), ~150m from hotel (need more con[0m
+[00:59] [0m        for 118 cuz of drink waiter, so still 117)[0m
+[00:59] [0m[32;1mFrom afar, Simonz nogs at you.[0m[0m
+[00:59] [0m[32mSimonz tells you:[0m you do rimalkins?[0m
+[01:00] [0m[32mYou tell Simonz:[0m fine! i'll work on a bot haha[0m
+[01:00] [0m[35;1mBaywatch [Jedi(9)]:[0m it takes so long to kill smurfs, how can i do more damage[0m
+[01:01] [0m[35;1mBaywatch [Jedi(9)]:[0m str?[0m
+[01:01] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[01:02] [0m[32mSimonz tells you:[0m 15 more wis to max, then 43 more con to max.  the rest will go to dex, and[0m
+[01:02] [0m        then I'll max it next level[0m
+[01:02] [0m[32mSimonz tells you:[0m rimalkins is my best xp[0m
+[01:02] [0m[32mSimonz tells you:[0m ~180m delta[0m
+[01:03] [0m[32mSimonz tells you:[0m if I'm geared up then hotel is better, I do about 230m there on 136, but[0m
+[01:03] [0m        have to be really geared up, which isn't happening this boot[0m
+[01:04] [0m[35;1mSimonz [Jedi(Knight)]:[0m if you have a lightsaber, wis == damage[0m
+[01:04] [0m[35;1mSimonz [Jedi(Knight)]:[0m and mastery/guide levels == +damage[0m
+[01:05] [0m[35;1mBaywatch [Jedi(9)]:[0m thanks[0m
+[01:06] [0mCaeli flaps : Night y'all[0m
+[01:06] [0m[32mSimonz tells you:[0m and rimalkins has always reset by the time I finish it, so I can cycle[0m
+[01:06] [0m        through here indefinitely[0m
+[01:07] [0m[32mSimonz tells you:[0m only dowside is the fdef rate is half what you get in zell[0m
+[01:10] [0m[35;1mBaywatch [Jedi(9)]:[0m lightsaber already broke lol[0m
+[01:11] [0m[33;1m[Clan] Xaro leaves the game.[0m  [0m
+[01:11] [0m[32mYou tell Simonz:[0m issue is not enough con[0m
+[01:11] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[01:14] [0m[32mSimonz tells you:[0m what're your stats at now?[0m
+[01:15] [0m[32mSimonz tells you:[0m also, you're maxed out on mining, why haven't you finish[0m
+[01:15] [0m        smith/enchanter/wrangler?[0m
+[01:15] [0m[33;1m[Clan] Ser :[0m night fuckheads[0m
+[01:15] [0m[33;1m[Clan] Ivy :[0m night fucknuts[0m
+[01:15] [0mYour transmuter's stone bursts with 2 new colours![0m
+[01:15] [0m[35;1mSimonz [Jedi(Knight)]:[0m yeah, they break fast at first[0m
+[01:16] [0m[35;1mBaywatch [Jedi(9)]:[0m super expensive to repair too[0m
+[01:16] [0m[35;1mSimonz [Jedi(Knight)]:[0m depends on what broke[0m
+[01:16] [0m[35;1mBaywatch [Jedi(9)]:[0m crystal[0m
+[01:16] [0m[35;1mSimonz [Jedi(Knight)]:[0m 5-15k[0m
+[01:17] [0m[35;1mBaywatch [Jedi(9)]:[0m can i get training ? anyone around?[0m
+[01:17] [0m[35;1mSimonz [Jedi(Knight)]:[0m sure[0m
+[01:20] [0m[35;1mDhaj [Jedi(15)]:[0m woo![0m
+[01:22] [0m[33;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[01:41] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[01:47] [0m[32mYou tell Simonz:[0m been awhile since I've looked. Believe I was lacking hearts in legendary and[0m
+[01:47] [0m        smithing, er I need to go back for some mats? beginner stuf[0m
+[01:48] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[01:48] [0m[32mYou tell Simonz:[0m con 209, wis 250, dex 225[0m
+[01:49] [0m[32mSimonz tells you:[0m yeah, you're hurting for hp.  that's why I've been focusing my crafted sets[0m
+[01:49] [0m        on con[0m
+[01:50] [0m[32mSimonz tells you:[0m then I can tank the bigger stuff and get a better xp rate[0m
+[01:50] [0m[32mSimonz tells you:[0m I'm at 232 con[0m
+[02:15] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[02:15] [0mYour transmuter's stone bursts with 3 new colours![0m
+[02:19] [0m[35;1mBaywatch [Jedi(11)]:[0m does <?> mean they are a quest npc?[0m
+[02:19] [0m[35;1mBaywatch [Jedi(11)]:[0m after their name[0m
+[02:22] [0mInix flaps : *Actress picks knife up off of a towel*   *chink noise*[0m
+[02:22] [0mInix flaps : Metal on metal unsheathing sound != knife lifting off of a towel[0m
+[02:23] [0mGrot flaps : hastag science[0m
+[02:26] [0m[33;1m[Clan] Ivy :[0m night[0m
+[02:43] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[02:54] [0mJasmine flaps : tip of the day: stay about 10 ft away from people, if you aren't sure how much[0m
+[02:54] [0m                10 ft is then picture a chicago bears wr then picture where mitch tribisky's[0m
+[02:54] [0m                pass actually went to. that is about 10 ft.[0m
+[02:55] [0m[33;1m[Clan] Bruce enters the game.[0m  [0m
+[02:55] [0m[33;1m[Clan] Bruce :[0m hurrah! thanks archi[0m
+[02:55] [0m[33;1m[Clan] Archangel :[0m :D[0m
+[02:55] [0mScaf flaps : We're mudders. If the distance looks like it would wind us, it's almost far enough[0m
+[02:55] [0m             away.[0m
+[02:55] [0mNik flaps : isnt it airborne?[0m
+[02:56] [0mNik flaps : but theyre saying it isnt?[0m
+[02:56] [0mScaf flaps : no[0m
+[02:56] [0mKenny flaps : speak for yourself, i run with my dog while mudding hehe :)[0m
+[02:56] [0m[35;1mRoken [Jedi(80)]:[0m frags in[0m
+[02:57] [0mXiu flaps : how many rooms is 10 feet? or should i just stay in dungeons?[0m
+[02:57] [0mKenny flaps : uuhhhh nm. that wouod certainly be far enough away lol.[0m
+[03:00] [0mScaf flaps : airborne isn't the same as droplet transmission, but I can see where a[0m
+[03:00] [0m             non-biologist might see that as a distinction without a difference, and that's why[0m
+[03:00] [0m             the WHO is just saying to treat it as though it were airborne.[0m
+[03:00] [0mJasmine flaps : bad business ad: buy a large pizza and get a case of corona free[0m
+[03:01] [0mNik flaps : if droplets were small enough they could waft on breezes[0m
+[03:01] [0mJasmine flaps : but if you break wind there is no breeze :p[0m
+[03:01] [0mKenny flaps : sign me up[0m
+[03:01] [0mNik flaps : life hack[0m
+[03:01] [0mCinis flaps : the Johns Hopkins article on the droplet test opened up my eyes a bit.  Made me[0m
+[03:01] [0m              much less paranoid.[0m
+[03:03] [0mCinis flaps : which i strongly encourage anyone to read their covid resource info for a grounded[0m
+[03:03] [0m              view of things[0m
+[03:03] [0mJasmine flaps : it is estimated that the virus will effect roughly 50% of the population, from[0m
+[03:03] [0m                that 50% only 1% of them will die[0m
+[03:04] [0mScaf flaps : 1% of 3.5 billion is still 35 million people dead[0m
+[03:04] [0mJasmine flaps : the flu kills more people than the virus[0m
+[03:04] [0mScaf flaps : not anymore! heh[0m
+[03:05] [0mLivewire flaps : no.. the flu DID kill more people. not anymor[0m
+[03:05] [0mScaf flaps : we just passed normal flu numbers[0m
+[03:05] [0mXiu flaps : add some deaths from other stuff because people can't get treatment when hospitals[0m
+[03:05] [0m            are jammed[0m
+[03:06] [0mJasmine flaps : most of the people that died from the virus also had other illnesses[0m
+[03:07] [0mScaf flaps : well, we've long last the chance at containment. so we better hope you're right[0m
+[03:07] [0m             about it not being bad or this will be system-breaking[0m
+[03:07] [0mScaf flaps : long lost*[0m
+[03:07] [0mJasmine flaps : want to get rid of the outbreak quick, kill anyone that coughs or eats[0m
+[03:07] [0m                bats.......except ozzy[0m
+[03:07] [0mCinis flaps : was going to link the articel, but they must be updating the site right now.[0m
+[03:07] [0mNik flaps : playcult[0m
+[03:08] [0mCinis flaps : who wanna playcult?[0m
+[03:08] [0mNik flaps : drink the tea, we all outta koolaid[0m
+[03:08] [0mXiu flaps : earl grey, hot.[0m
+[03:08] [0mScaf flaps : ^[0m
+[03:08] [0mJasmine flaps : then the players from oakland and detroit wont join[0m
+[03:08] [0mNik flaps : make it so[0m
+[03:13] [0mCinis flaps : chai[0m
+[03:13] [0mCinis flaps : chai latte is my weakness if I'm feeling fancy[0m
+[03:13] [0mNik flaps : computer, i said i want fried chicken tea[0m
+[03:15] [0m[32mFrank says:[0m You're about to be in... dead place![0m
+[03:15] [0mYour transmuter's stone bursts with 5 new colours![0m
+[03:15] [0m[32mFrank says:[0m I did NOT see that coming![0m
+[03:16] [0mXiu flaps : error, the system can only replicate fried chicken for those with the rank of[0m
+[03:16] [0m            colonel.[0m
+[03:19] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[03:46] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[03:46] [0m[37;1mHooligan <.oO>:[0m woooo[0m
+[04:00] [0m[34;1mJasmine shouts:[0m DIRTY FILTHY MEMORY![0m
+[04:00] [0m[34;1mKenny shouts:[0m Anyone wanna smoke a bowl? Proper social distancing of course.[0m
+[04:16] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[04:36] [0mYour transmuter's stone bursts with 6 new colours![0m
+[04:46] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[05:11] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[05:41] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[06:01] [0m[34;1mXiu shouts:[0m botting through the night, on this lonesome highway of xp. thinking about you babe,[0m
+[06:01] [0m            and how bs i'm gonna be. you left me for a necro, but he's dead inside, i ain't[0m
+[06:01] [0m            gonna let that hurt my pride. yooooou'll seeeee. *twang twang twang-awang*[0m
+[06:03] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Deserts of Fantasy![0m
+[06:03] [0m                          We are localizing it now - get ready![0m
+[06:07] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[06:38] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[12:07] [0m[33;1m[Clan] Ivy :[0m test... 3.5k/year[0m
+[12:07] [0m[33;1m[Clan] Ivy :[0m so weird why that was replacing, no longer... anyway...[0m
+[12:07] [0m[33;1m[Clan] Byron :[0m i still see 1.5[0m
+[12:08] [0m[33;1m[Clan] Byron :[0m maybe it's the same thing as when you type your password[0m
+[12:08] [0m[33;1m[Clan] Byron :[0m *********[0m
+[12:08] [0m[33;1m[Clan] Ivy :[0m wtf[0m
+[12:08] [0m[33;1m[Clan] Ivy :[0m you're joking aren't you[0m
+[12:08] [0m[33;1m[Clan] Roken :[0m [12:07] [Clan] Ivy : test... 3.5k/year[0m
+[12:09] [0m[33;1m[Clan] Ivy :[0m ethumbsup[0m
+[12:09] [0m[33;1m[Clan] Ivy :[0m oops different nicknames here heh[0m
+[12:09] [0m[33;1m[Clan] Ivy :[0m thanks[0m
+[12:09] [0m[33;1m[Clan] Roken :[0m er im confused[0m
+[12:10] [0m[33;1m[Clan] Ivy :[0m ~15 cmessages ago... tried to say '3.5k/year', but client was relacing it as[0m
+[12:10] [0m             '-1.5k/year', the did it again second time i tired... now no longer...[0m
+[12:10] [0m[34;1mBahram shouts:[0m work lunch and learn presentation just got hacked, seeing the look on my boss's[0m
+[12:10] [0m               face when all that nudity showed up was pretty priceless.[0m
+[12:10] [0m[33;1m[Clan] Ivy :[0m i kan tipe[0m
+[12:10] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[12:10] [0m[34;1mOmni shouts:[0m project mayhem is proceeding excellently... sir.[0m
+[12:11] [0m[33;1m[Clan] Roken :[0m :D 'i kan tipe' lol[0m
+[12:13] [0m[33;1m[Clan] Byron :[0m ugh roken you suck[0m
+[12:14] [0m[33;1m[Clan] Roken :[0m what don't i do?[0m
+[12:16] [0m[33;1m[Clan] Ser :[0m cup the balls[0m
+[12:17] [0m[33;1m[Clan] Roken :[0m negative[0m
+[12:22] [0m[33;1m[Clan] Roken :[0m why do I attract the 'more to love' gals?[0m
+[12:26] [0mYour transmuter's stone bursts with 4 new colours![0m
+[12:26] [0msRPDFd  Wm:g Wc: 95% Gx: 45.45% Fx: 22.73%[0m
+[12:28] [0m[34;1mFluffy shouts:[0m big letters![0m
+[12:28] [0m[34;1mZor shouts:[0m woo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![0m
+[12:32] [0m[33;1m[Clan] Roken :[0m tinder sux[0m
+[12:33] [0m[33;1m[Clan] Ivy :[0m i learned to hate online dating[0m
+[12:34] [0m[33;1m[Clan] Ivy :[0m airbnb just mailed my hard drive, woot[0m
+[12:36] [0m[33;1m[Clan] Ivy :[0m i still try online dating when i'm in fuck it mode... evolution is weird[0m
+[12:40] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[12:42] [0m[34;1mKitt shouts:[0m Woo whoknows died and you are next[0m
+[12:44] [0m[34;1mSomeone shouts:[0m no what is next[0m
+[12:46] [0m[35;1mSimonz [Jedi(Knight)]:[0m oops?[0m
+[12:48] [0m[33;1m[Clan] Ivy :[0m you sid 15? or 20?[0m
+[12:48] [0m[33;1m[Clan] Ivy :[0m wl[0m
+[13:15] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[13:20] [0m[35;1mBaywatch [Jedi(12)]:[0m can an alias run 2 commands?[0m
+[13:24] [0m[35;1mOne [Jedi(24)]:[0m aside from .login i don't think so[0m
+[13:25] [0m[34;1mKitt shouts:[0m to infinity Moo and beyond![0m
+[13:25] [0m[34;1mFluffy shouts:[0m 120k![0m
+[13:26] [0mYour transmuter's stone bursts with 5 new colours![0m
+[13:30] [0m[34;1mKitt shouts:[0m Le Moo![0m
+[13:30] [0m[34;1mZor shouts:[0m the moo is spoiled[0m
+[13:32] [0m[34;1mSaim shouts:[0m BOK![0m
+[13:40] [0m[35;1mSaim [Jedi(Elder)]:[0m what are you trying to do baywatch?[0m
+[13:45] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[13:58] [0m[35;1mDhaj [Jedi(15)]:[0m doh![0m
+[14:01] [0m[33;1m[Clan] Ser :[0m glove has a mass in belly pushing on stomach/intestines/bladder etc, gonna be 3-5k$[0m
+[14:01] [0m             to get surgery :([0m
+[14:02] [0m[33;1m[Clan] Archangel :[0m ?[0m
+[14:02] [0m[33;1m[Clan] Roken :[0m poor Glove[0m
+[14:02] [0m[33;1m[Clan] Ser :[0m doggo...  he's only 3 yrs old[0m
+[14:03] [0m[33;1m[Clan] Archangel :[0m :([0m
+[14:03] [0m[33;1m[Clan] Ser :[0m yah :([0m
+[14:07] [0m[33;1m[Clan] Ivy :[0m whaaat... is he healthy? overweight?[0m
+[14:07] [0m[33;1m[Clan] Ivy :[0m use the money to take a trip to india and have somewhere there do it :\[0m
+[14:07] [0m[33;1m[Clan] Ivy :[0m or like canada[0m
+[14:08] [0m[33;1m[Clan] Ivy :[0m or could try working it out through excercise or something natural, change[0m
+[14:08] [0m             diet/half home-cooked/raw maybe, check again in 2-3 months and see if it's[0m
+[14:08] [0m             decreasing[0m
+[14:09] [0m[33;1m[Clan] Saim :[0m def get the tests/records and get a second opinion on treatment options[0m
+[14:09] [0m[33;1m[Clan] Saim :[0m prob a tumor just like humans get, so it depends on if its growing or not[0m
+[14:10] [0m[33;1m[Clan] Saim :[0m thats the main factor in deciding[0m
+[14:10] [0m[33;1m[Clan] Roken :[0m from minimal observation, it's likely to be diet. Glove gets daily excercise[0m
+[14:16] [0mVoodoo flaps : oooh, i wonder if the 1 millionth case got a set of steak knives[0m
+[14:16] [0mFluffy flaps : a fashion makeover[0m
+[14:18] [0mVoodoo flaps : few months ago, I saw Crolack with a bedazzled glove, driving a Titan, looking[0m
+[14:18] [0m               crazy/mad, snapping his fingers[0m
+[14:20] [0mOmni flaps : resetting zombies in 2[0m
+[14:22] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[14:22] [0mOmni flaps : last call[0m
+[14:26] [0mYour transmuter's stone bursts with 2 new colours![0m
+[14:32] [0mKitt flaps : So work just had a meeting with higher ups and just told us that they are[0m
+[14:32] [0m             suspending all production  effective Monday[0m
+[14:32] [0mKitt flaps : they going to be down for 4 weeks[0m
+[14:32] [0mOmni flaps : it took this long?[0m
+[14:45] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[15:10] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[15:12] [0mNik flaps : aww, not smokes?[0m
+[15:14] [0m[35;1mBaywatch [Jedi(12)]:[0m where should i sell my junk[0m
+[15:15] [0m[35;1mBurnaby [Jedi(71)]:[0m 1 east of CoT is Cancer's shop. you can sell there. theres many shops[0m
+[15:15] [0m                    scattered across the mud[0m
+[15:25] [0mnewb Chopin [mage/14]: Why am I always dropped into woonsocket?[0m
+[15:25] [0mnewb Chopin [mage/14]: never mind[0m
+[15:26] [0mYour transmuter's stone bursts with 4 new colours![0m
+[15:31] [0m[34;1mKitt shouts:[0m ( ) . ( ) i fart in your general virus direction[0m
+[15:31] [0m[34;1mNik shouts:[0m thanks, break the wind[0m
+[15:32] [0mnewb Chopin [mage/14]: ok.. I take it back.. .how do I stop landing in woonsocket every time I[0m
+[15:32] [0m                       log in?[0m
+[15:32] [0m[33;1m[Clan] Ser :[0m yah i mean they took xrays and said they couldnt even see his spleen because of the[0m
+[15:32] [0m             mass[0m
+[15:33] [0m[33;1m[Clan] Ser :[0m so now at UGA veterinary hospital and he is getting checked out again[0m
+[15:33] [0m[33;1m[Clan] Xaryl :[0m that sucks[0m
+[15:33] [0mArahnapogue <Craft>: wrangling vol 3 @ ss[0m
+[15:33] [0m[33;1m[Clan] Martyr :[0m :([0m
+[15:34] [0m[33;1m[Clan] Martyr :[0m hope doggo gets better[0m
+[15:34] [0m[33;1m[Clan] Ser :[0m he spends a lot of time running around outside with his brother and i go on bike[0m
+[15:34] [0m             rides occasio ally w him (not much recentlysince we fenced in the yard, but[0m
+[15:34] [0m             probably now that it ks drying up id like to...  afterall this)[0m
+[15:34] [0m[34;1mFluffy shouts:[0m let the deaths begin![0m
+[15:36] [0m[33;1m[Clan] Nik :[0m do they think its diet related?[0m
+[15:36] [0m[33;1m[Clan] Nik :[0m peas were screwin with my dogs coat, skin, n butt glands till i figured it out[0m
+[15:37] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[15:38] [0m[33;1m[Clan] Ser :[0m no idea yet.  he eats mostly taste of the wild dog food so..??[0m
+[15:38] [0m[33;1m[Clan] Nik :[0m hmm, does have peas! from what i read chicken n pea allergies are more common if[0m
+[15:38] [0m             dogs do have allergies[0m
+[15:39] [0m[33;1m[Clan] Nik :[0m really neat other stuff in it tho, i wish i could get that w/o peas![0m
+[15:39] [0m[33;1m[Clan] Roken :[0m dogs do have allergies. Friend's dog can't have gluten[0m
+[15:40] [0m[33;1m[Clan] Ivy :[0m    is he a pitbull (friends dog)? they seem to be more sensitive to yeasts/gluten[0m
+[15:40] [0m[33;1m[Clan] Ivy :[0m i have a blue nose... fairly sensitive to it[0m
+[15:40] [0m[33;1m[Clan] Roken :[0m closer to a black lab[0m
+[15:40] [0m[33;1m[Clan] Ivy :[0m nod[0m
+[15:42] [0m[33;1m[Clan] Nik :[0m https://www.amazon.com/Rachael-Ray-Nutrish-Limited-Ingredient/dp/B004QM0OFE[0m
+[15:42] [0m[33;1m[Clan] Ivy :[0m hah fuck rachel ray, but do what you have to[0m
+[15:42] [0m[33;1m[Clan] Nik :[0m defly aint half as fancy and it sucks they used chicken fat, but that made my dogs[0m
+[15:42] [0m             allergies clear right up[0m
+[15:42] [0m[33;1m[Clan] Ivy :[0m and definitely fuck her if you can[0m
+[15:42] [0m[33;1m[Clan] Nik :[0m lafff! oh yesss[0m
+[15:42] [0m[33;1m[Clan] Nik :[0m but its way better than the peas crap i was given her[0m
+[15:43] [0m[33;1m[Clan] Nik :[0m her coat was gettin coarser really young, now shes soft as a puppy again[0m
+[15:44] [0m[33;1m[Clan] Ivy :[0m nod, i make a homemade thing...mix with Zignature dry kibble... lots of stuff, let[0m
+[15:44] [0m             me find list/recipe I made[0m
+[15:44] [0mnewb Crankshaft [cyborg/43]: Hmm. Seems like it swapped to Center of Town once joining a guild[0m
+[15:44] [0mnewb Crankshaft [cyborg/43]: Not sure why you would be stuck there[0m
+[15:45] [0m[33;1m[Clan] Ivy :[0m dog food recipe: https://pastebin.com/ZH16tf9t[0m
+[15:45] [0m[33;1m[Clan] Ivy :[0m obviously replace/reduce ingredients as needed[0m
+[15:45] [0m[33;1m[Clan] Ivy :[0m but all generally healthy for dogs[0m
+[15:46] [0m[33;1m[Clan] Nik :[0m hehe yea, looks great minus those peas![0m
+[15:46] [0mnewb Roken [jedi/131]: there's a lvl threshold[0m
+[15:46] [0mnewb Chopin [mage/14]: Yeah, it's weird.  I've been stuck going there even though I joined mages[0m
+[15:46] [0m                       a while back.  Maybe because I had to go back and finish newbie academy[0m
+[15:46] [0m                       to advance to 10 even though I was already switched to mages?  I dunno[0m
+[15:46] [0m[33;1m[Clan] Ivy :[0m my dog sometimes won't eat unless he knows he's getting homemade food, lol... had[0m
+[15:46] [0m             to break him of that[0m
+[15:47] [0mnewb Chopin [mage/14]: any idea where abouts that number is, Roken?[0m
+[15:47] [0mnewb Kenny [priest/128]: someone needs to just delete woonsocket or something heh[0m
+[15:47] [0m[33;1m[Clan] Nik :[0m haha! n zignature looks nice, but how much these run price wise? seem fancy[0m
+[15:48] [0mnewb Chopin [mage/14]: :)[0m
+[15:48] [0m[33;1m[Clan] Nik :[0m venison n kangroo, ima buy this stuff to eat myself XD[0m
+[15:48] [0mnewb Frank [Wizard]: ha ha[0m
+[15:49] [0m[33;1m[Clan] Ivy :[0m zignature's pretty decent... I do the chewy autoship, $53 or $57 a 27lb bag for the[0m
+[15:49] [0m             normal stuf[0m
+[15:49] [0m[33;1m[Clan] Martyr :[0m this sexy german girl i havent talked to in like a yr just sent me her titties[0m
+[15:49] [0m[33;1m[Clan] Martyr :[0m boredom is great[0m
+[15:49] [0m[33;1m[Clan] Nik :[0m aww, lil disapointing to see peas in the legume free ones and ahh, not too bad and[0m
+[15:49] [0m             not too bad there either![0m
+[15:49] [0m[33;1m[Clan] Ivy :[0m prove it[0m
+[15:49] [0m[33;1m[Clan] Nix :[0m what a thot[0m
+[15:50] [0m[33;1m[Clan] Ivy :[0m hah legume free + peas, great[0m
+[15:50] [0m[33;1m[Clan] Nik :[0m o wait no, i didnt click hard enough[0m
+[15:50] [0m[33;1m[Clan] Nik :[0m there are 3 pea free ones! \o/[0m
+[15:51] [0m[33;1m[Clan] Ivy :[0m some vet recommended zignature a few years and i've just been using it since[0m
+[15:51] [0m[33;1m[Clan] Nik :[0m stuff in it seems amazing! im serious bout eating it myself XD[0m
+[15:51] [0m[33;1m[Clan] Ivy :[0m haha, dude i almost did once.. by accident[0m
+[15:51] [0m[33;1m[Clan] Nik :[0m haha wow[0m
+[15:51] [0mnewb Roken [jedi/131]: umm, I can't find a definitive answer. Gut feeling is lvls 20-30 you'll[0m
+[15:51] [0m                       stop logging in at woonsocket[0m
+[15:52] [0m[33;1m[Clan] Ivy :[0m i actually did, chewed it, yep that's dog food... spit it out[0m
+[15:52] [0m[33;1m[Clan] Nik :[0m haha! how bad was it?[0m
+[15:52] [0mnewb One [jedi/81]: seems arbitrary.  You'd think it'd be 6 or 51[0m
+[15:52] [0m[33;1m[Clan] Ivy :[0m i mean it tastes like dog food, ha, couldn't get over the initial dog foodness, not[0m
+[15:52] [0m             too bad though[0m
+[15:53] [0m[33;1m[Clan] Nik :[0m XD but thats good, we might be eatin it soon[0m
+[15:53] [0mnewb Chopin [mage/14]: Ok, thanks.  That seems high, but whatever. ;)[0m
+[15:53] [0m[33;1m[Clan] Ivy :[0m laf[0m
+[15:53] [0m[33;1m[Clan] Ivy :[0m good in emergencies![0m
+[15:53] [0m[33;1m[Clan] Nik :[0m do not eat the cat food tho[0m
+[15:53] [0mnewb One [jedi/81]: at 6 you can join a guild and go into realms other than pinnacle &[0m
+[15:53] [0m                    newbieland, whereas at 51 you can't get into newbieland anymore[0m
+[15:53] [0mnewb One [jedi/81]: iirc[0m
+[15:55] [0m[33;1m[Clan] Ivy :[0m i guess that's good. have not tried any myself. maybe with some catnip...[0m
+[15:55] [0mnewb Roken [jedi/131]: lv 5 for guilds, lv 6 for clans, and lv 50 bannishment from newbieland[0m
+[15:56] [0mnewb Fluffy [changeling/135]: help milestones[0m
+[15:56] [0mnewb Roken [jedi/131]: he'll stop coming back from linkdeath at woonsocket long before lv50[0m
+[15:56] [0mnewb Baramore [monk/108]: I remember the days when L5 meant - no more newbieland.[0m
+[15:56] [0mnewb Chopin [mage/14]: Hmm.. no mention of it.  I'll have to look more carefully when next I log[0m
+[15:56] [0m                       in[0m
+[15:56] [0mnewb Roken [jedi/131]: "fluffy" what i used to correct one[0m
+[15:57] [0m[33;1m[Clan] Nik :[0m there might be some made ok for us, but cats can eat stuff thats been dead way[0m
+[15:57] [0m             longer than we can[0m
+[15:57] [0mnewb Adalius [Admin]: psst, its level 15 for woonsocket[0m
+[15:57] [0m[33;1m[Clan] Ivy :[0m cats eat the dead[0m
+[15:57] [0mnewb Roken [jedi/131]: what is so horrible about starting there anyway?[0m
+[15:57] [0mnewb Adalius [Admin]: well, 16 I guess, <=15 goes there[0m
+[15:57] [0m[33;1m[Clan] Ivy :[0m cats are death[0m
+[15:57] [0mnewb Roken [jedi/131]: thank you adalius. where's the help file?[0m
+[15:58] [0mnewb Fluffy [changeling/135]: try 'touch post'@cot , see if you get waypoint @ cot[0m
+[15:58] [0mnewb Chopin [mage/14]: it just throws me off.  My memory of directions is all from COT.  So,[0m
+[15:58] [0m                       when I jump, I end up god knows where every time[0m
+[15:58] [0mnewb Chopin [mage/14]: I tried that.. Oh, I saw a waypoint there but it looked like it failed. [0m
+[15:58] [0m                       Maybe it's fixed.[0m
+[15:58] [0m[33;1m[Clan] Ivy :[0m just like my ex[0m
+[15:58] [0mnewb Baramore [monk/108]: Wing it, wander until you find something you recognize and then go to[0m
+[15:58] [0m                          your house.[0m
+[15:58] [0m[33;1m[Clan] Martyr :[0m holy vial wtf[0m
+[15:58] [0mnewb Baramore [monk/108]: That's how I do it anyway.[0m
+[16:00] [0mnewb Adalius [Admin]: help files? help milestones. right there, Clear As Crystal, GOOD DAY SIR[0m
+[16:00] [0mnewb Chopin [mage/14]: it clear as day says you won't be dropped into Woonsocket, Mr. Wonka?[0m
+[16:00] [0mnewb Roken [jedi/131]: jajaja dope palm to head[0m
+[16:00] [0mnewb Chopin [mage/14]: I must have missed that when I read it[0m
+[16:01] [0mnewb Chopin [mage/14]: oh wait, it is there!  16.  Thanks Adalius.[0m
+[16:04] [0m[33;1m[Clan] Ipsie :[0m priesty artifact ?[0m
+[16:04] [0m[33;1m[Clan] Martyr :[0m oh[0m
+[16:04] [0m[33;1m[Clan] Martyr :[0m sounds cool, want it X?[0m
+[16:07] [0m[33;1m[Clan] Xaryl :[0m can't remember what it's fro[0m
+[16:07] [0m[34;1mFluffy shouts:[0m gotta hate a music critic[0m
+[16:07] [0m[33;1m[Clan] Roken :[0m who has bsinger alt?[0m
+[16:08] [0m[33;1m[Clan] Archangel :[0m Preist artifact: Vial of Holy Water: Damages undead mobs, will need to be[0m
+[16:08] [0m                   refilled with water, available from various sources.[0m
+[16:08] [0m[33;1m[Clan] Nik :[0m ballin[0m
+[16:08] [0m[33;1m[Clan] Archangel :[0m Probably not worth it[0m
+[16:08] [0m[33;1m[Clan] Nik :[0m haha aww[0m
+[16:09] [0m[33;1m[Clan] Archangel :[0m Might be useful in Hotel, but not if you only get a few uses or one use out[0m
+[16:09] [0m                   of it before you need to refill it.[0m
+[16:12] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[16:12] [0m[34;1mOmni shouts:[0m 309[0m
+[16:12] [0m[34;1mFluffy shouts:[0m big ... meaningless ... numbers[0m
+[16:12] [0m[34;1mNik shouts:[0m seek the vinci, save the cheerleader[0m
+[16:12] [0m[34;1mSquirrel shouts:[0m can you show me on the bear where he provided you numbers?[0m
+[16:13] [0m[34;1mKenny shouts:[0m New Litany dmg absorption cap?[0m
+[16:17] [0m[33;1m[Clan] Roken :[0m i can omit large rimalkins in the script? no cause of confusion?[0m
+[16:17] [0mDFd  Wm:g Wc: 12% Gx: 49.13% Fx: 23.78%[0m
+[16:19] [0m[34;1mYardleblarp shouts:[0m my first google hit for that number is a form for migration to canada[0m
+[16:20] [0m[34;1mYacoub shouts:[0m Sounds like fate![0m
+[16:20] [0m[34;1mSquirrel shouts:[0m you must playcult then cult join[0m
+[16:27] [0mYour transmuter's stone bursts with 3 new colours![0m
+[16:27] [0m[33;1m[Clan] Martyr :[0m if you do 'small rimalkin' i think it works[0m
+[16:27] [0m[34;1mFlaxen shouts:[0m murderbots[0m
+[16:27] [0m[34;1mFlaxen shouts:[0m let's make a guy who sells murderbots[0m
+[16:27] [0m[34;1mSquirrel shouts:[0m wibble[0m
+[16:27] [0m[34;1mFlaxen shouts:[0m mostly functional and accurate murderbots[0m
+[16:28] [0m[34;1mFlaxen shouts:[0m now with 33% fewer malfunctions[0m
+[16:28] [0m[34;1mYacoub shouts:[0m I like it! Especially the "mostly" part[0m
+[16:29] [0m[34;1mNauda shouts:[0m 420 = current month/year[0m
+[16:29] [0m[34;1mNik shouts:[0m pass it to the left[0m
+[16:30] [0m[34;1mKenny shouts:[0m 5748 = Halp. No food or water left, been drinking Heinz for 2 days![0m
+[16:31] [0m[35;1mRoken [Jedi(80)]:[0m autoloading field recharger vaf, eliminate the need for carrying cells?[0m
+[16:32] [0m[34;1mOmni shouts:[0m Soo, I've created a pill, that gives worms, to ex girl friends.[0m
+[16:33] [0m[34;1mNik shouts:[0m wooo south bronx parasite diet![0m
+[16:37] [0m[32mYou say:[0m that the jist... i made the path from start to start[0m
+[16:42] [0m[32mYou tell Simonz:[0m made the bot for only small rimalkins[0m
+[16:43] [0m[33;1m[Clan] Roken :[0m well that was easy.[0m
+[16:45] [0m[33;1m[Clan] Roken :[0m small ones hit hard :([0m
+[16:48] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[16:52] [0m[33;1m[Clan] Ivy :[0m pretty sure i'm gonna start a bladesinger once i get this char to 111 plus a couple[0m
+[16:52] [0m             epowers.[0m
+[16:52] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[16:53] [0m[32mSimonz tells you:[0m yeah, that's where I started out too, you only need more hp to do the rest[0m
+[16:53] [0m        of them[0m
+[16:54] [0m[32mYou tell Simonz:[0m need more con for smalls too. cpain or ri isn't keeping up[0m
+[16:54] [0m[32mSimonz tells you:[0m what do you have for eq?[0m
+[16:54] [0m[32mYou tell Simonz:[0m triggering my cloud mind safety net[0m
+[16:54] [0m[32mYou tell Simonz:[0m pb[0m
+[16:55] [0m[32mSimonz tells you:[0m oh yeah, need more than that.  make sure you tag day4 heh[0m
+[16:55] [0m[32mSimonz tells you:[0m I have day3, a strug coon, kilt, pb gloves, blood red boots, and 2 roh[0m
+[16:55] [0m[32mSimonz tells you:[0m when my embiggen comes up again I'll go get another roh and transmute it to[0m
+[16:55] [0m        other slot[0m
+[16:57] [0m[32mYou tell Simonz:[0m br boots, where?[0m
+[16:57] [0m[32mSimonz tells you:[0m same as crimson, just a rarer drop[0m
+[16:57] [0m[32mSimonz tells you:[0m crimson drops from ghosts, br drops from gods, and carmine drops from[0m
+[16:57] [0m        dieties[0m
+[16:58] [0m[32mSimonz tells you:[0m just depends which mob spawns, usually it's the ghosts[0m
+[16:58] [0m[32mYou tell Simonz:[0m over my head simonz[0m
+[16:58] [0m[32mSimonz tells you:[0m you know crimson gear?[0m
+[16:59] [0m[32mYou tell Simonz:[0m no, I'm surprised I remember how to walk to sopem[0m
+[16:59] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[16:59] [0m[32mSimonz tells you:[0m one sec[0m
+[17:00] [0m[32mSimonz tells you:[0m fantasy,portal,n,n,n,n,n,n,n,n,n,n,n,w,w,w,w,w,w,w,w,w,n,climb well,d,d,d[0m
+[17:00] [0m[32mYou tell Simonz:[0m i need to work on the alias for that one[0m
+[17:00] [0m[32;1mFrom afar, you thank Simonz.[0m[0m
+[17:00] [0m[32mSimonz tells you:[0m se,se,se,e,s,s,s,s,s,w,s,s,s,s,e,se,sw,s,w,w,w,w,w,sw,w,s,s,s,s,s,s,s,s,s,s,[0m
+[17:00] [0m        s,w,w,w,s,se,e,s,sw,s[0m
+[17:01] [0m[32mSimonz tells you:[0m that last one is the path from the start of serinth to sopem[0m
+[17:01] [0m[32mSimonz tells you:[0m and for crimson, you kill the guard, search dirt, light torch, and then it's[0m
+[17:01] [0m        a really small area with 4 mobs[0m
+[17:02] [0m[32mSimonz tells you:[0m guard drops shield, ghosts drop other pieces[0m
+[17:09] [0m[32mYou tell Simonz:[0m oh no... i killed a large rimalkin wtf that isn't in the script[0m
+[17:09] [0m[34;1mSquirrel shouts:[0m 420 has been canceled due to covid19[0m
+[17:09] [0m[32mYou tell Simonz:[0m thank you, i've been updating aliases for crim and sopem[0m
+[17:10] [0m[34;1mYacoub shouts:[0m 420 was doubled to 840 here[0m
+[17:14] [0m[33;1m[Clan] Roken :[0m I specified "A small Rimalkin" yet I fought a large. Feel lucky it was a 19M[0m
+[17:14] [0m[34;1mOmni shouts:[0m it's 420, in my pants[0m
+[17:14] [0m[33;1m[Clan] Ivy :[0m using tintin bot? you edited rimalkins.tin and replaced the trigger names with[0m
+[17:14] [0m             'small rimalkin' ?[0m
+[17:14] [0m[33;1m[Clan] Martyr :[0m yeah, 'small rimalkin' works[0m
+[17:14] [0m[34;1mSarge shouts:[0m if you're smoking things in your pants, i don't think you need anymore 420..[0m
+[17:15] [0m[33;1m[Clan] Martyr :[0m I do it for a small rimalkin bot[0m
+[17:15] [0m[34;1mCrolack shouts:[0m It's a trick, don't try and take a toke.[0m
+[17:16] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[17:16] [0m[33;1m[Clan] Roken :[0m copy pasted verbatim when glancing[0m
+[17:16] [0m[33;1m[Clan] Ivy :[0m did you reload your settings? :-D[0m
+[17:17] [0m[33;1m[Clan] Roken :[0m ??[0m
+[17:17] [0m[33;1m[Clan] Ivy :[0m i dunno maybe didn't kill last action because its not replacing it if you change[0m
+[17:17] [0m             text...[0m
+[17:17] [0m[33;1m[Clan] Ivy :[0m so be sure to #kill all first ?[0m
+[17:19] [0m[33;1m[Clan] Roken :[0m oh, i was wondering why "[MoNSTaR]A small Rimalkin" had bot kill a large[0m
+[17:19] [0m[33;1m[Clan] Roken :[0m only darn mob defined[0m
+[17:20] [0m[33;1m[Clan] Roken :[0m #act {^[MoNSTaR]{A small Rimalkin}}[0m
+[17:20] [0m[33;1m[Clan] Roken :[0m #if {"%1" == "A small Rimalkin"} {#var mobname rimalkin}[0m
+[17:21] [0m[33;1m[Clan] Roken :[0m i used another bot as a template, so how could it go wrong? haha[0m
+[17:22] [0m[33;1m[Clan] Ivy :[0m press crtrl+a[0m
+[17:22] [0m[33;1m[Clan] Ivy :[0m ctrl+a[0m
+[17:22] [0m[33;1m[Clan] Ivy :[0m now press b twice[0m
+[17:22] [0m[33;1m[Clan] Ivy :[0m okay let go, then press start[0m
+[17:22] [0m[33;1m[Clan] Roken :[0m nice burn[0m
+[17:23] [0m[33;1m[Clan] Roken :[0m elaborate way of telling me to turn off pc?[0m
+[17:23] [0m[33;1m[Clan] Ivy :[0m wipeme <password> then save your tears for tensor[0m
+[17:23] [0m[33;1m[Clan] Ivy :[0m dgrin[0m
+[17:24] [0m[33;1m[Clan] Roken :[0m 1/17 was a large. *shrug*[0m
+[17:24] [0m[33;1m[Clan] Martyr :[0m #var mobname small rimakin[0m
+[17:25] [0m[33;1m[Clan] Martyr :[0m small rimalkin[0m
+[17:25] [0m[33;1m[Clan] Martyr :[0m that's the problem[0m
+[17:25] [0m[33;1m[Clan] Ivy :[0m #show $mobname[0m
+[17:25] [0m[33;1m[Clan] Roken :[0m ok.. so having every mob defined to a simple name like golem or zombie doesn't[0m
+[17:25] [0m               apply here[0m
+[17:26] [0m[33;1m[Clan] Ivy :[0m nod[0m
+[17:26] [0m[33;1m[Clan] Martyr :[0m no, because you want a specific mob[0m
+[17:26] [0m[33;1m[Clan] Ivy :[0m #act {%*rimalkin%*}[0m
+[17:26] [0m[33;1m[Clan] Ivy :[0m type that, see what's defined[0m
+[17:27] [0mYour transmuter's stone bursts with 2 new colours![0m
+[17:27] [0m[33;1m[Clan] Martyr :[0m don't listen to ivy, he's just buttering you up for your social security # next[0m
+[17:27] [0m[33;1m[Clan] Ivy :[0m give me vafs[0m
+[17:27] [0m[33;1m[Clan] Roken :[0m nada[0m
+[17:27] [0m[33;1m[Clan] Martyr :[0m this vaf deal is real nice[0m
+[17:27] [0m[33;1m[Clan] Martyr :[0m i'm gonna donate $25[0m
+[17:27] [0m[33;1m[Clan] Roken :[0m hell to the ya[0m
+[17:28] [0m[33;1m[Clan] Ivy :[0m well did you start the bot again? then #act... just to be sure its loaded[0m
+[17:28] [0m[33;1m[Clan] Roken :[0m er nothing to buy tho. I know it is the last thing on ser's mind, but man he[0m
+[17:28] [0m               could restore karvec for $150[0m
+[17:29] [0m[33;1m[Clan] Martyr :[0m he already paid for it[0m
+[17:29] [0m[33;1m[Clan] Martyr :[0m but is waiting or some shit[0m
+[17:29] [0m[33;1m[Clan] Martyr :[0m supposedly[0m
+[17:29] [0m[33;1m[Clan] Ivy :[0m niiice[0m
+[17:29] [0m[33;1m[Clan] Ivy :[0m ser i love you[0m
+[17:29] [1;37;40m set to 30 minute Idle Timeout
+[17:30] [0m[37;1mKenny <.oO>:[0m (info says there are files for chat and gs. but i don't see them.[0m
+[17:31] [0m[33;1m[Clan] Roken :[0m oh thats right[0m
+[17:31] [0m[33;1m[Clan] Roken :[0m roger that ivy, restarted bot and see what happens[0m
+[17:31] [0m[33;1m[Clan] Roken :[0m small rimalkin == $ mobname[0m
+[17:32] [0m[33;1m[Clan] Martyr :[0m woot[0m
+[17:32] [0m[33;1m[Clan] Ivy :[0m cool[0m
+[17:32] [0m[33;1m[Clan] Roken :[0m such poor success rate on force deflection here[0m
+[17:33] [0m[33;1m[Clan] Roken :[0m simonz did warn me, but xp is great[0m
+[17:33] [0m[33;1m[Clan] Ivy :[0m if anything you can do a lot of dmg if you want at some point? i forget how jedi[0m
+[17:33] [0m             work[0m
+[17:35] [0m[37;1mKenny <.oO>:[0m what am i doing wrong?[0m
+[17:35] [0m[37;1mMerrick <.oO>:[0m existing?[0m
+[17:36] [0m[33;1m[Clan] Roken :[0m just one of jedi's defenses like dodge[0m
+[17:36] [0m[33;1m[Clan] Ipsie :[0m ack, i just bought vafs with google pay, but it skipped the part where i put my[0m
+[17:36] [0m               char name ...[0m
+[17:36] [0m[37;1mKenny <.oO>:[0m :(((([0m
+[17:36] [0m[33;1m[Clan] Ipsie :[0m who should I mudmail, adalius ?[0m
+[17:36] [0m[33;1m[Clan] Ivy :[0m probably, or flaxen, or frank, or kiki[0m
+[17:37] [0m[33;1m[Clan] Martyr :[0m Adalius, but rasta unfortunately does vaf stuff i think[0m
+[17:37] [0m[33;1m[Clan] Martyr :[0m unless he's finally handed that off[0m
+[17:37] [0m[33;1m[Clan] Ivy :[0m yea sounds like someone else is taking care of it, not sure though[0m
+[17:37] [0m[33;1m[Clan] Ivy :[0m if you want to give me the vafs ill see if i can get them credited for you[0m
+[17:38] [0m[33;1m[Clan] Roken :[0m :D[0m
+[17:42] [0m[32mYou tell Simonz:[0m smoother so far now! +21 con from reps, brings me to 230[0m
+[17:46] [0m[32mSimonz tells you:[0m nog, simply having enough hp to tank the stuff seems to be the biggest[0m
+[17:46] [0m        barrier for most things at our gl, given decent eq[0m
+[17:47] [0m[34;1mMerrick shouts:[0m That's my coin purse, I DON'T KNOW YOU!!![0m
+[17:48] [0m[33;1m[Clan] Ipsie :[0m i cough on all my coins.[0m
+[17:52] [0m[35;1mBaywatch [Jedi(12)]:[0m weird i cant repair my lightsaber says i dont ahve the credits, but i have[0m
+[17:52] [0m                     enough ?[0m
+[17:53] [0m[35;1mDhaj [Jedi(16)]:[0m have to be in the bank to repair[0m
+[17:53] [0m[35;1mDhaj [Jedi(16)]:[0m or buy in the first place[0m
+[17:53] [0m[35;1mBaywatch [Jedi(12)]:[0m not the workshop?[0m
+[17:54] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[17:57] [0m[35;1mSimple [Jedi(70)]:[0m FD: 99.21% | G: 98.83%[0m
+[18:00] [0m[32;1mFrom afar, you go 'Woo Woo!' at Simple.[0m[0m
+[18:10] [0m[34;1mTex shouts:[0m 2 minutes into lockdown: is it over yet?[0m
+[18:11] [0m[34;1mNix shouts:[0m we've only just beggunnnnnnnn to livveeeeee[0m
+[18:23] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[18:27] [0mYour transmuter's stone bursts with 2 new colours![0m
+[18:43] [0m[33;1m[Clan] Roken :[0m probs going endlessly in rims @ 170m/half rn[0m
+[18:43] [0m[33;1m[Clan] Ivy :[0m rockstar[0m
+[18:45] [0m[32mYou tell Simonz:[0m 37% proc after 1700 rounds[0m
+[18:49] [0m[33;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[18:51] [0m[33;1m[Clan] Ser :[0m oo i need rings[0m
+[18:53] [0mCaeli flaps : Wheeee! My parish is under cufew from 6pm to 6am starting tomorrow.[0m
+[18:55] [0m[33;1m[Clan] Ser :[0m you guys know there was a +axe roh in box right[0m
+[18:55] [0mKitt flaps : stay yo ass at ho.e[0m
+[18:55] [0mCaeli flaps : I have been.[0m
+[18:56] [0mCaeli flaps : Go to get croceries once a week.[0m
+[18:56] [0mInix flaps : Did you tell your parish about staying your 'ass' at 'hoe'?[0m
+[18:56] [0mCaeli flaps : Groceries.[0m
+[18:56] [0mOmni flaps : crocuses, the centerpiece of any spring arrangement[0m
+[18:56] [0m[33;1m[Clan] Ser :[0m byroonnnnnnnnnnnn come tank for me im gonna die[0m
+[18:57] [0m[33;1m[Clan] Ser :[0m nik to the rescue[0m
+[18:57] [0m[33;1m[Clan] Nik :[0m haha, i wouldnt call it a rescue just yet[0m
+[18:59] [0m[33;1m[Clan] Byron :[0m wtf[0m
+[18:59] [0m[33;1m[Clan] Byron :[0m why dont i have this axe roh[0m
+[19:00] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[19:00] [0m[33;1m[Clan] Ser :[0m cuz you didnt want to tank for me[0m
+[19:06] [0m[32mSimonz tells you:[0m nod, the proc rate is bad in rims.  I get 45-50% or so though[0m
+[19:08] [0m[32mSimonz tells you:[0m which is terrible compared to the 90% I'm doing on this run in zell[0m
+[19:09] [0m[32;1mFrom afar, you nod to Simonz.[0m[0m
+[19:09] [0m[32mSimonz tells you:[0m it's hard to leave 100m xp an hour on the table going in zell instead of[0m
+[19:09] [0m        rims though[0m
+[19:10] [0m[32mYou tell Simonz:[0m i'll grind it later with a lesser weapon. Best: 1.75 @ 90% on zel140 or w/e i[0m
+[19:10] [0m        sent you in discord[0m
+[19:11] [0m[32mSimonz tells you:[0m I'm almost done with this run, and I'm at .472% gained during this run. [0m
+[19:11] [0m        that's compared to .8ish for the whole rest of the day in rims[0m
+[19:11] [0m[32;1mFrom afar, Simonz goes Hmmmmm at you.[0m[0m
+[19:12] [0m[32mYou tell Simonz:[0m oof[0m
+[19:12] [0m[32mSimonz tells you:[0m I need to update the script.  I have an alias to reset the stats, but I want[0m
+[19:12] [0m        to keep a stat for the whole session[0m
+[19:12] [0m[32mSimonz tells you:[0m so I can keep resetting to see what I get in a particular run in an area,[0m
+[19:12] [0m        but still see what I've done for the day[0m
+[19:13] [0m[32mYou tell Simonz:[0m somewhere on the interwebs explained how tintin can save variables after[0m
+[19:13] [0m        ending session[0m
+[19:13] [0m[33;1m[Clan] Sock wiggles off your foot.[0m  [0m
+[19:14] [0m[32mYou tell Simonz:[0m zel = ~260m/hr to rims ~340m/hr woo woo[0m
+[19:20] [0mRPDFd  Wm:g Wc:  3% Gx: 51.29% Fx: 24.04%[0m
+[19:21] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[19:23] [0m[33;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[19:27] [0mYour transmuter's stone bursts with 6 new colours![0m
+[19:35] [0m[34;1mPer shouts:[0m fark brought me here[0m
+[19:36] [0m[34;1mSquirrel shouts:[0m do you know about the three seashells?[0m
+[19:36] [0mnewb Bonisagus [Newbie]: so... I got th pendant... Harold said I can escape, but it won't let me[0m
+[19:36] [0m                         still. Any ideas?[0m
+[19:37] [0mnewb Inix [juggernaut/138]: Be sneakier[0m
+[19:39] [0m[32mYou tell Simonz:[0m http://necro.wikidot.com/tintin-saving-variables[0m
+[19:40] [0m[33;1m[Clan] Sock wiggles on your foot.[0m  [0m
+[19:43] [0m[33;1m[Clan] Ser :[0m expect death spam, playing mw iaw[0m
+[19:46] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[19:51] [0m[33;1m[Clan] Ser :[0m soz nik[0m
+[19:55] [0m[32mTrump tells you:[0m holy crap I don't know what I'm doing                        [0m
+[19:56] [0m[34;1mVagrant shouts:[0m The DONALDDD[0m
+[19:58] [0m[34;1mMetaljaz shouts:[0m really?[0m
+[19:59] [0m[34;1mSquirrel shouts:[0m Yes you do, you see a large donut, you eat the large greatful awseome[0m
+[19:59] [0m                 stupidenous donut and you tell us about the donut and use three to four[0m
+[19:59] [0m                 different adverbs for that donut.[0m
+[20:01] [0m[34;1mRoken shouts:[0m maybe you will in the next 4 years[0m
+[20:01] [0m[34;1mDenton shouts:[0m woo![0m
+[20:02] [0m[34;1mFluffy shouts:[0m read my lips : no nuke taxi drivers![0m
+[20:03] [0m[34;1mTex shouts:[0m nude female taxi drivers will solve any issues[0m
+[20:06] [0m[34;1mSquirrel shouts:[0m 4 more years of pants[0m
+[20:16] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[20:16] [0m[32mSimonz tells you:[0m yeah, I've seen that, but I'm not looking at a permanent variable for this[0m
+[20:16] [0m        one, just a session one that doesn't get overwritten when I reset it[0m
+[20:17] [0m[32mSimonz tells you:[0m what I'd really like to do is set it up so it writes statistics to a mysql[0m
+[20:17] [0m        database and then I can trend on it, heh[0m
+[20:17] [0m[32mYou tell Simonz:[0m looks like it saves your variables similar to a chatlog[0m
+[20:18] [0m[32mSimonz tells you:[0m yeah, and I've got that set up for some of my crafting stuff[0m
+[20:19] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[20:20] [0m[32mYou tell Simonz:[0m anyways at first glance - this here: nvm... but hey I'm sure you can use this[0m
+[20:20] [0m        script and amend your reset alias to save the variables into a log?[0m
+[20:21] [0m[32mYou tell Simonz:[0m i typed paused to look at script again then that idea. if you were wondering[0m
+[20:23] [0m[32mYou tell Simonz:[0m this would be damn skippy for my transmute colors and saber cells. I have to[0m
+[20:23] [0m        set them each login, but not manually just stuff in char.tin[0m
+[20:24] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Northern Hills of[0m
+[20:24] [0m                          Fantasy!  We are localizing it now - get ready![0m
+[20:25] [0m[33;1m[Clan] Ipsie :[0m woo showac![0m
+[20:25] [0m[33;1m[Clan] Nix :[0m wooo[0m
+[20:26] [0m[33;1m[Clan] Ipsie :[0m everything is >blah[0m
+[20:28] [0mYour transmuter's stone bursts with 2 new colours![0m
+[20:28] [0m[33;1m[Clan] Roken :[0m goes to show ignorance is bliss :D[0m
+[20:37] [0m[33;1m[Clan] Ivy :[0m yoink[0m
+[20:37] [0m[33;1m[Clan] Ivy leaves the game.[0m  [0m
+[20:38] [0m[33;1m[Clan] Zorbaine enters the game.[0m  [0m
+[20:38] [0m[33;1m[Clan] Byron :[0m damnit wheres the portal[0m
+[20:38] [0m[33;1m[Clan] Byron :[0m its on my grep[0m
+[20:38] [0m[33;1m[Clan] Byron :[0m so i blew past it :([0m
+[20:38] [0m[33;1m[Clan] Nix :[0m damnit to hell[0m
+[20:38] [0m[33;1m[Clan] Archangel :[0m neat Tiamat's cave[0m
+[20:39] [0m[33;1m[Clan] Nix :[0m dagnabbit[0m
+[20:40] [0m[33;1m[Clan] Ser :[0m hint use buffer find[0m
+[20:40] [0m[33;1m[Clan] Byron :[0m huh[0m
+[20:40] [0m[33;1m[Clan] Byron :[0m how[0m
+[20:41] [0m[33;1m[Clan] Byron :[0m i'm abuot to give up[0m
+[20:41] [0m[33;1m[Clan] Byron :[0m jesus[0m
+[20:42] [0m[33;1m[Clan] Ser :[0m "#buffer find Portal"[0m
+[20:42] [0m[33;1m[Clan] Byron :[0m Hills n/s/e/w[0m
+[20:42] [0m[33;1m[Clan] Ser :[0m finds in your scrollback where it was[0m
+[20:42] [0m[33;1m[Clan] Byron :[0m :([0m
+[20:42] [0m[33;1m[Clan] Byron :[0m but nice command[0m
+[20:45] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[20:46] [0m[33;1m[Clan] Ser :[0m ok but if you have minimap[0m
+[20:47] [0m[33;1m[Clan] Zorbaine :[0m split fucks the game up[0m
+[20:47] [0m[33;1m[Clan] Zorbaine :[0m fuck maps, go at it bare boys, moss grows on the south side of trees[0m
+[20:47] [0m[33;1m[Clan] Nix :[0m language[0m
+[20:48] [0m[33;1m[Clan] Zorbaine :[0m it's beautiful[0m
+[20:48] [0m[33;1m[Clan] Nix :[0m your mother wears army boots[0m
+[20:48] [0m[33;1m[Clan] Zorbaine :[0m your mother was a hamster[0m
+[20:51] [0m[33;1m[Clan] Nix :[0m hey arch, how's the view from up top looking down at zorbie[0m
+[20:51] [0m[33;1m[Clan] Zorbaine :[0m glvl is just a number[0m
+[20:52] [0m[33;1m[Clan] Nix :[0m rumor on the streets of pinnacle is that you're the vilgan of the knights guild[0m
+[20:52] [0m[33;1m[Clan] Nix :[0m i'm not saying it's true... i'm just saying i heard it[0m
+[20:52] [0m[33;1m[Clan] Zorbaine :[0m laf[0m
+[20:52] [0m[33;1m[Clan] Zorbaine :[0m i'll put your head on a spike[0m
+[20:53] [0m[33;1m[Clan] Ser :[0m like cartography minimap[0m
+[20:53] [0m[34;1mFluffy shouts:[0m northgate/9n/3e ... theme is edged[0m
+[20:54] [0m[33;1m[Clan] Byron :[0m i'm not saying that Susy fucked the football team, I just want to know why we're[0m
+[20:54] [0m               not asking the question.[0m
+[20:59] [0m[34;1mNik shouts:[0m 5748[0m
+[21:01] [0mVagrant flaps : killing some beloches, swang by[0m
+[21:03] [0mVagrant flaps : beloches commencing![0m
+[21:03] [0mDenton flaps : woo?[0m
+[21:04] [0m[33;1m[Clan] Nix :[0m where's mud been?[0m
+[21:05] [0m[33;1m[Clan] Ipsie :[0m idk ... :/[0m
+[21:08] [0m[33;1m[Clan] Byron :[0m We should recruit Bro[0m
+[21:08] [0m[33;1m[Clan] Byron :[0m We're the clan of 3 letter names.[0m
+[21:08] [0m[33;1m[Clan] Zorbaine :[0m except you fivies[0m
+[21:09] [0m[33;1m[Clan] Nix :[0m yeah we have a ton of 3 letter chars[0m
+[21:10] [0m[33;1m[Clan] Nik :[0m 3 or bust![0m
+[21:18] [0m[33;1m[Clan] Ser :[0m i think he was embarassed from being drunk[0m
+[21:18] [0m[34;1mGrot shouts:[0m anyone able to give me a port to town?[0m
+[21:18] [0m[33;1m[Clan] Ser :[0m or he died[0m
+[21:21] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[21:24] [0m[35;1mDhaj [Jedi(16)]:[0m woo![0m
+[21:24] [0m[33;1m[Clan] Nix :[0m meh gettinl[0m
+[21:25] [0m[33;1m[Clan] Nix :[0m getting drunk ain't no big thing[0m
+[21:28] [0mYour transmuter's stone bursts with 5 new colours![0m
+[21:34] [0m[33;1m[Clan] Void enters the game.[0m  [0m
+[21:40] [0m[33;1m[Clan] Zorbaine :[0m how do i get my dog from the pound again?[0m
+[21:40] [0m[33;1m[Clan] Zorbaine :[0m there's no sign or help file that says how?[0m
+[21:41] [0m[33;1m[Clan] Nix :[0m repet[0m
+[21:41] [0m[33;1m[Clan] Zorbaine :[0m thanks. 340k, laf[0m
+[21:43] [0mnewb Denton [android/91]: is there a limit to the amount of hp and sp i can buy with adv, or is[0m
+[21:43] [0m                          it just capped by the amount of xp i can throw at it?[0m
+[21:43] [0mnewb Space [necromancer/142]: no limit[0m
+[21:44] [0mnewb Denton [android/91]: groovy[0m
+[21:44] [0mnewb Denton [android/91]: thank you[0m
+[21:44] [0mnewb Space [necromancer/142]: but like, you stop gaining levels at 100, so......you gonna still[0m
+[21:44] [0m                              play this char after that ?[0m
+[21:44] [0mnewb Leianne [elemental/136]: if you meant max hp/sp, no limit capped at 1billion cost[0m
+[21:55] [0m[33;1m[Clan] Ser :[0m so...  uga vet doesnt finance[0m
+[21:55] [0m[33;1m[Clan] Ser :[0m so i am going to put it on one credit card, pay what i can this month, then do a[0m
+[21:55] [0m             balance transfer for the "18 month 0% apr" thing[0m
+[21:56] [0m[33;1m[Clan] Ser :[0m i dont want to drop my savings for it[0m
+[21:56] [0m[33;1m[Clan] Zorbaine :[0m plan![0m
+[21:56] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[21:56] [0m[33;1m[Clan] Nik :[0m daymn >.< but that mean they know what hte problem is?[0m
+[21:56] [0m[33;1m[Clan] Ser :[0m i think it's pretty solid[0m
+[21:57] [0m[33;1m[Clan] Ser :[0m there is a mass they can't figure out what is[0m
+[21:57] [0m[33;1m[Clan] Ser :[0m they want to do a CT scan before they operate[0m
+[21:57] [0m[33;1m[Clan] Zorbaine :[0m pray to it?[0m
+[21:57] [0m[33;1m[Clan] Ser :[0m because apparently there's a lot of blood flow[0m
+[21:57] [0m[33;1m[Clan] Ser :[0m i'll ask them to give it to me in a jar[0m
+[21:57] [0m[33;1m[Clan] Zorbaine :[0m make a vaccine from it[0m
+[21:58] [0m[33;1m[Clan] Nik :[0m good call but daymn, i wish Glove n you the best[0m
+[21:59] [0m[33;1m[Clan] Nix :[0m damn praying for your pup ser[0m
+[22:01] [0m[33;1m[Clan] Ser :[0m yah not sure when this started happening, i thought he always just had a big belly[0m
+[22:02] [0m[33;1m[Clan] Nik :[0m hehe, eattin that food likea king![0m
+[22:02] [0m[33;1m[Clan] Nik :[0m too bad chewys out or id try some[0m
+[22:06] [0m[33;1m[Clan] Byron :[0m ser[0m
+[22:07] [0m[33;1m[Clan] Ser :[0m byron[0m
+[22:07] [0m[33;1m[Clan] Byron :[0m want to play a game of league?[0m
+[22:07] [0m[33;1m[Clan] Ser :[0m lol[0m
+[22:07] [0m[33;1m[Clan] Ser :[0m aram?[0m
+[22:07] [0m[33;1m[Clan] Byron :[0m sure[0m
+[22:08] [0m[33;1m[Clan] Nik :[0m shooey, i miss dota 1[0m
+[22:09] [0m[33;1m[Clan] Ser :[0m my riott account isnt working[0m
+[22:09] [0m[33;1m[Clan] Byron :[0m ive heard thats a fun game too[0m
+[22:09] [0m[33;1m[Clan] Byron :[0m no?[0m
+[22:09] [0m[33;1m[Clan] Zorbaine :[0m ooh can i play? i usually can get one kill, maybe two[0m
+[22:09] [0m[33;1m[Clan] Nik :[0m pull back Zorbz![0m
+[22:09] [0m[33;1m[Clan] Zorbaine :[0m splat[0m
+[22:10] [0m[33;1m[Clan] Nik :[0m i could never get into dota 2 or lol, smite was aight tho[0m
+[22:11] [0m[33;1m[Clan] Nik :[0m flat n cheap feelin, but has better controls to me[0m
+[22:12] [0m[33;1m[Clan] Zorbaine :[0m will chek it[0m
+[22:13] [0m[33;1m[Clan] Nik :[0m it uses wasd to move instead of clickin n i love it! wish d3 was like that, but on[0m
+[22:13] [0m             console it pretty much is[0m
+[22:14] [0m[33;1m[Clan] Phenom leaves the game.[0m  [0m
+[22:17] [0m[33;1m[Clan] Zorbaine :[0m f'ing sound not working in my client for some reason[0m
+[22:19] [0m[35;1mLicklick [Jedi(54)]:[0m finally working on dissipate, sure hopes it will boost me when i do[0m
+[22:19] [0m                     dissipate[0m
+[22:20] [0m[33;1m[Clan] Ser :[0m i love aram[0m
+[22:24] [0m[33;1m[Clan] Ser :[0m anyone else wanna play a game of aram?[0m
+[22:26] [0m[33;1m[Clan] Zorbaine :[0m sure after this match[0m
+[22:26] [0m[33;1m[Clan] Ser :[0m wtf is your name[0m
+[22:27] [0m[33;1m[Clan] Zorbaine :[0m rw3iss or BrightBoobs[0m
+[22:27] [0m[33;1m[Clan] Bruce :[0m i'm bruce[0m
+[22:27] [0m[33;1m[Clan] Bruce :[0m nice to meet you ser[0m
+[22:27] [0m[33;1m[Clan] Ser :[0m you and BrightBoobs are already friends[0m
+[22:28] [0m[33;1m[Clan] Ser :[0m i'm greg btw[0m
+[22:28] [0m[33;1m[Clan] Ser :[0m if anyone wondered[0m
+[22:28] [0m[33;1m[Clan] Ser :[0m irl[0m
+[22:28] [0m[33;1m[Clan] Bruce :[0m nice to meet you greg![0m
+[22:28] [0mYour transmuter's stone bursts with 4 new colours![0m
+[22:29] [0m[33;1m[Clan] Ser :[0m someone completely messed with my stereo settings[0m
+[22:29] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[22:29] [0m[33;1m[Clan] Ser :[0m and there's only one little girl in the house who does that[0m
+[22:29] [0m[33;1m[Clan] Ser :[0m like it sounded muddy as shit, was one of the 'mode' settings[0m
+[22:32] [0m[34;1mZor shouts:[0m woo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![0m
+[22:32] [0m[34;1mXiu shouts:[0m Per-fect![0m
+[22:33] [0m[33;1m[Clan] Ser :[0m my apm is 9.88, 5.39 averaged over boot[0m
+[22:33] [0m[33;1m[Clan] Nix :[0m 14.24 ... 4.84[0m
+[22:33] [0m[33;1m[Clan] Ser :[0m just means i've been on more than you :P[0m
+[22:34] [0m[33;1m[Clan] Ser :[0m 8/15 g2n[0m
+[22:34] [0m[33;1m[Clan] Zorbaine :[0m match oven we won[0m
+[22:35] [0m[33;1m[Clan] Ser :[0m nice[0m
+[22:35] [0m[33;1m[Clan] Ser :[0m what's byron's summoner name since he gave me the wrong one[0m
+[22:35] [0m[33;1m[Clan] Zorbaine :[0m Dickpress[0m
+[22:35] [0m[33;1m[Clan] Ser :[0m no didn't work[0m
+[22:35] [0m[33;1m[Clan] Ser :[0m i invited you[0m
+[22:35] [0m[33;1m[Clan] Ser :[0m zorbz[0m
+[22:35] [0m[33;1m[Clan] Zorbaine :[0m CaptainDickles[0m
+[22:36] [0m[33;1m[Clan] Zorbaine :[0m  eah i dont know why it shows me this mission screen after matches that i cant[0m
+[22:36] [0m                  get out of[0m
+[22:36] [0m[33;1m[Clan] Bruce :[0m byronbignutz[0m
+[22:36] [0m[33;1m[Clan] Ser :[0m hey boobs can you hurry up[0m
+[22:41] [0m[33;1m[Clan] Ser :[0m we're gonna die...  also my league crashed[0m
+[22:42] [0m[33;1m[Clan] Ser :[0m like my computer froze, relogging[0m
+[22:42] [0m[33;1m[Clan] Zorbaine :[0m just started[0m
+[22:44] [0m[34;1mKenny shouts:[0m We got MC Shan and Marley Marl in the house tonight[0m
+[22:45] [0m[34;1mInix shouts:[0m Sounds like you need some new locks.[0m
+[22:51] [0m[33;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[22:57] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[23:01] [0m[33;1m[Clan] Zorbaine :[0m we lost[0m
+[23:01] [0m[33;1m[Clan] Zorbaine :[0m why were they blicking me[0m
+[23:01] [0m[33;1m[Clan] Zorbaine :[0m and i am shooting pebbles[0m
+[23:01] [0m[33;1m[Clan] Ser :[0m cuz you're supposed to poke them[0m
+[23:01] [0m[33;1m[Clan] Ser :[0m not run in there[0m
+[23:01] [0m[33;1m[Clan] Zorbaine :[0m with arrow thing? nod[0m
+[23:01] [0m[33;1m[Clan] Ser :[0m and you were building AD[0m
+[23:02] [0m[33;1m[Clan] Ser :[0m and armour[0m
+[23:02] [0m[33;1m[Clan] Ser :[0m ...  you're supposed to go straight AP[0m
+[23:02] [0m[33;1m[Clan] Ser :[0m i'll tell you what to build next time[0m
+[23:02] [0m[33;1m[Clan] Ser :[0m uno mos?[0m
+[23:02] [0m[33;1m[Clan] Ser :[0m after you reboot of course[0m
+[23:04] [0m[34;1mKitt shouts:[0m Get Rektd Al![0m
+[23:05] [0m[33;1m[Clan] Zorbaine :[0m yea[0m
+[23:05] [0m[34;1mKitt shouts:[0m Dont be like Al, you too will die from the AutoBotz Network[0m
+[23:05] [0m[33;1m[Clan] Ser :[0m nvm byron went to play normies[0m
+[23:06] [0m[33;1m[Clan] Zorbaine :[0m k can wait[0m
+[23:07] [0m[33;1m[Clan] Byron :[0m play wo me[0m
+[23:07] [0m[33;1m[Clan] Byron :[0m zorbs needs practice[0m
+[23:07] [0m[33;1m[Clan] Byron :[0m arams is good for it[0m
+[23:24] [0m[33;1m[Clan] Roken :[0m how much longer does pb have at "stable condition"?[0m
+[23:24] [0m[33;1m[Clan] Roken :[0m been at rims for 4hrs[0m
+[23:24] [0m[33;1m[Clan] Nix :[0m i go days without repairing[0m
+[23:25] [0m[33;1m[Clan] Archangel :[0m I think it has a lot to do with how much damage you're actually taking.[0m
+[23:25] [0m[33;1m[Clan] Archangel :[0m Guilds with good healing but take a lot of damage will find having to fix[0m
+[23:25] [0m                   their armour more frequently.  LIke Priests.[0m
+[23:25] [0m[33;1m[Clan] Nix :[0m good point[0m
+[23:25] [0m[33;1m[Clan] Archangel :[0m Guilds like Jedi not as much.[0m
+[23:25] [0m[33;1m[Clan] Roken :[0m not in the norm to go this long. I finish a dungeon then repair and on to next[0m
+[23:26] [0m[33;1m[Clan] Nix :[0m i dont get hit much[0m
+[23:28] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[23:28] [0mYour transmuter's stone bursts with 5 new colours![0m
+[23:40] [0m[33;1m[Clan] Roken :[0m not getting hit on much either ;)[0m
+[23:57] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m

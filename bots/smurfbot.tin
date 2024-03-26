@@ -1,0 +1,18 @@
+#class {bot} {open}
+#var {areaname} {Smurfs}
+#var {botpath} {s;s;w;e;e;w;s;w;e;e;e;w;sw;se;w;e;s;w;w;n;s;e;e;n;e;s;s;s;s;e;w;w;w;w;e;e;e;s;s;enter;w;e;e;w;s;w;e;e;w;s;w;e;e;w;s;w;e;e;w;s;w;e;e;w;s;w;e;s;w;e;e;w;n;e;out}
+#act {[MoNSTaR]%*{Smurf|A very large rat|A large furry spider|zreal|argamel|A cute and fu_zy Squirrel}} 
+ {
+	#if {"%2" == "Smurf"} {#var mobname smurf};
+	#if {"%2" == "A very large rat"} {#var mobname rat};
+	#if {"%2" == "A large furry spider"} {#var mobname spider};
+	#if {"%2" == "Azreal"} {#var mobname azreal};
+	#if {"%2" == "Gargamel"} {#var mobname gargamel};
+	#if {"%2" == "A cute and fu_zy Squirrel"} {#var mobname squirrel};
+	_check_mob
+ } {6};
+#act {[MoNSTaR]Papa Smurf <?>} {mission ask};
+#act {[MoNSTaR]Papa Smurf <!>} {mission return};
+#act {[MoNSTaR]Papa Smurf <.>} {#nop};
+#class {bot} {close}
+#read bots/generic.tin

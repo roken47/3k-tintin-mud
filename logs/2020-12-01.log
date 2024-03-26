@@ -1,0 +1,1139 @@
+- = LOG STARTED [00:00] = -
+[06:08] [0mYou can currently reforge 8 items.[0m
+[06:09] [0mYou can currently reforge 0 items.[0m
+[06:34] [0mYou can currently reforge 4 items.[0m
+[07:03] [0m[32;1mFrom afar, Metaljaz waves in your direction.[0m[0m
+[07:04] [0m[31;1m[Clan] Boscar :[0m morning[0m
+[07:07] [0m[32;1mFrom afar, you bow to Metaljaz.[0m[0m
+[07:07] [0m[32;1mFrom afar, you bow to Boscar.[0m[0m
+[07:34] [0mYou can currently reforge 8 items.[0m
+[07:58] [0m[31;1m[Clan] Ser :[0m yellow[0m
+[07:59] [0m[31;1m[Clan] Boscar :[0m ayo[0m
+[08:09] [0m[31;1m[Clan] Bruce :[0m i'm not yellow ur racist[0m
+[08:14] [0m[31;1m[Clan] Taleast :[0m and a good morning to you all :D[0m
+[08:24] [0m[31;1m[Clan] Boscar :[0m woot, got my servant worked into my corpse tracker now[0m
+[08:24] [0m[31;1m[Clan] Decav :[0m what's your corpse tracker do?[0m
+[08:25] [0m[31;1m[Clan] Boscar :[0m Corpses: 77 (C: 2 S: 14 F: 50 Srv: 11 )[0m
+[08:25] [0m[31;1m[Clan] Boscar :[0m That's on my hpbar[0m
+[08:25] [0m[31;1m[Clan] Decav :[0m oh gotcha, cool. heh i was just thinking of writing a script[0m
+[08:25] [0m               for that[0m
+[08:26] [0m[31;1m[Clan] Boscar :[0m Then I have an alias, corpse_select that goes through a[0m
+[08:26] [0m                waterfall of where to pull a corpse from[0m
+[08:26] [0m[31;1m[Clan] Decav :[0m so u can just type like corpse, and it figures out what to[0m
+[08:26] [0m               get/[0m
+[08:26] [0m[31;1m[Clan] Boscar :[0m so it's agnostic across all my chars[0m
+[08:26] [0m[31;1m[Clan] Boscar :[0m exactly[0m
+[08:26] [0m[31;1m[Clan] Decav :[0m slick[0m
+[08:26] [0m[31;1m[Clan] Boscar :[0m you need tt :P[0m
+[08:26] [0m[31;1m[Clan] Boscar :[0m we can share![0m
+[08:26] [0m[31;1m[Clan] Boscar :[0m i want someone else contributing to my repo[0m
+[08:26] [0m[31;1m[Clan] Decav :[0m hm, wonder how painful the switch would be[0m
+[08:27] [0m[31;1m[Clan] Decav :[0m public repo?[0m
+[08:27] [0m[31;1m[Clan] Boscar :[0m i mean, you could start off w/ my stuff and run from there[0m
+[08:27] [0m[31;1m[Clan] Boscar :[0m yeah, I need to commit again though since I added a bunch of[0m
+[08:27] [0m                stuff[0m
+[08:27] [0m[31;1m[Clan] Boscar :[0m it was me and zorbaine's plan[0m
+[08:27] [0m[31;1m[Clan] Decav :[0m nog id be curious to check it out[0m
+[08:27] [0m[31;1m[Clan] Boscar :[0m but zorbaine ucked off soon as we started it[0m
+[08:27] [0m[31;1m[Clan] Boscar :[0m so it's just been me[0m
+[08:28] [0m[31;1m[Clan] Boscar :[0m https://github.com/rw3iss/3kdb/[0m
+[08:28] [0m[31;1m[Clan] Bruce :[0m i'm good at stealing stuff from that git if you need any[0m
+[08:28] [0m               suggestions[0m
+[08:28] [0m[31;1m[Clan] Boscar :[0m laf[0m
+[08:28] [0m[31;1m[Clan] Bruce :[0m the corpsemanager is sweet, i'd edit it and never contribute[0m
+[08:28] [0m               back[0m
+[08:28] [0m[31;1m[Clan] Boscar :[0m bruce is one way[0m
+[08:28] [0m[31;1m[Clan] Bruce :[0m haha[0m
+[08:28] [0m[31;1m[Clan] Boscar :[0m take take take[0m
+[08:28] [0m[31;1m[Clan] Bruce :[0m i'm a thai hooker[0m
+[08:28] [0m[31;1m[Clan] Bruce :[0m that's because i can't code for shit and you'd not want what[0m
+[08:28] [0m               i've done :P[0m
+[08:29] [0m[31;1m[Clan] Boscar :[0m but we can iterate on it[0m
+[08:29] [0m[31;1m[Clan] Boscar :[0m and improve stuff[0m
+[08:29] [0m[31;1m[Clan] Boscar :[0m that's the idea![0m
+[08:29] [0m[31;1m[Clan] Bruce :[0m my talent is opening things in bbedit and changing stuff[0m
+[08:29] [0m               until it works[0m
+[08:29] [0m[31;1m[Clan] Boscar :[0m or i can reject your pull request[0m
+[08:29] [0m[31;1m[Clan] Boscar :[0m and say poud sand[0m
+[08:29] [0m[31;1m[Clan] Bruce :[0m waaaah[0m
+[08:29] [0m[31;1m[Clan] Decav :[0m nod the social component would be fun[0m
+[08:30] [0m[31;1m[Clan] Boscar :[0m I have deadmans and all that stuff baked in[0m
+[08:30] [0m[31;1m[Clan] Boscar :[0m for the majority of the stuff, you could plug and play[0m
+[08:30] [0m                really[0m
+[08:31] [0m[31;1m[Clan] Boscar :[0m i'll see what I need to ignore and commit again[0m
+[08:31] [0m[31;1m[Clan] Boscar :[0m it's been a while[0m
+[08:31] [0m[31;1m[Clan] Decav :[0m tt have a mapper?[0m
+[08:31] [0m[31;1m[Clan] Boscar :[0m yeah[0m
+[08:31] [0m[31;1m[Clan] Boscar :[0m great mapper[0m
+[08:31] [0m[31;1m[Clan] Boscar :[0m you'd get my map too[0m
+[08:31] [0m[31;1m[Clan] Boscar :[0m for now, i'm probably gonna pull that off the repo maybe[0m
+[08:31] [0m[31;1m[Clan] Decav :[0m cool that's compelling. i haven't setup the mudlet mapper yet[0m
+[08:31] [0m[31;1m[Clan] Boscar :[0m since it seems to be just take take take :P[0m
+[08:32] [0m[31;1m[Clan] Bruce :[0m ohh how many rooms in your mapper?[0m
+[08:32] [0m[31;1m[Clan] Boscar :[0m I have probably 40,000+ rooms mapped[0m
+[08:32] [0m[31;1m[Clan] Decav :[0m wait til i pull :)[0m
+[08:32] [0m[31;1m[Clan] Bruce :[0m i better get on that[0m
+[08:32] [0m[31;1m[Clan] Bruce :[0m ohh i'm only at 18k![0m
+[08:32] [0m[31;1m[Clan] Decav :[0m yeah tbh i like the mapper just to keep track of where i've[0m
+[08:32] [0m               been in the mud[0m
+[08:32] [0m[31;1m[Clan] Boscar :[0m nog[0m
+[08:34] [0mYou can currently reforge 12 items.[0m
+[08:34] [0m[31;1m[Clan] Decav :[0m what's mip?[0m
+[08:35] [0m[31;1m[Clan] Bruce :[0m something that has nouns that you can search but never works[0m
+[08:35] [0m               and drives you to drink cheap portuguese wine out of[0m
+[08:35] [0m               frustration[0m
+[08:36] [0m[31;1m[Clan] Decav :[0m woah i need to get me some cheap portugese wine first it[0m
+[08:36] [0m               sounds like[0m
+[08:36] [0m[31;1m[Clan] Decav :[0m any recommendations? :)[0m
+[08:36] [0m[31;1m[Clan] Boscar :[0m mine works[0m
+[08:36] [0m[31;1m[Clan] Bruce :[0m anything from douro[0m
+[08:37] [0m[31;1m[Clan] Bruce :[0m or vinho verde[0m
+[08:38] [0m[31;1m[Clan] Decav :[0m reminds me i wanna make some sangria later, ive been drinking[0m
+[08:38] [0m               this storebought stuff and its absolutely awful[0m
+[08:38] [0m[31;1m[Clan] Decav :[0m this repo is interesting, i guess i'll check out tt today[0m
+[08:40] [0m[31;1m[Clan] Decav :[0m i just hate working on repos where the og maintainers arent[0m
+[08:40] [0m               around, so i might be bugging you for awhile byron :P[0m
+[08:40] [0m[31;1m[Clan] Boscar :[0m that's ok[0m
+[08:40] [0m[31;1m[Clan] Boscar :[0m i'm actually gonna push an update any sec now[0m
+[08:40] [0m[31;1m[Clan] Bruce :[0m The field has reached its maximum energy capacity.[0m
+[08:40] [0m[31;1m[Clan] Bruce :[0m how rude[0m
+[08:40] [0m[31;1m[Clan] Boscar :[0m so...hold tight[0m
+[08:40] [0m[31;1m[Clan] Decav :[0m is there a tintin syntax highlighter?[0m
+[08:41] [0m[31;1m[Clan] Bruce :[0m turns out 2.48hrs is max on the aoe2 field[0m
+[08:43] [0m[31;1m[Clan] Boscar :[0m ummm i don't have a syntax highlighter[0m
+[08:43] [0m[31;1m[Clan] Boscar :[0m but i wouldn't be surprised if there was one[0m
+[08:43] [0m[31;1m[Clan] Boscar :[0m i'd ask on the discord[0m
+[08:43] [0m[31;1m[Clan] Boscar :[0m the tt discord is AMAZING[0m
+[08:43] [0m[31;1m[Clan] Decav :[0m oh nice, where's it at?[0m
+[08:43] [0m[31;1m[Clan] Boscar :[0m scandum (the maintainer of tt) is on there all the time,[0m
+[08:43] [0m                most my script help I get directly from him heh[0m
+[08:43] [0m[31;1m[Clan] Boscar :[0m i'll grab an invite[0m
+[08:44] [0mHooligan <.oO>: wooooo![0m
+[08:44] [0mSpace <.oO>: BOOM[0m
+[08:44] [0m[31;1m[Clan] Boscar :[0m https://discord.gg/ftCX7rXA[0m
+[08:44] [0mVapor <.oO>: Congrats![0m
+[08:45] [0mBliss <.oO>: boom[0m
+[08:46] [0m[31;1m[Clan] Decav :[0m oh cool. vim/sublime text have syntax highlighting for tin[0m
+[08:46] [0m               files[0m
+[08:51] [0m[31;1m[Clan] Boscar :[0m sweet[0m
+[08:51] [0m[31;1m[Clan] Boscar :[0m i use vs code, but havent bothered looking for syntax[0m
+[08:51] [0m                highlighting[0m
+[08:52] [0m[31;1m[Clan] Ser :[0m so does notepad++ if you use windows[0m
+[08:53] [0m[31;1m[Clan] Boscar :[0m ok, repo updated[0m
+[08:55] [0m[31;1m[Clan] Decav :[0m readme says: C++ language syntax for highlighting in VSCode,[0m
+[08:55] [0m               works decently, until someone writes a tintin highlighter for[0m
+[08:55] [0m               vscode[0m
+[08:55] [0m[31;1m[Clan] Decav :[0m if you care at all about that, ill ive it a whirl later but[0m
+[08:55] [0m               probably will use sublime[0m
+[08:55] [0m[31;1m[Clan] Boscar :[0m nog, tintin uses a blend of c++ and pearl from what I can[0m
+[08:55] [0m                tgather[0m
+[08:56] [0m[31;1m[Clan] Boscar :[0m although it's definitely not either[0m
+[08:57] [0mYou can currently reforge 0 items.[0m
+[09:19] [0m[31;1m[Clan] Boscar :[0m 46mil/hr![0m
+[09:19] [0m[31;1m[Clan] Boscar :[0m HE'S UNSTOPPALBE![0m
+[09:19] [0m[31;1m[Clan] Decav :[0m dg priests![0m
+[09:20] [0m[31;1m[Clan] Boscar :[0m the stuffing is so nice[0m
+[09:20] [0m[31;1m[Clan] Decav :[0m i cant stop playing this char or id come hang on my hc lol,[0m
+[09:20] [0m               im too afraid they are gonna dg mage gxp[0m
+[09:20] [0m[31;1m[Clan] Boscar :[0m lol[0m
+[09:24] [0m[31;1m[Clan] Boscar :[0m I played oscar for a few mins yesterday, and wow[0m
+[09:24] [0m[31;1m[Clan] Boscar :[0m mantle is dope[0m
+[09:24] [0m[31;1m[Clan] Boscar :[0m but then i reset my skills[0m
+[09:24] [0m[31;1m[Clan] Boscar :[0m so i'll have to write a new setup for summons[0m
+[09:25] [0m[31;1m[Clan] Decav :[0m yea mantle is crazy bs, its pretty costly though[0m
+[09:26] [0m[31;1m[Clan] Boscar :[0m nod, although I think that's not understanding how it works[0m
+[09:26] [0m                for me yet[0m
+[09:26] [0m[31;1m[Clan] Decav :[0m nod more incentive for me to switch to tt so i can steal your[0m
+[09:26] [0m               setup when i change to summon in 5 months :P[0m
+[09:26] [0m[31;1m[Clan] Boscar :[0m :D[0m
+[09:27] [0m[31;1m[Clan] Boscar :[0m scandum is finally working on making lists better, so I'm[0m
+[09:27] [0m                excited to see where that goes[0m
+[09:28] [0m[31;1m[Clan] Boscar :[0m then I could probably abstract out a lot of stuff[0m
+[09:28] [0m[31;1m[Clan] Decav :[0m what kinda changes?[0m
+[09:29] [0m[31;1m[Clan] Boscar :[0m laf, just got this message on discord that I "won" a new[0m
+[09:29] [0m                crypto for xx[0m
+[09:29] [0m[31;1m[Clan] Boscar :[0m With instructions to go to with website and enter what[0m
+[09:29] [0m                wallet to transfer to![0m
+[09:29] [0m[31;1m[Clan] Boscar :[0m first one of those for me[0m
+[09:29] [0m[31;1m[Clan] Taleast :[0m d00d! hurry up, those things don't last long before they[0m
+[09:29] [0m                 find a new winner![0m
+[09:30] [0m[31;1m[Clan] Boscar :[0m FUCK YOU THAT"S MY NIGERIAN OIL FIELD[0m
+[09:30] [0m[31;1m[Clan] Boscar :[0m I SAW IT FIRST[0m
+[09:30] [0m[31;1m[Clan] Taleast :[0m early worm[0m
+[09:30] [0m[31;1m[Clan] Boscar :[0m check beta-testing in the tt server[0m
+[09:30] [0m[31;1m[Clan] Boscar :[0m he has the updates there[0m
+[09:31] [0m[31;1m[Clan] Decav :[0m Sir, I am writing to you with the warmest of regards and an[0m
+[09:31] [0m               exciting opportunity. You see the government has asked me to[0m
+[09:31] [0m               reach out to you as we have just found 5 new oil fields that[0m
+[09:31] [0m               have no owners. Our records search showed you as the next of[0m
+[09:31] [0m               kin from Dr. Kingsford who was the previous owner. Please[0m
+[09:31] [0m               send your wallet over with full address details and we can[0m
+[09:31] [0m               proceed[0m
+[09:32] [0m[31;1m[Clan] Boscar :[0m lol[0m
+[09:32] [0m[31;1m[Clan] Decav :[0m i actuall really enjoy reading their scam emails[0m
+[09:33] [0m[31;1m[Clan] Decav :[0m they are pretty creative[0m
+[09:33] [0m[31;1m[Clan] Taleast :[0m oh, shit[0m
+[09:34] [0m[31;1m[Clan] Taleast :[0m check out James Veitch[0m
+[09:34] [0m[31;1m[Clan] Taleast :[0m very funny scam stories[0m
+[09:34] [0mYou can currently reforge 4 items.[0m
+[09:34] [0m[31;1m[Clan] Taleast :[0m at least 2 ted talks about them[0m
+[09:36] [0m[31;1m[Clan] Taleast :[0m here's one, https://www.youtube.com/watch?v=LiLS7U7YIdc[0m
+[09:37] [0m[31;1m[Clan] Decav :[0m Lol, watching the solomon one now. love it[0m
+[09:37] [0m[31;1m[Clan] Saim :[0m its cool when you win shit but didnt enter any contests[0m
+[09:37] [0m[31;1m[Clan] Saim :[0m totally real[0m
+[09:37] [0m[31;1m[Clan] Saim :[0m people have contests all the time where you dont have to[0m
+[09:37] [0m              enter, and you can win big prizes[0m
+[09:50] [0m[31;1m[Clan] Boscar leaves the game.[0m  [0m
+[09:50] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[09:56] [0mnewb Axeile [adventurer/5]: hi, so every time I login I get transported back[0m
+[09:56] [0m                            to a place and have to jump off. It does n't[0m
+[09:56] [0m                            show on the map and is very confusing for me. Is[0m
+[09:56] [0m                            there a way to find a sense of direction or[0m
+[09:56] [0m                            location when this happens?[0m
+[09:57] [0mnewb Echoloc [juggernaut/111]: the inital log in place is the same for[0m
+[09:57] [0m                               everyone[0m
+[09:57] [0mnewb Hsima [sii/133]: that is the login room and if you go down you should[0m
+[09:57] [0m                      usually end up in the newbie area or the center of[0m
+[09:57] [0m                      town[0m
+[09:57] [0mnewb Onishiro [psicorps/49]: it's a static location, you will always 'jump'[0m
+[09:57] [0m                             to CoT[0m
+[09:57] [0mnewb Axeile [adventurer/5]: okay thanks[0m
+[09:58] [0mnewb Bahram [fremen/116]: dmap pinc will show you where you are in town[0m
+[09:59] [0mnewb Hsima [sii/133]: there are a few places you could go[0m
+[09:59] [0mnewb Axeile [adventurer/5]: and what if you are out of town?[0m
+[09:59] [0mnewb Hsima [sii/133]: if you "quit" or the room you are in unloads you will[0m
+[09:59] [0m                      get taken back to the login room[0m
+[10:00] [0mnewb Byron [bard/137]: You're probably in woonsocket[0m
+[10:00] [0mnewb Byron [bard/137]: It's buggy...sorry[0m
+[10:03] [0mnewb Axeile [adventurer/5]: yeah woonsocket. I logged out and in again, but[0m
+[10:03] [0m                            after i jump it's not possible to go south. im[0m
+[10:03] [0m                            still lost[0m
+[10:05] [0mnewb Byron [bard/137]: do you have a mewbie pendant on you?[0m
+[10:05] [0mnewb Byron [bard/137]: you can try rubbing that or something[0m
+[10:06] [0mnewb Byron [bard/137]: im sorry youre stuck there... ive reported this bug[0m
+[10:06] [0m                       too many times to count now[0m
+[10:06] [0mnewb Zantest [gentech/120]: okay whats gon[0m
+[10:06] [0mnewb Frank [Wizard]: sorry what's up stuck in woon?[0m
+[10:07] [0mnewb Byron [bard/137]: axeile is stuck in woonsocket. he quit and got sucked[0m
+[10:07] [0m                       back in, etc[0m
+[10:07] [0mnewb Lerk [gentech/138]: Frank made woonsocket, he should be able to help[0m
+[10:07] [0m                         you :)[0m
+[10:07] [0mnewb Hsima [sii/133]: it is a feature, not a bug technically[0m
+[10:07] [0mnewb Frank [Wizard]: needs some levels to prevent[0m
+[10:07] [0mnewb Frank [Wizard]: or just go to harlot and talk[0m
+[10:08] [0mnewb Echoloc [juggernaut/111]: i thought there was a way through the library[0m
+[10:08] [0m                               to get out[0m
+[10:09] [0mnewb Echoloc [juggernaut/111]: though it has been a moment since i was in[0m
+[10:09] [0m                               there[0m
+[10:09] [0mnewb Onishiro [psicorps/49]: I had no issues getting out just a week or so[0m
+[10:09] [0m                             ago, via talking to the harlot[0m
+[10:10] [0mnewb Axeile [adventurer/5]: when I logged in yesterday i was able to get[0m
+[10:10] [0m                            out, today i couldn't...[0m
+[10:10] [0mnewb Axeile [adventurer/5]: is that normal?[0m
+[10:11] [0mnewb Glorfindel [Wizard]: Hmm.. You ought to be able to get out, but forgive[0m
+[10:11] [0m                          me for not remembering how... I get lost in[0m
+[10:11] [0m                          Woonsocket... I do remember something about[0m
+[10:11] [0m                          finding your way to town and touching a lightpole[0m
+[10:11] [0m                          or something to stop automatically spawning in[0m
+[10:11] [0m                          Woonsocket.[0m
+[10:11] [0mnewb Zanadu [gentech/137]: you have to complete the conversation all the way[0m
+[10:11] [0mnewb Glorfindel [Wizard]: Maybe someone can remember something more specific[0m
+[10:11] [0m                          there?  I'm likely to get you lost[0m
+[10:11] [0mnewb Zanadu [gentech/137]: levels will fix this[0m
+[10:13] [0mnewb Axeile [adventurer/5]: thanks eveeryone, i got to log out for now.[0m
+[10:13] [0m                            let's see ho it goes next time[0m
+[10:14] [0m[31;1m[Clan] Byron :[0m oo thats a good soul[0m
+[10:18] [0m[31;1m[Clan] Saim :[0m fat[0m
+[10:18] [0m[31;1m[Clan] Saim :[0m haha[0m
+[10:18] [0m[31;1m[Clan] Decav :[0m You're a dumbass.[0m
+[10:18] [0m[31;1m[Clan] Decav :[0m laf[0m
+[10:19] [0m[31;1m[Clan] Decav :[0m that's a lovely soul[0m
+[10:19] [0m[31;1m[Clan] Byron :[0m yeah[0m
+[10:19] [0m[31;1m[Clan] Byron :[0m incredible[0m
+[10:34] [0mYou can currently reforge 8 items.[0m
+[10:52] [0m[34;1mEcholoc shouts:[0m woo![0m
+[10:52] [0m[34;1mTex shouts:[0m thanks all long time coming[0m
+[11:03] [0m[34;1mPrism shouts:[0m Hi![0m
+[11:07] [0m[34;1mTex shouts:[0m This is my rifle, this is my gun, let me toss a few missiles and[0m
+[11:07] [0m            have some fun![0m
+[11:16] [0m[37;1mHsima flaps :[0m if Boscar is on, I don't mind harmonizing things I just need[0m
+[11:16] [0m              to save up some boosts[0m
+[11:21] [0m[37;1mSer flaps :[0m what if he isnt[0m
+[11:34] [0mYou can currently reforge 12 items.[0m
+[11:37] [0m[34;1mVilgan shouts: [0mArgh, I'm dying!  Trout is a meany![0m
+[11:44] [0mYou can currently reforge 0 items.[0m
+[12:02] [0m[34;1mKsemia shouts:[0m thanks all[0m
+[12:04] [0m[34;1mNauda shouts:[0m are welcome[0m
+[12:18] [0m[34;1mEcholoc shouts:[0m Down with Pants![0m
+[12:18] [0m[34;1mGilneas shouts:[0m up with skirts![0m
+[12:19] [0mEllegon <.oO>: Twinkle twinkle little star, how i wonder where you are. I[0m
+[12:19] [0m               wish i may, I wish i might, wish upon this star tonight. I[0m
+[12:19] [0m               wish i was corporeal.[0m
+[12:19] [0m[34;1mEcholoc shouts:[0m and work on the motions![0m
+[12:20] [0mEcholoc <.oO>: nasty, nasty Smurfeses![0m
+[12:20] [0mXiu <.oO>: did they steals the precious?[0m
+[12:21] [0mEcholoc <.oO>: na, just going around murdering people[0m
+[12:22] [0mEcholoc <.oO>: or defending themselves... depends on your view[0m
+[12:23] [0mEcholoc <.oO>: It's coming right for US! *opens fire*[0m
+[12:24] [0mEllegon <.oO>: *kshk* This is Dispatch, reporting Ellegon 10-42, can we get[0m
+[12:24] [0m               a rez? *kshk*[0m
+[12:31] [0mEllegon <.oO>: boom goes dynamite. thanks![0m
+[12:34] [0mYou can currently reforge 4 items.[0m
+[12:40] [0m[31;1m[Clan] Phenom leaves the game.[0m  [0m
+[13:34] [0mYou can currently reforge 8 items.[0m
+[13:39] [0m[31;1m[Clan] Roor :[0m laf[0m
+[13:39] [0m[31;1m[Clan] Prism :[0m rip gens[0m
+[13:39] [0m[31;1m[Clan] Roor :[0m the gentech code gives gentech 2x the defenses that they[0m
+[13:39] [0m              should have[0m
+[13:40] [0m[31;1m[Clan] Roor :[0m atleast i got my two tiumeslides[0m
+[13:41] [0m[34;1mPrism shouts:[0m Thanks :)[0m
+[13:43] [0m[31;1m[Clan] Aka :[0m i hope the guild is still one of the top tank guilds, i would[0m
+[13:43] [0m             hate to have to play a gnome lol[0m
+[13:45] [0m[31;1m[Clan] Ser :[0m if you want i can nab one[0m
+[13:45] [0m[31;1m[Clan] Ser :[0m mt[0m
+[13:49] [0m[31;1m[Clan] Roor :[0m ok i'm going to troll now[0m
+[13:53] [0m[31;1m[Clan] Byron :[0m lol, i'm betting they have 2x the offense they should too[0m
+[13:54] [0m[31;1m[Clan] Byron :[0m someone must've accidentally doubuled the biases :P[0m
+[13:54] [0m[31;1m[Clan] Prism :[0m Every guild I get some time in gets nerfed[0m
+[13:54] [0m[31;1m[Clan] Aka :[0m oops[0m
+[13:54] [0m[31;1m[Clan] Prism :[0m I'm sad[0m
+[13:54] [0m[31;1m[Clan] Roor :[0m does that 2x bias issue apply to offense as well?[0m
+[13:54] [0m[31;1m[Clan] Aka :[0m it was an accident[0m
+[13:54] [0m[31;1m[Clan] Byron :[0m gentechs are still good[0m
+[13:54] [0m[31;1m[Clan] Byron :[0m But...you were tanking scaler 150 vamps in 60 days[0m
+[13:54] [0m[31;1m[Clan] Aka :[0m yeah gentech will definitely still be good[0m
+[13:55] [0m[31;1m[Clan] Aka :[0m we all just CRUSHED the guild haha[0m
+[13:55] [0m[31;1m[Clan] Aka :[0m attack of the clones was the final straw[0m
+[13:55] [0m[31;1m[Clan] Prism :[0m I wonder if this shit is even true or if TH is just making[0m
+[13:55] [0m               shit up cuz he wants them nerfed[0m
+[13:55] [0m[31;1m[Clan] Aka :[0m i'd say i'm a good of example of how it was too easy to get to[0m
+[13:55] [0m             GHC+[0m
+[13:55] [0m[31;1m[Clan] Aka :[0m i've been a gentech since april[0m
+[13:55] [0m[31;1m[Clan] Byron :[0m finger terran[0m
+[13:55] [0m[31;1m[Clan] Aka :[0m another great example[0m
+[13:55] [0m[31;1m[Clan] Aka :[0m he joined right after me, and is a bot[0m
+[13:55] [0m[31;1m[Clan] Prism :[0m That has nothing to do with power, that's gxp rate :P[0m
+[13:56] [0m[31;1m[Clan] Byron :[0m it's both[0m
+[13:56] [0m[31;1m[Clan] Aka :[0m gxp = power up in here[0m
+[13:56] [0m[31;1m[Clan] Prism :[0m It's both but this is not about speed of gxp, it's about a[0m
+[13:56] [0m               straight half cut to defenses lol[0m
+[13:56] [0m[31;1m[Clan] Aka :[0m these orders are bs[0m
+[13:56] [0m[31;1m[Clan] Byron :[0m 60 days in the guild (actually less since he's lived in NOC[0m
+[13:56] [0m               since like 45 days old)[0m
+[13:56] [0m[31;1m[Clan] Byron :[0m Martyr was tanking significantly better than me[0m
+[13:56] [0m[31;1m[Clan] Byron :[0m it was crazy[0m
+[13:57] [0m[31;1m[Clan] Byron :[0m yo know, if someone put shit in the info new[0m
+[13:57] [0m[31;1m[Clan] Byron :[0m they could figure out what changed :D[0m
+[13:57] [0m[31;1m[Clan] Aka :[0m then we could catch is accidents sooner[0m
+[13:57] [0m[31;1m[Clan] Aka :[0m before 10 orders are gained[0m
+[13:57] [0m[31;1m[Clan] Aka :[0m so that's not happeenin[0m
+[13:57] [0m[31;1m[Clan] Byron :[0m lol, someone got 10 orders?[0m
+[13:57] [0m[31;1m[Clan] Prism :[0m Nothing is documented ever, and then massxp was taken away so[0m
+[13:57] [0m               it's harder to gauge guild v guild[0m
+[13:57] [0m[31;1m[Clan] Byron :[0m for free?[0m
+[13:57] [0m[31;1m[Clan] Aka :[0m haha idk i don't pay attention to who's what order[0m
+[13:57] [0m[31;1m[Clan] Byron :[0m turnhold has done an incredible job of documenting[0m
+[13:58] [0m[31;1m[Clan] Aka :[0m i'm just kidding mostly, at franks expense[0m
+[13:58] [0m[31;1m[Clan] Byron :[0m every single bard change[0m
+[13:58] [0m[31;1m[Clan] Byron :[0m is in there[0m
+[13:58] [0m[31;1m[Clan] Prism :[0m maybe in Bards laf, look at what he didn't document in[0m
+[13:58] [0m               elemental and monk[0m
+[13:58] [0m[31;1m[Clan] Byron :[0m yeah i cant speak t those. but TH had me and nix on his ass[0m
+[13:58] [0m               to document stuff[0m
+[13:58] [0m[31;1m[Clan] Byron :[0m so maybe it was the admin in those guilds at fault[0m
+[13:58] [0m[31;1m[Clan] Prism :[0m So he didn't do it cuz he wanted transparency, he did it to[0m
+[13:58] [0m               shut you guys up :P[0m
+[13:59] [0m[31;1m[Clan] Roor :[0m hey TH was great to deal with and still is[0m
+[13:59] [0m[31;1m[Clan] Roor :[0m in terms of bard changes[0m
+[13:59] [0m[31;1m[Clan] Byron :[0m nog[0m
+[13:59] [0m[31;1m[Clan] Byron :[0m 100%[0m
+[13:59] [0m[31;1m[Clan] Roor :[0m he listened to Byron and I and actually tweaked things[0m
+[13:59] [0m[31;1m[Clan] Prism :[0m Simon and Skuggo being total shitheads too[0m
+[13:59] [0m[31;1m[Clan] Roor :[0m fuck he still is and he's talked to me personally about the[0m
+[13:59] [0m              critic issue[0m
+[14:00] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[14:01] [0m[31;1m[Clan] Toren enters the game.[0m  [0m
+[14:01] [0m[31;1m[Clan] Toren leaves the game.[0m  [0m
+[14:01] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[14:02] [0m[31;1m[Clan] Byron :[0m nix said he wants critic at 95, fuck the baby bards[0m
+[14:02] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[14:02] [0m[31;1m[Clan] Roor :[0m fuck you i did not[0m
+[14:02] [0m[31;1m[Clan] Prism :[0m WOW not surprised!!!!!!!!!![0m
+[14:03] [0m[31;1m[Clan] Roor :[0m i said 90[0m
+[14:03] [0m[31;1m[Clan] Prism :[0m hahahz[0m
+[14:03] [0m[31;1m[Clan] Prism :[0m Zum just got critic, wonder if he likes it[0m
+[14:03] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[14:03] [0m[31;1m[Clan] Prism :[0m he's not on to bug tho[0m
+[14:06] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[14:06] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[14:06] [0m[31;1m[Clan] Byron :[0m woo some salt in there[0m
+[14:07] [0m[31;1m[Clan] Byron :[0m it's impossible to disliek critic :D[0m
+[14:07] [0m[31;1m[Clan] Roor :[0m none of these people would last on the bard line byron[0m
+[14:07] [0m[31;1m[Clan] Byron :[0m lol[0m
+[14:07] [0m[31;1m[Clan] Roor :[0m we'd be like shut the fuck up and get over it[0m
+[14:08] [0m[31;1m[Clan] Roor :[0m with sarcasm and trolling included[0m
+[14:08] [0m[31;1m[Clan] Prism :[0m I'm surprised I lasted as long as I did in Bards cuz it's[0m
+[14:08] [0m               full of BULLIES[0m
+[14:09] [0m[31;1m[Clan] Taleast :[0m both[0m
+[14:09] [0m[31;1m[Clan] Byron :[0m Bards United Lulling Lullabies In Eternal Symphony[0m
+[14:09] [0m[31;1m[Clan] Byron :[0m DAmn right![0m
+[14:09] [0m[31;1m[Clan] Roor :[0m oh stop, if we give you a hard time it means we like you[0m
+[14:09] [0m[31;1m[Clan] Prism :[0m I'm actually impressed, that took you no time at all Byron[0m
+[14:09] [0m[31;1m[Clan] Prism :[0m no I'm just kidding, if you guys were mean I wouldn't have[0m
+[14:09] [0m               apped here :P[0m
+[14:10] [0m[31;1m[Clan] Byron :[0m It's an official acronym[0m
+[14:10] [0m[31;1m[Clan] Prism :[0m Shut up[0m
+[14:10] [0m[31;1m[Clan] Byron :[0m laf[0m
+[14:10] [0m[31;1m[Clan] Prism :[0m <3[0m
+[14:10] [0m[31;1m[Clan] Byron :[0m ok, so now that your gentech sucks - lets get hardcore![0m
+[14:11] [0m[31;1m[Clan] Prism :[0m Okay![0m
+[14:11] [0m[31;1m[Clan] Prism :[0m thats what Decav is trying to talk me into[0m
+[14:11] [0m[31;1m[Clan] Taleast :[0m well, fuck the vaf drive, why would I spend $400 to be[0m
+[14:11] [0m                 potentially disadvantaged in another guild[0m
+[14:11] [0m[31;1m[Clan] Decav :[0m we should all make a hc char and join the same guild[0m
+[14:11] [0m[31;1m[Clan] Prism :[0m sii[0m
+[14:11] [0m[31;1m[Clan] Decav :[0m and take over the guild line[0m
+[14:12] [0m[31;1m[Clan] Roor :[0m sii suck[0m
+[14:12] [0m[31;1m[Clan] Byron :[0m lol[0m
+[14:12] [0m[31;1m[Clan] Prism :[0m who doesn't suck[0m
+[14:12] [0m[31;1m[Clan] Byron :[0m glorfindel is working on sii[0m
+[14:12] [0m[31;1m[Clan] Roor :[0m ooo[0m
+[14:12] [0m[31;1m[Clan] Roor :[0m really?"[0m
+[14:12] [0m[31;1m[Clan] Byron :[0m ya[0m
+[14:12] [0m[31;1m[Clan] Roor :[0m i might just play mako again then[0m
+[14:12] [0m[31;1m[Clan] Byron :[0m i'm getting a spirit scroll then swapping backt o HC[0m
+[14:12] [0m[31;1m[Clan] Prism :[0m I like the name Mako, it's from Star Wars: The Old Republic[0m
+[14:13] [0m[31;1m[Clan] Byron :[0m Nix caught a mako when he was 8 and still hasnt shut up about[0m
+[14:13] [0m               it[0m
+[14:13] [0m[31;1m[Clan] Taleast :[0m laf[0m
+[14:13] [0m[31;1m[Clan] Decav :[0m sii lore was pretty nice, confusing as hell though and the[0m
+[14:13] [0m               forms were really weird. i remember using only like 1 or 2[0m
+[14:13] [0m               forms cuz they got max gxp/rnd[0m
+[14:13] [0m[31;1m[Clan] Roor :[0m it's although a ruthless torpedo like killer that terrorizes[0m
+[14:13] [0m              the open seas[0m
+[14:13] [0m[31;1m[Clan] Prism :[0m whatever I got dupe6 and rd3 on prism[0m
+[14:13] [0m[31;1m[Clan] Prism :[0m so not total sunk cost![0m
+[14:13] [0m[31;1m[Clan] Roor :[0m dude they shot that fucking shark 9 times with a 45 and it was[0m
+[14:13] [0m              still going apey[0m
+[14:13] [0m[31;1m[Clan] Byron :[0m gentechs are still a rad guild[0m
+[14:13] [0m[31;1m[Clan] Byron :[0m i love the theme[0m
+[14:14] [0m[31;1m[Clan] Roor :[0m i gotta block this line, i can't take these toolbags anymore[0m
+[14:14] [0m[31;1m[Clan] Roor :[0m let me know if they say anything else about  changes[0m
+[14:14] [0m[31;1m[Clan] Prism :[0m what is a guild that will never get nerfed or changed at all[0m
+[14:14] [0m[31;1m[Clan] Roor :[0m adventurers[0m
+[14:14] [0m[31;1m[Clan] Prism :[0m thats where I'm going forever[0m
+[14:14] [0m[31;1m[Clan] Decav :[0m laf[0m
+[14:14] [0m[31;1m[Clan] Byron :[0m laf[0m
+[14:14] [0m[31;1m[Clan] Prism :[0m sunder still op af?[0m
+[14:14] [0m[31;1m[Clan] Decav :[0m necros?[0m
+[14:14] [0m[31;1m[Clan] Byron :[0m sunder? thats you?[0m
+[14:14] [0m[31;1m[Clan] Prism :[0m no, the ability is called sunder[0m
+[14:14] [0m[31;1m[Clan] Prism :[0m I thought[0m
+[14:15] [0m[31;1m[Clan] Byron :[0m nfi what sunder is[0m
+[14:15] [0m[31;1m[Clan] Prism :[0m ITS AN ABILITY GOD[0m
+[14:15] [0m[31;1m[Clan] Decav :[0m adventurer power[0m
+[14:15] [0m[31;1m[Clan] Prism :[0m THAT ADVENTURERS GET[0m
+[14:15] [0m[31;1m[Clan] Byron :[0m not in the help file[0m
+[14:15] [0m[31;1m[Clan] Prism :[0m Really? It used to be[0m
+[14:15] [0m[31;1m[Clan] Decav :[0m so even adventurers get nerfed[0m
+[14:15] [0m[31;1m[Clan] Prism :[0m no one is safe, gunna iwpe all my chars bye[0m
+[14:15] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[14:16] [0m[31;1m[Clan] Boscar enters the game.[0m  [0m
+[14:17] [0m[31;1m[Clan] Taleast :[0m Prism, really? You yourself have said you spent almost your[0m
+[14:17] [0m                 entire time behind PP, avoiding phases that I have spent[0m
+[14:17] [0m                 gxp on.[0m
+[14:17] [0m[31;1m[Clan] Taleast :[0m that's how you're gonna do me?[0m
+[14:17] [0m[31;1m[Clan] Prism :[0m Avoiding phases? Wha?[0m
+[14:17] [0m[31;1m[Clan] Prism :[0m I'm talking about now, I'm solo a ton[0m
+[14:17] [0m[31;1m[Clan] Taleast :[0m but you're already a ghc[0m
+[14:18] [0m[31;1m[Clan] Taleast :[0m it doesn't matter now, you've already got most/all the[0m
+[14:18] [0m                 defenses[0m
+[14:18] [0m[31;1m[Clan] Taleast :[0m most/all the experiments, etc[0m
+[14:18] [0m[31;1m[Clan] Prism :[0m I guess so, I'm just saying I don't count it anymore, it's[0m
+[14:18] [0m               annoying to pay attention to, the way you earn gxp is[0m
+[14:18] [0m               annoying, I wish it was a flat rate[0m
+[14:18] [0m[31;1m[Clan] Prism :[0m I used to get pretty worked up over max gxp but there was[0m
+[14:18] [0m               nothing I could do[0m
+[14:19] [0m[31;1m[Clan] Taleast :[0m then say that[0m
+[14:19] [0m[31;1m[Clan] Taleast :[0m I feel like I'm getting gangbanged in that fucking chatline[0m
+[14:19] [0m[31;1m[Clan] Prism :[0m They're not going to change anything[0m
+[14:20] [0m[31;1m[Clan] Boscar :[0m the gentechs that gave gentechs a bad name all came back[0m
+[14:20] [0m[31;1m[Clan] Boscar :[0m so, yeah[0m
+[14:20] [0m[31;1m[Clan] Boscar :[0m that's a big reason i haven't been playing martyr[0m
+[14:20] [0m[31;1m[Clan] Taleast :[0m I didn't ask them to avoid the downgrade, or even a change[0m
+[14:20] [0m                 to the gxp curve, I asked them to make the gxp easier to[0m
+[14:20] [0m                 deal with and the lower glvls easier to solo/gxp[0m
+[14:20] [0m[31;1m[Clan] Roor :[0m they won't change anything that effects [ ==*== ] Moderator of[0m
+[14:20] [0m              the Battlefields or above[0m
+[14:21] [0m[31;1m[Clan] Boscar :[0m what order is that?[0m
+[14:21] [0m[31;1m[Clan] Boscar :[0m zans?[0m
+[14:21] [0m[31;1m[Clan] Prism :[0m yea tbh sdome of the shittier people (not players, but[0m
+[14:21] [0m               people) are in gentech[0m
+[14:21] [0m[31;1m[Clan] Prism :[0m thats zan yea[0m
+[14:22] [0m[31;1m[Clan] Boscar :[0m woooooo[0m
+[14:22] [0m[31;1m[Clan] Boscar :[0m I can carry 180 corpses after ftouch :D[0m
+[14:22] [0m[31;1m[Clan] Aka :[0m r u guys talkin about me?[0m
+[14:22] [0m[31;1m[Clan] Aka :[0m kidding..[0m
+[14:22] [0m[31;1m[Clan] Aka :[0m yeah don't use comm, that's for assholes[0m
+[14:23] [0m[31;1m[Clan] Aka :[0m anytime i've suggested or questioned anything on comm i've been[0m
+[14:23] [0m             slaughtered[0m
+[14:23] [0m[31;1m[Clan] Prism :[0m Simon is the biggest prick on 3k so I'm not surprised[0m
+[14:24] [0m[31;1m[Clan] Boscar :[0m 100%[0m
+[14:24] [0m[31;1m[Clan] Boscar :[0m if he was a bard he wouldn't have a gobj[0m
+[14:24] [0m[31;1m[Clan] Boscar :[0m or any lines[0m
+[14:25] [0m[31;1m[Clan] Prism :[0m Skuggo has a big bard[0m
+[14:25] [0m[31;1m[Clan] Prism :[0m He's a prick too[0m
+[14:25] [0m[31;1m[Clan] Boscar :[0m skuggo is infinitely less a prick[0m
+[14:25] [0m[31;1m[Clan] Boscar :[0m I can deal w him[0m
+[14:25] [0m[31;1m[Clan] Prism :[0m Yes but we're talking about levels, right? So Skuggo is level[0m
+[14:25] [0m               1, Simon is level 34890583453294583457345[0m
+[14:25] [0m[31;1m[Clan] Boscar :[0m yes[0m
+[14:25] [0m[31;1m[Clan] Boscar :[0m precisely[0m
+[14:25] [0m[31;1m[Clan] Prism :[0m Still a prick tho![0m
+[14:25] [0m[31;1m[Clan] Boscar :[0m agree[0m
+[14:26] [0m[31;1m[Clan] Boscar :[0m I guess if oyu hang around dogs you get fleas[0m
+[14:26] [0m[31;1m[Clan] Prism :[0m Going from Bard gline to Gentech is like going from Obama to[0m
+[14:26] [0m               Trump (runs away forever)[0m
+[14:26] [0m[31;1m[Clan] Boscar :[0m lol[0m
+[14:27] [0m[31;1m[Clan] Boscar :[0m Nix is the VP[0m
+[14:27] [0m[31;1m[Clan] Prism :[0m my attempt to trigger nix failed[0m
+[14:27] [0m[31;1m[Clan] Boscar :[0m he'll trigger once he comes back[0m
+[14:27] [0m[31;1m[Clan] Prism :[0m Biggest bot in the clan SMH[0m
+[14:27] [0m[31;1m[Clan] Boscar :[0m he can't resist a good political bait[0m
+[14:27] [0m[31;1m[Clan] Boscar :[0m new bk![0m
+[14:27] [0m[31;1m[Clan] Boscar :[0m these things are pushing me though, so hope I dont die from[0m
+[14:27] [0m                special[0m
+[14:28] [0m[31;1m[Clan] Boscar :[0m I'm making 400 gxp/rnd average though, I'm suaully at like[0m
+[14:28] [0m                175[0m
+[14:32] [0m[31;1m[Clan] Roor :[0m what in the actual fuck[0m
+[14:32] [0m[31;1m[Clan] Roor :[0m i just had some chick call me and tell me she needs a lawyer[0m
+[14:32] [0m[31;1m[Clan] Roor :[0m she's experiencing Remote Neural Monitoring[0m
+[14:32] [0m[31;1m[Clan] Boscar :[0m good thing you're an expert in that[0m
+[14:33] [0m[31;1m[Clan] Boscar :[0m but it's a specialty[0m
+[14:33] [0m[31;1m[Clan] Boscar :[0m so ti'll cost double[0m
+[14:34] [0m[31;1m[Clan] Roor :[0m the NSA is projecting electronic low frequencies to her head[0m
+[14:34] [0mYou can currently reforge 12 items.[0m
+[14:35] [0m[31;1m[Clan] Boscar :[0m I wanna buy whoever referrs these kooks to you a beer[0m
+[14:35] [0m[31;1m[Clan] Aka :[0m damn dude i'm gookling remote neural monitoring now, scary af[0m
+[14:36] [0m[31;1m[Clan] Aka :[0m aaaaaand the fbi is here[0m
+[14:37] [0m[31;1m[Clan] Boscar :[0m Hungarian anti-gay MEP resigns after breaking lockdown to[0m
+[14:37] [0m                attend orgy[0m
+[14:37] [0m[31;1m[Clan] Boscar :[0m great headline[0m
+[14:38] [0m[31;1m[Clan] Aka :[0m nanobot technology[0m
+[14:41] [0m[31;1m[Clan] Falthrice leaves the game.[0m  [0m
+[14:45] [0mnewb Jaeger [juggernaut/78]: https://wemudtogether.com/images/maps/woonsocke[0m
+[14:45] [0m                             t.png  for future reference.  the 'tutorial'[0m
+[14:45] [0m                             exit goes back to newbieland, so you dont have[0m
+[14:45] [0m                             to rub the amulet or whatever[0m
+[14:45] [0mnewb Boscar [priest/75]: there's a dungeon in woonsocket?[0m
+[14:46] [0mnewb Jaeger [juggernaut/78]: has zombies and such in it[0m
+[14:46] [0mnewb Jaeger [juggernaut/78]: very nice area to kill in early on, even i[0m
+[14:46] [0m                             think right when you join a guild.  the vampire[0m
+[14:46] [0m                             king is tough though[0m
+[14:47] [0mnewb Echoloc [juggernaut/111]: but it is not an instanced area :P[0m
+[14:47] [0m[31;1m[Clan] Taleast :[0m laf, Apoc savage with those Zanadu questions[0m
+[14:47] [0m[37;1mLicklick flaps :[0m politics aside Tom Brady is the goat[0m
+[14:47] [0mnewb Glorfindel [Wizard]: Is there really that much combetition? :)[0m
+[14:48] [0m[31;1m[Clan] Boscar :[0m what'd he ask[0m
+[14:48] [0mnewb Din [bladesinger/132]: woonsocket does something besides frustrate?[0m
+[14:48] [0m[31;1m[Clan] Taleast :[0m [14:46] [Apocalypse GENTECH-Alpha]: so what was zan's def[0m
+[14:48] [0m                 at when doing day7?[0m
+[14:48] [0m[31;1m[Clan] Taleast :[0m [14:46] [Apocalypse GENTECH-Alpha]: or paul2?[0m
+[14:48] [0mnewb Jaeger [juggernaut/78]: the magic shop even sells lights, but they are[0m
+[14:48] [0m                             pricey for newbies i feel like[0m
+[14:49] [0m[31;1m[Clan] Prism :[0m prettypony does vamps in 190 def laf[0m
+[14:49] [0m[31;1m[Clan] Taleast :[0m not savage in their own right, but considering the[0m
+[14:49] [0m                 discussion, the focus of the individual, and the[0m
+[14:49] [0m                 accomplishments mentioned...[0m
+[14:49] [0mnewb Echoloc [juggernaut/111]: bah, get the pesant ring and come back :P[0m
+[14:49] [0mnewb Echoloc [juggernaut/111]: and spoon[0m
+[14:50] [0mnewb Echoloc [juggernaut/111]: i feel there should be a beastly spoon out in[0m
+[14:50] [0m                               the "greater mud area" :)[0m
+[14:50] [0mnewb Jaeger [juggernaut/78]: magic shop sells "glowing orb" for 1050 coins[0m
+[14:51] [0m[31;1m[Clan] Boscar :[0m Lol, exactly why I don't think it was much of an bug[0m
+[14:52] [0m[31;1m[Clan] Taleast :[0m here's the thing, those same people bitching about how easy[0m
+[14:52] [0m                 new people have it, they're fucking double dipping, because[0m
+[14:52] [0m                 they got ghc increases from the rescale[0m
+[14:52] [0m[31;1m[Clan] Aka :[0m heh yeah just abusing something, and he has been this whole[0m
+[14:52] [0m             time and now he has to fix it[0m
+[14:52] [0m[31;1m[Clan] Boscar :[0m I think I mentioned it last day 7 that he was out meleeing[0m
+[14:52] [0m                me by far (12 attacks, most of them demolish+ which is like[0m
+[14:52] [0m                1k a shot) and on top of that there's ibeam/ddb/synthorg[0m
+[14:52] [0m                which is the "real damage"[0m
+[14:52] [0m[31;1m[Clan] Prism :[0m nod[0m
+[14:52] [0m[31;1m[Clan] Boscar :[0m he always had a wvein wielded too[0m
+[14:52] [0m[31;1m[Clan] Boscar :[0m knowing that the genarm bug[0m
+[14:53] [0m[31;1m[Clan] Boscar :[0m would double his dmg[0m
+[14:53] [0m[31;1m[Clan] Aka :[0m i remember just getting back to gentech, i used to play old[0m
+[14:53] [0m             school gentech, was asking questions about raising defense bias[0m
+[14:53] [0m             over 100% and what the advantages/penalties or costs would be[0m
+[14:53] [0m[31;1m[Clan] Aka :[0m and zan made me feel so dumb on comm lol[0m
+[14:53] [0m[31;1m[Clan] Taleast :[0m supposedly that genarm thing was known to the guild wizzes,[0m
+[14:53] [0m                 but deemed acceptable/bonus[0m
+[14:53] [0m[31;1m[Clan] Boscar :[0m acceptable until others starting using it[0m
+[14:53] [0m[31;1m[Clan] Aka :[0m but that's what it was, Kremlin even asked about overclocking[0m
+[14:53] [0m             during the conversation there[0m
+[14:53] [0m[31;1m[Clan] Prism :[0m its all fine until others get close to it, and then it must[0m
+[14:53] [0m               be fixed[0m
+[14:53] [0m[31;1m[Clan] Taleast :[0m of course that was likely before all the rebalancing[0m
+[14:53] [0m[31;1m[Clan] Prism :[0m never really hurts the guys at the top, just everyone else[0m
+[14:54] [0m[31;1m[Clan] Prism :[0m it's a dumb cycle that has gone on forever on this mud so[0m
+[14:54] [0m               nothin will change now, just lay back and take it!!![0m
+[14:54] [0m[31;1m[Clan] Boscar :[0m gentech are still fun and in a better place[0m
+[14:54] [0m[31;1m[Clan] Aka :[0m 100%[0m
+[14:54] [0m[31;1m[Clan] Boscar :[0m I just really dislike that there's nothing documented and[0m
+[14:54] [0m                info new only has the tweaks TH made like 2 years ago[0m
+[14:54] [0m[31;1m[Clan] Prism :[0m nod[0m
+[14:54] [0m[31;1m[Clan] Boscar :[0m Push for that on the line[0m
+[14:54] [0m[31;1m[Clan] Boscar :[0m Or push trout to say something, cause the other admin is the[0m
+[14:54] [0m                one doing the coding[0m
+[14:55] [0m[31;1m[Clan] Boscar :[0m because the longer it goes, the more what was changed will[0m
+[14:55] [0m                be forgotten/excluded[0m
+[14:56] [0m[31;1m[Clan] Taleast :[0m [14:55] [Taleast GENTECH-Alpha]: so genarm/timeshift is[0m
+[14:56] [0m                 what provided all his damage at that bias?[0m
+[14:56] [0m[31;1m[Clan] Boscar :[0m wtf is gentech alpha[0m
+[15:02] [0m[31;1m[Clan] Roor :[0m someone break the news to pp[0m
+[15:02] [0m[31;1m[Clan] Prism :[0m he knows, was telling him on clan disc[0m
+[15:03] [0m[31;1m[Clan] Roor :[0m oh your in another clan?!?!?[0m
+[15:03] [0m[31;1m[Clan] Prism :[0m Oh, no, I was just in AoA for like 10 years or something[0m
+[15:03] [0m[31;1m[Clan] Roor :[0m you double agent[0m
+[15:03] [0m[31;1m[Clan] Boscar :[0m hes a mole[0m
+[15:03] [0m[31;1m[Clan] Prism :[0m haha[0m
+[15:03] [0m[31;1m[Clan] Roor :[0m what do we do with moles??? we whack EM![0m
+[15:06] [0m[31;1m[Clan] Taleast :[0m text from discussion is a text file attached on discord[0m
+[15:06] [0m[31;1m[Clan] Taleast :[0m wouldn't let me paste in due to size[0m
+[15:06] [0m[34;1mFlaxen shouts:[0m he cut his wiener off![0m
+[15:09] [0m[34;1mInix shouts:[0m Who does Number 2 work for!?[0m
+[15:10] [0m[31;1m[Clan] Prism leaves the game.[0m  [0m
+[15:11] [0m[31;1m[Clan] Vidae enters the game.[0m  [0m
+[15:11] [0mYou can currently reforge 0 items.[0m
+[15:13] [0m[31;1m[Clan] Boscar :[0m lol, poor glazed[0m
+[15:13] [0m[31;1m[Clan] Boscar :[0m is all i got out of that[0m
+[15:14] [0m[31;1m[Clan] Vidae :[0m lmao[0m
+[15:14] [0m[31;1m[Clan] Vidae :[0m Hi I'm a bard again, how do I play again I forgot[0m
+[15:14] [0m[31;1m[Clan] Boscar :[0m you got til the new year to get critic and enjoy it[0m
+[15:14] [0m[31;1m[Clan] Boscar :[0m before you need a lot more time[0m
+[15:14] [0m[31;1m[Clan] Roor :[0m says who?[0m
+[15:14] [0m[31;1m[Clan] Vidae :[0m is it really being moved?[0m
+[15:14] [0m[31;1m[Clan] Boscar :[0m yeah[0m
+[15:14] [0m[31;1m[Clan] Roor :[0m yeah to 90[0m
+[15:14] [0m[31;1m[Clan] Boscar :[0m it's 100% getting moved[0m
+[15:14] [0m[31;1m[Clan] Vidae :[0m to 90? holy shit[0m
+[15:14] [0m[31;1m[Clan] Boscar :[0m it's fucking strong[0m
+[15:14] [0m[31;1m[Clan] Boscar :[0m so, 75 was way too early[0m
+[15:14] [0m[31;1m[Clan] Vidae :[0m I just want level 111 and dupe 4[0m
+[15:15] [0m[31;1m[Clan] Roor :[0m well... if he readjusts the dmg it's strong[0m
+[15:15] [0m[31;1m[Clan] Vidae :[0m so whatever[0m
+[15:15] [0m[31;1m[Clan] Boscar :[0m yeah, maybe we can ask about that[0m
+[15:15] [0m[31;1m[Clan] Boscar :[0m un nerf it now that he's doing what should've been done in[0m
+[15:15] [0m                the 1st place[0m
+[15:15] [0m[31;1m[Clan] Boscar :[0m but once you get 75, you'll be able to get xp fast. so do so[0m
+[15:15] [0m                :)[0m
+[15:15] [0m[31;1m[Clan] Roor :[0m i somewhat get the argument about time invested from these[0m
+[15:15] [0m              bigger gentech, but i dont fucking care if someone gets close[0m
+[15:15] [0m              to what i can do in a quarter of the time[0m
+[15:16] [0m[31;1m[Clan] Roor :[0m i love the bard gl curve[0m
+[15:16] [0m[31;1m[Clan] Vidae :[0m It's the shittiest thing to argue[0m
+[15:16] [0m[31;1m[Clan] Boscar :[0m agreed, it's dumb[0m
+[15:16] [0m[31;1m[Clan] Vidae :[0m "It was hard for me so it shoudl be hard for you too" WHY?[0m
+[15:16] [0m[31;1m[Clan] Roor :[0m exactly[0m
+[15:16] [0m[31;1m[Clan] Roor :[0m dude you can get gl 80 in bards in relatively no time[0m
+[15:16] [0m[31;1m[Clan] Roor :[0m and your good[0m
+[15:16] [0m[31;1m[Clan] Boscar :[0m they're just clutching their OP gobj[0m
+[15:16] [0m[31;1m[Clan] Decav :[0m Different time and place, 3k isn't what it used to be. What's[0m
+[15:16] [0m               next - bring back losing 5 days of rl time when you die?[0m
+[15:16] [0m[31;1m[Clan] Roor :[0m 80->90 is an investment and you get more efficient and better[0m
+[15:16] [0m              overall[0m
+[15:16] [0m[31;1m[Clan] Roor :[0m 90->95 lotta investment[0m
+[15:16] [0m[31;1m[Clan] Saim :[0m soo[0m
+[15:17] [0m[31;1m[Clan] Roor :[0m to get gl 100 holy fuck all it's a crunch[0m
+[15:17] [0m[31;1m[Clan] Boscar :[0m Nod, 80 is fast-ish[0m
+[15:17] [0m[31;1m[Clan] Saim :[0m whats the big change?[0m
+[15:17] [0m[31;1m[Clan] Saim :[0m that sucks[0m
+[15:17] [0m[31;1m[Clan] Roor :[0m they're removing jedi[0m
+[15:17] [0m[31;1m[Clan] Boscar :[0m gentech "accidentally" had 2x the defense they should've[0m
+[15:17] [0m[31;1m[Clan] Saim :[0m that doesnt suck[0m
+[15:17] [0m[31;1m[Clan] Vidae :[0m Jedi are boring anyway, itd be doing them a favor![0m
+[15:17] [0m[31;1m[Clan] Saim :[0m i was in jedi before jedi were cool[0m
+[15:17] [0m[31;1m[Clan] Vidae :[0m same[0m
+[15:17] [0m[31;1m[Clan] Saim :[0m is the only reason im here[0m
+[15:17] [0m[31;1m[Clan] Boscar :[0m jedi still arent cool[0m
+[15:17] [0m[31;1m[Clan] Saim :[0m i know :([0m
+[15:18] [0m[31;1m[Clan] Roor :[0m you get a fancy flashlight tho[0m
+[15:18] [0m[31;1m[Clan] Roor :[0m better then a fleshlight i guess[0m
+[15:18] [0m[31;1m[Clan] Decav :[0m is it?[0m
+[15:18] [0m[31;1m[Clan] Roor :[0m it might not be decav[0m
+[15:18] [0m[31;1m[Clan] Saim :[0m i do, i love my gobj a nice mix of guild defense and gear and[0m
+[15:18] [0m              some decent dmg..[0m
+[15:18] [0m[31;1m[Clan] Roor :[0m decav did space reprimand you over your slaughter or[0m
+[15:18] [0m              Branatharus?[0m
+[15:19] [0m[31;1m[Clan] Decav :[0m not only me[0m
+[15:19] [0m[31;1m[Clan] Decav :[0m but like 3 other people[0m
+[15:19] [0m[31;1m[Clan] Roor :[0m lol nod[0m
+[15:19] [0m[31;1m[Clan] Decav :[0m was pretty amazing tbh, he's quite a piece of work[0m
+[15:19] [0m[31;1m[Clan] Vidae :[0m He sucks almost as much as Simon does[0m
+[15:19] [0m[31;1m[Clan] Boscar :[0m I hope I came off educational...I wanted you to know how to[0m
+[15:19] [0m                actually get a freezer[0m
+[15:19] [0m[31;1m[Clan] Boscar :[0m Cause farming him won't produce a good one[0m
+[15:21] [0m[31;1m[Clan] Decav :[0m oh yeah no issues with that at all, all around how he[0m
+[15:21] [0m               mishandled it[0m
+[15:21] [0m[31;1m[Clan] Decav :[0m i guess everyone has their memory of their first encounter[0m
+[15:21] [0m               with him, what are yours?[0m
+[15:21] [0m[31;1m[Clan] Vidae :[0m I usually have ok interactions with him, it's people like[0m
+[15:21] [0m               Simon and Rictor I hate[0m
+[15:22] [0m[31;1m[Clan] Bruce :[0m how dare you, simon is the greatest and the most elite[0m
+[15:23] [0m[31;1m[Clan] Vidae :[0m SHUTUP BRUCE[0m
+[15:23] [0m[31;1m[Clan] Bruce :[0m cry[0m
+[15:23] [0m[31;1m[Clan] Bruce :[0m poor bwucie[0m
+[15:25] [0m[31;1m[Clan] Boscar :[0m thought i smelled somethin[0m
+[15:25] [0m[31;1m[Clan] Boscar :[0m holy crap[0m
+[15:25] [0m[31;1m[Clan] Boscar :[0m I'm at 25mil/30[0m
+[15:25] [0m[31;1m[Clan] Boscar :[0m UNSTOPPABLE BOSCAR[0m
+[15:26] [0m[34;1mLiskerlol shouts:[0m ug gentech[0m
+[15:26] [0m[34;1mJaeger shouts:[0m ugh, totally[0m
+[15:26] [0m[31;1m[Clan] Boscar :[0m all my stuff is xmas themed now too[0m
+[15:26] [0m[34;1mChrys shouts:[0m downgrade the rest of us.....no.....wait!!![0m
+[15:26] [0m[34;1mBoscar shouts:[0m downgrade sii![0m
+[15:26] [0m[34;1mBoscar shouts:[0m Salt those slugs![0m
+[15:26] [0m[34;1mChrys shouts:[0m give Sii snake jazz!![0m
+[15:27] [0m[34;1mFlaxen shouts:[0m downgrade jerks[0m
+[15:27] [0m[34;1mFlaxen shouts:[0m upgrade wholesome memes[0m
+[15:27] [0m[34;1mApocalypse shouts:[0m aww don't be so hard on yourself Flaxen[0m
+[15:27] [0m[31;1m[Clan] Bruce :[0m i think this glvl is 177 hours of combat[0m
+[15:27] [0m[31;1m[Clan] Bruce :[0m oops[0m
+[15:27] [0m[34;1mChrys shouts:[0m self love is great[0m
+[15:27] [0m[34;1mFlaxen shouts:[0m hoisted by my own petard[0m
+[15:27] [0m[31;1m[Clan] Saim :[0m no one cares bruce[0m
+[15:27] [0m[31;1m[Clan] Bruce :[0m yeah fuck you bruce![0m
+[15:27] [0m[31;1m[Clan] Vidae :[0m EAT SHIT BRUCIE[0m
+[15:27] [0m[34;1mZiphe shouts:[0m you're such a JERK! *stomps away*[0m
+[15:27] [0m[31;1m[Clan] Bruce :[0m what an asshole, we hate him![0m
+[15:28] [0m[31;1m[Clan] Saim :[0m that will teach you to make conversation mistakes[0m
+[15:28] [0m[31;1m[Clan] Bruce :[0m i was looking for attention[0m
+[15:28] [0m[31;1m[Clan] Bruce :[0m someone gimme a hug[0m
+[15:28] [0m[31;1m[Clan] Bruce :[0m argh don't touch me![0m
+[15:29] [0m[31;1m[Clan] Vidae :[0m roor/byron[0m
+[15:29] [0m[31;1m[Clan] Vidae :[0m what is going on with rainbow? is that still going to 75 or[0m
+[15:29] [0m               wut[0m
+[15:30] [0m[31;1m[Clan] Boscar :[0m nah[0m
+[15:31] [0m[31;1m[Clan] Boscar :[0m you get nothing[0m
+[15:31] [0m[31;1m[Clan] Boscar :[0m and you'll enjoy it[0m
+[15:34] [0mYou can currently reforge 4 items.[0m
+[15:48] [0m[31;1m[Clan] Boscar :[0m anyone able to dupe me a vorpal blade if assassin responds[0m
+[15:48] [0m                to me?[0m
+[15:48] [0m[31;1m[Clan] Boscar :[0m i spent al mine[0m
+[15:48] [0m[31;1m[Clan] Taleast :[0m sure[0m
+[15:48] [0m[31;1m[Clan] Boscar :[0m fucker[0m
+[15:48] [0m[31;1m[Clan] Boscar :[0m he JUST ld'd[0m
+[15:48] [0m[31;1m[Clan] Taleast :[0m I was like, is fucker short hand for thank you?[0m
+[15:49] [0m[34;1mBahram shouts:[0m that feeling when you bounce and someone else's death spam[0m
+[15:49] [0m               show up in the same round[0m
+[15:49] [0m[31;1m[Clan] Boscar :[0m lol[0m
+[15:49] [0m[31;1m[Clan] Boscar :[0m it can be[0m
+[15:50] [0m[31;1m[Clan] Taleast :[0m wait, so Xaryl didn't get vorpal og?[0m
+[15:50] [0m[34;1mChrys shouts:[0m the feeling when you go to comfort someone who died and you[0m
+[15:50] [0m              realize it was yourself.[0m
+[15:50] [0m[34;1mEcholoc shouts:[0m that is a bad feeling, worse if you are hardcore :0[0m
+[15:51] [0m[34;1mChrys shouts:[0m be like....what!!! scroll back scroll back...dammit spice!!![0m
+[15:51] [0m[34;1mChrys shouts:[0m remember, technically, we are all addicted to air.[0m
+[15:52] [0m[34;1mRhyson shouts:[0m liar, i could quit anytime[0m
+[15:52] [0m[34;1mApocalypse shouts:[0m winners never quit[0m
+[15:52] [0m[34;1mZik shouts:[0m quitters dont do drugs![0m
+[16:00] [0m[31;1m[Clan] Vidae :[0m now high tier gentech are safe :P[0m
+[16:00] [0m[31;1m[Clan] Vidae :[0m s/tier/order[0m
+[16:15] [0mDecav <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[16:19] [0m[31;1m[Clan] Taleast :[0m you know the absolutely mind-numbing thing that I just[0m
+[16:19] [0m                 realized? The entire explanation for what was 'bugged'[0m
+[16:19] [0m                 could be a total bullshit smokescreen that gives them carte[0m
+[16:19] [0m                 blanch to 'fix' it, and still give Z his side-grade[0m
+[16:19] [0m[31;1m[Clan] Vidae :[0m Yea I said that like 4 hours ago haha[0m
+[16:19] [0m[31;1m[Clan] Taleast :[0m oh[0m
+[16:19] [0m[31;1m[Clan] Taleast :[0m well... fuck you[0m
+[16:19] [0m[31;1m[Clan] Taleast :[0m that's shorthand for thank you[0m
+[16:20] [0m[31;1m[Clan] Sparkie :[0m yeah, im not thrilled with massive sweepoing changes that[0m
+[16:20] [0m                 render my investment nulled. hopefully its not drastic[0m
+[16:20] [0m                 changes.[0m
+[16:20] [0m[31;1m[Clan] Boscar :[0m That's exactly why I keep bringing up to document changes[0m
+[16:20] [0m[31;1m[Clan] Boscar :[0m you tweak the guild it needs to be documented[0m
+[16:21] [0m[31;1m[Clan] Boscar :[0m martyr has a wildly different gobj than he did 1 year ago[0m
+[16:21] [0m[31;1m[Clan] Boscar :[0m and not 1 thing on changes[0m
+[16:21] [0m[31;1m[Clan] Vidae :[0m yup[0m
+[16:23] [0m[31;1m[Clan] Sparkie :[0m well i havent logged my gentech to actually play for a few[0m
+[16:23] [0m                 months now. no desire to work on it. i might have even less[0m
+[16:23] [0m                 if i go back in, and cant even grind on the same mobs. And[0m
+[16:23] [0m                 I don't expect me being upset to have any effect on their[0m
+[16:23] [0m                 changes. It will just be what it is.[0m
+[16:24] [0m[31;1m[Clan] Taleast :[0m all I can say is I'm glad I made a hard push[0m
+[16:24] [0m[31;1m[Clan] Taleast :[0m because it seems evident things would be much harder on the[0m
+[16:24] [0m                 way to 50 if I hadn't[0m
+[16:24] [0m[31;1m[Clan] Boscar :[0m Gentech are still have a fun theme and are very unique and[0m
+[16:24] [0m                have one of the best superpowers there are[0m
+[16:25] [0m[31;1m[Clan] Aka :[0m yeah i'm glad i bulldozed through GHC[0m
+[16:25] [0m[31;1m[Clan] Vidae :[0m Probably best superpower[0m
+[16:25] [0m[31;1m[Clan] Boscar :[0m It's just unfortunate a lot of the shitheads came back to 3k[0m
+[16:25] [0m[31;1m[Clan] Sparkie :[0m I got to GHC 2, and was brining my defense powers up. I[0m
+[16:25] [0m                 could just handle the 7m angels but i still had to make[0m
+[16:25] [0m                 corpse runs.[0m
+[16:25] [0m[31;1m[Clan] Taleast :[0m agreed, the problem is their lower glvls are atrocious[0m
+[16:25] [0m[31;1m[Clan] Aka :[0m <---[0m
+[16:25] [0m[31;1m[Clan] Vidae :[0m I doubt I'll quit Prism but right now I have 0 motivation to[0m
+[16:25] [0m               play him, shrug[0m
+[16:25] [0m[31;1m[Clan] Boscar :[0m you bard now[0m
+[16:26] [0m[31;1m[Clan] Taleast :[0m not just from actual painful issues, but also from a[0m
+[16:26] [0m                 serious case of ItCouldBe[0m
+[16:26] [0m[31;1m[Clan] Taleast :[0m sorry, ICouldBe[0m
+[16:26] [0m[31;1m[Clan] Boscar :[0m Get glvl 75 and grind xp[0m
+[16:26] [0m[31;1m[Clan] Boscar :[0m trust me[0m
+[16:26] [0m[31;1m[Clan] Boscar :[0m it'll suck when it gets moved, but take advantage of it[0m
+[16:26] [0m[31;1m[Clan] Taleast :[0m glvl 75?[0m
+[16:26] [0m[31;1m[Clan] Taleast :[0m oh bards[0m
+[16:27] [0m[31;1m[Clan] Boscar :[0m Nog.  You'll be able to solo 500m/hr easy[0m
+[16:28] [0m[31;1m[Clan] Taleast :[0m this is the power moving to glvl 90?[0m
+[16:28] [0m[31;1m[Clan] Boscar :[0m it's moving somewhere[0m
+[16:28] [0m[31;1m[Clan] Boscar :[0m but yes, that spell[0m
+[16:28] [0m[31;1m[Clan] Boscar :[0m caustic critic[0m
+[16:28] [0m[31;1m[Clan] Boscar :[0m our acid spell[0m
+[16:28] [0m[31;1m[Clan] Vidae :[0m That's kinda the plan[0m
+[16:28] [0m[31;1m[Clan] Taleast :[0m and, to be clear, 90 is like 4x combat time of 75, or[0m
+[16:28] [0m                 something like that?[0m
+[16:28] [0m[31;1m[Clan] Boscar :[0m Probably more[0m
+[16:28] [0m[31;1m[Clan] Boscar :[0m heh[0m
+[16:29] [0m[31;1m[Clan] Taleast :[0m without it, what can you main?[0m
+[16:29] [0m[31;1m[Clan] Taleast :[0m or is it entirely damage?[0m
+[16:29] [0m[31;1m[Clan] Boscar :[0m He'll still be able to tank everything and do 3-6k/rnd[0m
+[16:29] [0m[31;1m[Clan] Taleast :[0m oh, gotcha[0m
+[16:29] [0m[31;1m[Clan] Boscar :[0m critic is dmg[0m
+[16:29] [0m[31;1m[Clan] Taleast :[0m so it's entirely xp rate impact[0m
+[16:29] [0m[31;1m[Clan] Boscar :[0m Yep[0m
+[16:29] [0m[31;1m[Clan] Boscar :[0m It won't affect his tanking[0m
+[16:29] [0m[31;1m[Clan] Boscar :[0m Or anything[0m
+[16:30] [0m[31;1m[Clan] Taleast :[0m do bards have a gxp round limit?[0m
+[16:30] [0m[31;1m[Clan] Boscar :[0m nope[0m
+[16:30] [0m[31;1m[Clan] Taleast :[0m small favors[0m
+[16:30] [0m[31;1m[Clan] Boscar :[0m so he could sit on a stack of ninjas or animals with a[0m
+[16:30] [0m                smithy dagger for hours[0m
+[16:30] [0m[31;1m[Clan] Boscar :[0m and bea  real bard[0m
+[16:30] [0m[31;1m[Clan] Taleast :[0m obviously I'm on the outside looking in, and any reduction[0m
+[16:30] [0m                 in power sucks[0m
+[16:31] [0m[31;1m[Clan] Boscar :[0m lol, KG bailed on his gentech[0m
+[16:31] [0m[31;1m[Clan] Boscar :[0m he's back to bard :P[0m
+[16:31] [0m[31;1m[Clan] Taleast :[0m which was his?[0m
+[16:31] [0m[31;1m[Clan] Boscar :[0m Well, it was either you make the spell something appropriate[0m
+[16:31] [0m                for 45 days of combat, or you move it to a glvl more[0m
+[16:31] [0m                appropriate for the level of damage it currently does.[0m
+[16:32] [0m[31;1m[Clan] Sparkie :[0m Well, im going to switch to psi once i finish this glvl.[0m
+[16:32] [0m                 but once the 10th hits, i wont be on much at all.[0m
+[16:32] [0m[31;1m[Clan] Boscar :[0m The prior solution, nobody wins.[0m
+[16:32] [0m[31;1m[Clan] Sparkie :[0m I like gentech theme, but it felt like an abusive[0m
+[16:32] [0m                 relationship with all the "yoinks" i got to experience.[0m
+[16:32] [0m[31;1m[Clan] Boscar :[0m And there's nothing to look forward to after 75, which is[0m
+[16:32] [0m                just...meh[0m
+[16:34] [0mYou can currently reforge 8 items.[0m
+[16:35] [0m[31;1m[Clan] Boscar :[0m nod, i get that sparkie[0m
+[16:35] [0m[31;1m[Clan] Taleast :[0m nothing ultimately changes though, it still looks like[0m
+[16:35] [0m                 gentech are the place to be end-game[0m
+[16:36] [0m[31;1m[Clan] Taleast :[0m it just sucks more along the way[0m
+[16:36] [0m[31;1m[Clan] Boscar :[0m All the more reason to play for theme[0m
+[16:36] [0m[31;1m[Clan] Boscar :[0m being BS is always going to be a goalpost moving[0m
+[16:36] [0m[31;1m[Clan] Taleast :[0m I may start playing dragonrealms more again after I get ghc[0m
+[16:36] [0m                 and just idle gxp[0m
+[16:36] [0m[31;1m[Clan] Vidae :[0m laf I put so many hours into Dragonrealms, so did Decav[0m
+[16:36] [0m[31;1m[Clan] Decav :[0m ooh a fellow DR'er?[0m
+[16:36] [0m[31;1m[Clan] Taleast :[0m it has its issues, but I can make money on the back-end[0m
+[16:36] [0m                 there if I want[0m
+[16:37] [0m[31;1m[Clan] Decav :[0m I love that game to pieces[0m
+[16:37] [0m[31;1m[Clan] Taleast :[0m on and off since the mid 90s[0m
+[16:37] [0m[31;1m[Clan] Vidae :[0m I started playing back when it was on AOL[0m
+[16:37] [0m[31;1m[Clan] Decav :[0m never did get huge on there, only like lvl 85 something but[0m
+[16:37] [0m               man is it fun[0m
+[16:37] [0m[31;1m[Clan] Taleast :[0m I was in beta, not that I knew what I was doing the first[0m
+[16:37] [0m                 year+[0m
+[16:38] [0m[31;1m[Clan] Taleast :[0m I actually sold almost all my shit off a few months ago to[0m
+[16:38] [0m                 help pay for my mother-in-law's funeral[0m
+[16:38] [0m[31;1m[Clan] Taleast :[0m she didn't have life insurance[0m
+[16:38] [0m[31;1m[Clan] Sparkie :[0m haha I played DR as well[0m
+[16:38] [0m[31;1m[Clan] Sparkie :[0m warmage then thief.[0m
+[16:39] [0m[31;1m[Clan] Taleast :[0m wow, so many people here[0m
+[16:39] [0m[31;1m[Clan] Decav :[0m oh dang, that sucks dude. sorry to hear that[0m
+[16:39] [0m[31;1m[Clan] Taleast :[0m if you were ever on lich you might have known me[0m
+[16:39] [0m[31;1m[Clan] Taleast :[0m I talked fucking constantly on chat[0m
+[16:39] [0m[31;1m[Clan] Vidae :[0m Some things never change[0m
+[16:39] [0m[31;1m[Clan] Taleast :[0m :D[0m
+[16:39] [0m[31;1m[Clan] Sparkie :[0m I played Legends of Kesmai as well. loved it to death.[0m
+[16:40] [0m[31;1m[Clan] Vidae :[0m I first tried gs3, didn't like it[0m
+[16:40] [0m[31;1m[Clan] Taleast :[0m Kidrick, Falthrice, Tssahh were my mains[0m
+[16:40] [0m[31;1m[Clan] Vidae :[0m Dragonrealms was my shit tho[0m
+[16:40] [0m[31;1m[Clan] Taleast :[0m GS3 was fucking awesome back in the day[0m
+[16:40] [0m[31;1m[Clan] Sparkie :[0m never tried gs3[0m
+[16:40] [0m[31;1m[Clan] Boscar :[0m anyone play Devil's Silence?  Was a pk mud (diku i think?)[0m
+[16:40] [0m[31;1m[Clan] Taleast :[0m but no doubt, DR is better[0m
+[16:40] [0m[31;1m[Clan] Vidae :[0m I was Caecil for a very long time, a semi big (at the time)[0m
+[16:40] [0m               Trader[0m
+[16:40] [0m[31;1m[Clan] Taleast :[0m name seems familiar[0m
+[16:40] [0m[37;1mBoscar flaps :[0m Dude, what's mine say?[0m
+[16:40] [0m[31;1m[Clan] Sparkie :[0m I didnt get very big, but i practically lived outside the[0m
+[16:40] [0m                 westgate from the crossing. I still remember my first visit[0m
+[16:40] [0m                 to Shard to get my leathers.[0m
+[16:41] [0m[31;1m[Clan] Decav :[0m <3 westgate[0m
+[16:41] [0m[31;1m[Clan] Vidae :[0m All of you shut up before I resub and make Decav resub too[0m
+[16:41] [0m[31;1m[Clan] Vidae :[0m and then I have to install everything again to bot smh[0m
+[16:41] [0m[31;1m[Clan] Taleast :[0m DR isn't a place you need to get very big to have a good[0m
+[16:41] [0m                 time[0m
+[16:41] [0m[31;1m[Clan] Taleast :[0m laf, I just resubbed a few days ago[0m
+[16:41] [0m[31;1m[Clan] Taleast :[0m brand new characters[0m
+[16:41] [0m[31;1m[Clan] Decav :[0m the high-end there is pretty toxic, nod[0m
+[16:41] [0m[31;1m[Clan] Sparkie :[0m My name was Kapis. I had some people give me hell because[0m
+[16:41] [0m                 there was a well known thief named Kapi. I seriously just[0m
+[16:41] [0m                 let the name generator pick my name. Terrible with coming[0m
+[16:41] [0m                 up with names.[0m
+[16:42] [0m[31;1m[Clan] Sparkie :[0m I reached out to Kapi and she didnt care about the name[0m
+[16:42] [0m                 thing. But i would have asked a GM to change my characters[0m
+[16:42] [0m                 name had she mentioned it bothered her even a little.[0m
+[16:42] [0m[31;1m[Clan] Taleast :[0m oh, yeah, Kapi... I wonder if he changed hands[0m
+[16:42] [0m[31;1m[Clan] Vidae :[0m who didn't lol[0m
+[16:43] [0m[31;1m[Clan] Taleast :[0m oh, I thought it was a dude, then again gender change is a[0m
+[16:43] [0m                 thing, or I'm just old and forgetful[0m
+[16:43] [0m[31;1m[Clan] Decav :[0m remember the yahoo drsales board? man back in the day you[0m
+[16:43] [0m               could make serious coin there[0m
+[16:43] [0m[31;1m[Clan] Vidae :[0m wonder if Wils still has a max circle empath[0m
+[16:43] [0m[31;1m[Clan] Boscar :[0m T must've been so jelly of those subscription muds :P[0m
+[16:43] [0m[31;1m[Clan] Decav :[0m i guess its gone now, i used to try and flip player[0m
+[16:43] [0m               characters laf[0m
+[16:43] [0m[31;1m[Clan] Taleast :[0m yeah, I helped a guy sell all his shit way way back, made[0m
+[16:43] [0m                 enough plat to buy my first HLC... tehn turned around and[0m
+[16:43] [0m                 sold it to get christmas money for my kids[0m
+[16:43] [0m[31;1m[Clan] Taleast :[0m I was laid off at the time[0m
+[16:44] [0m[31;1m[Clan] Taleast :[0m I wasn't huge either, I had just started young wyvern when[0m
+[16:44] [0m                 I sold everything[0m
+[16:44] [0m[31;1m[Clan] Taleast :[0m I was very similar there than I have been here, flighty[0m
+[16:45] [0m[31;1m[Clan] Decav :[0m new DR is pretty good, lots of crosstraining options so you[0m
+[16:45] [0m               dont have to minmax as hard[0m
+[16:45] [0m[31;1m[Clan] Taleast :[0m and thanks for the kind words, it's been much worse on my[0m
+[16:45] [0m                 wife, we were very lucky though that we got some extra help[0m
+[16:45] [0m                 with the bills[0m
+[16:45] [0m[31;1m[Clan] Taleast :[0m lies![0m
+[16:45] [0m[31;1m[Clan] Taleast :[0m you must train all the things for tdps![0m
+[16:46] [0m[31;1m[Clan] Taleast :[0m well, I won't try to talk you back into it, I've had my own[0m
+[16:46] [0m                 times away[0m
+[16:46] [0m[31;1m[Clan] Sparkie :[0m new dr? like they made a new version you can play, or just[0m
+[16:46] [0m                 alot of changes? cause i made a free account to a little[0m
+[16:46] [0m                 while back, and started a barbarian for giggles[0m
+[16:46] [0m[31;1m[Clan] Sparkie :[0m mostly because everything else was practically off limits[0m
+[16:46] [0m                 as a freemium[0m
+[16:47] [0m[31;1m[Clan] Decav :[0m oh no same game, they just reworked some skills and[0m
+[16:47] [0m               overhauled some systems "Magic 2.0" etc[0m
+[16:47] [0m[31;1m[Clan] Sparkie :[0m oh[0m
+[16:47] [0m[31;1m[Clan] Vidae :[0m I can't stand the magic in that game[0m
+[16:47] [0m[31;1m[Clan] Taleast :[0m oh I love it[0m
+[16:47] [0m[31;1m[Clan] Sparkie :[0m I have no desire to get back into it.[0m
+[16:47] [0m[31;1m[Clan] Boscar :[0m just so you all know, this is being documented and reported,[0m
+[16:47] [0m                filthy other mud-players[0m
+[16:47] [0m[31;1m[Clan] Sparkie :[0m I liked my thief though.[0m
+[16:47] [0m[31;1m[Clan] Sparkie :[0m hahaha[0m
+[16:47] [0m[31;1m[Clan] Decav :[0m byron, you would like it. give it a try :)[0m
+[16:47] [0m[31;1m[Clan] Sparkie :[0m `[0m
+[16:48] [0m[31;1m[Clan] Taleast :[0m I loved thieves too, my main was a thief for the longest[0m
+[16:48] [0m                 time[0m
+[16:48] [0m[31;1m[Clan] Sparkie :[0m ;poke boscar[0m
+[16:48] [0m[31;1m[Clan] Sparkie :[0m blah[0m
+[16:48] [0m[31;1m[Clan] Taleast :[0m don't, Byron, it's a lifelong addiction worse than 3k[0m
+[16:48] [0m[31;1m[Clan] Sparkie :[0m I still have one of the old utility belts before they[0m
+[16:48] [0m                 basically took out the pockets[0m
+[16:48] [0m[31;1m[Clan] Taleast :[0m nice[0m
+[16:48] [0m[31;1m[Clan] Vidae :[0m my Trader has like 3 snake charm version 1.0 but they can't[0m
+[16:48] [0m               find that character, I've tried off and on like 3-4 times[0m
+[16:49] [0m[31;1m[Clan] Vidae :[0m and an original jade hilted nimsha[0m
+[16:49] [0m[31;1m[Clan] Taleast :[0m current DR is a thousand times better than old or even mid[0m
+[16:49] [0m                 system DR[0m
+[16:49] [0m[31;1m[Clan] Taleast :[0m laf, I totally didn't buy a snake charm and they were so[0m
+[16:49] [0m                 fucking cheap back then[0m
+[16:49] [0m[31;1m[Clan] Taleast :[0m they were like what, 5 gold or something?[0m
+[16:49] [0m[31;1m[Clan] Sparkie :[0m thats good. Im good with not returning to it. mostly[0m
+[16:49] [0m                 because i had a premium account and im not shelling out 45[0m
+[16:49] [0m                 bucks to figure out which character i want to play[0m
+[16:49] [0m[31;1m[Clan] Vidae :[0m yea I bought one for me and 2 for 2 friensd and they quit and[0m
+[16:49] [0m               then so did I[0m
+[16:50] [0m[31;1m[Clan] Taleast :[0m understandable, I have three accounts at 15 each so I can[0m
+[16:50] [0m                 multibox :D[0m
+[16:50] [0m[31;1m[Clan] Taleast :[0m I'm not at all an addict :D[0m
+[16:50] [0m[37;1mLocrian flaps :[0m SWEET![0m
+[16:50] [0m[31;1m[Clan] Roor :[0m You tell Turnhold: wipe byron and i'll work for you pro bono[0m
+[16:51] [0m[31;1m[Clan] Boscar :[0m he doesnt want your shoddy legal work[0m
+[16:53] [0m[31;1m[Clan] Ser :[0m anyone do day 6?[0m
+[16:53] [0m[31;1m[Clan] Taleast :[0m cmc was still on 6 when Z died to it earlier[0m
+[16:53] [0m[31;1m[Clan] Taleast :[0m unless he killed it afterward[0m
+[16:53] [0m[37;1mSer flaps :[0m anyone doing day 6 (again?)[0m
+[16:56] [0m[31;1m[Clan] Ser :[0m what day is absurd again[0m
+[16:58] [0m[37;1mSer flaps :[0m anyone down for day 6[0m
+[16:58] [0m[31;1m[Clan] Taleast :[0m 4 I think it was said?[0m
+[16:58] [0m[37;1mSer flaps :[0m in da hizzouse[0m
+[16:58] [0m[31;1m[Clan] Ser :[0m Al says 5[0m
+[16:58] [0m[31;1m[Clan] Taleast :[0m thought they said godlike was 5?[0m
+[16:58] [0m[31;1m[Clan] Boscar :[0m absurd is 3[0m
+[16:58] [0m[31;1m[Clan] Boscar :[0m i think[0m
+[16:58] [0m[31;1m[Clan] Boscar :[0m or 54[0m
+[16:58] [0m[31;1m[Clan] Boscar :[0m 4[0m
+[16:58] [0m[31;1m[Clan] Boscar :[0m god like is 5[0m
+[16:58] [0m[31;1m[Clan] Boscar :[0m unstable = 6[0m
+[16:58] [0m[31;1m[Clan] Boscar :[0m impossible = 7[0m
+[16:58] [0m[31;1m[Clan] Taleast :[0m woot! I remembered something I was told![0m
+[16:59] [0m[31;1m[Clan] Taleast :[0m eat it, Al![0m
+[16:59] [0m[31;1m[Clan] Ser :[0m or interested in day 6[0m
+[17:06] [0m[31;1m[Clan] Ser :[0m err mt[0m
+[17:06] [0m[31;1m[Clan] Ser :[0m err....  anyone need a quesadilla codpiece[0m
+[17:07] [0m[31;1m[Clan] Taleast :[0m laf, what is happening right now?[0m
+[17:07] [0m[31;1m[Clan] Taleast :[0m is this the w/l or the previous, or both[0m
+[17:07] [0m[31;1m[Clan] Ser :[0m turnhold bein gay[0m
+[17:07] [0m[31;1m[Clan] Taleast :[0m no you, heh[0m
+[17:07] [0m[31;1m[Clan] Taleast :[0m Turnhold is as Turnhold does[0m
+[17:07] [0m[31;1m[Clan] Ser :[0m the err mt was the wrong line[0m
+[17:08] [0m[31;1m[Clan] Taleast :[0m laf, that was like 10 minutes ago[0m
+[17:08] [0m[31;1m[Clan] Ser :[0m no, literally "err mt" was the mt[0m
+[17:08] [0m[31;1m[Clan] Taleast :[0m laf[0m
+[17:08] [0m[31;1m[Clan] Taleast :[0m I love you like a brother, Ser[0m
+[17:09] [0m[31;1m[Clan] Taleast :[0m only like a brother though, see TH for the benefits[0m
+[17:09] [0m[31;1m[Clan] Roor :[0m geeze burtal crowd[0m
+[17:09] [0m[31;1m[Clan] Boscar :[0m bah no corpses in clanbox[0m
+[17:09] [0m[31;1m[Clan] Boscar :[0m ya'll suck[0m
+[17:10] [0m[31;1m[Clan] Vidae :[0m I didn't know it was my job to powerlevel your HC[0m
+[17:10] [0m               character!!!![0m
+[17:10] [0m[31;1m[Clan] Taleast :[0m sorry, bro, I'm kind of corpse-neutral in gentech[0m
+[17:11] [0m[31;1m[Clan] Taleast :[0m sounds like I'll be goin negative too, heh[0m
+[17:11] [0m[31;1m[Clan] Boscar :[0m yeah, my gentech is a corpse whore too[0m
+[17:19] [0mYou can currently reforge 8 items.[0m
+[17:19] [0mYou can currently reforge 0 items.[0m
+[17:36] [0m[31;1m[Clan] Vidae leaves the game.[0m  [0m
+[17:37] [0m[31;1m[Clan] Prism enters the game.[0m  [0m
+[17:38] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[17:38] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[17:38] [0m                          get ready![0m
+[17:43] [0m[31;1m[Clan] Boscar leaves the game.[0m  [0m
+[17:43] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[17:45] [0m[31;1m[Clan] Ser :[0m what happened[0m
+[17:46] [0m[31;1m[Clan] Taleast :[0m to who?[0m
+[17:46] [0m[31;1m[Clan] Ser :[0m b y to the r o n[0m
+[17:46] [0m[31;1m[Clan] Prism :[0m s m to the e l l s[0m
+[17:46] [0m[31;1m[Clan] Byron :[0m youre sitting too close to your mining rig or aomethin[0m
+[17:47] [0m[37;1mEcholoc flaps :[0m Regulators! Do your thing![0m
+[17:49] [0m[31;1m[Clan] Byron :[0m you want me to kill firebat?[0m
+[17:50] [0m[31;1m[Clan] Byron :[0m doesnt day 6 hit around?[0m
+[17:50] [0m[31;1m[Clan] Ser :[0m yah lol[0m
+[17:51] [0m[31;1m[Clan] Archangel :[0m Event portal: desert portal/4n/2w slashing[0m
+[17:51] [0m[37;1mArchangel flaps :[0m Event portal: desert portal/4n/2w slashing[0m
+[17:54] [0m[32mYou tell Ser:[0m nonsense ubuntu doesn't save audio source setting as default[0m
+[17:54] [0m[32mSer tells you:[0m well change it[0m
+[17:54] [0m[32mYou tell Ser:[0m changes on reboot :([0m
+[17:54] [0mYou can currently reforge 4 items.[0m
+[17:55] [0m[32mSer tells you:[0m well find the right config file and change it[0m
+[17:56] [0m[37;1mSer flaps :[0m day 6 either ya bring it or not[0m
+[18:00] [0m[32mYou tell Ser:[0m ok my mic has stereo and stereo.monitor at the end of its[0m
+[18:00] [0m        source name[0m
+[18:01] [0m[31;1m[Clan] Ser :[0m firebat at 50%[0m
+[18:02] [0m[32mYou tell Ser:[0m ooh nvm. yep thanks gahd pactl ftw[0m
+[18:02] [0m[32;1mFrom afar, Ser winks at you suggestively.[0m[0m
+[18:03] [0m[32mYou tell Ser:[0m gay[0m
+[18:03] [0mLongfellow <.oO>: resetting zombs if anyone wants[0m
+[18:06] [0m[37;1mEcholoc flaps :[0m Moar Zombies![0m
+[18:16] [0m[34;1mZik shouts:[0m attack, your base is under it[0m
+[18:21] [0m[34;1mEcholoc shouts:[0m all your zombies are belong to the pyre![0m
+[18:33] [0m[31;1m[Clan] Nix :[0m fuck the cdc[0m
+[18:33] [0m[31;1m[Clan] Nix :[0m i get healthcare workers getting the vaccine first, but people[0m
+[18:33] [0m             in long term care facilities?[0m
+[18:33] [0m[31;1m[Clan] Nix :[0m keep them people locked up to keep em safe[0m
+[18:33] [0m[31;1m[Clan] Sparkie :[0m sounds like a carlin take[0m
+[18:33] [0m[31;1m[Clan] Nix :[0m lol[0m
+[18:33] [0m[31;1m[Clan] Prism :[0m My grandma is in a long term care facility and I'm 100% in[0m
+[18:33] [0m               favor of her being a guinea pig in all sorts of drugs, load[0m
+[18:33] [0m               her up[0m
+[18:33] [0m[31;1m[Clan] Sparkie :[0m dont want you to go to hell ANd be sick![0m
+[18:33] [0m[31;1m[Clan] Nix :[0m lol sparkie[0m
+[18:34] [0m[31;1m[Clan] Nix :[0m im not getting a vaccine, but get the country back to normal...[0m
+[18:34] [0m             those people aren't doing anything to help the economy or the[0m
+[18:34] [0m             country[0m
+[18:34] [0m[31;1m[Clan] Prism :[0m I'[0m
+[18:34] [0m[31;1m[Clan] Prism :[0m I'll take the vaccine idgaf, load me up too[0m
+[18:35] [0m[31;1m[Clan] Sparkie :[0m I dont like the idea of being part of the first batch. Ill[0m
+[18:35] [0m                 wait til the second. But im all for vaccines[0m
+[18:35] [0m[31;1m[Clan] Nix :[0m same[0m
+[18:35] [0m[37;1mSer flaps :[0m we won[0m
+[18:54] [0mYou can currently reforge 8 items.[0m
+[19:05] [0m[37;1mNukem flaps :[0m I am so tired from running around all day. I think I will[0m
+[19:05] [0m              sleep well tonight.[0m
+[19:32] [0mEllegon <.oO>: woot[0m
+[19:35] [0m[37;1mNukem flaps :[0m Ouch said I and died.[0m
+[19:54] [0mYou can currently reforge 12 items.[0m
+[19:58] [0mYou can currently reforge 0 items.[0m
+[20:03] [0mInquisitor <.oO>: Yup.  Or something.[0m
+[20:07] [0m[37;1mNukem flaps :[0m If looks could kill you would heal the world.[0m
+[20:09] You can currently reforge 0 items.[0m
+[20:09] [0m[37;1mNukem flaps :[0m Petrification is just surprise stoneskin![0m
+[20:10] [0m[34;1mChrys shouts:[0m being petrified is just time travel to the person being[0m
+[20:10] [0m              stoned.[0m
+[20:10] [0m[37;1mEcholoc flaps :[0m it goes a bit deeper than skin[0m
+[20:11] [0m[31;1m[Clan] Archimedes leaves the game.[0m  [0m
+[20:23] [0m[31;1m[Clan] Roor :[0m wtf is sonic shielding protecting you against?[0m
+[20:23] [0m[31;1m[Clan] Prism :[0m zambies![0m
+[20:23] [0m[31;1m[Clan] Roor :[0m sound based attacks?[0m
+[20:23] [0m[31;1m[Clan] Sparkie :[0m energy[0m
+[20:23] [0m[31;1m[Clan] Roor :[0m ahh nod[0m
+[20:23] [0m[31;1m[Clan] Prism :[0m energy yea[0m
+[20:55] [0mYou can currently reforge 4 items.[0m
+[21:02] [0m[31;1m[Clan] Roor :[0m i just restarted the Sopranos[0m
+[21:02] [0m[31;1m[Clan] Roor :[0m i forgot how fucking great this series is[0m
+[21:19] [0m[31;1m[Clan] Taleast :[0m plan to get it, just still trying to get my tanking in[0m
+[21:19] [0m                 order[0m
+[21:31] [0m[31;1m[Clan] Roor :[0m gentech line is talking about how much of a dick byron is[0m
+[21:31] [0m[31;1m[Clan] Roor :[0m and how he kills innocent partymates[0m
+[21:31] [0m[31;1m[Clan] Prism :[0m lmfao[0m
+[21:31] [0m[31;1m[Clan] Roor :[0m the court of public opinion is tainted with poison![0m
+[21:32] [0m[31;1m[Clan] Prism :[0m oh shit they are, I thought ytou were trolling[0m
+[21:32] [0m[31;1m[Clan] Roor :[0m planting seeds of discourse muahahah[0m
+[21:32] [0m[31;1m[Clan] Roor :[0m oh he's not even on[0m
+[21:50] [0m[34;1mTex shouts:[0m ramen noodle time creamy yes i said creamy chicken flavor[0m
+[21:53] [0m[34;1mSevenofnine shouts:[0m seafood spring rolls, shrimp mac n cheese, sl8ce of oreo[0m
+[21:53] [0m                    cheese cake and choc milkshake![0m
+[21:55] [0m[34;1mNauda shouts:[0m tonight we dine in hell, boys![0m
+[21:55] [0m[34;1mGilead shouts:[0m This is Sparta![0m
+[21:55] [0m[37;1mNukem flaps :[0m fire![0m
+[21:55] [0m[34;1mZik shouts:[0m looks like meats back on the munu bois![0m
+[21:56] [0m[34;1mTex shouts:[0m as long as its not chicken winks zik[0m
+[22:00] [0m[34;1mMalice shouts:[0m i don't want any winking chickens either.[0m
+[22:03] [0m[34;1mTex shouts:[0m lies[0m
+[22:04] [0m[34;1mRoor shouts:[0m NEWS[0m
+[22:04] [0m[37;1mNukem flaps :[0m botz[0m
+[22:04] [0m[34;1mChrys shouts:[0m PUPPIES!!![0m
+[22:11] [0m[31;1m[Clan] Boot leaves the game.[0m  [0m
+[22:15] [0m[37;1mCrolack flaps :[0m Why was Olive, the other reindeer, so mean to Rudolph?[0m
+[22:16] [0m[37;1mNukem flaps :[0m He was green over Rudolph's nose.[0m
+[22:17] [0m[37;1mChrys flaps :[0m gender inequality for reindeer made her angry[0m
+[22:28] [0m[37;1mNukem flaps :[0m Targeting...[0m
+[22:33] [0m[37;1mNukem flaps :[0m She never told me she is a mime![0m
+[22:36] [0m[34;1mTex shouts:[0m no dissaemble[0m
+[22:36] [0m[34;1mChrys shouts:[0m stephanie[0m
+[22:37] [0m[34;1mSevenofnine shouts:[0m #5 is alive[0m
+[22:37] [0m[34;1mZik shouts:[0m need input[0m
+[22:37] [0m[34;1mChrys shouts:[0m #5 is Skynet!!! Kill it, kill it!![0m
+[22:38] [0m[34;1mAlassra shouts:[0m Short Circuit is getting a reboot, so I guess Johnny 5 is[0m
+[22:38] [0m                getting... reassembled.[0m
+[22:38] [0m[34;1mZik shouts:[0m please do not expose your killbots to large electrical currents,[0m
+[22:38] [0m            doing so may void your warranty[0m
+[22:40] [0m[34;1mTaleast shouts:[0m I'm really starting to think they just like throwing money[0m
+[22:40] [0m                away. You can probably count good remakes on one, two hands[0m
+[22:40] [0m                max.[0m
+[22:40] [0m[34;1mZik shouts:[0m national treasure 2, when nic cage became a national trasure[0m
+[22:40] [0m[34;1mFluffy shouts:[0m we need another godzilla ... been at LEAST 5 years since the[0m
+[22:40] [0m               last one ;-)[0m
+[22:41] [0m[34;1mRhyson shouts:[0m Godzilla vs Fluffy[0m
+[22:41] [0m[34;1mAlassra shouts:[0m there was a Godzilla movie last year wasn't there?[0m
+[22:41] [0m[34;1mRhyson shouts:[0m Fluffy studies Godzilla.[0m
+[22:41] [0m[37;1mFluffy flaps :[0m i could take hiim![0m
+[22:42] [0m[34;1mAlassra shouts:[0m you'd need platform shoes like he has[0m
+[22:42] [0m[34;1mTaleast shouts:[0m I hope you enjoy putting together model buildings[0m
+[22:42] [0m[34;1mZik shouts:[0m we're gonna needa bigger boat[0m
+[22:44] [0m[37;1mTaleast flaps :[0m Yes, but where could you take him? Are there any outdoor[0m
+[22:44] [0m                restaurants where you are?[0m
+[23:17] [0m[34;1mFluffy shouts:[0m you go bread topping guy![0m
+[23:17] [0m[34;1mCrolack shouts:[0m Why are jellyfish so sad? There's no peanut butter fish.[0m
+[23:18] [0m[34;1mJelly shouts:[0m jelly and narwhal FTW[0m
+[23:18] [0m[34;1mTaleast shouts:[0m There is however a sea cucumber[0m
+[23:21] [0m[31;1m[Clan] Taleast :[0m night, folks[0m

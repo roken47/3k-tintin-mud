@@ -1,0 +1,1330 @@
+- = LOG STARTED [00:00] = -
+[00:04] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[00:19] [0m[37;1mSquirrel flaps :[0m come get yer beloch[0m
+[00:32] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[00:36] [0m[33;1m[Clan] Sock wiggles off your foot.[0m  [0m
+[06:09] [0m[36mKoschei [Jedi(24)]:[0m whee almost glv 25[0m
+[06:40] [0m[JEDI]: Talia Ska arrives at the Academy.[0m
+[06:59] [0mSquirrel flaps : at SS[0m
+[06:59] [0mSquirrel flaps : CMC @ SS get your day 3 dupe[0m
+[07:07] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[07:30] [0m[37;1mBlutash flaps :[0m So I just received a work email about an IT upgrade from "Cheri Beevers"....[0m
+[07:30] [0m[37;1mBlutash flaps :[0m How?! What kind of parent.....?[0m
+[07:30] [0m[37;1mHooligan flaps :[0m sounds legit.  definitely open it[0m
+[07:30] [0m[37;1mBlutash flaps :[0m No...it's genuine...[0m
+[07:30] [0m[37;1mSquirrel flaps :[0m you can offer her the wood to gnaw on[0m
+[07:30] [0m[37;1mOmni flaps :[0m Beaver inspector?[0m
+[07:30] [0m[37;1mDracula flaps :[0m [SteakChat{I like my steak bloody}]: just make sure to turn off your anti-virus[0m
+[07:30] [0m                and stuff first[0m
+[07:31] [0m[37;1mOmni flaps :[0m lol I love the warez that say that, b4 you install this cracked software, disable[0m
+[07:31] [0m             firewalls and AV[0m
+[07:31] [0m[37;1mOmni flaps :[0m haaaaaaaa[0m
+[07:31] [0m[37;1mBlutash flaps :[0m you'd change your name, surely?[0m
+[07:31] [0m[37;1mOmni flaps :[0m and buy this beachfront property in arizona while you're at it[0m
+[07:31] [0m[37;1mDracula flaps :[0m [SteakChat{I like my steak bloody}]: i bet she lives at 69 beaver dam road[0m
+[07:32] [0m[37;1mBlutash flaps :[0m The shame is that there were one or two back in the day that DID flag as AV hits[0m
+[07:32] [0m                (and were genuine game cracks rather than viruses)[0m
+[07:32] [0m[37;1mOmni flaps :[0m oh, I gotta a bridge to sell ya, yes. it's in brooklyn[0m
+[07:32] [0m[37;1mOmni flaps :[0m oh, 100% because they did memory injections[0m
+[07:32] [0m[37;1mHooligan flaps :[0m maybe its her porn name?[0m
+[07:32] [0m[37;1mHooligan flaps :[0m Or his...[0m
+[07:32] [0m[37;1mOmni flaps :[0m I know it's a... it's a thing, also, game companies flagged the cracks as malware[0m
+[07:32] [0m[37;1mBlutash flaps :[0m Of course these days....pure trash[0m
+[07:32] [0m[37;1mOmni flaps :[0m because, commerce. I get all that :) it's just funny[0m
+[07:33] [0m[37;1mBlutash flaps :[0m This is why my windows install is in a sandboxed VM, heh[0m
+[07:34] [0m[37;1mOmni flaps :[0m pretty much any executable that wants to inject a stack overflow onto the reserved[0m
+[07:34] [0m             memory of another executable, is capable of naughty things[0m
+[07:34] [0m[37;1mOmni flaps :[0m w/snapshots b4 testing new software I hope .:)[0m
+[07:34] [0m[37;1mOmni flaps :[0m snapshots are sooo good w/possible sketchy anyting[0m
+[07:35] [0m[37;1mBlutash flaps :[0m rolling backups[0m
+[07:35] [0m[37;1mDracula flaps :[0m [SteakChat{I like my steak bloody}]: testing? what's that? ;)[0m
+[07:36] [0m[37;1mOmni flaps :[0m the guru of our NA security team was able to export an unexploded copy of the[0m
+[07:36] [0m             encryption bomb that was released on honda a few weeks ago, because he had running[0m
+[07:36] [0m             5min snapshots on his vm's in the test "nasties" lab ... it's so useful to have[0m
+[07:36] [0m             that configured.[0m
+[07:37] [0m[37;1mBlutash flaps :[0m 5 min? Ok...win for paranoia!![0m
+[07:37] [0m[37;1mOmni flaps :[0m I mean, it's literally where he releases malware to run amok and observes it[0m
+[07:37] [0m[37;1mOmni flaps :[0m for those vm's, it's normal :)[0m
+[07:38] [0m[37;1mBlutash flaps :[0m If that was on his main driver, I'd say he was probably a psychopath, haha[0m
+[07:38] [0m[37;1mOmni flaps :[0m oh that too, he has me buying a second and third tin foil hat every time I talk[0m
+[07:38] [0m             with him on the phone[0m
+[07:38] [0m[37;1mOmni flaps :[0m and tin foil socks. you never know they might be reading my thoughts from the[0m
+[07:38] [0m             ground up![0m
+[07:39] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[07:39] [0m[37;1mBlutash flaps :[0m Perhaps he can advise how I dispose of my stack of hdds....the bottom one is a[0m
+[07:39] [0m                5gb one....[0m
+[07:39] [0m[37;1mDracula flaps :[0m [SteakChat{I like my steak bloody}]: forget tinfoil, just build a faraday cage[0m
+[07:39] [0m                around your house.[0m
+[07:39] [0m[37;1mOmni flaps :[0m sir, buy a drill, and drill them[0m
+[07:39] [0m[37;1mBlutash flaps :[0m Last time I asked a security expert, they said degauss, drill them, put them in[0m
+[07:39] [0m                a fire, THEN bury them in concrete.[0m
+[07:40] [0m[37;1mOmni flaps :[0m just drill them[0m
+[07:40] [0m[37;1mOmni flaps :[0m 2 holes through each platter, doneski[0m
+[07:40] [0m[37;1mBlutash flaps :[0m Technically not enough if someone is motivated enough...[0m
+[07:40] [0m[37;1mOmni flaps :[0m they're going to be missing bits[0m
+[07:40] [0m[37;1mBlutash flaps :[0m although no-one cares about my data THAT much[0m
+[07:41] [0m[37;1mOmni flaps :[0m if they can get something out of it, they probably already have your data now.[0m
+[07:41] [0m[37;1mGaidin flaps :[0m The real solution is not to store data at rest in the clear.[0m
+[07:41] [0mYour transmuter's stone bursts with 6 new colours![0m
+[07:42] [0m[37;1mBlutash flaps :[0m You keep your porn collection on the move in the cloud then?[0m
+[07:43] [0m[37;1mGaidin flaps :[0m Heh, not quite.  But at work we're required to store anything with sensitive data[0m
+[07:43] [0m               in encrypted folders.[0m
+[07:43] [0m[35;1mKoschei [Jedi(25)]:[0m woot[0m
+[07:43] [0m[35;1mKoschei [Jedi(25)]:[0m learn them ats boi[0m
+[07:43] [0m[37;1mDub flaps :[0m if nothing else, systems should have bitlocker on[0m
+[07:52] [0m[35;1mAl [Jedi(52)]:[0m have you all noticed which stats impact fdef?, if at all?[0m
+[08:10] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[08:12] [0m[34;1mHooligan shouts:[0m old schoool death![0m
+[08:17] [0m[35;1mKoschei [Jedi(25)]:[0m is force trance broken?[0m
+[08:18] [0m[35;1mWert [Jedi(Knight)]:[0m i used it for some thing still[0m
+[08:18] [0m[35;1mWert [Jedi(Knight)]:[0m my old alias all seemed to fire[0m
+[08:18] [0m[35;1mKoschei [Jedi(25)]:[0m it doesnt seem to be working right for me. or is it not intended to be[0m
+[08:18] [0m                    looped?[0m
+[08:19] [0m[35;1mKoschei [Jedi(25)]:[0m like if i set a nested alias as the last commeland[0m
+[08:19] [0m[35;1mKoschei [Jedi(25)]:[0m command*[0m
+[08:20] [0m[35;1mKoschei [Jedi(25)]:[0m so like, ok here is exactly what is happening...[0m
+[08:21] [0m[35;1mKoschei [Jedi(25)]:[0m i have the alias for the trance nested as the last command, to reinitialize[0m
+[08:21] [0m                    the trance[0m
+[08:22] [0m[35;1mKoschei [Jedi(25)]:[0m it recognizes the alias and enters it in, and the whole force trance screen[0m
+[08:22] [0m                    pops up, saying whats it going to do... my trigger to turn on the trance[0m
+[08:22] [0m                    fires, then nothing happens[0m
+[08:23] [0m[35;1mWert [Jedi(Knight)]:[0m i hit my alias for it and it started firing in combat as it should for me[0m
+[08:24] [0m[35;1mKoschei [Jedi(25)]:[0m hmm[0m
+[08:24] [0m[35;1mKoschei [Jedi(25)]:[0m it says The Force ebbs and you control your actions once more.[0m
+[08:25] [0m[35;1mWert [Jedi(Knight)]:[0m thats the msg i get when i focus force trance /off[0m
+[08:27] [0m[35;1mKoschei [Jedi(25)]:[0m nog i figured it out. trying to keep it on was turning it back off beh[0m
+[08:29] [0m[35;1mKoschei [Jedi(25)]:[0m its weird cause i have to enter it. i guess it doesnt like to be triggered[0m
+[08:30] [0m[35;1mKoschei [Jedi(25)]:[0m if i wait a round or to and focus force trance /on after the force trance [0m
+[08:30] [0m                    thing pops up it works[0m
+[08:30] [0m[35;1mKoschei [Jedi(25)]:[0m but if i trigger it the round it should be firing it turning it 9n turns it[0m
+[08:30] [0m                    off[0m
+[08:31] [0m[35;1mKoschei [Jedi(25)]:[0m it seems really clumsy[0m
+[08:31] [0m[35;1mKoschei [Jedi(25)]:[0m this is ultra confusing this earo6 in the morning[0m
+[08:32] [0m[37;1mKitt flaps :[0m dayb3 og at ss[0m
+[08:32] [0m[35;1mKoschei [Jedi(25)]:[0m how complicated do i have to make it to enter 1 command every 10 rounds ffs[0m
+[08:32] [0m[33;1m[Clan] Phenom enters the game.[0m  [0m
+[08:32] [0m[33;1m[Clan] Taleast :[0m hey, Phenom[0m
+[08:33] [0m[33;1m[Clan] Phenom :[0m yo :)[0m
+[08:34] [0m[32;1mFrom afar, Omni licks you.[0m[0m
+[08:36] [0m[35;1mKoschei [Jedi(25)]:[0m rofl making it more complicated works[0m
+[08:36] [0m[35;1mKoschei [Jedi(25)]:[0m i added a delayed soul as an extra trigger layer[0m
+[08:36] [0m[35;1mKoschei [Jedi(25)]:[0m now it works heh[0m
+[08:37] [0m[37;1mKitt flaps :[0m cmc dups at ss[0m
+[08:37] [0m[37;1mKitt flaps :[0m stop yo botz before the wizzies do[0m
+[08:40] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[08:41] [0m[37;1mKitt flaps :[0m anyone else[0m
+[08:42] [0m[37;1mTaleast flaps :[0m I'd love one, but I can't dup yet :D[0m
+[08:43] [0m[35;1mKoschei [Jedi(25)]:[0m oh[0m
+[08:43] [0m[35;1mKoschei [Jedi(25)]:[0m it says in the info file that you cant nest ftrancss[0m
+[08:44] [0m[35;1mKoschei [Jedi(25)]:[0m i am BREAKING THE LAW[0m
+[08:44] [0m[35;1mKoschei [Jedi(25)]:[0m MUAHAHAHAHA[0m
+[08:44] [0m[35;1mKoschei [Jedi(25)]:[0m come at me BRUH[0m
+[08:47] [0m[33;1m[Clan] Dub :[0m coming, soon :)[0m
+[08:47] [0m[33;1m[Clan] Dub :[0m hurinteon must die[0m
+[08:47] [0m[33;1m[Clan] Dub :[0m lol kevin's recruiter?[0m
+[08:47] [0m[33;1m[Clan] Dub :[0m hmm[0m
+[08:47] [0m[33;1m[Clan] Dub :[0m I could text him[0m
+[08:47] [0m[33;1m[Clan] Dub :[0m lol[0m
+[08:48] [0m[33;1m[Clan] Oscar :[0m nog, hasn't been around in a minute though[0m
+[08:48] [0m[33;1m[Clan] Oscar :[0m we lost all the necros[0m
+[08:48] [0m[33;1m[Clan] Oscar :[0m cept slutbath[0m
+[08:48] [0m[33;1m[Clan] Taleast :[0m that's very hurtful, I'm not even a necro[0m
+[08:49] [0m[33;1m[Clan] Oscar :[0m Nix isn't a bard either[0m
+[08:49] [0m[33;1m[Clan] Oscar :[0m We're stuck w/ bruce[0m
+[08:49] [0m[33;1m[Clan] Taleast :[0m lol[0m
+[08:49] [0m[33;1m[Clan] Nix :[0m i'm your leader oscar show some respect[0m
+[08:50] [0m[33;1m[Clan] Bruce :[0m brucie the mighty![0m
+[09:07] [0m[37;1mLachlan flaps :[0m anyone up for tanking firebat for me to get a tag?[0m
+[09:07] [0m[37;1mSaim flaps :[0m come now, im here[0m
+[09:07] [0m[37;1mSaim flaps :[0m resetting[0m
+[09:07] [0m[37;1mLachlan flaps :[0m omw[0m
+[09:08] [0m[33;1m[Clan] Oscar :[0m could you reforge cmc for me saim?[0m
+[09:08] [0m[33;1m[Clan] Oscar :[0m after you kill/get tag[0m
+[09:08] [0m[33;1m[Clan] Saim :[0m after fb yea[0m
+[09:08] [0m[33;1m[Clan] Oscar :[0m woot[0m
+[09:14] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[09:18] [0m[33;1m[Clan] Saim :[0m reforge??[0m
+[09:19] [0m[33;1m[Clan] Oscar :[0m at box[0m
+[09:21] [0m[35;1mBurnaby [Jedi(73)]:[0m yo![0m
+[09:25] [0m[37;1mKitt flaps :[0m No duppy for you Al[0m
+[09:34] [0m[33;1m[Clan] Oscar :[0m katin is in serinth right?[0m
+[09:34] [0m[33;1m[Clan] Oscar :[0m or am i mis-remembering[0m
+[09:34] [0m[33;1m[Clan] Saim :[0m i dont think so[0m
+[09:34] [0m[33;1m[Clan] Taleast :[0m katin is where necros used to live[0m
+[09:34] [0m[33;1m[Clan] Oscar :[0m ohhh yeah[0m
+[09:34] [0m[33;1m[Clan] Oscar :[0m eforest[0m
+[09:35] [0m[33;1m[Clan] Oscar :[0m thanks[0m
+[09:35] [0m[33;1m[Clan] Oscar :[0m gotta get fleecing[0m
+[09:35] [0m[33;1m[Clan] Saim :[0m someone should def recode wexmuck - remember that place?[0m
+[09:35] [0m[33;1m[Clan] Oscar :[0m lizardmen?[0m
+[09:35] [0m[33;1m[Clan] Saim :[0m with the minotaurs[0m
+[09:35] [0m[33;1m[Clan] Oscar :[0m oh thats it[0m
+[09:36] [0m[33;1m[Clan] Saim :[0m if i didnt play at work all the time, i might wiz[0m
+[09:36] [0m[33;1m[Clan] Saim :[0m but i cant create while at work, it takes too much focus[0m
+[09:36] [0m[33;1m[Clan] Nix :[0m umberhulks?[0m
+[09:36] [0m[33;1m[Clan] Saim :[0m yep![0m
+[09:37] [0m[33;1m[Clan] Saim :[0m move some rubble - and you found a passage underneath wexmuk[0m
+[09:47] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[09:50] [0m[33;1m[Clan] Taleast :[0m Mining takes TOO DAMN LONG![0m
+[09:51] [0m[33;1m[Clan] Taleast :[0m I feel like certain phrases should automatically elicit a web link to a[0m
+[09:51] [0m                 relevant meme[0m
+[09:58] [0m[32mKid says: [0mSmoke?[0m
+[10:00] [0mCandi says: Let's see just what you taste like...                          [0m
+[10:01] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[10:01] [0mCandi says: Let's see just what you taste like...                          [0m
+[10:01] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[10:01] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[10:01] [0mCandi says: Let's see just what you taste like...                          [0m
+[10:02] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[10:02] [0mCandi says: Let's see just what you taste like...                          [0m
+[10:02] [0mCandi says: Let's see just what you taste like...                          [0m
+[10:03] [0mCandi says: You leave my corpse alone, you hear?[0m
+[10:03] [0mBertolo says: I'll take care of this mess.                                 [0m
+[10:03] [0mBertolo says: I'll take care of this mess.                                 [0m
+[10:03] [0mBertolo says: I'll take care of this mess.                                 [0m
+[10:03] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[10:03] [0m[32mOscar tells you:[0m I got the legendary soul heart for you[0m
+[10:03] [0m[32mOscar tells you:[0m 3 more lvls andd I can start xmuting the damnation stuff[0m
+[10:03] [0m        up[0m
+[10:04] [0mBertolo says: I'll take care of this mess.                                 [0m
+[10:04] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[10:04] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[10:04] [0mBertolo says: I'll take care of this mess.                                 [0m
+[10:04] [0mBertolo says: I'll take care of this mess.                                 [0m
+[10:14] [0m[32;1mFrom afar, you nod to Oscar.[0m[0m
+[10:15] [0m[32mYou tell Oscar:[0m be on later tonight[0m
+[10:15] [0m[34;1mWhoknows shouts:[0m wheeee[0m
+[10:15] [0m[34;1mEdward shouts:[0m woo[0m
+[10:15] [0m[34;1mWhoknows shouts:[0m danke danke[0m
+[10:16] [0m[34;1mHooligan shouts:[0m wooooo[0m
+[10:17] [0m[34;1mOreo shouts:[0m whoknew pokey got poked but the rimalkin[0m
+[10:32] [0m[33;1m[Clan] Omni enters the game.[0m  [0m
+[10:32] [0m[33;1m[Clan] Omni :[0m oh hey guys![0m
+[10:32] [0m[33;1m[Clan] Archangel :[0m Hola[0m
+[10:32] [0m[33;1m[Clan] Taleast :[0m lol, hey[0m
+[10:32] [0m[33;1m[Clan] Omni :[0m I am ...[0m
+[10:32] [0m[33;1m[Clan] Aka :[0m hey m8[0m
+[10:32] [0m[33;1m[Clan] Omni :[0m glad to be away from hooligan lol[0m
+[10:32] [0m[33;1m[Clan] Taleast :[0m fully committed[0m
+[10:32] [0m[33;1m[Clan] Aka :[0m ha[0m
+[10:32] [0m[33;1m[Clan] Omni :[0m I had 1 too many dustups with him and just had to take myself[0m
+[10:32] [0m              out of that situation.[0m
+[10:33] [0m[33;1m[Clan] Saim :[0m people say he can be a hooligan[0m
+[10:33] [0m[33;1m[Clan] Omni :[0m I'll just say this: entitled, whiney, spoiled rotten.[0m
+[10:33] [0m[33;1m[Clan] Omni :[0m and the thing that pushed me over the edge, won't accept help.[0m
+[10:33] [0m[33;1m[Clan] Taleast :[0m You do have to deal with me on two characters now though[0m
+[10:33] [0m[33;1m[Clan] Xaryl :[0m heh, he can be that....[0m
+[10:33] [0m[33;1m[Clan] Omni :[0m with the things he's whinign about[0m
+[10:34] [0m[33;1m[Clan] Omni :[0m oh, hai, guardian up[0m
+[10:34] [0m[33;1m[Clan] Omni :[0m ;)[0m
+[10:35] [0m[33;1m[Clan] Omni :[0m who needs a shield[0m
+[10:35] [0m[33;1m[Clan] Omni :[0m or a shard?[0m
+[10:35] [0m[33;1m[Clan] Xaryl :[0m we are good :) thanks[0m
+[10:35] [0m[33;1m[Clan] Omni :[0m aka, a real shield is loaded, I'm killing now, no dup req :)[0m
+[10:35] [0m[33;1m[Clan] Xaryl :[0m I am sure Ser would love the shard[0m
+[10:35] [0m[33;1m[Clan] Taleast :[0m w[0m
+[10:35] [0m[33;1m[Clan] Aka :[0m wooO[0m
+[10:35] [0m[33;1m[Clan] Omni :[0m sure.[0m
+[10:35] [0m[33;1m[Clan] Omni :[0m see, having me in clan is good! :)[0m
+[10:36] [0m[33;1m[Clan] Omni :[0m I'm a aurobusting roh-machine[0m
+[10:36] [0m[33;1m[Clan] Omni :[0m got 2 15% og's this boot, commmmmmoon mythical 20%[0m
+[10:37] [0m[33;1m[Clan] Knox leaves the game.[0m  [0m
+[10:38] [0m[33;1m[Clan] Omni :[0m 5% aka, sorry :) free tho![0m
+[10:39] [0m[33;1m[Clan] Omni :[0m shard/shield in armoury[0m
+[10:39] [0m[33;1m[Clan] Aka :[0m nice![0m
+[10:39] [0m[33;1m[Clan] Aka :[0m you da man![0m
+[10:42] [0m[33;1m[Clan] Oscar :[0m boo[0m
+[10:42] [0m[33;1m[Clan] Oscar :[0m you suck[0m
+[10:43] [0m[33;1m[Clan] Oscar :[0m your free gear is garbage[0m
+[10:43] [0m[33;1m[Clan] Omni :[0m 5 reforged roh's in[0m
+[10:43] [0m[33;1m[Clan] Omni :[0m nothing great..[0m
+[10:43] [0m[33;1m[Clan] Omni :[0m one shield/block ring[0m
+[10:43] [0m[33;1m[Clan] Omni :[0m couple of mace rings in if you do that[0m
+[10:52] [0m[33;1m[Clan] Taleast :[0m First Omni joins us, then we get some bad lag[0m
+[10:52] [0m[33;1m[Clan] Taleast :[0m I'm not saying the two are related but...[0m
+[10:53] [0m[33;1m[Clan] Omni :[0m I have high apm. it's all my fualt[0m
+[10:53] [0m[33;1m[Clan] Omni :[0m fault*[0m
+[10:53] [0m[33;1m[Clan] Omni :[0m usually I calm down to like 50[0m
+[10:53] [0m[33;1m[Clan] Omni :[0m this boot I've been going bananas[0m
+[10:54] [0m[33;1m[Clan] Omni :[0m flying around like a speed freak looking for shards in the[0m
+[10:54] [0m              carpet[0m
+[10:54] [0m[33;1m[Clan] Blutash :[0m Average APM this boot: 7.58[0m
+[10:54] [0m[33;1m[Clan] Mud :[0m 12.5 apm,  3.56 entire boot[0m
+[10:54] [0m[33;1m[Clan] Omni :[0m that's just not how I roll. :)[0m
+[10:54] [0m[33;1m[Clan] Taleast :[0m e[0m
+[10:55] [0m[33;1m[Clan] Mud :[0m l[0m
+[10:55] [0m[33;1m[Clan] Taleast :[0m damn, second time[0m
+[10:55] [0m[33;1m[Clan] Mud :[0m gs[0m
+[10:55] [0m[33;1m[Clan] Taleast :[0m I blame my wife![0m
+[10:55] [0m[33;1m[Clan] Blutash :[0m Yeah, me too[0m
+[10:55] [0m[33;1m[Clan] Taleast :[0m about to say something, distracted, movement[0m
+[10:55] [0m[33;1m[Clan] Sparkie :[0m apm?[0m
+[10:55] [0m[33;1m[Clan] Taleast :[0m actions per minute I think?[0m
+[10:55] [0m[33;1m[Clan] Omni :[0m archi, any time you wanna tango for the tourny I'm game[0m
+[10:55] [0m[33;1m[Clan] Omni :[0m round two is up[0m
+[10:55] [0m[33;1m[Clan] Taleast :[0m Omni plays 3k like Starcraft[0m
+[10:55] [0m[33;1m[Clan] Omni :[0m I just have macros that brute force[0m
+[10:56] [0m[33;1m[Clan] Omni :[0m through everything[0m
+[10:56] [0m[33;1m[Clan] Taleast :[0m hehe[0m
+[10:56] [0m[33;1m[Clan] Omni :[0m so I'm firing clusters of 20 cmds wherre 3-4 would do[0m
+[10:56] [0m[33;1m[Clan] Omni :[0m but they work, from everywhere[0m
+[10:56] [0m[33;1m[Clan] Blutash :[0m Who do I have to sleep with to get a key to the new clan[0m
+[10:56] [0m                 house?[0m
+[10:56] [0m[33;1m[Clan] Omni :[0m commer, I'll be gentle.[0m
+[10:56] [0m[33;1m[Clan] Aka :[0m home 227?[0m
+[10:58] [0m[33;1m[Clan] Blutash :[0m Ahh....I DID have that key...just need to fix my map[0m
+[10:58] [0m                 aliases (kept taking me to Paris's house)[0m
+[11:03] [0m[33;1m[Clan] Taleast :[0m I don't have a key :*([0m
+[11:04] [0m[33;1m[Clan] Saim :[0m yea home 227 is our offical clan house - no one else besides[0m
+[11:04] [0m              our clan has keys, and should not[0m
+[11:04] [0m[33;1m[Clan] Saim :[0m paris's house is for guests and whatever[0m
+[11:04] [0m[33;1m[Clan] Saim :[0m wtf knows who has keys[0m
+[11:04] [0m[33;1m[Clan] Omni :[0m hehe I've been using up box, and many level 1 crypt boxes[0m
+[11:04] [0m[33;1m[Clan] Omni :[0m but I know it's not private[0m
+[11:04] [0m[33;1m[Clan] Omni :[0m if you see all kinds of sell chaff in there, and corpses[0m
+[11:04] [0m[33;1m[Clan] Saim :[0m yea its fine, but know that 'others' might have access[0m
+[11:04] [0m[33;1m[Clan] Omni :[0m those are probably mine[0m
+[11:04] [0m[33;1m[Clan] Blutash :[0m I thought it'd been abandoned post-paris-dest[0m
+[11:04] [0m[33;1m[Clan] Omni :[0m for sure[0m
+[11:05] [0m[33;1m[Clan] Omni :[0m I mean, zion and I use it every day[0m
+[11:05] [0m[33;1m[Clan] Omni :[0m well, when zion's playing[0m
+[11:05] [0m[33;1m[Clan] Omni :[0m ryan's got a lot on his irl plate atm[0m
+[11:05] [0m[33;1m[Clan] Omni :[0m I hit him up on google almost every day[0m
+[11:06] [0m[33;1m[Clan] Blutash :[0m zion? Or Paris?[0m
+[11:06] [0m[33;1m[Clan] Omni :[0m his company just got through some layoffs, he kept his job,[0m
+[11:06] [0m              now another company has bought them[0m
+[11:06] [0m[33;1m[Clan] Omni :[0m ryan, is zion[0m
+[11:06] [0m[33;1m[Clan] Omni :[0m james is paris.[0m
+[11:06] [0m[33;1m[Clan] Omni :[0m james, idk I haven't seem him irl for at least 2 years and[0m
+[11:06] [0m              barely communicated with him for the past 2 on sms[0m
+[11:06] [0m[33;1m[Clan] Blutash :[0m Ahh...I missed a tell.[0m
+[11:06] [0m[33;1m[Clan] Taleast :[0m I thought w[0m
+[11:06] [0m[33;1m[Clan] Taleast :[0m OK, that one's on me[0m
+[11:07] [0m[33;1m[Clan] Omni :[0m full disclosure, I have been buds with james since before[0m
+[11:07] [0m              paris existed, and before he started mudding[0m
+[11:07] [0m[33;1m[Clan] Omni :[0m we went to the same hishgschool[0m
+[11:07] [0m[33;1m[Clan] Taleast :[0m I thought clans had clan houses and boxes? I honestly just[0m
+[11:07] [0m                 never bothered to try going there[0m
+[11:07] [0m[33;1m[Clan] Omni :[0m I had a bit of a falling out with him 2018 tho[0m
+[11:07] [0m[33;1m[Clan] Omni :[0m so I'm not exactly surprised to return and find the carnage[0m
+[11:07] [0m[33;1m[Clan] Taleast :[0m oh, more serious discussion, apologies[0m
+[11:07] [0m[33;1m[Clan] Omni :[0m the blowup being the least of the small little stories I've[0m
+[11:07] [0m              heard from playerbase[0m
+[11:08] [0m[33;1m[Clan] Aka :[0m i feel like paris would be happy to know space disappeared lol[0m
+[11:08] [0m[33;1m[Clan] Pol :[0m i never did find out what really happened[0m
+[11:08] [0m[33;1m[Clan] Omni :[0m but I know him very well, and I am not shocked he got wiped by[0m
+[11:08] [0m              intentional outburst[0m
+[11:08] [0m[33;1m[Clan] Ipsie :[0m heh[0m
+[11:08] [0m[33;1m[Clan] Omni :[0m he probably meant to do it on a deep level[0m
+[11:08] [0m[33;1m[Clan] Omni :[0m i mean, he knew what would happen when he hit enter on those[0m
+[11:08] [0m              shouts[0m
+[11:09] [0m[33;1m[Clan] Aka :[0m oh yeah, i read the cut/paste of it, he went ham[0m
+[11:09] [0m[33;1m[Clan] Aka :[0m not the first time, but that one was real bad lol[0m
+[11:09] [0m[33;1m[Clan] Omni :[0m I don't feel at full liberty to just gossip his personal[0m
+[11:09] [0m              struggles here, but he's known to be medicated and highly[0m
+[11:09] [0m              intoxicated and have manic episodes[0m
+[11:09] [0m[33;1m[Clan] Omni :[0m yeah, he had bipole[0m
+[11:09] [0m[33;1m[Clan] Pol :[0m damn[0m
+[11:09] [0m[33;1m[Clan] Saim :[0m def alcohol[0m
+[11:09] [0m[33;1m[Clan] Aka :[0m nod, i know some other cats like that[0m
+[11:09] [0m[33;1m[Clan] Omni :[0m and probably was on klonopin and drinking and manic, all at[0m
+[11:09] [0m              once[0m
+[11:09] [0m[33;1m[Clan] Aka :[0m super smart, but freak out some times[0m
+[11:09] [0m[33;1m[Clan] Ipsie :[0m happens to the best of us[0m
+[11:09] [0m[33;1m[Clan] Omni :[0m it's like, the 20th time it's happened that -I- know of[0m
+[11:09] [0m[33;1m[Clan] Aka :[0m definitely[0m
+[11:10] [0m[33;1m[Clan] Saim :[0m i would like him to know he still has friends here tho[0m
+[11:10] [0m[33;1m[Clan] Dub :[0m whee, now that's not so disruptive.[0m
+[11:10] [0m[33;1m[Clan] Dub :[0m :>[0m
+[11:10] [0m[33;1m[Clan] Aka :[0m he never said anything shitty directed at me, i thought he was[0m
+[11:10] [0m             fuckin hilarious haha[0m
+[11:10] [0m[33;1m[Clan] Blutash :[0m That's the problem...a one-off would have been let[0m
+[11:10] [0m                 slide...he was otherwise a very positive influence around[0m
+[11:10] [0m                 here[0m
+[11:10] [0m[33;1m[Clan] Saim :[0m he's always been really cool to me hah[0m
+[11:10] [0m[33;1m[Clan] Dub :[0m well, as is almost always the case[0m
+[11:10] [0m[33;1m[Clan] Blutash :[0m Just didn't have good brain->keyboard filters[0m
+[11:10] [0m[33;1m[Clan] Dub :[0m all the venting he did, was straight projection[0m
+[11:11] [0m[33;1m[Clan] Dub :[0m anything he said about anyone, you can hodl the mirror up to[0m
+[11:11] [0m             him[0m
+[11:11] [0m[33;1m[Clan] Saim :[0m i think when he implied tensor's sister has a university with[0m
+[11:11] [0m              a gofuckyourself.edu - that might have been the moment[0m
+[11:11] [0m[33;1m[Clan] Dub :[0m and you know his true mind.[0m
+[11:11] [0m[33;1m[Clan] Dub :[0m it was worse than that, it was Ifuckedtensorssister.org or[0m
+[11:11] [0m             whaever[0m
+[11:11] [0m[33;1m[Clan] Saim :[0m haha[0m
+[11:11] [0m[33;1m[Clan] Blutash :[0m Delicate[0m
+[11:11] [0m[33;1m[Clan] Saim :[0m i have the log somewhere[0m
+[11:11] [0m[33;1m[Clan] Pol :[0m ok that's pretty wild[0m
+[11:12] [0m[33;1m[Clan] Dub :[0m a few people have shared their logs[0m
+[11:12] [0m[33;1m[Clan] Dub :[0m which have some stuff out[0m
+[11:12] [0m[33;1m[Clan] Dub :[0m I find what space edited out interesting also[0m
+[11:12] [0m[33;1m[Clan] Dub :[0m teehee[0m
+[11:12] [0m[33;1m[Clan] Pol :[0m where did space go? i've never seen him logged out[0m
+[11:12] [0m[33;1m[Clan] Saim :[0m well space might be dead so[0m
+[11:12] [0m[33;1m[Clan] Dub :[0m space's log was incomplete.[0m
+[11:12] [0m[33;1m[Clan] Saim :[0m space choked on a baby[0m
+[11:12] [0m[33;1m[Clan] Saim :[0m or thats the rumor[0m
+[11:12] [0m[33;1m[Clan] Dub :[0m naw, he's probably just cracked out hard with division[0m
+[11:12] [0m[33;1m[Clan] Dub :[0m pointed his full dopamine system at a new game[0m
+[11:13] [0m[33;1m[Clan] Dub :[0m 3k was probably not really doing it for him anymore, how could[0m
+[11:13] [0m             it with him having literally finished his gobj and mortal body[0m
+[11:13] [0m[33;1m[Clan] Dub :[0m nothign left but add more points that don't advance him,[0m
+[11:13] [0m[33;1m[Clan] Dub :[0m no rush of advancement left[0m
+[11:13] [0m[33;1m[Clan] Blutash :[0m And borg-assimilated Havox[0m
+[11:14] [0m[33;1m[Clan] Taleast :[0m holy shit, Space hit circle 60?[0m
+[11:14] [0m[33;1m[Clan] Blutash :[0m You have to wonder how much cash he was pumping into the[0m
+[11:14] [0m                 mud for that to be let slide.[0m
+[11:14] [0m[33;1m[Clan] Omni :[0m 59/24[0m
+[11:14] [0m[33;1m[Clan] Taleast :[0m lol[0m
+[11:14] [0m[33;1m[Clan] Taleast :[0m I could have sworn I read in the guild files there was a 60[0m
+[11:14] [0m[33;1m[Clan] Taleast :[0m oh well[0m
+[11:15] [0m[33;1m[Clan] Omni :[0m tensor is 60 heh[0m
+[11:15] [0m[33;1m[Clan] Taleast :[0m yeah, that's pretty bs[0m
+[11:15] [0m[33;1m[Clan] Omni :[0m idk if space is, tier 24 effectively equals 60? idk[0m
+[11:15] [0m[33;1m[Clan] Blutash :[0m I could tell you how the levels REALLY work....but then I'd[0m
+[11:15] [0m                 have to kill you ;-)[0m
+[11:15] [0m[33;1m[Clan] Taleast :[0m he's at the end of the progress meter is the thing though,[0m
+[11:15] [0m                 I get it. That's impressive.[0m
+[11:16] [0m[33;1m[Clan] Omni :[0m necros kind of accelerate past tier 12 beyond the constrainst[0m
+[11:16] [0m              of the rest of the mud, but idk I never got tiered had c58[0m
+[11:16] [0m              back in the ancient days. like, 95[0m
+[11:16] [0m[33;1m[Clan] Blutash :[0m I bet if Paris had still been here, Space would still[0m
+[11:16] [0m                 be....they drove each other on[0m
+[11:17] [0m[33;1m[Clan] Omni :[0m necro used to be so fast, that I left at c55 and had c58 in[0m
+[11:17] [0m              like, another couple weeks, no client, on telnet[0m
+[11:17] [0m[33;1m[Clan] Omni :[0m but neither paris nor space had that grandfathered gxp rates[0m
+[11:18] [0m[33;1m[Clan] Taleast :[0m yeah, they could feed you corpses and do needle or whatever[0m
+[11:18] [0m                 to some high number[0m
+[11:18] [0m[33;1m[Clan] Omni :[0m tho the one thing elektra and paris did which I considered[0m
+[11:18] [0m              smart, but kind of a dirty trick was backwards engineered the[0m
+[11:18] [0m              donates system on 3s[0m
+[11:19] [0m[33;1m[Clan] Blutash :[0m Numbers analysis takes the fun out[0m
+[11:19] [0m[33;1m[Clan] Omni :[0m tho I'll say this: when the system is to obfusticate the[0m
+[11:19] [0m              system, then all's fair in backwards engineering it.[0m
+[11:19] [0m[33;1m[Clan] Omni :[0m I disagree but to each their own[0m
+[11:19] [0m[33;1m[Clan] Omni :[0m I dislike intentionally making things unknowable.[0m
+[11:19] [0m[33;1m[Clan] Taleast :[0m for some people numbers analysis IS the fun[0m
+[11:19] [0m[33;1m[Clan] Blutash :[0m I agree.[0m
+[11:20] [0m[33;1m[Clan] Omni :[0m so that people who figure stuff out have some kind of major[0m
+[11:20] [0m              advantage.[0m
+[11:20] [0m[33;1m[Clan] Blutash :[0m Make the info available, but hard to work out.[0m
+[11:20] [0m[33;1m[Clan] Omni :[0m and they end up with cabals of power players, and all kinds of[0m
+[11:20] [0m              social bs[0m
+[11:20] [0m[33;1m[Clan] Blutash :[0m You can crack it if you want, and enjoy that, or enjoy not[0m
+[11:20] [0m                 knowing.[0m
+[11:20] [0m[33;1m[Clan] Saim :[0m aka backwards engineered the donates system in necro....[0m
+[11:20] [0m[33;1m[Clan] Saim :[0m in a whole different way[0m
+[11:20] [0m[33;1m[Clan] Aka :[0m hahaha[0m
+[11:21] [0m[33;1m[Clan] Omni :[0m well, and wizzing there, to get access to the files, and like,[0m
+[11:21] [0m              some of the more dirty botting tricks[0m
+[11:21] [0m[33;1m[Clan] Aka :[0m i don't even know how to explain that[0m
+[11:21] [0m[33;1m[Clan] Omni :[0m have a 3s 510 wizard to use to keep tabs on 3k wizards, so you[0m
+[11:21] [0m              know when bot checks are possible, etc etc etc[0m
+[11:21] [0m[33;1m[Clan] Omni :[0m all that happened.[0m
+[11:21] [0m[33;1m[Clan] Blutash :[0m I had access to the entire mud code at one point (apart[0m
+[11:21] [0m                 from VAF stuff)....never looked at things I wanted to[0m
+[11:21] [0m                 discover the old fashioned way)[0m
+[11:22] [0m[33;1m[Clan] Blutash :[0m Takes the fun out of it. Where's the challenge?[0m
+[11:22] [0m[33;1m[Clan] Omni :[0m I've had the "fun" sucked out of 3k a few times. originally it[0m
+[11:22] [0m              was back in like 96, by ... omg can I remember? ...[0m
+[11:22] [0m              robobop/hibba/distortion and ... another wiz[0m
+[11:23] [0m[33;1m[Clan] Omni :[0m they made an autoloading invisible cheat item[0m
+[11:23] [0m[33;1m[Clan] Omni :[0m and gave it to their friends[0m
+[11:23] [0m[33;1m[Clan] Blutash :[0m Heh, I remember hearing about that at the time.[0m
+[11:23] [0m[33;1m[Clan] Taleast :[0m that's fucked up right there[0m
+[11:23] [0m[33;1m[Clan] Omni :[0m it could teleport you to arbirary rooms, dest mobs (For xp)[0m
+[11:23] [0m              grant infinity coins[0m
+[11:24] [0m[33;1m[Clan] Omni :[0m and they'd go to like, corrnsyl at 4min till reboot[0m
+[11:24] [0m[33;1m[Clan] Blutash :[0m Still technically possible to do...though I don't know any[0m
+[11:24] [0m                 Wiz that would.[0m
+[11:24] [0m[33;1m[Clan] Omni :[0m and lean on the kill/reset button[0m
+[11:24] [0m[33;1m[Clan] Blutash :[0m Gotta trust your wizzes[0m
+[11:24] [0m[33;1m[Clan] Omni :[0m so that the billions of xp would be dested after the reboot[0m
+[11:25] [0m[33;1m[Clan] Omni :[0m when I found out about it, it made me lose all interest, until[0m
+[11:25] [0m              later someone abused it incredibly stupidly[0m
+[11:25] [0m[33;1m[Clan] Omni :[0m they teleport IN to a live clan war[0m
+[11:25] [0m[33;1m[Clan] Omni :[0m killed someone, and teleport back[0m
+[11:25] [0m[33;1m[Clan] Omni :[0m out[0m
+[11:25] [0m[33;1m[Clan] Blutash :[0m the coins thing is funny....wizzes are SO heavily monitored[0m
+[11:25] [0m                 about coin generation....[0m
+[11:25] [0m[33;1m[Clan] Omni :[0m now it was on the record in the cwar hist[0m
+[11:25] [0m[33;1m[Clan] Omni :[0m and it all started to unravel.[0m
+[11:25] [0m[33;1m[Clan] Blutash :[0m but coins are virtually irrelevant these days[0m
+[11:26] [0m[33;1m[Clan] Omni :[0m which made me gingerly get back into the water[0m
+[11:26] [0m[33;1m[Clan] Omni :[0m but my trust has never really returned that the game isn't[0m
+[11:26] [0m              rigged[0m
+[11:26] [0m[33;1m[Clan] Omni :[0m heh[0m
+[11:26] [0m[33;1m[Clan] Omni :[0m which I'm entirely good with[0m
+[11:26] [0m[33;1m[Clan] Omni :[0m it is fun, and it's funner than it was before for me[0m
+[11:26] [0m[33;1m[Clan] Omni :[0m I had no advancement for months[0m
+[11:26] [0m[33;1m[Clan] Omni :[0m got stale[0m
+[11:27] [0m[33;1m[Clan] Blutash :[0m I can tell you that there's no cheating going on on the wiz[0m
+[11:27] [0m                 side.[0m
+[11:27] [0m[33;1m[Clan] Omni :[0m now I'm moving again, obviously the problem is with a solid[0m
+[11:27] [0m              year of play I'll be approaching kirwan and space sized mortal[0m
+[11:27] [0m[33;1m[Clan] Blutash :[0m bug abuse....now that is something that's a running battle.[0m
+[11:27] [0m[33;1m[Clan] Omni :[0m hehe, we found a good one early this boot, it's fixed now[0m
+[11:27] [0m[33;1m[Clan] Omni :[0m xD[0m
+[11:28] [0m[33;1m[Clan] Blutash :[0m By the time a wiz gets access to sufficient stuff to be[0m
+[11:28] [0m                 useful, they've also proved themselves trustworthy and[0m
+[11:28] [0m                 reliable.[0m
+[11:28] [0m[33;1m[Clan] Omni :[0m oh, I'm not talking about wiz's rigging it[0m
+[11:28] [0m[33;1m[Clan] Omni :[0m just the fact that rules are applied unequally from time to[0m
+[11:28] [0m              time, but man, I don't have any beef with 3k[0m
+[11:28] [0m[33;1m[Clan] Omni :[0m or admins[0m
+[11:29] [0m[33;1m[Clan] Omni :[0m love it[0m
+[11:29] [0m[33;1m[Clan] Omni :[0m sometimes players who are whining grind my gears, but that's[0m
+[11:29] [0m              my own personal thing, not them[0m
+[11:29] [0m[33;1m[Clan] Omni :[0m it bothers me when they bother the admins tho[0m
+[11:29] [0m[33;1m[Clan] Omni :[0m I shouldn't care, but i do[0m
+[11:29] [0m[33;1m[Clan] Blutash :[0m Yeah, the issue is that the people applying the rules don't[0m
+[11:29] [0m                 always have access to all the info, and try to do their[0m
+[11:29] [0m                 best....[0m
+[11:30] [0m[33;1m[Clan] Taleast :[0m I mean, I feel like there are opportunities to change what[0m
+[11:30] [0m                 you do to a decent degree here these days[0m
+[11:30] [0m[33;1m[Clan] Blutash :[0m Which sometimes sucks[0m
+[11:30] [0m[33;1m[Clan] Omni :[0m "I know there are people in this world, who don't love their[0m
+[11:30] [0m              fellow man, and I HATE THEM." :)  motto: only tolerate[0m
+[11:30] [0m              tolerance.[0m
+[11:30] [0m[33;1m[Clan] Taleast :[0m back in the day, having such huge restrictions on number of[0m
+[11:30] [0m                 characters and having xp loss from leaving guild and such[0m
+[11:30] [0m[33;1m[Clan] Blutash :[0m Yeah that one never made much sense to me.[0m
+[11:30] [0m[33;1m[Clan] Taleast :[0m these days, if you're not happy... do something different,[0m
+[11:30] [0m                 or leave for a while[0m
+[11:31] [0m[33;1m[Clan] Blutash :[0m Although what I do find amusing is that Rasta's fighter[0m
+[11:31] [0m                 guild can't be played if you don't start at a low level....[0m
+[11:31] [0m[33;1m[Clan] Omni :[0m heh how's that?[0m
+[11:31] [0m[33;1m[Clan] Omni :[0m I had a fighter, but just to test them[0m
+[11:32] [0m[33;1m[Clan] Blutash :[0m If you start at over about level 30, you can't kill the[0m
+[11:32] [0m                 mobs big enough to get XP from[0m
+[11:32] [0m[33;1m[Clan] Omni :[0m was pre button[0m
+[11:32] [0m[33;1m[Clan] Blutash :[0m So it ramps fine from level 1, but I joined about level 50[0m
+[11:32] [0m                 to try them, couldn't get any GXP.[0m
+[11:32] [0m[33;1m[Clan] Omni :[0m "works as intended" "will not fix"[0m
+[11:32] [0m[33;1m[Clan] Omni :[0m xD[0m
+[11:33] [0m[33;1m[Clan] Blutash :[0m I reported it, but as far as I know it still exists as an[0m
+[11:33] [0m                 issue[0m
+[11:33] [0m[33;1m[Clan] Blutash :[0m Yep[0m
+[11:33] [0m[33;1m[Clan] Blutash :[0m "Oh, you want to get to glevel 2 fighter as a level 50[0m
+[11:33] [0m                 player? Go kill Tiamat a couple times"[0m
+[11:39] [0m[37;1mDspawn flaps :[0m anyone got OG mask for dupe?[0m
+[11:40] [0m[33;1m[Clan] Taleast :[0m still need to figure out what I want to do with my alt at[0m
+[11:40] [0m                 some point[0m
+[11:40] [0m[33;1m[Clan] Taleast :[0m didnt realize you could join those newbie guilds at level[0m
+[11:40] [0m                 1, that will be helpful[0m
+[11:51] [0m[33;1m[Clan] Omni :[0m apologize if I was still steaming and being generally[0m
+[11:51] [0m              unpleasent earlier, I was hot under the collar and it's not[0m
+[11:51] [0m              okay to vent wildly heh[0m
+[11:51] [0m[33;1m[Clan] Omni :[0m I am calming down by the minute[0m
+[11:51] [0m[33;1m[Clan] Xaryl :[0m it is OK! this is a vent-safe zone[0m
+[11:51] [0m[33;1m[Clan] Taleast :[0m That Omni guy really grinds my gears[0m
+[11:51] [0m[33;1m[Clan] Taleast :[0m also, glad to have you on board, guy, really mean that[0m
+[11:52] [0m[33;1m[Clan] Omni :[0m don't get me started, I fck'n haaaate when he can't contain[0m
+[11:52] [0m              himself. true story[0m
+[11:52] [0m[34;1mEagleeyes shouts:[0m thanks everyone[0m
+[12:17] [0m[37;1mBrazzin flaps :[0m wonder if there will be a multi-vaf next month.[0m
+[12:18] [0m[37;1mGilneas flaps :[0m we should have a vaf drive with a % going to rasta's fam to[0m
+[12:18] [0m                help with medical stuff[0m
+[12:31] [0m[32mZachary says: [0mHah, this is good training for my upcoming action flick.[0m
+[12:32] [0m[32mZachary says: [0mHah, this is good training for my upcoming action flick.[0m
+[12:32] [0m[32mZachary says: [0mI got tiger blood in my veins.  How 'bout you?[0m
+[12:32] [0m[32mZachary says: [0mHah, this is good training for my upcoming action flick.[0m
+[12:32] [0m[32mZachary says: [0mI got tiger blood in my veins.  How 'bout you?[0m
+[12:33] [0mZachary says: May your face melt off and your children weep over[0m
+[12:39] [0m[37;1mSky flaps :[0m i second that motion, Guilneas.[0m
+[12:39] [0m[37;1mSky flaps :[0m Adalius, any way we could set something up like that?[0m
+[12:41] [0m[37;1mAdalius flaps :[0m Yet again, see aread 938. I don't get involved in money :P[0m
+[12:41] [0m[37;1mSky flaps :[0m I know you don't get involved with $$, but you have the[0m
+[12:41] [0m            connections to make it happen :)[0m
+[12:42] [0m[37;1mDisruptor flaps :[0m forward the petition as it were[0m
+[12:42] [0m[37;1mAdalius flaps :[0m Just mail VAFS with the idea.[0m
+[12:42] [0m[37;1mBrazzin flaps :[0m cant we just VAF directly to him?[0m
+[12:42] [0m[37;1mDisruptor flaps :[0m I suppose we ...right[0m
+[12:43] [0m[37;1mAdalius flaps :[0m He had a gofundme or something up awhile ago for the kids[0m
+[12:43] [0m                medical bills, could probably reuse that if its still up too[0m
+[12:43] [0m[37;1mBabylon flaps :[0m gofundme is a better route for that[0m
+[12:43] [0m[37;1mBabylon flaps :[0m yeah that[0m
+[12:43] [0m[37;1mBrazzin flaps :[0m great idea[0m
+[12:43] [0m[37;1mBabylon flaps :[0m Same for when we need a new server :)[0m
+[12:43] [0m[37;1mSky flaps :[0m GoFundMe takes a lot of fees.[0m
+[12:43] [0m[37;1mOscar flaps :[0m gofundme takes like 10%?[0m
+[12:43] [0m[37;1mSky flaps :[0m If Rasta has Zelle, I'd rather just pay direct.[0m
+[12:44] [0m[37;1mAdalius flaps :[0m It might not be gofundme, I just know he had something to[0m
+[12:44] [0m                get money[0m
+[12:44] [0m[37;1mSky flaps :[0m or have my bank mail him a check.[0m
+[12:44] [0m[37;1mAdalius flaps :[0m Point being, there was *something* already established[0m
+[12:44] [0m[37;1mBabylon flaps :[0m nod[0m
+[12:44] [0m[37;1mBrazzin flaps :[0m agreed Babylon, lets upgrade this mofo like mad.[0m
+[12:44] [0m[37;1mOscar flaps :[0m Let's get rasta some cyborg legs[0m
+[12:44] [0m[37;1mBrazzin flaps :[0m i know we dont NEED 666GB of ram, but.. the board can accept[0m
+[12:44] [0m                it...[0m
+[12:45] [0m[37;1mOscar flaps :[0m Oh...the mud... right, upgrade that too[0m
+[12:45] [0m[37;1mSky flaps :[0m 420gb of ram would be more appropriate for this crowd[0m
+[12:45] [0m[37;1mBrazzin flaps :[0m like i said, didnt NEED it... but.[0m
+[12:45] [0m[37;1mDisruptor flaps :[0m nope, 558 gbs[0m
+[12:46] [0m[37;1mBrazzin flaps :[0m Adalius, if by chance that gofundme is still active, maybe a[0m
+[12:46] [0m                post on a board, or a aread of it? please?[0m
+[12:46] [0m[37;1mBrazzin flaps :[0m iwannamakeitrainonrasta.[0m
+[12:47] [0m[37;1mAdalius flaps :[0m Sigh. I'm talking to Rasta directly. Let me see what he[0m
+[12:47] [0m                wants you to do, if anything.[0m
+[12:47] [0m[37;1mSquirrel flaps :[0m right[0m
+[12:47] [0m[37;1mVoodoo flaps :[0m chop! chop![0m
+[12:47] [0m[37;1mBrazzin flaps :[0m we love that guy (and you too, sorta...)[0m
+[12:47] [0m[37;1mSquirrel flaps :[0m you guys get the day 3 clone sorted?[0m
+[12:47] [0m[37;1mBrazzin flaps :[0m yeah, it knows Kung-Fu now.[0m
+[12:58] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[12:58] [0mCandi says: Let's see just what you taste like...                          [0m
+[12:59] [0mCandi says: Let's see just what you taste like...                          [0m
+[12:59] [0mCandi says: Let's see just what you taste like...                          [0m
+[12:59] [0mCandi says: Let's see just what you taste like...                          [0m
+[12:59] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[12:59] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[12:59] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[12:59] [0mCandi says: Let's see just what you taste like...                          [0m
+[12:59] [0mCandi says: Let's see just what you taste like...                          [0m
+[13:00] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[13:00] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[13:00] [0mCandi says: Let's see just what you taste like...                          [0m
+[13:00] [0mCandi says: You leave my corpse alone, you hear?[0m
+[13:01] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[13:01] [0mBertolo says: I'll take care of this mess.                                 [0m
+[13:01] [0mBertolo says: I'll take care of this mess.                                 [0m
+[13:01] [0mBertolo says: I'll take care of this mess.                                 [0m
+[13:02] [0mBertolo says: I'll take care of this mess.                                 [0m
+[13:02] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[13:02] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[13:02] [0mBertolo says: I'll take care of this mess.                                 [0m
+[13:02] [0mBertolo says: I'll take care of this mess.                                 [0m
+[13:26] [0m[37;1mMud flaps :[0m summoning spell worked[0m
+[13:32] [0m[34;1mBrazzin shouts:[0m take more?[0m
+[13:54] [0m[33;1m[Clan] Saim :[0m now thats kinda cool[0m
+[13:54] [0m[33;1m[Clan] Saim :[0m Saim hits you for 8503 damage![0m
+[13:54] [0m[33;1m[Clan] Saim :[0m incoming dmg numbers, lets me see reflect dmg[0m
+[13:55] [0m[33;1m[Clan] Taleast :[0m that is kind of cool[0m
+[13:58] [0m[33;1m[Clan] Taleast :[0m if someone gets a chance, I'd pay coinage for some angels2[0m
+[13:58] [0m                 gear[0m
+[13:59] [0m[33;1m[Clan] Saim :[0m i can run through for u, what u want?[0m
+[13:59] [0m[32mZachary says: [0mI got tiger blood in my veins.  How 'bout you?[0m
+[13:59] [0m[32mZachary says: [0mHah, this is good training for my upcoming action flick.[0m
+[14:00] [0m[32mZachary says: [0mHah, this is good training for my upcoming action flick.[0m
+[14:00] [0m[33;1m[Clan] Dangerzone :[0m got plenty[0m
+[14:00] [0m[32mZachary says: [0mHah, this is good training for my upcoming action flick.[0m
+[14:00] [0mZachary says: May your face melt off and your children weep over[0m
+[14:00] [0m[33;1m[Clan] Saim :[0m yea anything in particular?[0m
+[14:00] [0m[33;1m[Clan] Taleast :[0m not sure what's better than what I got, got spiritual[0m
+[14:00] [0m                 gloves, twilight amulet and helmet[0m
+[14:00] [0m[33;1m[Clan] Taleast :[0m think I'm OK with translucent armor and boots[0m
+[14:00] [0m[33;1m[Clan] Oscar :[0m there's a bunch in the box too[0m
+[14:01] [0m[33;1m[Clan] Oscar :[0m do you have a key to the clanbox?[0m
+[14:01] [0m[33;1m[Clan] Taleast :[0m I don't have clan access[0m
+[14:01] [0m[33;1m[Clan] Dangerzone :[0m got armour greaves and more[0m
+[14:01] [0m[33;1m[Clan] Oscar :[0m Archi - would you be able to key Taleast?[0m
+[14:01] [0m[33;1m[Clan] Xaryl :[0m to 227?[0m
+[14:01] [0m[33;1m[Clan] Oscar :[0m Or X[0m
+[14:01] [0m[33;1m[Clan] Oscar :[0m Nog[0m
+[14:01] [0m[33;1m[Clan] Saim :[0m 227[0m
+[14:01] [0m[33;1m[Clan] Saim :[0m official[0m
+[14:01] [0m[33;1m[Clan] Saim :[0m only CLANNIES[0m
+[14:01] [0m[33;1m[Clan] Oscar :[0m O-FISH-AL[0m
+[14:01] [0m[33;1m[Clan] Taleast :[0m lol, I won't share[0m
+[14:01] [0m[33;1m[Clan] Dangerzone :[0m ill finish up in whorrhouse[0m
+[14:02] [0m[33;1m[Clan] Oscar :[0m If you do it's back on the streets for you[0m
+[14:02] [0m[33;1m[Clan] Taleast :[0m hey, I used to live in whorehouse[0m
+[14:02] [0m[33;1m[Clan] Archangel :[0m Give me a bit to remember how.[0m
+[14:02] [0m[33;1m[Clan] Taleast :[0m for gxp I mean[0m
+[14:02] [0m[33;1m[Clan] Saim :[0m share a toy, share a ride, share the feelings deep[0m
+[14:02] [0m              inside...but do not share a hat or comb, or lice may make your[0m
+[14:02] [0m              heaad their home[0m
+[14:02] [0m[33;1m[Clan] Oscar :[0m I need a whore bot[0m
+[14:03] [0m[33;1m[Clan] Archangel :[0m Done[0m
+[14:03] [0m[33;1m[Clan] Saim :[0m arch - gotta go down to bLowes[0m
+[14:03] [0m[33;1m[Clan] Archangel :[0m I think[0m
+[14:03] [0m[33;1m[Clan] Taleast :[0m cool, thanks[0m
+[14:03] [0m[33;1m[Clan] Archangel :[0m Need to head out for a bit.[0m
+[14:03] [0m[33;1m[Clan] Taleast :[0m take care[0m
+[14:12] [0m[33;1m[Clan] Dangerzone :[0m back[0m
+[14:13] [0m[33;1m[Clan] Dangerzone :[0m what happens if I linkdead mid fight and log into[0m
+[14:13] [0m                    another char?[0m
+[14:13] [0mCandi says: Let's see just what you taste like...                          [0m
+[14:13] [0mCandi says: Let's see just what you taste like...                          [0m
+[14:13] [0m[33;1m[Clan] Dangerzone :[0m gotta put the spirit goods in the clan box[0m
+[14:13] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[14:13] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[14:14] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[14:14] [0mCandi says: Let's see just what you taste like...                          [0m
+[14:14] [0mCandi says: Let's see just what you taste like...                          [0m
+[14:14] [0mCandi says: I can give it as rough as you like, baby!                      [0m
+[14:14] [0mCandi says: You leave my corpse alone, you hear?[0m
+[14:14] [0m[33;1m[Clan] Oscar :[0m nada[0m
+[14:14] [0mBertolo says: I'll take care of this mess.                                 [0m
+[14:14] [0m[33;1m[Clan] Oscar :[0m you mean, is there some kind of punishment?[0m
+[14:15] [0m[33;1m[Clan] Oscar :[0m (no)[0m
+[14:15] [0mBertolo says: I'll take care of this mess.                                 [0m
+[14:15] [0mBertolo says: I'll take care of this mess.                                 [0m
+[14:15] [0mBertolo says: I'll take care of this mess.                                 [0m
+[14:15] [0mBertolo says: I'll take care of this mess.                                 [0m
+[14:15] [0m[33;1m[Clan] Oscar :[0m only risk you have is if you're PK - then once in a while you[0m
+[14:15] [0m               lose a stat if something goes really weird[0m
+[14:15] [0m[33;1m[Clan] Taleast :[0m I mean, I could tell you some jokes if you're feeling[0m
+[14:15] [0m                 guilty[0m
+[14:15] [0mBertolo says: I'll take care of this mess.                                 [0m
+[14:15] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[14:16] [0mBertolo says: I'll take care of this mess.                                 [0m
+[14:16] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[14:16] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[14:16] [0mBertolo says: I'll take care of this mess.                                 [0m
+[14:16] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[14:16] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[14:17] [0m[32mNetta says: [0mOh yes baby, make me come, please.  Yes. Yes.[0m
+[14:17] [0m[32mNetta says: [0mYou make me hot too much.  Ouch, so hot.[0m
+[14:18] [0m[32mNetta says: [0mOh yes baby, make me come, please.  Yes. Yes.[0m
+[14:18] [0m[32mNetta says: [0mI will please you.[0m
+[14:18] [0m[32mNetta says: [0mRub me all over and make it feel g-g-g-g-g.[0m
+[14:19] [0m[32mNetta says: [0mUnencountered program deploy code lambda /obj/sperm #441.[0m
+[14:19] [0m[32mNetta says: [0mUnencountered program deploy code lambda /obj/sperm #441.[0m
+[14:19] [0m[32mNetta says: [0mRub me all over and make it feel g-g-g-g-g.[0m
+[14:19] [0m[32mNetta says: [0mUnencountered program deploy code lambda /obj/sperm #441.[0m
+[14:19] [0m[32mNetta says: [0mRub me all over and make it feel g-g-g-g-g.[0m
+[14:31] [0m[32mYou tell Michael:[0m am i hogging doh's[0m
+[14:31] [0m[32;1mFrom afar, Michael grins at you.[0m[0m
+[14:31] [0m[32mMichael tells you:[0m i just run through for coins while I wait for dungeons[0m
+[14:31] [0m        to reset[0m
+[14:32] [0mYour transmuter's stone bursts with 5 new colours![0m
+[14:36] [0m[33;1m[Clan] Roken :[0m taleast, scroll, spirit armour, spirit cloak, and bracers dropped at cbox[0m
+[14:36] [0m[33;1m[Clan] Roken :[0m er excuse the formatting[0m
+[14:38] [0m[33;1m[Clan] Taleast :[0m nice[0m
+[14:39] [0m[33;1m[Clan] Taleast :[0m going to go figure out how the hell to get in there[0m
+[14:39] [0m[33;1m[Clan] Taleast :[0m isn't it just like 'house 227' or something at the residential room?[0m
+[14:40] [0m[33;1m[Clan] Dangerzone :[0m or home 227[0m
+[14:40] [0m[33;1m[Clan] Dangerzone :[0m i dont remember[0m
+[14:41] [0m[33;1m[Clan] Oscar :[0m home 227[0m
+[14:41] [0m[33;1m[Clan] Taleast :[0m yep, I got in[0m
+[14:41] [0m[33;1m[Clan] Taleast :[0m thanks[0m
+[14:46] [0m[36m<BS> Fennec :[0m nicely done![0m
+[14:53] [0m[33;1m[Clan] Taleast :[0m thank you for the gear, Dangermouse, appreciate it[0m
+[14:54] [0m[33;1m[Clan] Taleast :[0m er Dangerzone... sorry, your name reminded me of another[0m
+[14:54] [0m                 player[0m
+[14:54] [0m[33;1m[Clan] Taleast :[0m I really should not chat while I'm working, I'm terrible at[0m
+[14:54] [0m                 it as is[0m
+[14:59] [0m[33;1m[Clan] Dangerzone :[0m zero stat leveling to 100? @oscar[0m
+[15:00] [0m[37;1mKitt flaps :[0m og cmc day 8 at ss[0m
+[15:00] [0m[34;1mKitt shouts:[0m Die you floater[0m
+[15:04] [0m[32mTaleast tells you:[0m really do feel like a dick about that. Sorry.[0m
+[15:05] [0m[32mYou tell Taleast:[0m no worries. I'm not mad, just idling at work.[0m
+[15:06] [0m[33;1m[Clan] Oscar :[0m I raised a lot of stats[0m
+[15:06] [0m[33;1m[Clan] Oscar :[0m But currently saving for 111[0m
+[15:06] [0m[33;1m[Clan] Oscar :[0m 1.5bil to go[0m
+[15:06] [0m[33;1m[Clan] Taleast :[0m damn, nice[0m
+[15:06] [0m[33;1m[Clan] Taleast :[0m about 9 still for me[0m
+[15:07] [0m[33;1m[Clan] Oscar :[0m Is all your combat time in Psicorp?[0m
+[15:08] [0m[33;1m[Clan] Taleast :[0m nah, I joined in at about 50 days if I recall[0m
+[15:08] [0m[33;1m[Clan] Taleast :[0m 13 weeks[0m
+[15:08] [0m[33;1m[Clan] Oscar :[0m nog[0m
+[15:08] [0m[33;1m[Clan] Taleast :[0m until glvl 80 things are just really a grind[0m
+[15:18] [0m[36m<BS> Din :[0m hrm.. with blur and guac treatment, it looks like i can tank[0m
+[15:18] [0m           scaler 130 zell but it's going to take a good long while to kill[0m
+[15:18] [0m           him[0m
+[15:20] [0m[33;1m[Clan] Dangerzone :[0m may I hit behind someone's hotel? I'll reset it for you[0m
+[15:27] [0m[33;1m[Clan] Taleast :[0m speaking of which, I'm looking for a bunch of about 1m[0m
+[15:27] [0m                 class mobs or so, maybe a bit bigger, I don't see scaler[0m
+[15:27] [0m                 data for rimalkins on 3kwiki, anyone know much about the[0m
+[15:27] [0m                 scaler there?[0m
+[15:27] [0m[33;1m[Clan] Bruce :[0m they don't scale[0m
+[15:27] [0m[33;1m[Clan] Taleast :[0m oh[0m
+[15:27] [0m[33;1m[Clan] Bruce :[0m smalls are 11M ithink[0m
+[15:27] [0m[33;1m[Clan] Taleast :[0m doh, OK, thanks[0m
+[15:28] [0m[33;1m[Clan] Dangerzone :[0m small == 11m-14, large 20-22m, and very large 24-26m[0m
+[15:28] [0m[33;1m[Clan] Taleast :[0m oh, ok, that file was accurate then it appears[0m
+[15:28] [0m[33;1m[Clan] Taleast :[0m I just didn't read it propelry[0m
+[15:29] [0m[33;1m[Clan] Taleast :[0m hmm, I just remembered halo, I'll try to make that work[0m
+[15:29] [0m[33;1m[Clan] Slacker :[0m zelligar golems are like 1M at 70ish+[0m
+[15:29] [0m[36m<BS> Lachlan :[0m oh nice...[0m
+[15:29] [0m[36m<BS> Lachlan :[0m Im in scaler 140... wonder if I should try him, without guac[0m
+[15:30] [0m[33;1m[Clan] Taleast :[0m hmm, I can only scale to 75 and there are usually multiple[0m
+[15:30] [0m                 of them per room, but I'll check it out, thanks[0m
+[15:30] [0m[33;1m[Clan] Slacker :[0m depends on your damage...2nd usually dont spawn directly[0m
+[15:30] [0m[33;1m[Clan] Taleast :[0m oh, looks like I can go as high as 80 and probably handle[0m
+[15:30] [0m                 multiple, good deal, I'll keep that in mind[0m
+[15:31] [0m[36m<BS> Metaljaz :[0m din do you have embiggen?[0m
+[15:31] [0m[36m<BS> Din :[0m no[0m
+[15:32] [0m[36m<BS> Din :[0m got him down to 8% then ran out of blurs[0m
+[15:32] [0m[36m<BS> Metaljaz :[0m oh i see[0m
+[15:32] [0m[36m<BS> Din :[0m i do have ridiculous stat boosts, though[0m
+[15:32] [0m[36m<BS> Metaljaz :[0m yeah[0m
+[15:32] [0m[36m<BS> Din :[0m 56-79[0m
+[15:33] [0m[36m<BS> Din :[0m 33% to reset.. wonder how close he'll get to full by the time i[0m
+[15:33] [0m           can blur again[0m
+[15:33] [0m[33;1m[Clan] Dangerzone :[0m peacing ability? if you cant handle two at once[0m
+[15:34] [0m[33;1m[Clan] Taleast :[0m hmm, not sure, we have a weird power structure, I'll have[0m
+[15:34] [0m                 to check if I have one[0m
+[15:35] [0m[36m<BS> Din :[0m i'm guessing around 45%[0m
+[15:37] [0m[33;1m[Clan] Taleast :[0m looks like we do, bit it's a higher tier, I'd have to drop[0m
+[15:37] [0m                 a defense to get it :([0m
+[15:38] [0m[33;1m[Clan] Taleast :[0m but something to consider in the future[0m
+[15:38] [0m[33;1m[Clan] Taleast :[0m thanks[0m
+[15:39] [0m[33;1m[Clan] Slacker :[0m I think you gonna tank golems pretty simple, they doing e/b[0m
+[15:39] [0m                 dmg much easier than same xp mobs in chessboard[0m
+[15:39] [0m[33;1m[Clan] Slacker :[0m just stay away from zelligar himself[0m
+[15:41] [0m[33;1m[Clan] Taleast :[0m you'd think that, but until greater valor I can only tank E[0m
+[15:41] [0m                 or B at that class :)[0m
+[15:42] [0m[33;1m[Clan] Taleast :[0m if there are two, I might be tanking both[0m
+[15:48] [0m[36m<BS> Din :[0m kinda close.. 34%[0m
+[15:53] [0m[37;1mAdalius flaps :[0m For those who were asking, since I didn't see Rasta say[0m
+[15:53] [0m                anything when he was around, he said you can PayPal to his[0m
+[15:53] [0m                email (in his finger info) if you're so inclined to help.[0m
+[15:53] [0m[36m<BS> Din :[0m woot, new bk[0m
+[15:54] [0m[32;1mFrom afar, you cheer Din on!!![0m[0m
+[15:54] [0m[32mKerym says: [0mWell met, Swordbrother Dangerzone, May the Seldarine's Blessings be upon you.[0m
+[15:54] [0m[32;1mFrom afar, Zokko cheers you on!!![0m[0m
+[15:56] [0m[34;1mOreo shouts:[0m oreos best snack ever[0m
+[15:56] [0m[34;1mKsemia shouts:[0m after beef jerky and peanut M&Ms[0m
+[16:01] [0m[36mKoschei [Jedi(26)]:[0m i use my dog as a tank hehe[0m
+[16:01] [0m[36mWert [Jedi(Knight)]:[0m animal abuse[0m
+[16:01] [0m[36mKoschei [Jedi(26)]:[0m nog[0m
+[16:01] [0m[36mKoschei [Jedi(26)]:[0m its ok, i spoil the one in rl[0m
+[16:02] [0m[36mWert [Jedi(Knight)]:[0m digital animal abuse![0m
+[16:02] [0m[33;1m[Clan] Taleast :[0m it would appear we have Hooligan to thank[0m
+[16:03] [0m[33;1m[Clan] Ser :[0m i must have drank like 12 beers last night, then got ~5 hrs of sleep[0m
+[16:03] [0m[33;1m[Clan] Taleast :[0m sorry to hear that, guy[0m
+[16:03] [0m[33;1m[Clan] Taleast :[0m the sleep and hangover part[0m
+[16:03] [0m[33;1m[Clan] Ser :[0m then been driving for like 4 hrs[0m
+[16:03] [0m[33;1m[Clan] Ser :[0m ok done complaining[0m
+[16:04] [0m[33;1m[Clan] Ser :[0m i am alive and thats what matters[0m
+[16:04] [0m[33;1m[Clan] Taleast :[0m any day above ground, in any sense of the words[0m
+[16:07] [0m[33;1m[Clan] Taleast :[0m nog, I was right to use scaler 80, I'm barely tanking two[0m
+[16:07] [0m[33;1m[Clan] Roken :[0m wow, series of bad choices :D[0m
+[16:15] [0mRoken <Craft>: some legendary cancer's tears, ruby dust, and sapphire deposited[0m
+[16:21] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[16:31] [0m[34;1mGumby shouts:[0m big letters[0m
+[16:32] [0m[34;1mKoschei shouts:[0m u wot[0m
+[16:48] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[16:55] [0mYour transmuter's stone bursts with 3 new colours![0m
+[17:00] [0m[34;1mHooligan shouts:[0m WooooooO![0m
+[17:06] [0m[33;1m[Clan] Oscar :[0m laf, you can zosi a strung cocoon[0m
+[17:06] [0m[33;1m[Clan] Oscar :[0m lets see what comes out[0m
+[17:06] [0m[33;1m[Clan] Ipsie :[0m lol[0m
+[17:06] [0m[33;1m[Clan] Oscar :[0m woot[0m
+[17:06] [0m[33;1m[Clan] Nix :[0m a ring[0m
+[17:06] [0m[33;1m[Clan] Nix :[0m i do it all the time[0m
+[17:06] [0m[33;1m[Clan] Oscar :[0m one that has been strung?[0m
+[17:07] [0m[33;1m[Clan] Oscar :[0m I need 1 more beloch[0m
+[17:07] [0m[33;1m[Clan] Oscar :[0m Anyone want to hit?[0m
+[17:08] [0m[33;1m[Clan] Taleast :[0m I don't hit very hard, but I'm willing[0m
+[17:10] [0m[33;1m[Clan] Byron :[0m well, i'm fighting him[0m
+[17:10] [0m[33;1m[Clan] Byron :[0m anyone welcome to come[0m
+[17:10] [0m[33;1m[Clan] Taleast :[0m on the way[0m
+[17:11] [0m[33;1m[Clan] Byron :[0m fucking a[0m
+[17:11] [0m[33;1m[Clan] Byron :[0m immune acid[0m
+[17:11] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[17:11] [0m[33;1m[Clan] Byron :[0m hes dead[0m
+[17:11] [0m[33;1m[Clan] Byron :[0m i destroyed him[0m
+[17:11] [0m[33;1m[Clan] Byron :[0m ty anyways[0m
+[17:11] [0m[33;1m[Clan] Taleast :[0m jesus[0m
+[17:11] [0m[33;1m[Clan] Byron :[0m but immune acid[0m
+[17:11] [0m[33;1m[Clan] Byron :[0m no bueno[0m
+[17:12] [0m[33;1m[Clan] Taleast :[0m lol, I didn't even kill the blockers before you killed him[0m
+[17:12] [0m[33;1m[Clan] Taleast :[0m and I was blicking most of them[0m
+[17:12] [0m[33;1m[Clan] Oscar :[0m wooooooo[0m
+[17:13] [0m[33;1m[Clan] Oscar :[0m My ride is fuckin pimped[0m
+[17:17] [0m[33;1m[Clan] Oscar :[0m think i found my zombie scaler limit[0m
+[17:18] [0m[33;1m[Clan] Oscar :[0m I wonder if I can xmute a spirit cloak and wear 2...then I'd be[0m
+[17:18] [0m[33;1m[Clan] Oscar :[0m really set[0m
+[17:18] [0m[33;1m[Clan] Nix :[0m can't[0m
+[17:18] [0m[33;1m[Clan] Nix :[0m they changed that after the first boot[0m
+[17:33] [0m[33;1m[Clan] Oscar :[0m yeah, outkicked my coverage in this zombie[0m
+[17:33] [0m[33;1m[Clan] Taleast :[0m Oscar has cow sighting[0m
+[17:33] [0m[33;1m[Clan] Oscar :[0m gotta scale it back[0m
+[17:34] [0m[35;1mAkir [Jedi(45)]:[0m Ho Carolina[0m
+[17:37] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[17:40] [0m[34;1mKitt shouts:[0m I A M K I T T[0m
+[17:40] [0m[34;1mShrone shouts:[0m Prove it![0m
+[17:40] [0m[34;1mNik shouts:[0m IAMRED[0m
+[17:55] [0mYour transmuter's stone bursts with 2 new colours![0m
+[18:04] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[18:06] [0m[34;1mShenanigans shouts:[0m woot[0m
+[18:06] [0m[34;1mBrazzin shouts:[0m WOO[0m
+[18:06] [0m[34;1mAsh shouts:[0m woo![0m
+[18:06] [0m[34;1mZokko shouts:[0m CHEATER![0m
+[18:06] [0m[34;1mNeworder shouts:[0m shhh[0m
+[18:07] [0m[34;1mAsher shouts:[0m WOO![0m
+[18:09] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Deserts of Fantasy![0m
+[18:09] [0m                          We are localizing it now - get ready![0m
+[18:14] [0m[35;1mAkir [Jedi(45)]:[0m ho Draal[0m
+[18:15] [0m[37;1mCrolack flaps :[0m I'm thinking of a number between 1 and 1.[0m
+[18:15] [0m[37;1mGumby flaps :[0m [SteakChat{Medium Boring}]: pi[0m
+[18:17] [0m[37;1mCrolack flaps :[0m No, I'm sorry the answer was Luxury Yacht.[0m
+[18:17] [0m[37;1mHex flaps :[0m " and " is not a number[0m
+[18:18] [0m[37;1mHex flaps :[0m 0, works (101), 99 does too (1991)[0m
+[18:19] [0m[37;1mCrolack flaps :[0m Hex has been hexed.[0m
+[18:19] [0m[37;1mCrolack flaps :[0m The Frogurt is also cursed.[0m
+[18:20] [0m[37;1mTurnhold flaps :[0m That's bad[0m
+[18:20] [0m[37;1mWert flaps :[0m 2n 3e[0m
+[18:21] [0m[37;1mWert flaps :[0m psi dmg[0m
+[18:29] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[18:34] [0m[33;1m[Clan] Oscar :[0m 1bil to go woooooo[0m
+[18:34] [0m[33;1m[Clan] Oscar :[0m no death jo whqmmy[0m
+[18:41] [0m[33;1m[Clan] Ser :[0m i should roll my next alt Blm[0m
+[18:42] [0m[34;1mCrolack shouts:[0m Pickles[0m
+[18:42] [0m[34;1mBrazzin shouts:[0m Pickle-Rick?[0m
+[18:42] [0m[33;1m[Clan] Ser :[0m before someone else gets it[0m
+[18:45] [0m[33;1m[Clan] Taleast :[0m nice work, Oscar[0m
+[18:48] [0m[33;1m[Clan] Taleast :[0m I think I'm going to make 5m more an hour when I hist 85 just because I won't[0m
+[18:48] [0m                 have to keep scanning every f'in mob for damage type, lol[0m
+[18:50] [0m[37;1mPrismal flaps :[0m Crolack is the old man from season 1 of scrubs[0m
+[18:51] [0m[37;1mTurnhold flaps :[0m which old man?[0m
+[18:52] [0m[37;1mTurnhold flaps :[0m kelso? ted? Dr. Jan Itor?[0m
+[18:52] [0m[37;1mPrismal flaps :[0m https://tinyurl.com/ydcpco5g[0m
+[18:52] [0m[37;1mTurnhold flaps :[0m Mr. Bulber![0m
+[18:52] [0m[37;1mTurnhold flaps :[0m PICKLES[0m
+[18:54] [0m[37;1mAdalius flaps :[0m Good ole Don Perry[0m
+[18:55] [0mYour transmuter's stone bursts with 4 new colours![0m
+[18:58] [0m[37;1mCrolack flaps :[0m Pickles[0m
+[18:59] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[19:01] [0m[35;1mDroz [Jedi(36)]:[0m Woo![0m
+[19:03] [0m[37;1mRoken flaps :[0m resetting hotel! c'mon two tap zombies[0m
+[19:03] [0m[35;1mAl [Jedi(53)]:[0m anybody able to train RI 11?[0m
+[19:04] [0m[35;1mRoken [Jedi(84)]:[0m ya[0m
+[19:04] [0m[35;1mAl [Jedi(53)]:[0m willing to travelto ya[0m
+[19:04] [0m[35;1mAl [Jedi(53)]:[0m l[0m
+[19:04] [0m[35;1mAl [Jedi(53)]:[0m where'd you like me to meet ya[0m
+[19:04] [0m[35;1mWert [Jedi(Knight)]:[0m dont think you can, might be reena only[0m
+[19:04] [0m[35;1mWert [Jedi(Knight)]:[0m but we will find out[0m
+[19:04] [0m[35;1mAl [Jedi(53)]:[0m heh[0m
+[19:04] [0m[35;1mRoken [Jedi(84)]:[0m resetting hotel[0m
+[19:04] [0m[35;1mAl [Jedi(53)]:[0m brt[0m
+[19:04] [0m[32mAl says:[0m who's resetting[0m
+[19:05] [0m[32mYou say:[0m teaching[0m
+[19:05] [0m[32mYou say:[0m i am[0m
+[19:05] [0m[32mAl says:[0m for party?[0m
+[19:05] [0m[33;1m[PARTY][0m Lost our leader![0m
+[19:05] [0m[33;1m[PARTY][0m New leader for the party: roken.[0m
+[19:05] [0m[33;1m[PARTY][0m Al joins the party.[0m
+[19:05] [0m[32mAl says:[0m or just solo[0m
+[19:05] [0m[35;1mAl [Jedi(53)]:[0m looks like its doable[0m
+[19:05] [0m[33;1m[PARTY][0m Roken: party[0m
+[19:05] [0m[33;1m[PARTY][0m Al: 2 for 1[0m
+[19:05] [0m[37;1mRoken flaps :[0m last call for resetting zambies[0m
+[19:05] [0m[33;1m[PARTY][0m Al: thanks bro[0m
+[19:05] [0m[33;1m[PARTY][0m Al: or sis, as the case may be[0m
+[19:05] [0m[33;1m[PARTY][0m Roken: hmm no takers[0m
+[19:06] [0m[33;1m[PARTY][0m Al: eff it, i'm in[0m
+[19:06] [0m[33;1m[PARTY][0m Al: it'll be another hour and a hafl for me otherwise[0m
+[19:06] [0m[32mEagleeyes says:[0m here[0m
+[19:06] [0m[32;1mArsnova says 'yo'.[0m[0m
+[19:06] [0m[33;1m[PARTY][0m Al: laf[0m
+[19:06] [0m[33;1m[PARTY][0m Eagleeyes joins the party.[0m
+[19:06] [0m[33;1m[PARTY][0m Arsnova joins the party.[0m
+[19:06] [0m[33;1m[PARTY][0m Al: i wonder what size i can tackle solo[0m
+[19:07] [0m[33;1m[PARTY][0m Roken: woo[0m
+[19:07] [0m[33;1m[PARTY][0m Arsnova has quit the party.[0m
+[19:07] [0m[33;1m[PARTY][0m Roken has quit the party.[0m
+[19:07] [0m[32;1mFrom afar, Eagleeyes thanks you.[0m[0m
+[19:08] [0m[33;1m[Clan] Ser :[0m hey taleast[0m
+[19:08] [0m[33;1m[Clan] Taleast :[0m sup, Ser[0m
+[19:08] [0m[33;1m[Clan] Taleast :[0m congrats on glvl[0m
+[19:08] [0m[33;1m[Clan] Ser :[0m i have combat eval or something and i just exa the mob[0m
+[19:08] [0m[33;1m[Clan] Taleast :[0m oh[0m
+[19:09] [0m[33;1m[Clan] Ser :[0m in fact my script sends kill, demoralize, and examine[0m
+[19:09] [0m[33;1m[Clan] Taleast :[0m I'm not sure I even knew there was a mudskill to do that[0m
+[19:09] [0m[33;1m[Clan] Ser :[0m and then sets a variable for adapt body there[0m
+[19:10] [0m[33;1m[Clan] Taleast :[0m what's the name of the mskill?[0m
+[19:11] [0m[33;1m[Clan] Ser :[0m combat.proficiency.evaluation[0m
+[19:11] [0m[33;1m[Clan] Taleast :[0m shit, sorry, I didn't see that[0m
+[19:11] [0m[33;1m[Clan] Taleast :[0m thanks, appreciate that[0m
+[19:11] [0m[33;1m[Clan] Ser :[0m np and then you can just exa[0m
+[19:28] [0m[35;1mMellaous [Jedi(80)]:[0m I think jedi has become the Teepo guild :)[0m
+[19:28] [0m[35;1mAkir [Jedi(45)]:[0m GOOD![0m
+[19:28] [0m[35;1mAkir [Jedi(45)]:[0m lmao there are only 3 of us :P[0m
+[19:28] [0m[35;1mMellaous [Jedi(80)]:[0m used to be a lot less, but they are attractive[0m
+[19:28] [0m[35;1mAkir [Jedi(45)]:[0m pew pew[0m
+[19:29] [0m[35;1mMellaous [Jedi(80)]:[0m pewpewpewpewpew![0m
+[19:30] [0m[35;1mMellaous [Jedi(80)]:[0m Adalius, fix up Dark Jedide healing just a tad so I can play the evil role[0m
+[19:30] [0m                     :)[0m
+[19:30] [0m[35;1mMellaous [Jedi(80)]:[0m either that or maybe I just need to get glevel 180 by 2025 and then switch[0m
+[19:30] [0m                     over :)[0m
+[19:31] [0m[35;1mMellaous [Jedi(80)]:[0m I need to get you a new 8ball[0m
+[19:31] [0m[35;1mMellaous [Jedi(80)]:[0m hehe[0m
+[19:31] [0m[35;1mWyvern [Jedi(92)]:[0m then it'd be - adalius shakes new 8ball: still no[0m
+[19:33] [0m[35;1mMellaous [Jedi(80)]:[0m well I still want to try out just strait Dark Jedider at some point. but[0m
+[19:33] [0m                     really need to get deflect and a few glevels[0m
+[19:34] [0m[35;1mMellaous [Jedi(80)]:[0m I admit, lightside has been fun[0m
+[19:34] [0m[35;1mAdalius [Jedi(WGM)]:[0m Been too busy to fix anything anyway. Making headway on the 64bit driver,[0m
+[19:34] [0m                     fixing mudlag, plus bought a new Versalift 25/35, a new beavertail trailer,[0m
+[19:34] [0m                     selling a semi, pickup, and 33k lbs forklift. BUSY BUSY[0m
+[19:34] [0m[35;1mMellaous [Jedi(80)]:[0m curious, what will the 64bit driver do?[0m
+[19:35] [0m[35;1mMellaous [Jedi(80)]:[0m oh I know your busy.  You have a balancing act going on between here and[0m
+[19:35] [0m                     r/l[0m
+[19:36] [0m[34;1mSky shouts:[0m did anyone find the event?[0m
+[19:36] [0m[35;1mAdalius [Jedi(WGM)]:[0m Lots. 1) In theory better handling of data (more bits == more throughput in[0m
+[19:36] [0m                     a nutshell) 2) Much bigger integer limits so that wont be an issue anymore [0m
+[19:36] [0m                     3) Much larger object limits  4) New driver so its something we can compile[0m
+[19:36] [0m                     (we can no longer compile the current driver since it requires super old[0m
+[19:36] [0m                     versions of the compiling software). 3) Multiple version increases from[0m
+[19:36] [0m                     this driver so lots of bug fixes, improvements, added features, etc.[0m
+[19:37] [0m[35;1mAdalius [Jedi(WGM)]:[0m hrm, nix that 2nd 3 and make it a 4[0m
+[19:37] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[19:37] [0m[35;1mMellaous [Jedi(80)]:[0m still sounds awesome[0m
+[19:38] [0m[35;1mAl [Jedi(53)]:[0m christ, that sounds like a lot of work[0m
+[19:38] [0m[35;1mMellaous [Jedi(80)]:[0m do items players carry cause any mud lag?[0m
+[19:39] [0m[35;1mArsnova [Jedi(70)]:[0m probably everything causes mud lag[0m
+[19:39] [0m[35;1mMellaous [Jedi(80)]:[0m well all these fragments[0m
+[19:39] [0m[35;1mAdalius [Jedi(WGM)]:[0m It is. Thor made a tool that takes *all* the .c files in the entire game,[0m
+[19:39] [0m                     breaks them into 26 chunks, and loads them one chunk at a time to see what[0m
+[19:39] [0m                     breaks. I have, in the last 2 days, bugfixed (or marked as obsolete so[0m
+[19:39] [0m                     ignore), 23 of those chunks[0m
+[19:39] [0m[34;1mKitt shouts:[0m Over there[0m
+[19:39] [0m[35;1mMellaous [Jedi(80)]:[0m did not know if that would help having a guild command where we can send[0m
+[19:39] [0m                     them all to jedi storage from afar if the box would limit the lag created[0m
+[19:39] [0m[35;1mAdalius [Jedi(WGM)]:[0m Everything causes lag. Thats why I made the new fragment storage in the[0m
+[19:39] [0m                     library. We went from 7k+ holocrons at day 7 to about 1.5k in game[0m
+[19:39] [0m[35;1mMellaous [Jedi(80)]:[0m dman[0m
+[19:40] [0m[35;1mAdalius [Jedi(WGM)]:[0m The problem we have right now is we can't recompile, so we can't increase[0m
+[19:40] [0m                     the hard object limit, so its set a lot lower than we'd like it to be[0m
+[19:40] [0m[35;1mAl [Jedi(53)]:[0m it sounds painful, but kinda fascinating[0m
+[19:40] [0m[35;1mAdalius [Jedi(WGM)]:[0m Which while limiting the number in game (and thus reducing memory, etc[0m
+[19:40] [0m                     etc), is also causing it to cap out and then try to clean up way more often[0m
+[19:40] [0m                     than it should, which is counter productive.[0m
+[19:41] [0m[34;1mFrank shouts:[0m a little to the right[0m
+[19:41] [0m[35;1mMellaous [Jedi(80)]:[0m all that work with limited manpower, or people that know what they are[0m
+[19:41] [0m                     doing[0m
+[19:41] [0m[34;1mMellaous shouts:[0m then a little to the left[0m
+[19:42] [0m[35;1mAdalius [Jedi(WGM)]:[0m Well, thats why 90% of whats going on with the new driver right now is me &[0m
+[19:42] [0m                     Thor tag-teaming it. But, we're getting close. I'm hoping we'll be doing[0m
+[19:42] [0m                     player & load testing in the near future.[0m
+[19:42] [0m[34;1mTaleast shouts:[0m I don't know what you're looking for in my pocket, but it's down and to the left[0m
+[19:42] [0m[35;1mMellaous [Jedi(80)]:[0m I look foward the way this all sounds more than I do any guild updates hehe[0m
+[19:42] [0m[35;1mMellaous [Jedi(80)]:[0m anything that helps smooth game play[0m
+[19:43] [0m[35;1mAdalius [Jedi(WGM)]:[0m Well, its all theoretical. I'm hoping it smoothes things out.[0m
+[19:43] [0m[33;1m[Clan] Ser :[0m laugh i have RLI[0m
+[19:43] [0m[35;1mAdalius [Jedi(WGM)]:[0m But who knows, it might introduce other issues. Like for one, they removed[0m
+[19:43] [0m                     the driver-supported lighting system and replaced it with a mudlib lighting[0m
+[19:43] [0m                     system. I'm hoping to hell that doesn't have a larger carrying cost.[0m
+[19:44] [0m[35;1mAdalius [Jedi(WGM)]:[0m Anywho, time to go cook dinner.[0m
+[19:44] [0m[33;1m[Clan] Taleast :[0m I have no idea what RLI is, but it sounds like an injury[0m
+[19:44] [0m[35;1mAl [Jedi(53)]:[0m laters[0m
+[19:44] [0m[35;1mAl [Jedi(53)]:[0m thanks for the insights[0m
+[19:44] [0m[33;1m[Clan] Ser :[0m Real Life Intervention...  the xp bonus you get when you haven't played for awhile[0m
+[19:44] [0m[33;1m[Clan] Nix :[0m real life intervention... basicaly bonus xo[0m
+[19:44] [0m[35;1mAl [Jedi(53)]:[0m and remember, can't spell adalius without al[0m
+[19:44] [0m[33;1m[Clan] Nix :[0m xp that you get for not playing[0m
+[19:45] [0m[33;1m[Clan] Taleast :[0m oh, shit, yeah I had that a week or two ago when you were running me through[0m
+[19:45] [0m                 HT2[0m
+[19:45] [0m[33;1m[Clan] Taleast :[0m my memory really is terrible[0m
+[19:45] [0m[33;1m[Clan] Ser :[0m yes & yes[0m
+[19:45] [0m[33;1m[Clan] Taleast :[0m you cut me to the quick, sir[0m
+[19:45] [0m[33;1m[Clan] Taleast :[0m sorry, Ser[0m
+[19:49] [0m[35;1mJasmine [Jedi(Knight)]:[0m what do you call an aligator wearing a vest?[0m
+[19:49] [0m[35;1mAl [Jedi(53)]:[0m sir[0m
+[19:49] [0m[35;1mAl [Jedi(53)]:[0m or ma'am, but you show them respect[0m
+[19:49] [0m[35;1mJasmine [Jedi(Knight)]:[0m no[0m
+[19:50] [0m[35;1mDroz [Jedi(36)]:[0m An In-vest-igator?[0m
+[19:50] [0m[35;1mJasmine [Jedi(Knight)]:[0m yes[0m
+[19:55] [0mYour transmuter's stone bursts with 4 new colours![0m
+[20:07] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[20:17] [0m[37;1mVagrant flaps :[0m killing some beloches swang by[0m
+[20:18] [0m[37;1mVagrant flaps :[0m i got a bunch of refreshes and reset scrolls[0m
+[20:18] [0mRPDFd  Wm:g Wc: 61% Gx: 63.44% Fx:  3.74%[0m
+[20:19] [0m[37;1mVagrant flaps :[0m pew pew pew[0m
+[20:20] [0m[33;1m[Clan] Taleast :[0m who do you need to talk to about VAFs again?[0m
+[20:21] [0m[33;1m[Clan] Ser :[0m d from cot[0m
+[20:21] [0m[33;1m[Clan] Taleast :[0m to talk to someone?[0m
+[20:21] [0m[33;1m[Clan] Ser :[0m whattaya mean[0m
+[20:21] [0m[33;1m[Clan] Ser :[0m whattaya wanna talk about[0m
+[20:21] [0m[33;1m[Clan] Ser :[0m generally rastafan i believe, but i think you can mail VAFs[0m
+[20:21] [0m[33;1m[Clan] Taleast :[0m I missed out on both bonus offers, was going to see if they'd take pity on me[0m
+[20:21] [0m                 and offer at least 2x[0m
+[20:22] [0m[37;1mVagrant flaps :[0m starting for awesomeness[0m
+[20:22] [0m[33;1m[Clan] Oscar :[0m you can try - but typically bonuses are frequent[0m
+[20:23] [0m[33;1m[Clan] Oscar :[0m so next time if youre gonna wait[0m
+[20:23] [0m[33;1m[Clan] Oscar :[0m althought i think summer used to be the big drive[0m
+[20:23] [0m[32mYou say:[0m hi[0m
+[20:23] [0m[33;1m[Clan] Oscar :[0m for tboons etc[0m
+[20:23] [0m[32mYou say:[0m rally[0m
+[20:23] [0m[32mYou say:[0m got a refresh[0m
+[20:23] [0m[33;1m[PARTY][0m Roken joins the party.[0m
+[20:23] [0m[32mVagrant says:[0m noice[0m
+[20:24] [0m[33;1m[Clan] Nix :[0m i keep saying once this covid bullshit is over we need to have another omp[0m
+[20:24] [0m[33;1m[PARTY][0m Kirrin joins the party.[0m
+[20:24] [0m[33;1m[PARTY][0m Merrick: i can tank the next one, gotta save/recover to clear my[0m
+[20:24] [0m         ndefend:/[0m
+[20:25] [0m[33;1m[PARTY][0m Vagrant: roger[0m
+[20:25] [0m[33;1m[PARTY][0m Vagrant: refrehsing[0m
+[20:25] [0m[33;1m[PARTY][0m Merrick: want me to well?[0m
+[20:25] [0m[33;1m[PARTY][0m Vagrant: roger[0m
+[20:26] [0m[33;1m[Clan] Nix :[0m dude... jeff i got it... 3kWildwoodOmp[0m
+[20:26] [0m[33;1m[Clan] Nix :[0m i could get us a room at the convention center through lynch[0m
+[20:26] [0m[33;1m[PARTY][0m Vagrant: yay[0m
+[20:26] [0m[33;1m[Clan] Oscar :[0m laf[0m
+[20:26] [0m[33;1m[Clan] Oscar :[0m that would be great[0m
+[20:26] [0m[33;1m[PARTY][0m Vagrant: we'll have 4 extra pots for ppl with all the refreshes i[0m
+[20:26] [0m         got stocked up[0m
+[20:27] [0m[33;1m[PARTY][0m Merrick: i need 2 if no one else needs.[0m
+[20:27] [0m[33;1m[PARTY][0m Merrick: and i have a refresh[0m
+[20:27] [0m[33;1m[PARTY][0m Vagrant: rock on![0m
+[20:28] [0m[33;1m[PARTY][0m Vagrant: refrehsing[0m
+[20:29] [0m[33;1m[Clan] Oscar :[0m we'll put them all in the Binns[0m
+[20:30] [0m[33;1m[Clan] Nix :[0m haha, gotta schedule this when the pagans are in town for bike week[0m
+[20:30] [0m[33;1m[Clan] Nix :[0m revenge of the nerds 6[0m
+[20:30] [0m[33;1m[Clan] Oscar :[0m laf[0m
+[20:31] [0m[33;1m[PARTY][0m Roken: need 5 but ill get what i get[0m
+[20:32] [0m[33;1m[PARTY][0m Vagrant: you mean 3 :P[0m
+[20:32] [0m[33;1m[PARTY][0m Stasis joins the party.[0m
+[20:32] [0m[33;1m[PARTY][0m Roken: 2 for alt and 3 for main[0m
+[20:32] [0m[32mAl says:[0m rally[0m
+[20:32] [0m[33;1m[PARTY][0m Al joins the party.[0m
+[20:32] [0m[33;1m[PARTY][0m Vagrant: ah nod[0m
+[20:32] [0m[33;1m[PARTY][0m Al: anytjing this fuckers alwayd weak to?[0m
+[20:32] [0m[33;1m[PARTY][0m Merrick: these hands[0m
+[20:32] [0m[33;1m[PARTY][0m Al: lsf[0m
+[20:32] [0m[33;1m[PARTY][0m Vagrant: haha[0m
+[20:32] [0m[33;1m[PARTY][0m Vagrant: refreshing[0m
+[20:32] [0m[33;1m[PARTY][0m Al: laf[0m
+[20:33] [0m[33;1m[PARTY][0m Al: sec[0m
+[20:33] [0m[33;1m[PARTY][0m Al: i jave onr i tjink[0m
+[20:33] [0m[33;1m[PARTY][0m Vagrant: next 2 yours merrick, let me burn all my refreshes, have 3[0m
+[20:33] [0m         more[0m
+[20:33] [0m[32;1mRynn says 'yo'.[0m[0m
+[20:33] [0m[33;1m[PARTY][0m Al: i have room refresh bit ttying to out kid to bed[0m
+[20:34] [0m[33;1m[PARTY][0m Merrick: thankee vagrant:)[0m
+[20:34] [0m[33;1m[PARTY][0m Rynn joins the party.[0m
+[20:34] [0m[33;1m[PARTY][0m Rynn: yo[0m
+[20:34] [0m[33;1m[PARTY][0m Vagrant: hey hey[0m
+[20:34] [0m[33;1m[PARTY][0m Merrick: sup rynn[0m
+[20:35] [0m[33;1m[PARTY][0m Vagrant: refreshing[0m
+[20:36] [0m[33;1m[PARTY][0m Vagrant: pot on floor 4 you merrick, this one for you 2[0m
+[20:36] [0m[33;1m[Clan] Taleast :[0m if I can get them to throw me a bone I think I'm getting permanent LD and a[0m
+[20:36] [0m                 gswap[0m
+[20:36] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[20:36] [0m[33;1m[Clan] Taleast :[0m permanent LD for certain, not certain bout the rest[0m
+[20:37] [0m[33;1m[Clan] Nix :[0m ldlogin is awesome if you have alts that you play[0m
+[20:37] [0m[33;1m[Clan] Taleast :[0m hell, if for no other reason than I can stop bugging my Knight friends for[0m
+[20:37] [0m                 repairs[0m
+[20:37] [0m[33;1m[Clan] Aka :[0m linkd[0m
+[20:37] [0m[33;1m[Clan] Nix :[0m oh linkd[0m
+[20:37] [0m[33;1m[Clan] Ser :[0m ldlogin[0m
+[20:37] [0m[33;1m[Clan] Taleast :[0m er yeah, that one[0m
+[20:37] [0m[33;1m[PARTY][0m Vagrant: brb bringing my alts for freshes :)[0m
+[20:38] [0m[33;1m[PARTY][0m Merrick: kek[0m
+[20:38] [0m[33;1m[Clan] Taleast :[0m sorry, I'm still only paying about 30 or 40% attention, doing some overtime for[0m
+[20:38] [0m                 work[0m
+[20:38] [0m[32mInfected says:[0m refreshing[0m
+[20:38] [0m[32mYou say:[0m ok[0m
+[20:39] [0m[32mMerrick says:[0m vaggie coming back?[0m
+[20:39] [0m[32mInfectious says:[0m yup[0m
+[20:39] [0m[32mInfectious says:[0m just regening nrg[0m
+[20:39] [0m[32mInfectious says:[0m for this guy[0m
+[20:39] [0m[32mInfectious says:[0m hahah[0m
+[20:39] [0m[32mMerrick says:[0m want me to kill?[0m
+[20:39] [0m[32mInfectious says:[0m nog[0m
+[20:39] [0m[32mInfectious says:[0m ill sunder[0m
+[20:40] [0m[33;1m[PARTY][0m Vagrant: back![0m
+[20:40] [0m[33;1m[PARTY][0m Vagrant: 1 more refresh and im tapped out for next one, will have 2[0m
+[20:40] [0m         extra pots on the ground for ppl[0m
+[20:42] [0m[33;1m[PARTY][0m Vagrant: refreshing[0m
+[20:42] [0m[32mInfectious says:[0m natural[0m
+[20:42] [0m[32mInfectious says:[0m lol[0m
+[20:42] [0m[33;1m[PARTY][0m Roken: ill refresh next[0m
+[20:44] [0m[33;1m[PARTY][0m Vagrant: got 1 more fresh, this was a natural ha[0m
+[20:45] [0m[33;1m[PARTY][0m Merrick: i also have a refresh i'd like to burn[0m
+[20:45] [0m[33;1m[PARTY][0m Al: me 3[0m
+[20:45] [0m[33;1m[PARTY][0m Vagrant: roger1 let me finish on infect, then roken, then merrick,[0m
+[20:45] [0m         thenk al[0m
+[20:45] [0m[33;1m[PARTY][0m Vagrant: refreshing[0m
+[20:45] [0m[33;1m[PARTY][0m Stasis: then mee[0m
+[20:46] [0m[33;1m[PARTY][0m Vagrant: wheee[0m
+[20:46] [0m[34;1mAka shouts:[0m poison daisies[0m
+[20:46] [0m[33;1m[PARTY][0m Rynn: mind immune jerkbag[0m
+[20:46] [0m[33;1m[PARTY][0m Vagrant: ewelling in 1 min 40 secs :)[0m
+[20:47] [0m[34;1mTaleast shouts:[0m Push th' little daisies and make 'em come up[0m
+[20:47] [0m[33;1m[PARTY][0m Vagrant: may as well save for next one :)[0m
+[20:47] [0m[33;1m[PARTY][0m Merrick: nog, save for next[0m
+[20:48] [0m[33;1m[PARTY][0m Vagrant: go ahead roken, goo disr![0m
+[20:48] [0m[33;1m[PARTY][0m Eli: I can stilluse two potions , after everybody else has[0m
+[20:48] [0m     gotten theirs[0m
+[20:49] [0m[33;1m[PARTY][0m Vagrant: mrerick refresh? roken can do next[0m
+[20:49] [0m[32mKirrin says:[0m I refreshes a thing.[0m
+[20:49] [0m[32mVagrant says:[0m noce[0m
+[20:49] [0m[33;1m[PARTY][0m Vagrant: kirrin refreshed :)[0m
+[20:49] [0m[33;1m[PARTY][0m Merrick: rynn, ewell[0m
+[20:50] [0m[33;1m[PARTY][0m Kirrin: I really wish they put a msg on that to the room, added[0m
+[20:50] [0m        qtrance to mine :p hehe[0m
+[20:50] [0m[33;1m[PARTY][0m Vagrant: it had it in say![0m
+[20:50] [0m[33;1m[PARTY][0m Kirrin: yeah, I added that :p[0m
+[20:50] [0m[33;1m[PARTY][0m Vagrant: haha[0m
+[20:51] [0m[33;1m[PARTY][0m Vagrant: nod[0m
+[20:51] [0m[33;1m[PARTY][0m Kirrin: try to avoid mistakes, but the power itself really should[0m
+[20:51] [0m        :p[0m
+[20:51] [0m[33;1m[PARTY][0m Merrick: think TH is gonna fix that[0m
+[20:52] [0m[33;1m[PARTY][0m Vagrant: merrick refresh? roken still afk[0m
+[20:52] [0m[33;1m[PARTY][0m Merrick: refreshing[0m
+[20:52] [0m[33;1m[PARTY][0m Merrick: 2 minutes till my ewel[0m
+[20:53] [0m[33;1m[PARTY][0m Kirrin: I dumped out my shitty 50% one, hehe[0m
+[20:54] [0m[33;1m[PARTY][0m Vagrant: hahah[0m
+[20:55] [0m[33;1m[PARTY][0m Vagrant: al refresh? roken still afk[0m
+[20:55] [0m[33;1m[PARTY][0m Stasis: i'll fresh[0m
+[20:55] [0m[33;1m[PARTY][0m Vagrant: roger[0m
+[20:55] [0m[33;1m[PARTY][0m Merrick: whose next?[0m
+[20:55] [0m[33;1m[PARTY][0m Vagrant: statsis go![0m
+[20:55] [0m[33;1m[PARTY][0m Kirrin: gasp, I ran out of coins on hand, boo[0m
+[20:55] [0mYour transmuter's stone bursts with 5 new colours![0m
+[20:56] [0m[33;1m[PARTY][0m Merrick: there you go kirrin[0m
+[20:56] [0m[33;1m[PARTY][0m Kirrin: thanks, stupid powers constantly costing coins/worth[0m
+[20:57] [0m[33;1m[PARTY][0m Vagrant: Al refresh?[0m
+[20:57] [0m[33;1m[PARTY][0m Merrick: al's good[0m
+[20:57] [0m[33;1m[PARTY][0m Merrick: my refresh was for him[0m
+[20:57] [0m[33;1m[PARTY][0m Vagrant: nog[0m
+[20:57] [0m[33;1m[PARTY][0m Merrick: whose next?[0m
+[20:57] [0m[33;1m[PARTY][0m Vagrant: looks like only one left that has one is roken[0m
+[20:57] [0m[33;1m[PARTY][0m Per: i have 1[0m
+[20:58] [0m[33;1m[PARTY][0m Vagrant: nmoice go per![0m
+[20:58] [0m[35;1mDroz [Jedi(36)]:[0m Woo, Mastery/Guide 7[0m
+[20:59] [0m[33;1m[PARTY][0m Vagrant: noooo merrrickkkk[0m
+[20:59] [0m[33;1m[PARTY][0m Rynn: lol[0m
+[20:59] [0m[33;1m[PARTY][0m Vagrant: bad round i reckon[0m
+[20:59] [0m[33;1m[PARTY][0m A ghostly form of Merrick: ROFL[0m
+[20:59] [0m[33;1m[PARTY][0m A ghostly form of Merrick: he hit me 5x for 6k[0m
+[20:59] [0m[33;1m[PARTY][0m Vagrant: lol ouch[0m
+[20:59] [0m[33;1m[PARTY][0m Rynn: i ran like a bitch, thought it was going to be a mess[0m
+[20:59] [0m[33;1m[PARTY][0m A ghostly form of Merrick: he's never hit me like that[0m
+[20:59] [0m[33;1m[PARTY][0m A ghostly form of Merrick: and i've tanked like 25 belochs this boot[0m
+[21:00] [0m[33;1m[PARTY][0m Vagrant: lol[0m
+[21:00] [0m[33;1m[PARTY][0m Kirrin: and I cant hit this one, heh[0m
+[21:00] [0m[33;1m[PARTY][0m Rynn: i cant re-enter until is ded[0m
+[21:00] [0m[33;1m[PARTY][0m Merrick: if i come back in, whose tankin?[0m
+[21:00] [0m[33;1m[PARTY][0m Vagrant: eli is tanking[0m
+[21:00] [0m[33;1m[PARTY][0m Kirrin has quit the party.[0m
+[21:00] [0m[33;1m[PARTY][0m Merrick: laf[0m
+[21:00] [0m[33;1m[PARTY][0m Vagrant: savage[0m
+[21:01] [0m[33;1m[PARTY][0m Merrick: omw[0m
+[21:01] [0m[32mMerrick says:[0m fuck you beloch[0m
+[21:01] [0m[33;1m[PARTY][0m Rynn: ded yet?[0m
+[21:01] [0m[33;1m[PARTY][0m Merrick: not yet[0m
+[21:01] [0m[33;1m[PARTY][0m Merrick: i'll hollar[0m
+[21:01] [0m[33;1m[PARTY][0m Rynn: HOLLA[0m
+[21:02] [0m[33;1m[PARTY][0m Vagrant: its dead :)[0m
+[21:02] [0m[33;1m[PARTY][0m Merrick: dead[0m
+[21:02] [0m[32mPer says:[0m ty[0m
+[21:02] [0m[33;1m[PARTY][0m Vagrant: anyone else have a refresh?[0m
+[21:02] [0m[32mVagrant tells you:[0m refresh[0m
+[21:02] [0m[33;1m[PARTY][0m Merrick: i dont[0m
+[21:02] [0m[34;1mNooster shouts:[0m NooOOoOOoOooo[0m
+[21:02] [0m[32mVagrant says:[0m noice[0m
+[21:03] [0m[33;1m[PARTY][0m Turak joins the party.[0m
+[21:04] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[21:05] [0m[33;1m[PARTY][0m Roken: power went out[0m
+[21:06] [0m[33;1m[PARTY][0m Vagrant: wb[0m
+[21:06] [0m[33;1m[PARTY][0m Vagrant: refresh roken[0m
+[21:06] [0m[32mVagrant tells you:[0m refresh i think ur the last one[0m
+[21:07] [0m[32mYou say:[0m refreshed[0m
+[21:07] [0m[33;1m[PARTY][0m Merrick: ewelling[0m
+[21:07] [0m[33;1m[PARTY][0m Vagrant: lookslike this is the last one, unles any1 else has[0m
+[21:07] [0m         refresh, thanks for the awesome fun all![0m
+[21:08] [0m[33;1m[PARTY][0m Turak: I can slide another and refresh :p[0m
+[21:08] [0m[33;1m[PARTY][0m Merrick: nog, sorry i died and skeered everyone[0m
+[21:08] [0m[33;1m[PARTY][0m Vagrant: hehehe[0m
+[21:08] [0m[33;1m[PARTY][0m Vagrant: noice so 2 more from turak[0m
+[21:09] [0m[33;1m[PARTY][0m Al: bv u bs foo[0m
+[21:09] [0m[33;1m[PARTY][0m Al: sons putting up one hellova fight for bed tonight[0m
+[21:09] [0m[33;1m[PARTY][0m Vagrant: damn![0m
+[21:10] [0m[33;1m[PARTY][0m Al: ll good i thinkbi got him.  its my angelix voixe.th[0m
+[21:10] [0m[33;1m[PARTY][0m Al: i sound like beyonce nd look like jayz lol[0m
+[21:11] [0m[33;1m[PARTY][0m Merrick: you look like lil wayne and sound like manny fresh[0m
+[21:12] [0m[33;1m[PARTY][0m Al: mich more accurate would be the converze[0m
+[21:13] [0m[33;1m[PARTY][0m Merrick: anyone got a well?[0m
+[21:13] [0m[33;1m[PARTY][0m Stasis: in 8 minutes..[0m
+[21:13] [0m[33;1m[PARTY][0m Merrick: grin[0m
+[21:13] [0m[33;1m[PARTY][0m Merrick: this the last one?[0m
+[21:15] [0m[33;1m[PARTY][0m Roken: almost enough xp for another stat[0m
+[21:15] [0m[33;1m[PARTY][0m Vagrant: noice[0m
+[21:15] [0m[33;1m[PARTY][0m Al: i do have manny freshs belly[0m
+[21:15] [0m[33;1m[PARTY][0m Roken: or ewell[0m
+[21:15] [0m[33;1m[PARTY][0m Vagrant: yeah i think last one[0m
+[21:15] [0m[33;1m[PARTY][0m Merrick: thanks for letting me tank it for ya'll[0m
+[21:15] [0m[33;1m[PARTY][0m Merrick: makes me feel usefull[0m
+[21:15] [0m[33;1m[PARTY][0m Stasis: thanks all[0m
+[21:15] [0m[33;1m[PARTY][0m Vagrant: thx for tanking and eveyrone for coming![0m
+[21:15] [0m[33;1m[PARTY][0m Al: sexytime[0m
+[21:15] [0m[33;1m[PARTY][0m Vagrant: fun times![0m
+[21:15] [0m[33;1m[PARTY][0m Stasis has quit the party.[0m
+[21:15] [0m[33;1m[PARTY][0m Roken: thanks all[0m
+[21:15] [0m[33;1m[PARTY][0m Vagrant has quit the party.[0m
+[21:15] [0m[33;1m[PARTY][0m The leader quit the party![0m
+[21:15] [0m[33;1m[PARTY][0m New leader for the party: turak.[0m
+[21:15] [0m[33;1m[PARTY][0m Roken has quit the party.[0m
+[21:15] [0m[37;1mVagrant flaps :[0m we rocked! thanks for coming out all[0m
+[21:17] [0m[37;1mKitt flaps :[0m ypu talk to your momma like that[0m
+[21:33] [0m[34;1mAkir shouts:[0m hi[0m
+[21:33] [0m[34;1mBrazzin shouts:[0m Sup[0m
+[21:34] [0m[33;1m[Clan] Taleast :[0m 1-800-PINDROP[0m
+[21:34] [0m[33;1m[Clan] Ser :[0m moo[0m
+[21:35] [0m[33;1m[Clan] Taleast :[0m you're not in Crolack country anymore, Ser![0m
+[21:35] [0m[37;1mEli flaps :[0m Event, desert portal 1 North, all East , psi[0m
+[21:35] [0m[37;1mWert flaps :[0m think 2n 3e :P but ive been in here for hours[0m
+[21:35] [0m[37;1mEli flaps :[0m erm... I think those dirs are right, if not it will get you within a room or two[0m
+[21:36] [0m[37;1mGumby flaps :[0m exit west gate, go south then head west a few and you should find it[0m
+[21:36] [0m[33;1m[Clan] Taleast :[0m oh, he went LD...[0m
+[21:37] [0m[33;1m[Clan] Taleast :[0m wrong line[0m
+[21:38] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[21:41] [0m[34;1mDin shouts:[0m siigobume?[0m
+[21:52] [0m[33;1m[Clan] Taleast :[0m WOOT![0m
+[21:56] [0mYour transmuter's stone bursts with 5 new colours![0m
+[22:02] [0m[34;1mShenanigans shouts:[0m oh yeah![0m
+[22:02] [0m[34;1mAsh shouts:[0m thanks![0m
+[22:04] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[22:07] [0m[34;1mShenanigans shouts:[0m Deflected![0m
+[22:14] [0m[34;1mNauda shouts:[0m <3 for the aunt R.[0m
+[22:21] [0m[37;1mNauda flaps :[0m zombie reset[0m
+[22:21] [0m[37;1mVagrant flaps :[0m zammmbiesss[0m
+[22:23] [0m[37;1mNauda flaps :[0m done[0m
+[22:34] [0m[37;1mSquirrel flaps :[0m kitt has og day 3[0m
+[22:35] [0m[37;1mKitt flaps :[0m kitt lies![0m
+[22:35] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[22:50] [0m[37;1mSquirrel flaps :[0m anyone else for day3 tag?[0m
+[22:50] [0m[33;1m[Clan] Taleast :[0m what the hell is a day 3 tag?[0m
+[22:50] [0m[33;1m[Clan] Taleast :[0m nevermind[0m
+[22:50] [0m[33;1m[Clan] Omni :[0m heh go get one :)[0m
+[22:51] [0m[33;1m[Clan] Omni :[0m or if you want I can tank one later[0m
+[22:51] [0m[33;1m[Clan] Taleast :[0m so the CMC is also called a tag?[0m
+[22:51] [0m[33;1m[Clan] Ser :[0m how about a day 4 tag tomorrow?[0m
+[22:51] [0m[33;1m[Clan] Ser :[0m no, to use it you actually have to do damage to it[0m
+[22:51] [0m[33;1m[Clan] Ser :[0m you can't just dupe it and use it, you have to participate in killing it[0m
+[22:51] [0m[33;1m[Clan] Taleast :[0m ahh[0m
+[22:52] [0m[33;1m[Clan] Ser :[0m like string 2.0[0m
+[22:52] [0m[33;1m[Clan] Taleast :[0m honest question, how does string 2.0 differ from string?[0m
+[22:52] [0m[33;1m[Clan] Ser :[0m strung gear retains all AC[0m
+[22:52] [0m[33;1m[Clan] Taleast :[0m oh, I didn't know the original lost that much ac[0m
+[22:52] [0m[33;1m[Clan] Omni :[0m has anyone managed to string2 anything but cmc, and then (all of it!) keep that ac[0m
+[22:52] [0m              after removing the string?[0m
+[22:53] [0m[33;1m[Clan] Taleast :[0m I knew I didn't know everything before I left, now I feel retarded[0m
+[22:53] [0m[33;1m[Clan] Omni :[0m I've tried coon twice, and alien queen skin once, and as soon as I do guac it[0m
+[22:53] [0m              dests the ac anyways[0m
+[22:53] [0m[33;1m[Clan] Nix :[0m yeah that part sucks[0m
+[22:53] [0m[33;1m[Clan] Ser :[0m maybe we can bug frank about it[0m
+[22:53] [0m[33;1m[Clan] Omni :[0m so like, basically it's either buggy, in intended to be only for cmc?[0m
+[22:53] [0m[33;1m[Clan] Omni :[0m s/in/or/[0m
+[22:54] [0m[33;1m[Clan] Omni :[0m i mean it seems super buggy[0m
+[22:54] [0m[33;1m[Clan] Omni :[0m not intended[0m
+[22:54] [0m[33;1m[Clan] Ser :[0m all i know is drinking v8 juice and then immediately brushing my teeth doesn't[0m
+[22:54] [0m             taste great[0m
+[22:54] [0m[33;1m[Clan] Omni :[0m them's the facts[0m
+[22:55] [0m[33;1m[Clan] Taleast :[0m at least you can stand up straight in front of the mirror now[0m
+[22:55] [0m[37;1mSquirrel flaps :[0m come get your day3 tag[0m
+[22:59] [0m[33;1m[Clan] Taleast :[0m it would appear most can after a few hundred days[0m
+[22:59] [0m[33;1m[Clan] Taleast :[0m w/l[0m
+[23:03] [0m[37;1mAgni flaps :[0m i've got this glowing red crystal. any jedi want it?[0m
+[23:03] [0m[37;1mGumby flaps :[0m if it glows for more than 4 hours ... talk to rasta ;-)[0m
+[23:03] [0m[37;1mSquirrel flaps :[0m don't drop that it's yellow cake[0m
+[23:05] [0m[32mWert says:[0m I am going to convert all evil people so they are just like me.[0m
+[23:06] [0m[35;1mAkir [Jedi(45)]:[0m Hi Firebird[0m
+[23:06] [0m[35;1mFirebird [Jedi(38)]:[0m hello[0m
+[23:09] [0m[33;1m[Clan] Toren leaves the game.[0m  [0m
+[23:10] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[23:12] [0m[35;1mWert [Jedi(Knight)]:[0m any of you want a tiny amount of regen from our dumb bad guild artifact?[0m
+[23:16] [0mYour transmuter's stone bursts with 5 new colours![0m
+[23:20] [0m[35;1mKsemia [Jedi(Master)]:[0m eep[0m
+[23:20] [0m[35;1mAl [Jedi(53)]:[0m eek  i ws too slow[0m
+[23:21] [0m[35;1mWert [Jedi(Knight)]:[0m its fine, was testing[0m
+[23:21] [0m[35;1mWert [Jedi(Knight)]:[0m deaths dont matter[0m
+[23:21] [0m[35;1mAl [Jedi(53)]:[0m shld i go there tho[0m
+[23:37] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m

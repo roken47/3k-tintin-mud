@@ -1,0 +1,627 @@
+- = LOG STARTED [00:00] = -
+[00:01] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[00:31] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[01:01] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[01:25] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[01:33] [0m[33;1m[Clan] Martyr :[0m damnit. was on boss[0m
+[01:52] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[11:26] [0mGilgalal [Light(72)]: All-1 yes, all no.[0m
+[11:28] [0mSaim [Light(Elder)]: once your lvl gets a bit higher, you will be able to for sure[0m
+[11:28] [0mGilgalal [Light(72)]: Nah, it was the hit limiter heh.  Soon as I popped one I was a-ok.[0m
+[11:29] [0mSaim [Light(Elder)]: ahhh[0m
+[11:29] [0mGilgalal [Light(72)]: Thats a decade of not playing right there, I remember now killing 1 then[0m
+[11:29] [0m                      dragging rest[0m
+[11:30] [0m[35;1mAdalius [Jedi(WGM)]:[0m If player == Gilgalal hit_limiter--;[0m
+[11:30] [0m[35;1mGilgalal [Jedi(72)]:[0m Bahaha, hush you.[0m
+[11:30] [0m[35;1mSaim [Jedi(Elder)]:[0m that was the real issue[0m
+[11:39] [0mGaidin <Craft>: We never did get a way to turn off auto-stashing, did we?[0m
+[11:39] [0mNauda <Craft>: I don't think so[0m
+[11:41] [0mXiu <Craft>: needs a whitelist/blacklist system[0m
+[11:41] [0mGaidin <Craft>: I'd be happy with just a toggle.[0m
+[11:42] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[11:50] [0m[32;1mFrom afar, you moo at Ser.[0m[0m
+[11:56] [0mYour transmuter's stone bursts with 3 new colours![0m
+[12:00] [0m[32mYou tell Ser:[0m zel bk had 2-3 deaths involved[0m
+[12:03] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[12:05] [0m[34;1mKitt shouts:[0m Its not to the Moon but to the Sky , Zombie[0m
+[12:09] [0m[33;1m[Clan] Martyr :[0m I think Im gonna try tanking Beloch w cranberry sauce[0m
+[12:09] [0m[33;1m[Clan] Martyr :[0m See how it goes heh[0m
+[12:09] [0m[33;1m[Clan] Martyr :[0m Anyone want to hit when I go for it?[0m
+[12:13] [0m[33;1m[Clan] Saim :[0m sure[0m
+[12:13] [0m[33;1m[Clan] Saim :[0m i wont get splatted if it goes bad[0m
+[12:15] [0m[33;1m[Clan] Roken :[0m sure, i can refresh if need be[0m
+[12:17] [0m[33;1m[PARTY][0m Roken joins the party.[0m
+[12:17] [0m[32mNauda says:[0m rally if you want )[0m
+[12:17] [0m[33;1m[PARTY][0m Nauda joins the party.[0m
+[12:17] [0m[33;1m[PARTY][0m Roken: have refresh if needed[0m
+[12:18] [0m[33;1m[PARTY][0m Tony: should be a natural reset in the room once this one dies[0m
+[12:18] [0m[33;1m[PARTY][0m Tony: *if*  :S[0m
+[12:18] [0m[33;1m[PARTY][0m Tony: lolz[0m
+[12:18] [0m[33;1m[PARTY][0m Tony: i have too much health[0m
+[12:18] [0m[33;1m[PARTY][0m Nauda: not really, you damage is unlike other bards tho[0m
+[12:19] [0m[33;1m[PARTY][0m Tony: it is?[0m
+[12:19] [0m[33;1m[PARTY][0m Nauda: you forgot you didn't get tag yesterday on firebat? only[0m
+[12:19] [0m       one who didnt[0m
+[12:19] [0m[33;1m[PARTY][0m Tony: yeah bard code is broken[0m
+[12:20] [0m[33;1m[PARTY][0m Tony: i couldn't do damage b/c mud and nix were doing damage[0m
+[12:22] [0m[33;1m[PARTY][0m Lachlan joins the party.[0m
+[12:22] [0m[33;1m[PARTY][0m Tony: so lachlan tanking the next one?[0m
+[12:23] [0m[33;1m[PARTY][0m Lachlan: bawhahahaaa[0m
+[12:23] [0m[33;1m[PARTY][0m Lachlan: I just died to his blickage yesterday.[0m
+[12:23] [0m[33;1m[PARTY][0m Tony: i get dibs on first potion?  :S[0m
+[12:23] [0m[33;1m[PARTY][0m Tony: hehe[0m
+[12:24] [0m[33;1m[PARTY][0m Roken: want an extra potion tony?[0m
+[12:24] [0m[33;1m[PARTY][0m Tony: extra?[0m
+[12:24] [0m[33;1m[PARTY][0m Tony: i have 0 so far[0m
+[12:24] [0m[33;1m[PARTY][0m Tony: lol[0m
+[12:24] [0m[33;1m[PARTY][0m Roken: i got one, never gunna use it[0m
+[12:24] [0m[33;1m[PARTY][0m Tony: no need fingers?[0m
+[12:24] [0m[33;1m[PARTY][0m Tony: how much?[0m
+[12:24] [0m[33;1m[PARTY][0m Lachlan: I have a refresh and need a pot. but can we swing it?[0m
+[12:24] [0m[33;1m[PARTY][0m Roken: nada[0m
+[12:25] [0m[33;1m[PARTY][0m Lachlan: FREE[0m
+[12:25] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[12:25] [0m[33;1m[PARTY][0m Tony: should be a natural here after this one dies...  (if i[0m
+[12:25] [0m      have enough corpses)[0m
+[12:25] [0m[33;1m[PARTY][0m Inago: Two slide available as well[0m
+[12:25] [0m[33;1m[PARTY][0m Tony hugs whoever gave him that potion.[0m
+[12:25] [0m[33;1m[PARTY][0m Lachlan: Rokken[0m
+[12:26] [0m[33;1m[PARTY][0m Tony: need to sing up prot song[0m
+[12:26] [0m[35;1mBurnaby [Jedi(64)]:[0m yo![0m
+[12:26] [0m[32mLachlan says:[0m my boys are playing this at a fundraiser concert on Monday[0m
+[12:27] [0m[33;1m[PARTY][0m Roken: refresh time[0m
+[12:27] [0m[33;1m[PARTY][0m Tony: no[0m
+[12:27] [0m[33;1m[PARTY][0m Roken: kk[0m
+[12:29] [0m[33;1m[PARTY][0m Lachlan: I just need 1 pot. and a Roh.[0m
+[12:30] [0m[33;1m[PARTY][0m Tony: so either i've got some sick gear, or that like 20 dex i[0m
+[12:30] [0m      put in made a huge differance[0m
+[12:31] [0m[33;1m[PARTY][0m Tony: this used to be more of a challenge, now it seems easy[0m
+[12:31] [0m      almost  hehe[0m
+[12:33] [0m[33;1m[PARTY][0m Hyperion joins the party.[0m
+[12:33] [0m[33;1m[PARTY][0m Tony: hyp u have / use a mask?[0m
+[12:33] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Deserts of Fantasy![0m
+[12:33] [0m                          We are localizing it now - get ready![0m
+[12:33] [0m[33;1m[PARTY][0m Tony: tslide?[0m
+[12:34] [0m[33;1m[PARTY][0m Hyperion: i dont have, nor typically use[0m
+[12:34] [0m[33;1m[PARTY][0m Hyperion: on mage anyway[0m
+[12:34] [0m[33;1m[PARTY][0m Lachlan: who's pot?[0m
+[12:34] [0m[33;1m[PARTY][0m Tony: nog[0m
+[12:34] [0m[33;1m[PARTY][0m Tony: u can take this one lachlan[0m
+[12:34] [0m[33;1m[PARTY][0m Lachlan: ok thanks.[0m
+[12:35] [0m[33;1m[PARTY][0m Tony: hyp you need fingers?[0m
+[12:35] [0m[33;1m[PARTY][0m Hyperion: just one[0m
+[12:35] [0m[33;1m[PARTY][0m Tony: refresh up?[0m
+[12:35] [0m[33;1m[PARTY][0m Hyperion: i have a refreshroom up yeah[0m
+[12:35] [0m[33;1m[PARTY][0m Tony: should have enough corpses for everyone to get fingered[0m
+[12:35] [0m[33;1m[PARTY][0m Hyperion: and ewell[0m
+[12:35] [0m[33;1m[PARTY][0m Tony: prefer not to ewell   (vampire life leach helps a lot)[0m
+[12:36] [0m[33;1m[PARTY][0m Tony: if we can avoid it[0m
+[12:36] [0m[33;1m[PARTY][0m Hyperion: ah nog nog[0m
+[12:36] [0m[33;1m[PARTY][0m Tony: someone have vblade?[0m
+[12:36] [0m[33;1m[PARTY][0m Hyperion: me, ill stow it[0m
+[12:36] [0m[33;1m[PARTY][0m Tony: ty[0m
+[12:37] [0m[33;1m[PARTY][0m Hyperion: want some corpses?[0m
+[12:37] [0m[33;1m[PARTY][0m Tony: not yet[0m
+[12:37] [0m[33;1m[PARTY][0m Lachlan: I have 35 5m golem corpses as well, if you need some.[0m
+[12:37] [0m[33;1m[PARTY][0m Roken: i'll refresh next[0m
+[12:37] [0m[33;1m[PARTY][0m Tony: my bot is confused  lolz[0m
+[12:37] [0m[33;1m[PARTY][0m Inago: I have one more slide to burn[0m
+[12:39] [0m[33;1m[PARTY][0m Tony: refresh?[0m
+[12:39] [0m[33;1m[PARTY][0m Nauda has quit the party.[0m
+[12:39] [0m[33;1m[PARTY][0m Hyperion: should i?[0m
+[12:39] [0m[33;1m[PARTY][0m Tony: whoever[0m
+[12:40] [0m[33;1m[PARTY][0m Lachlan: i have one too[0m
+[12:40] [0m[33;1m[PARTY][0m Roken: sorry working[0m
+[12:40] [0m[33;1m[PARTY][0m Roken: refreshed[0m
+[12:40] [0m[33;1m[PARTY][0m Tony: no probz[0m
+[12:40] [0m[33;1m[PARTY][0m Tony: nauda left us  :([0m
+[12:40] [0m[33;1m[PARTY][0m Tony: hehe[0m
+[12:41] [0m[33;1m[PARTY][0m Tony: finger pot on ground[0m
+[12:41] [0m[33;1m[PARTY][0m Tony: lachlan is fully fingred i think, hyp u need 1 more finger[0m
+[12:41] [0m      pot?[0m
+[12:42] [0m[33;1m[PARTY][0m Lachlan: yep, fully fingered[0m
+[12:43] [0m[33;1m[PARTY][0m Inago: got room for two more, but want to make sure everyone else[0m
+[12:43] [0m       has a turn[0m
+[12:43] [0m[33;1m[PARTY][0m Hyperion: yeah 1 more[0m
+[12:43] [0m[33;1m[PARTY][0m Tony: nod nod, hyp burned refresh u take pot on ground hyp[0m
+[12:43] [0m[33;1m[PARTY][0m Hyperion: no i ddint[0m
+[12:43] [0m[33;1m[PARTY][0m Hyperion: someone else[0m
+[12:43] [0m[33;1m[PARTY][0m Tony: oh[0m
+[12:43] [0m[33;1m[PARTY][0m Tony: lolz[0m
+[12:43] [0m[33;1m[PARTY][0m Lachlan: inago's slide?[0m
+[12:43] [0m[33;1m[PARTY][0m Inago: lach or rokken[0m
+[12:43] [0m[33;1m[PARTY][0m Hyperion: ill refresh next one[0m
+[12:43] [0m[33;1m[PARTY][0m Lachlan: I still have my refresh so mustve been Inago[0m
+[12:44] [0m[33;1m[PARTY][0m Inago: ok then[0m
+[12:44] [0m[33;1m[PARTY][0m Lachlan: or Rokken? Come on people.. fess up.. :P Who's beloch is[0m
+[12:44] [0m         this![0m
+[12:44] [0m[33;1m[PARTY][0m Tony: there might be another beloch waiting to be summoned, so[0m
+[12:44] [0m      wait to refresh[0m
+[12:44] [0m[33;1m[PARTY][0m Inago: this one is rokken's I think[0m
+[12:44] [0m[33;1m[PARTY][0m Hyperion: ok[0m
+[12:44] [0m[33;1m[PARTY][0m Tony: life leach song wearing off  :([0m
+[12:45] [0m[33;1m[PARTY][0m Tony: next one will burn up corpses  hehe[0m
+[12:45] [0m[33;1m[PARTY][0m Hyperion: i could eprot and ewell and tank one if you want[0m
+[12:45] [0m[33;1m[PARTY][0m Tony: lost track of lives[0m
+[12:46] [0m[33;1m[PARTY][0m Tony: i'll just nick some corpses off someone after this one  :D[0m
+[12:46] [0m[33;1m[PARTY][0m Tony: if willing to give corpses?[0m
+[12:46] [0m[33;1m[PARTY][0m Hyperion: sure[0m
+[12:46] [0m[33;1m[PARTY][0m Inago: can have mine[0m
+[12:46] [0m[33;1m[PARTY][0m Tony: hype unwrap 10[0m
+[12:46] [0m[33;1m[PARTY][0m Inago: 16 rimalkins[0m
+[12:47] [0m[33;1m[PARTY][0m Hyperion: anyone have an hmheal?[0m
+[12:47] [0m[33;1m[PARTY][0m Tony: i do[0m
+[12:47] [0m[33;1m[PARTY][0m Inago: yeh[0m
+[12:47] [0m[33;1m[PARTY][0m Tony: need sp?[0m
+[12:47] [0m[33;1m[PARTY][0m Hyperion: hit me?[0m
+[12:47] [0m[33;1m[PARTY][0m Hyperion: yeah[0m
+[12:48] [0m[33;1m[PARTY][0m Hyperion: thx[0m
+[12:48] [0m[33;1m[PARTY][0m Tony: redaxe ftw[0m
+[12:48] [0m[33;1m[PARTY][0m Tony: lol[0m
+[12:48] [0m[33;1m[PARTY][0m Tony: or anal donut[0m
+[12:48] [0m[33;1m[PARTY][0m Hyperion: nog its amazeballs[0m
+[12:48] [0m[33;1m[PARTY][0m Tony: hehe[0m
+[12:48] [0m[32mTony says:[0m die fucker[0m
+[12:48] [0m[32mTony says:[0m geez[0m
+[12:52] [0m[33;1m[PARTY][0m Roken: out of refreshes?[0m
+[12:52] [0m[33;1m[PARTY][0m Tony: alright, refresh? or t-slide[0m
+[12:52] [0m[33;1m[PARTY][0m Inago: sliding[0m
+[12:52] [0m[33;1m[PARTY][0m Tony: need to sing up prot song quick[0m
+[12:53] [0m[32mLachlan says:[0m want me to refresh?[0m
+[12:56] [0m[32mTony says:[0m pquit ric?[0m
+[12:56] [0m[33;1m[PARTY][0m Rictor joins the party.[0m
+[12:56] [0m[33;1m[PARTY][0m Tony: hi[0m
+[12:56] [0m[33;1m[PARTY][0m Rictor: -=[ MegaMonk ]=- Hey[0m
+[12:56] [0m[33;1m[PARTY][0m Roken: hi[0m
+[12:56] [0m[33;1m[PARTY][0m Rictor: -=[ MegaMonk ]=- HEy Roken[0m
+[12:56] [0mYour transmuter's stone bursts with 5 new colours![0m
+[12:56] [0m[33;1m[PARTY][0m Tony: ric adds damage  hehe[0m
+[12:56] [0m[33;1m[PARTY][0m Tony: so lachlan and hyp fully fingred?[0m
+[12:57] [0m[33;1m[PARTY][0m Tony: or did i miss hyp[0m
+[12:57] [0m[33;1m[PARTY][0m Tony: :([0m
+[12:57] [0m[33;1m[PARTY][0m Rictor: -=[ MegaMonk ]=- I finger Hyperion all the time[0m
+[12:57] [0m[33;1m[PARTY][0m Rictor: -=[ MegaMonk ]=- Oh wait, what?[0m
+[12:57] [0m[33;1m[PARTY][0m Tony: lol[0m
+[12:57] [0m[33;1m[PARTY][0m Tony: i mighta stole hyps potion[0m
+[12:57] [0m[33;1m[PARTY][0m Rictor: -=[ MegaMonk ]=- I got a refresh ya'll can have the potion[0m
+[12:58] [0m[33;1m[PARTY][0m Tony: hype need finger?[0m
+[12:58] [0m[33;1m[PARTY][0m Tony: refresh?[0m
+[12:58] [0m[33;1m[PARTY][0m Hyperion: yup 1[0m
+[12:58] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[12:59] [0m[32mLachlan says:[0m refreshed[0m
+[12:59] [0m[33;1m[PARTY][0m Tony: inago's finger[0m
+[13:04] [0m[33;1m[PARTY][0m Inago: Slides will be reset by the time we finish this one. Don't[0m
+[13:04] [0m       know if the room will have reset by then though[0m
+[13:04] [0m[33;1m[PARTY][0m Tony: 'timeslide query'[0m
+[13:04] [0m[33;1m[PARTY][0m Inago: Looks like it reset since my first slide so I can slide it[0m
+[13:04] [0m       once more[0m
+[13:05] [0m[33;1m[PARTY][0m Tony: sweet[0m
+[13:05] [0m[33;1m[PARTY][0m Tony: 1 more slide and we're all fully fingered[0m
+[13:05] [0m[33;1m[PARTY][0m Tony: we'll use e-well[0m
+[13:05] [0m[33;1m[PARTY][0m Tony: on next one[0m
+[13:05] [0m[33;1m[PARTY][0m Tony: i think we're on last life of this one[0m
+[13:05] [0m[33;1m[PARTY][0m Tony: can't remember[0m
+[13:05] [0m[33;1m[PARTY][0m Tony: lol[0m
+[13:06] [0m[33;1m[PARTY][0m Tony: fuck it[0m
+[13:06] [0m[33;1m[PARTY][0m Tony: laf[0m
+[13:07] [0m[33;1m[PARTY][0m Tony: hype still has ewell  :D[0m
+[13:07] [0m[33;1m[PARTY][0m Hyperion: want it?[0m
+[13:07] [0m[33;1m[PARTY][0m Tony: next one  :D[0m
+[13:07] [0m[33;1m[PARTY][0m Tony: no, i used mine[0m
+[13:07] [0m[33;1m[PARTY][0m Hyperion: ok[0m
+[13:08] [0m[33;1m[PARTY][0m Tony: t-slide[0m
+[13:08] [0m[33;1m[PARTY][0m Tony: lachlan stole it[0m
+[13:08] [0m[33;1m[PARTY][0m Tony: thief[0m
+[13:09] [0m[33;1m[PARTY][0m Lachlan: wait, what>[0m
+[13:09] [0m[33;1m[PARTY][0m Tony: u stole potion[0m
+[13:09] [0m[33;1m[PARTY][0m Tony: ah[0m
+[13:09] [0m[33;1m[PARTY][0m Tony: take inago[0m
+[13:09] [0m[33;1m[PARTY][0m Tony: ewell plz[0m
+[13:09] [0m[33;1m[PARTY][0m Hyperion: me?[0m
+[13:09] [0m[33;1m[PARTY][0m Tony: whoever[0m
+[13:09] [0m[33;1m[PARTY][0m Hyperion: dne[0m
+[13:09] [0m[33;1m[PARTY][0m Hyperion: done[0m
+[13:09] [0m[33;1m[PARTY][0m Tony: yes hyp   :D[0m
+[13:09] [0m[33;1m[PARTY][0m Tony: ty[0m
+[13:09] [0m[33;1m[PARTY][0m Lachlan: I dont have[0m
+[13:09] [0m[33;1m[PARTY][0m Lachlan: corpses?[0m
+[13:09] [0m[33;1m[PARTY][0m Tony: faster this way[0m
+[13:09] [0m[33;1m[PARTY][0m Tony: lol[0m
+[13:09] [0m[33;1m[PARTY][0m Tony: i got enough[0m
+[13:10] [0m[33;1m[PARTY][0m Tony: this is last one[0m
+[13:10] [0m[33;1m[PARTY][0m Tony: ty to everyone!![0m
+[13:10] [0m[33;1m[PARTY][0m Tony: ya'll friggin rock out[0m
+[13:10] [0m[33;1m[PARTY][0m Lachlan: great party. Now... who's up to tank Qoh?[0m
+[13:10] [0m[33;1m[PARTY][0m Tony: tapped out[0m
+[13:10] [0m[33;1m[PARTY][0m Tony: lolz[0m
+[13:10] [0m[33;1m[PARTY][0m Tony: hehe[0m
+[13:10] [0m[33;1m[PARTY][0m Lachlan: heh, needs me a Roh. I'll check boxes[0m
+[13:11] [0m[33;1m[PARTY][0m Tony: i'm missing like 2 roh yet  :([0m
+[13:11] [0m[33;1m[PARTY][0m Tony: oh wellz[0m
+[13:11] [0m[33;1m[PARTY][0m Tony: hehe[0m
+[13:11] [0m[33;1m[PARTY][0m Tony: i'll get em later[0m
+[13:12] [0m[33;1m[PARTY][0m Tony: don't forget, to get back your mask or vblade after we[0m
+[13:12] [0m      depart  (unhide them or whatever you need to do)[0m
+[13:12] [0m[33;1m[PARTY][0m Hyperion: oh thanks[0m
+[13:13] [0m[33;1m[PARTY][0m Tony: everyone's full of fingers right?[0m
+[13:13] [0m[33;1m[PARTY][0m Inago: I'm good[0m
+[13:13] [0m[33;1m[PARTY][0m Tony: ty everyone!![0m
+[13:13] [0m[33;1m[PARTY][0m Hyperion: thanks guys[0m
+[13:13] [0m[33;1m[PARTY][0m Inago: thanks all[0m
+[13:13] [0m[33;1m[PARTY][0m Hyperion has quit the party.[0m
+[13:14] [0m[33;1m[PARTY][0m Inago has quit the party.[0m
+[13:14] [0m[33;1m[PARTY][0m Rictor has quit the party.[0m
+[13:14] [0m[32mTony says:[0m Begining BoonBot 2.1[0m
+[13:14] [0m[33;1m[PARTY][0m Lachlan has quit the party.[0m
+[13:15] [0m[32mInquisitor says:[0m I'm just here for the "little" guy.[0m
+[13:16] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Aw sonofa...  Those damned marsh goblins got me.[0m
+[13:17] [0m[33;1m[PARTY][0m Roken has quit the party.[0m
+[13:20] [0m[35;1mInquisitor [Jedi(Knight)]:[0m I had my reflex for 20HP below max to fight the taco.  The taco is[0m
+[13:20] [0m                           3.2M.  It's going to hit me harder than 20.[0m
+[13:20] [0m[35;1mChaed [Jedi(AGM)]:[0m yes it will[0m
+[13:21] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Doesn't help that I forgot to turn dissipate on.  *snicker* [0m
+[13:21] [0m                           Sometimes I'm not the brightest lightsaber in the pile.[0m
+[13:21] [0m[35;1mChaed [Jedi(AGM)]:[0m the hardest lessons are the most enduring ones[0m
+[13:26] [0mSer flaps : who won lottery[0m
+[13:26] [0mSaim flaps : inago[0m
+[13:27] [0mXiu flaps : yeah i heard he cheated tho. probably with hacking.[0m
+[13:28] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[13:30] [0mInago flaps : I botted lottery buy :P[0m
+[13:30] [0mLachlan flaps : Yeah, I heard my name was drawn in actuality, so Im expecting my winnings soon[0m
+[13:31] [0mInquisitor <Craft>: Another blacksmithing tome (level 1) @ Timmy[0m
+[13:32] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Back later.  Gotta go buy stuff to cook with tomorrow.[0m
+[13:38] [0m[35;1mSaim [Jedi(Elder)]:[0m try Food n Stuff they have great deals[0m
+[13:43] [0m[34;1mSpun shouts:[0m oot[0m
+[13:43] [0m[34;1mNauda shouts:[0m That's mental[0m
+[13:56] [0mYour transmuter's stone bursts with 4 new colours![0m
+[13:57] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[14:04] [0m[33;1m[Clan] Cambiador enters the game.[0m  [0m
+[14:05] [0m[33;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[14:06] [0m[33;1m[Clan] Byron :[0m Hey[0m
+[14:07] [0m[33;1m[Clan] Byron :[0m How have you been?[0m
+[14:07] [0m[33;1m[Clan] Cambiador :[0m Hola[0m
+[14:07] [0m[33;1m[Clan] Cambiador :[0m All good.  You?[0m
+[14:08] [0m[33;1m[Clan] Saim :[0m heyo[0m
+[14:09] [0m[32mSer tells you:[0m zell hits like 3x harder than his sizr[0m
+[14:11] [0m[33;1m[Clan] Byron :[0m Pretty good.  How was Thanksgiving?[0m
+[14:11] [0m[33;1m[Clan] Cambiador :[0m Not too bad.  A little family drama, but nothing major.[0m
+[14:13] [0m[33;1m[Clan] Cambiador :[0m Hope your Thanksgivings were good.[0m
+[14:15] [0m[33;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[14:18] [0m[32;1mFrom afar, you nod to Ser.[0m[0m
+[14:21] [0m[33;1m[Clan] Byron :[0m so, did I get dested or die?[0m
+[14:21] [0m[33;1m[Clan] Byron :[0m cause my while loop just went fucking insane[0m
+[14:22] [0m[33;1m[Clan] Cambiador :[0m Looks like you died.[0m
+[14:22] [0m[33;1m[Clan] Cambiador :[0m You see the Grim Reaper drift over to the corpse of Byron.  The dark wraith[0m
+[14:22] [0m                   expresses gratitude to Refugee for providing it with the bard's soul.[0m
+[14:24] [0m[33;1m[Clan] Byron :[0m nog[0m
+[14:24] [0m[33;1m[Clan] Byron :[0m ty[0m
+[14:24] [0m[33;1m[Clan] Byron :[0m That wasn't fun.  Set the server at 100% CPU[0m
+[14:24] [0m[33;1m[Clan] Cambiador :[0m Whoopsie[0m
+[14:25] [0m[33;1m[Clan] Byron :[0m Yep[0m
+[14:31] [0m[32mYou tell Ser:[0m dun dun scaler 110 boss incoming[0m
+[14:31] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[14:39] [0m[33;1m[Clan] Cambiador :[0m :([0m
+[14:43] [0m[33;1m[Clan] Roken :[0m ah 20.5m er almost 80% dmg until I died[0m
+[14:55] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[14:58] [0mYour transmuter's stone bursts with 3 new colours![0m
+[15:26] [0m[33;1m[Clan] Byron :[0m refreshing boss room in event does nothing[0m
+[15:27] [0m[33;1m[Clan] Byron :[0m unload room doesnt work[0m
+[15:27] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[15:27] [0m[33;1m[Clan] Byron :[0m fyi[0m
+[15:27] [0m[33;1m[Clan] Wik :[0m aww[0m
+[15:27] [0m[33;1m[Clan] Byron :[0m agreed[0m
+[15:27] [0m[33;1m[Clan] Byron :[0m Ok, now to see if Beloch blicks martyr[0m
+[15:27] [0m[33;1m[Clan] Byron :[0m (probably) :P[0m
+[15:29] [0m[33;1m[Clan] Martyr :[0m No blick, but he knocked me to 400hps[0m
+[15:30] [0m[33;1m[Clan] Martyr :[0m I'm surprised[0m
+[15:31] [0m[33;1m[Clan] Martyr :[0m Ok, now w/ cranberry sauce[0m
+[15:31] [0m[33;1m[Clan] Martyr :[0m ouch again[0m
+[15:32] [0m[33;1m[Clan] Martyr :[0m holy shit, I just did like 20 rounds[0m
+[15:32] [0m[33;1m[Clan] Martyr :[0m w/ cranberry[0m
+[15:33] [0m[33;1m[Clan] Martyr :[0m Would anyone be able to rally Byron into a party w/ me?[0m
+[15:33] [0m[33;1m[Clan] Martyr :[0m Going to steal his zombies, see if I can run it w/ cranberry sauce[0m
+[15:34] [0m[33;1m[Clan] Martyr :[0m damn bots[0m
+[15:47] [0mKitt gshouts: Got MOO? Got MOO? Got Moo?[0m
+[15:47] [0m[33;1m[Clan] Martyr :[0m ouchhhhh 50mil debt now[0m
+[15:48] [0mNauda gshouts: Master of Orion, best game[0m
+[15:48] [0mInago gshouts: MoO2[0m
+[15:48] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[15:58] [0mYour transmuter's stone bursts with 5 new colours![0m
+[15:59] [0m[34;1mBlubber shouts:[0m I'm a little teabot short and stout. This is my trigger; this is my script.[0m
+[16:03] [0mBlubber flaps : Is Godzilla a documentary?[0m
+[16:03] [0mBlubber flaps : I'm never leaving the house again[0m
+[16:04] [0mBlubber flaps : Mothra![0m
+[16:16] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[16:17] [0m[35;1mChaed [Jedi(AGM)]:[0m doh[0m
+[16:18] [0m[35;1mBlubber [Jedi(31)]:[0m That's how you learn[0m
+[16:18] [0m[35;1mLicklick [Jedi(47)]:[0m i dont learn from dying[0m
+[16:18] [0m[35;1mBlubber [Jedi(31)]:[0m lol[0m
+[16:19] [0m[35;1mBlubber [Jedi(31)]:[0m and that death was with 50% wimpy[0m
+[16:32] [0m[33;1m[Clan] Roken :[0m day 5 cmc happening tonight? 21/20,00 e/ct?[0m
+[16:33] [0m[33;1m[Clan] Mud :[0m probably, even if it isnt clannies, it will go down[0m
+[16:34] [0m[33;1m[Clan] Mud :[0m lil under 4 hours[0m
+[16:34] [0m[33;1m[Clan] Roken :[0m doh my mud setmod is set to central.[0m
+[16:36] [0m[33;1m[Clan] Mud :[0m the best timezone[0m
+[16:37] [0m[33;1m[Clan] Mud :[0m thought roken was in MN?[0m
+[16:37] [0m[33;1m[Clan] Mud :[0m the Ser'ver is set to Eastern, if you use his[0m
+[16:38] [0m[35;1mLicklick [Jedi(47)]:[0m hyuga so your at mastery 20 but 10 guide[0m
+[16:38] [0m[33;1m[Clan] Nix :[0m i can probably be around to kill[0m
+[16:38] [0m[33;1m[Clan] Nix :[0m been on dad-duty lately, wife's still recovering from c-section so it's all on me[0m
+[16:38] [0m             for a few days =P[0m
+[16:39] [0m[33;1m[Clan] Roken :[0m i look at uptime2 to see the day... setmod changed that to central otherwise[0m
+[16:39] [0m               timestamps in chatlog are annoyingly set eastern[0m
+[16:40] [0m[35;1mBlubber [Jedi(31)]:[0m quanchi cape town, south africa[0m
+[16:40] [0m[33;1m[Clan] Martyr :[0m your nipples must be killing you Nix[0m
+[16:40] [0m[35;1mBlubber [Jedi(31)]:[0m guess[0m
+[16:40] [0m[33;1m[Clan] Nix :[0m when my kids old enough im going to make sure she kicks you square in the balls[0m
+[16:40] [0m[35;1mLicklick [Jedi(47)]:[0m guess what[0m
+[16:41] [0m[33;1m[Clan] Martyr :[0m laf[0m
+[16:42] [0m[33;1m[Clan] Roken :[0m @nix I'm sorry, I hope it wasn't a close call. ALmost lost a friend and "niece".[0m
+[16:42] [0m               Emergency c-section, she's recovered 90% after 5 months.[0m
+[16:43] [0m[33;1m[Clan] Nix :[0m thanks roken, she had a complication on the operating table, but the doctors were[0m
+[16:43] [0m             great and caught it right away and fixed her up... no longstanding issues thank god[0m
+[16:44] [0m[33;1m[Clan] Roken :[0m whew, now she's cooler with her battle scar[0m
+[16:45] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[16:57] [0m[32;1mFrom afar, you go 'Woo Woo!' at Zokko.[0m[0m
+[16:57] [0m[34;1mZor shouts:[0m woo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![0m
+[16:58] [0mYour transmuter's stone bursts with 3 new colours![0m
+[17:00] [0m[33;1m[Clan] Ser :[0m hi[0m
+[17:00] [0m[33;1m[Clan] Ser :[0m ~3 hrs to firebat?[0m
+[17:01] [0m[33;1m[Clan] Mud :[0m 3 hour 18ish min[0m
+[17:01] [0m[33;1m[Clan] Ser :[0m nod[0m
+[17:01] [0m[33;1m[Clan] Mud :[0m i should be around[0m
+[17:01] [0m[33;1m[Clan] Ser :[0m first bunker[0m
+[17:01] [0m[33;1m[Clan] Mud :[0m hopefully nix done breastfeeding by then[0m
+[17:01] [0mRoken <Craft>: dropped some legendaries @ cbox[0m
+[17:01] [0m[33;1m[Clan] Martyr :[0m 1.6bil to Dupe 4[0m
+[17:01] [0m[33;1m[Clan] Martyr :[0m wheee[0m
+[17:01] [0m[33;1m[Clan] Ser :[0m scaler 144 since ~the start of the event, so it's lasted a good while[0m
+[17:02] [0m[33;1m[Clan] Ser :[0m 148bil tnl[0m
+[17:02] [0m[33;1m[Clan] Martyr :[0m laf, 4+ hrs?[0m
+[17:02] [0m[33;1m[Clan] Ser :[0m yup[0m
+[17:02] [0m[32;1mFrom afar, Zokko thanks you.[0m[0m
+[17:02] [0m[33;1m[Clan] Ser :[0m pulling a steady ~170mil/half[0m
+[17:11] [0msRPDFd  Wm:g Wc: 21% Gx: 71.43% Fx: 34.11%[0m
+[17:12] [0m[34;1mSer shouts:[0m Character Crloack does not exist @ this realm (3k).[0m
+[17:12] [0m[34;1mNauda shouts:[0m quck make it and sell it[0m
+[17:13] [0m[33;1m[Clan] Martyr :[0m Pulling 160mil/hr atm[0m
+[17:14] [0m[33;1m[Clan] Cambiador :[0m Nice[0m
+[17:17] [0m[33;1m[Clan] Nix :[0m oo archi back![0m
+[17:17] [0m[33;1m[Clan] Nix :[0m vacation?[0m
+[17:18] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[17:26] [0m[33;1m[Clan] Martyr :[0m Wonder when I'll be able to do this w/o cranberry sauce[0m
+[17:26] [0m[33;1m[Clan] Martyr :[0m or guac[0m
+[17:27] [0m[33;1m[Clan] Ser :[0m only doing 2nd bunker boss now[0m
+[17:40] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[17:46] [0m[34;1mCambiador shouts:[0m Woo!![0m
+[17:46] [0m[34;1mZor shouts:[0m woo!!!!!!!!!!!!!!!!!!!![0m
+[17:46] [0m[34;1mByron shouts:[0m woo3[0m
+[17:57] [0m[34;1mKitt shouts:[0m Dont Bot, or youl be next![0m
+[17:58] [0m[33;1m[Clan] Martyr :[0m Damnit...no more cranberry sauce[0m
+[17:58] [0mYour transmuter's stone bursts with 4 new colours![0m
+[18:15] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[18:35] [0m[34;1mWik shouts:[0m you call yourself a cultist?![0m
+[18:35] [0m[34;1mWhoknows shouts:[0m You ain't no cultist![0m
+[18:37] [0mnewb Botzilla [adventurer/5]: happy friday![0m
+[18:37] [0mnewb Eoin [priest/84]: always, you too![0m
+[18:37] [0mnewb Nightrider [knight/136]: Put yo Name to the test! Go Forth and Botz[0m
+[18:38] [0mnewb Turnhold [Wizard]: Please do:)[0m
+[18:38] [0mnewb Botzilla [adventurer/5]: i got those rabbits and ants in newbie land fully botted down![0m
+[18:39] [0mnewb Botzilla [adventurer/5]: i have been coded to be a flap bot[0m
+[18:39] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[18:40] [0m[34;1mNightrider shouts:[0m This is the Way![0m
+[18:41] [0mnewb Botzilla [adventurer/5]: anyone re-watched Game of Thrones yet? ending was weak, but gotta[0m
+[18:41] [0m                              remember the positive, before season 8, it was a boss series.[0m
+[18:42] [0mnewb Baramore [monk/104]: Boobs.[0m
+[18:47] [0mnewb Botzilla [adventurer/5]: saturday night: who you got? Joshua or Ruiz??[0m
+[18:48] [0mnewb Kitt [priest/133]: Just Botz, Only Botz[0m
+[18:49] [0mnewb Maggot [changeling/35]: this is a noob advice line, flap on the flap line please.[0m
+[18:50] [0mnewb Kitt [priest/133]: im giving advice[0m
+[18:50] [0mnewb Kitt [priest/133]: one who is called maggot[0m
+[18:51] [0mnewb Botzilla [adventurer/5]: maggots don't like conversation =) they only care about the[0m
+[18:51] [0m                              sanctity of the newb line i guess[0m
+[18:51] [0mBotzilla flaps : yo[0m
+[18:51] [0mBotzilla flaps : botzilla(tm)[0m
+[18:58] [0mYour transmuter's stone bursts with 2 new colours![0m
+[19:07] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[19:28] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[19:30] [0m[34;1mWhoknows shouts:[0m danke :D[0m
+[19:30] [0m[34;1mZor shouts:[0m I don't know! lol[0m
+[19:31] [0m[34;1mSky shouts:[0m i cant congradulate you on that level... sorry...[0m
+[19:31] [0m[34;1mAl shouts:[0m i know[0m
+[19:58] [0mYour transmuter's stone bursts with 5 new colours![0m
+[20:02] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[20:12] [0m[34;1mOreo shouts:[0m ah sauk it up[0m
+[20:12] [0mcart saying "You must purify your mind and body before attempting this[0m
+[20:13] [0m[34;1mMental shouts:[0m who bots sauk anyway[0m
+[20:13] [0m[34;1mMental shouts:[0m 'you sauk'[0m
+[20:13] [0m[34;1mOreo shouts:[0m lets give some pain and pleasure[0m
+[20:14] [0m[33;1m[Clan] Nix :[0m firebat 4 minutes[0m
+[20:14] [0m[33;1m[Clan] Nix :[0m be here or gtfo[0m
+[20:15] [0m[33;1m[Clan] Roken :[0m crypt?[0m
+[20:15] [0m[33;1m[Clan] Nix :[0m negative[0m
+[20:15] [0m[33;1m[Clan] Nix :[0m i just walked here[0m
+[20:15] [0m[33;1m[Clan] Roken :[0m someone take me pls[0m
+[20:15] [0m[33;1m[Clan] Cambiador :[0m Which firebat?[0m
+[20:15] [0m[33;1m[Clan] Nix :[0m day 6[0m
+[20:15] [0m[33;1m[Clan] Nix :[0m err 5[0m
+[20:15] [0m[33;1m[Clan] Cambiador :[0m Ahh[0m
+[20:15] [0m[33;1m[Clan] Cambiador :[0m Ohh[0m
+[20:15] [0m[33;1m[Clan] Cambiador :[0m Want a hand?[0m
+[20:16] [0m[33;1m[Clan] Nix :[0m sure[0m
+[20:16] [0m[33;1m[Clan] Cambiador :[0m brt[0m
+[20:17] [0m[32mYou tell Ser:[0m pls take me to firebat[0m
+[20:18] [0m[33;1m[Clan] Nix :[0m ok last call, one and done tonight[0m
+[20:18] [0mWhoknows {Professions}: boggling, professions are received at various intervals... yet they're[0m
+[20:18] [0m                        somehow converging to be roughly same lvls[0m
+[20:18] [0m[33;1m[Clan] Roken :[0m idk the dir[0m
+[20:20] [0m[33;1m[Clan] Nix :[0m e,e,n,n,w,w,w,n,n,n,w,w,n,w[0m
+[20:20] [0m[33;1m[Clan] Nix :[0m from entrance[0m
+[20:21] [0m[33;1m[Clan] Roken :[0m which hub?[0m
+[20:21] [0m[33;1m[Clan] Nix :[0m 4w,d,d,w,enter shuttle from the shuttle exit[0m
+[20:23] [0m[33;1m[Clan] Nix :[0m you coming?[0m
+[20:23] [0m[33;1m[Clan] Martyr :[0m you start?[0m
+[20:23] [0m[33;1m[Clan] Nix :[0m starting now[0m
+[20:23] [0m[33;1m[Clan] Martyr :[0m brt[0m
+[20:24] [0m[33;1m[Clan] Martyr :[0m ah fuck that party is too big[0m
+[20:24] [0m[33;1m[Clan] Martyr :[0m no way i'll get tag[0m
+[20:24] [0m[33;1m[Clan] Nix :[0m roken?[0m
+[20:24] [0m[33;1m[Clan] Martyr :[0m i'm omw[0m
+[20:24] [0m[32mYou tell Nix:[0m no lost[0m
+[20:24] [0m[32mNix tells you:[0m sci,enter,up,up, enter shuttle[0m
+[20:25] [0m[32mNix tells you:[0m 4w,d,d,w, then the dirs i gave you[0m
+[20:27] [0m[33;1m[Clan] Nix :[0m where the hell are you[0m
+[20:27] [0m[33;1m[Clan] Martyr :[0m port him[0m
+[20:27] [0m[33;1m[Clan] Martyr :[0m ah damnit[0m
+[20:27] [0m[33;1m[Clan] Nix :[0m stay still[0m
+[20:27] [0m[32mYou tell Nix:[0m at midways central core[0m
+[20:27] [0m[33;1m[Clan] Nix :[0m going to port you[0m
+[20:27] [0m[32mSpace tells you:[0m porting you[0m
+[20:27] [0m[32mSpace tells you:[0m ready?[0m
+[20:27] [0m[32mYou tell Space:[0m ya im still[0m
+[20:27] [0m[32mSpace tells you:[0m pull rope[0m
+[20:28] [0m[33;1m[Clan] Nix :[0m pull rope![0m
+[20:28] [0m[32mSpace tells you:[0m You have been ported courtesy of the Necromancer Guild[0m
+[20:29] [0m[32mYou say:[0m is this for the OG day5?[0m
+[20:29] [0m[32mNix says:[0m yes[0m
+[20:30] [0m[33;1m[Clan] Martyr :[0m yeah, no tag[0m
+[20:30] [0m[33;1m[Clan] Martyr :[0m oh well[0m
+[20:31] [0m[33;1m[Clan] Roken :[0m ??? sounds rare. Is it?[0m
+[20:31] [0m[33;1m[Clan] Nix :[0m once a day and it gets better every day[0m
+[20:31] [0m[33;1m[Clan] Roken :[0m ok. So I have a day 4 and day 5 tag?[0m
+[20:32] [0m[33;1m[Clan] Martyr :[0m I might have tag from last boot[0m
+[20:32] [0m[33;1m[Clan] Nix :[0m if you kill day5 and get tag you get em all[0m
+[20:32] [0m[33;1m[Clan] Martyr :[0m Errr that was the shitty 4 day wasn't it[0m
+[20:32] [0m[33;1m[Clan] Nix :[0m except 6 and 7[0m
+[20:32] [0m[33;1m[Clan] Nix :[0m no that was 5[0m
+[20:32] [0m[34;1mKitt shouts:[0m Get Rekted![0m
+[20:32] [0m[34;1mOreo shouts:[0m there is your stinking firebat[0m
+[20:33] [0m[33;1m[Clan] Roken :[0m that was a quick reset[0m
+[20:33] [0m[33;1m[Clan] Roken :[0m jus sitting in his room[0m
+[20:33] [0m[34;1mKitt shouts:[0m Ftouch at s[0m
+[20:33] [0m[34;1mRoken shouts:[0m death port haha[0m
+[20:33] [0mKitt flaps :  Ftouch at ss[0m
+[20:34] [0m[33;1m[Clan] Roken :[0m who got og?[0m
+[20:34] [0m[34;1mBabylon shouts:[0m w != enter crypt :D[0m
+[20:35] [0m[33;1m[Clan] Nix :[0m space[0m
+[20:35] [0m[34;1mOreo shouts:[0m im getting touched[0m
+[20:35] [0m[32mYou tell Space:[0m may I gravel at your feet for OG cmc?[0m
+[20:36] [0m[32mSpace tells you:[0m come to ss[0m
+[20:37] [0m[32mYou say:[0m ah!! 3 cmc[0m
+[20:37] [0m[32mYou say:[0m i duped one[0m
+[20:37] [0m[34;1mSpace shouts:[0m FREE cmc's at ss CMC-660 Heavy Combat Suit -(God-Like)- {3}.[0m
+[20:38] [0m[32mKirrin says:[0m yeah, waiting to figure out where the real one is :p[0m
+[20:38] [0m[32mBabylon says:[0m mine was on bottom but who the fuck knows now lol[0m
+[20:38] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[20:39] [0m[32mKirrin says:[0m this is a copy[0m
+[20:39] [0m[32mKirrin says:[0m I think roken just picked up the real one[0m
+[20:39] [0m[32mKitt says:[0m you all suck[0m
+[20:39] [0m[32mYou say:[0m lol[0m
+[20:40] [0m[32mKirrin says:[0m yeah, the one I just dropped is the real one[0m
+[20:40] [0m[32mYou say:[0m outta be an OG sign[0m
+[20:40] [0m[32mKirrin says:[0m the one on top 'should' be the real one[0m
+[20:40] [0m[32mYou say:[0m  top be cmc 2?[0m
+[20:40] [0m[32mKirrin says:[0m 1[0m
+[20:40] [0m[32mKirrin says:[0m 2 should be a dupe[0m
+[20:42] [0m[32mMartyr says:[0m that one of these free cmc's?[0m
+[20:43] [0m[32mStasis says:[0m it's the real on for duping[0m
+[20:43] [0m[32mYou say:[0m no should be og[0m
+[20:43] [0m[32mKirrin says:[0m yep, real one[0m
+[20:43] [0m[33;1m[Clan] Ser :[0m fuck i need tag[0m
+[20:43] [0m[32mStasis says:[0m what a drama laf[0m
+[20:43] [0m[33;1m[Clan] Martyr :[0m <---same[0m
+[20:43] [0m[32mKirrin says:[0m indeed[0m
+[20:43] [0m[33;1m[Clan] Martyr :[0m Too much dmg in that last party for me[0m
+[20:43] [0m[33;1m[Clan] Martyr :[0m I got day4[0m
+[20:43] [0m[33;1m[Clan] Martyr :[0m but forget who has the main[0m
+[20:43] [0m[32mKirrin says:[0m now to go in search of an ftouch since it ran away[0m
+[20:44] [0m[33;1m[Clan] Ser :[0m well do we have a tank[0m
+[20:44] [0m[33;1m[Clan] Ser :[0m nix plz[0m
+[20:44] [0m[33;1m[Clan] Martyr :[0m <--- Tank[0m
+[20:44] [0m[33;1m[Clan] Ser :[0m o k[0m
+[20:44] [0m[33;1m[Clan] Martyr :[0m <--- pew pew[0m
+[20:45] [0m[33;1m[Clan] Martyr :[0m I could tank it on bron bron[0m
+[20:45] [0m[32;1mFrom afar, you eek at A ghostly form of Ser.[0m[0m
+[20:46] [0m[33;1m[Clan] Ser :[0m didn't even get my adapt body off[0m
+[20:46] [0m[33;1m[Clan] Roken :[0m can ya believe i lasted 2 rounds?[0m
+[20:47] [0m[33;1m[Clan] Roken :[0m ringo starr is still my arch[0m
+[20:48] [0m[33;1m[Clan] Roken :[0m idk what adapt body is so im babbling[0m
+[20:49] [0m[33;1m[Clan] Ser :[0m ok can we do this[0m
+[20:50] [0m[33;1m[Clan] Ser :[0m i can't do enough damage solo[0m
+[20:51] [0m[33;1m[Clan] Ser :[0m if i had guac this would be a cakewalk[0m
+[20:53] [0mnewb Vara [Newbie]: is this datapad permanent?[0m
+[20:59] [0mYour transmuter's stone bursts with 5 new colours![0m
+[21:04] [0mKitt flaps : need help with firebat, who wants to deal dmg?[0m
+[21:05] [0m[33;1m[Clan] Martyr :[0m You need a tank or dmg?[0m
+[21:05] [0mnewb Vara [adventurer/5]: where is the jumpstart machine?[0m
+[21:05] [0m[33;1m[Clan] Ser :[0m if i get a guac wouldnt need tank[0m
+[21:07] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[21:07] [0m[33;1m[Clan] Ser :[0m got a guac[0m
+[21:07] [0m[33;1m[Clan] Ser :[0m killing taco[0m
+[21:07] [0m[33;1m[Clan] Martyr :[0m woo[0m
+[21:09] [0mnewb Whoknows [priest/118]: west of CoT[0m
+[21:09] [0m[33;1m[Clan] Ser :[0m i figured out a way to kill tacos faster...[0m
+[21:09] [0m[33;1m[Clan] Ser :[0m i have a bare hands damage thingy[0m
+[21:09] [0m[33;1m[Clan] Ser :[0m so i've been using that[0m
+[21:09] [0mnewb Whoknows [priest/118]: well, that's the red button, the actual jumpstart is from CoT,[0m
+[21:09] [0m                            s,w,3s,e,s[0m
+[21:10] [0m[33;1m[Clan] Ser :[0m it helps a little[0m
+[21:12] [0m[33;1m[Clan] Ser :[0m man i can't wait til glevel 100, can load the last 2 good damage powers in[0m
+[21:12] [0m[33;1m[Clan] Ser :[0m plus by that time i'll have nothing but int/cha to work on[0m
+[21:12] [0m[33;1m[Clan] Ser :[0m space put a dupe in psicorps[0m
+[21:12] [0m[33;1m[Clan] Ser :[0m said he has everything maxed except cha[0m
+[21:13] [0mnewb Licklick [jedi/71]: red button big jumpstart though[0m
+[21:14] [0m[33;1m[Clan] Ser :[0m there's like 6 other people on[0m
+[21:14] [0m[33;1m[Clan] Ser :[0m are you all mutes[0m
+[21:15] [0m[33;1m[Clan] Martyr :[0m So that's what lvl 141 gets you[0m
+[21:15] [0m[33;1m[Clan] Ser :[0m yup[0m
+[21:15] [0m[33;1m[Clan] Ser :[0m last life for taco i think[0m
+[21:16] [0m[33;1m[Clan] Nix :[0m where were you earkier?[0m
+[21:16] [0m[33;1m[Clan] Ser :[0m eating[0m
+[21:16] [0m[33;1m[Clan] Nix :[0m im sorta tied up[0m
+[21:16] [0m[33;1m[Clan] Ser :[0m i have guac[0m
+[21:17] [0m[33;1m[Clan] Ser :[0m so if anyone wants to come hit i am 1 east[0m
+[21:17] [0mSer flaps : ok 1e of firebat need hitters[0m
+[21:18] [0m[33;1m[Clan] Martyr :[0m omw[0m
+[21:18] [0m[33;1m[Clan] Nix :[0m this is the absolute last day 5 im doing[0m
+[21:18] [0m[33;1m[Clan] Ser :[0m laf[0m
+[21:19] [0m[33;1m[Clan] Nix :[0m i killed four god damn day 4's[0m
+[21:19] [0m[33;1m[Clan] Ser :[0m i can tank it[0m
+[21:19] [0m[33;1m[Clan] Ser :[0m i just can't solo[0m
+[21:19] [0m[33;1m[Clan] Martyr :[0m FO FO FO[0m
+[21:19] [0m[33;1m[Clan] Nix :[0m you sure?[0m
+[21:19] [0m[33;1m[Clan] Martyr :[0m FIV FIV FIV[0m
+[21:19] [0m[33;1m[Clan] Ser :[0m yah[0m
+[21:19] [0m[33;1m[Clan] Martyr :[0m kitt healign I think[0m
+[21:19] [0m[33;1m[Clan] Martyr :[0m biasing attack[0m
+[21:20] [0m[33;1m[Clan] Ser :[0m roken c'mon[0m
+[21:21] [0m[34;1mNightrider shouts:[0m die die die suxors[0m
+[21:22] [0m[33;1m[Clan] Martyr :[0m this is a disaster w/ only 2 hitters[0m
+[21:22] [0m[33;1m[Clan] Nix :[0m jv squad[0m
+[21:22] [0m[33;1m[Clan] Nix :[0m get your shit together[0m
+[21:25] [0mnewb Vara [sorcerer/9]: how do I use a phaser?[0m
+[21:26] [0mnewb Ser [psicorps/134]: make sure it's set to stun[0m
+[21:26] [0m[33;1m[Clan] Sock wiggles off your foot.[0m  [0m
+[21:27] [0m[33;1m[Clan] Byron :[0m Who has OG cmc?[0m
+[21:29] [0m[34;1mKitt shouts:[0m Guess you aint Invinible[0m
+[21:29] [0m[34;1mSpace shouts:[0m only priests get that spell![0m
+[21:35] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[21:59] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[21:59] [0mYour transmuter's stone bursts with 6 new colours![0m
+[22:06] [0m[5m[1m[48;5;124mYour lightsaber begins to flicker and the handle warms![0m[0m                 [0m
+[22:36] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[22:59] [0mYour transmuter's stone bursts with 4 new colours![0m
+[23:03] [0m[33;1m[Clan] Byron :[0m fyi - I still have a stuffing you can dupe[0m
+[23:03] [0m[33;1m[Clan] Byron :[0m Gonna keep duping it til boot I think[0m
+[23:03] [0m[33;1m[Clan] Byron :[0m Or until Day 7 I guess[0m
+[23:05] [0mCaeli flaps : Yay! I haz a drunk![0m
+[23:05] [0mQuanchi flaps : woo[0m
+[23:05] [0mWik flaps : drink harder[0m
+[23:05] [0mQuanchi flaps : I can't get drunk for now[0m
+[23:05] [0mQuanchi flaps : on meds[0m
+[23:05] [0mKitt flaps : whos da pimp[0m
+[23:06] [0mWik flaps : Voodoo is, whether you want him to be or not, thats what makes him a good pimp[0m
+[23:07] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[23:34] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[23:48] [0m[34;1mJasmine shouts:[0m PLAYCULT! One more needed to kill Wik![0m
+[23:55] [0m[34;1mVagrant shouts:[0m woot woot[0m

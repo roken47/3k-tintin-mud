@@ -1,0 +1,650 @@
+- = LOG STARTED [00:00] = -
+[00:10] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[00:15] [0m[37;1mAlassra flaps :[0m resetting zombies soon if anyone wants in![0m
+[00:18] [0m[37;1mAlassra flaps :[0m reset![0m
+[06:17] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[06:37] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Woo, superior heart of knowledge.  Not that I can craft gems that[0m
+[06:37] [0m                           high yet...[0m
+[06:43] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[06:49] [0mYour transmuter's stone bursts with 4 new colours![0m
+[07:13] [0m[31;1m[Clan] Taleast :[0m morning[0m
+[07:13] [0m[35;1mTaleast [Jedi(49)]:[0m morning[0m
+[07:13] [0m[31;1m[Clan] Byron :[0m mornin[0m
+[07:17] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[07:20] [0m[31;1m[Clan] Roken :[0m morning folks![0m
+[07:20] [0m[31;1m[Clan] Taleast :[0m morning[0m
+[07:20] [0m[31;1m[Clan] Byron :[0m hey[0m
+[07:20] [0m[31;1m[Clan] Byron :[0m how's the coding coming along?[0m
+[07:21] [0m[31;1m[Clan] Roken :[0m great! we learned the basics of css last week[0m
+[07:22] [0m[31;1m[Clan] Byron :[0m cool, css is very powerful[0m
+[07:22] [0m[31;1m[Clan] Byron :[0m did you look at flexbox or grid or anything like that?[0m
+[07:22] [0m[31;1m[Clan] Byron :[0m or just the basics[0m
+[07:23] [0m[31;1m[Clan] Roken :[0m not yet[0m
+[07:24] [0m[31;1m[Clan] Byron :[0m nog.  there are some really fun online games for that[0m
+[07:24] [0m[31;1m[Clan] Byron :[0m https://flexboxfroggy.com/[0m
+[07:24] [0m[31;1m[Clan] Roken :[0m some things new outside of their free course, and playing with css diner (only[0m
+[07:24] [0m               expectiing us to get to Lv11. Not me, Lv32)  Also seeing Simpsons in CSS was[0m
+[07:24] [0m               marvelous and eye-opening[0m
+[07:24] [0m[31;1m[Clan] Byron :[0m There's another one for grid w/ planting crops...lemme see if I can find that[0m
+[07:24] [0m[31;1m[Clan] Byron :[0m https://cssgridgarden.com/[0m
+[07:25] [0m[31;1m[Clan] Roken :[0m css zen garden[0m
+[07:25] [0m[31;1m[Clan] Roken :[0m i'll check both of these out[0m
+[07:25] [0m[32;1mFrom afar, you thank Byron.[0m[0m
+[07:25] [0m[31;1m[Clan] Byron :[0m I definitely would, they're very well done and actually fun to do[0m
+[07:26] [0m[31;1m[Clan] Roken :[0m also advised to use chrome dev tools to play around with any site[0m
+[07:26] [0m[31;1m[Clan] Byron :[0m Anything responsive (meaning that the layout changes depending on device) is[0m
+[07:26] [0m               where flexbox / grid really shine[0m
+[07:27] [0m[31;1m[Clan] Byron :[0m nog, chrome / firefox dev tools are awesome[0m
+[07:28] [0m[31;1m[Clan] Roken :[0m hope they go over making responsive content extensively with the mobile computing[0m
+[07:28] [0m               popularity in mind[0m
+[07:29] [0m[31;1m[Clan] Byron :[0m I hope so - the current idea is more of a mobile-first design[0m
+[07:29] [0m[31;1m[Clan] Byron :[0m And the majority of browsers are mobile[0m
+[07:30] [0m[31;1m[Clan] Roken :[0m yes :) everything else falls in line[0m
+[07:34] [0m[31;1m[Clan] Roken :[0m jerk drumsticks for breakfast![0m
+[07:34] [0m[31;1m[Clan] Roken :[0m woo[0m
+[07:38] [0m[31;1m[Clan] Byron :[0m yum[0m
+[07:45] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[07:46] [0m[34;1mZanadu shouts:[0m anyone want to try 7 day fbat?[0m
+[07:46] [0m[34;1mSpace shouts:[0m yes, Frank told me he is interested, send him a tell, he can solo it[0m
+[07:47] [0m[34;1mHooligan shouts:[0m bah. ge's only glevel 100. no way[0m
+[07:48] [0m[34;1mHooligan shouts:[0m wake up bots!  fb 7 needs his breakfast![0m
+[07:49] [0m[34;1mZanadu shouts:[0m okay lets assemble[0m
+[07:49] [0mYour transmuter's stone bursts with 4 new colours![0m
+[07:49] [0m[34;1mThadar shouts:[0m i offer my support.... from over here.[0m
+[07:53] [0m[34;1mSpace shouts:[0m u guys? come? why sitting at entrance?[0m
+[07:58] [0m[37;1mHooligan flaps :[0m come for fb 7![0m
+[07:58] [0m[37;1mWert flaps :[0m omw[0m
+[07:58] [0m[37;1mGilneas flaps :[0m Facebook 7?[0m
+[07:58] [0m[37;1mKichi flaps :[0m facebook diaf[0m
+[07:58] [0m[37;1mSleepy flaps :[0m it's much more invasive and lonely-making than the current version[0m
+[08:08] [0m[35;1mOlorin [Jedi(82)]:[0m whee, you guys having fun?[0m
+[08:09] [0m[35;1mAl [Jedi(67)]:[0m lots[0m
+[08:09] [0m[35;1mAl [Jedi(67)]:[0m Death XP Debt                    -84%  -102303403  ???[0m
+[08:10] [0m[35;1mTaleast [Jedi(49)]:[0m that's what, 15 minutes for you?[0m
+[08:12] [0m[37;1mSquirrel flaps :[0m another go around?[0m
+[08:12] [0m[37;1mSquirrel flaps :[0m he summon this time?[0m
+[08:12] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[08:14] [0m[35;1mWert [Jedi(Knight)]:[0m heh Death XP Debt                    -84%  -102203271  ???[0m
+[08:15] [0m[31;1m[Clan] Byron :[0m Oh, it summoned this time?[0m
+[08:15] [0m[31;1m[Clan] Byron :[0m last night it didn't summon any mobs, and it got blicked by the ewell after like[0m
+[08:15] [0m               1 minute[0m
+[08:16] [0m[31;1m[Clan] Byron :[0m was weird[0m
+[08:28] [0m[35;1mWert [Jedi(Knight)]:[0m debt gone :)[0m
+[08:28] [0m[35;1mWert [Jedi(Knight)]:[0m 14 min heh[0m
+[08:28] [0m[35;1mWert [Jedi(Knight)]:[0m thus try new things, i died like 5 times to that guy[0m
+[08:31] [0m[37;1mRoken flaps :[0m resetting zambies[0m
+[08:31] [0m[32mHooligan tells you:[0m On my way![0m
+[08:31] [0m[32;1mFrom afar, Space goes 'OOOoOOoooOoooOooOOoOoOooooOooooOoo!!!!!!!!' at[0m
+[08:31] [0m[32;1mFrom afar, Alassra tells you that she'll be right there![0m[0m
+[08:31] [0m[32mSpace tells you:[0m on my way[0m
+[08:31] [0m[33;1m[PARTY][0m Lost our leader![0m
+[08:31] [0m[33;1m[PARTY][0m New leader for the party: roken.[0m
+[08:31] [0m[33;1m[PARTY][0m Hooligan joins the party.[0m
+[08:31] [0m[33;1m[PARTY][0m Space joins the party.[0m
+[08:32] [0m[32mYou say:[0m pquit alassra[0m
+[08:32] [0m[33;1m[PARTY][0m Alassra joins the party.[0m
+[08:32] [0m[32mAlassra says:[0m done![0m
+[08:32] [0m[37;1mRoken flaps :[0m anyone else?[0m
+[08:33] [0m[33;1m[PARTY][0m Roken: was there a hmline reset?[0m
+[08:33] [0m[33;1m[PARTY][0m Space: not sure what that means?[0m
+[08:33] [0m[33;1m[PARTY][0m Alassra: I don't know what that means[0m
+[08:33] [0m[33;1m[PARTY][0m Alassra: hah[0m
+[08:33] [0m[33;1m[PARTY][0m Space: hmline reset?[0m
+[08:33] [0m[33;1m[PARTY][0m Roken: yes I'm not part of hmline, i hear tony announces his[0m
+[08:33] [0m       resets there[0m
+[08:34] [0m[37;1mRoken flaps :[0m done[0m
+[08:34] [0m[33;1m[PARTY][0m Space: tony ld 18h[0m
+[08:34] [0m[33;1m[PARTY][0m Roken has quit the party.[0m
+[08:34] [0m[32mAlassra says:[0m ah, no he hasn't said anything recent on there[0m
+[08:34] [0m[32mSpace tells you:[0m also have not seen anyone else offer[0m
+[08:38] [0m[31;1m[Clan] Saim climbs out of your ass, and into the game.[0m  [0m
+[08:39] [0m[35;1mAl [Jedi(67)]:[0m Same Saim, different day[0m
+[08:39] [0m[35;1mSaim [Jedi(Elder)]:[0m heyo[0m
+[08:40] [0m[35;1mEnder [Jedi(Knight)]:[0m you had a 100m xp debt cause you died 4 times?[0m
+[08:40] [0m[35;1mAl [Jedi(67)]:[0m yup[0m
+[08:40] [0m[35;1mAl [Jedi(67)]:[0m as did i[0m
+[08:40] [0m[35;1mAl [Jedi(67)]:[0m 84% too.  ow[0m
+[08:41] [0m[35;1mEnder [Jedi(Knight)]:[0m oh were you guys fighting that firebat or something?[0m
+[08:41] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[08:43] [0m[34;1mFlaxen shouts:[0m here comes ethe jimmies[0m
+[08:43] [0m[31;1m[Clan] Taleast :[0m sup, Saim[0m
+[08:43] [0m[34;1mEphemeral shouts:[0m commence rustlin[0m
+[08:47] [0m[31;1m[Clan] Saim :[0m heyo[0m
+[08:49] [0mYour transmuter's stone bursts with 3 new colours![0m
+[08:51] [0m[35;1mEphemeral [Jedi(29)]:[0m Current Droid Offerings: 1. municipal, 2. heavy industry, 3. repair, 4.[0m
+[08:51] [0m                      labor, 5. heavy industry[0m
+[08:52] [0m[31;1m[Clan] Ser :[0m yo[0m
+[08:53] [0m[32;1mFrom afar, you moo at Ser.[0m[0m
+[09:03] [0m[31;1m[Clan] Roken :[0m 32B to go on stats sigh[0m
+[09:05] [0m[31;1m[Clan] Taleast :[0m You make like 200m an hour right? You got this. That's like 2 weeks.[0m
+[09:07] [0m[31;1m[Clan] Taleast :[0m and if they're damage stats...[0m
+[09:08] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[09:21] [0m[31;1m[Clan] Roken :[0m maxing out con this lvl instead of wis[0m
+[09:21] [0m[31;1m[Clan] Roken :[0m 251 wis at the moment[0m
+[09:23] [0m[31;1m[Clan] Roken :[0m everytime I've tried to telnet this illegal char, cuz wth idk I just did it[0m
+[09:23] [0m               'snakebite' console closes. Any ideas?[0m
+[09:23] [0m[31;1m[Clan] Roken :[0m does it close if the password is wrong?[0m
+[09:33] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[09:33] [0m[31;1m[Clan] Roken :[0m wrong pass it was[0m
+[09:47] [0m[34;1mThadar shouts:[0m moar![0m
+[09:47] [0m[34;1mKichi shouts:[0m racist[0m
+[09:47] [0m[34;1mSquirrel shouts:[0m that's how voodoo roles, moist[0m
+[09:47] [0m[34;1mAl shouts:[0m that's s/w/fF[0m
+[09:47] [0m[34;1mSomeone shouts:[0m Why we shouting about wireless access points?[0m
+[09:48] [0m[34;1mThadar shouts:[0m wireless access points are the best![0m
+[09:49] [0mYour transmuter's stone bursts with 3 new colours![0m
+[10:03] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Northern Hills of[0m
+[10:03] [0m                          Fantasy!  We are localizing it now - get ready![0m
+[10:04] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[10:06] [0m[31;1m[Clan] Roken :[0m anyone wanna drag DZ after event?[0m
+[10:12] [0m[31;1m[Clan] Taleast :[0m I'm afraid my xp rate is worse than it was before at the moment :D[0m
+[10:12] [0m[31;1m[Clan] Taleast :[0m just got mastery 4 this morning[0m
+[10:13] [0m[31;1m[Clan] Taleast :[0m hoping to get close to 6 before boot[0m
+[10:13] [0m[31;1m[Clan] Taleast :[0m or at least just get 5[0m
+[10:21] [0m[35;1mSimonz [Jedi(Knight)]:[0m hrm, now I have to decide between maxing dex or con first[0m
+[10:21] [0m[35;1mAl [Jedi(67)]:[0m dex![0m
+[10:21] [0m[35;1mRoken [Jedi(86)]:[0m Con![0m
+[10:21] [0m[35;1mAl [Jedi(67)]:[0m one of the cons of dex is less con[0m
+[10:21] [0m[35;1mRoken [Jedi(86)]:[0m Al, the con-man[0m
+[10:21] [0m[35;1mTaleast [Jedi(49)]:[0m Al's running a con on dex![0m
+[10:22] [0m[35;1mAl [Jedi(67)]:[0m roken's the con man.  i'm ambi dex trous[0m
+[10:22] [0m[35;1mTaleast [Jedi(49)]:[0m laf[0m
+[10:22] [0m[35;1mSimonz [Jedi(Knight)]:[0m heh[0m
+[10:22] [0m[35;1mAl [Jedi(67)]:[0m i guess i could've just said dextrous[0m
+[10:22] [0m[35;1mRoken [Jedi(86)]:[0m laf ooo man, thanks Al[0m
+[10:23] [0m[35;1mAl [Jedi(67)]:[0m hmm, so which direction you leaning?[0m
+[10:23] [0m[35;1mAl [Jedi(67)]:[0m and how much +hp do you have[0m
+[10:23] [0m[35;1mSimonz [Jedi(Knight)]:[0m I'm thinking dex[0m
+[10:24] [0m[35;1mSimonz [Jedi(Knight)]:[0m I think I have enough hp right now, 300hp isn't going to make that[0m
+[10:24] [0m                       drastic a difference[0m
+[10:24] [0m[35;1mAl [Jedi(67)]:[0m nah[0m
+[10:24] [0m[35;1mAl [Jedi(67)]:[0m 300 hp is a single round of combat[0m
+[10:24] [0m[31;1m[Clan] Taleast :[0m lol[0m
+[10:25] [0m[35;1mAl [Jedi(67)]:[0m if you're that close to the edge, 300 hps wont save ya[0m
+[10:25] [0m[35;1mSimonz [Jedi(Knight)]:[0m right[0m
+[10:25] [0m[35;1mAl [Jedi(67)]:[0m DEX DEX DEX![0m
+[10:25] [0m[35;1mSimonz [Jedi(Knight)]:[0m and I'm sitting at 4100hp with crafted gear and day3 cmc[0m
+[10:25] [0m[35;1mTaleast [Jedi(49)]:[0m oh, 30 con from max?[0m
+[10:25] [0m[35;1mAl [Jedi(67)]:[0m oh yeah, you're good[0m
+[10:26] [0m[35;1mTaleast [Jedi(49)]:[0m nog, better off with dex then probably, for the xp bonus... to max con[0m
+[10:26] [0m[35;1mTaleast [Jedi(49)]:[0m vicious circle[0m
+[10:26] [0m[35;1mAl [Jedi(67)]:[0m i'm at 4300 base--and it really only helps to give me more rounds to stay alive[0m
+[10:26] [0m               for cpain to kick in and heal[0m
+[10:27] [0m[35;1mTaleast [Jedi(49)]:[0m agreed it's mostly to soak bad rounds, if they're all bad you're screwed[0m
+[10:27] [0m                    either way[0m
+[10:27] [0m[35;1mTaleast [Jedi(49)]:[0m then again, it does make a nice number with embiggen :D[0m
+[10:28] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[10:33] [0m[35;1mAl [Jedi(67)]:[0m nod, but even with embiggen, your biggest benefit is additional stats for[0m
+[10:33] [0m               additional dmg.  your tanking becomes moderately easier, but at Simonz's size,[0m
+[10:33] [0m               idk that embiggen helps much with "previously untankable" mobs[0m
+[10:33] [0m[35;1mAl [Jedi(67)]:[0m also, grats on the level, Simonz[0m
+[10:33] [0m[35;1mAl [Jedi(67)]:[0m wert's been playing too much, so i haven't been able to pass him up, despite my[0m
+[10:33] [0m               best efforts[0m
+[10:33] [0m[35;1mWert [Jedi(Knight)]:[0m gotta keep al down[0m
+[10:34] [0m[35;1mAl [Jedi(67)]:[0m and welcome to tplist[0m
+[10:34] [0m[35;1mSimonz [Jedi(Knight)]:[0m thanks![0m
+[10:38] [0m[31;1m[Clan] Roken :[0m an easy mob in NOC2?[0m
+[10:39] [0m[31;1m[Clan] Saim :[0m hostile?[0m
+[10:40] [0m[31;1m[Clan] Roken :[0m ok, dont wanna die on first mob i try. so far good on 'dismal'[0m
+[10:41] [0mZion <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[10:42] [0m[32;1mFrom afar, you go 'Shhh!!!' at Zion.[0m[0m
+[10:42] [0m[32;1mFrom afar, Zion laffs at you![0m[0m
+[10:42] [0m[31;1m[Clan] Saim :[0m dismal is a good one too[0m
+[10:43] [0m[31;1m[Clan] Roken :[0m dangerously low on dis shields[0m
+[10:44] [0m[35;1mTaleast [Jedi(49)]:[0m doh[0m
+[10:45] [0m[31;1m[Clan] Saim :[0m well...[0m
+[10:45] [0m[31;1m[Clan] Roken :[0m 11% remaining hp[0m
+[10:45] [0m[31;1m[Clan] Taleast :[0m I thought you had nearly max con/wis/dex?[0m
+[10:45] [0m[31;1m[Clan] Taleast :[0m surprised Al does so well, must have kickass gear[0m
+[10:46] [0m[31;1m[Clan] Saim :[0m lvl 135 and gear ya[0m
+[10:46] [0m[31;1m[Clan] Roken :[0m Resistances:    109   156   -12    66   -10    66    67   113    68    54[0m
+[10:46] [0m[31;1m[Clan] Roken :[0m bad gear this boot[0m
+[10:46] [0m[31;1m[Clan] Saim :[0m some of those mobs hit in all different dmg types[0m
+[10:46] [0m[31;1m[Clan] Taleast :[0m holy crap, that's terrible ac[0m
+[10:47] [0m[35;1mSimonz [Jedi(Knight)]:[0m talk about a Dismal performance[0m
+[10:47] [0m[35;1mSimonz [Jedi(Knight)]:[0m heh[0m
+[10:47] [0m[35;1mRoken [Jedi(86)]:[0m :D[0m
+[10:47] [0m[31;1m[Clan] Roken :[0m beloch skin[0m
+[10:47] [0m[35;1mTaleast [Jedi(49)]:[0m it's OK, he's not HM, he didn't notice your w/l[0m
+[10:47] [0m[35;1mTaleast [Jedi(49)]:[0m I mean...[0m
+[10:47] [0m[31;1m[Clan] Roken :[0m the negative AC[0m
+[10:48] [0m[35;1mSimonz [Jedi(Knight)]:[0m on the other hand, if I get more con, I could do noc2 more easily[0m
+[10:48] [0m[31;1m[Clan] Taleast :[0m yeah, but even the e/b, how good is your smd?[0m
+[10:49] [0m[31;1m[Clan] Roken :[0m superb[0m
+[10:49] [0m[35;1mAl [Jedi(67)]:[0m wont dex help there too, though?[0m
+[10:50] [0mYour transmuter's stone bursts with 4 new colours![0m
+[10:50] [0m[31;1m[Clan] Taleast :[0m guessing most your gear is on DZ?[0m
+[10:50] [0m[31;1m[Clan] Roken :[0m haha yep. oh so dismal is 63M need lotsa corpses for dis place[0m
+[10:51] [0m[31;1m[Clan] Taleast :[0m or better overall ac :P[0m
+[10:51] [0m[31;1m[Clan] Roken :[0m right[0m
+[10:51] [0m[31;1m[Clan] Taleast :[0m Al can't do all the mobs in there, but he can do the weakest ones, I'm guessing[0m
+[10:51] [0m                 he's just wearing better eq because you've almost closed the gap on his stat[0m
+[10:51] [0m                 advantage and have nearly 20 glvls on him[0m
+[10:53] [0m[31;1m[Clan] Karvec leaves the game.[0m  [0m
+[10:53] [0m[31;1m[Clan] Sock wiggles off your foot.[0m  [0m
+[10:54] [0m[31;1m[Clan] Saim :[0m oof[0m
+[10:55] [0m[31;1m[Clan] Roken :[0m trying out 142 smurfs[0m
+[10:55] [0m[31;1m[Clan] Saim :[0m go to the castle[0m
+[10:55] [0m[31;1m[Clan] Saim :[0m unless you tried[0m
+[10:55] [0m[31;1m[Clan] Roken :[0m no, just brainy and his rat[0m
+[10:55] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[10:55] [0m[31;1m[Clan] Saim :[0m i dont even fight the smurfs really[0m
+[10:55] [0m[31;1m[Clan] Saim :[0m just go to the castle[0m
+[10:57] [0m[31;1m[Clan] Roken :[0m ok[0m
+[10:58] [0m[31;1m[Clan] Byron :[0m yeah dont figjt the smurfa[0m
+[10:58] [0m[31;1m[Clan] Byron :[0m stupid new keyboard[0m
+[10:59] [0m[31;1m[Clan] Saim :[0m italian keyboard[0m
+[10:59] [0m[31;1m[Clan] Saim :[0m fighta the smurfa[0m
+[10:59] [0m[31;1m[Clan] Byron :[0m laf[0m
+[10:59] [0m[31;1m[Clan] Roken :[0m all QWERTY here or..?[0m
+[10:59] [0m[31;1m[Clan] Byron :[0m new cell[0m
+[11:00] [0m[34;1mThadar shouts:[0m YABBA DABBA DOOooo...[0m
+[11:00] [0m[34;1mZion shouts:[0m Dinner Time?[0m
+[11:01] [0m[31;1m[Clan] Taleast :[0m thats'a spicy meat'a'ball[0m
+[11:01] [0m[35;1mSimonz [Jedi(Knight)]:[0m yeah, it probably will help[0m
+[11:05] [0m[31;1m[Clan] Roken :[0m 37M fuzzy cute squirrel[0m
+[11:05] [0m[35;1mAl [Jedi(67)]:[0m DEX DEX DEX![0m
+[11:07] [0m[35;1mAl [Jedi(67)]:[0m INDOMITUS DEX![0m
+[11:09] [0m[35;1mTaleast [Jedi(49)]:[0m very punny[0m
+[11:10] [0m[35;1mAl [Jedi(67)]:[0m i thought it was a puny attempt, but thanks for seeing how punderful it could be[0m
+[11:10] [0m[35;1mTaleast [Jedi(49)]:[0m please stop pun'ishing us[0m
+[11:10] [0m[35;1mAl [Jedi(67)]:[0m from puns to portmanteaus, I got you covered[0m
+[11:11] [0m[35;1mAl [Jedi(67)]:[0m i'll pun-tificate on that request[0m
+[11:12] [0mYou can currently reforge 12 items.[0m
+[11:13] [0m[32mKerym says: [0mWell met, Swordbrother Dangerzone, May the Seldarine's Blessings be upon you.[0m
+[11:18] [0mYou can currently reforge 1 items.[0m
+[11:20] [0mYou can currently reforge 5 items.[0m
+[11:23] [0m[31;1m[Clan] Archimedes leaves the game.[0m  [0m
+[11:24] [0mYou can currently reforge 0 items.[0m
+[11:30] [0m[34;1mFlaxen shouts:[0m woo![0m
+[11:30] [0m[34;1mZion shouts:[0m Woo?[0m
+[11:33] [0m[31;1m[Clan] Taleast :[0m what he said[0m
+[11:33] [0m[32mYou say:[0m started zel at 1120 and 9ish gxp%[0m
+[11:34] [0m[31;1m[Clan] Taleast :[0m w/l[0m
+[11:38] [0m[31;1m[Clan] Taleast :[0m truth be told I figured you'd party your priest gobject to[0m
+[11:38] [0m                 get there faster[0m
+[11:39] [0m[31;1m[Clan] Taleast :[0m bah[0m
+[11:40] [0m[36m<BS> Zokko :[0m 2 sporks in[0m
+[11:44] [0m[31;1m[Clan] Byron :[0m anyone got legendary peridot dust?[0m
+[11:45] [0m[31;1m[Clan] Taleast :[0m sorry, guy :([0m
+[11:45] [0m[31;1m[Clan] Taleast :[0m well, maybe on an alt, but doubtful[0m
+[11:46] [0m[31;1m[Clan] Dangerzone :[0m hold on, bet i do[0m
+[11:47] [0m[31;1m[Clan] Dangerzone :[0m finishing dis golem[0m
+[11:48] [0m[31;1m[Clan] Roken :[0m have 4[0m
+[11:48] [0m[31;1m[Clan] Roken :[0m in our crafting box[0m
+[11:49] [0mYou can currently reforge 0 items.[0m
+[11:50] [0m[31;1m[Clan] Byron :[0m woot[0m
+[11:50] [0m[31;1m[Clan] Byron :[0m ty[0m
+[11:50] [0m[31;1m[Clan] Taleast :[0m got one[0m
+[11:50] [0m[31;1m[Clan] Taleast :[0m mine's in there too[0m
+[11:50] [0m[31;1m[Clan] Taleast :[0m Roken rules more, obviously[0m
+[11:51] [0m[31;1m[Clan] Byron :[0m now now, senpai notices both of you[0m
+[12:09] [0m[31;1m[Clan] Archimedes enters the game.[0m  [0m
+[12:11] [0m[31;1m[Clan] Taleast :[0m sup, Archie[0m
+[12:11] [0m[31;1m[Clan] Archangel :[0m Hola[0m
+[12:21] [0m[37;1mWert flaps :[0m anyone seen event portal?[0m
+[12:21] [0m[37;1mSimonz flaps :[0m ngate, 11n/3e or so, radiation damage[0m
+[12:21] [0mYou can currently reforge 4 items.[0m
+[12:38] [0m[36m<BS> Zokko :[0m whats bladesinger portal again?[0m
+[12:39] [0m[36m<BS> Prismal :[0m hmm?[0m
+[12:39] [0m[36m<BS> Prismal :[0m oh, I see, on hm[0m
+[12:40] [0m[36m<BS> Prismal :[0m we were supposed to be able to make portals, essentialls like[0m
+[12:40] [0m               teleports[0m
+[12:40] [0m[36m<BS> Prismal :[0m but it got killed because tensor couldn't have anyone have a[0m
+[12:40] [0m               necro power[0m
+[12:40] [0m[36m<BS> Zokko :[0m ah so why is it still in info files? heh[0m
+[12:41] [0m[36m<BS> Zokko :[0m i got semi excited for a min[0m
+[12:41] [0m[36m<BS> Prismal :[0m we did eventually get blur as a replacement for it[0m
+[12:42] [0m[36m<BS> Zokko :[0m ah nice[0m
+[12:46] [0m[34;1mHooligan shouts:[0m woooo![0m
+[12:46] [0m[32;1mFrom afar, you go 'Woo Woo!' at Ksemia.[0m[0m
+[12:46] [0m[34;1mDrax shouts:[0m Nice[0m
+[12:46] [0m[34;1mSally shouts:[0m hooot![0m
+[12:46] [0m[34;1mArchangel shouts:[0m Woo!![0m
+[12:46] [0m[32;1mFrom afar, you pretend you're from GUILDC and downgrade Ksemia![0m[0m
+[12:46] [0m[32;1mFrom afar, Ksemia thanks you.[0m[0m
+[12:46] [0m[34;1mZion shouts:[0m Nicely done[0m
+[12:47] [0m[34;1mKsemia shouts:[0m thanks all.[0m
+[12:53] [0m[31;1m[Clan] Roor leaves the game.[0m  [0m
+[13:22] [0mYou can currently reforge 8 items.[0m
+[13:26] [0m[31;1m[Clan] Dangerzone :[0m there a BBB train today?[0m
+[13:31] [0m[31;1m[Clan] Byron :[0m you can tag along[0m
+[13:31] [0m[31;1m[Clan] Byron :[0m but i'm prone to long idles[0m
+[13:32] [0m[31;1m[Clan] Dangerzone :[0m noc2?[0m
+[13:32] [0m[32mAka tells you:[0m i can port you in once i port to byron[0m
+[13:32] [0m[31;1m[Clan] Byron :[0m yep[0m
+[13:32] [0m[31;1m[Clan] Byron :[0m aka can port you[0m
+[13:33] [0m[31;1m[Clan] Dangerzone :[0m copy[0m
+[13:33] [0m[31;1m[Clan] Byron :[0m but i'll need a min to get portable[0m
+[13:33] [0m[32mYou tell Aka:[0m ill sit next to tower[0m
+[13:33] [0mYou can currently reforge 0 items.[0m
+[13:33] [0m[31;1m[Clan] Taleast :[0m potable byron[0m
+[13:34] [0m[31;1m[Clan] Byron :[0m lol[0m
+[13:36] [0m[31;1m[Clan] Byron :[0m ok[0m
+[13:36] [0m[31;1m[Clan] Byron :[0m port away[0m
+[13:36] [0m[31;1m[Clan] Byron :[0m actually[0m
+[13:36] [0m[31;1m[Clan] Byron :[0m 1 min[0m
+[13:37] [0m[31;1m[Clan] Byron :[0m ok[0m
+[13:37] [0m[31;1m[Clan] Byron :[0m ready[0m
+[13:37] [0m[31;1m[Clan] Taleast :[0m ...actually[0m
+[13:37] [0m[33;1m[PARTY][0m Dangerzone joins the party.[0m
+[13:37] [0m[33;1m[PARTY][0m Aka joins the party.[0m
+[13:37] [0m[31;1m[Clan] Aka :[0m heh[0m
+[13:37] [0m[31;1m[Clan] Byron :[0m coming too?[0m
+[13:38] [0m[31;1m[Clan] Taleast :[0m oh no, I was just messing with you[0m
+[13:38] [0m[31;1m[Clan] Taleast :[0m I figure I might as well use this time to get some fdef[0m
+[13:38] [0m[31;1m[Clan] Taleast :[0m normally leap on the offer though, thanks![0m
+[13:42] [0;32mVilgan whispers: [0mPsstt, Barrakith has the Demon Marble hidden in its room![0m
+[13:42] [0m[33;1m[PARTY][0m Dangerzone: barrakith has the demon marble hidden in its room[0m
+[13:42] [0m[36;1mVilgan whispers to you:[0m Psst, you, come over here.  I mean, don't.[0m
+[13:43] [0m[33;1m[PARTY][0m Dangerzone: don't recall receiving whispers from vilgan before or[0m
+[13:43] [0m            chatbot let two in just now[0m
+[13:45] [0m[36;1mVilgan whispers to you:[0m Psst, you, come over here.  I mean, don't.[0m
+[13:47] [0m[33;1m[PARTY][0m Byron: qinfo vilgan[0m
+[14:12] [0mYou can currently reforge 0 items.[0m
+[14:14] [0m[31;1m[Clan] Bruce :[0m i want to go to bed, but i want to finish this hotel, woe is[0m
+[14:14] [0m               me[0m
+[14:22] [0mYou can currently reforge 4 items.[0m
+[14:23] [0m[31;1m[Clan] Byron :[0m poor bruce[0m
+[14:24] [0m[31;1m[Clan] Byron :[0m You could go with the old set your deadmans up for 2 hours[0m
+[14:24] [0m[31;1m[Clan] Byron :[0m and come back tomorrow jailed[0m
+[14:24] [0m[31;1m[Clan] Byron :[0m works every time[0m
+[14:24] [0m[31;1m[Clan] Bruce :[0m haha i don't think i'll try that one out[0m
+[14:34] [0m[32mFrank tells you:[0m Are you botting or is your poop stardust?[0m
+[14:34] [0m[34;1mNik shouts:[0m if only i could be so grossly incandescent![0m
+[14:34] [0m[34;1mVidae shouts:[0m Just botting[0m
+[14:34] [0m[34;1mSpace shouts:[0m stardust memories, good woody allen flick[0m
+[14:34] [0m[34;1mVolt shouts:[0m you can't polish a turd.  but you can roll one in glitter[0m
+[14:35] [0m[34;1mSeeker shouts:[0m heh[0m
+[14:35] [0m[37;1mAdalius flaps :[0m Guess who has two thumbs and just manually edited,[0m
+[14:35] [0m                subsectioned, answered 10-15 questions per section,[0m
+[14:35] [0m                rerevised, and uploaded 189 pages of safety manual to a[0m
+[14:35] [0m                company that probably won't even read it but still requires[0m
+[14:35] [0m                you to do it?[0m
+[14:35] [0m[34;1mDangerzone shouts:[0m pooping, i mean dropping kids off at the pool[0m
+[14:35] [0m[37;1mHsima flaps :[0m gj, have a cookie[0m
+[14:35] [0m[37;1mSquirrel flaps :[0m so does that mean we get a boon?[0m
+[14:36] [0m[32;1mFrom afar, you go 'Woo Woo!' at Adalius.[0m[0m
+[14:36] [0m[37;1mAdalius flaps :[0m I dont want a cookie, I want a shotgun and a few minutes[0m
+[14:36] [0m                without consequences in a small room with the guy who[0m
+[14:36] [0m                decided I needed to do all this crap.[0m
+[14:36] [0m[37;1mXiu flaps :[0m i get the feeling we'll be booned in direct proportion to how[0m
+[14:36] [0m            much we helped with all that.[0m
+[14:36] [0m[37;1mDangerzone flaps :[0m CYOA procedures[0m
+[14:36] [0m[37;1mKsemia flaps :[0m slugs or birdshot?[0m
+[14:37] [0m[37;1mAdalius flaps :[0m Why limit me to one... I have a few minutes, I can do both.[0m
+[14:37] [0m[37;1mNik flaps :[0m go with the dagger, its slower[0m
+[14:37] [0m[37;1mSquirrel flaps :[0m it's birdshot, buckshot, birdshot, then it's jamacian,[0m
+[14:37] [0m                 buckshot buckshot buckshot :)[0m
+[14:37] [0m[31;1m[Clan] Ser :[0m anyone wanna attempt d7[0m
+[14:37] [0m[37;1mVolt flaps :[0m we have to make bureaucracy sexy.[0m
+[14:38] [0m[31;1m[Clan] Ser :[0m there were 7 mobs there last time i checked[0m
+[14:38] [0m[37;1mAlassra flaps :[0m shirtless jogging Paul Ryan?[0m
+[14:38] [0m[37;1mAdalius flaps :[0m Driving Policy: "All cargo must be secured."  <You didn't[0m
+[14:38] [0m                say how to secure it.> "All cargo must be secured with[0m
+[14:38] [0m                approved straps, bungies, or chains based on cargo weight to[0m
+[14:38] [0m                prevent movement during travel."  <You didn't reference the[0m
+[14:38] [0m                FMCSA cargo requirements.>   "All cargo must be secured with[0m
+[14:38] [0m                approved straps, bungies, or chains based on cargo weight to[0m
+[14:38] [0m                prevent movement during travel per FMCSA requirements as[0m
+[14:38] [0m                outlined in section xx.xxx." <This is too verbose. Please[0m
+[14:38] [0m                change it to just say 'All cargo must be secured per FMCSA[0m
+[14:38] [0m                requirements outlined in section xx.xxx.'>[0m
+[14:38] [0m[37;1mAdalius flaps :[0m *RAAAAGE*[0m
+[14:39] [0m[37;1mNik flaps :[0m if they cant proove the cargo was yours its fiiiine[0m
+[14:40] [0m[37;1mAdalius flaps :[0m Its one of those really stupid systems where the customer[0m
+[14:40] [0m                hires a 3rd party service to review our safety stuff, then[0m
+[14:40] [0m                they make US pay the 3rd party service even though we just[0m
+[14:40] [0m                turn around and charge the customer 110% of the cost, and[0m
+[14:40] [0m                then the 3rd party does this crap so we end up hating them[0m
+[14:40] [0m                AND the customer. It's win win![0m
+[14:41] [0m[37;1mVolt flaps :[0m and you also charge too much, now.  win win win.[0m
+[14:41] [0m[37;1mSer flaps :[0m but you're safe[0m
+[14:41] [0m[37;1mKsemia flaps :[0m just take the 10% and tack on 40% for changeorders....[0m
+[14:42] [0m[37;1mAdalius flaps :[0m Thats the best part Ser. Our safety rating is leaps and[0m
+[14:42] [0m                bounds better than the customer's.[0m
+[14:47] [0m[37;1mByron flaps :[0m left out movement points[0m
+[14:52] [0m[31;1m[Clan] Dangerzone :[0m <1hr tnl woo, thank you byron, bruce, and ser![0m
+[14:52] [0m[31;1m[Clan] Dangerzone :[0m i'll go fly from the nest[0m
+[14:54] [0m[31;1m[Clan] Taleast :[0m lol[0m
+[14:54] [0m[31;1m[Clan] Taleast :[0m grats![0m
+[14:59] [0m[31;1m[Clan] Byron :[0m woot[0m
+[15:04] [0m[33;1m[PARTY][0m Dangerzone: nearly 1.6B an hour here solo?[0m
+[15:04] [0m[37;1mSpace flaps :[0m man you guys flap too much, when do you get time to bot ?[0m
+[15:06] [0m[37;1mSimonz flaps :[0m isn't that what the bot is for, to give us more time to flap?[0m
+[15:07] [0m[37;1mBliss flaps :[0m flapbot[0m
+[15:07] [0m[37;1mSimonz flaps :[0m aka, witches gobj[0m
+[15:07] [0m[34;1mSimonz shouts:[0m 4 670sp charms @ CoT, ping me in 1999![0m
+[15:07] [0m[37;1mBliss flaps :[0m laff[0m
+[15:16] [0m[31;1m[Clan] Archangel :[0m Question: Are there any guilds that are gimped by trying[0m
+[15:16] [0m                   to start them while at high level?  I remember a long[0m
+[15:16] [0m                   while back trying bards, and I was trying to throttle my[0m
+[15:16] [0m                   level advancement to keep pace with my glevel, because[0m
+[15:16] [0m                   having a high level meant having to fight appropriate[0m
+[15:16] [0m                   level mobs.[0m
+[15:16] [0m[31;1m[Clan] Archangel :[0m Ended up leaving bards because I overleveled.[0m
+[15:16] [0m[31;1m[Clan] Nik :[0m doesnt really help sii[0m
+[15:17] [0m[31;1m[Clan] Archangel :[0m But does it hurt them?[0m
+[15:17] [0m[31;1m[Clan] Nik :[0m only if you wanna use your scaler[0m
+[15:17] [0m[31;1m[Clan] Archangel :[0m Plus I'm sure there are slight differences, but I have a[0m
+[15:17] [0m                   maxed Sii on 3s.[0m
+[15:19] [0m[31;1m[Clan] Nik :[0m ahh right[0m
+[15:19] [0m[31;1m[Clan] Taleast :[0m gentech can be slightly painful without really good eq, gxp[0m
+[15:19] [0m                 size of mobs increases from guild rank and level[0m
+[15:20] [0m[31;1m[Clan] Archangel :[0m Was thinking of maybe gswapping to Angels in the distant[0m
+[15:20] [0m                   future.  Anyone know how they are these days, besides[0m
+[15:20] [0m                   empty?[0m
+[15:20] [0m[31;1m[Clan] Taleast :[0m but as Byron has pointed out you can jsut party[0m
+[15:20] [0m[31;1m[Clan] Nix :[0m i would wait on angels[0m
+[15:20] [0m[31;1m[Clan] Nix :[0m i was told that phoenix is in the process of porting over 3s[0m
+[15:20] [0m             angels[0m
+[15:20] [0m[31;1m[Clan] Archangel :[0m Yeah, it would be a good while.[0m
+[15:20] [0m[31;1m[Clan] Nix :[0m rumor mill..[0m
+[15:20] [0m[31;1m[Clan] Aka :[0m finger phoenix[0m
+[15:20] [0m[31;1m[Clan] Archangel :[0m Ohhh... :([0m
+[15:20] [0m[31;1m[Clan] Aka :[0m recoding[0m
+[15:20] [0m[31;1m[Clan] Aka :[0m says it right there[0m
+[15:20] [0m[31;1m[Clan] Nix :[0m oh not a rumor than[0m
+[15:21] [0m[31;1m[Clan] Aka :[0m heh[0m
+[15:21] [0m[31;1m[Clan] Aka :[0m i'm hype for it, 3k angels were lame af[0m
+[15:21] [0m[31;1m[Clan] Archangel :[0m I'm not a fan of the 3s angel gobject.[0m
+[15:21] [0m[31;1m[Clan] Aka :[0m same, i hope it's somewhere in the middle lolol[0m
+[15:21] [0m[31;1m[Clan] Archangel :[0m I helped playtest[0m
+[15:22] [0mYou can currently reforge 8 items.[0m
+[15:22] [0m[31;1m[Clan] Archangel :[0m Just not a fan of capped guilds.  And I feel like angels[0m
+[15:22] [0m                   capped.[0m
+[15:22] [0m[31;1m[Clan] Nix :[0m i never played them.. i was always a fan of the old school[0m
+[15:22] [0m             angels[0m
+[15:23] [0m[31;1m[Clan] Aka :[0m def! the original 3k angels were stronk[0m
+[15:23] [0m[31;1m[Clan] Byron :[0m i liked them as well[0m
+[15:23] [0m[31;1m[Clan] Archangel :[0m Hmm... I don't remember them.[0m
+[15:23] [0m[31;1m[Clan] Byron :[0m they were the OG long grind for a BS reward[0m
+[15:24] [0m[31;1m[Clan] Archangel :[0m So what's wrong with the current iteration of angels?[0m
+[15:24] [0m[31;1m[Clan] Byron :[0m they got closed because top end was too bs or something[0m
+[15:24] [0m[31;1m[Clan] Byron :[0m aka more bs tjan necros[0m
+[15:24] [0m[31;1m[Clan] Aka :[0m it was an 'anti-botting' guild too, with a vaf to bot....[0m
+[15:24] [0m[31;1m[Clan] Aka :[0m so lame[0m
+[15:25] [0m[31;1m[Clan] Nix :[0m current angels have a dope delayed dmg poewr[0m
+[15:25] [0m[31;1m[Clan] Byron :[0m ive heard angels you basically have to script[0m
+[15:25] [0m[31;1m[Clan] Aka :[0m when whisper got his 3k angel bot set up and realized it wasn't[0m
+[15:25] [0m             worth it i also backed off haha[0m
+[15:25] [0m[31;1m[Clan] Byron :[0m new ones[0m
+[15:25] [0m[31;1m[Clan] Nix :[0m yeah, everything[0m
+[15:25] [0m[31;1m[Clan] Archangel :[0m Ohhh... they're closed.[0m
+[15:25] [0m[31;1m[Clan] Byron :[0m angels are currently closed? really?[0m
+[15:30] [0m[33;1m[PARTY][0m Aka: 5B to go til dupe 3[0m
+[15:30] [0m[33;1m[PARTY][0m Aka: wooO[0m
+[15:30] [0m[33;1m[PARTY][0m Aka: i think cmc will change my gameplay a bit[0m
+[15:31] [0m[33;1m[PARTY][0m Aka: can finally take the step from zombies scaler 117 to 118[0m
+[15:31] [0m     heh[0m
+[15:31] [0m[33;1m[PARTY][0m Aka: 117 10m, 118 25m[0m
+[15:42] [0m[33;1m[PARTY][0m Byron: woot[0m
+[15:42] [0m[33;1m[PARTY][0m Byron: i got extra dupes too[0m
+[15:42] [0m[33;1m[PARTY][0m Byron: and threw day 5 in cbox[0m
+[15:42] [0m[33;1m[PARTY][0m Aka: oh snap, didn't see it. i have literally never worn a cmc[0m
+[15:42] [0m     heh[0m
+[15:43] [0m[33;1m[PARTY][0m Byron: ah you need tag[0m
+[15:43] [0m[33;1m[PARTY][0m Aka: used to use coon til i needed 100k reps for, never got to[0m
+[15:43] [0m     100k yet[0m
+[15:43] [0m[33;1m[PARTY][0m Aka: i got a tag this boot![0m
+[15:43] [0m[33;1m[PARTY][0m Byron: woo[0m
+[15:43] [0m[33;1m[PARTY][0m Aka: i think day 5[0m
+[15:43] [0m[33;1m[PARTY][0m Byron: its strung[0m
+[15:43] [0m[33;1m[PARTY][0m Byron: so grab it if its there[0m
+[15:43] [0m[33;1m[PARTY][0m Aka: sick! i'll check it out[0m
+[15:43] [0m[33;1m[PARTY][0m Aka: nod[0m
+[15:54] [0m[31;1m[Clan] Zorbaine weaves the lame.[0m  [0m
+[16:09] [0m[33;1m[PARTY][0m Aka: i can port us both out of here if he doesn't return lol[0m
+[16:10] [0m[33;1m[PARTY][0m Dangerzone: ok[0m
+[16:10] [0m[33;1m[PARTY][0m Dangerzone: im down[0m
+[16:11] [0m[33;1m[PARTY][0m Dangerzone: thanks byron![0m
+[16:11] [0m[33;1m[PARTY][0m Dangerzone has quit the party.[0m
+[16:12] [0m[34;1mAka shouts:[0m massxp[0m
+[16:12] [0m[32;1mFrom afar, Simonz cheers you on!!![0m[0m
+[16:12] [0m[32;1mFrom afar, Aka goes 'Feared!' at you!![0m[0m
+[16:12] [0m[32;1mFrom afar, Taleast goes '\\//\\// [()] [()]  \\//\\// [()] [()] !! !!'[0m
+[16:12] [0m[32;1mFrom afar, Babylon thinks you're freaking BS.  Downgrade you.[0m[0m
+[16:12] [0mSimonz <.oO>: woot![0m
+[16:12] [0m[32;1mFrom afar, Stevie goes 'Woo Woo!' at you.[0m[0m
+[16:12] [0m[31;1m[Clan] Taleast :[0m woot![0m
+[16:12] [0m[34;1mSquirrel shouts:[0m 11111111111111111111111111111111111111111111111111111[0m
+[16:12] [0m[32;1mFrom afar, Thadar goes 'Woo Woo!' at you.[0m[0m
+[16:12] [0m[32;1mFrom afar, Stevie thinks you're freaking BS.  Downgrade you.[0m[0m
+[16:12] [0m[34;1mAka shouts:[0m WELCOME TO THE[0m
+[16:12] [0m[32;1mFrom afar, Archangel goes 'Woo Woo!' at you.[0m[0m
+[16:12] [0m[34;1mVolt shouts:[0m downgrade guilds![0m
+[16:12] [0m[32mVapor tells you:[0m Congrats![0m
+[16:12] [0m[32;1mFrom afar, Volt cheers you on!!![0m[0m
+[16:12] [0m[34;1mTaleast shouts:[0m UNLIMITED POWER![0m
+[16:13] [0mDangerzone <.oO>: woo!!!!!![0m
+[16:13] [0mThadar <.oO>: just what you wanted, another chat line![0m
+[16:13] [0m[34;1mDangerzone shouts:[0m I never want to leave this level! :D[0m
+[16:14] [0m[32mYou tell Simonz:[0m empty levels lol[0m
+[16:14] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[16:15] [0m[32mKerym says: [0mWell met, Swordbrother Dangerzone, May the Seldarine's Blessings be upon you.[0m
+[16:16] [0m[32;1mFrom afar, Damage goes '\/\/[][]  \/\/[][]!' at you.[0m[0m
+[16:16] [0m[31;1m[Clan] Ser :[0m Xaryl I am staying ahead of you but we left Fluffy behind[0m
+[16:17] [0m[31;1m[Clan] Ser :[0m also i am up almost a million coins this boot[0m
+[16:17] [0m[31;1m[Clan] Xaryl :[0m hehe... he should be bigger[0m
+[16:17] [0m[31;1m[Clan] Ser :[0m and over 30% transmuter xp[0m
+[16:22] [0mYou can currently reforge 12 items.[0m
+[16:26] [0m[31;1m[Clan] Ser :[0m when i told him i was going to pass him he was like that's[0m
+[16:26] [0m             fine, i'm playing gumby[0m
+[16:29] [0m[31;1m[Clan] Taleast :[0m eh?[0m
+[16:30] [0m[31;1m[Clan] Ser :[0m fluffy[0m
+[16:30] [0m[31;1m[Clan] Taleast :[0m nog, what about him?[0m
+[16:30] [0m[31;1m[Clan] Aka :[0m ser passed him in level![0m
+[16:30] [0m[31;1m[Clan] Taleast :[0m ahhhhh[0m
+[16:30] [0m[31;1m[Clan] Ser :[0m tplist[0m
+[16:30] [0m[31;1m[Clan] Taleast :[0m woot![0m
+[16:30] [0m[31;1m[Clan] Ser :[0m but Xaryl is about to catch me[0m
+[16:33] [0m[32mZokko tells you:[0m start pushing for 65 but what i did was raise 2 skills[0m
+[16:33] [0m        every few glvls until i got them to unnat[0m
+[16:53] [0m[32;1mFrom afar, you nog at Zokko.[0m[0m
+[17:03] [0m[37;1mAl flaps :[0m [Dare to be Rare!] : Rare ribeyes ftw.[0m
+[17:03] [0m[37;1mAl flaps :[0m [Dare to be Rare!] : bring back the steakchat![0m
+[17:03] [0m[37;1mNik flaps :[0m [not red and not burnt exists]: im game[0m
+[17:05] [0m[32;1mFrom afar, Alassra goes 'Woo Woo!' at you.[0m[0m
+[17:05] [0m[32;1mFrom afar, Nik goes '\\// [()] [()]  \\// [()] [()] !! !!' at you in[0m
+[17:05] [0m[32mByron tells you (Dangerzone,Aka):[0m btw - recovered from crash[0m
+[17:08] [0m[37;1mAl flaps :[0m i've been itching for a ribeye recently[0m
+[17:08] [0m[37;1mAl flaps :[0m [Dare to be Rare!] : i've been itching for a ribeye recently[0m
+[17:09] [0m[37;1mAl flaps :[0m [Dare to be Rare!] : but we've already done our costco shopping[0m
+[17:09] [0m           for the next 2-3 weeks :([0m
+[17:11] [0m[37;1mAl flaps :[0m so the dodges+the daggers confuse shit[0m
+[17:11] [0m[37;1mAl flaps :[0m oh dag, wl[0m
+[17:19] [0m[37;1mSimonz flaps :[0m hotel reset in <5 min[0m
+[17:22] [0mYou can currently reforge 12 items.[0m
+[17:24] [0m[37;1mSimonz flaps :[0m ok, reset time, be here or grind somewhere else[0m
+[17:24] [0m[37;1mSer flaps :[0m grinding somewhere else tyvm[0m
+[17:25] [0m[37;1mEnder flaps :[0m Simonz makes us grind in the guild sometimes:([0m
+[17:25] [0m[37;1mNauda flaps :[0m grining here misreading the chat[0m
+[17:25] [0m[37;1mSimonz flaps :[0m last call for zombie reset[0m
+[17:35] [0m[34;1mNauda shouts:[0m Harry you are a wizard.[0m
+[17:35] [0m[34;1mGilneas shouts:[0m Barry, youre a blizzard![0m
+[17:37] [0m[34;1mSimonz shouts:[0m didn't blizzard used to be a Bard wiz?[0m
+[17:45] [0m[34;1mTurnhold shouts: [0mAsha'man, form a line of battle![0m
+[17:45] [0m[34;1mTurnhold shouts: [0mAsha'man, Kill!![0m
+[17:46] [0m[34;1mGrot shouts:[0m warders coming back to 3k confirmed?[0m
+[17:46] [0m[34;1mSer shouts:[0m fail turntest didn't go bye[0m
+[17:48] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[18:22] [0mYou can currently reforge 12 items.[0m
+[18:44] [0m[31;1m[Clan] Taleast :[0m wow, not a single response[0m
+[18:46] [0m[31;1m[Clan] Byron :[0m beep[0m
+[18:46] [0m[31;1m[Clan] Taleast :[0m boop[0m
+[18:46] [0m[31;1m[Clan] Byron :[0m system error[0m
+[18:48] [0m[31;1m[Clan] Taleast :[0m Feed me a stray cat![0m
+[18:59] [0m[34;1mHooligan shouts:[0m woooo[0m
+[19:22] [0mYou can currently reforge 12 items.[0m
+[19:29] [0m[31;1m[Clan] Byron :[0m wert doesnt even craft, not sure wtf he wants them for[0m
+[19:32] [0m[31;1m[Clan] Taleast :[0m alt?[0m
+[19:34] [0m[31;1m[Clan] Byron :[0m dont think so[0m
+[20:22] [0mYou can currently reforge 12 items.[0m
+[20:24] [0m[31;1m[Clan] Byron :[0m going to firebat if anyone wants tag[0m
+[20:31] [0mYou can currently reforge 12 items.[0m
+[20:33] [0mYou can currently reforge 0 items.[0m
+[20:40] [0m[31;1m[Clan] Ser :[0m fk[0m
+[20:42] [0m[31;1m[Clan] Byron :[0m what's the cooldown on the cmc emblem?[0m
+[20:42] [0m[31;1m[Clan] Ser :[0m not sure[0m
+[20:42] [0m[31;1m[Clan] Byron :[0m nog[0m
+[20:42] [0m[31;1m[Clan] Ser :[0m man fkin next reboot firebat is going to be at 3-4 AM again wtf[0m
+[20:43] [0m[31;1m[Clan] Ser :[0m never gonna get a tag at this rate[0m
+[20:43] [0m[31;1m[Clan] Nix :[0m 3-4m?[0m
+[20:43] [0m[31;1m[Clan] Byron :[0m refresh item is a cheap 1b investment to reset the emblem[0m
+[20:43] [0m[31;1m[Clan] Ser :[0m 3-4 AM[0m
+[20:43] [0m[31;1m[Clan] Ser :[0m AM meaning in the morning[0m
+[20:43] [0m[31;1m[Clan] Ser :[0m time[0m
+[20:43] [0m[31;1m[Clan] Byron :[0m time?[0m
+[20:43] [0m[31;1m[Clan] Ser :[0m reboot is at 4 AM[0m
+[20:44] [0m[31;1m[Clan] Ser :[0m meaning firebat will be at 3 AM[0m
+[20:44] [0m[31;1m[Clan] Byron :[0m reboot? like a shoe?[0m
+[20:44] [0m[31;1m[Clan] Nix :[0m oh[0m
+[20:44] [0m[31;1m[Clan] Ser :[0m jesus fuck[0m
+[20:44] [0m[31;1m[Clan] Nix :[0m they wont' have enought to do it tat that hour[0m
+[20:44] [0m[31;1m[Clan] Ser :[0m they did last night[0m
+[20:44] [0m[31;1m[Clan] Byron :[0m we did it at like midnight[0m
+[20:44] [0m[31;1m[Clan] Byron :[0m and fbat actually bugged[0m
+[20:44] [0m[31;1m[Clan] Byron :[0m we blicked it in like 1 min[0m
+[20:44] [0m[31;1m[Clan] Ser :[0m was it that early fuck[0m
+[20:44] [0m[31;1m[Clan] Nix :[0m yeah, but 3am[0m
+[20:44] [0m[31;1m[Clan] Byron :[0m it was awesome[0m
+[20:45] [0m[31;1m[Clan] Byron :[0m oh, i didnt do it last night[0m
+[20:45] [0m[31;1m[Clan] Byron :[0m i did it at the 23hr[0m
+[20:45] [0m[31;1m[Clan] Ser :[0m wtf[0m
+[20:45] [0m[31;1m[Clan] Ser :[0m do you mean[0m
+[20:46] [0m[31;1m[Clan] Byron :[0m I did it friday[0m
+[20:46] [0m[31;1m[Clan] Byron :[0m or last night was it[0m
+[20:46] [0m[31;1m[Clan] Byron :[0m oh, you're right[0m
+[20:46] [0m[31;1m[Clan] Ser :[0m day 7 was last night[0m
+[20:46] [0m[31;1m[Clan] Byron :[0m yeah[0m
+[20:46] [0m[31;1m[Clan] Ser :[0m it's monday dude[0m
+[20:47] [0m[31;1m[Clan] Byron :[0m I was smoking dust with nik[0m
+[20:48] [0m[31;1m[Clan] Ser :[0m dat dirty dust[0m
+[20:49] [0m[31;1m[Clan] Byron :[0m rictor didn't drop below 500% overmax that whole fight[0m
+[20:49] [0m[31;1m[Clan] Byron :[0m beast[0m
+[20:49] [0m[31;1m[Clan] Byron :[0m wtf resource do monks tank with?[0m
+[20:51] [0m[31;1m[Clan] Michael :[0m sp[0m
+[20:51] [0m[31;1m[Clan] Michael :[0m he probably had iron will on[0m
+[20:57] [0m[31;1m[Clan] Byron :[0m i dont know shit about monks[0m
+[20:57] [0m[31;1m[Clan] Byron :[0m never played that guild[0m
+[20:57] [0m[31;1m[Clan] Nik :[0m repent[0m
+[20:58] [0m[31;1m[Clan] Nix :[0m you're not holy or pious enough to don a kimono[0m
+[20:58] [0m[31;1m[Clan] Nix :[0m the guild has a strict No Asshole Policy[0m
+[20:58] [0m[31;1m[Clan] Byron :[0m correct[0m
+[21:02] [0m[31;1m[Clan] Ser :[0m unlike your mom eyyyo[0m
+[21:02] [0m[31;1m[Clan] Ser :[0m i can't believe noone else said that[0m
+[21:02] [0m[31;1m[Clan] Michael :[0m I thought it[0m
+[21:30] [0m[34;1mVat shouts:[0m thanks![0m
+[21:31] [0m[31;1m[Clan] Byron :[0m my bot only idles[0m
+[21:42] [0m[31;1m[Clan] Xaryl :[0m some of the specials from 136 Terra is over 8k :([0m
+[21:43] [0m[31;1m[Clan] Taleast :[0m :([0m
+[21:47] [0m[31;1m[Clan] Ser :[0m lucky i have 12k hp atm[0m
+[21:47] [0m[31;1m[Clan] Xaryl :[0m maybe I should pump some +hpo for now[0m
+[21:47] [0m[31;1m[Clan] Xaryl :[0m instead of some Epowers[0m
+[21:47] [0m[31;1m[Clan] Ser :[0m Max HP       :  11592  (11556) +36[0m
+[21:49] [0m[31;1m[Clan] Ser :[0m just a meatball[0m
+[22:08] [0m[37;1mInfected flaps :[0m zambie reset swang by[0m
+[22:11] [0m[37;1mInfected flaps :[0m resetted[0m
+[22:12] [0mVagrant <.oO>: pew pew pe w[0m
+[22:12] [0mVagrant <.oO>: pewwww[0m
+[22:12] [0mTaleast <.oO>: grats![0m

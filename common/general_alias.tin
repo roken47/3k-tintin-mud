@@ -1,0 +1,150 @@
+#class {universal aliases} {KILL};
+#class {universal aliases} {OPEN};
+
+/*      Adventuring Related     */
+#alias {gl} {glance}
+#alias {l} {look}
+#alias {S} {search}
+#alias {ga} {get all}
+#alias {gac} {get all from corpse}
+#alias {gc} {get coins}
+#alias {k} {kill}
+#alias {/k} {killed}
+#alias {li} {lineofsight}
+#alias {sm} {smuggle}
+#alias {rsm} {smuggle remove}
+#alias {fol} {follow}
+#alias {rfol} {unfollow}
+#alias {rem} {remove}
+#alias {sa} {sell all}
+#alias {.sa} {can;keep cell;sell all;home}
+#alias {fa} {fix all}
+#alias {.fa} {ws;fix all;home}
+#alias {da} {deposit all}
+#alias {.da} {atm;deposit all;home}
+#alias {.b} {balance}
+#alias {ql} {questlist}
+#alias {sq} {skillquests}
+#alias {clan} {cwho -O}
+#alias {3k} {players -local}
+#alias {rm} {dispose}
+#alias {ls} {list}
+#alias {pq} {pquit}
+#alias {ps} {profs}
+
+/*      Crafting        */
+#alias {ci} {stashlist}
+#alias {cs} {craftstats}
+#alias {cs2} {craftstats2}
+#alias {X} {spelunk;mine ore}
+#alias {mat} {stash all}
+#alias {rmat} {unstash}
+#alias {pro} {prospect}
+#alias {dig} {prospect for}
+#alias {crf} {craftfinger}
+#alias {en} {entrap}
+#alias {wr} {get essence;wrangle}
+#alias {IN} {insert}
+
+#NOP    ---NAVIGATION FROM HOME
+#variable {mcraft} {craft;nw;w;w;sw;se}
+#variable {mhome} {nw;ne;e;e;se;home}
+#variable {bcraft} {craft;nw;w;w;sw;nw;e}
+#variable {bhome} {se;ne;e;e;se;home}
+#variable {ecraft} {craft;nw;w;s;e}
+#variable {ehome} {n;e;se;home}
+
+/*      Communication   */
+#alias {ct} {ctell}
+#alias {cth} {ctell -h}
+#alias {pt} {ptell}
+#alias {pth} {ptell -h}
+#alias {t} {tell}
+#alias {re} {reply}
+#alias {th} {tellhist}
+#alias {/com} {(chat main}
+#alias {hcom} {house chat}
+#alias {ccom} {craft}
+#alias {ctcom} {ctrade}
+#alias {fc} {flapchat}
+#alias {sh} {shout}
+
+#NOP    ---HOME BUILDING
+#alias {h/edit} {houseedit}
+#alias {h/help} {houseedit help}
+#alias {h/info} {houseedit houseinfo}
+#alias {h/paris} {home 182}
+#alias {h/clan} {home 227}
+#alias {h/} {home 929}
+#alias {h/bal} {house balance}
+
+#NOP    ---AFK STATUSES
+
+#alias {home.afk} {afk There's no place like 127.0.0.1}
+#alias {work.afk} {afk #deliveringsmiles @Amazon[tell ASAP]}
+#alias {road.afk} {afk Driving, I'll respond ASAP}
+#alias {zzz.afk} {afk May the Force be with You!}
+
+/*      Eternals Guild          */
+
+#alias {/gs} {(gs}
+#alias {/gs2} {(gs2}
+#alias {/train} {(train}
+#alias {/pwrs} {(powers}
+#alias {/info} {(info}
+#alias {/learn} {(learn}
+#alias {/finger} {(finger}
+#alias {/hp} {(hp}
+#alias {/who} {(who}
+#alias {/status} {(babble}
+#alias {/guild} {pound;s;w;s;portal;enter;l}
+#alias {/cs} {(cstats}
+#alias {reset -ht -p} {(reset dungeon Hotel Transylvania party}
+#alias {reset -zc -p} {(reset dungeon Zelligar's Castle party}
+#alias {reset -e -p} {(reset dungeon Noisy Battleground party}
+
+/*      Dungeons                */
+
+#alias {ds} {dungeons}
+#alias {zell} {#2 {unkeep a small brass key;sell a small brass key};#2 {unkeep a small iron key;sell a small iron key};unkeep gloves of acid protection;sell gloves of acid protection;#showme <170>Sold Zelligar Dungeon TRASH}
+#alias {hrdm} {#var IdleTimeout 3600;#showme <170> set to 1 hour Idle Timeout}
+#alias {hdm} {#var IdleTimeout 1800;#showme <170> set to 30 minute Idle Timeout}
+#alias {defdm} {#var IdleTimeout 600;#showme <170> set to default Idle Timeout}
+#alias {qdm} {#var IdleTimeout 900;#showme <170> set to 15 minute Idle Timeout}
+#alias {.zh} {get headband;wear headband;keep headband;ibrief headband}
+
+/*      Non Mapper Shortcuts    */
+#alias {goto} {
+        #switch {"%1"} {
+                #case {"ser"} {fy;portal;#7 w;#8 s;e;charter serinth};
+                #case {"sopem"} {#3 se;e;#5 s;w;#4 s;e;se;sw;s;#5 w;sw;w;#11 s;#3 w;s;se;e;s;sw;s;enter sopem;center;center;sleep upon altar;#delay {5} {#showme <110>  Search East Wall until Long Spike is Found, then Exa Spike and Push Spike}};
+                #case {"beloch"} {fy;portal;#15 e;leave;e;e;s;e;e;e;e;e;e;e;e;e;s;e;s;w;s;s;s;s;s;s;w;w;s;d;d;d};
+                #case {"chess"} {ch;enter;e;scaler 150;climb;fdef_reset;#read bots/chess.tin};
+                #case {"hotel"} {ch;enter;$cochotel;scaler 150;fdef_reset;#read bots/hoteltrans.tin};
+                #case {"zel"} {fy;$fanzel;scaler 150;fdef_reset;#read bots/zelligar.tin};
+                #case {"smurf"} {ch;enter;e;scaler 110;fdef_reset;s;#read bots/smurf.tin};
+                #case {"mine"} {$mcraft;#read bots/miner.tin};
+                #case {"nyc"} {sy;enter;u;#4 n;d;n;e;e;n;e;e;n;#15 e;#19 n;#7 e;bridge;e};
+				#case {"crim"} {fy;portal;n;n;n;n;n;n;n;n;n;n;n;w;w;w;w;w;w;w;w;w;n;climb well;d;d;d};
+				#case {"rim"} {fy;$fanrim2;#read bots/rimalkins.tin};
+				#case {"terra"} {ch;enter;#3 w;n;enter;scaler 105;#read bots/treehouse.tin};
+		#case {"sz"} {sy;u/3n/w/n/play};
+                #default {
+                        #showme <170>           Current Options:                ;
+                        #showme <169>   ser   : <088> Charter to Serinth for PB   ;
+                        #showme <169>   sopem : <088> <110>*UPDATE*<088>Slumber at the Altar for PB;
+                        #showme <169>   beloch :<110>*UPDATE* <088> Will be 1 south of Beloch   ;
+                        #showme <169>   chess : <088> Chess @ Scaler 143        ;
+                        #showme <169>   hotel : <088> Hotel @ Scaler 143       ;
+                        #showme <169>   zel   : <088> Zelligar @ Scaler 143    ;
+                        #showme <169>   smurf : <088> Smurf @ Scaler 110        ;
+						#showme <169>   crim  : <088> Find Crimson Gear         ;
+						#showme <169>   rim   : <088> Fight Rimalkins 2.0 Cave  ;
+                        #showme <169>   mine  : <088> Starts Miner Bot  ;
+			#showme <169>	section z: goto sz;
+                        #showme <110>   update: alias.tin when scalers go up;
+                        #showme <170>||||[-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-]||||;
+                        }}}
+
+
+#class {universal aliases} {CLOSE};

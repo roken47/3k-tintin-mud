@@ -1,0 +1,23 @@
+#class {alias} {kill}
+#class {alias} {open}
+
+#nop ---COMBAT---
+#alias {tank} {
+        #var tank %1;
+        #switch {"%1"} {
+
+        #case {"on"} {#showme <170>Kill Trigger ENABLED;
+                #alias {corpsetrig} {
+        boost;envelop corpse;get coins from corpse;
+        .bot};}
+
+        #case {"ga"} {#showme <170>Loot Ktrig ENABLED;
+                #alias {corpsetrig} {
+        boost;envelop corpse;get all from corpse;.bot};}
+        #case {"off"} {#showme <110>Kill Trigger DISABLED;#alias {corpsetrig} {#nop}};
+        #default {#showme <169>When in a Party turn 'tank' to 'off' position <170> otherwise keep 'on' to keep
+                        triggering your 'corpsetrig' functions. Loot mode "ga".;}}}
+#alias {.cbot} {#act {dealt the killing blow to} {corpsetrig};}
+#act {dealt the killing blow to} {corpsetrig};
+
+#class {alias} {close}

@@ -1,0 +1,808 @@
+- = LOG STARTED [00:00] = -
+[00:00] [0mnewb Asp [jedi/105]: reporting typos might be a full-time job...[0m
+[00:01] [0mnewb Inix [juggernaut/138]: Keep in mind, 'bury corpse' was an 'adventurer'[0m
+[00:01] [0m                            ability.  Then syntax might be different for[0m
+[00:01] [0m                            your new guild, 'cleric'.  I haven't played[0m
+[00:01] [0m                            them, so I don't know what it is.[0m
+[00:02] [0mnewb Zera [cleric/5]: Oh, so I might be using a soul instead?[0m
+[00:02] [0mnewb Deacon [bard/17]: Inix is correct.[0m
+[00:02] [0mnewb Ukyo [jedi/106]: also, there's a 'third' option, as it were. and that's[0m
+[00:02] [0m                      to 'aqcuire' a coffin at the city morgue[0m
+[00:02] [0mnewb Zera [cleric/5]: Hmm, okay[0m
+[00:02] [0mnewb Deacon [bard/17]: You will have a new list of powers, bury may not be[0m
+[00:02] [0m                       one of them.[0m
+[00:02] [0mnewb Ukyo [jedi/106]: yea, he's got the right of it, in regards to bury[0m
+[00:02] [0m                      being an adventurer command, i think[0m
+[00:02] [0mnewb Inix [juggernaut/138]: 'info' is usually the 'help' system for your[0m
+[00:02] [0m                            specific guild[0m
+[00:03] [0m[4m[31m[JEDI]: Kerran Halcyon arrives at the Academy.[0m[0m[0m
+[00:04] [0mnewb Zera [cleric/5]: Is it appropriate to ask in the newb channel for ideas[0m
+[00:04] [0m                      on where to kill things that isn't the newbieland[0m
+[00:04] [0m                      forest?  I don't want to kill all the mobs that the[0m
+[00:04] [0m                      actual newbie adventurers need.[0m
+[00:04] [0mnewb Ukyo [jedi/106]: indeed, help areadirections[0m
+[00:05] [0mnewb Ukyo [jedi/106]: that'll give you a good starting list to work from.[0m
+[00:05] [0m                      also, help rating[0m
+[00:05] [0mnewb Ukyo [jedi/106]: and, help consider[0m
+[00:05] [0mnewb Fluffy [changeling/134]: help areadirections[0m
+[00:06] [0mnewb Fluffy [changeling/134]: give you some good places to try[0m
+[00:06] [0mnewb Ukyo [jedi/106]: we often talk about what we can kill in terms of[0m
+[00:06] [0m                      k(thousands) or M(millions) of xp the mob gives.[0m
+[00:07] [0mnewb Zera [cleric/5]: Someone recommended I check out the town of[0m
+[00:07] [0m                      woonsocket.  Is that still advisable?[0m
+[00:07] [0mnewb Hyuga [jedi/133]: its unavoidable :([0m
+[00:08] [0mnewb Zera [cleric/5]: Why do people fear this place?[0m
+[00:08] [0mnewb Ukyo [jedi/106]: fear? heh.[0m
+[00:09] [0mnewb Zera [cleric/5]: Also, is it allowable to go away from keyboard for[0m
+[00:09] [0m                      long periods of time?[0m
+[00:09] [0mnewb Ukyo [jedi/106]: also, don't go to the lonely keep in fantasy. you will[0m
+[00:09] [0m                      get trolled to go there. don't.[0m
+[00:09] [0mnewb Hyuga [jedi/133]: woonsocket is the newbie area. for a time when you[0m
+[00:09] [0m                       log in, instead of jumping from the login room to[0m
+[00:09] [0m                       CoT, as per normal, it will instead take you to[0m
+[00:09] [0m                       woonsocket[0m
+[00:09] [0mnewb Ukyo [jedi/106]: indeed it is allowable, help afk[0m
+[00:09] [0mnewb Fluffy [changeling/134]: just 'touch post' @ cot should fix starting[0m
+[00:09] [0m                              waypoint[0m
+[00:10] [0mnewb Ukyo [jedi/106]: we've got an afk command that lets you set a message[0m
+[00:10] [0m                      when people try to contact you while  you're afk[0m
+[00:10] [0mnewb Hyuga [jedi/133]: afk is fine as long as your client isn't killing mobs[0m
+[00:10] [0m                       for you[0m
+[00:10] [0mnewb Whoknows [priest/84]: yeah, if you initiate combat, walk away and come[0m
+[00:10] [0m                           back, check tells... i almost got zapped for not[0m
+[00:10] [0m                           responding[0m
+[00:10] [0mnewb Ukyo [jedi/106]: help bottin[0m
+[00:10] [0mnewb Ukyo [jedi/106]: help botting[0m
+[00:10] [0mnewb Zera [cleric/5]: Well, I should hope that someone as familiar with muds[0m
+[00:10] [0m                      as I am would be smart enough to not bot[0m
+[00:11] [0mnewb Zera [cleric/5]: But you never know.  Some people don't actually care[0m
+[00:11] [0m                      about playing a multiplayer game the right way[0m
+[00:15] [0mnewb Zera [cleric/5]: Still mostly afk, but how do I get rid of a death cow?[0m
+[00:15] [0m                      It's spamming my entire screen[0m
+[00:15] [0mnewb Fluffy [changeling/134]: punt cow to <person>[0m
+[00:15] [0mnewb Whoknows [priest/84]: score[0m
+[00:15] [0mnewb Inix [juggernaut/138]: pretty sure if you 'exa cow' it shows that[0m
+[00:15] [0m                            syntax[0m
+[00:15] [0mnewb Zera [cleric/5]: Oh, gosh, I didn't realize the cow was an actual thing[0m
+[00:15] [0m                      and not just flavor text[0m
+[00:15] [0mnewb Whoknows [priest/84]: oh and inix is a bot in human diguise[0m
+[00:16] [0m[34;1mHyuga shouts:[0m watch me shank this[0m
+[00:16] [0mnewb Inix [juggernaut/138]: nod, most spam comes from either other players,[0m
+[00:16] [0m                            objects in room, or object in inventory[0m
+[00:16] [0mnewb Deacon [bard/17]: Fluffy gets them from time to time...then the spam[0m
+[00:16] [0m                       continues until someone shanks it.[0m
+[00:16] [0m[34;1mFluffy shouts:[0m yew khan dew eet![0m
+[00:16] [0mnewb Deacon [bard/17]: Or it hits an idler.[0m
+[00:17] [0m[34;1mUkyo shouts:[0m You know what rhymes with Frank?[0m
+[00:17] [0mnewb Deacon [bard/17]: ...Or a bot.[0m
+[00:17] [0m[34;1mHyuga shouts:[0m skank?[0m
+[00:17] [0mnewb Zera [cleric/5]: bots are just idlers who shouldn't be connected[0m
+[00:17] [0m[34;1mUkyo shouts:[0m Shank.[0m
+[00:17] [0m[34;1mBoosh shouts:[0m frank is not a tank but in the skank with the wank with that i[0m
+[00:17] [0m              bid you a god night with leaving without a light[0m
+[00:17] [0m[34;1mHyuga shouts:[0m oh that was a typo my bad[0m
+[00:17] [0mnewb Zera [cleric/5]: anyway, going afk again[0m
+[00:18] [0mnewb Inix [juggernaut/138]: Bot!  Get him!![0m
+[00:18] [0mnewb Zera [cleric/5]: Ah, but I'm not a him[0m
+[00:19] [0mHyuga flaps : BEER RUN[0m
+[00:19] [0mHyuga flaps : oops. i mean STAR TREK[0m
+[00:19] [0mnewb Inix [juggernaut/138]: Foiled again, darn those meddling kids.[0m
+[00:21] [0mnewb Hyuga [jedi/133]: *pulls off Inix's mask to reveal Old Mister John!*[0m
+[00:26] [0mHyuga [Jedi(90)]: ARRROOOOOOOOOOOOOOO[0m
+[00:29] [0mnewb Zera [cleric/5]: if a spell tells me I'm "too low," does it mean exp[0m
+[00:29] [0m                      level, glvl, or relevant stats/skills? (back, btw)[0m
+[00:31] [0mnewb Ukyo [jedi/106]: tbh, not enough information. it should have a level[0m
+[00:31] [0m                      requirement listed somewhere for you to know one way[0m
+[00:31] [0m                      or another, if that's the case. might also be a glvl[0m
+[00:31] [0m                      restriction.[0m
+[00:31] [0mnewb Ukyo [jedi/106]: you'll have to check the cleric files to know for sure[0m
+[00:34] [0mnewb Zera [cleric/5]: It just says the spell heals for a small amount and is[0m
+[00:34] [0m                      impacted by guild level and reverence and focus (the[0m
+[00:34] [0m                      latter two of which are cleric skills)[0m
+[00:35] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[00:35] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[00:35] [0m                          get ready![0m
+[00:35] [0mnewb Glister [sorcerer/59]: type spells or info spells[0m
+[00:36] [0mnewb Glister [sorcerer/59]: does that show at what glvl they become[0m
+[00:36] [0m                            available?[0m
+[00:36] [0mnewb Zera [cleric/5]: aha!  glev requirements[0m
+[00:36] [0mnewb Glister [sorcerer/59]: :D[0m
+[00:36] [0mnewb Ukyo [jedi/106]: do i get to claim 'called it' rights on that one?[0m
+[00:37] [0mnewb Glister [sorcerer/59]: if the spell had other requirements then it[0m
+[00:37] [0m                            should say in info spellname[0m
+[00:37] [0mnewb Zera [cleric/5]: That makes sense.  Thanks.[0m
+[00:38] [0mnewb Glister [sorcerer/59]: everything i learned was from ukyo anyway so..[0m
+[00:38] [0mnewb Glister [sorcerer/59]: :D[0m
+[00:39] [0m[4m[31m[JEDI]: Reena Bel Noir arrives at the Academy.[0m[0m[0m
+[00:39] [0mnewb Zera [cleric/5]: I have learned a ton of things from many sources,[0m
+[00:39] [0m                      tonight.[0m
+[00:39] [0mnewb Ukyo [jedi/106]: Lies. SMS are known to be bs.[0m
+[00:39] [0mnewb Ukyo [jedi/106]: ok, so, bs. here, it means badass, just fyi[0m
+[00:40] [0mnewb Zera [cleric/5]: I'm really confused what you're calling bs about[0m
+[00:40] [0mnewb Ukyo [jedi/106]: that's teh only major shorthand that i know to be[0m
+[00:40] [0m                      different in our nomenclature off hand that might be[0m
+[00:40] [0m                      important to be aware of.[0m
+[00:41] [0mnewb Zera [cleric/5]: Oh, this game is based in the UK?[0m
+[00:41] [0m[34;1mKitt shouts:[0m autobots get ready[0m
+[00:41] [0mnewb Ukyo [jedi/106]: bs, is our shorthand for badass, it's not short for[0m
+[00:41] [0m                      bull crap. at least, when we use it in certain[0m
+[00:41] [0m                      contexts[0m
+[00:41] [0mnewb Whoknows [priest/84]: no, but we got invade by a bunch of blokes[0m
+[00:41] [0mnewb Whoknows [priest/84]: invaded[0m
+[00:41] [0mnewb Ukyo [jedi/106]: swedes[0m
+[00:42] [0mnewb Ukyo [jedi/106]: it was the swedes, wasn't it?[0m
+[00:42] [0mnewb Zera [cleric/5]: Oh, gotcha.  I'm from the US, myself, where muds are[0m
+[00:42] [0m                      much less popular.[0m
+[00:42] [0mnewb Ukyo [jedi/106]: most of us are, just that long long ago, we had a[0m
+[00:42] [0m                      BUNCH of swedes. so much so, that there's things you[0m
+[00:42] [0m                      will get autojailed for shouting.[0m
+[00:42] [0mnewb Inix [juggernaut/138]: This is a US mud.[0m
+[00:42] [0mnewb Asp [jedi/105]: BS was probably from the aussies, no shortage of them[0m
+[00:42] [0m                     back in the day[0m
+[00:43] [0mnewb Ukyo [jedi/106]: hell, no shortage of them now, iirc[0m
+[00:43] [0m[34;1mVax shouts:[0m 3e of xaxis[0m
+[00:43] [0m[34;1mVax shouts:[0m psi-wielding[0m
+[00:43] [0mnewb Zera [cleric/5]: It's neat how cultures can mesh in online games in[0m
+[00:43] [0m                      which the servers aren't overly centralized to[0m
+[00:43] [0m                      preserve latency *stares in FFXIV*[0m
+[00:44] [0m[34;1mVagrant shouts:[0m new phone...[0m
+[00:44] [0m[34;1mInix shouts:[0m ...who dis?[0m
+[06:51] [0m[34;1mBoosh shouts:[0m evebodies KUNGFU BOTTING[0m
+[06:55] [0m[4m[31m[JEDI]: Wennic Ber'ni'lok arrives at the Academy.[0m[0m[0m
+[07:01] [0m[34;1mSer shouts:[0m hoo haa[0m
+[07:12] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[07:12] [0mYou can currently reforge 12 items.[0m
+[07:21] [0m[4m[31m[JEDI]: Ylenic It'kla arrives at the Academy.[0m[0m[0m
+[07:35] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[07:43] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[07:48] [0m[4m[31m[JEDI]: Kerran Halcyon arrives at the Academy.[0m[0m[0m
+[07:50] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[07:58] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[07:58] [0mUkyo [Jedi(76)]: i guess hyuga got his death port to town[0m
+[08:02] [0mKitt flaps : good morning all[0m
+[08:07] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[08:07] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[08:13] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[08:13] [0mYou can currently reforge 4 items.[0m
+[08:16] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[08:23] [0mRoken [Jedi(48)]: morning all![0m
+[08:23] [0m[32;1mFrom afar, Ukyo greets you with a wave.[0m[0m
+[08:24] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[08:27] [0m[4m[31m[JEDI]: Reena Bel Noir arrives at the Academy.[0m[0m[0m
+[08:32] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[08:40] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[08:48] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[08:52] [0m[34;1mNauda shouts:[0m Hot female police officer: Anything you say can and will be[0m
+[08:52] [0m              used against you... Me: B(. Y .)BIES![0m
+[08:56] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[08:58] [0m[4m[31m[JEDI]: Durnoth arrives at the Academy.[0m[0m[0m
+[09:05] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[09:05] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[09:07] [0mBurnaby [Jedi(51)]: yo![0m
+[09:07] [0mChaed [Jedi(AGM)]: heyo[0m
+[09:13] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[09:14] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[09:14] [0mYou can currently reforge 8 items.[0m
+[09:21] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[09:30] [0m[34;1mNauda shouts:[0m Hot dog that barks is not hot enough.[0m
+[09:30] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[09:31] [0m[4m[31m[JEDI]: Janath Meelin arrives at the Academy.[0m[0m[0m
+[09:39] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[09:47] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[09:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[09:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[09:59] [0m[4m[31m[JEDI]: Talia Ska arrives at the Academy.[0m[0m[0m
+[10:05] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[10:14] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[10:14] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[10:14] [0mYou can currently reforge 12 items.[0m
+[10:22] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[10:22] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[10:31] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[10:32] [0m[4m[31m[JEDI]: Tobias Kel'ach'nar arrives at the Academy.[0m[0m[0m
+[10:40] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[10:40] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[10:48] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[10:55] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[10:58] [0m[4m[31m[JEDI]: H'ssani C'talan arrives at the Academy.[0m[0m[0m
+[11:03] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[11:06] [0mnewb Ukyo [jedi/106]: maybe if i ask here, i might get a somewhat serious[0m
+[11:06] [0m                      response. what's the deal with exceptionally balanced[0m
+[11:06] [0m                      weapons? anything special?[0m
+[11:07] [0mnewb Sleepy [cyborg/121]: thought it meant a dex-based bonus to damage as[0m
+[11:07] [0m                          well as the standard str-based bonus[0m
+[11:08] [0mnewb Quaker [Wizard]: thats 5th ed sleepy[0m
+[11:10] [0mnewb Ukyo [jedi/106]: the dex bonus makes sense[0m
+[11:12] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[11:16] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[11:16] [0mYou can currently reforge 12 items.[0m
+[11:30] [0m[4m[31m[JEDI]: Bithoff Jonansaan arrives at the Academy.[0m[0m[0m
+[11:33] [0mArundin shouts: Many thanks to Chaed!  With his donation, the Jedi Guild is[0m
+[11:33] [0m                now leading in donations![0m
+[11:33] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[11:42] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[11:50] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[11:58] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[11:58] [0m[4m[31m[JEDI]: Rhaan arrives at the Academy.[0m[0m[0m
+[12:05] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:13] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:16] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[12:16] [0mYou can currently reforge 12 items.[0m
+[12:21] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:21] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:22] [0mUkyo [Jedi(76)]: i'm not getting between nik, lachlan, and fate. screw that[0m
+[12:23] [0mSimonz [Jedi(55)]: heh[0m
+[12:23] [0mChaed [Jedi(AGM)]: sounds dirty[0m
+[12:28] [0m[4m[31m[JEDI]: Alyssa K'tal arrives at the Academy.[0m[0m[0m
+[12:29] [0mSaim [Jedi(Master)]: sounds like a love triangle yea[0m
+[12:29] [0mUkyo [Jedi(76)]: it's a playcult thing[0m
+[12:30] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:30] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:38] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:46] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:48] [0m[5m[1m[44mYour lightsaber begins to flicker and the handle warms![0m[0m                 [0m
+[12:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:57] [0m[4m[31m[JEDI]: Herah Wylann arrives at the Academy.[0m[0m[0m
+[12:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[12:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:02] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:05] [0m[34;1mFlaxen shouts:[0m hickory[0m
+[13:05] [0m[34;1mLachlan shouts:[0m dickory[0m
+[13:06] [0m[34;1mVapor shouts:[0m dock[0m
+[13:06] [0m[34;1mSaim shouts:[0m flaxen took out his[0m
+[13:07] [0m[34;1mLicklick shouts:[0m chalk[0m
+[13:07] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:07] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:08] [0m[34;1mBurnaby shouts:[0m He scribbled some lines[0m
+[13:12] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:17] [0mWhoknows flaps : BOooo, Hisssss, time to unplug, lightning storm brewing[0m
+[13:17] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[13:17] [0mYou can currently reforge 12 items.[0m
+[13:21] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:26] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:26] [0m[4m[31m[JEDI]: Alyssa K'tal arrives at the Academy.[0m[0m[0m
+[13:31] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:36] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:39] [0m[34;1mFlaxen shouts:[0m and had a good time[0m
+[13:39] [0m[34;1mLachlan shouts:[0m hickory[0m
+[13:42] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:42] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:47] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[13:52] [0m[4m[31m[JEDI]: Durnoth arrives at the Academy.[0m[0m[0m
+[13:56] [0m[34;1mSimonz shouts:[0m dickory[0m
+[13:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[14:02] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[14:08] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[14:09] [0m[34;1mEllegon shouts:[0m Anyone have some hot sauce? and can you hot sauce the SSQ?[0m
+[14:13] [0m[34;1mKitt shouts:[0m I added Hot Sauce to Voodoos pants[0m
+[14:13] [0m[34;1mEllegon shouts:[0m to what effect? he doesn't wear them.[0m
+[14:13] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[14:18] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[14:18] [0mYou can currently reforge 12 items.[0m
+[14:18] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[14:21] [0m[4m[31m[JEDI]: H'ssani C'talan arrives at the Academy.[0m[0m[0m
+[14:23] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[14:44] [0m[34;1mKitt shouts:[0m thats why he doesnt wear them, too sexy hot for his pants[0m
+[14:54] [0m[4m[31m[JEDI]: Reena Bel Noir arrives at the Academy.[0m[0m[0m
+[14:54] [0mnewb Zera [cleric/6]: How do I get skill points?  Just by leveling up?[0m
+[14:54] [0mnewb Zera [cleric/6]: I wasn't able to discern a clear answer from the help[0m
+[14:54] [0m                      files[0m
+[14:55] [0mnewb Whisper [cyborg/132]: you get 1 skill point for every 5 mortal levels.[0m
+[14:55] [0mnewb Whisper [cyborg/132]: there are also skill quests for whichn you can[0m
+[14:55] [0m                           gain skill points.[0m
+[14:55] [0mnewb Whisper [cyborg/132]: help mskills[0m
+[14:55] [0mnewb Gaidin [elemental/130]: There are also a series of skill quests,[0m
+[14:55] [0m                             several of which you can complete right now[0m
+[14:56] [0mnewb Whoknows [priest/84]: wtf? skill point quests?[0m
+[14:56] [0mnewb Whoknows [priest/84]: now you tell me? :D[0m
+[14:57] [0mnewb Whoknows [priest/84]: here i am nolifing so i can get the 1pt every[0m
+[14:57] [0m                           year[0m
+[14:57] [0mnewb Whisper [cyborg/132]: use the argument: skillquests[0m
+[14:58] [0mnewb Gaidin [elemental/130]: And I believe the skill point per year is per[0m
+[14:58] [0m                             calendar year, not character age year[0m
+[14:59] [0mnewb Whoknows [priest/84]: hehe i know, just joking around[0m
+[15:07] [0m[34;1mCrolack shouts:[0m Here's what I've bought on Amazon Prime day so far:[0m
+[15:08] [0m[34;1mWhisper shouts:[0m que's drum roll[0m
+[15:08] [0m[34;1mGaidin shouts:[0m I picked up hard drives for my media server[0m
+[15:22] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[15:22] [0mYou can currently reforge 4 items.[0m
+[15:23] [0m[Auction] Robert : Up for bids: Average gem of standard excessive health and[0m
+[15:23] [0m                   spirit (100%), Average gem of standard excessive health[0m
+[15:23] [0m                   and spirit (100%), Average gem of standard excessive[0m
+[15:23] [0m                   health and spirit (100%), Average gem of standard[0m
+[15:23] [0m                   excessive health and spirit (100%), Average gem of[0m
+[15:23] [0m                   standard excessive health and spirit (100%), Average gem[0m
+[15:23] [0m                   of standard excessive health and spirit (100%), Average[0m
+[15:23] [0m                   gem of standard excessive health and spirit (100%),[0m
+[15:23] [0m                   Average gem of standard excessive health and spirit[0m
+[15:23] [0m                   (100%), Poor gem of standard excessive health and spirit[0m
+[15:23] [0m                   (100%), Average gem of standard excessive health and[0m
+[15:23] [0m                   spirit (100%), Average gem of standard excessive health[0m
+[15:23] [0m                   and spirit (100%), Good gem of standard excessive health[0m
+[15:23] [0m                   and spirit (100%) and Average gem of standard excessive[0m
+[15:23] [0m                   health and spirit (100%).[0m
+[15:23] [0m[Auction] Robert : Sith has requested 10,000 as the opening offer.[0m
+[15:23] [0m[Auction] Burnaby (jedi) : speaking of excessive[0m
+[15:24] [0m[Auction] Sith (jugg) : i have 2 more that couldnt get in there so buyer can[0m
+[15:24] [0m                        come get those from me as well[0m
+[15:24] [0m[Auction] Robert : Oh, come on... just 10000 coins?[0m
+[15:24] [0m[Auction] Robert : Got 10,000 from Simonz(jedi).  Do I hear 10,500?[0m
+[15:24] [0m[Auction] Robert : 10,000 going once![0m
+[15:24] [0m[Auction] Robert : 10,000 going twice![0m
+[15:25] [0m[Auction] Robert : Sold to Simonz for 10,000 coins![0m
+[15:27] [0m[4m[31m[JEDI]: Rhaan arrives at the Academy.[0m[0m[0m
+[15:40] [0m[32mSimonz tells you:[0m I think I'm in a pretty good place now[0m
+[15:41] [0m[32mSimonz tells you:[0m I can handle all the scalers I do up to 84, and 83 or 84[0m
+[15:41] [0m        is the minimum scaler for level 111[0m
+[15:41] [0m[32mSimonz tells you:[0m and I'm actually well above that for most of them[0m
+[15:44] [0m[32;1mFrom afar, you smile at Simonz.[0m[0m
+[15:47] [0m[32mSimonz tells you:[0m I saw you said you're starting to work on crafting,[0m
+[15:47] [0m        how's that going?[0m
+[15:50] [0m[32mYou tell Simonz:[0m 12 mining / 17 smithing. mining is slow goin. I need 15 lv[0m
+[15:50] [0m        to maximize use of lev3 mineshaft[0m
+[15:50] [0m[32mSimonz tells you:[0m need a bot?  ;)[0m
+[15:51] [0m[32mYou tell Simonz:[0m ez ... idk yet how the gems work into the big picture. I'd[0m
+[15:51] [0m        love some sweet armor like ukyo's and his was only titanium can't[0m
+[15:51] [0m        imagine how powerful chaostone will be[0m
+[15:51] [0m[32mSimonz tells you:[0m i know, right?[0m
+[15:51] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[15:51] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[15:51] [0m                          get ready![0m
+[15:51] [0m[32mSimonz tells you:[0m so gems do two things[0m
+[15:51] [0m[32mYou tell Simonz:[0m will you share it on discord, you can dm it to me. Curious[0m
+[15:51] [0m        how it is laid out[0m
+[15:52] [0m[32mSimonz tells you:[0m you can use them on normal eq, and get a +stat or other[0m
+[15:52] [0m        effect on it, or you can include the gem in something you smith,[0m
+[15:52] [0m        and the effect is doubled-ish[0m
+[15:53] [0m[32mSimonz tells you:[0m I deleted my discord account, too much garbage on there.[0m
+[15:53] [0m        send me your email and I'll email it to you.  I need to clean it up[0m
+[15:53] [0m        just a bit, right now it's set up the same as my normal bot, but[0m
+[15:53] [0m        for this I think it's more efficient to just combine it all into[0m
+[15:53] [0m        one file[0m
+[15:54] [0m[34;1mKitt shouts:[0m OMG Event[0m
+[15:55] [0m[4m[31m[JEDI]: Kerran Halcyon arrives at the Academy.[0m[0m[0m
+[15:57] [0m[32mYou tell Simonz:[0m mradeboer7@gmail.com[0m
+[15:58] [0mWhisper flaps : 3n of xaxis[0m
+[16:00] [0mWhisper flaps : looks to be radiation dmg[0m
+[16:22] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[16:22] [0mYou can currently reforge 8 items.[0m
+[16:24] [0mnewb Zera [cleric/6]: I have a weird question: Can I make bank transfers to[0m
+[16:24] [0m                      pay for items?[0m
+[16:25] [0mnewb Gaidin [elemental/130]: No, you usually have to have the coins on hand.[0m
+[16:25] [0mnewb Zera [cleric/6]: Alright.  Good to know.[0m
+[16:26] [0m[4m[31m[JEDI]: Tobias Kel'ach'nar arrives at the Academy.[0m[0m[0m
+[16:34] [0mnewb Zera [cleric/6]: Is there a good way to get information about a given[0m
+[16:34] [0m                      item a shop has for sale?[0m
+[16:34] [0mnewb Nauda [necromancer/123]: ask here[0m
+[16:34] [0mnewb Whisper [cyborg/132]: not really no...shops can list w/a/o[0m
+[16:34] [0m                           weapons/armor/other[0m
+[16:34] [0mnewb Whisper [cyborg/132]: but as far as what the specific item does, beyond[0m
+[16:34] [0m                           that no[0m
+[16:51] [0m[4m[31m[JEDI]: Talia Ska arrives at the Academy.[0m[0m[0m
+[16:56] [0m[32mSimonz tells you:[0m hope I don't die, here goes scaler 88 on hotel[0m
+[16:56] [0m[32mSimonz tells you:[0m or not, blah, forgot which dungeon i was on *sigh*[0m
+[16:57] [0mnewb Zera [cleric/6]: What is the point of having a money bag?[0m
+[17:01] [0mnewb Gaidin [elemental/130]: not much, really.[0m
+[17:01] [0mnewb Hooligan [cyborg/85]: Gaidin is my moneybag...[0m
+[17:02] [0m[32;1mFrom afar, you laff at Simonz.[0m[0m
+[17:03] [0mYou can currently reforge 8 items.[0m
+[17:05] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:10] [0m[32;1mFrom afar, Simonz grins sheepishly at you.[0m[0m
+[17:11] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:12] [0m[32mSimonz tells you:[0m ok, just sent you the bot[0m
+[17:17] [0m[32mYou tell Simonz:[0m thanks ill check it when i get home[0m
+[17:19] [0m[32mSimonz tells you:[0m ok.  I just copied the regular dungeon bot from Inix and[0m
+[17:19] [0m        hacked it up to work for mining instead of killing lol[0m
+[17:23] [0m[4m[31m[JEDI]: Herah Wylann arrives at the Academy.[0m[0m[0m
+[17:23] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[17:23] [0mYou can currently reforge 12 items.[0m
+[17:25] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:28] [0m[32mSimonz tells you:[0m this starship droid repairing my saber is kinda nice, I[0m
+[17:28] [0m        don't think I've had it actually break more than once or twice all[0m
+[17:28] [0m        boot[0m
+[17:29] [0m[34;1mNauda shouts:[0m We're not kids anymore. I mean, what did you think, really?[0m
+[17:30] [0m[34;1mNauda shouts:[0m That we were never gonna get girlfriends? We were just gonna[0m
+[17:30] [0m              sit in my basement all day and play games for the rest of our[0m
+[17:30] [0m              lives?[0m
+[17:30] [0m[34;1mZor shouts:[0m woo!!!!!!!!!!!!!!!!!!!![0m
+[17:32] [0m[32mYou tell Simonz:[0m the positive makes up for slow progression[0m
+[17:32] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:33] [0m[32mSimonz tells you:[0m blah, this is getting expensive[0m
+[17:34] [0m[32mSimonz tells you:[0m 10b to go to 111[0m
+[17:50] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:52] [0m[4m[31m[JEDI]: Bithoff Jonansaan arrives at the Academy.[0m[0m[0m
+[18:00] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:06] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:11] [0mTrisky [Jedi(40)]: anyone know where is Sir Prilmas ? want to learn mskills[0m
+[18:12] [0mHyuga [Jedi(90)]: he is on the road near wayhaven[0m
+[18:12] [0mHyuga [Jedi(90)]: there is a group of 4 adventurers walking around on the[0m
+[18:12] [0m                  road[0m
+[18:14] [0mTrisky [Jedi(40)]: thanks.[0m
+[18:14] [0mHyuga [Jedi(90)]: lol i just joined a match with a guy named Triksy as my[0m
+[18:14] [0m                  teammate[0m
+[18:15] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:15] [0mnewb Zera [cleric/6]: Is there a way to reset my mskills?[0m
+[18:15] [0mnewb Hyuga [jedi/133]: i believe it resets automatically the first time you[0m
+[18:15] [0m                       log out[0m
+[18:15] [0mnewb Zera [cleric/6]: I didn't realize I needed any mskills to wear armor.[0m
+[18:15] [0mnewb Hyuga [jedi/133]: but yes. help advance[0m
+[18:19] [0m[4m[31m[JEDI]: Ylenic It'kla arrives at the Academy.[0m[0m[0m
+[18:22] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:24] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[18:24] [0mYou can currently reforge 12 items.[0m
+[18:24] [0mnewb Hyuga [jedi/133]: as for money bags... coins weigh a lot if you have a[0m
+[18:24] [0m                       lot. so money bags allow you to carry more with less[0m
+[18:24] [0m                       str[0m
+[18:25] [0mnewb Nauda [necromancer/123]: and by a lot he means tens and hundreds of[0m
+[18:25] [0m                              thousands[0m
+[18:26] [0mnewb Lachlan [bladesinger/114]: plus most people have a threshold for money,[0m
+[18:26] [0m                                over 10k they deposit. Or everytime they run[0m
+[18:26] [0m                                through town they deposit it in a bank.[0m
+[18:26] [0mnewb Lachlan [bladesinger/114]: so typically you don't carry a ton on you.[0m
+[18:26] [0mnewb Zera [cleric/6]: That all makes sense.  Than you.[0m
+[18:27] [0mnewb Lachlan [bladesinger/114]: no worries[0m
+[18:28] [0mnewb Zera [cleric/6]: Does my money stay in the bank through boot?[0m
+[18:28] [0mnewb Lachlan [bladesinger/114]: yes[0m
+[18:31] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:39] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:49] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:52] [0m[4m[31m[JEDI]: Wennic Ber'ni'lok arrives at the Academy.[0m[0m[0m
+[18:53] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:56] [0mnewb Baramore [monk/90]: Have you considered hitting the button to[0m
+[18:56] [0m                         auto-advance to L10, Zera?[0m
+[18:56] [0mnewb Zera [cleric/6]: I have not, no.  I should probably go do that, huh?[0m
+[18:56] [0mnewb Baramore [monk/90]: I think it'd make your life a little easier. :) [0m
+[18:56] [0m                         Don't advance to the point that you no longer can[0m
+[18:56] [0m                         go into newbieland, but get as much xp/stats/etc.[0m
+[18:56] [0m                         as you can to help you in there.[0m
+[18:57] [0mnewb Zera [cleric/6]: I got so caught up in exploring and trying to figure[0m
+[18:57] [0m                      out quests that I forgot about it[0m
+[18:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:01] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:03] [0mSimonz [Jedi(55)]: nice![0m
+[19:03] [0mHyuga [Jedi(90)]: noice[0m
+[19:09] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:18] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:18] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:24] [0m[4m[31m[JEDI]: Janath Meelin arrives at the Academy.[0m[0m[0m
+[19:24] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[19:24] [0mYou can currently reforge 12 items.[0m
+[19:26] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:28] [0mSky flaps : commercial for an "anti stroke" medication - but ond of the side[0m
+[19:28] [0m            effects... stroke..[0m
+[19:28] [0mBaramore flaps : Minor details.[0m
+[19:33] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:39] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:43] [0mSimonz [Jedi(55)]: doh[0m
+[19:45] [0mUkyo [Jedi(76)]: someone left a stack of hunter killers[0m
+[19:45] [0mUkyo [Jedi(76)]: six hunter killers[0m
+[19:47] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:47] [0mNauda flaps : Completely normal phenomenon, not great, not terrible[0m
+[19:48] [0mHyuga [Jedi(90)]: where at?[0m
+[19:49] [0mUkyo [Jedi(76)]: only place i know of hunter killers. i'm remapping[0m
+[19:49] [0m                 der'thalas. way down in the forest by the entrance to[0m
+[19:49] [0m                 another area. i have only shadows of memories of what's[0m
+[19:49] [0m                 down there. i remember we sucked so much, i might come here[0m
+[19:49] [0m                 to grind every now and then, but it was otherwise too hard[0m
+[19:49] [0m                 to handle[0m
+[19:50] [0mHyuga [Jedi(90)]: the reason i ask if there is at leaet one room that just[0m
+[19:50] [0m                  had a bunch of them[0m
+[19:50] [0mHyuga [Jedi(90)]: usually when i go down therr there are like 12[0m
+[19:50] [0mUkyo [Jedi(76)]: yup, like someone'd dragged there, hence my displeasure[0m
+[19:50] [0mHyuga [Jedi(90)]: its near the old rusted gate[0m
+[19:51] [0mHyuga [Jedi(90)]: nope, they are just there[0m
+[19:52] [0mHyuga [Jedi(90)]: if they were dragged, someone is dragging them to the same[0m
+[19:52] [0m                  place every time and hmsevering or somthing[0m
+[19:52] [0mUkyo [Jedi(76)]: yea, a stack of six is not normal[0m
+[19:52] [0mUkyo [Jedi(76)]: so yea, very intentional[0m
+[19:52] [0mHyuga [Jedi(90)]: in my experience, it is normal there[0m
+[19:53] [0mUkyo [Jedi(76)]: really? hrm. been so long i can't argue[0m
+[19:53] [0mHyuga [Jedi(90)]: honestly if not then there is probably a good reason for[0m
+[19:53] [0m                  it[0m
+[19:53] [0mAsp [Jedi(32)]: hmsever2 or something probs[0m
+[19:53] [0mUkyo [Jedi(76)]: lazyness.[0m
+[19:54] [0mHyuga [Jedi(90)]: like they are pulling all the hunters to one room to allow[0m
+[19:54] [0m                  macros through[0m
+[19:54] [0mUkyo [Jedi(76)]: they're a pain to deal with[0m
+[19:54] [0mUkyo [Jedi(76)]: i'm thinking i'll drag them into the path just because i'm[0m
+[19:54] [0m                 feeling magnanimous[0m
+[19:54] [0mnewb Zera [cleric/6]: I know it's not legal to share quest answers, but is[0m
+[19:54] [0m                      it allowable to give hints?[0m
+[19:54] [0mHyuga [Jedi(90)]: well it should be obvious where they are with carto[0m
+[19:54] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:54] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:54] [0mHyuga [Jedi(90)]: see that is the opposite of what would be good[0m
+[19:55] [0mHyuga [Jedi(90)]: they are literally in a spot where no one has any reason[0m
+[19:55] [0m                  to go unless they were mapping the whole area[0m
+[19:55] [0mUkyo [Jedi(76)]: Depends on who it's good for. it'll build character.[0m
+[19:55] [0m                 besides, the worst harm comes from the best intentions. and[0m
+[19:55] [0m                 i assure you, my intentions are not for the best in regards[0m
+[19:55] [0m                 to this matter[0m
+[19:55] [0mHyuga [Jedi(90)]: so its very convenient for people to use the area[0m
+[19:56] [0m[4m[31m[JEDI]: Ylenic It'kla arrives at the Academy.[0m[0m[0m
+[19:56] [0mHyuga [Jedi(90)]: someone pulling them out of the way and you are pulling[0m
+[19:56] [0m                  them in the way is pretty blatant grounds for patch pk[0m
+[19:56] [0mnewb Nightrider [knight/136]: yes, it is illegal to share voodoo's pants[0m
+[19:56] [0mUkyo [Jedi(76)]: wait, what? pk what?[0m
+[19:56] [0mUkyo [Jedi(76)]: you do realize . . .[0m
+[19:57] [0mHyuga [Jedi(90)]: yes, leaving aggro mobs with the intent of having someone[0m
+[19:57] [0m                  walk into them is grounds for patch pk[0m
+[19:57] [0mnewb Ellegon [juggernaut/90]: I believe it is illegal to have finished oak[0m
+[19:57] [0m                              cabinets[0m
+[20:02] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:09] [0mnewb Zera [cleric/6]: If I killed an NPC crucial to a quest, do I need to[0m
+[20:09] [0m                      leave the area for them to repop?[0m
+[20:10] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:12] [0mnewb Whoknows [priest/84]: areas reset eventually[0m
+[20:12] [0mnewb Whoknows [priest/84]: most usually every hour[0m
+[20:12] [0mnewb Whoknows [priest/84]: some faster, some alot slower[0m
+[20:13] [0mnewb Ellegon [juggernaut/90]: great job not reading the previous message,[0m
+[20:13] [0m                              Whoknows. No, you do not have to leave the[0m
+[20:13] [0m                              area, but they say a watched pot never boils.[0m
+[20:13] [0mnewb Ellegon [juggernaut/90]: Probably better to distract yourself doing[0m
+[20:13] [0m                              something else, and check back later.[0m
+[20:14] [0mnewb Whoknows [priest/84]: well, i wasnt done but therr ya go...[0m
+[20:14] [0mnewb Ellegon [juggernaut/90]: *switches Whoknows to brief mode.*[0m
+[20:14] [0mnewb Whoknows [priest/84]: i dont type 100wpm on phones[0m
+[20:15] [0mnewb Ellegon [juggernaut/90]: I type 355 on my clicky mechanical keyboard[0m
+[20:16] [0mnewb Zera [cleric/6]: Gosh, I only manage around 320 on mechanical[0m
+[20:16] [0m                      keyboards.[0m
+[20:17] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:25] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[20:25] [0mYou can currently reforge 12 items.[0m
+[20:26] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:27] [0m[4m[31m[JEDI]: Kerran Halcyon arrives at the Academy.[0m[0m[0m
+[20:31] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:35] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:41] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:46] [0mUkyo {Professions}: ok, need an xmuter to transmute a bunch of pearls and[0m
+[20:46] [0m                    pearl dusts into core's of air. anybody available?[0m
+[20:48] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:56] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:56] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:01] [0m[4m[31m[JEDI]: Talia Ska arrives at the Academy.[0m[0m[0m
+[21:04] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:09] [0m[32mSer tells you:[0m you striking today?[0m
+[21:10] [0m[32mYou tell Ser:[0m no lol those suckers got rained on hard[0m
+[21:13] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:16] [0m[34;1mShenanigans shouts:[0m I, did a thing.[0m
+[21:16] [0m[34;1mNauda shouts:[0m Shenanigans, all of them[0m
+[21:16] [0mnewb Zera [cleric/6]: I'm having trouble finding a helpfile that describes[0m
+[21:16] [0m                      whether there's a global chat in the game.[0m
+[21:17] [0mnewb Nauda [necromancer/123]: shout/flapchat could be considered global[0m
+[21:17] [0m                              chats[0m
+[21:17] [0mnewb Krom [sii/75]: help chatlines[0m
+[21:17] [0mnewb Ukyo [jedi/106]: chatlines[0m
+[21:19] [0mUkyo {Professions}: need an xmuter to transmute a bunch of adamantium[0m
+[21:19] [0m                    shards, pearls, and pearl dusts into cores of air.[0m
+[21:19] [0m                    anybody available?[0m
+[21:24] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:26] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[21:26] [0mYou can currently reforge 12 items.[0m
+[21:31] [0m[4m[31m[JEDI]: Alyssa K'tal arrives at the Academy.[0m[0m[0m
+[21:32] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:38] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:40] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:41] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:43] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:44] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:50] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[22:03] [0m[4m[31m[JEDI]: Wennic Ber'ni'lok arrives at the Academy.[0m[0m[0m
+[22:11] [0mWhoknows flaps : never gonna buy thick cut 'korean shortribs' again[0m
+[22:11] [0mWhoknows flaps : chewy af[0m
+[22:11] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[22:12] [0mInix flaps : Error exists between store and plate.[0m
+[22:12] [0mEllegon flaps : did you cook it right?[0m
+[22:13] [0mEllegon flaps : Your Mskill survival prob not high enough.[0m
+[22:13] [0mVagrant flaps : lol store and plate hahah[0m
+[22:14] [0mWhoknows flaps : you of all people should know my grill game is on point[0m
+[22:26] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[22:26] [0mYou can currently reforge 4 items.[0m
+[22:26] [0m[32mYou say: [0mjoin                                                                 [0m
+[22:26] [0;32mTorix says: [0mEasy enough, simply say 'wranglemenow' and we'll get you[0m
+[22:26] [0m            started.                                                      [0m
+[22:27] [0m[32mYou say: [0mwranglemenow                                                         [0m
+[22:27] [0;32mTorix says: [0mCongratulations!  You are ready to begin wrangling!  Remember[0m
+[22:27] [0m            to come back for training once you have learned everything you[0m
+[22:27] [0m            can.                                                          [0m
+[22:27] [0m[32;1mFrom afar, Ukyo cheers you on!!![0m[0m
+[22:27] [0m[32mYou say: [0mjoin                                                                 [0m
+[22:27] [0;32mSebastian says: [0mJoining is the easy part and the beginning of your[0m
+[22:27] [0m                learning.  Simply say 'enchantmenow' and we'll get you[0m
+[22:27] [0m                started.                                                  [0m
+[22:27] [0m[32mYou say: [0menchantmenow                                                         [0m
+[22:28] [0;32mSebastian says: [0mCongratulations!  You are ready to begin enchanting! [0m
+[22:28] [0m                Remember to come back for training once you have learned[0m
+[22:28] [0m                everything you can.                                       [0m
+[22:28] [0m[32mYou think to Ukyo . o O ([0m [36;1m all i have time for im afraid. ill[0m
+[22:28] [0;1;36m           just fight zombies and idle out [0m [32m)[0m[0m
+[22:29] [0m[32mUkyo thinks . o O ([0m [32;1m it's a long journey, best taken one step at[0m
+[22:29] [0;1;32m           a time. pace yourself [0m [32m)[0m[0m
+[22:29] [0m[32mYou think to Ukyo . o O ([0m [36;1m crafting stash is nearly full so ill[0m
+[22:29] [0;1;36m           need to focus on crafting [0m [32m)[0m[0m
+[22:30] [0m[32mUkyo thinks . o O ([0m [32;1m eventually, you'll glean down to only[0m
+[22:30] [0;1;32m           legendary ores/bars/gleanings, and only the only non[0m
+[22:30] [0;1;32m           legendaries will be frags/essences/hearts. [0m [32m)[0m[0m
+[22:31] [0m[32mUkyo thinks . o O ([0m [32;1m and even then, only keep the ores you're[0m
+[22:31] [0;1;32m           using and prospect the rest [0m [32m)[0m[0m
+[22:31] [0m[32mUkyo thinks . o O ([0m [32;1m you'll develop a system, or go mad from[0m
+[22:31] [0;1;32m           frustration [0m [32m)[0m[0m
+[22:31] [0m[32mYou think to Ukyo . o O ([0m [36;1m prospecting a mskill? [0m [32m)[0m[0m
+[22:31] [0m[4m[31m[JEDI]: Reena Bel Noir arrives at the Academy.[0m[0m[0m
+[22:31] [0m[32mUkyo thinks . o O ([0m [32;1m it's part of enchanting [0m [32m)[0m[0m
+[22:32] [0m[32mUkyo thinks . o O ([0m [32;1m so, while i can mine voidstone, i can't[0m
+[22:32] [0;1;32m           prospect it yet because my enchanting isn't high enough [0m [32m)[0m[0m
+[22:33] [0m[32mYou think to Ukyo . o O ([0m [36;1m look forward to being powerful like[0m
+[22:33] [0;1;36m           you [0m [32m)[0m[0m
+[22:33] [0m[32mUkyo thinks . o O ([0m [32;1m just time. and i'm not all that powerful.[0m
+[22:33] [0;1;32m           i've spread myself thin in skills, so i'm not as combat[0m
+[22:33] [0;1;32m           powerful as others [0m [32m)[0m[0m
+[22:33] [0m[32mUkyo thinks . o O ([0m [32;1m it's all about defining goals [0m [32m)[0m[0m
+[22:34] [0m[32mUkyo thinks . o O ([0m [32;1m i guess [0m [32m)[0m[0m
+[22:34] [0m[32mUkyo thinks . o O ([0m [32;1m that, and having a good set of tools to[0m
+[22:34] [0;1;32m           work with. i'm thinking switching over to tt or tf is going to[0m
+[22:34] [0;1;32m           be a nightmare [0m [32m)[0m[0m
+[22:35] [0m[32mUkyo thinks . o O ([0m [32;1m i've got all these tracking tools built[0m
+[22:35] [0;1;32m           into my cmud profile, it's absurd [0m [32m)[0m[0m
+[22:36] [0m[32mYou think to Ukyo . o O ([0m [36;1m not a tintin user? sorry missed some[0m
+[22:36] [0;1;36m           of your thoughts  playing on phone is horrible [0m [32m)[0m[0m
+[22:36] [0m[32mUkyo thinks . o O ([0m [32;1m ish? i used it once a decade ago, but it's[0m
+[22:36] [0;1;32m           been so long [0m [32m)[0m[0m
+[22:38] [0m[32mYou think to Ukyo . o O ([0m [36;1m cant imagine not using TT and a ssh[0m
+[22:38] [0;1;36m           server [0m [32m)[0m[0m
+[22:39] [0mnewb Zera [cleric/6]: If I have my stats reset to 1 from changing out of a[0m
+[22:39] [0m                      core guild, can I still spend exp for my level x5[0m
+[22:39] [0m                      increases to stats, or are those stats gone forever?[0m
+[22:39] [0m[32mUkyo thinks . o O ([0m [32;1m sadly, i think i'm going to have to. i[0m
+[22:39] [0;1;32m           think i may have reached the limits of what cmud can handle. [0m [32m)[0m[0m
+[22:40] [0mnewb Deacon [bard/19]: You just lose the xp. Your stats are never gone[0m
+[22:40] [0m                       forever.[0m
+[22:41] [0mnewb Inix [juggernaut/138]:  The number of stats available to you at any[0m
+[22:41] [0m                            given level is never affected.[0m
+[22:41] [0mnewb Ellegon [juggernaut/90]: getting docked stats = docked xp, you'll never[0m
+[22:41] [0m                              be stuck 10 with stats of a player of lower[0m
+[22:41] [0m                              level.[0m
+[22:41] [0mnewb Zera [cleric/6]: Okay, that's a relief.  I assume the same applies to[0m
+[22:41] [0m                      lost stats due to dying?[0m
+[22:41] [0mnewb Deacon [bard/19]: Indeed.[0m
+[22:42] [0mnewb Ellegon [juggernaut/90]: yep just a punishment for not doing well,[0m
+[22:42] [0m                              never meant to ruin your potential.[0m
+[22:43] [0mnewb Zera [cleric/6]: That's so much less hardcore than some other muds.  I[0m
+[22:43] [0m                      like it this way.[0m
+[22:43] [0mnewb Ukyo [jedi/106]: that is, until you get into 'hardcore' mode[0m
+[22:44] [0mnewb Ukyo [jedi/106]: if you ever make a hardcore alt, it's tough.[0m
+[22:44] [0mnewb Ukyo [jedi/106]: i would think.[0m
+[22:44] [0mnewb Ukyo [jedi/106]: never had one myself[0m
+[22:44] [0mnewb Ukyo [jedi/106]: help hardcore[0m
+[22:51] [0mHyuga [Jedi(90)]: weird. my hardcore isn't on hardcore history[0m
+[22:52] [0mHyuga [Jedi(90)]: neither is zapp[0m
+[22:52] [0mHyuga [Jedi(90)]: wiggy isn't on there either[0m
+[22:56] [0mnewb Zera [cleric/6]: I can't figure out where the newbie academy is.  I[0m
+[22:56] [0m                      already talked to Jocelyn, was that it?[0m
+[22:56] [0mnewb Deacon [bard/19]: 'dmap newb'[0m
+[22:57] [0mnewb Zera [cleric/6]: Oh.  I just never went down in Newbieland Tower. [0m
+[22:57] [0m                      Whoops.[0m
+[23:07] [0m[34;1mDeacon shouts:[0m Take your attitude to the men's section of K-Mart, cause you[0m
+[23:07] [0m               need to cut me some slack...s.[0m
+[23:07] [0m[34;1mVagrant shouts:[0m OH SNAPppppppppppppppppp[0m
+[23:07] [0m[34;1mSimonz shouts:[0m no, snip[0m
+[23:09] [0m[4m[31m[JEDI]: Durnoth arrives at the Academy.[0m[0m[0m
+[23:13] [0mnewb Zera [cleric/6]: Ha, by the time I found the newbie academy, I already[0m
+[23:13] [0m                      had enough exp that the jumpstart machine won't let me[0m
+[23:13] [0m                      use it.[0m
+[23:14] [0mnewb Ellegon [juggernaut/90]: guh, level 100s giving newbie advice, they[0m
+[23:14] [0m                              forget what its like to be a newb. sorry.[0m
+[23:14] [0mnewb Masakari [bard/83]: I agree, killing UK as a noob is key to power![0m
+[23:14] [0mnewb Ellegon [juggernaut/90]: If you give help newbie a good read, it should[0m
+[23:14] [0m                              cover everything that was in the academy.[0m
+[23:14] [0m                              Besides basic things like , read room[0m
+[23:14] [0m                              descriptions carefully, look at things in[0m
+[23:14] [0m                              rooms, search things in rooms...[0m
+[23:14] [0mnewb Inix [juggernaut/138]: Jumpstart is really for seconds anyway, only[0m
+[23:14] [0m                            gives you xp for lvl 10[0m
+[23:15] [0mnewb Ellegon [juggernaut/90]: taking things from things, and putting things[0m
+[23:15] [0m                              in things, giving things to people or npcs,[0m
+[23:15] [0m                              talking to NPC's.[0m
+[23:17] [0mnewb Ellegon [juggernaut/90]: Honestly, you missed out getting killed a half[0m
+[23:17] [0m                              dozen times by that vampire guy.[0m
+[23:18] [0mnewb Zera [cleric/10]: vampire guy?[0m
+[23:19] [0mnewb Ellegon [juggernaut/90]: yeah, he's in some tower in there, a little[0m
+[23:19] [0m                              bit over powered, its a newbie crucible .[0m
+[23:20] [0mnewb Inix [juggernaut/138]: Brace armour or bust[0m
+[23:24] [0mnewb Zera [cleric/10]: Is there a way to show my willpower on my score?  It[0m
+[23:24] [0m                       shows my mana as GPs"[0m
+[23:25] [0mnewb Inix [juggernaut/138]: Most guilds have customizable hpbars, I don't[0m
+[23:25] [0m                            know about clerics though.[0m
+[23:25] [0mnewb Inix [juggernaut/138]: It'd be in your info files[0m
+[23:26] [0mnewb Inix [juggernaut/138]: typically something like 'info hpconf' or[0m
+[23:26] [0m                            hpconfig or hp or sethp[0m
+[23:26] [0mnewb Inix [juggernaut/138]: if you start with just 'info' and go through the[0m
+[23:26] [0m                            menues, should find it...but haven't played[0m
+[23:26] [0m                            clerics, maybe they don't customize[0m
+[23:26] [0mnewb Zera [cleric/10]: it looks as though they do not[0m
+[23:27] [0mnewb Zera [cleric/10]: It's supposed to be a straightforward and[0m
+[23:27] [0m                       ultra-simple guild, which I guess is why.[0m
+[23:28] [0mnewb Zera [cleric/10]: I honestly grabbed this character class to party with[0m
+[23:28] [0m                       my wife, but they've been at work all day and are[0m
+[23:28] [0m                       still a level 2 adventurer from getting through the[0m
+[23:28] [0m                       intro.[0m
+[23:29] [0mnewb Zera [cleric/10]: I might drop this guild and choose a different one to[0m
+[23:29] [0m                       get to level 50, and then use spawnsecond for the[0m
+[23:29] [0m                       weekend.[0m
+[23:33] [0mnewb Zera [cleric/10]: So, to clarify some confusion that arose, last night,[0m
+[23:33] [0m                       can or cannot core guilds party with other guilds?[0m
+[23:33] [0mnewb Sky [juggernaut/131]: i think no[0m
+[23:33] [0mnewb Ser [psicorps/132]: i think only other core guilds[0m
+[23:33] [0mnewb Ser [psicorps/132]: or maybe im thinking hc but i dunno[0m
+[23:34] [0mnewb Sky [juggernaut/131]: hc is only hc for sure but i think core is the[0m
+[23:34] [0m                           same way[0m
+[23:34] [0mnewb Zera [cleric/10]: That's alright.  I think I *might* be able to hit 50[0m
+[23:34] [0m                       for an alt by the weekend.  I'm home with the kids[0m
+[23:34] [0m                       all day.[0m
+[23:34] [0mnewb Sky [juggernaut/131]: or press the button[0m
+[23:34] [0mnewb Zera [cleric/10]: How do I leave a guild?[0m
+[23:34] [0mnewb Ellegon [juggernaut/90]: I don't think they can party at all. even with[0m
+[23:34] [0m                              other Core guilds.[0m
+[23:35] [0mnewb Zera [cleric/10]: I was able to start a party last night as a cleric,[0m
+[23:35] [0m                       so that wouldn't make sense[0m
+[23:35] [0mnewb Ser [psicorps/132]: you may wabt to make sure you are getting xp/gxp[0m
+[23:35] [0m                         tho[0m
+[23:35] [0mnewb Ellegon [juggernaut/90]: Who else was in your party?[0m
+[23:36] [0mnewb Zera [cleric/10]: No one, but it let me try to add a person, and[0m
+[23:36] [0m                       wouldn't allow it, because they were below level 5[0m
+[23:36] [0mnewb Ellegon [juggernaut/90]: I'm confident you can add people and walk[0m
+[23:36] [0m                              around with them, but you can't do stuff, and[0m
+[23:36] [0m                              get gxp.[0m
+[23:37] [0mnewb Zera [cleric/10]: Then having a core guild devoted almost entirely to[0m
+[23:37] [0m                       healing makes little sense.[0m
+[23:37] [0mnewb Ellegon [juggernaut/90]: point taken...[0m
+[23:38] [0mnewb Zera [cleric/10]: If someone's name has @3s in it, what does that[0m
+[23:38] [0m                       indicate?[0m
+[23:38] [0mnewb Ellegon [juggernaut/90]: they're not on this mud, they're on another[0m
+[23:38] [0m                              mud called 3scapes[0m
+[23:38] [0mnewb Zera [cleric/10]: Oh, I didn't realize the two were connected.[0m
+[23:39] [0mnewb Hyuga [jedi/133]: HC can party with other HC[0m
+[23:40] [0mnewb Hyuga [jedi/133]: and core can party with core[0m
+[23:40] [0mnewb Sky [juggernaut/131]: if you want to be a healer - then id suggest[0m
+[23:40] [0m                           priests[0m
+[23:40] [0mnewb Ellegon [juggernaut/90]: my guess as for your cleric, healing comment[0m
+[23:40] [0m                              would be for you to be able to heal yourself.[0m
+[23:40] [0m[4m[31m[JEDI]: Janath Meelin arrives at the Academy.[0m[0m[0m
+[23:41] [0mnewb Ellegon [juggernaut/90]: I don't have too much experience, except that[0m
+[23:41] [0m                              I have a Sorcerer and they have absolutely no[0m
+[23:41] [0m                              use for a cleric's healing ability.[0m
+[23:41] [0mnewb Hyuga [jedi/133]: yeah cleric are less party oriented than priests[0m
+[23:41] [0mnewb Ellegon [juggernaut/90]: I believe androids can heal themselves...[0m
+[23:41] [0mnewb Ellegon [juggernaut/90]: may fighters need healing?[0m
+[23:41] [0mnewb Hyuga [jedi/133]: that would be my guess yes[0m
+[23:42] [0mnewb Hyuga [jedi/133]: i have little experience in fighter[0m
+[23:42] [0mnewb Sky [juggernaut/131]: the idea that core guilds are capped kinda has me[0m
+[23:42] [0m                           turned off[0m
+[23:42] [0mnewb Raest [cyborg/134]: if a fighter needs healing he's fighting beyond his[0m
+[23:42] [0m                         abilities[0m
+[23:43] [0mnewb Ellegon [juggernaut/90]: it should, anyone that has a high level guild[0m
+[23:43] [0m                              character - core guilds aren't meant for you.[0m
+[23:43] [0m                              I believe the intent was to offer a place for[0m
+[23:43] [0m                              players to mud where you don't have to put in[0m
+[23:43] [0m                              40+ hours a week to be successful. Core guilds[0m
+[23:43] [0m                              offer that, they're capped because they're BS[0m
+[23:43] [0m                              at lvl 60[0m
+[23:45] [0mnewb Sky [juggernaut/131]: i didn't say they didn't have a "purpose" - i[0m
+[23:45] [0m                           simply said why I'm turned off on the idea.[0m
+[23:45] [0mnewb Ellegon [juggernaut/90]: they get a taste of high  level game content,[0m
+[23:45] [0m                              but not the end game multi-guild party type[0m
+[23:45] [0m                              stuff.[0m
+[23:45] [0mnewb Ellegon [juggernaut/90]: nods.[0m
+[23:46] [0mnewb Raest [cyborg/134]: you mean there's a benefit to end-game partying?[0m
+[23:46] [0mnewb Hyuga [jedi/133]: paul 2.0?[0m
+[23:47] [0mnewb Vagrant [necromancer/138]: the friendships you make amongst each other[0m
+[23:47] [0m                                as human beings IMO.[0m
+[23:52] [0mnewb Zera [cleric/10]: So, no one actually answered: How do I leave a guild?[0m
+[23:52] [0m                       I can't figure out what helpfile to read for this[0m
+[23:52] [0m                       information.[0m
+[23:53] [0mnewb Ellegon [juggernaut/90]: syntax should be in your guild hall. w, u, and[0m
+[23:53] [0m                              I think east? from COT[0m
+[23:53] [0mnewb Zera [cleric/10]: That's correct directions for the Cleric guild[0m

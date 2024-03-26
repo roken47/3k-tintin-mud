@@ -1,0 +1,62 @@
+#class {actions} {kill}
+#class {actions} {open}
+
+/*	COMBAT		*/
+#act {dealt the killing blow to} {corpsetrig}
+#action {^You need not meditate further, type 'stopmed' to stop.} {
+	#if {$spcur >= .7 * $spmax} {stopmed} {.bot}}
+#act {^Stopping meditation.$} {#delay {3} {.bot}}
+#act {^You cannot meditate with anyone around you.$} {.bot}
+
+#NOP	---PRESSURE
+#action {^You find a pressure point and bore down!$} {
+  #var pressure on;
+}
+
+#action {^You cannot pressure point attack that creature again!$} {
+  #var pressure on;
+}
+
+#action {^You cannot affect that being!$} {
+  #var pressure on;
+}
+
+#NOP	---GUILD SCORE
+#action {^ Chi Points: %1(%2)  Focus Left: %3} {
+  #var focus {%3};
+}
+
+#NOP action {^ Peace Level: Your mind is %1(%2/%3)} {
+  #var gp2_max %3;
+}
+
+#action {^Your inner energies are too tapped to repeat this action.$} {
+  #var {focus} {0};
+}
+
+#action {^Mental energies pour into you from the power of the Ancients.$} {
+  #var {focus} {83};
+}
+
+#NOP	---PALM
+#action {^{(> )*}The vibrations have ceased on %1.$} {
+  #nop do i want to auto palm until a thing dies? it's inefficient;
+  #nop could add a threshold (don't palm if below 50% health);
+  #nop #var palm_active false;
+}
+
+#action {^{(> )*}You cannot re-palm this monster.$} {
+  #var palm_active true;
+}
+
+#action {^{(> )*}You do not possess the internal strength to exude such power.$} {
+#nop  #var ancient_energy 0;
+}
+
+#action {^{(> )*}You reach out and touch your foe, sending death bringing vibrations$} {
+  #var palm_active true;
+}
+
+
+
+#class {actions} {close}

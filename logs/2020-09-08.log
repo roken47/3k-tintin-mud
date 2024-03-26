@@ -1,0 +1,257 @@
+- = LOG STARTED [00:00] = -
+[00:05] [0mDin <.oO>: woot[0m
+[00:05] [0mSpace <.oO>: BOOM![0m
+[00:06] [0m[36m<BS> Fennec :[0m how now brown xiu?[0m
+[00:06] [0m[36m<BS> Xiu :[0m sup?[0m
+[00:06] [0m[36m<BS> Fennec :[0m nothing, you just made me think of cows.[0m
+[00:09] [0m[34;1mFluffy shouts:[0m bean![0m
+[00:10] [0m[34;1mTex shouts:[0m strawberry, i hate strawberry! theres only one person that knows[0m
+[00:10] [0m            i hate strawberry! drops helmet on top face., LONESTAR![0m
+[00:18] [0m[37;1mVagrant flaps :[0m reseting zambies swang by[0m
+[00:19] [0m[34;1mHyperion shouts:[0m cmc dupes at SS get while they hot[0m
+[00:21] [0m[37;1mVagrant flaps :[0m resetted[0m
+[01:03] [0m[34;1mTex shouts:[0m i will say voodoo no pants again NOT thanks voodoo for the new[0m
+[01:03] [0m            bk[0m
+[01:03] [0m[34;1mVoodoo shouts:[0m the power of no pants[0m
+[01:18] [0mVapor <.oO>: Congrats![0m
+[05:15] [0mYou can currently reforge 4 items.[0m
+[06:12] [0mWert flaps : anyone know who has day3 og?[0m
+[07:03] [0m[32mYou tell Roken:[0m https://prepmanager-iad.amazon.com/[0m
+[07:03] [0m[32mKent tells you:[0m https://prepmanager-iad.amazon.com/[0m
+[08:55] [0m[34;1mSquirrel shouts:[0m so many[0m
+[08:55] [0m[34;1mTerran shouts:[0m bot![0m
+[09:06] [0m[34;1mKent shouts:[0m flexbox froggy - so much fun![0m
+[09:10] [0m[32;1mFrom afar, Toren agrees with you.[0m[0m
+[09:10] [0m[32;1mFrom afar, Toren goes 'Woo Woo!' at you.[0m[0m
+[09:11] [0m[32mYou tell Toren:[0m must try their css grid game too. Gotta register an account for it[0m
+[09:12] [0m[32mYou tell Toren:[0m we did cover flexbox last week and html5 elements, a few elements and properties[0m
+[09:12] [0m[32mYou tell Toren:[0m not as much as flexboxfroggy like flex-flow[0m
+[09:12] [0m[32mToren tells you:[0m its amazing isnt it[0m
+[09:13] [0m[32mToren tells you:[0m i really loved flexbox froggy[0m
+[09:17] [0m[32mYou tell Toren:[0m looking over your site simpleassetmgr.. Is it standard practice to have <script> with attribute text/js? I see all other js linked[0m
+[09:17] [0m[32mYou tell Toren:[0m and site is 'flex'ing :D[0m
+[09:18] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Deserts of Fantasy!  We are localizing it now - get ready![0m
+[09:18] [0m[34;1mWhoknows shouts:[0m Regulators!!! Mount up![0m
+[09:19] [0m[34;1mKent shouts:[0m dgrade Androids![0m
+[09:19] [0m[34;1mKent shouts:[0m but upgrade our mounts[0m
+[09:24] [0m[32mYou tell Toren:[0m oh the coincidence, our class had an activity for flexbox froggy. I was on vacation in colorado during class... er need I say more?[0m
+[09:25] [0m[32mToren tells you:[0m So, attribute text/js tells the browser what type of file is being loaded[0m
+[09:26] [0m[32mToren tells you:[0m Browsers in the past would try to guess what type of code was being loaded[0m
+[09:26] [0m[32mToren tells you:[0m But, that's going away if it hasn't completely already - since it's unsafe[0m
+[09:27] [0m[32mYou tell Toren:[0m ok was curious why that js script was embeded in html versus linking it like the other script elements[0m
+[09:27] [0m[32mToren tells you:[0m And by loading different files, I can seperate code more.  So there is javascript that is just used for the landing page, javascript that is just for a carousel, etc.  And I load that file where I want it instead of having one huge file full of all my javascript[0m
+[09:28] [0m[32mToren tells you:[0m Oh, the direct script.  If it's like 4 lines of code only relevant for that page, I'll just write it in-line usually.[0m
+[09:28] [0m[32mToren tells you:[0m I could put it in a separate file if I really wanted to - but didn't bother.[0m
+[09:29] [0m[32mYou tell Toren:[0m ohh alright! And that is considered unsafe, but understandable why you wouldn't tuck away a few lines in a separate file[0m
+[09:29] [0m[32mToren tells you:[0m It's no less 'unsafe' than having it in a file[0m
+[09:29] [0m[32mToren tells you:[0m At the end of the day it's all compiled[0m
+[09:29] [0m[32mToren tells you:[0m It's just more maintainable in general if it's in separate files.[0m
+[09:30] [0m[32mToren tells you:[0m the <script src="blah"> is equivalent to writing that javascript the way I did it there.[0m
+[09:31] [0m[32mToren tells you:[0m Just, one is modular and a better practice for larger projects.[0m
+[09:31] [0m[32mYou tell Toren:[0m how are the standard changing for it be safe?[0m
+[09:31] [0m[32mToren tells you:[0m I'm not sure I understand what you're asking.  What makes you think it's unsafe?[0m
+[09:34] [0m[32mYou tell Toren:[0m thought of your 'unsafe' claim. Is there going to be a change to encrypt js from public view?[0m
+[09:35] [0m[32mToren tells you:[0m Oh.  The 'unsafe' was based on that you used to just be able to do <script src="blah"> and not decalre what type of file it is.  So the browser would try to guess if it was js, css, etc.  And now you have to declare what type of file it is.[0m
+[09:36] [0m[32mToren tells you:[0m You can't encrypt the javascript file because then the browser can't read it[0m
+[09:36] [0m[32mToren tells you:[0m And also, users have a right to know what code you're executing on their computer.[0m
+[09:36] [0m[32mToren tells you:[0m For the most part that's the general mindset of the web.[0m
+[09:37] [0m[32mToren tells you:[0m You can uglify / mutilate javascript which makes it so you can't view source and steal code[0m
+[09:37] [0m[32mToren tells you:[0m You could still copy and paste it, but you'll have nfi what variables are doing what or what functions are doing what[0m
+[09:38] [0m[32mYou tell Toren:[0m in other words make it hard to read? ahhah alright[0m
+[09:57] [0m[32mToren tells you:[0m Well, minifying reduces the size of the script file as well[0m
+[09:57] [0m[32mToren tells you:[0m So, you do always want to minify production code[0m
+[09:58] [0m[32mToren tells you:[0m For example, if you have function function1 {const somevar} it'll make it function a {const b}[0m
+[09:59] [0m[32mToren tells you:[0m And strip out all white space/etc to cut down on file size[0m
+[09:59] [0m[32mToren tells you:[0m But yes - the idea is to make it hard to read by uglify/mutilating/mangling[0m
+[09:59] [0m[32mToren tells you:[0m uglify and minify are the same thing btw.  uglify is just a well known minifying library[0m
+[10:15] [0m[32;1mFrom afar, you go 'Woo Woo!' at Trisky.[0m[0m
+[10:19] [0mSquirrel flaps : anyone still deal with custom made speaker boxes?[0m
+[10:19] [0mSquirrel flaps : looking to project home speaker boxes actually[0m
+[10:30] [0m[34;1mWert shouts:[0m Im Ron Burgandy?[0m
+[10:31] [0m[34;1mVidae shouts:[0m hi!!![0m
+[10:31] [0m[34;1mHsima shouts:[0m yer face is burgandy[0m
+[10:31] [0m[34;1mRhombus shouts:[0m it's pronounced San Diaaaagoo[0m
+[10:31] [0m[34;1mSamiel shouts:[0m well that escalated quickly..[0m
+[10:35] [0m[34;1mArahnapogue shouts:[0m don't trash the stash![0m
+[10:39] [0mSer flaps : anyone have event dirs[0m
+[10:40] [0m[34;1mVidae shouts:[0m Jcotch![0m
+[10:40] [0mToren flaps : You call that scotch?[0m
+[10:40] [0m[34;1mBlutash shouts:[0m it's called "Whisky"[0m
+[10:41] [0m[34;1mBahram shouts:[0m bourbon![0m
+[10:41] [0mAlassra flaps : portal is all west from desert portal[0m
+[10:41] [0mAlassra flaps : flaming[0m
+[11:31] [0m[34;1mZorbaine shouts:[0m The Bruce![0m
+[11:32] [0mNauda flaps : tree reset[0m
+[11:52] [0m[34;1mTex shouts:[0m looking for one perferred  healer for firebat party[0m
+[11:55] [0mYou can currently reforge 4 items.[0m
+[11:56] [0m[31;1m[Clan] Bruce :[0m cool pics, definitely couldn't pretend you're anywhere other[0m
+[11:56] [0m               than eastern europe :P[0m
+[11:56] [0m[31;1m[Clan] Zorbaine :[0m like being in eastern europe :)[0m
+[11:57] [0m[31;1m[Clan] Zorbaine :[0m not only cause I can live like a king... people still have[0m
+[11:57] [0m                  sense of... old world...[0m
+[11:57] [0m[31;1m[Clan] Zorbaine :[0m even if it's slightly communist, and we can't smoke weed[0m
+[11:57] [0m                  :([0m
+[11:57] [0m[31;1m[Clan] Zorbaine :[0m the people here are very together, also Belarus might have[0m
+[11:57] [0m                  the most beautiful women I've seen[0m
+[11:57] [0m[31;1m[Clan] Nik :[0m socialism might as well be communism![0m
+[11:58] [0m[31;1m[Clan] Bruce :[0m they rate highly on the crazy hot scale[0m
+[11:58] [0m[31;1m[Clan] Toren :[0m i wonder why i cant see any of them[0m
+[11:59] [0m[31;1m[Clan] Toren :[0m eastern european women are smokeshows[0m
+[11:59] [0m[31;1m[Clan] Saim :[0m "rochelle rochelle" takes place in belarus, makes sense now...[0m
+[11:59] [0m[31;1m[Clan] Bruce :[0m busy at home boiling bunnies[0m
+[12:00] [0m[31;1m[Clan] Zorbaine :[0m i'm not even exagerating... literally every woman is some[0m
+[12:00] [0m                  form of beautiful, hot, cute...[0m
+[12:01] [0m[31;1m[Clan] Zorbaine :[0m hmm, images dont load for me if I open the link again,[0m
+[12:01] [0m                  either...[0m
+[12:02] [0m[31;1m[Clan] Toren :[0m laf bruce[0m
+[12:04] [0m[31;1m[Clan] Zorbaine :[0m i dunno, fuck technology anymore[0m
+[12:04] [0m[31;1m[Clan] Ser :[0m what[0m
+[12:05] [0m[31;1m[Clan] Zorbaine :[0m imgur, but lately seems most websites just dont work[0m
+[12:05] [0m                  properly for me, heh[0m
+[12:05] [0m[31;1m[Clan] Toren :[0m that's prolly cause you're in belarus[0m
+[12:05] [0m[31;1m[Clan] Toren :[0m get a vpn[0m
+[12:05] [0m[31;1m[Clan] Zorbaine :[0m maybe... or maybe i'm just fed up with airbnb's website,[0m
+[12:05] [0m                  so many issues with it[0m
+[12:06] [0m[31;1m[Clan] Zorbaine :[0m yeah i have one, just mean in general other stuff... but[0m
+[12:06] [0m                  in general technology doesnt work around me, always[0m
+[12:06] [0m                  breaks... debit machines, bank atms... my headphones, if[0m
+[12:06] [0m                  my mental powers are too strong...[0m
+[12:06] [0m[31;1m[Clan] Zorbaine :[0m 💪[0m
+[12:06] [0m[31;1m[Clan] Toren :[0m shave your head and get a wheelchair[0m
+[12:06] [0m[31;1m[Clan] Zorbaine :[0m ZORB[0m
+[12:06] [0m[31;1m[Clan] Zorbaine :[0m haha[0m
+[12:08] [0m[31;1m[Clan] Bruce :[0m i love how much tex offends space with his so called lack of[0m
+[12:08] [0m               'bs'ness'[0m
+[12:08] [0m[31;1m[Clan] Zorbaine :[0m does anyone know a better website to make "image[0m
+[12:08] [0m                  galleries"?[0m
+[12:11] [0m[31;1m[Clan] Toren :[0m nog agreed bruce[0m
+[12:11] [0m[31;1m[Clan] Toren :[0m And his typos are glorious[0m
+[12:11] [0m[31;1m[Clan] Nik :[0m we could always get Tex in here![0m
+[12:11] [0m[31;1m[Clan] Toren :[0m I'd approve of that :D[0m
+[12:12] [0m[31;1m[Clan] Toren :[0m YOu know tex/caboose irl Nik?[0m
+[12:12] [0m[31;1m[Clan] Bruce :[0m nik can't reply right now he's afk again[0m
+[12:12] [0m[31;1m[Clan] Toren :[0m laf[0m
+[12:12] [0m[31;1m[Clan] Nik :[0m not so much, hes just been on of my longest 3k frands[0m
+[12:12] [0m[31;1m[Clan] Toren :[0m nog[0m
+[12:13] [0mYou can currently reforge 8 items.[0m
+[12:14] [0m[37;1mToren flaps :[0m ANy fremen available to train my reflex?[0m
+[12:21] [0m[31;1m[Clan] Zorbaine :[0m tried three alternatives to imgur already... one won't[0m
+[12:21] [0m                  send activation email, other two don't allow videos... can[0m
+[12:21] [0m                  use google drive, but thumbnails are tiny... i'll make[0m
+[12:21] [0m                  some tea[0m
+[12:21] [0m[31;1m[Clan] Aka :[0m tea sounds nice[0m
+[12:22] [0m[31;1m[Clan] Aka :[0m i got a bag of that norwegian shag, been practicing rolling[0m
+[12:22] [0m             spliffs haha[0m
+[12:22] [0m[31;1m[Clan] Zorbaine :[0m niiiice[0m
+[12:23] [0m[31;1m[Clan] Aka :[0m definitely rolled a nice one last night, not like actually nice[0m
+[12:23] [0m             but smokeable![0m
+[12:27] [0m[31;1m[Clan] Zorbaine :[0m pretty easy once you get the hang of it: here's my key[0m
+[12:27] [0m                  points: ... first mix correct ratio as you like... put in[0m
+[12:27] [0m                  paper... create your filter whereby the direction of the[0m
+[12:27] [0m                  bend/roll is same direction that paper is rolled... place[0m
+[12:27] [0m                  in paper to right, sticking out a bit (5-10mmm), then[0m
+[12:27] [0m                  draft-shape the leaf against the filter, to the rough[0m
+[12:27] [0m                  shape/thickness you want, then bend the paper up and down[0m
+[12:27] [0m                  and mock-roll it, so it forms the leaf to a round shape,[0m
+[12:27] [0m                  and you can firm it up and work out kinks... then tuck the[0m
+[12:27] [0m                  leaf in against the filter a bit, from the left side...[0m
+[12:27] [0m                  THEN... you're ready to roll... so start at right, put[0m
+[12:27] [0m                  paper into filter, tuck with thumbnail... key here is to[0m
+[12:27] [0m                  roll the rest in one motion, against the leaf, and treat[0m
+[12:27] [0m                  it like a cloth, and idea is to get one firm roll where[0m
+[12:27] [0m                  all the air is removed and it's rolled in one motion...[0m
+[12:27] [0m                  then slight lick at end, fold over, then when rolled,[0m
+[12:27] [0m                  bend/twist the left side/smoke end in, then finally tuck[0m
+[12:27] [0m                  in the filter to compress it a bit.[0m
+[12:28] [0m[31;1m[Clan] Aka :[0m i've got to cut/paste that haha that could be in a tutorial[0m
+[12:30] [0m[31;1m[Clan] Aka :[0m also, we should totally invite Tex to the clan boyyyss[0m
+[12:32] [0m[31;1m[Clan] Cambiador leaves the game.[0m  [0m
+[12:32] [0m[31;1m[Clan] Archimedes leaves the game.[0m  [0m
+[12:36] [0m[31;1m[Clan] Toren :[0m He can be our official ambassador to SA[0m
+[12:38] [0m[31;1m[Clan] Bruce :[0m haha[0m
+[13:13] [0mYou can currently reforge 12 items.[0m
+[13:18] [0m[36m<BS> Din :[0m almost 2 months now without a Lachlan sighting[0m
+[13:18] [0m[36m<BS> Din :[0m hope he's ok[0m
+[13:18] [0m[36m<BS> Prismal :[0m he usually just get busy with family and kid obligations[0m
+[13:54] [0mYou can currently reforge 0 items.[0m
+[13:55] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[14:12] [0m[34;1mVidae shouts:[0m :([0m
+[14:21] [0m[34;1mTex shouts:[0m i have bacon BACON BACON i say get yer own[0m
+[14:25] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[14:25] [0m[32mTurnhold tells you:[0m Flaxen is a dirty word.[0m
+[14:26] [0m[34;1mTex shouts:[0m yes just say no pants instead[0m
+[14:29] [0m[34;1mNik shouts:[0m winners dont use pants[0m
+[14:29] [0m[34;1mTaleast shouts:[0m Up with Skirts, down with Pants[0m
+[14:30] [0m[35;1mEphemeral [Jedi(31)]:[0m Current Droid Offerings: 1. protocol, 2. heavy industry, 3. household, 4.[0m
+[14:30] [0m                      astromech, 5. military[0m
+[14:43] [0m[31;1m[Clan] Archimedes enters the game.[0m  [0m
+[14:50] [0m[31;1m[Clan] Taleast :[0m hey, Archi[0m
+[14:55] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[15:02] [0m[35;1mEphemeral [Jedi(31)]:[0m Current Droid Offerings: 1. maintenance, 2. military, 3. security, 4.[0m
+[15:02] [0m                      astromech, 5. astromech[0m
+[15:09] [0m[34;1mTony shouts:[0m yo[0m
+[15:09] [0m[34;1mSpace shouts:[0m YOUR ?[0m
+[15:09] [0m[32mFlaxen tells you:[0m FACE[0m
+[15:09] [0m[34;1mAlamut shouts:[0m WOO![0m
+[15:10] [0m[34;1mHooligan shouts:[0m feel like flaxen and turnhold need to take this to tells. :P[0m
+[15:10] [0m[34;1mTex shouts:[0m face off great movie[0m
+[15:11] [0mFrom afar, Flaxen and Turnhold get a room.[0m
+[15:13] [0mFrom afar, Kiki cries from being left out.[0m
+[15:14] [0m[34;1mFennec shouts:[0m that's just sad.[0m
+[15:17] [0m[34;1mRoken shouts:[0m someone bored at work?[0m
+[15:18] [0m[34;1mSimonz shouts:[0m if you're lucky[0m
+[15:23] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[15:29] [0m[34;1mRoken shouts:[0m got so busy at work, I forgot to flip my ktrig laf wasted HA. Blessing since TH[0m
+[15:29] [0m              and Flaxen at it[0m
+[15:29] [0m[32mYou tell Simonz:[0m lol gosh Idk people don't care right?[0m
+[15:29] [0m[32;1mFrom afar, Simonz laffs at you![0m[0m
+[15:29] [0m[32mSimonz tells you:[0m tellall I'm assuming?[0m
+[15:30] [0m[32mSimonz tells you:[0m Roken tells you: lol gosh Idk people don't care right?[0m
+[15:30] [0m[32mYou tell Simonz:[0m been doing practically nothing all day but learning web dev or watching my[0m
+[15:30] [0m        pupil. Now ambassadoring Day 2 AAs. Overall ez day[0m
+[15:30] [0m[32mYou tell Simonz:[0m not a tellall. Ez days are rare at amazon[0m
+[15:31] [0m[32mSimonz tells you:[0m no, the one before that heh[0m
+[15:31] [0m[32mYou tell Simonz:[0m nod, just for you[0m
+[15:31] [0m[32mSimonz tells you:[0m oh, ok heh[0m
+[15:32] [0m[32;1mFrom afar, you bow to Simonz.[0m[0m
+[15:40] [0m[35;1mEnder [Jedi(Knight)]:[0m anyone got a sec to come and "help" kill a crimson deity?[0m
+[15:41] [0m[35;1mSimonz [Jedi(Knight)]:[0m sure[0m
+[15:41] [0m[35;1mEnder [Jedi(Knight)]:[0m sweet, thanks:)[0m
+[15:46] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[16:08] [0m[37;1mHooligan flaps :[0m anyone running around with og day 3?[0m
+[16:09] [0m[31;1m[Clan] Roken :[0m toren have you tested transmuting pfp?[0m
+[16:13] [0m[31;1m[Clan] Toren :[0m Never got a chance[0m
+[16:13] [0m[31;1m[Clan] Toren :[0m Did you?[0m
+[16:13] [0m[31;1m[Clan] Toren :[0m You're a huge xmuter[0m
+[16:13] [0m[31;1m[Clan] Toren :[0m I'm a bb[0m
+[16:16] [0m[31;1m[Clan] Toren :[0m for whatever reason nobody seems to care for that main anymore[0m
+[16:17] [0m[31;1m[Clan] Toren :[0m despite it being uber[0m
+[16:19] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[16:24] [0m[35;1mSimonz [Jedi(Knight)]:[0m ok, who's in line for a headband?[0m
+[16:25] [0m[35;1mSally [Jedi(46)]:[0m im up[0m
+[16:25] [0m[35;1mSimonz [Jedi(Knight)]:[0m ok[0m
+[16:48] [0m[31;1m[Clan] Ser :[0m fuse 12000[0m
+[16:48] [0m[31;1m[Clan] Ser :[0m lol[0m
+[16:52] [0m[31;1m[Clan] Toren :[0m fail[0m
+[16:52] [0m[31;1m[Clan] Ser :[0m worked fine[0m
+[16:52] [0m[31;1m[Clan] Ser :[0m still had 5k hp left[0m
+[16:52] [0m[31;1m[Clan] Ser :[0m had overmax from idling[0m
+[16:54] [0m[31;1m[Clan] Ser :[0m i just think it's funny[0m
+[16:54] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[16:56] [0m[31;1m[Clan] Toren :[0m it's not funny to me, you had me worried sick[0m
+[17:22] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[17:25] [0m[31;1m[Clan] Cambiador enters the game.[0m  [0m
+[17:52] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[18:04] [0m[34;1mHooligan shouts:[0m wheeee[0m
+[18:05] [0m[34;1mSimonz shouts:[0m that'll wake you up[0m
+[18:05] [0m[34;1mHooligan shouts:[0m mud 3 borgs 0[0m
+[18:27] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[18:41] [0m[35;1mTaleast [Jedi(54)]:[0m back later[0m
+[18:41] [0m[31;1m[Clan] Taleast :[0m back later[0m
+[18:58] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[19:08] [0m[31;1m[Clan] Ser :[0m you know i got some shitty weapons this boot, only making 100-140m/half...  but g2n[0m
+[19:08] [0m             is going down and thats what counts[0m
+[19:23] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[19:29] [0m[31;1m[Clan] Toren :[0m i got you 3 weaps this boot[0m
+[19:29] [0m[31;1m[Clan] Toren :[0m wtf you do with them all[0m
+[21:16] [0mYou can currently reforge 0 items.[0m

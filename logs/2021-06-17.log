@@ -1,0 +1,390 @@
+- = LOG STARTED [00:00] = -
+[00:10] [0m[31;1m[Clan] Nine leaves the game.[0m  [0m
+[00:25] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[00:55] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[00:58] [0m[35;1mHarland [Jedi(9)]:[0m does energy have a cap?[0m
+[01:04] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Not that I've seen.[0m
+[01:04] [0m[35;1mHarland [Jedi(9)]:[0m thanks. One more question, is there an sp regen ability, or should I train[0m
+[01:04] [0m                   focus?[0m
+[01:05] [0m[35;1mArchimedes [Jedi(Legend)]:[0m SP Regen : Not really but meditation heals s out of combat.  SP Heal[0m
+[01:05] [0m                           : clear mind.[0m
+[01:14] [0m[35;1mSeeker [Jedi(79)]:[0m we don't really use sp till 30 glvl unless we are dark and focus does help[0m
+[01:14] [0m                   than[0m
+[01:15] [0m[35;1mHarland [Jedi(9)]:[0m right, I trained my int to 10 just in case and leaving it here for a long[0m
+[01:15] [0m                   while I think. I had a long fight and needed to hibertrance, almost ran out[0m
+[01:15] [0m                   of sp so was curious.[0m
+[01:18] [0m[35;1mHarland [Jedi(9)]:[0m sorry another noob question, is there any downside in not choosing a[0m
+[01:18] [0m                   tradition? Jensaarai seems my type but the -3 lightsaber is annoying. Still[0m
+[01:18] [0m                   got a while before I need to worry about that but still.[0m
+[01:19] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[01:20] [0m[35;1mSeeker [Jedi(79)]:[0m trad are a personal preference i like being a true jedi[0m
+[01:46] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[02:03] [0m[35;1mHarland [Jedi(9)]:[0m what's Gilgalal ranking from info hpconfigure?[0m
+[02:04] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Recent changes to fdef have some of us with highly trained skill, but[0m
+[02:04] [0m                           because of a bug, we don't actually have the fdef gxp for it.[0m
+[02:04] [0m[35;1mArchimedes [Jedi(Legend)]:[0m ranking shows us our true fdef skill level[0m
+[02:04] [0m[35;1mArchimedes [Jedi(Legend)]:[0m I have it trained to 20, but I only have the fdef gxp for skill level[0m
+[02:04] [0m                           10[0m
+[02:05] [0m[35;1mHarland [Jedi(9)]:[0m aha thanks. Curious, is there any hope of getting it fixed?[0m
+[02:05] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Getting what fixed?[0m
+[02:05] [0m[35;1mKirin [Jedi(50)]:[0m it being 'fixed' is why it is how it is[0m
+[02:06] [0m[35;1mKirin [Jedi(50)]:[0m basically, fdef got rescaled to cost more[0m
+[02:06] [0m[35;1mHarland [Jedi(9)]:[0m oh I see what you mean[0m
+[02:06] [0m[35;1mHarland [Jedi(9)]:[0m so it doesn't affect newer players right?[0m
+[02:06] [0m[35;1mKirin [Jedi(50)]:[0m though I didnt know what that rating was either, guess I can remove it from my[0m
+[02:06] [0m                  hpbar :p[0m
+[02:06] [0m[35;1mKirin [Jedi(50)]:[0m it does not, no[0m
+[02:06] [0m[35;1mHarland [Jedi(9)]:[0m thanks.[0m
+[02:07] [0m[35;1mKirin [Jedi(50)]:[0m sidenote, sp regen is kind of pointless, once you're big enough to care about[0m
+[02:07] [0m                  it, you should be able to get even a basic headband for yourself[0m
+[02:10] [0m[35;1mKirin [Jedi(50)]:[0m and yeah, traditions, unless you 'want' a blaster, or be restricted from[0m
+[02:10] [0m                  wearing actual gear, or want one of the dark spells, they're not super[0m
+[02:10] [0m                  relevant[0m
+[02:11] [0m[35;1mHarland [Jedi(9)]:[0m oh right, forgot about that thing. Time to look the area up and see when's[0m
+[02:11] [0m                   the time to hit it.[0m
+[02:12] [0m[35;1mHarland [Jedi(9)]:[0m I wanted to join jensaarai when the time comes, but I'd rather have the extra[0m
+[02:12] [0m                   damage I guess.[0m
+[02:14] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Pure Jedi tank pretty well.  Jensaarai would just make it so you[0m
+[02:14] [0m                           wouldn't need to bootrun for eq.[0m
+[02:14] [0m[35;1mKirin [Jedi(50)]:[0m which is a drawback, not a boon, generally.[0m
+[02:14] [0m[35;1mKirin [Jedi(50)]:[0m oh hey, a useless world drop, yay me. stupid breastplate[0m
+[02:15] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Indeed, you wouldn't be able to benefit from some of the specials of[0m
+[02:15] [0m                           mud eq.[0m
+[02:15] [0m[35;1mHarland [Jedi(10)]:[0m yeah I've kind of noticed that recently, especially since I've become[0m
+[02:15] [0m                    familiar with the spirit gear and the headband, god knows what else is out[0m
+[02:15] [0m                    there I've yet to learn about LOL[0m
+[02:15] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[02:24] [0m[35;1mHarland [Jedi(10)]:[0m what does this message mean? Your shielding begins to fade. I have lfs[0m
+[02:24] [0m                    maintained and got this message in combat.[0m
+[02:25] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Predates 'maintain'[0m
+[02:25] [0m[35;1mKirin [Jedi(50)]:[0m one of the best things as a lowbie, a day or 2 into boot pickup a cloak of the[0m
+[02:25] [0m                  spirit {radiant} from the shop, significantly makes your healing go farther[0m
+[02:25] [0m[35;1mKirin [Jedi(50)]:[0m it also does mean its about to drop, so be prepared for the 4-5% whatever conc[0m
+[02:25] [0m                  hit for reloading it[0m
+[02:25] [0m[35;1mArchimedes [Jedi(Legend)]:[0m You basically don't have to worry about that message any more now[0m
+[02:25] [0m                           that we have maintain.[0m
+[02:25] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Well, yeah, there's that.[0m
+[02:26] [0m[35;1mArchimedes [Jedi(Legend)]:[0m I've forgotten so much about being a young Jedi.[0m
+[02:26] [0m[35;1mKirin [Jedi(50)]:[0m having everything drop at once and suddenly being out 15 conc and 5-10 force[0m
+[02:26] [0m                  is kind of bad :p hehe[0m
+[02:26] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Well, when you put it that way.[0m
+[02:27] [0m[35;1mHarland [Jedi(10)]:[0m maybe not for me since my fights don't last long enough to drain conc and[0m
+[02:27] [0m                    force that low, but I see the point yeah.[0m
+[02:30] [0m[35;1mHarland [Jedi(10)]:[0m what about this message? Your lightsaber begins to flicker and the handle[0m
+[02:30] [0m                    warms!                  I thought it means the weapon got damaged but it's[0m
+[02:30] [0m                    still in flawless condition.[0m
+[02:32] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Means your lightweapon is close to breaking.[0m
+[02:32] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Relatively new feature.[0m
+[02:32] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Used to be lihghtweapons would just break with no warning.[0m
+[02:32] [0m[35;1mHarland [Jedi(10)]:[0m should I repair it instantly, or wait until breakage?[0m
+[02:33] [0m[35;1mKirin [Jedi(50)]:[0m from the dark times when wizards bizzare decided even all guild weapons should[0m
+[02:33] [0m                  annoyingly break for no reason[0m
+[02:33] [0m[35;1mHarland [Jedi(10)]:[0m I mean is there any reduced damage penalty or something at this stage?[0m
+[02:33] [0m[35;1mHarland [Jedi(10)]:[0m aha[0m
+[02:33] [0m[35;1mArchimedes [Jedi(Legend)]:[0m I see no benefit for waiting.  Get it done as soon as conveniently[0m
+[02:33] [0m                           possible.[0m
+[02:33] [0m[35;1mKirin [Jedi(50)]:[0m not as such, it just means any round later it could break and leave you with[0m
+[02:33] [0m                  no weapon[0m
+[02:33] [0m[35;1mHarland [Jedi(10)]:[0m alright, thanks.[0m
+[02:33] [0m[35;1mArchimedes [Jedi(Legend)]:[0m You get several messages before it finally breaks, but it won't be[0m
+[02:33] [0m                           long.[0m
+[02:52] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[03:00] [0m[34;1mJasmine shouts:[0m DIRTY FILTHY MEMORY![0m
+[03:17] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[15:33] [0m[31;1m[Clan] Droptable :[0m which is funny bc i have enough time on this char to have been a gl160 mage[0m
+[15:33] [0m                   instead haha[0m
+[15:48] [0m[31;1m[Clan] Nameless :[0m hour to go before d7, who wants to get they cheeks qlap'd[0m
+[15:48] [0m[31;1m[Clan] Droptable :[0m i need 110m xp to train immo, i need to leech :D[0m
+[15:49] [0m[31;1m[Clan] Archimedes :[0m Hey, wake me when it's time.  Don't want to miss it.[0m
+[15:49] [0m[31;1m[Clan] Archimedes :[0m Should max out my dex by that time.[0m
+[15:56] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[15:56] [0m[31;1m[Clan] Nameless :[0m will do[0m
+[15:56] [0mnewb Alemic [mage/6]: where can i get stuff to eat and drink?[0m
+[15:57] [0mnewb Nameless [bard/135]: i believe ss sells booze for sake of sp heals, and food... well[0m
+[15:57] [0m                          goodberries are decentish if you need to gobble stuff, if a priest is[0m
+[15:57] [0m                          around to make some[0m
+[15:58] [0mnewb Liskar [bard/65]: you don't need to eat or drink. it doesn't affect you in any wya[0m
+[15:58] [0mnewb Liskar [bard/65]: *way[0m
+[15:59] [0mnewb Alemic [mage/6]: thanks[0m
+[16:00] [0m[31;1m[Clan] Decav enters the game.[0m  [0m
+[16:00] [0m[37;1mNauda flaps :[0m A sardukar harnass at CoT[0m
+[16:09] [0m[31;1m[Clan] Toxin :[0m ooo fbat day 7 in less than an hour[0m
+[16:12] [0m[31;1m[Clan] Archimedes :[0m And that is my last point of dex.[0m
+[16:13] [0m[31;1m[Clan] Oscar :[0m woo[0m
+[16:13] [0m[31;1m[Clan] Nameless :[0m woot[0m
+[16:13] [0m[31;1m[Clan] Oscar :[0m I got 13 wis points to go[0m
+[16:13] [0m[31;1m[Clan] Archimedes :[0m One more level so I can max out wis, then start woring on int.[0m
+[16:13] [0m[31;1m[Clan] Archimedes :[0m Then I'll be almost as good as Saim.[0m
+[16:14] [0m[31;1m[Clan] Nameless :[0m hehehe[0m
+[16:14] [0m[31;1m[Clan] Nameless :[0m i need to check where i am on top bards list again[0m
+[16:14] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Woo!![0m
+[16:14] [0m[35;1mAkeshi [Jedi(30)]:[0m finally[0m
+[16:14] [0m[35;1mAkeshi [Jedi(30)]:[0m fdefmenow!![0m
+[16:14] [0m[31;1m[Clan] Nameless :[0m i think i might be top 10 finally, but perhaps not[0m
+[16:15] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Say hello to the skill that will take you the longest to max out.[0m
+[16:15] [0m[35;1mVolt [Jedi(74)]:[0m i have 2 fdef.  and am still a little angry at my tanks for making me solo that[0m
+[16:15] [0m                 much[0m
+[16:17] [0m[35;1mSeeker [Jedi(79)]:[0m that's funny[0m
+[16:17] [0m[35;1mDardar [Jedi(36)]:[0m so this might be a silly question. But Your comment there made me wonder,[0m
+[16:17] [0m                   people are always saying as a Dark Jedide, you'll need to get a tank. Do they[0m
+[16:17] [0m                   mean another player to tank for you?? Because the only other tank I can think[0m
+[16:17] [0m                   of is a dog, and dogs really don't tank so well... Not that I've seen anyway,[0m
+[16:17] [0m                   and you can't reflex heal dogs as far as I know? I guess you could do like[0m
+[16:17] [0m                   focus reflex on focus reduce injury on buster at 400000000[0m
+[16:18] [0m[35;1mArchimedes [Jedi(Legend)]:[0m You'll probably blow up doing that.[0m
+[16:18] [0m[35;1mVolt [Jedi(74)]:[0m it's mostly a joke.  Dark Jedi are more of a glass cannon style play[0m
+[16:19] [0m[35;1mVolt [Jedi(74)]:[0m i am capable of tanking 250k mobs with 0 downtime[0m
+[16:19] [0m[35;1mVolt [Jedi(74)]:[0m but if i want to xp, that's not too great[0m
+[16:19] [0m[35;1mDardar [Jedi(36)]:[0m nodnod[0m
+[16:19] [0m[35;1mSeeker [Jedi(79)]:[0m finger volt[0m
+[16:19] [0m[35;1mVolt [Jedi(74)]:[0m our damage is very good though, with no need for corpses.[0m
+[16:19] [0m[35;1mDardar [Jedi(36)]:[0m I thought it was other players, but I just wanted to check because I ahd this[0m
+[16:19] [0m                   horrible image of me sitting here doing that and other Dark Jedides are like[0m
+[16:19] [0m                   ha.. fool[0m
+[16:20] [0m[35;1mVolt [Jedi(74)]:[0m nah, find a player to be a meat shield[0m
+[16:20] [0m[35;1mDardar [Jedi(36)]:[0m nodnod that's good[0m
+[16:21] [0m[35;1mVolt [Jedi(74)]:[0m we CAN clear mind/cpain/reduce injury for others but it is terribad[0m
+[16:21] [0m[35;1mDardar [Jedi(36)]:[0m and Dark Jedide tanking is... Yeah. but then lightside traditions suuuuuuuck.[0m
+[16:21] [0m                   Justsaying[0m
+[16:22] [0m[35;1mSeeker [Jedi(79)]:[0m you don't have to take a trad and teepo is not bad[0m
+[16:23] [0m[35;1mDardar [Jedi(36)]:[0m huh, I thought vanilla jedi is the same as the jedi tradition?[0m
+[16:23] [0m[35;1mDardar [Jedi(36)]:[0m like traditionless is just jedi tradition[0m
+[16:26] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[16:34] [0m[31;1m[Clan] Elektra :[0m might could exp for an hour[0m
+[16:34] [0m[31;1m[Clan] Elektra :[0m if anyone is doing anything fun and exciting?[0m
+[16:35] [0m[31;1m[Clan] Elektra :[0m oh day7[0m
+[16:35] [0m[31;1m[Clan] Elektra :[0m in 24 min[0m
+[16:35] [0m[31;1m[Clan] Nameless :[0m xnod[0m
+[16:35] [0m[31;1m[Clan] Elektra :[0m should we go kill the day6 one soon[0m
+[16:36] [0m[31;1m[Clan] Nameless :[0m nah wait til basically time and kill that i guess[0m
+[16:45] [0m[31;1m[Clan] Elektra :[0m heading over[0m
+[16:46] [0m[31;1m[Clan] Archimedes :[0m So what is the official time/mark when it's time to kill day 7 firebat?[0m
+[16:46] [0m[31;1m[Clan] Oscar :[0m 53 mins i believe[0m
+[16:47] [0m[31;1m[Clan] Elektra :[0m no[0m
+[16:47] [0m[31;1m[Clan] Oscar :[0m ah fuck you went within LOS[0m
+[16:47] [0m[31;1m[Clan] Elektra :[0m in 12 min 15 s[0m
+[16:47] [0m[31;1m[Clan] Elektra :[0m but the day6 one will take a while to clear[0m
+[16:47] [0m[31;1m[Clan] Oscar :[0m day 6 despawns if you dont go in[0m
+[16:47] [0m[31;1m[Clan] Elektra :[0m it does?[0m
+[16:47] [0m[31;1m[Clan] Oscar :[0m yes[0m
+[16:47] [0m[31;1m[Clan] Oscar :[0m Because the room doesnt laod[0m
+[16:47] [0m[31;1m[Clan] Oscar :[0m If nobody is in there[0m
+[16:47] [0m[31;1m[Clan] Oscar :[0m But if someone is within LOS, it loads[0m
+[16:47] [0m[31;1m[Clan] Droptable :[0m i thought they changed that[0m
+[16:47] [0m[31;1m[Clan] Archimedes :[0m So now you *have* to deal with day 6.[0m
+[16:47] [0m[31;1m[Clan] Oscar :[0m Really?[0m
+[16:48] [0m[31;1m[Clan] Oscar :[0m I just assumed someone always fucked it up[0m
+[16:48] [0m[31;1m[Clan] Droptable :[0m pretty sure, i dont do d7 much tho[0m
+[16:48] [0m[31;1m[Clan] Oscar :[0m It 100% used to not load if you didn't get within LOS.  But I could see them[0m
+[16:48] [0m               changing it as well.[0m
+[16:48] [0m[31;1m[Clan] Droptable :[0m gonna buy immort and head over[0m
+[16:48] [0m[31;1m[Clan] Oscar :[0m lol[0m
+[16:48] [0m[31;1m[Clan] Archimedes :[0m So that means that LoS leads the rooms within light of sight.[0m
+[16:49] [0m[31;1m[Clan] Archimedes :[0m I wonder if that has any impact on Shansabyk.[0m
+[16:50] [0m[31;1m[Clan] Elektra :[0m space says even entering the room next to it causes day6 to load[0m
+[16:50] [0m[31;1m[Clan] Droptable :[0m Hmmm[0m
+[16:50] [0m[31;1m[Clan] Nameless :[0m brt[0m
+[16:50] [0m[31;1m[Clan] Droptable :[0m nod, well. i'll stay at entrance to be safe[0m
+[16:51] [0m[31;1m[Clan] Nameless :[0m am i alone in thinking the brood queen was kinda hot?[0m
+[16:51] [0m[31;1m[Clan] Nameless :[0m zerq wueen, whatever[0m
+[16:51] [0m[31;1m[Clan] Oscar :[0m I'm sitting d6 out[0m
+[16:51] [0m[31;1m[Clan] Elektra :[0m space will destory it[0m
+[16:51] [0m[31;1m[Clan] Oscar :[0m Well, could pop byron on[0m
+[16:51] [0m[31;1m[Clan] Oscar :[0m o[0m
+[16:51] [0m[31;1m[Clan] Oscar :[0m thats sexy[0m
+[16:53] [0m[31;1m[Clan] Byron :[0m we got sz banner[0m
+[16:58] [0m[31;1m[Clan] Elektra :[0m smear guac[0m
+[16:58] [0m[31;1m[Clan] Archimedes :[0m If I had any. :([0m
+[16:58] [0m[31;1m[Clan] Nameless :[0m rock out with your guac out![0m
+[16:58] [0m[31;1m[Clan] Droptable :[0m someone lmk when d6 is ded?[0m
+[16:59] [0m[31;1m[Clan] Nameless :[0m dead[0m
+[17:00] [0m[31;1m[Clan] Droptable :[0m thx[0m
+[17:01] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[17:01] [0m[35;1mMalarkey [Jedi(28)]:[0m ack[0m
+[17:03] [0m[37;1mAkeshi flaps :[0m hmm I guess I just missed day7, right ?[0m
+[17:03] [0m[37;1mNameless flaps :[0m nod[0m
+[17:03] [0m[37;1mNauda flaps :[0m yes[0m
+[17:04] [0m[37;1mAkeshi flaps :[0m oh well, no biggie[0m
+[17:04] [0m[35;1mSally [Jedi(Knight)]:[0m why does it always kill me[0m
+[17:05] [0m[35;1mVolt [Jedi(74)]:[0m went straight for you too[0m
+[17:06] [0m[34;1mKichi shouts:[0m pipe down[0m
+[17:06] [0m[35;1mSally [Jedi(Knight)]:[0m does it do a random hit around ?[0m
+[17:06] [0m[34;1mFluffy shouts:[0m pipe up ... and fire up that lighter![0m
+[17:06] [0m[34;1mNameless shouts:[0m shinjetero ze! shinjetero yo! OINGO BOINGO BURAZZAAAA[0m
+[17:06] [0m[35;1mVolt [Jedi(74)]:[0m it hits around the room once for every x players[0m
+[17:07] [0m[35;1mVolt [Jedi(74)]:[0m every 12th round you tank if 12 players[0m
+[17:07] [0m[35;1mSally [Jedi(Knight)]:[0m ok[0m
+[17:07] [0m[35;1mSally [Jedi(Knight)]:[0m ok[0m
+[17:09] [0m[34;1mNameless shouts:[0m WE MUST CONSTRUCT ADDITIONAL PYLONS[0m
+[17:10] [0m[34;1mNauda shouts:[0m We requre more vespine gas![0m
+[17:13] [0m[31;1m[Clan] Droptable :[0m anyone need reforges?[0m
+[17:13] [0m[31;1m[Clan] Archimedes :[0m Be back in a bit.[0m
+[17:14] [0m[37;1mElektra flaps :[0m ok, time for another foosball tourney[0m
+[17:14] [0m[37;1mMotorbreath flaps :[0m so no crazy stunts for day 7 again?[0m
+[17:15] [0m[31;1m[Clan] Nameless :[0m oh, were you asking for a forge?[0m
+[17:15] [0m[31;1m[Clan] Nameless :[0m i can reforge everyones cmc[0m
+[17:17] [0m[35;1mHarland [Jedi(11)]:[0m Red sparks fly as you strike Smurfette with your lightsaber.                [0m
+[17:17] [0m[31;1m[Clan] Nameless :[0m at house box, make a soul or send a tell since iaw pondering dinner options[0m
+[17:17] [0m[35;1mHarland [Jedi(11)]:[0m Is that a damage message, or just some flavor stuff? Not having numbers is[0m
+[17:17] [0m                    not fun.[0m
+[17:17] [0m[31;1m[Clan] Nameless :[0m cbox, whatever[0m
+[17:19] [0m[35;1mMalarkey [Jedi(28)]:[0m no that's dmg[0m
+[17:20] [0m[35;1mHarland [Jedi(11)]:[0m thanks.[0m
+[17:20] [0m[35;1mKirin [Jedi(50)]:[0m guide only gets 1 'hit', anything else is either fluff or saber taking damage[0m
+[17:24] [0m[35;1mDardar [Jedi(36)]:[0m we need someone in the guild called iced milk. Because everyone knows that an[0m
+[17:24] [0m                   oreo and an iced milk go together[0m
+[17:28] [0m[31;1m[Clan] Nameless :[0m Wisdom +13          9.13 hours   Let It Be[0m
+[17:28] [0m[31;1m[Clan] Nameless :[0m slowly getting up to a decent time[0m
+[17:28] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[17:31] [0m[32;1m <Congratulations!>[0m : Harland has joined the Crafter's Guild![0m
+[17:31] [0mHarland <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[17:35] [0m[35;1mHarland [Jedi(11)]:[0m what do droids do? Anything to looking forward to?[0m
+[17:36] [0m[35;1mVolt [Jedi(74)]:[0m yes, definitely[0m
+[17:36] [0m[35;1mVolt [Jedi(74)]:[0m there are many types of droids, from protocol that carry, to military that do a[0m
+[17:36] [0m                 little extra damage[0m
+[17:36] [0m[35;1mVolt [Jedi(74)]:[0m repair and energy droids to help with lightsaber[0m
+[17:36] [0m[35;1mDardar [Jedi(36)]:[0m don't forget recharging sabers![0m
+[17:37] [0m[35;1mVolt [Jedi(74)]:[0m and even a soupbar droid (don't let other guilds know about that OP droid)[0m
+[17:37] [0m[35;1mHarland [Jedi(11)]:[0m ah, that's neat.[0m
+[17:37] [0m[35;1mDardar [Jedi(36)]:[0m snicker[0m
+[17:38] [0m[35;1mHarland [Jedi(11)]:[0m what about fdef, is it a game changer? I mean assuming it comes at level 30[0m
+[17:38] [0m                    it must be but still.[0m
+[17:38] [0m[35;1mDardar [Jedi(36)]:[0m it's annoying as fuck. But then I would say that having been caught out by[0m
+[17:38] [0m                   the new changes[0m
+[17:38] [0m[35;1mHarland [Jedi(11)]:[0m the increased cost?[0m
+[17:38] [0m[35;1mVolt [Jedi(74)]:[0m it is the best defense for lightside jedi, but will take forever to get to a[0m
+[17:38] [0m                 high level[0m
+[17:38] [0m[35;1mVolt [Jedi(74)]:[0m language on lines dardar[0m
+[17:39] [0m[35;1mKirin [Jedi(50)]:[0m I'm just reaching fdef 5, if that puts anything in to perspective[0m
+[17:39] [0m[35;1mKirin [Jedi(50)]:[0m and yes, even fded 1 matters, alot[0m
+[17:40] [0m[35;1mVolt [Jedi(74)]:[0m i think that each level of fdef is noticeable[0m
+[17:40] [0m[35;1mVolt [Jedi(74)]:[0m for lightsiders[0m
+[17:40] [0m[35;1mEnder [Jedi(Master)]:[0m saim you got fdef 20 at what, glvl 105?[0m
+[17:41] [0m[35;1mHarland [Jedi(11)]:[0m man that takes some grinding.[0m
+[17:41] [0m[35;1mEnder [Jedi(Master)]:[0m my question is can i master two lightweapons and get robotics 5 before[0m
+[17:41] [0m                      2022.[0m
+[17:41] [0m[35;1mEnder [Jedi(Master)]:[0m er sorry 2023[0m
+[17:42] [0m[35;1mEnder [Jedi(Master)]:[0m i still think it's 2020[0m
+[17:42] [0m[35;1mTychicus [Jedi(39)]:[0m If you can't convince them, confuse them.[0m
+[17:42] [0m[35;1mHarland [Jedi(11)]:[0m sorry for so many endless questions LOL but one more for now hopefully, how[0m
+[17:42] [0m                    do you guys handle dodge?[0m
+[17:42] [0m[35;1mTychicus [Jedi(39)]:[0m That's ok, we'll just...off with your head![0m
+[17:42] [0m[35;1mVolt [Jedi(74)]:[0m keep it maxed[0m
+[17:42] [0m[35;1mKirin [Jedi(50)]:[0m once you get bigger you will notice screwing up and wearing a helmet[0m
+[17:42] [0m[35;1mSeeker [Jedi(79)]:[0m get all you can[0m
+[17:42] [0m[35;1mKirin [Jedi(50)]:[0m usually by seeing the old man[0m
+[17:42] [0m[35;1mEnder [Jedi(Master)]:[0m max your core defenses as soon as you can, put them on all on maintain and[0m
+[17:42] [0m                      never look back.[0m
+[17:42] [0m[35;1mHarland [Jedi(11)]:[0m I mean do you guys keep turning it off and on out and in combat?[0m
+[17:43] [0m[35;1mKirin [Jedi(50)]:[0m info maintain[0m
+[17:43] [0m[35;1mHarland [Jedi(11)]:[0m Oh I don't think I saw dodge in the list of maintainable abilities, let's[0m
+[17:43] [0m                    make sure.[0m
+[17:43] [0m[35;1mVolt [Jedi(74)]:[0m yeah, i put it in maintain at glvl whatever and have had it on forever[0m
+[17:43] [0m[35;1mTychicus [Jedi(39)]:[0m focus maintain for dodge[0m
+[17:44] [0m[35;1mHarland [Jedi(11)]:[0m er my bad, it's indeed there. Thanks.[0m
+[17:50] [0m[35;1mSeeker [Jedi(79)]:[0m woo[0m
+[17:51] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[18:18] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[18:32] [0m[35;1mDardar [Jedi(36)]:[0m huh[0m
+[18:32] [0m[35;1mDardar [Jedi(36)]:[0m never seen this before[0m
+[18:33] [0m[35;1mDardar [Jedi(36)]:[0m You feel the Force lurch within you in protest to the volume of your use. You[0m
+[18:33] [0m                   nearly double over in agony as the effects of overextending yourself come[0m
+[18:33] [0m                   painfully to light.[0m
+[18:33] [0m[35;1mKirin [Jedi(50)]:[0m thats probably a ds point I think[0m
+[18:33] [0m[35;1mDardar [Jedi(36)]:[0m still at 21[0m
+[18:36] [0m[35;1mMalarkey [Jedi(28)]:[0m ooo totally mauled, haven't seen the mauled emotes yet[0m
+[18:36] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Did you force sat?[0m
+[18:37] [0m[35;1mMalarkey [Jedi(28)]:[0m nope, force looked good.  force has an effect on saber emotes?[0m
+[18:37] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Nope[0m
+[18:38] [0m[35;1mArchimedes [Jedi(Legend)]:[0m I think I've only seen that message when I got over 100% force.[0m
+[18:38] [0m[35;1mMalarkey [Jedi(28)]:[0m every time i see an emote that looks new i hope my mastyer went up heh[0m
+[18:38] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Back in the day.[0m
+[18:38] [0m[35;1mTychicus [Jedi(39)]:[0m coconuts and smoke signals[0m
+[18:39] [0m[35;1mDardar [Jedi(36)]:[0m nope, force was at 45 percent[0m
+[18:43] [0m[35;1mMalarkey [Jedi(28)]:[0m i don't want to advance my level until i can tank my lowest scaler[0m
+[18:43] [0m                     zell...i'm an xp hoarder[0m
+[18:43] [0m[35;1mTychicus [Jedi(39)]:[0m AMulet of Voraxis ftw![0m
+[18:43] [0m[35;1mMalarkey [Jedi(28)]:[0m oo nice[0m
+[18:44] [0m[35;1mMalarkey [Jedi(28)]:[0m anyone know what the ghostly amulet in diablo 3 that the necro npc drops[0m
+[18:44] [0m                     does?[0m
+[18:44] [0m[35;1mTychicus [Jedi(39)]:[0m If I went by diablo 2 it would have superior stats but be non repairable.[0m
+[18:51] [0m[31;1m[Clan] Nameless :[0m Hang on, list is building (up to my ass).[0m
+[18:51] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[18:51] [0m[37;1mVagrant flaps :[0m come get you firebat tags! crypt up resid,n[0m
+[18:51] [0m[31;1m[Clan] Nameless :[0m i am bard rank 11[0m
+[18:52] [0m[31;1m[Clan] Nameless :[0m almost there![0m
+[18:53] [0m[31;1m[Clan] Archimedes :[0m Who's above you?[0m
+[18:53] [0m[31;1m[Clan] Nameless :[0m mud[0m
+[18:53] [0m[31;1m[Clan] Nameless :[0m then tony then jizmak[0m
+[18:53] [0m[31;1m[Clan] Akir :[0m I'm the 9th highest Gentech on Prism, but to crack the top 5 I'm going to have to[0m
+[18:53] [0m              spend way too much time that I don't want to put into that gobj[0m
+[18:53] [0m[31;1m[Clan] Nameless :[0m very nice[0m
+[18:54] [0m[31;1m[Clan] Nameless :[0m yeah getting bigger than that seems to be a time sink for sake of time sink,[0m
+[18:54] [0m                  if youve maxed all the experiemnts[0m
+[18:54] [0m[31;1m[Clan] Akir :[0m There is like 1 or 2 more that I'd use but I have 2 open slots so[0m
+[18:54] [0m[31;1m[Clan] Akir :[0m Just lazy[0m
+[18:54] [0m[31;1m[Clan] Nameless :[0m hehehe[0m
+[18:55] [0m[31;1m[Clan] Akir :[0m one is like 20 passive hp regen or something bad but it's something[0m
+[18:55] [0m[31;1m[Clan] Nameless :[0m ahhh right[0m
+[18:55] [0m[31;1m[Clan] Nameless :[0m the respirocyte thing that doesnt suck[0m
+[18:55] [0m[31;1m[Clan] Akir :[0m nod[0m
+[18:55] [0m[31;1m[Clan] Akir :[0m I got ad rush and maxxed it and I still don't know if it has helped me on anything[0m
+[18:55] [0m[37;1mVagrant flaps :[0m we got 6 people so far! we should be good with another 2-4 :)[0m
+[18:58] [0m[34;1mZiphe shouts:[0m don't despair, ziphe is there[0m
+[18:58] [0m[34;1mVagrant shouts:[0m vicotry[0m
+[18:58] [0m[34;1mZiphe shouts:[0m ok despair, we don't have enough[0m
+[19:02] [0m[34;1mNameless shouts:[0m leeeeroooooy[0m
+[19:03] [0m[35;1mArchimedes [Jedi(Legend)]:[0m :([0m
+[19:03] [0m[37;1mHotdaddy flaps :[0m bring on the death spam already![0m
+[19:04] [0m[35;1mKirin [Jedi(50)]:[0m splat.[0m
+[19:04] [0m[35;1mArchimedes [Jedi(Legend)]:[0m And why do we die?[0m
+[19:04] [0m[35;1mArchimedes [Jedi(Legend)]:[0m So we can learn to resurrect ourselves.[0m
+[19:05] [0m[35;1mEnder [Jedi(Master)]:[0m i was gonna go with so we can listen to the old man's speech[0m
+[19:05] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Ohh... I loathe that speech.[0m
+[19:05] [0m[37;1mVagrant flaps :[0m victory guys love y iu all[0m
+[19:05] [0m[37;1mNauda flaps :[0m double victory[0m
+[19:05] [0m[35;1mVolt [Jedi(74)]:[0m vaf for no speech.[0m
+[19:06] [0m[35;1mKirin [Jedi(50)]:[0m all the way to 16 before randomly dying, yay :P[0m
+[19:09] [0m[31;1m[Clan] Nameless :[0m i actually have no punchline, fail[0m
+[19:09] [0m[31;1m[Clan] Akir :[0m OWNED NERD[0m
+[19:09] [0m[31;1m[Clan] Akir :[0m You come at the king you best not miss[0m
+[19:16] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[19:21] [0m[31;1m[Clan] Morion enters the game.[0m  [0m
+[19:29] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Woo!![0m
+[19:30] [0m[35;1mKirin [Jedi(51)]:[0m ..and not quite high enough to learn 11, derp, yay :p[0m
+[19:40] [0m[35;1mArchimedes [Jedi(Legend)]:[0m :([0m
+[19:40] [0m[35;1mKirin [Jedi(51)]:[0m that one was my dog's fault, and the stupid way the mud works.[0m
+[19:41] [0m[35;1mTychicus [Jedi(39)]:[0m wow it takes forever to get enough to superforce a piece of eq[0m
+[19:41] [0m[31;1m[Clan] Boscar enters the game.[0m  [0m
+[19:41] [0m[31;1m[Clan] Boscar :[0m anyone able to reforge cmc?[0m
+[19:42] [0m[31;1m[Clan] Droptable :[0m sure[0m
+[19:42] [0m[35;1mArchimedes [Jedi(Legend)]:[0m 'superforce'?[0m
+[19:42] [0m[35;1mKirin [Jedi(51)]:[0m new thing for fieldsmith[0m
+[19:42] [0m[31;1m[Clan] Boscar :[0m woot[0m
+[19:42] [0m[31;1m[Clan] Boscar :[0m you got tag?[0m
+[19:42] [0m[35;1mKirin [Jedi(51)]:[0m to make fieldsmith not garbage[0m
+[19:42] [0m[31;1m[Clan] Droptable :[0m @box[0m
+[19:42] [0m[35;1mTychicus [Jedi(39)]:[0m makes gear indestructible[0m
+[19:42] [0m[31;1m[Clan] Boscar :[0m b fucking s[0m
+[19:42] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Oh, nice.[0m
+[19:42] [0m[35;1mKirin [Jedi(51)]:[0m basically an analog to transmuting, even to the 1 per person[0m
+[19:42] [0m[35;1mArchimedes [Jedi(Legend)]:[0m And how much is a lot?[0m
+[19:43] [0m[35;1mTychicus [Jedi(39)]:[0m I have dismantled tons of pol2 stuff[0m
+[19:43] [0m[31;1m[Clan] Archimedes :[0m Ahh[0m
+[19:43] [0m[31;1m[Clan] Archimedes :[0m w/l[0m
+[19:43] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Ahh[0m
+[19:43] [0m[35;1mKirin [Jedi(51)]:[0m depends on if it cares about how much ac it has[0m
+[19:43] [0m[35;1mTychicus [Jedi(39)]:[0m At least I can fix my gear pretty easy and free.[0m
+[19:43] [0m[31;1m[Clan] Oscar :[0m sz?[0m
+[19:44] [0m[35;1mXaro [Jedi(86)]:[0m just how much EQ do you use as a Jen?[0m
+[19:44] [0m[35;1mXaro [Jedi(86)]:[0m another prof would be better suited I woudl think[0m
+[19:45] [0m[35;1mTychicus [Jedi(39)]:[0m rings, amulet, cloak[0m
+[19:45] [0m[35;1mTychicus [Jedi(39)]:[0m other[0m
+[19:45] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[19:46] [0m[35;1mKirin [Jedi(51)]:[0m the main use for the new thing is nobreaking the bullcrap dura items like[0m
+[19:46] [0m                  bracelet barrier and freeway[0m
+[19:46] [0m[35;1mXaro [Jedi(86)]:[0m farming 1 maint ring seems much easier[0m
+[19:47] [0m[35;1mKirin [Jedi(51)]:[0m most people cant 'farm' qoh :p, and personally never found 3/2 maint to be as[0m
+[19:47] [0m                  good as people have told me it was[0m
+[19:48] [0m[35;1mVolt [Jedi(74)]:[0m no bursting bubbles[0m
+[20:17] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m

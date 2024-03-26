@@ -1,0 +1,16 @@
+#ses {3k} {3k.org} {3000};kent;$kentPass
+#split 0 1;
+#conf {repeat enter} {on};
+#conf {color patch} {on};
+#conf {packet patch} {1};
+#read $3KSRC/char/kent/actions.tin;
+#read $3KSRC/char/kent/alias.tin;
+#read $3KSRC/char/kent/andhpbar.tin;
+#NOP read $3KSRC/char/kent/gags.tin
+#NOP read $3KSRC/char/kent/highlight.tin
+#read $3KSRC/common/chatlog.tin;
+#read $3KSRC/common/directions.tin;
+#NOP read $3KSRC/common/mapper.tin;
+#read $3KSRC/common/general_alias.tin
+#substitute {^-R-_} {}
+tank on

@@ -1,0 +1,24 @@
+#class {bot} {open}
+#var {area} {dundee1}
+#var {botpath} {e;n;n;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;n;n;n;n;n;e;e;e;e;e;e;e;e;e;e;e;e;n;n;nw;w;n;n;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;n;n;n;n;n;e;se;s;s;w;w;w;w;w;w;w;w;w;w;w;w;w}
+
+#act {^[MoNSTaR]{Red-bellied Watersnake|Cane Toad|Marbled Reed Frog|Swamp Sparrow|Tricolored HeronCaecilian|Marsh Rat|Swamp Crocodile|Anhinga|Short-tailed Shrew|Marsh Snake|Drop bear}} {
+	#if {"%1" == "Red-bellied Watersnake"} {#var mobname snake};
+	#if {"%1" == "Drop Bear"} {#var mobname bear};
+	#if {"%1" == "Cane Toad"} {#var mobname toad};
+	#if {"%1" == "Marbled Reed Frog"} {#var mobname frog};
+	#if {"%1" == "Swamp Sparrow"} {#var mobname sparrow};
+	#if {"%1" == "Tricolored Heron"} {#var mobname heron};
+	#if {"%1" == "Swamp Crocodile"} {#var mobname crocodile};
+	#if {"%1" == "Marsh Rat"} {#var mobname rat};
+	#if {"%1" == "Caecilian"} {#var mobname caecilian};
+	#if {"%1" == "Anhinga"} {#var mobname anhinga};
+	#if {"%1" == "Short-tailed Shrew"} {#var mobname shrew};
+	#if {"%1" == "Marsh Snake"} {#var mobname snake};
+	_check_mob
+	}
+#act {You've killed} {#nop} {1}
+
+#class {bot} {close}
+
+#read bots/generic.tin

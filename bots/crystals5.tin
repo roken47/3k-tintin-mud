@@ -1,0 +1,15 @@
+#class {bot} {open}
+#var {area} {Crystals - 1}
+
+
+
+#act {{^[MoNSTaR](Adamant of |Crystal |Living |A |An |)(Garnet|garnet|Quartz|quartz|Sapphire|sapphire|Jade|jade|Ruby|ruby|Spinel|spinel|Aquamarine|aquamarine|Amber|amber|Emerald|emerald|Amethyst|amethyst|Kyanite|kyanite|Diamond|diamond)( entity| creature|)?( \((shining|living|crystalline)\))*( \<[\<\>\|\X\\\/\-]+\>)?( \(demoralized\))?( \[(scratched|wounded|dying)\])?( \[[0-9]*%\])?( !*attacking ([A-z]+)!)*( \{([0-9]+)\})?\.$}}
+	{
+	#var mobname crystal;
+	_check_mob
+	}
+#act {[MoNSTaR]Crysmal, Prismatic God of Crystals} {xx}
+
+#class {bot} {close}
+
+#read bots/generic.tin

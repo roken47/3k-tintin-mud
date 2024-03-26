@@ -1,0 +1,169 @@
+#class kill alias;
+#class open alias;
+
+/*	Troubleshoot	*/
+#alias {reboot} {#kill;#read 3k/dartholiver/dartholiver.tin}
+#alias {/hpbar} {#kill class hpbar;#read 3k/dartholiver/monkhpbar.tin}
+
+/*	COMBAT		*/
+#alias {corpsetrig} {study;get coins;get coins from corpse;#2 hands;meditate;
+		#var pressure off;
+		#var palm_active false;
+		#var mob_health 0}
+#alias {.cbot} {#act {dealt the killing blow to} {corpsetrig}}
+#alias {heartbeat} {#delay {5} {hp}}
+
+/*	Status Aliases		*/
+#alias {gs1} {pstats}
+#alias {adv} {rcost}
+#alias {gwho} {monks} 
+#alias {ds} {dungeons}
+
+/*	Monk Guild Triggers / Skills	*/
+#alias {ak} {akill}
+#alias {E} {enervate 120}
+#alias {P} {palm}
+#alias {p} {pressure}
+#alias {T} {throw}
+#alias {f} {focus}
+#alias {h} {hands}
+#alias {m} {
+	#switch {"%1"} {
+		#case {"on"} {meditate};
+		#case {"off"} {stopmed};
+		#default {#showme <170> Alias for toggling<129> Meditation};}}
+#alias auto_palm {
+     #if {"$auto_palm" != "true"} {
+       #showme <170>Auto palm enabled.;
+       #var auto_palm true;
+     };
+      #else {
+       #showme <170>Auto palm disabled.;
+       #var auto_palm false;
+     }
+}
+
+/*      Adventuring Related     */
+#alias {gl} {glance}
+#alias {l} {look}
+#alias {S} {search}
+#alias {ga} {get all}
+#alias {gac} {get all from corpse}
+#alias {gc} {get coins}
+#alias {k} {kill}
+#alias {los} {lineofsight}
+#alias {sm} {smuggle}
+#alias {rsm} {smuggle remove}
+#alias {fol} {follow}
+#alias {rfol} {unfollow}
+#alias {rem} {remove}
+#alias {sa} {sell all}
+#alias {req} {ws;fix all;home}
+
+/*      Crafting        */
+#alias {ci} {stashlist}
+#alias {cs} {craftstats}
+#alias {cs2} {craftstats2}
+#alias {node} {spelunk}
+#alias {ore} {spelunk;mine ore}
+#alias {rmat} {unstash}
+#alias {pro} {prospect ore}
+#alias {crfinger} {craftfinger}
+#alias {en} {entrap}
+#alias {wr} {get essence;wrangle}
+
+#NOP    ---NAVIGATION FROM HOME
+#variable {mcraft} {craft;nw;w;w;sw;se}
+#variable {mhome} {nw;ne;e;e;se;home}
+#variable {bcraft} {craft;nw;w;w;sw;nw;e}
+#variable {bhome} {se;ne;e;e;se;home}
+#variable {ecraft} {craft;nw;w;s;e}
+#variable {ehome} {n;e;se;home}
+
+#NOP    ---HOME BUILDING
+#alias {/edit} {houseedit}
+#alias {h/help} {houseedit help}
+
+/*      Communication   */
+#alias {ct} {ctell}
+#alias {cth} {ctell -h}
+#alias {pt} {ptell}
+#alias {pth} {ptell -h}
+#alias {t} {tell}
+#alias {th} {tellhist}
+#alias {/com} {(chat main}
+#alias {hcom} {house chat}
+#alias {ccom} {craft}
+#alias {ctcom} {ctrade}
+#alias {com} {monk}
+
+#NOP    ---AFK STATUSES
+
+#alias {home.afk} {afk There's no place like 127.0.0.1}
+#alias {work.afk} {afk #deliveringsmiles @Amazon[tell ASAP]}
+#alias {road.afk} {afk Driving, I'll respond ASAP}
+#alias {zzz.afk} {afk May the Force be with You!}
+
+#NOP	---ANSI SETTINGS
+#alias ansi {
+  !ansi %1;
+
+  #if {"%1" == "off"} {
+    !ansi off;
+    mset attack bkblack;
+    mset dodge bkblack;
+    mset pressure bkblack;
+    mset stun bkblack;
+    mset palm bkblack;
+    mset isn bkblack;
+    mset blur bkblack;
+    mset crit bkblack;
+    mset throw bkblack;
+  } {
+    !ansi on;
+    mset attack white;
+    mset dodge hicyan;
+    mset pressure hiblack;
+    mset stun yellow;
+    mset palm himagenta;
+    mset isn hiblack;
+    mset blur hiblue;
+    mset crit hired;
+    mset throw brown;
+  }
+}
+
+#alias linkdie_commands {
+  !gs;
+};
+
+#alias reet {
+  !unwrap;
+  !study corpse;
+  !eat corpse;
+}
+
+#alias resp {reet}
+
+#alias resps {#loop 1 5 loop {reet};}
+
+#alias f10 {
+  use_corpse;
+  !get all;
+}
+
+#alias f12 {
+  #loop 2 12 loop {!sell all from bag $loop};
+}
+
+#alias use_corpse {
+  !study corpse;
+  !eat corpse;
+  !hp;
+}
+
+#alias wimpy_commands {
+  #delay 2 {!meditate;}
+}
+
+#class close alias

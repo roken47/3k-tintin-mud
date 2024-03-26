@@ -1,0 +1,16 @@
+#ses {3k} {3k.org} {3000};dangerzone;$dangerzonePass
+#split 0 1;
+#conf {repeat enter} {on};
+#conf {color patch} {on};
+#conf {packet patch} {1};
+#read $3KSRC/char/dangerzone/actions.tin;
+#read $3KSRC/char/dangerzone/alias.tin;
+#read $3KSRC/char/dangerzone/bshpbar.tin;
+#read $3KSRC/common/chatlog.tin;
+#read $3KSRC/common/directions.tin;
+#read $3KSRC/common/craftpurge.tin;
+#read $3KSRC/common/general_alias.tin;
+#substitute {^-R-_} {}
+tank on
+#gag {^The chaostone armour glimmers.$}
+reforger

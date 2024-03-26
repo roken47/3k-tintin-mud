@@ -1,0 +1,585 @@
+- = LOG STARTED [00:00] = -
+[00:13] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[00:16] [0m[34;1mBrazzin shouts:[0m mmmm[0m
+[00:18] [0mVagrant flaps : resetteding swan gby zambies[0m
+[00:20] [0mVagrant flaps : resetted[0m
+[00:20] [0mnewb Vollmond [monk/29]: does anyone know the best way to chart maps? I'm using portal but some[0m
+[00:20] [0m                         things on the cartographer isn't as intuitive.[0m
+[00:20] [0mnewb Vasha [fremen/131]: graph paper ftw![0m
+[00:21] [0mnewb Vollmond [monk/29]: XD[0m
+[00:21] [0mnewb Space [necromancer/142]: i will keep my comments about portal to myself apparently folks[0m
+[00:21] [0m                              are still sentimentally attached to that piece of garbage software[0m
+[00:21] [0mnewb Space [necromancer/142]: OOPS, i couldnt hold back i guess![0m
+[00:22] [0mnewb Vasha [fremen/131]: its garbage that doesnt stink up the house![0m
+[00:22] [0mnewb Zik [juggernaut/99]: telenet or bust[0m
+[00:22] [0mnewb Vollmond [monk/29]: it's nostalgic :)[0m
+[00:23] [0mnewb Squirrel [mage/132]: shh[0m
+[00:24] [0mLachlan flaps : I have cmud, but am too lazy to switch from portal. Trying to figure out[0m
+[00:24] [0m                tintin... fahgetaboutit.[0m
+[00:25] [0mnewb Vollmond [monk/29]: I have tintin. I started playing recently on putty... then used[0m
+[00:25] [0m                         tintin... then found portal and I like the neat graphics. :P[0m
+[00:25] [0mnewb Vollmond [monk/29]: but I can't figure out how to use the cartographer right.[0m
+[00:25] [0mnewb Squirrel [mage/132]: i've never gotten that thing to work[0m
+[00:26] [0mnewb Lachlan [bladesinger/131]: its wonky. You have to be careful. I have probably 100+ cart[0m
+[00:26] [0m                                portal maps[0m
+[00:26] [0mnewb Vollmond [monk/29]: omg... can I haz?[0m
+[00:26] [0mnewb Lachlan [bladesinger/131]: do not record for non-standard exits[0m
+[00:26] [0mnewb Vollmond [monk/29]: right... like "enter" "out" etc right?[0m
+[00:26] [0mnewb Lachlan [bladesinger/131]: do not load more than 10 maps at a time, or it crashes[0m
+[00:26] [0mnewb Vollmond [monk/29]: XD[0m
+[00:27] [0mnewb Lachlan [bladesinger/131]: and large area maps, like ants are going to crash anyways, so[0m
+[00:27] [0m                                save often[0m
+[00:27] [0m[35;1mLicklick [Jedi(60)]:[0m i love zombies resets[0m
+[00:27] [0mnewb Lachlan [bladesinger/131]: and do not use it for speedwalks.. best way to crash portal. :P[0m
+[00:28] [0mnewb Vollmond [monk/29]: ah...well sounds like it's not worht it[0m
+[00:28] [0mnewb Vollmond [monk/29]: I think there's a way to do it on tintin[0m
+[00:28] [0mnewb Vollmond [monk/29]: google will probably help me there though[0m
+[00:28] [0mnewb Lachlan [bladesinger/131]: essentially build a basic map and look at it to get your[0m
+[00:28] [0m                                bearings and use 'follow' if you already have a map[0m
+[00:28] [0mnewb Brazzin [changeling/80]: ^^^^[0m
+[00:28] [0mnewb Squirrel [mage/132]: I could never get portal mapper to center right[0m
+[00:29] [0mnewb Vollmond [monk/29]: okay cool[0m
+[00:29] [0mnewb Lachlan [bladesinger/131]: yeah, I cant speak for the others, I know cmud can be quite good[0m
+[00:29] [0m                                for speeddirs/walks[0m
+[00:29] [0mnewb Brazzin [changeling/80]: in the mapper options, uncheck center on meh[0m
+[00:29] [0m[35;1mKoschei [Jedi(21)]:[0m anyone able to teach h2h 7?[0m
+[00:29] [0m[35;1mMichael [Jedi(45)]:[0m Not I[0m
+[00:29] [0mnewb Brazzin [changeling/80]: use arrows to move map...[0m
+[00:29] [0mnewb Lachlan [bladesinger/131]: yeah, I never had the centering issue[0m
+[00:30] [0m[35;1mKoschei [Jedi(21)]:[0m no worries its already expensive as it is :)[0m
+[00:37] [0mSquirrel flaps : anyone need a mask dupe?[0m
+[00:37] [0mDracula flaps : [SteakChat{I like my steak bloody}]: sure!... but i don't have a mask to dupe[0m
+[00:40] [0m[35;1mIon [Jedi(21)]:[0m think there's a chance that stats' importance is relative to mlvl?[0m
+[00:42] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[01:05] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[01:28] [0m[35;1mKoschei [Jedi(21)]:[0m i think they are just as important at low mlvl as they are at high mlvl[0m
+[01:29] [0m[35;1mIon [Jedi(21)]:[0m i mean am i especially sucky because i'm lvl 60 with 61 stat raises[0m
+[01:29] [0m[35;1mIon [Jedi(21)]:[0m compared to if i was say lvl 50 with these stats[0m
+[01:29] [0m[35;1mKoschei [Jedi(21)]:[0m if you have 61 stats to raise ya you gunna suck for your lvl heh[0m
+[01:29] [0m[35;1mIon [Jedi(21)]:[0m whoah[0m
+[01:30] [0m[35;1mIon [Jedi(21)]:[0m ok, finally hit mastery 3 and there's a pretty big change[0m
+[01:30] [0m[35;1mIon [Jedi(21)]:[0m went from 37 dmg/rnd to around 130[0m
+[01:30] [0m[35;1mKoschei [Jedi(21)]:[0m yeah mastery 1 and 2 suck[0m
+[01:30] [0m[35;1mKoschei [Jedi(21)]:[0m mastery 4 is where you will really see a big change[0m
+[01:30] [0m[35;1mIon [Jedi(21)]:[0m 140, 153, 148.. this is more like it[0m
+[01:31] [0m[35;1mIon [Jedi(21)]:[0m i tracked an entire fight (against a 40k) and it took 218 rounds, averaging 37[0m
+[01:31] [0m                dmg/rnd.  Was thinking about just wiping and starting over[0m
+[01:31] [0m[35;1mKoschei [Jedi(21)]:[0m at mastery 4/4 i probably do like 30% of a fully mastered light weapon[0m
+[01:42] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[01:43] [0mInfected flaps : resetted zambies swang by[0m
+[01:44] [0mInfected flaps : swang by![0m
+[01:44] [0mAbaddon flaps : what if I only sweng?[0m
+[01:44] [0mInfected flaps : still counts[0m
+[01:44] [0mZik flaps : swinge[0m
+[01:44] [0mNauda flaps : sweng harder![0m
+[01:45] [0m[35;1mIon [Jedi(21)]:[0m yeah, went from low of 0, average 37, high 91 to low 36, avg 98, high 179[0m
+[01:45] [0mVolt flaps : wife and i sweng.  what's your number?  what's your sign?[0m
+[01:45] [0mSquirrel flaps : in the middle of the night, I go walking in my sleep...[0m
+[01:46] [0mInfected flaps : resetted![0m
+[01:46] [0mAbaddon flaps : Sometimes, when I'm here, I am.[0m
+[01:46] [0m[35;1mLicklick [Jedi(60)]:[0m heh mastery 4 that was a long time ago[0m
+[09:57] [0m[35;1mMellaous [Jedi(77)]:[0m morning[0m
+[09:57] [0m[35;1mSimonz [Jedi(Knight)]:[0m nirbubg[0m
+[09:57] [0m[35;1mRoken [Jedi(83)]:[0m morning[0m
+[09:57] [0m[35;1mSimonz [Jedi(Knight)]:[0m morning[0m
+[09:58] [0m[35;1mSimonz [Jedi(Knight)]:[0m heh, that was an off-by-one issue lol[0m
+[09:58] [0m[35;1mMav [Jedi(24)]:[0m nirbubg[0m
+[09:58] [0m[35;1mMellaous [Jedi(77)]:[0m hehe[0m
+[09:59] [0m[34;1mInquisitor shouts:[0m 2 pairs of scuffed boots (glowing) in catacombs2 if you don't already have[0m
+[09:59] [0m                   your foot covering accounted for.  BoP of course.[0m
+[10:04] [0m[33;1m[Clan] Oscar :[0m ah shit. broke my staff of the magi[0m
+[10:05] [0m[33;1m[Clan] Oscar :[0m laf, tried to bot zelligars and killed my mage golem[0m
+[10:06] [0m[33;1m[Clan] Ser :[0m you're having all sorts of problems[0m
+[10:06] [0m[33;1m[Clan] Oscar :[0m it's like some kind of robot is playing my character[0m
+[10:06] [0m[33;1m[Clan] Oscar :[0m and not paying attention[0m
+[10:06] [0m[33;1m[Clan] Ser :[0m i dropped my laptop off the bed last night and slightly cracked the screen just[0m
+[10:06] [0m             barely[0m
+[10:07] [0m[33;1m[Clan] Oscar :[0m eww[0m
+[10:07] [0m[33;1m[Clan] Oscar :[0m sorry[0m
+[10:07] [0m[33;1m[Clan] Nix :[0m enough to distort the pr0n?[0m
+[10:08] [0m[33;1m[Clan] Ser :[0m it is slightly visible at normal viewing angles[0m
+[10:08] [0m[33;1m[Clan] Ser :[0m if i look down at the screen it is much more noticeable[0m
+[10:09] [0m[33;1m[Clan] Oscar :[0m what's a good area w/ tons of 45ks?[0m
+[10:09] [0m[33;1m[Clan] Ser :[0m they dont exist[0m
+[10:10] [0m[33;1m[Clan] Oscar :[0m laf[0m
+[10:10] [0m[33;1m[Clan] Oscar :[0m i'm starting to think that too[0m
+[10:10] [0m[33;1m[Clan] Oscar :[0m a bigger mahjong would be so nice[0m
+[10:10] [0m[33;1m[Clan] Oscar :[0m Once I clear that I'm sol[0m
+[10:10] [0m[33;1m[Clan] Nix :[0m go to the wiki and play with chess[0m
+[10:10] [0m[33;1m[Clan] Nix :[0m you can probably set scaler low enough[0m
+[10:10] [0m[33;1m[Clan] Oscar :[0m I just tried[0m
+[10:10] [0m[33;1m[Clan] Nix :[0m i ahve been living in here[0m
+[10:11] [0m[33;1m[Clan] Oscar :[0m chess hits me[0m
+[10:17] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[10:31] [0m[33;1m[Clan] Ser :[0m probably need like scaler 29[0m
+[10:31] [0m[33;1m[Clan] Oscar :[0m nod, scaler is too high at 44[0m
+[10:32] [0m[33;1m[Clan] Ser :[0m err 39 is probably max you should do[0m
+[10:32] [0m[33;1m[Clan] Ser :[0m because there's specials after that[0m
+[10:32] [0m[33;1m[Clan] Oscar :[0m I can't get to 39[0m
+[10:32] [0m[33;1m[Clan] Oscar :[0m w/o the vaf I guess[0m
+[10:36] [0m[33;1m[Clan] Oscar :[0m Just reset my skills and put a bunch more into defense[0m
+[10:36] [0m[33;1m[Clan] Oscar :[0m So I might be able to survive my chess now.  That would be epic[0m
+[10:45] [0m[33;1m[Clan] Aka :[0m i still say Saim's area@3s Deadman Wonderland should be over here, probably 2.0 it[0m
+[10:45] [0m             haha 300mil Bubba in the bathroom[0m
+[10:45] [0m[33;1m[Clan] Aka :[0m then you'd have plenty of 30-60k mobs to grind[0m
+[10:46] [0mDy flaps : focus throat punch at mob[0m
+[10:46] [0m[33;1m[Clan] Bruce :[0m i love that area[0m
+[10:46] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[10:46] [0m[33;1m[Clan] Bruce :[0m i'm grinding my mage in there as we speak[0m
+[10:47] [0mSimonz flaps : There is no reason to 'throat punch' here.  If you want to be cool like that,[0m
+[10:47] [0m               join the Shimura tradition[0m
+[10:48] [0mDy flaps : I am in h2h mode. ??[0m
+[10:48] [0mDy flaps : :D[0m
+[10:48] [0mSimonz flaps : throat punch is a tradition specific power.  If you're not shimura and using h2h,[0m
+[10:48] [0m               you're just flailing your arms around pretending to be cool ;)[0m
+[10:49] [0mCrankshaft flaps : So, a monk?[0m
+[10:49] [0mBrazzin flaps : i thought Throat_Punch was for Nazi's?[0m
+[10:50] [0mBrazzin flaps : still current?[0m
+[10:50] [0mSimonz flaps : Shimura are monks, they just use the force to enhance their ki.[0m
+[10:50] [0mHooligan flaps : force ninjas[0m
+[10:50] [0m[35;1mSimonz [Jedi(Knight)]:[0m Gx: 99.00%[0m
+[10:51] [0mDy flaps : They get +2 to h2h, the mobs would barely notice that buff. :D[0m
+[10:51] [0mSimonz flaps : don't even have to use force cloak to be invisible to the ninjas, they're just[0m
+[10:51] [0m               pansies dressed up in pajamas[0m
+[10:51] [0mOmni flaps : does +hands skill rings do anything for jedi h2h?[0m
+[10:52] [0mSimonz flaps : unknown, but probably[0m
+[10:52] [0m[33;1m[Clan] Aka :[0m heck yeah! you ever get those gloves from Bubba? even my jensaraai wasn't able to[0m
+[10:52] [0m             kill him lol[0m
+[10:53] [0m[33;1m[Clan] Aka :[0m gotta go to the top floor gift shop and get the soap-on-a-rope, then to the[0m
+[10:53] [0m             bathrooms where there's a shower stall, put the soap back where it goes in bathroom[0m
+[10:53] [0m             and Bubba appears lol[0m
+[10:53] [0mMellaous flaps : makes your hands softer omni[0m
+[10:53] [0m[33;1m[Clan] Bruce :[0m oh haha never tried that[0m
+[10:53] [0m[33;1m[Clan] Bruce :[0m i've seen the gloves, spontanius gets them sometimes[0m
+[10:53] [0m[33;1m[Clan] Aka :[0m he's like 300k no-leave fight hits like 3mil TONS of hps[0m
+[10:54] [0m[33;1m[Clan] Bruce :[0m ima gonna go do that now hehe[0m
+[10:54] [0m[33;1m[Clan] Aka :[0m gloves are better than like biker gloves and when you 'exa hands' while wearing[0m
+[10:54] [0m             them it says, You have the hands of a clown.[0m
+[10:54] [0m[33;1m[Clan] Aka :[0m haha[0m
+[10:54] [0mMellaous flaps : and skilled in a way the ladies love :)[0m
+[10:54] [0m[33;1m[Clan] Bruce :[0m it's one of my favourite grindy areas for 50k mobs[0m
+[10:54] [0m[33;1m[Clan] Bruce :[0m somerset, mahjong, carina, deadmans, mantis, repeat[0m
+[10:54] [0m[33;1m[Clan] Aka :[0m same! saim made that area with that idea specifically in mind[0m
+[10:54] [0mDy flaps : killing in gargamel's castle for coins, these mobs tend to be immune to lightsabers[0m
+[10:54] [0m           at random which is super lame.[0m
+[10:54] [0m[33;1m[Clan] Aka :[0m that 30-60k grind[0m
+[10:55] [0mDonnerjack flaps : Wild[0m
+[10:55] [0mVasha flaps : use your hand to hand then[0m
+[10:55] [0m[35;1mKsemia [Jedi(Legend)]:[0m lightsaber alteration...[0m
+[10:55] [0mDy flaps : I am lol[0m
+[10:55] [0m[33;1m[Clan] Oscar :[0m laf, summerset totall clear[0m
+[10:55] [0m[33;1m[Clan] Oscar :[0m who the hell kills in here[0m
+[10:56] [0m[35;1mDy [Jedi(75)]:[0m spend 20k coins to get maybe 30k coins? nah[0m
+[10:56] [0m[33;1m[Clan] Aka :[0m one them hardcores i bet[0m
+[10:56] [0m[35;1mDy [Jedi(75)]:[0m only getting enough to replace the coins I used on login crap[0m
+[10:57] [0m[33;1m[Clan] Oscar :[0m cows are good[0m
+[10:57] [0m[33;1m[Clan] Oscar :[0m but none of em alive[0m
+[10:57] [0m[33;1m[Clan] Aka :[0m (refresh area[0m
+[10:57] [0m[33;1m[Clan] Oscar :[0m thanks for the reminder this place exists[0m
+[10:57] [0m[33;1m[Clan] Oscar :[0m heh[0m
+[10:57] [0mDanica flaps : or, lightsaber alteration, and choose like 4 or 5 other dtypes?[0m
+[10:57] [0m[33;1m[Clan] Aka :[0m ah yiss, they are good gxp fights @ 50k[0m
+[10:57] [0mOmni flaps : laf, isn't that all the rest of them?[0m
+[10:57] [0m[33;1m[Clan] Aka :[0m chaos sewers can be a good grind too if you don't do too much damage[0m
+[10:58] [0m[35;1mDy [Jedi(75)]:[0m I am in a homeless program, sleep at a certain time is much more important. I[0m
+[10:58] [0m               can't just sleep any time I want.[0m
+[10:58] [0mHooligan flaps : need light knuckles for h2h?  lol[0m
+[11:01] [0m[33;1m[Clan] Oscar :[0m i dont want to deal w/ finding myself there[0m
+[11:01] [0m[33;1m[Clan] Oscar :[0m But yes, that would be perfect[0m
+[11:06] [0m[33;1m[Clan] Bruce :[0m Big Bad Bubba !attacking you![0m
+[11:06] [0m[33;1m[Clan] Aka :[0m ooooo[0m
+[11:06] [0m[33;1m[Clan] Bruce :[0m Bubba says: Aint nowhere to run... We gonna have some fun.[0m
+[11:06] [0m[33;1m[Clan] Bruce :[0m haha[0m
+[11:06] [0m[33;1m[Clan] Aka :[0m does he have a damage emote where he pulls a knife out of his ass and stabs you[0m
+[11:06] [0m             with it?[0m
+[11:07] [0m[33;1m[Clan] Bruce :[0m Your attack slips right off Bubba's ultra sweaty body.[0m
+[11:07] [0m[33;1m[Clan] Bruce :[0m Bubba pulls a shank from his suitcase, and shanks you![0m
+[11:07] [0m[33;1m[Clan] Bruce :[0m haha[0m
+[11:07] [0m[33;1m[Clan] Aka :[0m haha bs[0m
+[11:07] [0m[33;1m[Clan] Aka :[0m HAHA his "suitcase"[0m
+[11:07] [0m[33;1m[Clan] Aka :[0m amazing[0m
+[11:08] [0m[33;1m[Clan] Aka :[0m me and joe watched too many prison shows on a california trip once at the hotel, he[0m
+[11:08] [0m             learned that "suitcasing" things in prison is smuggling them in ur butt[0m
+[11:08] [0m[33;1m[Clan] Aka :[0m so he applied that knowledge there! haha[0m
+[11:08] [0m[33;1m[Clan] Bruce :[0m what does that kid in deadpool 2 call it, had me crying[0m
+[11:08] [0mDy flaps : You use pummel blitz![0m
+[11:08] [0m[33;1m[Clan] Bruce :[0m prison wallet[0m
+[11:08] [0m[33;1m[Clan] Aka :[0m hahaha[0m
+[11:09] [0m[33;1m[Clan] Aka :[0m that's your natural pocket, as god intended[0m
+[11:09] [0mXiu flaps : left right left? or left right left right? i forget. i fail at sabin.[0m
+[11:09] [0mOmni flaps : left right left[0m
+[11:09] [0mOmni flaps : left-left-down-right-right flames[0m
+[11:09] [0mDy flaps : flame wave![0m
+[11:10] [0mOmni flaps : give him 2 earrings, win first world basically afk[0m
+[11:10] [0mXiu flaps : pardon me while i suplex this undead train. like ya do.[0m
+[11:10] [0mNauda flaps : did you say undead?[0m
+[11:11] [0mDy flaps : ghost train[0m
+[11:11] [0mOmni flaps : keep shadow, give him the assassin knife, train dies on a crit[0m
+[11:11] [0mDy flaps : it is bloody undead[0m
+[11:11] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[11:11] [0mOmni flaps : also, having bumrush by ghost train is some power leveling hehe I just played[0m
+[11:11] [0m             through a month or so ago[0m
+[11:12] [0mDy flaps : interceptor is OP lol[0m
+[11:12] [0mDy flaps : too bad you can't get his attack for rage[0m
+[11:13] [0mXiu flaps : rippler him onto gau![0m
+[11:15] [0mKoschei flaps : there are a lot of OP strats on that game. they knew what they were doing[0m
+[11:16] [0mSimonz flaps : need hitters for beloch pls![0m
+[11:16] [0mDy flaps : I forget, do I need gear for that?[0m
+[11:16] [0mSimonz flaps : nope[0m
+[11:17] [0mDy flaps : best damage type against it?[0m
+[11:17] [0mSimonz flaps : random immunity[0m
+[11:17] [0mDy flaps : oh right[0m
+[11:18] [0mDy flaps : ok at cot[0m
+[11:19] [0mSimonz flaps : ok, let's try it this way.  resetting zombies after 3 belochs, anyone in the[0m
+[11:19] [0m               beloch party gets the reset[0m
+[11:20] [0mKoschei flaps : I am the great Cornholio! Are you threatening me?[0m
+[11:21] [0mXiu flaps : no, but i'm afraid i also have no TP to offer you. deepest apologies.[0m
+[11:21] [0mDy flaps : the tp isn't flowing[0m
+[11:21] [0mSimonz flaps : lol[0m
+[11:36] [0m[34;1mZik shouts:[0m playcult like you have nothin but potato salad in your fridge and im not talkin one[0m
+[11:36] [0m            bucket and empty, im talkin wall to wall, top to bottom, potato salad[0m
+[11:38] [0mSimonz flaps : resetting hotel[0m
+[11:42] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[11:53] [0mEli flaps : did someone say suplex a ghost train?[0m
+[11:53] [0mEli flaps : oh that was probably hours ago[0m
+[11:53] [0mMillikan flaps : Sabin ftw[0m
+[11:54] [0mOmni flaps : gau gau[0m
+[11:57] [0m[35;1mMav [Jedi(24)]:[0m did you restart? heh[0m
+[11:58] [0m[35;1mKoschei [Jedi(10)]:[0m i pushed myself too hard last night[0m
+[11:58] [0m[35;1mSimonz [Jedi(Knight)]:[0m hc character[0m
+[11:58] [0m[35;1mKoschei [Jedi(10)]:[0m i nodded off in chess[0m
+[11:59] [0m[35;1mKoschei [Jedi(10)]:[0m i had just raised h2h and it wasnt sustainable[0m
+[11:59] [0m[35;1mSimonz [Jedi(Knight)]:[0m did you force sat?[0m
+[11:59] [0m[35;1mKoschei [Jedi(10)]:[0m and i had turned off my auto pyre trigger cuz i was cocky[0m
+[11:59] [0m[35;1mSimonz [Jedi(Knight)]:[0m lol[0m
+[11:59] [0m[35;1mKoschei [Jedi(10)]:[0m all it took was like 3 mobs and i was saturated[0m
+[12:00] [0m[35;1mMav [Jedi(24)]:[0m so what happened?[0m
+[12:00] [0m[35;1mSimonz [Jedi(Knight)]:[0m when i'm in dungeons part of my kill trigger checks my conc/force levels[0m
+[12:00] [0m                       and if they're beyond a certain threshold stops and meds/htrance after a[0m
+[12:00] [0m                       kill[0m
+[12:00] [0m[35;1mKoschei [Jedi(10)]:[0m its cool tho... i was a little perturbed... but it allows me to reset the[0m
+[12:00] [0m                    way my skills were[0m
+[13:41] <BS> Zokko : modrack[0m
+[13:41] [0m<BS> Zokko : hes playing like its 3S with no steppers thats why his xp is so[0m
+[13:41] [0m             low[0m
+[13:41] [0m<BS> Zokko : mt hehe[0m
+[13:41] [0m<BS> Zokko : someone asked why xiu isnt beating space :)[0m
+[13:41] [0m<BS> Lachlan : oooh... tanking one now...[0m
+[13:41] [0m<BS> Xiu : sounds like somebody's a noob[0m
+[13:41] [0m<BS> Prismal : my xp isn't that low, I'm just too lazy to branch out[0m
+[13:42] [0m<BS> Xiu : oh laff it's me, yeah i'm a botless noob heh[0m
+[13:43] [0m<BS> Zokko : xiu is 2020 and hes still has extra gxp to spend but he wanted[0m
+[13:43] [0m             to be glvl 2020. prismal is #2 blade and hes not even 900[0m
+[13:43] [0m<BS> Lachlan : hrm... 28% and bounce.[0m
+[13:43] [0m<BS> Zokko : jc i suck :)[0m
+[13:43] [0m<BS> Prismal : well, you said it...[0m
+[13:43] [0m<BS> Lachlan : you know what's sad? Xiu and joined the guild within a month[0m
+[13:43] [0m               or so of each other?[0m
+[13:44] [0m<BS> Zokko : prismal needs to step up his game....not mt :)[0m
+[13:44] [0m<BS> Lachlan : tells ya.. who sucks.[0m
+[13:44] [0m<BS> Zokko : its all that bard play prismal did :)[0m
+[13:44] [0m<BS> Xiu : tells ya who has no life ;P[0m
+[13:44] [0m<BS> Prismal : Im going to break 4 digit glev this year, stfy[0m
+[13:44] [0m<BS> Prismal : stfu even[0m
+[13:44] [0m<BS> Lachlan : heh...[0m
+[13:45] [0m<BS> Lachlan : I'll be lucky if I hit 2k glvls by my rl death[0m
+[13:45] [0m<BS> Lachlan : die you alien bastid![0m
+[13:46] [0m<BS> Xiu : did they screw up your ride again?[0m
+[13:46] [0m<BS> Lachlan : oooo... just to out-do Zokko - NEW BK. lol[0m
+[13:46] [0m<BS> Xiu : woo[0m
+[13:46] [0m<BS> Prismal : hmmm, alien skin or day 3, skin has slight better ac, but cmc[0m
+[13:46] [0m               is more categories, and more stats, so I guess cmc[0m
+[13:46] [0m<BS> Lachlan : plus was feeling the 37m DTaco was not a worthy BK[0m
+[13:47] [0m<BS> Prismal : but in the future I probably won't bother with day 3 if I[0m
+[13:47] [0m               have alien skin and dupe auro instead[0m
+[13:47] [0m<BS> Prismal : would have done that anyway, but no one with an auro has[0m
+[13:47] [0m               responded to my dupe requests[0m
+[13:47] [0m<BS> Xiu : does alien skin do anything else, like heals and stuff?[0m
+[13:48] [0m<BS> Zokko : +10 random stat that recycles in order of list, acid dmg to[0m
+[13:48] [0m             mobs, hides identity[0m
+[13:48] [0m<BS> Xiu : ah acid dmg special, makes sense[0m
+[13:49] [0m<BS> Zokko : i made cmc 3 into helmet[0m
+[13:49] [0m<BS> Prismal : it is pretty nice, I prefer to pb now[0m
+[13:49] [0m<BS> Xiu : nothing like great helmet[0m
+[13:49] [0m<BS> Prismal : yeah, that would have been good if I had that prof[0m
+[13:50] [0m<BS> Lachlan : I cannot see my outgoing hits on mobs... its all briefed to[0m
+[13:50] [0m               one line. Is that different than cbrief?[0m
+[13:50] [0m<BS> Prismal : brb[0m
+[13:50] [0m<BS> Lachlan : cant tell if I filtered that portal-side or if there's a mud[0m
+[13:50] [0m               command. It's been briefed for so long.[0m
+[13:52] [0m<BS> Xiu : cbrief didn't hide my dmg emotes from me. do you have[0m
+[13:52] [0m           bladesinger_combat aset to hide maybe?[0m
+[13:53] [0m<BS> Lachlan : ah, that's it probably[0m
+[14:09] [0m[34;1mKoschei shouts:[0m on[0m
+[14:10] [0m[34;1mMichael shouts:[0m off[0m
+[14:12] [0m[Clan] Sock wiggles on your foot.  [0m
+[14:13] [0m<BS> Lachlan : how is et who listed? total xp, total etxp, best time in[0m
+[14:13] [0m               combat? I apparently suck, cause tons joined after me, lower[0m
+[14:13] [0m               etlvl but higher on the list. just curious, not like I could[0m
+[14:13] [0m               change my time in combat that much[0m
+[14:13] [0m<BS> Zokko : what?[0m
+[14:14] [0m<BS> Lachlan : the 'et who' listing[0m
+[14:14] [0m<BS> Lachlan : not sure how it lists people.[0m
+[14:14] [0m<BS> Zokko : i cant use that[0m
+[14:14] [0m<BS> Lachlan : (et who[0m
+[14:14] [0m<BS> Xiu : (who[0m
+[14:14] [0m<BS> Zokko : ahh[0m
+[14:14] [0m<BS> Lachlan : nog[0m
+[14:14] [0m<BS> Xiu : i think it's just eternal glevel? or maybe not?[0m
+[14:14] [0m<BS> Lachlan : I cant even list the listing command right. :P[0m
+[14:15] [0m<BS> Lachlan : not et glvl[0m
+[14:15] [0m<BS> Lachlan : not join date[0m
+[14:15] [0m<BS> Xiu : yeah i see a 9 above a 15 hmm[0m
+[14:16] [0m<BS> Xiu : maybe it's in order of how much like Space you are. with Space at[0m
+[14:16] [0m           the top because he's 100% Space.[0m
+[14:16] [0m<BS> Lachlan : I think Din was above me on the list yesterday, and he's a[0m
+[14:16] [0m               newb et in comparison to me.. so I wondered, maybe it was tic[0m
+[14:16] [0m<BS> Lachlan grins[0m
+[14:18] [0m<BS> Lachlan : anyways only thing that made sense was overall time in[0m
+[14:18] [0m               combat.. cause my lifetime tic sucks compared to most.[0m
+[14:18] [0m<BS> Xiu : unless maybe it's total etenrals gxp, counting what was spent on[0m
+[14:18] [0m           skills[0m
+[14:18] [0m<BS> Lachlan : cant be.. I have to have more et gxp than Din[0m
+[14:19] [0m<BS> Xiu : seems like it would be something directly tied to eternals[0m
+[14:19] [0m<BS> Lachlan : and Zokko I'd think. He's never that much higher on nolife[0m
+[14:19] [0m               than I am[0m
+[14:19] [0m<BS> Zokko : zombie reset[0m
+[14:19] [0m<BS> Xiu : can't be how many (powers you have, or i'd be at the top[0m
+[14:20] [0m<BS> Lachlan : et gxp would make sense.. but then wtf.. how did zokko have[0m
+[14:20] [0m               that much more than me. :P[0m
+[14:20] [0m<BS> Zokko : cuz im zokko[0m
+[14:20] [0m<BS> Lachlan : yeah, not powers.. I have alot for my level compared to[0m
+[14:20] [0m               others in my range[0m
+[14:20] [0m<BS> Lachlan smirks[0m
+[14:20] [0m<BS> Zokko : skills?[0m
+[14:20] [0m<BS> Lachlan : maybe.. only erad 8 and I now you're at 10?[0m
+[14:21] [0m<BS> Lachlan : I have 2/2 in con/imm[0m
+[14:21] [0m<BS> Zokko : GXP spent on skills      :     2,600,000[0m
+[14:21] [0m<BS> Zokko : im at 9[0m
+[14:21] [0m<BS> Zokko : working on 10[0m
+[14:21] [0m<BS> Lachlan : yeah, maybe, I have 2.1bn spent on skills[0m
+[14:21] [0m<BS> Lachlan : which means you have more et gxp[0m
+[14:22] [0m<BS> Zokko : Total GXP  : 1,037,519[0m
+[14:22] [0m<BS> Lachlan : where's total gxp?[0m
+[14:23] [0m<BS> Zokko : (gs[0m
+[14:23] [0m<BS> Lachlan : holy hell...Total GXP : 468,156  - only[0m
+[14:23] [0m<BS> Zokko : noob!![0m
+[14:23] [0m<BS> Lachlan : yep, it's official... lol. <---- Sucks.[0m
+[14:24] [0m<BS> Xiu : was thinking that might be an actual total but can't be including[0m
+[14:24] [0m           any that was spent. gotta just be what you're saving up[0m
+[14:24] [0m<BS> Lachlan : ah well...[0m
+[14:25] [0m<BS> Xiu : Rasta designed that list to drive you nuts![0m
+[14:25] [0m<BS> Lachlan : apparently... I mean Babs is above me now, and he's been back[0m
+[14:25] [0m               what a week. :P[0m
+[14:26] [0m<BS> Lachlan : but he out xps me by a ton, so I guess that makes sense[0m
+[14:26] [0m<BS> Zokko : i dont even really look at the lists[0m
+[14:26] [0m<BS> Zokko : only massxp every so often but not even really that[0m
+[14:27] [0m<BS> Lachlan : I don't know why I do.. lol, not like I'll top any of them. I[0m
+[14:27] [0m               guess just to see 'progress'[0m
+[14:27] [0m<BS> Zokko : mostly i just keep track of my personal xp deltas, the person[0m
+[14:27] [0m             im trying to be better than is myself from last boot :)[0m
+[14:27] [0m<BS> Xiu : main value i pay much attention to is my xp in last 30min on "xp"[0m
+[14:27] [0m<BS> Zokko : same[0m
+[14:28] [0m<BS> Lachlan : yeah, i track deltas regularly, but nice to see massxp to see[0m
+[14:28] [0m               how efficient I am per boot.[0m
+[14:29] [0m<BS> Lachlan : the who list was just a 'wtf'... wait, how is this thing[0m
+[14:29] [0m               ranked.[0m
+[14:29] [0m<BS> Xiu : yeah it confuses me too[0m
+[14:29] [0m<BS> Zokko : has anyone tried storm gloves since they got higher Cha?[0m
+[14:29] [0m<BS> Lachlan : I however am 'WINNING' at "Number of players that gag another[0m
+[14:29] [0m               players title". And nope to the gloves.[0m
+[14:30] [0m<BS> Xiu : never used those[0m
+[14:30] [0m<BS> Protoss : speaking of cha, how important is it for us?[0m
+[14:30] [0m<BS> Lachlan : affects healing[0m
+[14:30] [0m<BS> Lachlan : not overly, but at least not worthless like it was[0m
+[14:30] [0m<BS> Zokko : and tanking. i noticed a difference between 50 cha and 100 cha[0m
+[14:30] [0m<BS> Xiu : i wouldn't bother too much with CHA till you're big, it's got a[0m
+[14:30] [0m           DR effect but Rasta's words were something along the lines of[0m
+[14:30] [0m           "probably won't notice it unless you have a lot of CHA"[0m
+[14:31] [0m<BS> Protoss : ah, good to know[0m
+[14:31] [0m<BS> Zokko : i had 50 cha until glvl 60 then i raised it to 100[0m
+[14:31] [0m<BS> Lachlan : yeah, so a huge boost like 50 to 100 you'd notice. but 5 at a[0m
+[14:31] [0m               time.. naw[0m
+[14:31] [0m<BS> Zokko : its currently at 130[0m
+[14:31] [0m<BS> Protoss : so really str is the only stat we can neglect?[0m
+[14:31] [0m<BS> Lachlan : ooh, Im prettier... 138[0m
+[14:31] [0m<BS> Xiu : just guesswork but i assume that dex is stronger than cha for[0m
+[14:31] [0m           tanking, point -vs- point[0m
+[14:32] [0m<BS> Zokko : you need enough str to carry full set of gear without[0m
+[14:32] [0m             encumberance (affects SMD)[0m
+[14:32] [0m<BS> Zokko : i have 80 str base[0m
+[14:32] [0m<BS> Protoss : true but i'd imagine its better to use mskill points than[0m
+[14:32] [0m               stat points to help with that[0m
+[14:32] [0m<BS> Lachlan : str 50 till mid-tier, then 75 probably is all you'll need[0m
+[14:32] [0m               till top-end.[0m
+[14:33] [0m<BS> Zokko : well i use auro shield and its heavy AF[0m
+[14:33] [0m<BS> Protoss : i'm at 50 now and not really planning on increasing it for a[0m
+[14:33] [0m               long time[0m
+[14:33] [0m<BS> Lachlan : str I believe has a minute dmg modifier as well in the new[0m
+[14:33] [0m               iteration[0m
+[14:33] [0m<BS> Zokko : i also am too lazy to get ftouch[0m
+[14:33] [0m<BS> Lachlan : me too.. auro and no ft[0m
+[14:33] [0m<BS> Lachlan : I took str to 100 at 130 with the aim of not touching it[0m
+[14:33] [0m               again until all other stats are maxed[0m
+[14:34] [0m<BS> Protoss : fortunately one my best friends plays a priest so ftouches[0m
+[14:34] [0m               aren't too hard to come by[0m
+[14:34] [0m<BS> Protoss : but good to know about auro shield[0m
+[14:35] [0m<BS> Xiu : i raised mine to 128 which is overkill[0m
+[14:35] [0m<BS> Lachlan : honestly I have mskill carring 5/5 with 100 and that's[0m
+[14:35] [0m               probably overkill. :P[0m
+[14:36] [0m<BS> Lachlan : but I didnt want to worry about encumbrance either[0m
+[14:37] [0m<BS> Zokko : i also have carry 5/5 and smuggling 2/2[0m
+[14:37] [0m<BS> Zokko : smuggle is my best friend :)[0m
+[14:37] [0m<BS> Protoss : yeah, smuggling is terrific[0m
+[14:38] [0m<BS> Xiu : i like to smuggle cervezas because it makes me feel like i'm[0m
+[14:38] [0m           going to a speakeasy[0m
+[14:38] [0m<BS> Zokko : whats a speakeasy?[0m
+[14:38] [0m<BS> Zokko : *ducks*[0m
+[14:39] [0m<BS> Xiu : place where ppl would drink on the sly back during prohibition[0m
+[14:39] [0m<BS> Lachlan : smuggle's great... but I thought we established Din is the[0m
+[14:39] [0m               old man in the guild[0m
+[14:39] [0m<BS> Xiu : i don't always wear my fedora, but when i do there's probably a[0m
+[14:39] [0m           bunch of runes on it.[0m
+[15:06] [0m[Clan] Martyr leaves the game.  [0m
+[15:50] [0m[Clan] Aka : anyone able to snag a headband for me?[0m
+[15:53] [0m[34;1mLachlan shouts:[0m Moooove along.[0m
+[20:49] [0m[33;1m[Clan] Roken :[0m beloch party?[0m
+[20:51] [0m[32;1mFrom afar, you moo at Ser.[0m[0m
+[20:52] [0m[32mYou tell Ser:[0m happy memorial day![0m
+[20:53] [0m[32mYou say:[0m beloch party?[0m
+[20:53] [0m[32mSquirrel says:[0m you got more poeple?[0m
+[20:53] [0m[32mYou say:[0m not a peep from clan[0m
+[20:54] [0m[32mYou say:[0m should be able to tank it with a priest[0m
+[20:54] [0m[32mSquirrel says:[0m i can tank it so long as I have invins[0m
+[20:55] [0m[32mYou say:[0m can you heal?[0m
+[20:56] [0m[32mSquirrel says:[0m lol garbage ring[0m
+[20:56] [0m[32mSquirrel says:[0m evasion, sharpness, miner[0m
+[20:56] [0m[32mYou say:[0m trash it heh[0m
+[20:57] [0mRoken flaps : beloch?[0m
+[20:57] [0mFluffy flaps : is a mob in arena 1[0m
+[20:57] [0m[32;1mFrom afar, Fluffy winks at you suggestively.[0m[0m
+[20:59] [0mRoken flaps : no natural ahh[0m
+[20:59] [0m[32mYou say:[0m refresh?[0m
+[20:59] [0m[32mSquirrel says:[0m no[0m
+[21:00] [0m[32mSquirrel says:[0m natural[0m
+[21:00] [0mRoken flaps : nvm[0m
+[21:00] [0m[35;1mUkyo [Jedi(Knight)]:[0m The first sign of maturity is the discovery that the volume knob also turns[0m
+[21:00] [0m                     to the left.[0m
+[21:01] [0m[32mYou say:[0m healing?[0m
+[21:01] [0mSquirrel flaps : come hit beloch[0m
+[21:01] [0m[32mSquirrel says:[0m tanking[0m
+[21:01] [0m[32mYou say:[0m or since I wimpied are you tanking[0m
+[21:01] [0m[32mYou say:[0m gotcha[0m
+[21:01] [0mSquirrel flaps : free gxp[0m
+[21:01] [0mHawkeyes flaps : i am in gnome suit or i would[0m
+[21:01] [0m[32mYou say:[0m control pain[0m
+[21:02] [0mYour transmuter's stone bursts with 6 new colours![0m
+[21:02] [0m[32mAnzyn says:[0m rally[0m
+[21:02] [0m[33;1m[PARTY][0m Lost our leader![0m
+[21:02] [0m[33;1m[PARTY][0m New leader for the party: roken.[0m
+[21:02] [0m[33;1m[PARTY][0m Squirrel joins the party.[0m
+[21:02] [0m[32mAnzyn says:[0m rally?[0m
+[21:02] [0m[32mAnzyn says:[0m i have slides[0m
+[21:02] [0m[33;1m[PARTY][0m Anzyn joins the party.[0m
+[21:02] [0m[33;1m[PARTY][0m Squirrel: the faster it dies the easier it is to maintain my tanking[0m
+[21:04] [0m[32mWert says:[0m rally plz[0m
+[21:05] [0m[33;1m[PARTY][0m Wert joins the party.[0m
+[21:05] [0m[33;1m[PARTY][0m Anzyn: rally malfean[0m
+[21:06] [0m[33;1m[PARTY][0m Roken: he has to quit anothr party[0m
+[21:06] [0m[32mYou say:[0m can't rally you malfean[0m
+[21:06] [0m[32mAnzyn says:[0m pquit malfean[0m
+[21:07] [0m[32mMalfean says:[0m already in a party, gonna bounce in a minute(waiting on hotel[0m
+[21:07] [0m              reset), just came to lend some damage[0m
+[21:07] [0m[33;1m[PARTY][0m Fluffy joins the party.[0m
+[21:08] [0m[33;1m[PARTY][0m Anzyn: want me to slide?[0m
+[21:08] [0m[33;1m[PARTY][0m Squirrel: I'm ready[0m
+[21:08] [0m[32mFluffy says:[0m moar[0m
+[21:08] [0m[32mAnzyn says:[0m go for it[0m
+[21:08] [0m[33;1m[PARTY][0m Anzyn: heal me[0m
+[21:09] [0m[33;1m[PARTY][0m Fluffy: {Pour-Cue-Pine} ewelling[0m
+[21:09] [0m[33;1m[PARTY][0m Anzyn: heal me squirrel?[0m
+[21:09] [0m[33;1m[PARTY][0m Squirrel: tug or poke for heals[0m
+[21:09] [0m[32mMalfean says:[0m is that ewell?[0m
+[21:09] [0m[33;1m[PARTY][0m Anzyn: good...thanks[0m
+[21:10] [0m[33;1m[PARTY][0m Squirrel: you have to wear the skin to get the overmax benefit[0m
+[21:10] [0m[33;1m[PARTY][0m Anzyn: they change it?[0m
+[21:10] [0m[33;1m[PARTY][0m Squirrel: yeah[0m
+[21:10] [0m[33;1m[PARTY][0m Anzyn: crap[0m
+[21:10] [0m[33;1m[PARTY][0m Squirrel: so string it, ring it or transmute[0m
+[21:10] [0m[33;1m[PARTY][0m Anzyn: i was wondering why so many on ground[0m
+[21:10] [0m[33;1m[PARTY][0m Fluffy: {Pour-Cue-Pine} or wear it like a thong[0m
+[21:11] [0m[33;1m[PARTY][0m Anzyn: i have one more slide after this one[0m
+[21:12] [0m[33;1m[PARTY][0m Squirrel: slow this guy?[0m
+[21:12] [0m[33;1m[PARTY][0m Squirrel: is that possible?[0m
+[21:13] [0m[33;1m[PARTY][0m Anzyn: i'm donating all my potions[0m
+[21:13] [0m[32mFluffy says:[0m   _   .-')                   ('-.     _  .-')  ,---.[0m
+[21:13] [0m[32mFluffy says:[0m  ( '.( OO )_                ( OO ).-.( \( -O ) |   |[0m
+[21:13] [0m[32mFluffy says:[0m  ,--.   ,--.).-'),-----.   / . --. / ,------. |   |[0m
+[21:13] [0m[32mFluffy says:[0m  |   `.'   |( OO'  .-.  '  | \-.  \  |   /`. '|   |[0m
+[21:13] [0m[32mFluffy says:[0m  |         |/   |  | |  |.-'-'  |  | |  /  | ||   |[0m
+[21:13] [0m[32mFluffy says:[0m  |  |'.'|  |\_) |  |\|  | \| |_.'  | |  |_.' ||  .'[0m
+[21:13] [0m[32mFluffy says:[0m  |  |   |  |  \ |  | |  |  |  .-.  | |  .  '.'`--'[0m
+[21:13] [0m[32mFluffy says:[0m  |  |   |  |   `'  '-'  '  |  | |  | |  |\  \ .--.[0m
+[21:13] [0m[32mFluffy says:[0m  `--'   `--'     `-----'   `--' `--' `--' '--''--'[0m
+[21:13] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[21:13] [0m[33;1m[PARTY][0m Anzyn: heal me plz[0m
+[21:13] [0m[33;1m[PARTY][0m Anzyn: all good[0m
+[21:14] [0m[32mWert says:[0m                         /[-])/  ___[0m
+[21:14] [0m[32mWert says:[0m                     __ --\\ `_/~--|  / \[0m
+[21:14] [0m[32mWert says:[0m                   /_-/~~--~~ /~~~\\\_\ /\[0m
+[21:14] [0m[32mWert says:[0m                   |  |___|===|_-- | \\ \ \[0m
+[21:14] [0m[32mWert says:[0m _/~~~~~~~~|~~\\,   ---|---\___/----|  \/\-\[0m
+[21:14] [0m[32mWert says:[0m ~\\________|__/   / / \__ **** / | |   | |[0m
+[21:14] [0m[32mWert says:[0m          ,~-|~~~~~\--, | \|--|/~|||  |   | |[0m
+[21:14] [0m[32mWert says:[0m          [3-|____---~~ _--'== / _,   |   |_|[0m
+[21:14] [0m[32mWert says:[0m                      /   /\__|_/  \  \__/--/[0m
+[21:14] [0m[32mWert says:[0m                     /---/_\  -___/ |  /,--|[0m
+[21:14] [0m[32mWert says:[0m                     /  /\/~--|   | |  \//[0m
+[21:14] [0m[32mWert says:[0m                    /  / |-__ \    |/[0m
+[21:14] [0m[32mWert says:[0m                   |--/ /      |-- | \[0m
+[21:14] [0m[32mWert says:[0m                  \^~~\\/\      \   \/- _[0m
+[21:14] [0m[32mWert says:[0m                   \    |  \     |~~\~~| \[0m
+[21:14] [0m[32mWert says:[0m                    \    \  \     \   \  | \[0m
+[21:14] [0m[32mWert says:[0m                      \    \ |     \   \    \[0m
+[21:14] [0m[32mWert says:[0m                       |~~|\/\|     \   \   |[0m
+[21:14] [0m[32mWert says:[0m                      |   |/         \_--_- |\[0m
+[21:14] [0m[32mWert says:[0m                      |  /            /   |/\/[0m
+[21:14] [0m[32mWert says:[0m                       ~~             /  /[0m
+[21:14] [0m[32mWert says:[0m    Woooo                             |__/[0m
+[21:14] [0m[32mSquirrel says:[0m fire in the hole![0m
+[21:14] [0m[32mSquirrel says:[0m xusuakox[0m
+[21:15] [0m[33;1m[PARTY][0m Roken: refresh after anyzn's slide[0m
+[21:16] [0m[33;1m[PARTY][0m Anzyn: i've used 2 slides..so cant do another[0m
+[21:16] [0m[33;1m[PARTY][0m Inix joins the party.[0m
+[21:19] [0m[33;1m[PARTY][0m Anzyn: ok who next?[0m
+[21:19] [0m[32mSquirrel says:[0m 5 invins left, I used 2 that fight[0m
+[21:19] [0m[33;1m[PARTY][0m Roken: freshy?[0m
+[21:19] [0m[33;1m[PARTY][0m Squirrel: mine is on CD[0m
+[21:19] [0m[33;1m[PARTY][0m Fluffy: {Pour-Cue-Pine} wont have mine for a little less than an[0m
+[21:19] [0m        hour ... im just milking gxp rounds[0m
+[21:20] [0m[32mYou say:[0m ready squirrel for mine[0m
+[21:20] [0m[33;1m[PARTY][0m Squirrel: 1.4hours[0m
+[21:20] [0m[33;1m[PARTY][0m Anzyn: go roken[0m
+[21:25] [0m[33;1m[PARTY][0m Anzyn: gotta run[0m
+[21:25] [0m[33;1m[PARTY][0m Anzyn has quit the party.[0m
+[21:25] [0m[32mYou say:[0m 2 more pots on ground[0m
+[21:25] [0m[32mWert says:[0m im full[0m
+[21:25] [0m[32mYou say:[0m everyone good?[0m
+[21:25] [0m[33;1m[PARTY][0m Fluffy has quit the party.[0m
+[21:25] [0m[33;1m[PARTY][0m Squirrel has quit the party.[0m
+[21:26] [0m[33;1m[PARTY][0m Roken has quit the party.[0m
+[21:26] [0m[32;1mFrom afar, you thank Squirrel.[0m[0m
+[21:28] [0m[32mCorath tells you:[0m Sorry but I cannot prepare worn armour.                  [0m
+[22:21] [0m[34;1mHawkeyes shouts:[0m woo woo[0m
+[22:26] [0m[Clan] Oscar : What are some decent off-dmg few mill'ish mobs?[0m
+[22:26] [0m[Clan] Oscar : Like cubes, but not 4 at a time heh[0m
+[22:27] [0m[Clan] Oscar : I just got major globe, want to take it for a test spin[0m
+[22:27] [0m[Clan] Oscar : I can survive jelly rounds, but definitely can't fight them[0m
+[23:16] [0m[34;1mZik shouts:[0m power xtreme! no wait, wrong tihng[0m
+[23:28] [0m[Clan] Byron : anyone know any decent armors that classify as 'light'[0m
+[23:28] [0m[Clan] Byron : I think mages can wear those[0m
+[23:28] [0m[Clan] Byron : I know they can wear greaves (no bplate)[0m
+[23:29] [0m[Clan] Zik : you tellin me they can wear robes?![0m
+[23:29] [0m[Clan] Zik : haha i thought they had to go bare chest[0m
+[23:30] [0m[Clan] Byron : It doesn't go quite as well with a dagger does it[0m
+[23:31] [0m[Clan] Zik : thats awesome tho, lemme know if you find some goodns![0m

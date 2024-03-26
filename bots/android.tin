@@ -1,0 +1,35 @@
+#class {bot} {open}
+#var {area} {android}
+#var {botpath} {n;w;n;n;w;w;s;s;e;n;s;e;e;e;e;e;n;w;w;n;e;e;s;s;w;w;w;push button;w;n;n;w;w;s;s;e;n;s;e;e;e;e;e;n;w;w;n;e;e;s;s;w;w;w;push button;stairs;w;n;s;e;e;n;s;w;stairs;s}
+
+#act {^[MoNSTaR]{Nougat|Marshmallow|Oreo|Development|Android|Alpha|Beta|Gingerbread|Froyo|Eclair|Cupcake|Donut|Apple Fanboy|KitKat|Lollipop|Jellybean|Honeycomb|Ice Cream Sandwich}} {
+	#if {"%1" == "Nougat"} {#var mobname android};
+	#if {"%1" == "Marshmallow"} {#var mobname android};
+	#if {"%1" == "Oreo"} {#var mobname android};
+	#if {"%1" == "Development"} {#var mobname development};
+	#if {"%1" == "Alpha"} {#var mobname alpha};
+	#if {"%1" == "Beta"} {#var mobname beta};
+	#if {"%1" == "Gingerbread"} {#var mobname android};
+	#if {"%1" == "Froyo"} {#var mobname Froyo};
+	#if {"%1" == "Eclair"} {#var mobname android};
+	#if {"%1" == "Cupcake"} {#var mobname android};
+	#if {"%1" == "Donut"} {#var mobname android};
+	#if {"%1" == "Apple Fanboy"} {#var mobname boy};
+	#if {"%1" == "KitKat"} {#var mobname android};
+	#if {"%1" == "Lollipop"} {#var mobname android};
+	#if {"%1" == "Jellybean"} {#var mobname android};
+	#if {"%1" == "Jellybean"} {#var mobname android};
+	#if {"%1" == "Honeycomb"} {#var mobname android};
+	#if {"%1" == "Ice Cream Sandwich"} {#var mobname android};
+	#if {"%1" == "Android"} {#var mobname android};
+	_check_mob;
+	}
+#act {You've killed} {#nop} {1}
+#act {Inside an elevator (out)} {#NOP}
+#act {BING! The button light goes off and the elevator doors open.} {enter elevator} 
+#act {The elevator jerks to a halt and the doors open.} {out}
+#act {The elevator is already here. How about you enter it?} {enter elevator}
+#class {bot} {close}
+
+#read bots/generic.tin
+

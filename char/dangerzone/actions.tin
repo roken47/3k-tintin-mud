@@ -1,0 +1,13 @@
+#class {actions} {kill}
+#class {actions} {open}
+
+#act {dealt the killing blow to} {corpsetrig};
+#act {^It is too dark.$} {fl}
+#act {^You begin to spiritweave your magical energies from one plane to the other.$} {#var spweave on};
+#act {^Your concentration upon your spiritweave susbsides.$} {#var spweave off};
+#act {^You are already weaving your magical energies.$} {#var spweave on};
+#act {^But you are in the midst of revalrie.$} {#var spweave on}
+#act {^The Golem calls for help!} {scall}
+#act {^Your opponent doesn't seem effected by your spell and continues to attack.$} {#delay {14} {scall}};
+
+#class {actions} {close}

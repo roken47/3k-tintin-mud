@@ -1,0 +1,456 @@
+- = LOG STARTED [00:00] = -
+[00:06] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[00:09] [0mInix <C-Trade>: Yes.[0m
+[00:10] [0mDyne <C-Trade>: Got taken care of already. Thanks thoguh.[0m
+[00:27] [0m[35;1mUkyo [Jedi(77)]:[0m pedal gloves in box[0m
+[00:42] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[01:10] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[01:38] [0mDin <Craft>: wow.. 2 mithril deposits on the entire floor.  this level sucks[0m
+[01:38] [0mUkyo <Craft>: wait until you get to phasemetal.[0m
+[01:39] [0mDin <Craft>: i went ahead and put an mskill point into mining, which helped[0m
+[01:39] [0m             a little bit with mob density.  you wouldn't know it from this[0m
+[01:39] [0m             run, though[0m
+[01:41] [0mDin {Professions}: how does transmuting items work?  Is there any more[0m
+[01:41] [0m                   detail anywhere on what you can transmute, specifically? [0m
+[01:41] [0m                   pxp ranges?[0m
+[01:41] [0mXiu {Professions}: you mean items as in EQ?[0m
+[01:41] [0mDin {Professions}: as opposed to transmuting crafting stuff i mean[0m
+[01:42] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[01:42] [0mDin {Professions}: yeah[0m
+[01:42] [0mXiu {Professions}: as i understand it, it's based on AC, probably AC as a %[0m
+[01:42] [0m                   of the max allowed for the item class. when i had it i[0m
+[01:42] [0m                   mostly transmuted stuff that had no/low ac but special[0m
+[01:42] [0m                   stuffs on it like regen ect so i didn't get a feel for[0m
+[01:42] [0m                   the level ranges[0m
+[01:44] [0mAsp {Professions}: yeah i think its numbers based. like can transmute 100[0m
+[01:44] [0m                   otal AC at transmuter 50 or whatever[0m
+[01:46] [0mDin {Professions}: say I wanted to transmute a taser baton into a sword.  If[0m
+[01:46] [0m                   I 'transmute baton to sword' it says I do not have the[0m
+[01:46] [0m                   right materials.  Syntax issue?[0m
+[01:46] [0mXiu {Professions}: yeah you need to "transmute taser type to sword" or[0m
+[01:46] [0m                   somesuch[0m
+[01:46] [0mAsp {Professions}: baton type[0m
+[01:46] [0mDin {Professions}: ah, got it. and it worked, and gave pxp.  sweet[0m
+[01:47] [0mXiu {Professions}: just note that you're limited to one such transmute per[0m
+[01:47] [0m                   reboot.[0m
+[01:47] [0mUkyo {Professions}: can't you only do that once per boot?[0m
+[01:47] [0mDin {Professions}: yeah, but I'm geared fine for hte rest of the boot so I'm[0m
+[01:47] [0m                   just looking to sort out how stuff works and what gives[0m
+[01:47] [0m                   pxp at this point[0m
+[01:49] [0mXiu {Professions}: from my experience with transmuting gear it always gave[0m
+[01:49] [0m                   pxp and didn't require that the thing have any AC[0m
+[01:51] [0mXiu flaps : 30 decent corpses at ss, enjoy.[0m
+[02:12] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[06:29] [0mYou can currently reforge 8 items.[0m
+[06:37] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[07:08] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[07:29] [0mYou can currently reforge 12 items.[0m
+[07:34] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[07:34] [0m[Clan] Xaryl : more donates in[0m
+[07:35] [0m[Clan] Byron : eoo[0m
+[07:59] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[08:07] [0mThom flaps : the zombie with the bellhop and stuff in hotel transilvania[0m
+[08:07] [0m             yes? just curious because i think i might have gone to the[0m
+[08:07] [0m             wrong movie or place?[0m
+[08:20] [0m[Clan] Byron : I like this new rimalkin ring[0m
+[08:21] [0m[Clan] Byron : Seems to fire very often[0m
+[08:21] [0m[Clan] Archangel : Sweet![0m
+[08:21] [0m[Clan] Byron : Furtives aren't beating the piss out of me as bad with it.[0m
+[08:21] [0m[Clan] Archangel : One day, hope we can get them.[0m
+[08:21] [0m[Clan] Archangel : Definitely will help in zombies and maybe abyss.[0m
+[08:22] [0m[34;1mFlaxen shouts:[0m hide yo kids, hide yo wife[0m
+[08:23] [0m[34;1mInfectious shouts:[0m hiding[0m
+[08:23] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[08:24] [0m[Clan] Byron : What is the minimum amount of AC a ring needs for reforge[0m
+[08:24] [0m               SMD?[0m
+[08:25] [0m[Clan] Byron : Ok...so if it's 8(according to Space).  I can vigilant this[0m
+[08:25] [0m               ring and sock enhance for a SMD reforge[0m
+[08:26] [0m[Clan] Byron : You can annulus the ring probably too Archi[0m
+[08:27] [0m[Clan] Archangel : I thought you couldn't reforge vigiliant AC.[0m
+[08:27] [0m[Clan] Byron : Dunno[0m
+[08:27] [0m[Clan] Byron : I've never used vigilant AC[0m
+[08:29] [0m[34;1mVagrant shouts:[0m woohoo![0m
+[08:29] [0m[34;1mLachlan shouts:[0m Gandalf the Blue... that's new.[0m
+[08:30] [0m[34;1mThom shouts:[0m white got dirty all the time so he thought he'd try out blue[0m
+[08:58] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[09:03] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[09:03] [0m                          Northern Hills of Fantasy!  We are localizing it[0m
+[09:03] [0m                          now - get ready![0m
+[09:09] [0m[34;1mKitt shouts:[0m AutoBots Attack[0m
+[09:10] [0m[34;1mUkyo shouts:[0m mind[0m
+[09:10] [0m[34;1mNauda shouts:[0m where?[0m
+[09:10] [0m[34;1mUkyo shouts:[0m southwestern hills[0m
+[09:11] [0m[34;1mUkyo shouts:[0m couple north of the road[0m
+[09:11] [0mArchangel flaps : event portal: north gate/10n/3e[0m
+[09:14] [0mArchangel flaps : psi-wielding[0m
+[09:24] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[17:44] [0m[Clan] Nameless : i think i did a monk and a wd in the rorg season[0m
+[17:50] [0m[Clan] Nameless : rcost[0m
+[17:50] [0m[Clan] Nameless : oops[0m
+[18:04] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[18:05] [0m[Clan] Byron : no tony[0m
+[18:05] [0m[Clan] Byron : wl[0m
+[18:14] [0mCaeli flaps : So, anyone play 5E D&D?[0m
+[18:14] [0mThom flaps : i did. i still prefer 3.5 over it though[0m
+[18:15] [0mCaeli flaps : Can 5e sorcererer use or make scrolls?[0m
+[18:16] [0mLeto flaps : dos 6.0 > win 3.1[0m
+[18:17] [0mThom flaps : i know they can use them easy peasy. and according to a google[0m
+[18:17] [0m             search "A character must have proficiency with the Arcana skill[0m
+[18:17] [0m             as well as the spell prepared/known and must have the material[0m
+[18:17] [0m             components required to cast the spell." and its all in the[0m
+[18:17] [0m             xanthars guide book[0m
+[18:17] [0mCaeli flaps : Thanks![0m
+[18:18] [0mCaeli flaps : My ex-brother in law is playing a sorcerer and he's telling me[0m
+[18:18] [0m              that they can't....[0m
+[18:19] [0mThom flaps : i think you need a feat and stuff and that might limit you to[0m
+[18:19] [0m             making them in 5e. but using them yeah, anyone unless stated in[0m
+[18:19] [0m             their class can use scrols[0m
+[18:19] [0mThom flaps : i'd suggest if you can looking at the secion in xxanathar's[0m
+[18:19] [0m             guide as it has it all detailed out in there. since its not in[0m
+[18:19] [0m             the base PHB or DMG[0m
+[18:19] [0mUkyo flaps : i think the question is about making them.[0m
+[18:20] [0mKikipopo flaps : Your face is a dungeon master's guide.[0m
+[18:20] [0mWhisper flaps : look you guys are going to give face some kind of[0m
+[18:20] [0m                personality conflict with all these similies...[0m
+[18:21] [0mUkyo flaps : Your face is a simile?[0m
+[18:21] [0mThom flaps : i of course could be wrong. but thast my expereience and[0m
+[18:21] [0m             opinion on it. and the question did ask about using themt too[0m
+[18:21] [0mYou can currently reforge 12 items.[0m
+[18:21] [0mKikipopo flaps : Our metaphors are as real as your similies are mislabeled.[0m
+[18:21] [0mLeto flaps : face-simile[0m
+[18:21] [0mCaeli flaps : Both[0m
+[18:22] [0mUkyo flaps : so, the usage of scrolls is pretty much settled. anybody can[0m
+[18:22] [0m             use them. the making of such scrolls however, seems to be the[0m
+[18:22] [0m             only unresolved question.[0m
+[18:23] [0mWhisper flaps : a horse is a course of horse of course?[0m
+[18:23] [0mLeto flaps : unless it's Mr. Ed.[0m
+[18:24] [0mCaeli flaps : You have to have the scribe and enchanting feats.[0m
+[18:26] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[18:31] [0mThom flaps : at least from the thing i quoted. it says prepared/known which[0m
+[18:31] [0m             to me says a spontaneous spellcaster could make scrolls. as[0m
+[18:31] [0m             long as the have the prerequisite feats and the material[0m
+[18:31] [0m             components for the spell and of course the money.[0m
+[18:32] [0mCaeli flaps : I'm just happy my DM homebrews a bunch of stuff. I have "hand"[0m
+[18:32] [0m              grenades. 55d6 fireballs, coldbal[0m
+[18:33] [0mThom flaps : homebrew stuff is fairly nice xd. i have had some interesting[0m
+[18:33] [0m             items before come up in our games. my favorite being the +5[0m
+[18:33] [0m             bacon of deliciousness, the most sacred creation of the bacon[0m
+[18:33] [0m             god of the mini breakfast pantheon[0m
+[18:34] [0mCaeli flaps : 50d4 magic missile bombs.....[0m
+[18:36] [0mThom flaps : those are powerful, though XD i once had a player essentially[0m
+[18:36] [0m             blow up an entire level of hell so[0m
+[18:36] [0mCaeli flaps : My at the time 6th level grave cleric blew up TIamat in her[0m
+[18:36] [0m              own domain....[0m
+[18:38] [0mCaeli flaps : THe demons shouldn't have given the party a massive mana bomb[0m
+[18:38] [0m              and really fast ship.[0m
+[18:44] [0mnewb Ashantra [Newbie]: Okay, I just logged in and I did a bit of the newbie[0m
+[18:44] [0m                        quest line earlier... but... I'm not where I logged[0m
+[18:44] [0m                        out at...[0m
+[18:44] [0mnewb Thom [bard/60]: did you just go link dead or did you quit.[0m
+[18:45] [0mnewb Ukyo [jedi/108]: also, look and glance are your friend.[0m
+[18:45] [0mnewb Ashantra [Newbie]: I use the QUIT command.[0m
+[18:45] [0mnewb Raest [cyborg/134]: and glimpse[0m
+[18:45] [0mnewb Ukyo [jedi/108]: then you should have logged back into the jump room[0m
+[18:45] [0mnewb Squirrel [priest/130]: you can't save where you log out at, not yet[0m
+[18:47] [0mnewb Ukyo [jedi/108]: but, for newbies, when you jump, instead of going to[0m
+[18:47] [0m                      either center of town, or another location, dependant[0m
+[18:47] [0m                      on activation, as a newbie, you ought to jump into[0m
+[18:47] [0m                      woodstock, or whatever that newbie town name is, iirc.[0m
+[18:47] [0mnewb Thom [bard/60]: that and yeah quit would take you to the login room[0m
+[18:47] [0m                     (normall) and dispose of all your not bound gear XD.[0m
+[18:47] [0m                     for now its usually better to go linkdead (just dc[0m
+[18:47] [0m                     essentiall) if you want to keep sstuff you've gotten[0m
+[18:47] [0m                     though after so long it will quit you if your gone long[0m
+[18:47] [0m                     enough[0m
+[18:47] [0mnewb Raest [cyborg/134]: woonsocket[0m
+[18:48] [0mnewb Ukyo [jedi/108]: thanks, raest. wasn't there long, and it was[0m
+[18:48] [0m                      implemented long after i was newbie.[0m
+[18:48] [0mnewb Ukyo [jedi/108]: wasn't there long with my alt, even[0m
+[18:48] [0m[34;1mTurnhold shouts:[0m DEY ARE ATTACKIN![0m
+[18:49] [0m[34;1mWhisper shouts:[0m RUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUNNNNNNNNNNNNNNNNNNNNNNNNNNN[0m
+[18:49] [0m                NNNNNNNNNNNNN!!!!!!!!![0m
+[18:49] [0m[34;1mWhoknows shouts:[0m RUN AWAAAAYYY!!![0m
+[18:49] [0m[35;1mUkyo [Jedi(77)]:[0m oops[0m
+[18:50] [0m[34;1mThom shouts:[0m who is attacking?[0m
+[18:50] [0m[34;1mUkyo shouts:[0m cleaning up my own mess. might be a death or two[0m
+[18:54] [0m[34;1mUkyo shouts:[0m Cleanup finished. Not that this area is safe, but yea. . .[0m
+[18:55] [0m[34;1mPhoenix shouts:[0m die[0m
+[18:59] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[19:05] [0m[35;1mMugen [Jedi(Knight)]:[0m my entire history from being afk is just you dying[0m
+[19:05] [0m[35;1mMugen [Jedi(Knight)]:[0m stop it[0m
+[19:05] [0m[35;1mUkyo [Jedi(77)]:[0m heh. had to clean up a mess i'd made.[0m
+[19:05] [0m[35;1mUkyo [Jedi(77)]:[0m if we didn't have the hit limiter that we have, i'd have[0m
+[19:05] [0m                 been just fine.[0m
+[19:05] [0m[35;1mMugen [Jedi(Knight)]:[0m we do?[0m
+[19:06] [0m[35;1mMugen [Jedi(Knight)]:[0m well for deflect i guess[0m
+[19:06] [0m[35;1mUkyo [Jedi(77)]:[0m uh, yea? 20 hits and everything gets through, no matter[0m
+[19:06] [0m                 what[0m
+[19:06] [0m[35;1mUkyo [Jedi(77)]:[0m or something like that[0m
+[19:06] [0m[35;1mMugen [Jedi(Knight)]:[0m hmm, i might have to test[0m
+[19:06] [0m[35;1mMugen [Jedi(Knight)]:[0m i know thats all i can deflect, but curious if anymore[0m
+[19:06] [0m                      than that and i go boom regardless[0m
+[19:06] [0m[35;1mUkyo [Jedi(77)]:[0m and considering i'd had a stack of 40 to 50 of the little[0m
+[19:06] [0m                 bastards . . .[0m
+[19:07] [0m[35;1mMugen [Jedi(Knight)]:[0m language, but yea[0m
+[19:07] [0m[35;1mUkyo [Jedi(77)]:[0m not boom, squish[0m
+[19:07] [0m[35;1mMugen [Jedi(Knight)]:[0m i was going to test on smaller stuff, in the land i[0m
+[19:07] [0m                      think[0m
+[19:07] [0m[35;1mMugen [Jedi(Knight)]:[0m see if its a pure hit limiter, or just not deflecting[0m
+[19:07] [0m                      is what killed you[0m
+[19:07] [0m[35;1mMugen [Jedi(Knight)]:[0m big difference between 30 tiny hits killing me and 21[0m
+[19:07] [0m                      huge hits killing me[0m
+[19:07] [0m[35;1mUkyo [Jedi(77)]:[0m wait, what's wrong with 'bastards'? since when is that[0m
+[19:07] [0m                 considered language?[0m
+[19:08] [0m[35;1mMugen [Jedi(Knight)]:[0m shrug, i thought it was one of the nos[0m
+[19:08] [0m[35;1mUkyo [Jedi(77)]:[0m at any rate, i'm pretty sure 20 is our limit, just as an[0m
+[19:08] [0m                 advance warning[0m
+[19:08] [0m[35;1mMugen [Jedi(Knight)]:[0m i read profane and vulgar, as things i dont want[0m
+[19:08] [0m                      licklick's mom yelling at me for[0m
+[19:09] [0m[35;1mMugen [Jedi(Knight)]:[0m nog, just wanna see if 50 10k mobs will blick me[0m
+[19:10] [0m[35;1mUkyo [Jedi(77)]:[0m heh, i have a certain word nicknamed to sithspawn[0m
+[19:10] [0m[35;1mMugen [Jedi(Knight)]:[0m or if it takes 21 5mils[0m
+[19:10] [0m[35;1mUkyo [Jedi(77)]:[0m oh, yea, 51 1k mobs will blick you. well, maybe two rounds[0m
+[19:10] [0m[35;1mUkyo [Jedi(77)]:[0m ever killed toxylia?[0m
+[19:11] [0m[35;1mMugen [Jedi(Knight)]:[0m not as a jedi[0m
+[19:12] [0m[35;1mMugen [Jedi(Knight)]:[0m easily testable in land1, ill just go stack a ton of[0m
+[19:12] [0m                      tiny mobs[0m
+[19:12] [0m[35;1mUkyo [Jedi(77)]:[0m toxylia is a pushover. it's what's between that's the[0m
+[19:12] [0m                 bugger, pun intended.[0m
+[19:12] [0m[35;1mMugen [Jedi(Knight)]:[0m nog, im familiar with the spiral, no room attack makes[0m
+[19:12] [0m                      that a pain[0m
+[19:13] [0m[35;1mUkyo [Jedi(77)]:[0m lightsiders don't have a room attack, either.[0m
+[19:13] [0m[35;1mUkyo [Jedi(77)]:[0m but, flurry lets you get more than one a round, which makes[0m
+[19:13] [0m                 it somewhat more managable.[0m
+[19:16] [0m[35;1mMugen [Jedi(Knight)]:[0m odd, wouldnt think it would spill over[0m
+[19:16] [0m[35;1mMugen [Jedi(Knight)]:[0m thats a use for it i never considered, monks get[0m
+[19:16] [0m                      multiple hits in some forms, and it never spilled[0m
+[19:16] [0m                      over, just 1 mob a round[0m
+[19:17] [0m[35;1mUkyo [Jedi(77)]:[0m yea, daggers flurry rocks. we get minimum two hits with[0m
+[19:17] [0m                 them. VERY useful for dealing with the swarms down there.[0m
+[19:18] [0m[35;1mMugen [Jedi(Knight)]:[0m ive always wondered if leveling it/using daggers[0m
+[19:18] [0m                      instead, would maximize my hits per round, some mobs[0m
+[19:18] [0m                      just mechanically make more sense to hit as many times[0m
+[19:18] [0m                      a round as you can[0m
+[19:18] [0m[35;1mUkyo [Jedi(77)]:[0m yea, the difference between saber and daggers flurry is[0m
+[19:18] [0m                 there.[0m
+[19:19] [0m[32mWhoknows says:[0m Most powerful Solaris... Grant our disciple, Roken the power[0m
+[19:19] [0m               of your divine blessing, so we may destroy your enemies![0m
+[19:19] [0m[35;1mUkyo [Jedi(77)]:[0m also, makes daggers train a heck of a lot faster.[0m
+[19:26] [0mMud flaps : going to reset hotel in 5min if anyone interested[0m
+[19:26] [0m[Clan] Mud : going to reset hotel in 5min if anyone interested[0m
+[19:28] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[19:28] [0m[Clan] Mud : ahh, not many folks on atm[0m
+[19:35] [0mYou can currently reforge 12 items.[0m
+[19:43] [0mYou can currently reforge 4 items.[0m
+[19:50] [0m[35;1mUkyo [Jedi(77)]:[0m hey mugen, got a minute?[0m
+[19:53] [0m[35;1mMugen [Jedi(Knight)]:[0m only if you send a tell?[0m
+[19:53] [0mInix flaps : Corelle makes some pretty good dishes.[0m
+[19:53] [0m[35;1mMugen [Jedi(Knight)]:[0m 100% dont monitor guild chat as much as tells[0m
+[19:57] [0mCaeli flaps : So, going to see my family tomorrow. Already getting ready for[0m
+[19:57] [0m              the nagging.[0m
+[19:57] [0mUkyo flaps : welcome to earth[0m
+[19:59] [0mCaeli flaps : I mean, I'm 43 and still being treated like a child.[0m
+[20:00] [0mUkyo flaps : again, welcome to earth.[0m
+[20:01] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[20:02] [0m[35;1mTrisky [Jedi(44)]:[0m 0.0568182% woo[0m
+[20:04] [0m[Clan] Byron : can someone reforge cmc?[0m
+[20:04] [0m[Clan] Mud : sure, gimme min[0m
+[20:04] [0m[Clan] Byron : mud you might be only person who can[0m
+[20:04] [0m[Clan] Byron : ty[0m
+[20:04] [0m[Clan] Mud : might hit reforger 90 tonight[0m
+[20:04] [0m[Clan] Byron : woo[0m
+[20:04] [0m[Clan] Mud : yah, quiet round here atm[0m
+[20:04] [0m[Clan] Mud : meet at box in a min[0m
+[20:04] [0m[Clan] Byron : nod ther[0m
+[20:07] [0m[Clan] Byron : at shuttle[0m
+[20:07] [0m[Clan] Mud : on my way, will take me a min[0m
+[20:07] [0m[35;1mUkyo [Jedi(77)]:[0m do rings of hearts have sp regen?[0m
+[20:09] [0m[Clan] Nameless : yay 20/20 dodge[0m
+[20:09] [0m[Clan] Byron : bards?[0m
+[20:09] [0m[Clan] Nameless : nod[0m
+[20:09] [0m[Clan] Byron : killing day 3 if anyone wants tag[0m
+[20:09] [0m[Clan] Mud : im at 19 dodge[0m
+[20:10] [0m[Clan] Byron : 28[0m
+[20:10] [0m[Clan] Nameless : ill brt[0m
+[20:10] [0m[Clan] Byron : nix just got 40[0m
+[20:10] [0m[Clan] Nameless : dear lord[0m
+[20:10] [0m[Clan] Nameless : gonna take so much gxp to get up there heh[0m
+[20:10] [0m[Clan] Mud : yah, im on the harmony/rhythm grind for awhile[0m
+[20:10] [0m[Clan] Nameless : same[0m
+[20:10] [0m[Clan] Byron : he says its 25mil or 40mil a point or something stupid[0m
+[20:10] [0m[Clan] Mud : similar spot in mentals[0m
+[20:11] [0m[Clan] Byron : im maxed until dodge uncaps at 96[0m
+[20:11] [0m[Clan] Byron : laf[0m
+[20:11] [0m[34;1mKitt shouts:[0m Get Rekt[0m
+[20:11] [0m[Clan] Byron : ill tank then :p[0m
+[20:12] [0m[Clan] Byron : i wont roll acid[0m
+[20:12] [0m[Clan] Mud : yeesh[0m
+[20:12] [0m[Clan] Mud : omw back[0m
+[20:15] [0m[35;1mMugen [Jedi(Knight)]:[0m the can, if they have the focus mskill[0m
+[20:15] [0m[35;1mMugen [Jedi(Knight)]:[0m they just have random mskills[0m
+[20:17] [0m[Clan] Nameless : bbl[0m
+[20:19] [0m[34;1mKitt shouts:[0m Def Got Rekt[0m
+[20:19] [0m[34;1mRaest shouts:[0m Flame on![0m
+[20:20] [0m[34;1mLeto shouts:[0m starcraft mmo for the win![0m
+[20:30] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[20:34] [0mUkyo <Craft>: i thought legendary gems were supposed to have 6 entraps on[0m
+[20:34] [0m              them?[0m
+[20:34] [0mUkyo <Craft>: not that i need more than three or four, just saying, having[0m
+[20:34] [0m              that buffer is nice.[0m
+[20:44] [0mYou can currently reforge 8 items.[0m
+[21:00] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[21:00] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[21:00] [0m                          get ready![0m
+[21:01] [0mInix flaps : flaps[0m
+[21:01] [0m[34;1mInix shouts:[0m shouts[0m
+[21:02] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[21:02] [0m[34;1mUkyo shouts:[0m force inix tellall tells.[0m
+[21:03] [0m[34;1mNik shouts:[0m playcult with a force[0m
+[21:10] [0m[34;1mUkyo shouts:[0m arcane, north, two east or thereabouts from desert portal[0m
+[21:24] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[21:25] [0m[34;1mZor shouts:[0m woo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![0m
+[21:32] [0mYou can currently reforge 8 items.[0m
+[21:36] [0m[35;1mUkyo [Jedi(77)]:[0m yup, definitely saturating a lot more than i used to.[0m
+[21:45] [0mYou can currently reforge 12 items.[0m
+[21:46] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[21:57] [0m[34;1mUkyo shouts:[0m cheatwho?[0m
+[21:58] [0m[34;1mZor shouts:[0m woo!!!!!!!!!!!!!!!!!!!!!!!!!!![0m
+[21:58] [0m[34;1mNauda shouts:[0m Stop Disrupting[0m
+[21:58] [0m[34;1mSorin shouts:[0m cheater![0m
+[21:58] [0m[34;1mDisruptor shouts:[0m because 2 are better than 1[0m
+[21:58] [0m[34;1mRaest shouts:[0m SPAM![0m
+[21:58] [0mZor flaps : again![0m
+[21:58] [0m[34;1mSquirrel shouts:[0m it puts the lotion on it's skin or it gets the hose again.[0m
+[22:17] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[22:21] [0m[34;1mCrolack shouts:[0m **   **   ****   *****     **    ****** **   ** [0m
+[22:21] [0m                *** ***  **  **  **  **   ****     **   ***  ** [0m
+[22:21] [0m                ** * **  **      **  **  **  **    **   ** * ** [0m
+[22:21] [0m                ** * **  **      *****   **  **    **   **  *** [0m
+[22:21] [0m                **   **  **      **  **  ******    **   **   ** [0m
+[22:21] [0m                **   **  **  **  **  **  **  **    **   **   ** [0m
+[22:21] [0m                **   **   ****   *****   **  **  ****** **   ** [0m
+[22:22] [0m[34;1mDin shouts:[0m my eyes!  the goggles do nothing![0m
+[22:23] [0m[34;1mZor shouts:[0m cause You got them at the Dollar Store![0m
+[22:23] [0m[34;1mUkyo shouts:[0m who the heck is mcbain?[0m
+[22:23] [0m[34;1mBoosh shouts:[0m you the he's the mc in your bain (oh look used your[0m
+[22:23] [0m              correctly)![0m
+[22:42] [0mYou can currently reforge 12 items.[0m
+[22:44] [0m[32;1mFrom afar, Simonz goes 'Woo Woo!' at you.[0m[0m
+[22:46] [0mYou can currently reforge 4 items.[0m
+[22:46] [0mYou can currently reforge 4 items.[0m
+[22:46] [0m[Clan] Ser : anyone know where event is[0m
+[22:46] [0m[Clan] Mud : desert, 1n 2e i think[0m
+[22:46] [0m[Clan] Mud : or right near there[0m
+[22:47] [0m[Clan] Ser : nailed it ty[0m
+[22:47] [0m[Clan] Ser : logged on earlier, saw event, made it to magic, then busy all[0m
+[22:47] [0m             day[0m
+[22:47] [0m[Clan] Ser : literally got 15.5hr today[0m
+[22:47] [0m[Clan] Ser : i need sleep[0m
+[22:48] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[22:48] [0m[Clan] Mud : yah no good, but overtime$$$ nice.[0m
+[22:48] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[22:49] [0m[Clan] Ser : starting at 1:30 AM and ending at 9:30 at night eith a few hr[0m
+[22:49] [0m             break in AM and a hr break in PM[0m
+[22:49] [0m[Clan] Ser : yah im om call this week so next paycheck eill be nice[0m
+[22:53] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[22:54] [0m[35;1mDy [Jedi(71)]:[0m Erp-a-derp.[0m
+[22:54] [0mThom flaps : has anyone ever had something with their client where it like[0m
+[22:54] [0m             newlines every combat round pushing everything up a line? and[0m
+[22:54] [0m             just pushes the stuff off the screen and leaves just blank?[0m
+[22:54] [0mSer flaps : souns like you have a return being sent somewhere[0m
+[22:54] [0mUkyo flaps : sounds like a trigger?[0m
+[22:54] [0mUkyo flaps : with a return.[0m
+[22:54] [0mDy flaps : I have returned![0m
+[22:54] [0mUkyo flaps : what ser said[0m
+[22:55] [0mInix flaps : Sounds like your FACE![0m
+[22:55] [0mSer flaps : if its every round you might want to turn debug on for a couple[0m
+[22:55] [0m            rounds then see if you can find it[0m
+[22:56] [0mThom flaps : and how does one do that? i'm still in portal atm, i havent[0m
+[22:56] [0m             switched to tin tin due to lack of features set up xD[0m
+[22:56] [0mSer flaps : extra semicolons etc can cause it as well[0m
+[22:56] [0mSer flaps : get gud[0m
+[22:56] [0mSer flaps : cant really help much then you just gotta find it[0m
+[22:57] [0mSer flaps : check your tickers, etc[0m
+[22:57] [0mInix flaps : Your FACE is a ticker[0m
+[22:57] [0mGilead flaps : burnnnnn[0m
+[22:58] [0mSer flaps : use telnet it wont do it i promise[0m
+[22:58] [0mThom flaps : thign is it didnt change till after i loaded up inix's tin tin.[0m
+[22:58] [0m             i wonder if it put something in mud side[0m
+[22:58] [0mSer flaps : could do promot >[0m
+[22:58] [0mSer flaps : prompt*[0m
+[22:58] [0mSer flaps : see if that fixes it[0m
+[22:59] [0mSer flaps : yes i know i rock thank you[0m
+[22:59] [0mThom flaps : nope. hmmmmm[0m
+[22:59] [0mSer flaps : ok i give up inix its your fault fix it[0m
+[23:00] [0mInix flaps : I didn't touch his Portal  >.>[0m
+[23:00] [0mZor flaps : it goes Tick-Tock-Tick-Tock BAM! your dead[0m
+[23:00] [0mDy flaps : Don't touch my portal that way, you're not my priest![0m
+[23:04] [0m[35;1mDy [Jedi(71)]:[0m There is no such thing, as too much Cinnamon.[0m
+[23:09] [0mnewb Whoknows [priest/96]: with survival, can you make steaks and wrap[0m
+[23:09] [0m                           corpse? or does making steak destroy the corpse?[0m
+[23:10] [0mnewb Ser [psicorps/132]: whoknows[0m
+[23:10] [0mSky flaps : BEST photobomb, eva! http://bit.ly/2Kxvo7u[0m
+[23:10] [0mLachlan flaps : are rickrolls back in style? ;p[0m
+[23:10] [0mnewb Inix [juggernaut/138]: Butchering the corpse (making steak, as you[0m
+[23:10] [0m                            said) destroys the corpse.[0m
+[23:12] [0mSer flaps : yo inix whats that option that makes MIP do new lines[0m
+[23:12] [0mSer flaps : i bets dass what it is[0m
+[23:12] [0mSer flaps : setmod something something[0m
+[23:13] [0mInix flaps : I have nfc what you're talking about, honestly[0m
+[23:13] [0mInix flaps : and MIP stuff doesn't carry over connection changes (swapping[0m
+[23:13] [0m             clients to portal)[0m
+[23:13] [0mSer flaps : omg youre gonna make me go through like 30 areads to find it... [0m
+[23:13] [0m            they changed it so MIP was easier tto use on tt/other clients[0m
+[23:13] [0mSer flaps : its a setmod option iirc[0m
+[23:14] [0mInix flaps : I think you recall poorly..[0m
+[23:14] [0mInix flaps : there were some things like, "3klient LINEFEED" but that's not[0m
+[23:14] [0m             a setmod[0m
+[23:14] [0mInix flaps : it's a MIP setting[0m
+[23:14] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[23:15] [0mInix flaps : You could try typing "3klient LINEFEED off", but, if you aren't[0m
+[23:15] [0m             seeing a s....poopton of unreadable spam, then you don't have[0m
+[23:15] [0m             MIP stuff on anyway.[0m
+[23:15] [0mInix flaps : also, those weren't new features added, they were undocumented[0m
+[23:15] [0m             features shared[0m
+[23:17] [0mWhoknows flaps : thanks[0m
+[23:19] [0mInix flaps : Feel free to chastise me[0m
+[23:20] [0mInix flaps : I forgot Portal has MIP and appropriate gags by default...it[0m
+[23:20] [0m             was as Ser mentioned, LINEFEED[0m
+[23:20] [0mInix flaps : which apparently, that flag isn't reset when swapping clients[0m
+[23:20] [0mSer flaps : dass right punk[0m
+[23:21] [0mThom flaps : well i'll file away that useful nugget. i might need it if i[0m
+[23:21] [0m             keep flipping beteen the two clients as i get stuff set up.[0m
+[23:21] [0m             unless i find where in the script it sets that lol[0m
+[23:22] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[23:22] [0mSer flaps : just set it at login on whatever client[0m
+[23:22] [0mSer flaps : problem solved[0m
+[23:23] [0mSer flaps : less typey typey more stabby stabby and killy killy[0m
+[23:23] [0mThom flaps : how do you tell more than one person? just name,name?[0m
+[23:23] [0mInix flaps : Why not both?[0m
+[23:23] [0mLachlan flaps : yes.. Playcult is waiting![0m
+[23:25] [0m[Clan] Byron : fuck day 3 cmc doesnt have stats does it[0m
+[23:25] [0mSer flaps : dispose[0m
+[23:25] [0mSer flaps : mt[0m
+[23:26] [0m[Clan] Ser : dispose[0m
+[23:26] [0mInix flaps : Dispose your FACE![0m
+[23:26] [0mSer flaps : my face is indisposable[0m
+[23:26] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[23:27] [0mInix flaps : ...well played[0m
+[23:27] [0mSer flaps : just like my troubleshooting skills.  NYEH[0m
+[23:27] [0mInix flaps : meh, you said setmod[0m
+[23:28] [0mSer flaps : yah but you knew what i was talking about...  anyone listening[0m
+[23:28] [0m            to news lately?  i really enjoy the "point of personal[0m
+[23:28] [0m            privelege, he/him"[0m
+[23:30] [0mSky flaps : Hey Yall - Inix's DLAB is hot. Just wanted yall to know that. :)[0m
+[23:32] [0m[35;1mBurnaby [Jedi(56)]:[0m Happiness is having a large, loving, caring, close-knit[0m
+[23:32] [0m                    family in another city.[0m
+[23:32] [0m[35;1mUkyo [Jedi(77)]:[0m Sheep screams something incomprehensible at you, then looks[0m
+[23:32] [0m                 at you quizzically awaiting a responce.[0m
+[23:35] [0mYou can currently reforge 0 items.[0m
+[23:37] [0m[34;1mSer shouts:[0m pLeAsE dO nOT uSe gEnDeReD lAnGuAgE tO aDdReSs eVeRyOnE[0m
+[23:39] [0m[34;1mLachlan shouts:[0m Ser, were you at the US Social Democrats National[0m
+[23:39] [0m                Convention?[0m
+[23:40] [0m[34;1mSer shouts:[0m point of personal privelege, he/him.  no i think theyre a bunch[0m
+[23:40] [0m            of idiots.[0m
+[23:44] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[23:47] [0mYou can currently reforge 4 items.[0m

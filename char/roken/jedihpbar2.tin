@@ -1,0 +1,269 @@
+#NOP --- JEDI HP BAR, shared by ChaosOmen on 3k's Discord
+#NOP --- Amended by Karvec
+#NOP --- Amended by Roken with script found on Pladdy's github for 'dissipating attack' 'no weapon wielded'  *** CHANGE *** making it dissipate on shield
+#NOP --- Added XP (Gxp & Fxp) color scale with GREAT help from Thom // every 25% it changes color
+#NOP --- Added triggers for HP and SP regen "foreach" idea found on Pladdy's github
+#NOP --- Force Deflect Statistics algorithm written by Simonz
+#NOP --- WORK IN PROGRESS	*/ Auto toggle Enemy Status prompt
+#NOP ---			Combat Hit Bar (even tho on Current Features) */
+#NOP --- CURRENT FEATURES	*/ Reduce Injury + Clear Mind triggers &&
+#NOP ---			Notif for No Weapon Wielded + Colorized Full text wpmodes
+#NOP ---			Colorization scalings for all HP/SP/GP1/GP2/WEP/GXP/DXP/EHP/and more
+#NOP ---			Force Deflection Statistics prompts Average XP / Total Gained XP and Average Successful Proc rate from total rounds
+#NOP ---			Combat Hit Bar based off Numbers VAF /*   Condense this list somehow
+#NOP ---			Transmuter Charges status and Corpsetrig ON or OFF status for parties */
+#split 0 3
+#class {hpbar} {kill}
+#class {hpbar} {open}
+
+#function {colScale}
+{
+        #switch {10 * %1 / %2}
+        {
+                #case {0} {#return <FF00>};
+                #case {1} {#return <FF30>};
+                #case {2} {#return <FF60>};
+                #case {3} {#return <FF90>};
+                #case {4} {#return <FFC0>};
+                #case {5} {#return <FFF0>};
+                #case {6} {#return <FCF0>};
+                #case {7} {#return <F9F3>};
+                #case {8} {#return <F6F3>};
+                #case {9} {#return <F3F3>};
+                #default  {#return <F0F0>};
+        }
+}
+#function {colRevScale}
+{
+        #switch {10 * %1 / %2}
+        {
+                #case {0} {#return <F0F0>};
+                #case {1} {#return <F3F3>};
+                #case {2} {#return <F6F3>};
+                #case {3} {#return <F9F3>};
+                #case {4} {#return <FCF0>};
+                #case {5} {#return <FFF0>};
+                #case {6} {#return <FFC0>};
+                #case {7} {#return <FF90>};
+                #case {8} {#return <FF60>};
+                #case {9} {#return <FF30>};
+                #default  {#return <FF00>};
+        }
+}
+#function {colXpScale}
+{
+	#math {xpval} {(%1/25) % 100};
+        #switch {$xpval}
+        {
+                #case {0} {#return <FF3F>};
+                #case {1} {#return <F03F>};
+                #case {2} {#return <FFF0>};
+                #case {3} {#return <F0FF>};
+                #default  {#return <F0FF>};
+        }
+}
+#function {prof}
+{
+	#math {pxpval} {(%1/24)};
+	#switch {$pxpval}
+	{
+		#case {1} {#return <FF11>};
+		#case {2} {#return <FF13>};
+		#case {3} {#return <FF51>};
+		#case {4} {#return <FF60>};
+		#case {5} {#return <FF91>};
+		#case {6} {#return <FFD1>};
+		#case {7} {#return <F8F0>};
+		#case {8} {#return <F0B0>};
+		#default {#return <FFF0000>};
+	}
+}
+#function {toggle}
+{
+	#switch {"%1"}
+	{
+		#case {"off"} {#return <FF00>};
+		#case {"tol"} {#return <FF60>};
+		#default {#return <F0F0>};
+	}
+}
+#function {dmgtype}
+{
+	#switch {"%1"}
+	{
+		#case {"n"} {#return <FEB2D2D>};
+		#case {"i"} {#return <F0F52BA>};
+		#case {"f"} {#return <FE0115F>};
+		#case {"r"} {#return <F858B97>};
+		#case {"e"} {#return <FFFC200>};
+		#case {"p"} {#return <F00A86B>};
+		#default {#return <F0F0>};
+	}
+}
+#var hpbar_label <170>;
+#var hpbar_points_full <129>;
+#var hpbar_points_high <169>;
+#var hpbar_points_med <139>;
+#var hpbar_points_low <119>;
+
+
+#alias {hpbarconfigsplit} {focus hpconfigure /HP: #hp/#mhp SP: #sp/#msp C:#c F:#f D: #dn/#dm|#dr [#ng] E:#es #nlDef:#df Wm:#sm Wc:#%c Gx:#gxp Fx:#fd}
+ 
+#action {^HP: %1/%2 SP: %3/%4 C:%s%5% F:%s%6% D: %7/%8|%9% [%10] E:%11}
+{
+
+   #var hpcolor @colScale{%1;%2};
+   #var spcolor @colScale{%3;%4};
+   #format {controlper} {%d} {%5};
+   #var controlcolor @colScale{$controlper;100};
+   #format {forceper} {%d} {%6};
+   #var forcecolor @colRevScale{$forceper;100};
+   #var disicolor @colScale{%7;%8};
+   #format {disiresetper} {%d} {%9};
+   #var disiresetcolor @colScale{$disiresetper;100};
+   #var hpcur %1;
+   #var hpmax %2;
+   #math {min_hp} {$hpmax*0.70};
+        #if {$hpcur <= $min_hp} {healup};
+   #var spcur %3;
+   #var spmax %4;
+   #math {min_sp} {$spmax*0.30};
+	#if {$spcur <= $min_sp} {manaup};	
+   #var control %5;
+   #math force {(%6 - 100) * -1};
+   #var force_max {100};
+   #var disi %7;
+   #var disimax %8;
+   #var disireset %9;
+   #var stornrg %10;
+   #var enmystat %11;
+	#if {"$enmystat" == ""} {#var enmystat {}};
+	#replace {enmystat} {%} {};
+   #var mobhpcolor @colScale{$enmystat;100};
+
+   #format {hpmsg} {%sHP:%s%s%s/%s%s} {$hpbar_label} {$hpcolor} {$hpcur} {$hpbar_label} {$hpbar_points_full} {$hpmax};
+   #format {spmsg} {%sSP:%s%s%s/%s%s} {$hpbar_label} {$spcolor} {$spcur} {$hpbar_label} {$hpbar_points_full} {$spmax};
+   #format {consmsg} {%sC:%s%s%s%s} {$hpbar_label} {$controlcolor} {$control} {$hpbar_label} {%};
+   #format {forcemsg} {%sF:%s%s%s%s} {$hpbar_label} {$forcecolor} {$force} {$hpbar_label} {%};
+   #format {disimsg} {%sD:%s%s%s/%s%s%s|%s%s%s%s} {$hpbar_label} {$disicolor} {$disi} {$hpbar_label} {$hpbar_points_full} {$disimax}  {$hpbar_label}  {$disiresetcolor} {$disireset}  {$hpbar_label}  {%};
+   #format {stornrgmsg} {%s[%s]%s} {$hpbar_label} {$stornrg};
+   #format {enmystatmsg} {%sE:%s%s%s%s} {$hpbar_label} {$mobhpcolor} {$enmystat} {$hpbar_label} {%};
+   #format {prompt1} {%s %s %s %s %s %s %s} {$hpmsg} {$spmsg} {$consmsg} {$forcemsg} {$disimsg} {$stornrgmsg} {$enmystatmsg}
+}
+{2};
+
+
+#prompt {HP: %1/%2 SP: %3/%4 C:%s%5% F:%s%6% D: %7/%8|%9% [%10] E:%11} {${prompt1}} {-4}
+
+#nop ---HPBAR LINE2
+
+#action {^Def:%1 Wm:%2 Wc:%s%3% Gx:%s%4% Fx:%s%5%} {
+
+ #var defflag %1;
+ #var dissipating false;
+   #regex {%1} %!{D|a|c|f|h|s)} {#var dissipating true};
+		#if {"$autodis" == "att"}	{attempt_dissipate_attack};
+		#if {"$autodis" == "shi"}	{attempt_dissipate_shield};
+		#if {"$autodis" == "off"} {#NOP};
+   #var wepmode %2;
+	#if {"$wepmode" == "n"} {
+                #showme <110>Warning! In neutral mode, pick a combat mode!};
+	#if {"$wepmode" == "g"} {#replace {wepmode} {g} {<F0C0>Guide<F0C0>}};
+	#if {"$wepmode" == "f"} {#replace {wepmode} {f} {<FF0F>Flurry<FF0F>}};
+   #var wepchg %3;
+   #format {wepchgper} {%d} {%3};
+   #var wepchgcolor @colScale{$wepchgper;100};
+   #var gxpper %4;
+   #var gxpcolor @colXpScale{$gxpper};
+	#if {$gxpper > 100.00 && $gxpper < 100.05} {
+		#showme <F0F0>w00t WOOT -- You Reached NEW ASCENSION!<F0F0>};
+   #var fdper %5;
+   #var fdcolor @colXpScale{$fdper};
+   #var pxpcolor @prof{$pxp[transmuter]};
+   #var togcolor @toggle{$tank};
+   #var clkcolor @toggle{$cloak};
+   #var dmgcol @dmgtype{$type};
+
+   #format {defflagmsg} {%sDef:%s%s} {$hpbar_label} <F1FF> {$defflag};
+   #format {wepmodemsg} {%sWm:%s%s}  {$hpbar_label} {$wepmode};
+   #format {wepchgmsg}  {%sWc:%s%s%s%s%s%s}  {$hpbar_label} {$wepchgcolor} {$wepchg} {$hpbar_label} {%} {|} {$cells};
+   #format {gxppermsg}  {%sGxp:%s%s%s%s} {$hpbar_label} {$gxpcolor} {$gxpper} {$hpbar_label} {%};
+   #format {fdpermsg}   {%sDxp:%s%s%s%s} {$hpbar_label} {$fdcolor} {$fdper} {$hpbar_label} {%};
+   #format {ktrigmsg}	{%sKt:%s%u%u} {$hpbar_label} {$togcolor} {$tank} {$hpbar_label};
+   #format {pxpmsg}	{%sPxp:%s%s%s} {$hpbar_label} {$pxpcolor} {$pxp[transmuter]} {$hpbar_label};
+   #format {clkmsg}	{%sClk:%s%u%u} {$hpbar_label} {$clkcolor} {$cloak} {$hpbar_label};
+   #format {dmgmsg}	{%sDt:%s%u%s} {$hpbar_label} {$dmgcol} {$type} {$hpbar_label};
+   #format {prompt2} {%s %s %s %s %s %s %s %s %s} {$defflagmsg} {$wepmodemsg} {$dmgmsg} {$wepchgmsg} {$gxppermsg} {$fdpermsg} {$ktrigmsg} {$clkmsg} {$pxpmsg};
+
+}
+{2};
+
+#prompt {Def:%1 Wm:%2 Wc:%s%3% Gx:%s%4% Fx:%s%5%} {${prompt2}} {-3}
+
+#NOP	---FORCE DEFLECT STATISTICS
+#act {^You are %1% to your next deflect level.$} {
+    #gag {%0};
+    #math {my[fdef][rounds]} {$my[fdef][rounds] + 1};
+    #var my[fdef][previous] $my[fdef][current];
+    #var my[fdef][current] %1;
+    #if {$my[fdef][base] == 0} {#var my[fdef][base] $my[fdef][current]};
+    #math {my[fdef][total_gain]} {$my[fdef][current] - $my[fdef][base]};
+    #math {my[fdef][xp_rate][average]} {$my[fdef][total_gain] / $my[fdef][total_proc]};
+    #if {$my[fdef][current] == $my[fdef][previous]} {
+        #var my[fdef][proc] 0
+    } {
+        #var my[fdef][proc] 1;
+        #math {my[fdef][total_proc]} {$my[fdef][total_proc] + 1.000000};
+    };
+        #math {my[fdef][proc_rate]} {($my[fdef][total_proc] / $my[fdef][rounds]) * 100};
+        #math {my[fdef][xp_rate][current]} {$my[fdef][current] - $my[fdef][previous]};
+
+	#format {fdefbar} {%s||Dxp Stats||} {\e[38;5;11m};
+	#format {rndsmsg} {%s%s%s%s} {\e[38;5;11m} {$my[fdef][rounds]} {$hpbar_label} { rnds};
+	#format {procmsg} {%s%.5s%s%s} {<F0F0>} {$my[fdef][proc_rate]} {$hpbar_label} {% success /};
+	#format {gainmsg} {%s[XP Gain:%s%s%s} {$hpbar_label} {<F0F0>} {$my[fdef][total_gain]};
+	#format {xpavgmsg} {%sAVG:%s%s%s%s} {$hpbar_label} {\e[38;5;11m} {$my[fdef][xp_rate][average]} {$hpbar_label} {]};
+
+	#format {prompt3} {%s %s %s %s %s} {$fdefbar} {$procmsg} {$rndsmsg} {$gainmsg} {$xpavgmsg}
+
+}
+{2};
+
+#prompt {You are %1% to your next deflect level.} {${prompt3}} {-2}
+// Auto actions triggered by the following aliases //
+#alias {healup} {
+                #foreach {0;2;4;6;8} {hpregen_attempt} {#delay {$hpregen_attempt} {
+		focus reduce injury
+		}
+	}
+};
+#alias {manaup} {
+                #foreach {2;4;6} {spregen_attempt} {#delay {$spregen_attempt} {
+		focus clear mind
+		}
+	}
+};
+#if {$spcur == $spmax} {.bot};
+
+#alias {attempt_dissipate_shield} {
+  #local MIN_STORNRG 1000;
+
+  #if {"$dissipating" == "false" && $enmystat > 0 && $disi > 0 && $stornrg > $MIN_STORNRG} {
+    focus dissipate on shield;};
+};
+
+#alias {attempt_dissipate_attack} {
+  #local MIN_STORNRG 2000;
+
+  #if {"$dissipating" == "false" && $enmystat > 0 && $disi > 0 && $stornrg > $MIN_STORNRG} {
+   focus dissipate on attack;};
+};
+#alias {adis} {
+	#var autodis %1;
+	#switch {"%1"} {
+		#case {"att"} {#showme <170> Auto Dissipate on Attack is [ON]};
+		#case {"shi"} {#showme <170> Auto Dissipate on Shield is [ON]};
+		#case {"off"} {#showme <110> Auto Dissipate is [OFF];dis off};
+}};
+
+#class {hpbar} {close}

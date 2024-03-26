@@ -1,0 +1,16 @@
+#class {bot} {open}
+#var {areaname} {Dundee2}
+#var {botpath} {e;n;n;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;n;n;n;n;n;w}
+#act {^[MoNSTaR]{Swamp Crocodile|Marsh Frog|Armadillo|Platypus|Black-bellied Snake|Osprey}}
+{
+#if {"%1" == "Marsh Frog"} {#var mobname frog};
+#if {"%1" == "Swamp Crocodile"} {#var mobname crocodile};
+#if {"%1" == "Armadillo"} {#var mobname armadillo};
+#if {"%1" == "Platypus"} {#var mobname platypus};
+#if {"%1" == "Black-bellied Snake"} {#var mobname snake};
+#if {"%1" == "Osprey"} {#var mobname osprey};
+#if {"%1" == "Drop bear"} {#var mobname bear};
+_check_mob
+} {6};
+#class {bot} {close}
+#read bots/generic.tin

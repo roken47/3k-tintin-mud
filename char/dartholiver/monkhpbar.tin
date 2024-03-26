@@ -1,0 +1,128 @@
+#NOP ---MONK HP BAR
+#class {hpbar} {kill}
+#class {hpbar} {open}
+#split 0 1;
+#function {colscale}
+{
+        #switch {10 * %1 / %2}
+        {
+              #case {0} {#return <FF00>};
+              #case {1} {#return <FF30>};
+              #case {2} {#return <FF60>};
+              #case {3} {#return <FF90>};
+              #case {4} {#return <FFC0>};
+              #case {5} {#return <FFF0>};
+              #case {6} {#return <FCF0>};
+              #case {7} {#return <F9F3>};
+              #case {8} {#return <F6F3>};
+              #case {9} {#return <F3F3>};
+              #default  {#return <F0F0>};
+	}
+}
+#var hpbar_label <088>;
+#var hpbar_points_full <129>;
+#var hpbar_points_high <169>;
+#var hpbar_points_med <139>;
+#var hpbar_points_low <119>;
+
+#action {%1HP: %2/%3 PP: %4/%5 Chi: %6/%7 G2:%8 Mind: %9 AE:%10/%11% CF:%12}
+{
+	#var gxpnew %8;
+	#math {gxprnd} {($next_gxp) - ($gxpnew)};
+
+	#var hpcolor @colscale{%2;%3};
+	#var spcolor @colscale{%4;%5};
+	#var chicolor @colscale{%6;%7};
+	#var mindcolor @colscale{%9;290};
+	#var aecolor @colscale{%11;100};
+
+	#var hpcur %2;
+	#var hpmax %3;
+    #math {min_hp} {$hpmax * 0.5};
+	#var spcur %4;
+	#var spmax %5;
+	#var chicur %6;
+	#var chimax %7;        
+	#var next_gxp %8;
+	#var mindcur %9;
+	#var mindmax 232;
+	#var numae %10;
+	#var aepct %11;
+	#var aemax 100;
+	#var cf %12;
+
+	#format {firstmsg} {%s%s} <169> {%1};
+	#format {hpmsg}    {%sHP:%s%s%s/%s%s} {$hpbar_label} {$hpcolor} {$hpcur} {$hpbar_label} {$hpbar_points_full} {$hpmax};
+	#format {spmsg}    {%sPP:%s%s%s/%s%s} {$hpbar_label} {$spcolor} {$spcur} {$hpbar_label} {$hpbar_points_full} {$spmax};
+	#format {chimsg}   {%sC:%s%s%s/%s%s%s} {$hpbar_label} {$chicolor} {$chicur} {$hpbar_label} {$hpbar_points_full} {$chimax} {$hpbar_label};
+	#format {gxpmsg}   {%sG2:%s%s%s/%s%s} {$hpbar_label} <169> {$next_gxp} {$hpbar_label} <169> {$gxprnd};
+	#format {mindmsg}  {%sP:%s%s} {$hpbar_label} {$mindcolor} {$mindcur};
+	#format {aemsg}    {%sAE:%s%s%s/%s%s%s%s} {$hpbar_label} <139> {$numae} {$hpbar_label} {$aecolor} {$aepct} {$hpbar_label} {%};
+	#format {cfmsg}    {%sCF:%s%s%s} {$hpbar_label} <139> {$cf} {$hpbar_label};
+
+	#format {prompt1} {%s %s %s %s %s %s %s %s} {$firstmsg} {$hpmsg} {$spmsg} {$chimsg} {$gxpmsg} {$mindmsg} {$aemsg} {$cfmsg};
+#NOP	heartbeat;
+	#format {prompt2} {%s} {};
+        attempt_focus;
+        attempt_enervate;
+        attempt_palm;
+	attempt_throw;
+        attempt_pressure;
+}
+{2};
+
+
+#alias {attempt_pressure} {
+     #if {$mob_health > 1 && "$pressure" == "off"} {
+     #delay {6} {pressure};
+    }
+};
+
+#alias {en} {#math {min_hp} {$hpmax * .5}
+    #if {$hpcur > $min_hp} {enervate 80};
+    #2 {!hands};
+}
+#alias {attempt_enervate} {
+    #local MIN_CHI 40;
+    #if {$chicur < $MIN_CHI} {E};
+};
+
+#alias {attempt_throw} {
+	#local MIN_CHI 35;
+#nop if statement is suppose to start with spcur == spmax to have maximum throw damage, but I need to trigger throw before pressure do you want to throw even after pressure? no so this should work you wanna test? ya;
+	#if {$spcur == $spmax && $spcur > $MIN_CHI && $mob_health > 1 && "$pressure" == "off"} {throw;}
+        };
+
+#alias {attempt_focus} {
+        #nop mind drops to 'clear' at 180;
+        #local MIN_MIND 180;
+        #local FOCUS_AMOUNT 10;
+
+        #if {$mob_health > 1 && $mindcur < $MIN_MIND && $focus > 0} {
+          focus $FOCUS_AMOUNT;
+        }
+    };
+
+#alias {attempt_palm} {
+      #if {$mob_health > 1
+          && "$auto_palm" == "true"
+          && $numae > 0
+          && "$palm_active" != "true"} {
+            palm
+          }
+    };
+
+#action {%1HP: %2/%3 PP: %4/%5 Chi: %6/%7 G2:%8 Mind: %9 AE:%10/%11% CF:%12%sT: %13%}
+{
+	#showme {%1HP: %2/%3 PP: %4/%5 Chi: %6/%7 G2:%8 Mind: %9 AE:%10/%11% CF:%12};
+
+	#var mob_health_color @colscale{$mob_health;100};
+	#var mob_health %13;
+
+	#format {enemymsg} {%sT:%s%s%s%%%} {$hpbar_label} {$mob_health_color} {$mob_health} {$hpbar_label};
+	#format {prompt2} {%s} {$enemymsg};
+}
+{1};
+
+#prompt {%1HP: %2/%3 PP: %4/%5 Chi: %6/%7 G2:%8 Mind: %9 AE:%10/%11% CF:%12} {${prompt1} ${prompt2}} {-2}
+#class {hpbar} {close}

@@ -1,0 +1,31 @@
+#class {bot} {open}
+
+#var {botpath} {w;w;w;w;w;w;w;n;e;e;e;e;e;e;e;e;e;s;s;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;s;s;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;
+e;e;e;e;s;w;w;w;w;w;w;w;w;w;n;n;n;n;n;n;n;n;e;e;e;e;e;e;e}
+
+#act {^[MoNSTaR]{Aegis Sentry Model 65-SE|Limping zombie|Bullet-ridden zombie}}
+ {
+  #if {"Limping zombie"=="%1"} {#var mobname zombie};
+  #if {"Bullet-ridden zombie"=="%1"} {#var mobname zombie};
+  #if {"Aegis Sentry Model 65-SE"=="%1"} {#var mobname sentry};
+  _check_mob
+ }
+
+#act {#END OF PAT} {
+        killbot;
+	d;
+        #read bots/aegis5.tin;
+	#act {-R-_Aegis Global - Level 5} {..;#unact {-R-_Aegis Global - Level 5} {1}};
+        }
+
+/*
+ #act {#END OF PAT} {
+	killbot;
+	aegis43;
+	aegis32;
+	aegis21;
+	}
+*/
+#class {bot} {close}
+#read bots/generic.tin
+

@@ -1,0 +1,209 @@
+- = LOG STARTED [00:00] = -
+[00:45] [0mnewb Chelou [Newbie]: is this how i use the newb command?[0m
+[00:46] [0mnewb Stevie [bladesinger/106]: its the newb chat[0m
+[00:48] [0mnewb Chelou [Newbie]: is there somewhere i can download a map?[0m
+[00:49] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[01:02] [0mnewb Chelou [Newbie]: can someone help me?[0m
+[01:03] [0mnewb Stevie [bladesinger/106]: what are you figuring out[0m
+[01:09] [0mnewb Chelou [Newbie]: where is the newbie tower forest?[0m
+[01:11] [0mnewb Stasis [elemental/135]: newb 'help newbieland' has a wee map. and 'dmap newb'[0m
+[01:13] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[01:31] [0mnewb Haste [knight/51]: how do you fix magic weapons?[0m
+[01:31] [0mnewb Chelou [adventurer/5]: dont think anyone is on this channel, i was trying to find out how[0m
+[01:31] [0m                            to play earlier and didnt get a response[0m
+[01:31] [0mnewb Haste [knight/51]: smithy "partially repaired" it. Now it requires "magical reparation".[0m
+[01:32] [0mnewb Haste [knight/51]: I believe they asked you what you needed, and you didn't respond.[0m
+[01:32] [0mnewb Kirin [jedi/130]: you take it to the gypsy after that, though its not worth it at all[0m
+[01:32] [0mnewb Chelou [adventurer/5]: thought i saw a gypsy in town[0m
+[01:32] [0mnewb Chelou [adventurer/5]: really? this is the first time i have heard any player[0m
+[01:33] [0mnewb Kirin [jedi/130]: as a knight you should be able to repair anything before it breaks, as[0m
+[01:33] [0m                       far as I remember[0m
+[01:33] [0mnewb Kirin [jedi/130]: and yes you got a response about help newbieland and dmap newb to your[0m
+[01:33] [0m                       last query[0m
+[01:34] [0mnewb Kirin [jedi/130]: 'newb -h'[0m
+[01:34] [0mnewb Chelou [adventurer/5]: huh, i wonder why it didnt show up. ill check out help newbieland[0m
+[01:34] [0m                            now[0m
+[01:34] [0mnewb Leianne [elemental/140]: as if Stasis and Stevie are not people :p[0m
+[01:35] [0mnewb Kirin [jedi/130]: specific directions to stuff in newbieland tends to be hard as most of us[0m
+[01:35] [0m                       havent been there in years (and in many cases it's changed since besides)[0m
+[01:36] [0mnewb Stevie [bladesinger/106]: help method[0m
+[01:36] [0mnewb Glorfindel [Wizard]: I am totally lost in Newbieland[0m
+[01:36] [0mnewb Kirin [jedi/130]: dmap newb should help navigate newbieland itself (outside of actual zones[0m
+[01:36] [0m                       inside) as it should dynamically show where you are[0m
+[01:36] [0mnewb Chelou [adventurer/5]: yeah i was just stuck inside the city, i literally just tried[0m
+[01:36] [0m                            spamming flees till it got me out of town but there was rooms i[0m
+[01:36] [0m                            couldnt flee from[0m
+[01:36] [0mnewb Leianne [elemental/140]: heard woonsock is worse :p[0m
+[01:37] [0mnewb Stevie [bladesinger/106]: you just talk to harlod[0m
+[01:38] [0mnewb Haste [knight/51]: spamming flee is a terrible alternative to walking around and learning[0m
+[01:38] [0m                        your way around.[0m
+[01:39] [0mnewb Chelou [adventurer/5]: well yeah, but when trying out a game, i dont want to spend 5 hours[0m
+[01:39] [0m                            learning all the mobs in town and what they do before i even know if[0m
+[01:39] [0m                            i like it or not. i just wanted to get doing something[0m
+[01:40] [0mnewb Haste [knight/51]: I'm just saying flee could make you go east, and then west. so its not a[0m
+[01:40] [0m                        good method.[0m
+[01:41] [0mnewb Sissy [knight/111]: make newbie land great again![0m
+[01:44] [0mnewb Stevie [bladesinger/106]: harlod is s if you are a first time player talk to him and get a[0m
+[01:44] [0m                               necklace then find newbie academy quest then jumpstart at.the[0m
+[01:44] [0m                               newbie bin then join a core guild west of cot then up then press[0m
+[01:44] [0m                               button at login for free xp then have fun killing it[0m
+[01:46] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[01:49] [0mnewb Stevie [bladesinger/106]: help method voted best help file[0m
+[01:51] [0mnewb Chelou [adventurer/5]: anyone familiar with the map functions on mudlet?[0m
+[01:55] [0m[34;1mOreo shouts:[0m ramen and hot dogs time no oreo dipping[0m
+[01:56] [0mnewb Glorfindel [Wizard]: That sounded incredibly complicated, Stevie[0m
+[01:57] [0mnewb Chelou [adventurer/5]: did he answer something i asked? i may not be getting messages again[0m
+[01:57] [0m                            for some reason[0m
+[01:59] [0mnewb Glorfindel [Wizard]: He gave directions about harold and a necklance[0m
+[01:59] [0mnewb Glorfindel [Wizard]: You can always use newb -h[0m
+[01:59] [0mnewb Chelou [adventurer/5]: ah i did get that, still looking for him[0m
+[01:59] [0mnewb Glorfindel [Wizard]: Sorry, I'm about to start teaching a class or I'd help you more.[0m
+[01:59] [0mnewb Chelou [adventurer/5]: all good, thank you!![0m
+[02:11] [0mnewb Chelou [adventurer/5]: hmmm... so the npc drake tells me he will reward me for cutthroat[0m
+[02:11] [0m                            sashes, but then when i give sash to drake, he says he has no use[0m
+[02:11] [0m                            for that[0m
+[02:11] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[02:12] [0m[37;1mHaste flaps :[0m When ordering pizza, Why is 0% of the delivery charge specifically not for the[0m
+[02:12] [0m              driver?[0m
+[02:13] [0m[37;1mKirin flaps :[0m 'we charge this to pay drivers for mileage', or something along those lines[0m
+[02:13] [0m              usually[0m
+[02:14] [0m[37;1mKirin flaps :[0m basically, a company excuse to charge more without charging more[0m
+[02:14] [0m[37;1mHaste flaps :[0m but it doesn't go to the driver. 0%[0m
+[02:14] [0m[37;1mKillergate flaps :[0m your first search engine goto was 3k? :)[0m
+[02:14] [0m[37;1mKirin flaps :[0m no, it goes to the company, who generally pays the drivers some cents per mile[0m
+[02:14] [0m              something or other, most places, anyway[0m
+[02:16] [0mnewb Kirin [jedi/130]: it may want a specific key word to turn it in, depends on the area/coder,[0m
+[02:16] [0m                       its usually heavily hinted either by a sign or npc speech[0m
+[02:19] [0mnewb Chelou [adventurer/5]: thats what i was thinking, it says "Great!  Venture south into the[0m
+[02:19] [0m                            forest, Chelou.  Kill as many as you can.  Bring me back their[0m
+[02:19] [0m                            cutthroat sashes.  I will reward you for your efforts." none of the[0m
+[02:19] [0m                            following work though: give sash/es to drake, say reward, say[0m
+[02:19] [0m                            efforts, drop sash, show sash to drake,[0m
+[02:21] [0mnewb Stevie [bladesinger/106]: yuck war trophies[0m
+[02:22] [0mnewb Haste [knight/51]: never heard of that, but maybe its a mission?[0m
+[02:24] [0mnewb Chelou [adventurer/5]: yeah jeffrey mentions to talk to drake about the bandits if you sit[0m
+[02:24] [0m                            in his room (just outside the tower) then drake talks back and forth[0m
+[02:24] [0m                            a bit, and tells you he will reward you for their sashes but he i[0m
+[02:24] [0m                            cant get him to actually reward me[0m
+[02:29] [0mnewb Haste [knight/51]: uh.. try "mission ask", and if he offers a mission, i think its "mission[0m
+[02:29] [0m                        accept"[0m
+[02:30] [0mnewb Haste [knight/51]: all I can think of. or else some wiz dreamt that up, and never finished[0m
+[02:30] [0m                        the code before publishing.[0m
+[02:31] [0mnewb Chelou [adventurer/5]: yeah at one point he asks me if i wish to help, and if i say yes[0m
+[02:31] [0m                            then he tells me to bring him the sashes, then nothing after that[0m
+[02:32] [0mnewb Chelou [adventurer/5]: eh, ive banged my head enough for today, so i dont get to keep any[0m
+[02:32] [0m                            of my items for next time i play right? is there somewhere i can[0m
+[02:32] [0m                            sell stuff and deposit the gold?[0m
+[02:33] [0mnewb Haste [knight/51]: if you break connect and come back within 24 hours, you get to keep your[0m
+[02:33] [0m                        stuff. (up until reboot)[0m
+[02:34] [0m[37;1mSpace flaps :[0m dude, over here in malaysia, when i first moved, i would not tip, at all, because[0m
+[02:34] [0m              on every bill it would say 'service charge' xx, which i figured was auto/mandatory[0m
+[02:34] [0m              tipping, turns out, the restaurant keeps that, and tip is on top of it, if you so[0m
+[02:34] [0m              desire, I was shocked, wtf is restaurant charging 10% over food prices as service[0m
+[02:34] [0m              if they arent giving it to the service staff?[0m
+[02:35] [0mnewb Haste [knight/51]: otherwise, any worn/wielded_ that you have obtained (picked up off the[0m
+[02:35] [0m                        ground or corpse that noone else has touched)- will remain with you[0m
+[02:35] [0m                        through logoff(quit) AND reboots. up until you past level 60. (there are[0m
+[02:35] [0m                        some exceptional pieces of equipment that won't save).[0m
+[02:35] [0m[37;1mKirin flaps :[0m yeah, the whole culture surrounding gratiutity/delivery charge and the like is[0m
+[02:35] [0m              very..weird[0m
+[02:37] [0m[37;1mKirin flaps :[0m complicated even more now with the extra 'uber/blah/blah' middlemen you can add[0m
+[02:37] [0m              into the equation[0m
+[02:37] [0m[37;1mSpace flaps :[0m here there is a food delivery service called foodpanda, and they are such[0m
+[02:37] [0m              bastards, they increase prices of items by 20-30% and add a delivery change on[0m
+[02:37] [0m              top, and if you wanna pay the delivery guy thats separate, i mean ffs 25% average [0m
+[02:37] [0m              increase in price is not enough that you need to add a delivery charge +tips[0m
+[02:37] [0m[37;1mHaste flaps :[0m Yeah, that sounds like a way to bilk tourist's customs, while not actually letting[0m
+[02:37] [0m              it benefit their staff. Basically what corporate america does, but instead of 10%[0m
+[02:37] [0m              off your meal, its hundreds of billions.[0m
+[02:38] [0mnewb Chelou [adventurer/5]: well take care everyone! have a good night[0m
+[02:50] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[03:24] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[03:25] [0m[37;1mLeianne flaps :[0m amazing when I get hit over 11k hp in a single round.. not max scaler[0m
+[03:26] [0m[37;1mLeianne flaps :[0m looks like a special attack did the trick: The Spiral Gun fires a swirling ball[0m
+[03:26] [0m                of energy directly at you![0m
+[03:28] [0m[37;1mHaste flaps :[0m ouch[0m
+[04:03] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[04:04] [0m[35;1mHarland [Jedi(5)]:[0m what's energy? I can't find it in info.[0m
+[04:05] [0m[35;1mSeeker [Jedi(79)]:[0m info absorb energy[0m
+[04:06] [0m[35;1mHarland [Jedi(5)]:[0m so the dissipate shields cost this stored energy gained from absorb energy?[0m
+[04:06] [0m[35;1mHarland [Jedi(5)]:[0m I mean dissipate stuff.[0m
+[04:07] [0m[35;1mSeeker [Jedi(79)]:[0m yes[0m
+[04:08] [0m[35;1mHarland [Jedi(5)]:[0m thanks.[0m
+[04:08] [0m[35;1mSeeker [Jedi(79)]:[0m you can also get energy from gfs[0m
+[04:08] [0m[35;1mHarland [Jedi(5)]:[0m gfs?[0m
+[04:09] [0m[35;1mSeeker [Jedi(79)]:[0m greater force shield[0m
+[04:09] [0m[35;1mSeeker [Jedi(79)]:[0m if mob does other then e/b[0m
+[04:09] [0m[35;1mSeeker [Jedi(79)]:[0m damage[0m
+[04:10] [0m[35;1mHarland [Jedi(5)]:[0m Got it, thanks.[0m
+[19:09] [0m[31;1m[Clan] Nameless :[0m couldnt get the other abyssbot to work, but i think i jsut have to rename some[0m
+[19:09] [0m                  commands[0m
+[19:09] [0m[31;1m[Clan] Nameless :[0m so just gonna do a deep dive and see if i die[0m
+[19:09] [0m[31;1m[Clan] Elektra :[0m oo[0m
+[19:09] [0m[37;1mCaeli flaps :[0m We're suppose to get some hellacious rains down South this weekend.[0m
+[19:09] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[19:10] [0m[31;1m[Clan] Decav leaves the game.[0m  [0m
+[19:10] [0m[37;1mDardar flaps :[0m we were supposed to get a "thunder stormy" where I'm at. We intstead got a vague[0m
+[19:10] [0m               rumble of thunder[0m
+[19:10] [0m[37;1mElektra flaps :[0m sounds like the thunder-buddy song is nearing initiation.[0m
+[19:10] [0m[37;1mTychicus flaps :[0m I hear Voodoo getes microbursts in his pants.[0m
+[19:10] [0m[37;1mCaeli flaps :[0m Two weeks into hurricane season. Yiee[0m
+[19:11] [0m[37;1mTychicus flaps :[0m That's really why he don't wear them.[0m
+[19:11] [0m[35;1mMalarkey [Jedi(27)]:[0m anyone around to teach lsc 7 and meditation 9?[0m
+[19:13] [0m[35;1mMalarkey [Jedi(27)]:[0m will check back later[0m
+[19:13] [0m[35;1mDardar [Jedi(36)]:[0m sorry, mine isn't high enough otherwise I would :)[0m
+[19:14] [0m[35;1mTychicus [Jedi(39)]:[0m I can do lsc 7 I think.[0m
+[19:14] [0m[35;1mMalarkey [Jedi(27)]:[0m no worries, i'm going to mow some[0m
+[19:29] [0mDardar <Craft>: my satchel needs a clean out.[0m
+[19:34] [0mNameless <Craft>: byron's bots bonanza has a script for that![0m
+[19:34] [0m[35;1mTychicus [Jedi(39)]:[0m A synonym is a word you use when you can't spell the word you first thought[0m
+[19:34] [0m                     of.[0m
+[19:34] [0mDardar <Craft>: mm, not for my client though I bet![0m
+[19:34] [0m[35;1mDardar [Jedi(36)]:[0m so true[0m
+[19:34] [0mNameless <Craft>: touche[0m
+[19:35] [0m[35;1mTychicus [Jedi(39)]:[0m Kikipopo is the coolest guild wizard ever?[0m
+[19:36] [0m[35;1mAdalius [Jedi(WGM)]:[0m :([0m
+[19:36] [0m[35;1mTychicus [Jedi(39)]:[0m lol[0m
+[19:36] [0m[35;1mTychicus [Jedi(39)]:[0m He's not a guild admin here anymore is he?[0m
+[19:36] [0m[35;1mDardar [Jedi(36)]:[0m feel like those messages needs some updates![0m
+[19:37] [0m[35;1mTychicus [Jedi(39)]:[0m Yeah most of the slackers mentioned don't even log in anymore.[0m
+[19:37] [0m[35;1mTychicus [Jedi(39)]:[0m Except maybe to prevent purging.[0m
+[19:37] [0m[35;1mDardar [Jedi(36)]:[0m ya[0m
+[19:37] [0m[35;1mTychicus [Jedi(39)]:[0m You know there is a problem with the education system when you realize that[0m
+[19:37] [0m                     out of the 3 R's only one begins with an R.[0m
+[19:38] [0m[35;1mTychicus [Jedi(39)]:[0m Star Wars quotes would be more fitting anyway. :O[0m
+[19:39] [0m[35;1mTychicus [Jedi(39)]:[0m Ferret screams at you "Get out of Wexsmuk that's MY CITY!!"[0m
+[19:39] [0m[35;1mTychicus [Jedi(39)]:[0m lol logged out 1 year 12 weeks ago[0m
+[19:40] [0m[31;1m[Clan] Nameless :[0m 30mil demon, not bad but that took forever[0m
+[19:41] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[19:41] [0m[35;1mDardar [Jedi(36)]:[0m oo![0m
+[19:41] [0m[35;1mDardar [Jedi(36)]:[0m I think I need to see her[0m
+[19:42] [0m[35;1mTychicus [Jedi(39)]:[0m cpain[0m
+[19:42] [0m[35;1mDardar [Jedi(36)]:[0m thinks she's has lfs too/[0m
+[19:42] [0m[35;1mTychicus [Jedi(39)]:[0m lfs[0m
+[19:43] [0m[35;1mTychicus [Jedi(39)]:[0m If you use it she has force storm too.[0m
+[19:43] [0m[35;1mDardar [Jedi(36)]:[0m oh. And I have already mastered it. I new that![0m
+[19:44] [0m[35;1mTychicus [Jedi(39)]:[0m When do the changes for jens come into play?[0m
+[19:45] [0m[35;1mTychicus [Jedi(39)]:[0m I don't have the full armor set but it seems the same.[0m
+[19:46] [0m[35;1mTychicus [Jedi(39)]:[0m Well maybe not with fdef so slow now.[0m
+[19:53] [0m[37;1mKirwan flaps :[0m resetting SZ in a few minutes, come to the title screen and let me know if you're[0m
+[19:53] [0m               interested![0m
+[19:56] [0m[37;1mElektra flaps :[0m it would be funny if whenever someone reset a dungeon, anyone in that dungeon[0m
+[19:56] [0m                got kicked out as well.[0m
+[20:07] [0m[35;1mTychicus [Jedi(39)]:[0m RAGEQUIT[0m
+[20:09] [0m[37;1mDamien flaps :[0m bloop[0m
+[20:09] [0m[37;1mDamien flaps :[0m so how do I quit my clan so I can wipe?[0m
+[20:10] [0m[37;1mNameless flaps :[0m CQUIT all caps i think[0m
+[20:15] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[20:44] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[20:49] [0m[31;1m[Clan] Archimedes :[0m Woo![0m
+[20:50] [0m[34;1mVash shouts:[0m nice![0m
+[20:50] [0m[34;1mHooligan shouts:[0m wook[0m
+[20:50] [0m[34;1mAkir shouts:[0m WHAT DID YOU CALL ME[0m
+[20:51] [0m[31;1m[Clan] Archimedes :[0m It's all that damage you bring. :)[0m
+[20:51] [0m[31;1m[Clan] Archimedes :[0m w/l[0m
+[21:05] [0m[37;1mNauda flaps :[0m secz reset in 1 min[0m
+[23:20] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[23:35] [0m[35;1mKirin [Jedi(50)]:[0m The dog tore Zombie's jugular out! {448} Doggo go arf.[0m
+[23:35] [0m[35;1mKirin [Jedi(50)]:[0m avg damage is still hilariously pitiful though.[0m
+[23:50] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m

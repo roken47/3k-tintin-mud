@@ -1,0 +1,14 @@
+#class {bot} {open}
+#var {areaname} {Dundee2}
+#var {botpath} {e;e;n;n;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;n;n;w;w;w;w;w;w;w;w;w}
+#act {^[MoNSTaR]{Mature Swamp Crocodile|Great Egret|Salamander|Crane|Anaconda}}
+{
+#if {"%1" == "Mature Swamp Crocodile"} {#var mobname crocodile};
+#if {"%1" == "Great Egret"} {#var mobname egret};
+#if {"%1" == "Salamander"} {#var mobname salamander};
+#if {"%1" == "Crane"} {#var mobname crane};
+#if {"%1" == "Anaconda"} {#var mobname snake};
+_check_mob
+} {6};
+#class {bot} {close}
+#read bots/generic.tin

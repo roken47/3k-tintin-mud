@@ -1,0 +1,22 @@
+#class {botlist} {kill};#class {botlist} {open}
+#alias {- %1} {#read bots/%1.tin}
+/*
+#alias {-mahjbot} {#read bots/mahjbot.tin}
+#alias {-smurfbot} {#read bots/smurfbot.tin}
+#alias {-spiderbot} {#read bots/spiderbot.tin}
+#alias {-letterbot} {#read bots/letterbot.tin}
+#alias {-polbot} {#read bots/polbot.tin}
+#alias {-sewerbot} {#read bots/sewerbot.tin}
+#alias {-chessbot} {#read bots/chessboard.tin}
+#alias {-chessbot2} {#read bots/chessboard2.tin}
+#alias {-grocbot} {#read bots/grocery.tin}
+#alias {-aegisbot} {#read bots/aegis1.tin}
+#alias {-aegis5bot} {#read bots/aegis5.tin}
+#alias {-aegis6bot} {#read bots/aegis6.tin}
+#alias {-crystalbot} {#read bots/crystals.tin}
+#alias {-whorebot} {#read bots/whorebot.tin}
+#alias {-truckbot} {#read bots/truck.tin}
+#alias {-minebot} {#read common/crafting/miner.tin}
+#alias {-puppybot} {#read bots/puppybot.tin}
+*/
+#class {botlist} {close}

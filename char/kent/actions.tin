@@ -1,0 +1,15 @@
+#class {actions} {kill}
+#class {actions} {open}
+
+#act {dealt the killing blow to} {corpsetrig};
+
+#act {^You are fully rejuvenated and thus exit your trance.} {focus meditation};
+#act {^You have no need to enter a restorative trance.} {focus meditation};
+#act {^You stir from your meditation, the sense of calm lost.} {focus meditation};
+#act {^You abruptly exit your hibernation trance.} {focus hibernation trance for on};
+#act {^You must rest a moment to attain the proper mindset} {#delay {4} {focus hibernation trance for on}};
+#act {^You have no need to meditate.} {.bot};
+#act {^Your meditation has cleared your thoughts} {.bot};
+#act {^You have no need to enter a hibernation trance.} {focus meditation};
+
+#class {actions} {close}

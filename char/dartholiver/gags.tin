@@ -1,0 +1,61 @@
+#NOP // Gags
+#substitute {^-R-_} {}
+#gag {^Your muscles ripple and bulge with power.$}
+#gag {^You feel your body and mind relax a little.$}
+#gag {^Your body is wracked in pain as the life force is sucked from you.$}
+#gag {^There is no reason to 'attempt_enervate' here.$}
+#gag {^>$}
+#gag {^$}
+#gag {^Pressure Point attack whom?$}
+#gag {^Quivering Palm who?$}
+
+/* Item Gags */
+#NOP Zelligar's Headband
+#gag {^Zelligar's Headband warms you with a radiant glow.$}
+
+#NOP Cocoon
+#gag {^The sticky cocoon absorbs part of the attack!$}
+#gag {^The cocoon fuses with the attack and grows stronger!$}
+
+/* Profession Gags */
+#NOP Assassin
+#gag {Your insidious inspiration flows through you as you make the most of each attack!}
+#gag {Your insidious inspiration fades.}
+
+#NOP Big Game Hunter
+#gag {Your crazed ambition overflows!}
+#gag {Your ambition overflows as you try to bring down the big game with a spell!}
+#gag {Your wild ambition drives you ever onward!}
+#gag {Your wild ambition takes a back seat to prudence.}
+
+#NOP Tactician
+#gag {You outfox your opponent and take advantage of it!}
+#gag {You press your advantage on your outsmarted foe!}
+#gag {Your tactical advantage ends.}
+
+#NOP Magician
+#gag {^The energies of the magical nexus empower you!$}
+#gag {^The shabby black top hat belches forth magical nexus that fuels your attacks!$}
+#gag {^With a POP the magical nexus snaps shut.$}
+#gag {^A flash of insidious insight strikes you!$}
+
+/* Mskills */
+#NOP Critical Hit
+#gag {You critically hit }
+#gag {^{[THWACK*]+ You critically hit}}
+
+#NOP Penetrate
+#gag {You drive your attack past %*'s resistances!}
+
+/* Misc Gags */
+#gag {^Your situational awareness allows you to find a weak spot in}
+#gag {^You strike }
+#gag {^You don't need to convert at this time!$}
+#gag {^{Cancer says:}%*}
+#gag {^Your shield blocks}
+#gag {^You restore your health by tapping into the flux.$}
+
+
+#NOP // MUD Side
+!gs
+!method phoenix

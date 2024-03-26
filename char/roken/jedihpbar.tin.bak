@@ -1,0 +1,22 @@
+#class {jedihpbar} {open}
+#act {%1 HP: %2/%3 SP: %4/%5 C: %6% F: %7% D: %8 M: %9 C: %10% T: %11} {
+	#var my[powers] %1;
+        #var my[hpcur] %2;
+        #var my[hpmax] %3;
+        #var my[spcur] %4;
+        #var my[spmax] %5;
+        #var my[conc] %6;
+        #var my[force] %7;
+        #var my[diss] %8;
+        #var my[mode] %9;
+	#var my[chrg] %10;
+        #var my[target] %11;
+#nop        heartbeat;
+        }
+
+
+
+#class {jedihpbar} {close};
+
+
+#nop focus hpconfigure /#dfHP: #hp/#mhp SP: #sp/#msp C: #c F: #f D: #dn M: #sm C:#%c T: #es

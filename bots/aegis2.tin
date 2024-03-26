@@ -1,0 +1,23 @@
+#class {bot} {open}
+
+#var {botpath} {w;n;e;w;w;s;w;w;n;w;s;w;n;w;e;s;s;w;s;e;s;s;e;e;s;n;e;e;s;e;n;n;w;w;e;e;e;n;e;n;w;n}
+
+#act {^[MoNSTaR]{Aegis Sentry Model 62-CC|Wounded zombie|Rotting zombie|Bloody zombie|Faceless zombie|Vomit-splattered zombie}}
+ {
+  #if {"Wounded zombie"=="%1"} {#var mobname zombie};
+  #if {"Rotting zombie"=="%1"} {#var mobname zombie};
+  #if {"Bloody zombie"=="%1"} {#var mobname zombie};
+  #if {"Faceless zombie"=="%1"} {#var mobname zombie};
+  #if {"Vomit-splattered zombie"=="%1"} {#var mobname zombie};
+  #if {"Aegis Sentry Model 62-CC"=="%1"} {#var mobname sentry};
+  _check_mob
+ }
+#act {#END OF PAT} {
+	killbot;
+	aegis23;
+	#read bots/aegis3.tin;
+	#act {-R-_Aegis Global - Level 3} {..;#unact {-R-_Aegis Global - Level 3} {1}};
+	} {1}
+#class {bot} {close}
+#read bots/generic.tin
+

@@ -1,0 +1,887 @@
+- = LOG STARTED [00:00] = -
+[00:05] [0m[35;1mLicklick [Jedi(34)]:[0m 69 max dsp[0m
+[00:07] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[00:07] [0mYou can currently reforge 8 items.[0m
+[00:11] [0m[34;1mBoosh shouts:[0m shhh making too much noise[0m
+[00:16] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[00:38] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[00:38] [0m[34;1mHyuga shouts:[0m licklick can't get it up[0m
+[00:39] [0m[34;1mHyuga shouts:[0m thats why he licks twice[0m
+[01:05] [0m[35;1mBurnaby [Jedi(54)]:[0m kinda difficult to dis shields when you aint got no NRG[0m
+[01:06] [0m[35;1mBurnaby [Jedi(54)]:[0m oh holy heck that was not planned[0m
+[01:06] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[01:07] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[01:07] [0mYou can currently reforge 12 items.[0m
+[01:08] [0m[35;1mBurnaby [Jedi(54)]:[0m nbk nbd[0m
+[01:12] [0mDin {Professions}: ok, how do you get colors in your transmuter stone?  am i[0m
+[01:12] [0m                   missing a help file somewhere?[0m
+[01:13] [0mSimonz {Professions}: they regen a few every hour[0m
+[01:13] [0mDin {Professions}: so just wait..?[0m
+[01:14] [0mXiu {Professions}: yeah, much like with reforger ect[0m
+[01:14] [0mSimonz {Professions}: yup, and the regen smount is random, 2-7 or so[0m
+[01:15] [0mDin {Professions}: and when it says you don't have the materials to[0m
+[01:15] [0m                   transmute that, is it just colors or is there anything[0m
+[01:15] [0m                   else required?[0m
+[01:15] [0mXiu {Professions}: just need the colours and whatever the thing is you're[0m
+[01:15] [0m                   transmuting into something else[0m
+[01:15] [0mDin {Professions}: ok, thanks[0m
+[01:16] [0mSimonz {Professions}: also, your level determines what you can trsnsmute,[0m
+[01:16] [0m                      theres a page on the wiki[0m
+[01:16] [0mCaboose {Professions}: that message means you don't have the right amount of[0m
+[01:16] [0m                       the crafting mats you're attempting to change, if[0m
+[01:16] [0m                       you're out of enough colors, you get a 'That requires[0m
+[01:16] [0m                       the magick of X colors' message[0m
+[01:16] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[01:17] [0mDin {Professions}: was trying to improve quality of 50 steel bars[0m
+[01:18] [0mSimonz {Professions}: cant improve bars, have to improve the ore before you[0m
+[01:18] [0m                      smelt[0m
+[01:18] [0mDin {Professions}: ah, ok[0m
+[01:19] [0m[34;1mJasmine shouts:[0m Woo![0m
+[01:19] [0mRictor {Professions}: pretty sure i have impoved bars, plvl?[0m
+[01:20] [0mXiu {Professions}: you'll need to start with copper because transmutes are[0m
+[01:20] [0m                   limited by prof level using the same rules as crafting[0m
+[01:20] [0m                   (ie need level 7 for bronze stuffs, 10 for iron ect)[0m
+[01:21] [0mSimonz {Professions}: that may be true rictor, i might have tried it when my[0m
+[01:21] [0m                      level wasnt enough and havent tried it since[0m
+[01:22] [0m[35;1mUkyo [Jedi(76)]:[0m guess i should have taken my ring of invisibility off for[0m
+[01:22] [0m                 Inquisitor to get that training he needed. thanks Simonz.[0m
+[01:23] [0m[35;1mSimonz [Jedi(58)]:[0m lol, np[0m
+[01:24] [0mUkyo {Professions}: Hi ho, hi ho ... it's off to work I go.[0m
+[01:38] [0mDin {Professions}: ok, tried to transmute 13 superior copper ore to[0m
+[01:38] [0m                   legendary and got the same message.  do not have hte[0m
+[01:38] [0m                   right materials[0m
+[01:38] [0mAsp {Professions}: 'transmute all copper ore quality to legendary'[0m
+[01:39] [0mAsp {Professions}: assuming ore is transmuteable?[0m
+[01:39] [0mDin {Professions}: bingo, thank you.  finally got a different message.  need[0m
+[01:39] [0m                   magick from 11 colours[0m
+[01:40] [0mDin {Professions}: same message for bars, btw[0m
+[01:43] [0mZokko {Professions}: i never put all. i just do "transmute copper ore[0m
+[01:43] [0m                     quality to legendary" and let it figure it out. it will[0m
+[01:43] [0m                     tell you how much of each it xmuted[0m
+[01:44] [0mAsp {Professions}: it smart-picks the ore so no wastage?[0m
+[01:44] [0mZokko {Professions}: well it starts from the bottom and goes up[0m
+[01:45] [0mDin {Professions}: is the min # static or skill based?[0m
+[01:45] [0mZokko {Professions}: check the message when you do it to see how many of[0m
+[01:45] [0m                     each quality got xmuted[0m
+[01:45] [0mAsp {Professions}: skill breakpoint at 50[0m
+[01:45] [0mAsp {Professions}: nog, will have to try that out[0m
+[01:49] [0m[5m[1m[44mYour lightsaber begins to flicker and the handle warms![0m[0m                 [0m
+[01:51] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[01:52] [0m[5m[1m[44mYour lightstaff begins to flicker and the handle warms![0m[0m                 [0m
+[02:01] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[02:04] [0m[35;1mHyuga [Jedi(91)]:[0m why do you like being invisible so much?[0m
+[02:04] [0m[35;1mHyuga [Jedi(91)]:[0m just prying[0m
+[02:05] [0m[35;1mUkyo [Jedi(76)]:[0m i'm a very private individual.[0m
+[02:05] [0m[35;1mHyuga [Jedi(91)]:[0m nod[0m
+[02:05] [0m[35;1mHyuga [Jedi(91)]:[0m good talk[0m
+[02:06] [0m[35;1mHyuga [Jedi(91)]:[0m i literally joined fremen for hide. before i played 3k my[0m
+[02:06] [0m                  buddy told mr they could hide and i wasblike. yep[0m
+[02:07] [0m[35;1mHyuga [Jedi(91)]:[0m 20 years later[0m
+[02:07] [0m[35;1mUkyo [Jedi(76)]:[0m heh, i loved hide.[0m
+[02:07] [0m[35;1mUkyo [Jedi(76)]:[0m used to use it all the time.[0m
+[02:07] [0m[35;1mAsp [Jedi(38)]:[0m Make Fremen Great Again![0m
+[02:07] [0m[35;1mHyuga [Jedi(91)]:[0m i found tho, in the endnit caused more problems than it[0m
+[02:07] [0m                  solved[0m
+[02:07] [0m[35;1mUkyo [Jedi(76)]:[0m i was a pure fremen, though. everyone else joined a sub[0m
+[02:07] [0m                 guild, and i stayed true fremen.[0m
+[02:07] [0m[35;1mAsp [Jedi(38)]:[0m always surprised there was no rogue/thief guild[0m
+[02:08] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[02:08] [0mYou can currently reforge 12 items.[0m
+[02:08] [0m[35;1mHyuga [Jedi(91)]:[0m i was pure for 10 years till they dged maula bonus for[0m
+[02:08] [0m                  pures[0m
+[02:08] [0m[35;1mHyuga [Jedi(91)]:[0m maula cannon baby[0m
+[02:08] [0m[35;1mUkyo [Jedi(76)]:[0m i think i remember that, vaguely, that was around the time[0m
+[02:08] [0m                 that jedi reopened and i became a jedi[0m
+[02:09] [0m[35;1mHyuga [Jedi(91)]:[0m Your shot fucked up *blah*. is still my favorite dmg emote[0m
+[02:09] [0m[35;1mHyuga [Jedi(91)]:[0m leaving pools of blood everywhere[0m
+[02:09] [0m[35;1mHyuga [Jedi(91)]:[0m and vomit too[0m
+[02:09] [0m[35;1mHyuga [Jedi(91)]:[0m pretty classy stuff[0m
+[02:10] [0m[35;1mHyuga [Jedi(91)]:[0m yeah i also left because the guild was closed[0m
+[02:10] [0m[35;1mHyuga [Jedi(91)]:[0m last guild other than witches to be closed due to OPBSness[0m
+[02:11] [0m[35;1mHyuga [Jedi(91)]:[0m thankfully... they still have that emote for maula :p[0m
+[02:12] [0m[35;1mUkyo [Jedi(76)]:[0m Heh. (This 'Heh.' brought to you by the AlerikHehBot)[0m
+[02:12] [0m[35;1mHyuga [Jedi(91)]:[0m i think at this point aside from maybe monks still have a[0m
+[02:12] [0m                  stock emote with fword[0m
+[02:13] [0m[35;1mHyuga [Jedi(91)]:[0m still the only ones left*[0m
+[02:15] [0m[34;1mHyuga shouts:[0m simonz rules[0m
+[02:16] [0m[32;1mFrom afar, you bestow your blessings upon Ser.[0m[0m
+[02:17] [0mHyuga flaps : vaginas[0m
+[02:17] [0mFluffy flaps : alotta[0m
+[02:17] [0mRoken flaps : allura[0m
+[02:23] [0m[34;1mFluffy shouts:[0m bed time![0m
+[02:23] [0m[34;1mHyuga shouts:[0m *snore*[0m
+[02:25] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[02:26] [0mHyuga <Craft>: is unstash2 broken?[0m
+[02:27] [0mHyuga <Craft>: hmm. nm[0m
+[02:29] [0mUkyo <Craft>: remembered that it requires a number?[0m
+[02:30] [0mHyuga <Craft>: i was missing 'all'[0m
+[02:36] [0mRoken <Craft>: handy script on necro wiki[0m
+[02:37] [0mUkyo <Craft>: for?[0m
+[02:38] [0mHyuga <Craft>: i believe it is for spamming the F out of everyone[0m
+[02:39] [0mRoken <Craft>: unstash2 dum dum[0m
+[02:40] [0mUkyo <Craft>: what would you need a script for? i thought that was the whole[0m
+[02:40] [0m              point of unstash2, so that you don't have to script pulling[0m
+[02:40] [0m              out large quantities of stuffs?[0m
+[02:41] [0mRoken <Craft>: uh i type "sl" and it pulls automagically things that can[0m
+[02:41] [0m               combine and dumps "weak" quality items into your inventory[0m
+[02:41] [0m               set your limit[0m
+[02:42] [0mRoken <Craft>: combined things auto go back into satchel[0m
+[02:44] [0mHyuga <Craft>: wtf is this voodoo black magic[0m
+[02:44] [0mUkyo <Craft>: yea, already wrote one of those myself.[0m
+[02:45] [0mHyuga <Craft>: its not crafting if it isn't a pain in my ass[0m
+[02:45] [0mRoken <Craft>: lawl copied pasted from that wiki. script does use unstash2[0m
+[02:51] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[03:08] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[03:08] [0mYou can currently reforge 12 items.[0m
+[03:26] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[03:30] [0m[34;1mVagrant shouts:[0m H YU UUGUGUG A[0m
+[03:30] [0mVagrant flaps : HYAUAUAU[0m
+[03:58] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[04:00] [0m[34;1mJasmine shouts:[0m DIRTY FILTHY MEMORY![0m
+[04:00] [0m[34;1mUkyo shouts:[0m You know you like it.[0m
+[04:00] [0m[34;1mHyuga shouts:[0m I like... dirty filthy things.[0m
+[04:00] [0m[34;1mVagrant shouts:[0m i Like Hyuga[0m
+[04:09] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[04:09] [0mYou can currently reforge 4 items.[0m
+[04:13] [0m[34;1mHyuga shouts:[0m nice arch foe[0m
+[04:14] [0m[35;1mHyuga [Jedi(91)]:[0m whee. fun![0m
+[04:14] [0m[34;1mHooligan shouts:[0m i thought paul in normal simpsons was a bit smaller...[0m
+[04:15] [0m[34;1mUkyo shouts:[0m are you sure you were in normal simpsons?[0m
+[04:15] [0m[34;1mHyuga shouts:[0m he is. by like 1.69m[0m
+[04:15] [0m[34;1mHooligan shouts:[0m never been in 2.0 before[0m
+[04:15] [0m[34;1mHyuga shouts:[0m oh did i say million? i mean BILLION[0m
+[04:15] [0m[34;1mUkyo shouts:[0m I guess the string was getting abused too much, so it had to be[0m
+[04:15] [0m             . . . protected.[0m
+[04:16] [0m[34;1mHyuga shouts:[0m nod. string hoarders apparently have been slacking off after[0m
+[04:16] [0m              20 years[0m
+[04:17] [0m[34;1mHooligan shouts:[0m probably havent been in simpsons in 20 years[0m
+[04:17] [0m[34;1mHyuga shouts:[0m funny. string 2.0 hoarding is a much lauded and beloved thing.[0m
+[04:17] [0m              as opposed to those dirty bastards that hold string 1.0 who[0m
+[04:17] [0m              should be strung up by their balls and stabbed[0m
+[04:22] [0m[34;1mHooligan shouts:[0m yep. apparently that was 2.0. lol[0m
+[04:22] [0m[34;1mHooligan shouts:[0m learn something every day[0m
+[04:24] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[04:33] [0m[35;1mRoken [Jedi(52)]:[0m so learning new things on info files. levitate? That to[0m
+[04:33] [0m                  carry something could bind to you with purpose giving it?[0m
+[04:34] [0m[35;1mUkyo [Jedi(76)]:[0m negative[0m
+[04:34] [0m[35;1mRoken [Jedi(52)]:[0m trying to find appendix on robotics skills. ok why[0m
+[04:34] [0m                  levitate?[0m
+[04:35] [0m[35;1mUkyo [Jedi(76)]:[0m ok, there's two versions. levitate self, which is not to be[0m
+[04:35] [0m                 mistaken for 'flying', and levitate items into self, if you[0m
+[04:35] [0m                 are flying.[0m
+[04:35] [0m[35;1mUkyo [Jedi(76)]:[0m however, levitating items only works on items that have[0m
+[04:35] [0m                 weight.[0m
+[04:35] [0m[35;1mUkyo [Jedi(76)]:[0m also, telekinesis has an impact on the darkside skill[0m
+[04:35] [0m                 launch item.[0m
+[04:35] [0m[35;1mUkyo [Jedi(76)]:[0m at least, i think it does[0m
+[04:57] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[05:10] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[05:10] [0mYou can currently reforge 8 items.[0m
+[05:26] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[05:56] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[06:10] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[06:10] [0mYou can currently reforge 12 items.[0m
+[06:27] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[06:47] [0m[34;1mScaf shouts:[0m Hail Sagan![0m
+[07:02] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[07:11] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[07:11] [0mYou can currently reforge 12 items.[0m
+[07:36] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[07:42] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:42] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:43] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:43] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:43] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:43] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:44] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:45] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:45] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:45] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:45] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:46] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:46] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:46] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:46] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:47] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:47] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:48] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:48] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:48] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:49] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:49] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:49] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:50] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:50] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:51] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:51] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:52] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:52] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:52] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:53] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:53] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:53] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:53] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:54] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:54] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:54] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:54] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:55] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:55] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:55] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:55] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:55] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:56] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:57] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:57] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:57] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:58] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:58] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:58] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:58] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:58] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[07:58] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:59] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[07:59] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:00] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:00] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:00] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:00] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:00] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:01] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:01] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:01] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[08:04] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:04] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:05] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:05] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:05] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:06] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:06] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:06] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:07] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:07] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:07] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:07] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:07] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:07] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:07] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:08] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:08] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:09] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:10] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:10] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:10] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:10] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:10] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:10] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:10] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:11] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:11] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:11] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:12] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:12] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:13] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:13] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:14] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:14] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:14] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:15] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:17] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:17] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:17] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:17] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:18] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:18] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:18] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:18] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:19] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:19] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:19] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:19] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:20] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:20] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:20] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:20] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:21] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:21] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:21] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:22] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:22] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:22] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:22] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:23] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:23] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:24] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:24] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:25] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:25] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:26] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:26] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:26] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:26] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:26] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:27] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[08:27] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:27] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:27] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:28] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:28] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:29] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:30] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:30] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:30] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:31] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:31] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:32] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:32] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:32] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:32] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:32] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:32] [0m[35;1mTakitaki [Jedi(13)]:[0m I've been in this stupid guild for over THREE WEEKS and[0m
+[08:32] [0m                     I *still* can't kill the undead knight![0m
+[08:32] [0m[35;1mTakitaki [Jedi(13)]:[0m RAGEQUIT[0m
+[08:32] [0m[35;1mTakitaki [Jedi(13)]:[0m RAGEQUIT[0m
+[08:33] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:33] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:33] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:33] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:33] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:34] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:34] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:34] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:35] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:35] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:35] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:36] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:36] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:37] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:37] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:37] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:39] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:39] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:40] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:40] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:40] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:40] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:41] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:41] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:41] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:41] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:41] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:42] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:42] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:42] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:42] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:42] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:42] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:43] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:43] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:44] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:44] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:44] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:44] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:45] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:45] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:45] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:45] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:45] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:45] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:46] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:47] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:47] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:47] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:48] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:48] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:48] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:48] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:49] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:49] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:49] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:50] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:50] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:50] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:50] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:51] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:51] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:51] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:52] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:52] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:53] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:53] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:54] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:54] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:54] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:54] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:54] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:54] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:55] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:55] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:56] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:56] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:56] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:56] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:57] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:57] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:57] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[08:58] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[08:59] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[08:59] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:00] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:00] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:01] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:02] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:02] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:03] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:03] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:05] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:05] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:05] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:05] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:05] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:06] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:06] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:06] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:06] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:06] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:06] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:07] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:07] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:07] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:08] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:08] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:08] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:08] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:08] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:08] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:09] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:09] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:09] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:09] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:10] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:10] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:10] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:11] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:11] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:12] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:12] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:13] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:13] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:13] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[09:13] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[09:13] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[12:58] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[12:59] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[12:59] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[12:59] [0m[32mSmurfette says: [0mYou look very tired, come lay down with me.[0m
+[12:59] [0m[32mSmurfette says: [0mLet me massage those worries away.[0m
+[13:00] [0m[32;1mFrom afar, Simonz bows before you.[0m[0m
+[13:01] [0mYou can currently reforge 12 items.[0m
+[13:01] [0m[32;1mFrom afar, you wave in greeting to Simonz.[0m[0m
+[13:21] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[13:35] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[13:35] [0mYou can currently reforge 4 items.[0m
+[13:47] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[14:00] [0m[35;1mBurnaby [Jedi(54)]:[0m yo![0m
+[14:00] [0m[35;1mChaed [Jedi(AGM)]:[0m oy[0m
+[14:04] [0m[35;1mSimonz [Jedi(58)]:[0m oh hi![0m
+[14:11] [0md  Wm:g Wc: 15% Gx: 44.26% Fx: 38.23%[0m
+[14:15] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[14:43] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[14:48] [0m[34;1mFlaxen shouts:[0m gnert[0m
+[14:49] [0m[34;1mLeto shouts:[0m yes[0m
+[14:49] [0m[34;1mVagrant shouts:[0m gnertr[0m
+[15:07] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[15:22] [0m[34;1mKichi shouts:[0m woo![0m
+[15:22] [0m[34;1mNix shouts:[0m wooo[0m
+[15:28] [0mDy flaps : Super chunky peanut butter, with extra rocks![0m
+[15:31] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[15:42] [0m[34;1mTomfoolery shouts:[0m are sturdy kevlar boots a bard artifact?[0m
+[15:42] [0m[34;1mPiriform shouts:[0m Yes[0m
+[15:43] [0m[34;1mTomfoolery shouts:[0m thanks, dropped at bard guild[0m
+[15:44] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[15:44] [0mYou can currently reforge 8 items.[0m
+[15:46] [0m[34;1mZor shouts:[0m woo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![0m
+[15:52] [0mYou can currently reforge 8 items.[0m
+[15:54] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[15:56] [0mDin {Professions}: woo, first transmute.  changed 13 superior copper ores to[0m
+[15:56] [0m                   legendary, but didn't get pxp...?[0m
+[15:56] [0mNauda {Professions}: exa ore, it has minimal level, that is only level it[0m
+[15:56] [0m                     gives pxp, I guess level 2[0m
+[15:57] [0mNauda {Professions}: I have been harassing Flaxen about fact that ore has[0m
+[15:57] [0m                     only 1 level it gives pxp for a while to no avail[0m
+[15:58] [0mSimonz {Professions}: probably because it would be too easy to pxp off of[0m
+[15:58] [0m                      that[0m
+[15:58] [0mAsp {Professions}: would definitely be cheatmode activated[0m
+[15:59] [0mDin {Professions}: i'm at 1 00%[0m
+[15:59] [0mNauda {Professions}: 100%? maybe you are at 99%?[0m
+[15:59] [0mDin {Professions}: level 1, 0%[0m
+[16:00] [0mAsp {Professions}: copper shards would have given you a couple of levels[0m
+[16:00] [0mNauda {Professions}: yeah, level one, only jewels give pxp[0m
+[16:00] [0mDin {Professions}: ok[0m
+[16:00] [0mNauda {Professions}: aquamarine/dust copper shards morganite/dust tiger's[0m
+[16:00] [0m                     eye/dust[0m
+[16:01] [0m[32mSimonz tells you:[0m hey, can you reforge something for me?[0m
+[16:03] [0m[32mYou tell Simonz:[0m sure. there a syntax file you know of?[0m
+[16:03] [0mYou can currently reforge 8 items.[0m
+[16:03] [0mYou can currently reforge 8 items.[0m
+[16:04] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[16:04] [0m[32mSimonz tells you:[0m a syntax file?[0m
+[16:05] [0m[32mYou tell Simonz:[0m got it. what you need me to do it?[0m
+[16:05] [0mNauda {Professions}: transmute all is a risky stuff, can easly waste 3[0m
+[16:05] [0m                     superiors, if you have for example 7 supperiors worth[0m
+[16:05] [0m                     of jewels/hearts and superior to legendary is 4:1 so[0m
+[16:05] [0m                     you get 7:1[0m
+[16:06] [0m[32mSimonz tells you:[0m moving fire damage to smd[0m
+[16:06] [0mYou can currently reforge 8 items.[0m
+[16:07] [0m[32mYou tell Simonz:[0m ok. would you happen to understand <amount> [top tier[0m
+[16:07] [0m        amount] loads (plev 1, 10, 35, and 65)[0m
+[16:07] [0mYou can currently reforge 8 items.[0m
+[16:08] [0mDisruptor {Professions}: i only xmute all to superior[0m
+[16:09] [0mAsp {Professions}: i unstash what i'm going to transmute personally, rather[0m
+[16:09] [0m                   than carrying extra. But yeah need to be aware of what's[0m
+[16:09] [0m                   in your inventory[0m
+[16:09] [0m[32mYou tell Simonz:[0m  transfer fire dmg to smb <little> <some> <lots> <loads>[0m
+[16:09] [0m[32mSimonz tells you:[0m when you're trying to reforge?[0m
+[16:09] [0m[32mSimonz tells you:[0m should be reforge armour loads fire to defense[0m
+[16:10] [0m[32mSimonz tells you:[0m at cog[0m
+[16:10] [0m[32mYou tell Simonz:[0m ya ya. alright how much do you want it transferred?[0m
+[16:10] [0m        <loads> has several tiers..[0m
+[16:11] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:11] [0m[32mSimonz tells you:[0m oh....i never got that high, so I don't know.  transfer[0m
+[16:11] [0m        as much as you can, I'm trying to get the AC down so I can[0m
+[16:11] [0m        transmute it[0m
+[16:12] [0mYou can currently reforge 8 items.[0m
+[16:16] [0mYou can currently reforge 8 items.[0m
+[16:17] [0m[32mYou tell Simonz:[0m ·[0m
+[16:18] [0m[32mYou tell Simonz:[0m reforge armour of the elements lots fire defense[0m
+[16:18] [0m[32mYou tell Simonz:[0m why doesn't that work?[0m
+[16:19] [0m[32mSimonz tells you:[0m try just reforge armour lots fire defense[0m
+[16:22] [0m[32mYou tell Simonz:[0m that worked thanks. you should have it[0m
+[16:22] [0m[32;1mFrom afar, Simonz thanks you.[0m[0m
+[16:22] [0mYou can currently reforge 5 items.[0m
+[16:26] [0mYou can currently reforge 2 items.[0m
+[16:26] [0mYou can currently reforge 2 items.[0m
+[16:33] [0m[34;1mBoosh shouts:[0m pork loins grill and marinate using sweet baby rays barbeque[0m
+[16:33] [0m              sauce 1000 island dressing warshire sauce red pepper and[0m
+[16:33] [0m              onions white rice with butter and cream of kern nom nom mouth[0m
+[16:33] [0m              drooling yet?[0m
+[16:39] [0m[35;1mSimonz [Jedi(58)]:[0m doh[0m
+[16:39] [0m[32mSimonz tells you:[0m that was fast...[0m
+[16:39] [0m[34;1mKitt shouts:[0m Nope! Famous Daves BBQ FTW[0m
+[16:39] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[16:39] [0m[35;1mDy [Jedi(71)]:[0m Nobody home.[0m
+[16:39] [0m[35;1mUkyo [Jedi(76)]:[0m just a golem. move along. move along.[0m
+[16:39] [0m[34;1mBoosh shouts:[0m never herd of him so he is not famous[0m
+[16:39] [0m[32mYou tell Simonz:[0m the danger of flurry[0m
+[16:40] [0m[32mSimonz tells you:[0m ahhh....yeah, that'll do it[0m
+[16:40] [0m[34;1mVagrant shouts:[0m famous daves pretty dope, use to freqent one a long time ago[0m
+[16:40] [0m[32mYou tell Simonz:[0m normally do 92 zel now... this was 85 zel[0m
+[16:41] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:41] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:47] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[16:47] [0mYou can currently reforge 4 items.[0m
+[16:55] [0m[34;1mLeto shouts:[0m papa johns spicy italian sausage, pepperoni, and pineapple.[0m
+[16:55] [0m             WIN![0m
+[16:55] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:56] [0m[34;1mYik shouts:[0m playcult if youre winning[0m
+[16:57] [0m[34;1mUkyo shouts:[0m "You have already joined this game."[0m
+[16:58] [0m[32mYou tell Simonz:[0m it was 0% conc[0m
+[16:59] [0m[34;1mKitt shouts:[0m NOOOO Quit 3k while you can[0m
+[16:59] [0m[34;1mUkyo shouts:[0m too late.[0m
+[16:59] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:59] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:00] [0m[34;1mBoosh shouts:[0m if you are seeing this message dont play cult dont collect 200[0m
+[17:00] [0m              dollars go directly to killing[0m
+[17:00] [0m[34;1mLeto shouts:[0m sings, "Welcome to hotel cali-3k... such a lovely place..."[0m
+[17:02] [0m[34;1mHooligan shouts:[0m welcome to the hotel transylvania.... such an undead[0m
+[17:02] [0m                 place....where they eat your face...[0m
+[17:03] [0m[34;1mLeto shouts:[0m lol :D[0m
+[17:03] [0m[34;1mHooligan shouts:[0m dang. missed my calling. should have been a bard. hehe[0m
+[17:04] [0m[34;1mBoosh shouts:[0m can't they see its why keep us locked up in this game my 3k is[0m
+[17:04] [0m              my reality just leave me alone[0m
+[17:06] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:10] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:11] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[17:12] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:15] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:19] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:22] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:26] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:29] [0m[35;1mHyuga [Jedi(91)]:[0m laf i never noticed levitate before. thats kinda neat[0m
+[17:29] [0m[35;1mUkyo [Jedi(76)]:[0m for self or items into inventory/bag?[0m
+[17:29] [0m[35;1mHyuga [Jedi(91)]:[0m yeah[0m
+[17:29] [0m[35;1mSimonz [Jedi(58)]:[0m wait, you can levitate an item into a bag?[0m
+[17:30] [0m[35;1mUkyo [Jedi(76)]:[0m info levitate. into conatianer[0m
+[17:30] [0m[35;1mHyuga [Jedi(91)]:[0m nod i read it[0m
+[17:30] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:30] [0m[35;1mHyuga [Jedi(91)]:[0m does it change enter/ exit msgs? assuming you aren't hm[0m
+[17:31] [0m[35;1mUkyo [Jedi(76)]:[0m since the bug has been fixed, it's now considered[0m
+[17:31] [0m                 declassified. that was what i'd gbugged adalius about here[0m
+[17:31] [0m                 a short while back, simonz.[0m
+[17:31] [0m[35;1mUkyo [Jedi(76)]:[0m not sure. don't think so[0m
+[17:31] [0m[35;1mSimonz [Jedi(58)]:[0m oh[0m
+[17:32] [0m[35;1mHyuga [Jedi(91)]:[0m declassified eh?[0m
+[17:32] [0m[35;1mHyuga [Jedi(91)]:[0m was it a hidden ability prior?[0m
+[17:33] [0m[35;1mUkyo [Jedi(76)]:[0m yea, before i put in the bug report, we were able to[0m
+[17:33] [0m                 levitate more than our normal carry weight into self. he[0m
+[17:33] [0m                 saw and found the problem pdq, and it works as intended[0m
+[17:33] [0m                 now.[0m
+[17:33] [0m[35;1mUkyo [Jedi(76)]:[0m not hidden, just obscure.[0m
+[17:33] [0m[35;1mUkyo [Jedi(76)]:[0m i like obscure.[0m
+[17:34] [0m[35;1mHyuga [Jedi(91)]:[0m that would have been extremel useful for emptying[0m
+[17:34] [0m                  silver/blue haha[0m
+[17:34] [0m[35;1mUkyo [Jedi(76)]:[0m hence the reason i have all of the non darkside skills.[0m
+[17:34] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:38] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:40] [0m[35;1mRoken [Jedi(52)]:[0m what are requirements for robotics 3? 4 droid classes?[0m
+[17:41] [0m[35;1mUkyo [Jedi(76)]:[0m when yoiu type focus control droids for status, down at the[0m
+[17:41] [0m                 bottom, that part has to get to 100% for the next level[0m
+[17:41] [0m[35;1mRoken [Jedi(52)]:[0m i know and it is. Ready for lvl 2[0m
+[17:41] [0m[35;1mUkyo [Jedi(76)]:[0m it's like fdef in that respect.[0m
+[17:41] [0m[35;1mUkyo [Jedi(76)]:[0m three to level two, is all it took for me[0m
+[17:41] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:41] [0m[35;1mUkyo [Jedi(76)]:[0m for robotics 2[0m
+[17:42] [0m[35;1mRoken [Jedi(52)]:[0m i level 3 classes to lv 2 to reach 100% lv 1 robotics[0m
+[17:42] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[17:42] [0m[35;1mWilly [Jedi(27)]:[0m have to train robotics though right?[0m
+[17:42] [0m[35;1mRoken [Jedi(52)]:[0m so does it go 3 classes -> 4 -> 5 etc[0m
+[17:42] [0m[35;1mUkyo [Jedi(76)]:[0m no idea. it was changed because hyuga.[0m
+[17:43] [0m[35;1mWilly [Jedi(27)]:[0m e[0m
+[17:43] [0m[35;1mWilly [Jedi(27)]:[0m heh[0m
+[17:43] [0m[35;1mRoken [Jedi(52)]:[0m learn robotics at ascension 25[0m
+[17:43] [0m[35;1mUkyo [Jedi(76)]:[0m i don't know what it was before, or after, for anything[0m
+[17:43] [0m                 beyond what i have, and i'm pretty sure it's not in any[0m
+[17:43] [0m                 file anywhere that we have access to[0m
+[17:44] [0m[35;1mUkyo [Jedi(76)]:[0m that's not to say i wouldn't like to know, simply that it[0m
+[17:44] [0m                 hasn't been wrangled out of the system yet.[0m
+[17:46] [0m[35;1mUkyo [Jedi(76)]:[0m oyasuminasai.[0m
+[17:46] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:46] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:46] [0m[35;1mUkyo [Jedi(76)]:[0m neru toki no desu.[0m
+[17:47] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[17:47] [0mYou can currently reforge 8 items.[0m
+[17:49] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:53] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:57] [0m[32mYou think to Ukyo . o O ([0m [36;1m so is it advisable to have or just fun[0m
+[17:57] [0;1;36m           to also have lightdaggers? [0m [32m)[0m[0m
+[17:57] [0m[32mYou think to Ukyo . o O ([0m [36;1m thinking i shall add it to my[0m
+[17:57] [0;1;36m           arsenal.. saber staff and daggers [0m [32m)[0m[0m
+[17:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:00] [0m[32mYou think to Ukyo . o O ([0m [36;1m since they are known to be used by[0m
+[18:00] [0;1;36m           Sith assassins.. Will they give dark points? [0m [32m)[0m[0m
+[18:01] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:01] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:02] [0m[35;1mRoken [Jedi(52)]:[0m will lightdaggers bring me closer the darkside?[0m
+[18:02] [0m[35;1mHyuga [Jedi(91)]:[0m no they take you closer to the WEAK side[0m
+[18:04] [0m[35;1mHyuga [Jedi(91)]:[0m think 3-4 was like 16 mastery levels[0m
+[18:04] [0m[35;1mHyuga [Jedi(91)]:[0m for robotics[0m
+[18:04] [0m[35;1mHyuga [Jedi(91)]:[0m been awhile[0m
+[18:04] [0m[35;1mHyuga [Jedi(91)]:[0m 4-5 is like... 80 mastery levels. heh[0m
+[18:05] [0m[35;1mHyuga [Jedi(91)]:[0m i am 45% there[0m
+[18:05] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:05] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:09] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:11] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:14] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:15] [0m[35;1mDy [Jedi(71)]:[0m bot[0m
+[18:18] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:18] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[18:20] [0m[34;1mHooligan shouts:[0m any priest available for ftouch?[0m
+[18:21] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:25] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:28] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:32] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:36] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:40] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:41] [0m[35;1mDy [Jedi(71)]:[0m h[0m
+[18:41] [0m[35;1mDy [Jedi(71)]:[0m Those who cannot remember the past will spend a lot of time[0m
+[18:41] [0m               looking for their cars in mall parking lots.[0m
+[18:41] [0m[35;1mGidius [Jedi(26)]:[0m I adore political parties. They are the only place left[0m
+[18:41] [0m                   to us where people don't talk politics.[0m
+[18:44] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:44] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:47] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:48] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[18:48] [0mYou can currently reforge 12 items.[0m
+[18:51] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[18:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:55] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:59] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:02] [0m[32;1mFrom afar, Sock winks at you suggestively.[0m[0m
+[19:03] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:05] [0m[32;1mFrom afar, you remind Sock of just how insignificant they are.[0m[0m
+[19:07] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:09] [0m[32mSock tells you:[0m didn't even see my aura[0m
+[19:09] [0m[32mSock tells you:[0m punk ass bitch[0m
+[19:10] [0m[32mYou tell Sock:[0m ya what aura[0m
+[19:10] [0m[32mYou tell Sock:[0m see the mean jedi emote?[0m
+[19:10] [0m[32;1mFrom afar, you bestow your blessings upon Sock.[0m[0m
+[19:11] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:12] [0m[32;1mFrom afar, you remind Hyuga of just how insignificant they are.[0m[0m
+[19:14] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:14] [0m[32mSock tells you:[0m just "dispel aura"[0m
+[19:15] [0m[32mSock tells you:[0m or check your resistances[0m
+[19:15] [0m[32mSock tells you:[0m under score[0m
+[19:16] [0m[32mSock tells you:[0m gives you like 60 ac all around[0m
+[19:16] [0m[32mSock tells you:[0m breed superpower[0m
+[19:16] [0m[32mSock tells you:[0m i can also make your eq better[0m
+[19:17] [0m[32mYou tell Sock:[0m whoa 100 High 60 40 ------[0m
+[19:17] [0m[32;1mFrom afar, Sock winks at you suggestively.[0m[0m
+[19:17] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:17] [0m[32mYou tell Sock:[0m dispel aura switched the 100 high around[0m
+[19:18] [0m[32mSock tells you:[0m here[0m
+[19:18] [0m[32mSock tells you:[0m ready[0m
+[19:18] [0m[32mSock tells you:[0m ?[0m
+[19:18] [0m[32mSock tells you:[0m watch[0m
+[19:18] [0m[32mSock tells you:[0m R U READY / WATCHING?!?!??![0m
+[19:18] [0m[32mYou tell Sock:[0m yay[0m
+[19:19] [0m[32mYou tell Sock:[0m i see it in all purple text[0m
+[19:19] [0m[32;1mFrom afar, Ser nods to you.[0m[0m
+[19:19] [0m[32mYou tell Sock:[0m missed the first time cuz im constantly attacking a golem[0m
+[19:20] [0m[32mSer tells you:[0m pretty neat huh[0m
+[19:21] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:21] [0m[32mYou tell Ser:[0m breed superpower suppose to be a syntax[0m
+[19:21] [0m[32mSer tells you:[0m what[0m
+[19:21] [0m[32mSer tells you:[0m superpower means it resets only so often, like monk[0m
+[19:21] [0m        palm/hide of the dragon, or jedi dissipate[0m
+[19:23] [0m[32mYou tell Ser:[0m oh nice. Learned jedi can levitate oneself or objects. Also[0m
+[19:23] [0m        cloak (self or party) cloak is tied to disireset[0m
+[19:23] [0m[32mSer tells you:[0m ok?[0m
+[19:23] [0m[32mSer tells you:[0m most guilds have a levitate/fly power[0m
+[19:23] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[19:24] [0m[32mYou tell Ser:[0m what's the point of it?[0m
+[19:24] [0m[32mSer tells you:[0m some areas require it for exploring/to get to other rooms[0m
+[19:24] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:26] [0m[32mYou tell Ser:[0m wanna party somewhere?[0m
+[19:26] [0m[32;1mFrom afar, Ser shakes his head no to you.[0m[0m
+[19:26] [0m[32;1mFrom afar, you kick Ser's ass all around the room.[0m[0m
+[19:27] [0m[32;1mFrom afar, Ser explodes on you in cruelty and nastiness.[0m[0m
+[19:27] [0m[32;1mFrom afar, Ser pins you down to the ground![0m[0m
+[19:27] [0m[32;1mFrom afar, Ser cruelly knees you in your most sensitive parts, sending[0m
+[19:27] [0m[32;1mFrom afar, Ser throws shackles on you and hauls you away.[0m[0m
+[19:27] [0m[32;1mFrom afar, Ser snarls at you angrily.[0m[0m
+[19:27] [0m[32;1mFrom afar, Ser punches you squarely in the face![0m[0m
+[19:27] [0m[32;1mFrom afar, Ser throws shackles on you and hauls you away.[0m[0m
+[19:27] [0m[32;1mFrom afar, Ser snarls at you angrily.[0m[0m
+[19:27] [0m[32;1mFrom afar, Ser sneers at you scornfully.[0m[0m
+[19:27] [0m[32;1mFrom afar, Ser smacks you upside the head![0m[0m
+[19:27] [0m[32;1mFrom afar, Ser sneers as he backhands you across the face![0m[0m
+[19:27] [0m[32;1mFrom afar, Ser punches you squarely in the face![0m[0m
+[19:28] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:29] [0m[32mYou tell Ser:[0m you on discord?[0m
+[19:29] [0m[32mSer tells you:[0m dont want you fucking up my 140mil/half xp rate[0m
+[19:32] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:38] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:41] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:45] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:48] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[19:48] [0mYou can currently reforge 12 items.[0m
+[19:48] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:48] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:48] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:49] [0m[35;1mWilly [Jedi(27)]:[0m doh[0m
+[19:51] [0m[35;1mRoken [Jedi(52)]:[0m botcheck trisky[0m
+[19:52] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[19:55] [0m[32mSmith says:[0m You require 472 coins to repair *Azure ring of Regeneration (worn on right hand).[0m
+[20:06] [0m[34;1mBoosh shouts:[0m me playing hallelujah:[0m
+[20:06] [0m              https://www.youtube.com/watch?v=V2OO2v35KgI[0m
+[20:12] [0m[32;1mFrom afar, Ser moos at you.[0m[0m
+[20:26] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[20:36] [0m[35;1mWilly [Jedi(27)]:[0m big[0m
+[20:46] [0m[35;1mDy [Jedi(71)]:[0m OMGWTFBBQ![0m
+[20:49] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[20:49] [0mYou can currently reforge 4 items.[0m
+[20:55] [0mInix flaps : "oh, hi.  what are you doing?"  "my friends"[0m
+[20:57] [0mByron flaps : im not your buddy pal[0m
+[20:59] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[21:03] [0mYou can currently reforge 4 items.[0m
+[21:07] [0mBahram flaps : I ain't your pal buddy[0m
+[21:08] [0mKitt flaps : im not your buddy Pal[0m
+[21:08] [0mYik flaps : hes not your pal friend![0m
+[21:08] [0mByron flaps : who you callin friend guy?[0m
+[21:09] [0mKitt flaps : shes not your guy friend[0m
+[21:09] [0mSimonz flaps : (one would hope)[0m
+[21:10] [0mInix flaps : kitt...you're not doing it right...[0m
+[21:10] [0mKitt flaps : thats what i told your dad too[0m
+[21:10] [0mKitt flaps : mom jokes overrated[0m
+[21:12] [0mSimonz flaps : <obligatory> your FACE is overrated! </obligatory>[0m
+[21:12] [0mKitt flaps : DOH[0m
+[21:27] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[21:33] [0m[34;1mHooligan shouts:[0m Any priest available around town?[0m
+[21:34] [0m[34;1mKitt shouts:[0m We are all praying[0m
+[21:34] [0m[34;1mHadriene shouts:[0m I knew it. The Jedi are taking over...[0m
+[21:34] [0m[34;1mHooligan shouts:[0m oooooOOOOoooooo[0m
+[21:35] [0m[34;1mNix shouts:[0m that just makes you sound guilty[0m
+[21:50] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[21:50] [0mYou can currently reforge 8 items.[0m
+[21:53] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[22:07] [0mDisruptor <Craft>: what sp regen does a legendary major sp gem do?[0m
+[22:08] [0mKitt <Craft>: 1 sp[0m
+[22:16] [0m[32mSimonz tells you:[0m rather than using flurry, just get a lightstaff and[0m
+[22:16] [0m        start training up that[0m
+[22:22] [0mInix flaps : Last night in Denver if anyone wants to get wild[0m
+[22:22] [0mKitt flaps : lol no comment[0m
+[22:22] [0mInix flaps : That is, in itself, a comment.[0m
+[22:23] [0mKitt flaps : Yo Face , Is in itself , A Comment[0m
+[22:23] [0mSimonz flaps : or at least a source thereof[0m
+[22:26] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[22:30] [0m[35;1mSimonz [Jedi(58)]:[0m If you can't convince them, confuse them.[0m
+[22:33] [0mYou can currently reforge 8 items.[0m
+[22:34] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:38] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:41] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:45] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:49] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:49] [0m[35;1mDy [Jedi(71)]:[0m The spiciest of spices, pure Cinnamon (sizzle).[0m
+[22:49] [0m[35;1mSimonz [Jedi(58)]:[0m Happiness is having a large, loving, caring, close-knit[0m
+[22:49] [0m                   family in another city.[0m
+[22:50] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[22:50] [0mYou can currently reforge 12 items.[0m
+[22:51] [0mDy flaps : It was somewhat hot today.[0m
+[22:51] [0mSimonz flaps : where?[0m
+[22:51] [0m[35;1mHyuga [Jedi(91)]:[0m hmm. oops. messed up my dungeon reset[0m
+[22:51] [0m[35;1mHyuga [Jedi(91)]:[0m DOh[0m
+[22:52] [0m[35;1mSimonz [Jedi(58)]:[0m doh[0m
+[22:52] [0m[35;1mDy [Jedi(71)]:[0m *nelson*[0m
+[22:52] [0m[35;1mHyuga [Jedi(91)]:[0m smurfs up![0m
+[22:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:53] [0mRaest flaps : regina,sask![0m
+[22:53] [0mHyuga flaps : ewww gross[0m
+[22:54] [0mSimonz flaps : 113 today in phoenix[0m
+[22:54] [0mInix flaps : I said Denver[0m
+[22:55] [0mHyuga flaps : 5778 kelvins on the sun today[0m
+[22:55] [0mHyuga flaps : sweltering[0m
+[22:55] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:56] [0mDy flaps : 111 here in The Mirage, AZ[0m
+[22:57] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[22:59] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:00] [0m[35;1mChaed [Jedi(AGM)]:[0m woowoo[0m
+[23:00] [0m[35;1mAsp [Jedi(39)]:[0m :)[0m
+[23:04] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:07] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:07] [0mInix flaps : Celsius?  that's not!      Kelvin?  that's cold![0m
+[23:11] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:14] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:17] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:23] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:27] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:27] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[23:30] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:32] [0m[35;1mLicklick [Jedi(34)]:[0m there should be more tradition quest[0m
+[23:34] [0m[34;1mEllegon shouts:[0m If you see something, say something. Come on and party[0m
+[23:34] [0m                tonight.[0m
+[23:34] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:38] [0m[34;1mRaest shouts:[0m Don't you put it in your mouth![0m
+[23:38] [0m[34;1mOne shouts:[0m things i've never said #17[0m
+[23:39] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:41] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:45] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:48] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:51] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[23:51] [0mYou can currently reforge 12 items.[0m
+[23:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:55] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:58] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[23:59] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:59] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m

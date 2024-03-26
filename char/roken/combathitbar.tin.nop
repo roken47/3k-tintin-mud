@@ -1,0 +1,29 @@
+#class {hitbar} {kill}
+#class {hitbar} {open}
+
+#split 3 5
+#var combatmisses 0
+#var combathits 0
+#var combattotal 0
+#var combatpercent 0
+#var stringcol {<060>}
+#var digitcol {<070>}
+#var goodcol {<030>}
+#var badcol {<010>}
+#var resetcol {<088>}
+
+#act {You miss %*} {#math combatmisses {$combatmisses + 1};#math combattotal {$combathits + $combatmisses};#math combatpercent {$combathits * 1.00 / $combattotal * 100};hitbar}
+#act {%* dodges your attack} {#math combatmisses {$combatmisses + 1};#math combattotal {$combathits + $combatmisses};#math combatpercent {$combathits * 1.00 / $combattotal * 100};hitbar}
+
+#act {You crush %*} {#math combathits {$combathits + 1};#math combattotal {$combathits + $combatmisses};#math combatpercent {$combathits * 1.00 / $combattotal * 100};hitbar}
+#act {You hit %*} {#math combathits {$combathits + 1};#math combattotal {$combathits + $combatmisses};#math combatpercent {$combathits * 1.00 / $combattotal * 100};hitbar}
+#act {You pulverize %*} {#math combathits {$combathits + 1};#math combattotal {$combathits + $combatmisses};#math combatpercent {$combathits * 1.00 / $combattotal * 100};hitbar}
+#act {You smash %*} {#math combathits {$combathits + 1};#math combattotal {$combathits + $combatmisses};#math combatpercent {$combathits * 1.00 / $combattotal * 100};hitbar}
+#act {You destroy %*} {#math combathits {$combathits + 1};#math combattotal {$combathits + $combatmisses};#math combatpercent {$combathits * 1.00 / $combattotal * 100};hitbar}
+
+
+#alias comb {#math combattotal {$combathits + $combatmisses * 1.00};#math combatpercent {$combathits * 1.00 / $combattotal * 100};#prompt {Hits: $combathits Misses: $combatmisses Total: $combattotal Percent: $combatpercent %} {4}}
+
+#alias hitbar {#var cspacer {};#math combattotal {$combathits + $combatmisses};#math combattotaldec {$combattotal * 1.0};#math combatpercent {$combathits / $combattotaldec * 100};#var combhits {Hits: $digitcol$combathits};#var combmisses {Misses: $digitcol$combatmisses};#var combtotal {Total: $digitcol$combattotal};#var combperc {Percent: $digitcol$combatpercent%};#format len {%L} {$combhits$combmisses$combtotal$combperc};#format scrWidth {%C};#math comblength {$scrWidth - $len};#math padLength {$comblength/3.0};#math padLength {$padLength - 1};#loop {0} {$padLength} {cnt} {#if {$cnt != $padLength} {#format cspacer {%s } {$cspacer}}};#format fullcombat {%L} {$stringcol$combhits$cspacer$stringcol$combmisses$cspacer$stringcol$combtotal$cspacer$stringcol$combperc};#if {$fullcombat < $scrWidth} {#var extraspacer {};#math extra {$scrWidth - $fullcombat};#loop {0} {$extra} {cnt} {#if {$cnt != $extra} {#format extraspacer {%s } {$extraspacer}}};} {#var extraspacer {}};#if {$combatpercent > 75} {#var combperc {Percent: $goodcol$combatpercent%}} {#if {$combatpercent > 45} {#var combperc {Percent: $digitcol$combatpercent%}} {#var combperc {Percent: $badcol$combatpercent%}}};#echo {{$stringcol$combhits$cspacer$stringcol$combmisses$cspacer$stringcol$combtotal$cspacer$stringcol$combperc$extraspacer$resetcol}{1}};}
+
+#class {hitbar} {close}

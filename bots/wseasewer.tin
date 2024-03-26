@@ -1,0 +1,36 @@
+#class {bot} {open};
+#var {areaname} {wsea};
+#var {botpath} {d;w;w;w;w;sw;se;s;se;s;w;w;w;w;nw;w;w;nw;w;w;w;nw;w;w;sw;ne;n;nw;se;s;e;e;se;e;e;e;ne;ne;e;e;e;e;ne;w;w;nw;w;nw;n;e;nw;ne;e;w;w;w;w;w;w;sw;sw;e;e;se;e;w;nw;w;w;w;w;nw;n;w;w;w;e;e;e;s;se;se;w;w;sw;sw;w;w;w;w;e;e;e;e;e;w;ne;ne;e;e;nw;e;e;ne;ne;e;e;e;e;e;sw;se;w;s;se;e;se;e;e;e;e;e;e;u};
+#if {$mob_count[sewer] < 20 && $mob_count[sewer] > 0} {#nop} {#var mob_count[sewer] 0;};
+
+#act {^[MoNSTaR]{A small cockroach|A large black snake|An irradiated crocodile|An oddly glowing rat|A medium sized glowing rat|A furry spider|Longtooth}}
+{
+	#if {"%1" == "A small cockroach"} {#var mobname roach};
+	#if {"%1" == "A large black snake"} {#var mobname snake};
+	#if {"%1" == "An irradiated crocodile"} {#var mobname crocodile};
+	#if {"%1" == "An oddly glowing rat"} {#var mobname rat};
+	#if {"%1" == "A medium sized glowing rat"} {#var mobname rat};
+	#if {"%1" == "A furry spider"} {#var mobname spider};
+	#if {"%1" == "Longtooth"} {#var mobname longtooth};
+	_check_mob;
+	}
+
+#act {{(meat|leg|scale)( \{\d\})?.}} {ga}
+
+#act {^You update the sewer cleanup mission.$} {
+	#math {mob_count[sewer]} {$mob_count[sewer] + 1};
+	#if {$mob_count[sewer] == 20} {
+		killbot;
+		go wsea;
+		say complete;
+		#delay {2} {
+			say sewer cleanup
+			};
+		};
+	};
+
+#class {bot} {close};
+
+- wsea_mission_parser;
+#read bots/generic.tin;
+

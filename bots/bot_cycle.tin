@@ -1,0 +1,29 @@
+#class {area_cycle} {open}
+
+#showme {Basic area-cycling -- type cycler}
+#alias {cycler} {
+	go COT;s;e;s;unwield;fix all;wield $weapon_name;bref;#delay {2} {
+	#var cycle[current] 0;
+	go Chaos;enter;w;w;s;s;draw tile;n;portal;-mahjbot;#delay {2} {..};
+	}}
+
+#act {You curl up into a little ball and fall asleep.} {
+	#math {cycle[current]} {$cycle[current] +1};
+	#if {"$cycle[current]" == "1"} 
+		{go pol;climb left tree;-polbot;#del {2} {..}};
+	#if {"$cycle[current]" == "2"}
+		{go Whores;fork over 10000;enter;-whorebot;#del {2} {..}};
+	#if {"$cycle[current]" == "3"}
+		{#map goto Whores;go Chaos;enter;e;e;d;scaler 95;-letterbot;#del {2} {..}};
+	#if {"$cycle[current]" == "4"}
+		{cycler};
+	}
+
+#alias {kcyc} {.stop;#class {area_cycle} {kill}}
+
+#class {area_cycle} {close}
+
+/*
+	#if {"$cycle[current]" == "1"} 
+		{go Chaos;enter;e;s;s;-smurfbot;#del {2} {..}};
+*/

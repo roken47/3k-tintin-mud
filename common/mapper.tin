@@ -1,0 +1,39 @@
+#class {map_stuff} {open}
+
+
+#nop #event {MAP ENTER ROOM} {#map map 23x10 /home/roken47/ramdisk/map.txt}
+
+
+#event {MAP ENTER ROOM} { 
+    #read /home/roken47/ramdisk/map_size.tin; 
+    #map map {$MAP_LINES} {$MAP_ROWS} {overwrite} {/home/roken47/ramdisk/map.txt}; 
+};
+
+/* Uncomment SPLIT if running without multiple windows or tmux.  */	
+#nop #split 16 4
+#map read common/3k.map
+#map goto 1
+#map flag vtmap on
+
+#nop count the # of rooms mapped
+#alias {area_mapped %1} {
+#map list {} {} {} {%1} {variable} {area_mapped};
+#showme {&area_mapped[] rooms mapped.};
+}
+
+#alias {go} {#map run }
+#alias {>%1>%2} {#map unlink {%1};#map dig {%1} {%2}}
+#class {map_stuff} {close}
+#alias {mapsearch} {
+	#show <129>Name matches:<088>;
+	#map list {%0};
+	#show \n;
+	#show <129>Note matches:<088>;
+	#map list {} {} {} {} {%0};
+};
+
+
+#alias {mapname %1} {
+        #map name %1;
+        #map write common/3k.map};
+

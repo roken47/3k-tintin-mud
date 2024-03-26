@@ -1,0 +1,16 @@
+// Notes for whatever //
+
+//SHOWAC Numbers for Max limit in each slot
+
+Xaryl : main = 70, cloak = 40, boots, gloves, helmet = 30, ammy is 10 I think
+
+15:26 [Clan] Oscar : #act {%1 resists your attempt to cloud} {#var no_peace 1}
+15:26 [Clan] Oscar : and in your heartbeat, #if $no_peace <do this> <peace>
+15:27 [Clan] Oscar : and to your killing blow add #var no_peace 0
+[Clan] Oscar : a useful alias is some sort of "reset mob variables"
+
+[09:23] You tell Wert: where do you look for freeway and powerstone, bet they are hot items for bsinger
+[09:23] Wert tells you: powerstone is on the mob after cryohydra
+[09:23] Wert tells you: only 2 of em i think so its a plan ahead thing, killergate usually auctions it
+[09:23] Wert tells you: freeway is on aliens 2.0 ship
+09:24] Wert tells you: gotta get lucky or be persistent

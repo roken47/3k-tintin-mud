@@ -1,0 +1,232 @@
+- = LOG STARTED [00:00] = -
+[00:01] [0mSimonz <Craft>: I'm disappointed in the lack of farmer/chef vI tomes at timmy this boot ;)[0m
+[00:04] [0m[32mMerchant says: [0m I have to be in Wayhaven before dark..Move![0m
+[00:04] [0m[32mMerchant says: [0m Out of my way peasant!![0m
+[00:06] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[00:18] [0mSpace <Craft>: i am disappointed in a general lack of v3 tomes overall, my "crafting"[0m
+[00:18] [0m               progression has come to a halt due to this![0m
+[00:19] [0mFluffy <Craft>: there is this weird thing, where you using mats and commands and crafting room[0m
+[00:19] [0m                and voila ... progression ;-)[0m
+[00:20] [0mSpace <Craft>: nah thats the INEFFICIENT way, I like to xp/gxp while progressing crafting :p[0m
+[00:32] [0m[32mYou tell Simonz:[0m how many hp/sp boosts you have? I'm 36/32 wondering about upping that[0m
+[00:33] [0mYour transmuter's stone bursts with 3 new colours![0m
+[00:34] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[00:50] [0m[34;1mSpace shouts:[0m What would Brain Biotano do if he was here right now ?[0m
+[00:50] [0m[34;1mFluffy shouts:[0m give all mobs a ND boon[0m
+[01:01] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[01:33] [0mYour transmuter's stone bursts with 3 new colours![0m
+[01:35] [0m[33;1m[Clan] Mud :[0m semm to be having trouble with hpbar and #split #prompt[0m
+[01:35] [0m[33;1m[Clan] Mud :[0m on this vm im messing around with.  #ERROR: PROMPT ROW IS INSIDE THE SCROLLING[0m
+[01:35] [0m             REGION:[0m
+[01:36] [0m[33;1m[Clan] Zorbaine :[0m if prompt is too long and touches side of pane, it will be replaced with that[0m
+[01:36] [0m                  message...[0m
+[01:36] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[01:37] [0m[33;1m[Clan] Mud :[0m yeah, im familiar with that.  get it even if I scale it super tiny[0m
+[01:38] [0m[33;1m[Clan] Mud :[0m i can #split 2 0    and have my hpbar show up top, but gets pushed off w// scroll. [0m
+[01:38] [0m             normally have on bottom, but #split 2 0 (or similar) starts throwing the error[0m
+[01:40] [0m[33;1m[Clan] Zorbaine :[0m latest tintin version flipped the params i think, or something... try to[0m
+[01:40] [0m                  switch[0m
+[01:40] [0m[33;1m[Clan] Zorbaine :[0m latest tintin version flipped the params i think, or something... try to[0m
+[01:40] [0m                  switch... mine is #split 0 3; for 3 lines at bottom[0m
+[01:41] [0m[33;1m[Clan] Mud :[0m aye, thats what it looks like. their manual/site was backwared[0m
+[01:41] [0m[33;1m[Clan] Mud :[0m but still get the error, regardless.  ill keep poking around[0m
+[01:51] [0m[33;1m[Clan] Roken :[0m zorbs talking the split and mud talking the row? cuz im 0 3 and hpbar lines are[0m
+[01:51] [0m               -4 -3 -2[0m
+[01:55] [0m[33;1m[Clan] Zorbaine :[0m same, first was split, but rows are -4, -3, -2[0m
+[01:55] [0m[34;1mHyuga shouts:[0m You need more osmosis in your life.[0m
+[02:00] [0m[33;1m[Clan] Roken :[0m #math {xpval} {(%1/25) % 100}  isn't cutting it[0m
+[02:02] [0m[33;1m[Clan] Roken :[0m it is returning 11... when it should be 2 or 1 as it is a color scale function. I[0m
+[02:02] [0m               use it on 2 gxp%[0m
+[02:02] [0m[33;1m[Clan] Roken :[0m used to work[0m
+[02:07] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[02:10] [0m[34;1mSpace shouts:[0m Sheila Broflovski: Remember what the MPAA says; Horrific, Deplorable violence is[0m
+[02:10] [0m              okay, as long as people don't say any naughty words! That's what this war is all[0m
+[02:10] [0m              about![0m
+[02:20] [0m[34;1mKitt shouts:[0m Less Fighting  More Moo[0m
+[02:33] [0mYour transmuter's stone bursts with 4 new colours![0m
+[02:36] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[03:05] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[03:28] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[03:33] [0mYour transmuter's stone bursts with 4 new colours![0m
+[03:55] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[04:00] [0m[34;1mJasmine shouts:[0m DIRTY FILTHY MEMORY![0m
+[04:00] [0m[34;1mTony shouts:[0m not again[0m
+[04:24] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[04:29] [0m[33;1m[Clan] Xaryl :[0m doantes in[0m
+[04:33] [0mYour transmuter's stone bursts with 5 new colours![0m
+[04:48] [0mRoken flaps : garlic knots in the oven cuz why not[0m
+[04:49] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[05:12] [0m[33;1m[Clan] Mud :[0m reforger 94... gettin sloooow[0m
+[05:20] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[05:32] [0m[33;1m[Clan] Roken :[0m toss a coin to your witcher[0m
+[05:33] [0m[33;1m[Clan] Roken :[0m a new bard song coming soon :)[0m
+[05:33] [0mYour transmuter's stone bursts with 2 new colours![0m
+[05:37] [0m[33;1m[Clan] Zorbaine :[0m fuck that[0m
+[05:38] [0m[33;1m[Clan] Roken :[0m but it is catchy![0m
+[05:39] [0m[33;1m[Clan] Zorbaine :[0m 'tis[0m
+[05:53] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[06:25] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[06:33] [0mYour transmuter's stone bursts with 4 new colours![0m
+[06:51] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[07:22] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[07:47] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[08:20] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[13:27] [0m[34;1mSuicaudio shouts:[0m I don't know why I have these nightvision goggles![0m
+[13:27] [0m[34;1mBlubber shouts:[0m To see Clarise better with[0m
+[13:32] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[13:44] [0mYour transmuter's stone bursts with 4 new colours![0m
+[13:57] [0mKitt flaps : New order tells you: how long, you tell neworder : about 12"[0m
+[14:01] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[14:03] [0m Tier Power                : Enrg Cooldn CooldR +Tier[0m
+[14:03] [0m ---- -------------------- : ---- ------ ------ -----[0m
+[14:03] [0m  0/5 [33;1mdestroy              :   35   6.6D   6.6D  7.5B [0m[0m
+[14:03] [0m  0/5 [33;1mdivine insight       :   25   1.9D   1.9D  3.5B [0m[0m
+[14:03] [0m  0/6 [33;1mduplicate creature   :   25   4.8h   4.8h  3.0B [0m[0m
+[14:03] [0m  1/6 [32;1mduplicate item       :   35   6.6D    RDY  4.9B [0m[0m
+[14:03] [0m  6/6 [36;1membiggen             :   22   8.5h    RDY       [0m[0m
+[14:03] [0m  0/7 [33;1menergy well          :   55   1.9h   1.9h  1.5B [0m[0m
+[14:03] [0m  0/6 [33;1menlarge              :    8    57m    57m  2.0B [0m[0m
+[14:03] [0m  0/5 [33;1mfarsight             :    9   1.9h   1.9h  2.8B [0m[0m
+[14:03] [0m  0/6 [33;1mfry                  :   25   4.8h   4.8h  2.0B [0m[0m
+[14:03] [0m  0/6 [33;1mhasten               :    5     9m     9m  3.5B [0m[0m
+[14:03] [0m  0/5 [33;1mheal                 :   25    57m    57m  2.5B [0m[0m
+[14:03] [0m  0/5 [33;1mheightened awareness :   75   6.6D   6.6D  7.5B [0m[0m
+[14:03] [0m  0/5 [33;1mimmortality          :   20  13.3D  13.3D  3.5B [0m[0m
+[14:03] [0m  0/5 [33;1mpick pocket          :   25   6.6D   6.6D  5.0B [0m[0m
+[14:03] [0m  0/5 [33;1mprotection           :   25  11.4h  11.4h  2.5B [0m[0m
+[14:03] [0m  0/7 [33;1mquicken              :   35    19m    19m  1.5B [0m[0m
+[14:03] [0m  0/6 [33;1mredact               :   55  22.8h  22.8h  9.0B [0m[0m
+[14:03] [0m  0/4 [33;1mrefresh area         :   75   6.6D   6.6D  5.5B [0m[0m
+[14:03] [0m  0/4 [33;1mrefresh item         :   50  22.8h  22.8h  1.0B [0m[0m
+[14:03] [0m  1/4 [32;1mrefresh room         :   15  19.0h    RDY  7.1B [0m[0m
+[14:03] [0m  0/2 [33;1mreload item          :   50  1.0xB     --  5.0B [0m[0m
+[14:03] [0m  1/3 [32;1mreset dungeon        :   15   3.8D   1.9D  5.4B [0m[0m
+[14:03] [0m  0/5 [33;1mresurrect            :   35  2.0xB     --  2.2B [0m[0m
+[14:03] [0m  0/5 [33;1mshred                :   15  11.4h  11.4h  1.5B [0m[0m
+[14:03] [0m  0/7 [33;1msummon               :   55  22.8h  22.8h  5.8B [0m[0m
+[14:03] [0m  0/7 [33;1mteleport             :   45  22.8h  22.8h  5.2B [0m[0m
+[14:03] [0m  0/3 [33;1munload room          :   50   3.8D   3.8D  8.0B [0m[0m
+[14:13] [0m[35;1mHyuga [Jedi(96)]:[0m neat we have a mental harmonizing stimulator in the box[0m
+[14:13] [0m[35;1mDalimar [Jedi(34)]:[0m those are words...[0m
+[14:13] [0m[35;1mHyuga [Jedi(96)]:[0m if you say so[0m
+[14:14] [0m[35;1mDalimar [Jedi(34)]:[0m well if they're not, I need to lay off the drugs[0m
+[14:17] [0m[5m[1m[48;5;124mYour lightsaber begins to flicker and the handle warms![0m[0m                 [0m
+[14:23] [0m[34;1mBoosh shouts:[0m slow cooked pot roast nom nom[0m
+[14:23] [0mMirlin@3s gshouts: you cant cook[0m
+[14:36] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[14:39] [0m[33;1m[Clan] Ser :[0m i jammed my finger being mean to my dog[0m
+[14:39] [0m[33;1m[Clan] Ser :[0m i kinda deserve it but now my finger hurts[0m
+[14:40] [0m[33;1m[Clan] Zorbaine :[0m you gonna put him down?[0m
+[14:41] [0m[33;1m[Clan] Phenom :[0m did you stick it up his bum?[0m
+[14:41] [0m[33;1m[Clan] Phenom :[0m my mudding buddy is being very useless tonight[0m
+[14:42] [0m[33;1m[Clan] Phenom :[0m https://photos.app.goo.gl/8D7w5ockx5LhLrvk9[0m
+[14:42] [0m[33;1m[Clan] Phenom :[0m keeps putting his paws on my laptop[0m
+[14:44] [0mYour transmuter's stone bursts with 3 new colours![0m
+[15:04] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[15:17] [0m[33;1m[Clan] Zorbaine :[0m why do all the eternal rooms say invalid skill when I try: (train heightened[0m
+[15:17] [0m                  awareness[0m
+[15:19] [0m[33;1m[Clan] Zorbaine :[0m oh learn, right[0m
+[15:19] [0m[33;1m[Clan] Archangel :[0m Heh[0m
+[15:30] [0mDermi@3s gshouts: anyone got a good telnet for phone(android)?[0m
+[15:32] [0mInix gshouts: termux is a good native sell, I use VX ConnectBot for an SSH client.[0m
+[15:32] [0mByron gshouts: juicessh[0m
+[15:32] [0mByron gshouts: I've found Juice uses less data than the others.  If that is a concern.[0m
+[15:32] [0mHooligan gshouts: isnt amud for android and specifically made for 3k?[0m
+[15:33] [0mInix gshouts: it was make by a 3k wiz, if that's what you mean[0m
+[15:33] [0mDaagar gshouts: termux lets you set the font quite small, which can be useful[0m
+[15:34] [0mInvincible gshouts: i use blowtorch[0m
+[15:35] [0mDermi@3s gshouts: cant find amud for android ill try others listed[0m
+[15:36] [0mDermi@3s gshouts: thanks[0m
+[15:37] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[15:44] [0mYour transmuter's stone bursts with 2 new colours![0m
+[15:49] [0m[33;1m[Clan] Roken :[0m woo 2 new BKs on scaler 125 event[0m
+[15:49] [0mStasis gshouts: amud is on amazon I believe[0m
+[15:50] [0m[32;1mFrom afar, Nix goes 'Woo Woo!' at you.[0m[0m
+[15:55] [0m[35;1mDalimar [Jedi(34)]:[0m er...you're welcome?[0m
+[15:55] [0m[34;1mHooligan shouts:[0m wooo[0m
+[15:56] [0m[35;1mBlubber [Jedi(57)]:[0m good bot is good[0m
+[15:56] [0m[34;1mBlubber shouts:[0m Day 11 firebat?[0m
+[15:59] [0m[34;1mHooligan shouts:[0m soloed day 11 fb 10 days ago[0m
+[16:03] [0m[34;1mZik shouts:[0m i walked in on day 10 and he noped outta there[0m
+[16:06] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[16:11] [0m[34;1mBoosh shouts:[0m zik you cought him with his pants down how dare you[0m
+[16:12] [0m[34;1mHooligan shouts:[0m who wears pants anyway...[0m
+[16:13] [0m[34;1mHyuga shouts:[0m ur mom[0m
+[16:13] [0m[34;1mHooligan shouts:[0m wrong. voodoo dowsnt wear pants hyuga[0m
+[16:20] [0m[33;1m[Clan] Byron :[0m woo2[0m
+[16:36] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[16:37] [0m[34;1mBoosh shouts:[0m thanks all[0m
+[16:44] [0mYour transmuter's stone bursts with 2 new colours![0m
+[16:48] [0m[35;1mDalimar [Jedi(34)]:[0m woot woot[0m
+[16:48] [0m[35;1mBlubber [Jedi(58)]:[0m Now just dodge to go[0m
+[16:51] [0m[34;1mBoosh shouts:[0m ok so i leveld now its time to die 4 times right thats how this game works?[0m
+[16:51] [0m[34;1mKitt shouts:[0m Go forth and Die[0m
+[16:52] [0m[34;1mWhoknows shouts:[0m only 4 times?[0m
+[16:52] [0m[34;1mWhoknows shouts:[0m man! Ive been doing 50![0m
+[16:53] [0m[34;1mHyuga shouts:[0m i bang 10s[0m
+[16:53] [0m[34;1mDalimar shouts:[0m what's she do for the other 50 seconds?[0m
+[17:13] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[17:29] [0m[35;1mRoken [Jedi(76)]:[0m 5 more droid lvls woo[0m
+[17:38] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[17:45] [0mYour transmuter's stone bursts with 6 new colours![0m
+[17:58] [0mMurdoc flaps : anybody doing a zombie reset swingby?[0m
+[18:09] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[18:22] [0m[33;1m[Clan] Pol enters the game.[0m  [0m
+[18:24] [0m[33;1m[Clan] Pol :[0m how do i use the cloud crystal?[0m
+[18:24] [0m[33;1m[Clan] Archangel :[0m Cloud crystal?[0m
+[18:25] [0m[33;1m[Clan] Pol :[0m it is in box[0m
+[18:25] [0m[32;1mFrom afar, Pol thinks you're freaking BS.  Downgrade you.[0m[0m
+[18:25] [0m[33;1m[Clan] Martyr :[0m nfi[0m
+[18:25] [0m[33;1m[Clan] Martyr :[0m i assume its an artifact or something[0m
+[18:31] [0m[33;1m[Clan] Ser :[0m breed artifact i thought[0m
+[18:32] [0m[33;1m[Clan] Ser :[0m yah breed[0m
+[18:39] [0m[34;1mBlubber shouts:[0m <3[0m
+[18:42] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[18:45] [0mYour transmuter's stone bursts with 6 new colours![0m
+[18:47] [0m[34;1mSpace shouts:[0m hmm, ironic, isn't blubber bad for the <3 ?[0m
+[18:47] [0m[34;1mDaagar shouts:[0m Not if you're a whale[0m
+[19:08] [0m[33;1m[Clan] Pol :[0m do people still do dtaco smears?[0m
+[19:09] [0m[33;1m[Clan] Zorbaine :[0m yeah, especially before reforges too?[0m
+[19:21] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[19:22] [0m[35;1mDalimar [Jedi(35)]:[0m anyone available for cpain 9, lfs 8 and ri 7?[0m
+[19:22] [0m[35;1mDalimar [Jedi(35)]:[0m and maybe a few dissipates[0m
+[19:23] [0m[35;1mPol [Jedi(Knight)]:[0m anybody get you yet?[0m
+[19:23] [0m[35;1mDalimar [Jedi(35)]:[0m blubber's here[0m
+[19:30] [0m[33;1m[Clan] Xaryl :[0m taco smears are super important for max AC![0m
+[19:33] [0m[33;1m[Clan] Martyr :[0m yeah. smears let you get lots of reforging from pb gloves/blots[0m
+[19:33] [0m[33;1m[Clan] Martyr :[0m boots[0m
+[19:36] [0mNauda flaps : zombie reset in 1min[0m
+[19:45] [0mYour transmuter's stone bursts with 6 new colours![0m
+[19:51] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[19:57] [0m[33;1m[Clan] Dartholiver leaves the game.[0m  [0m
+[20:04] [0m[33;1m[Clan] Xaryl :[0m donates in[0m
+[20:19] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[20:45] [0mYour transmuter's stone bursts with 4 new colours![0m
+[20:50] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[20:57] [0mnewb Armozel [android/16]: I'm lost how do I get back to town?[0m
+[20:58] [0mnewb Dalimar [jedi/63]: retrace[0m
+[20:58] [0mnewb Inix [juggernaut/138]: you can also use 'townportal' to get back while you're still under[0m
+[20:58] [0m                            level 30[0m
+[21:13] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[21:30] [0m[35;1mKsemia [Jedi(Legend)]:[0m evening[0m
+[21:31] [0m[35;1mKsemia [Jedi(Legend)]:[0m now goes?[0m
+[21:31] [0m[35;1mKsemia [Jedi(Legend)]:[0m now goes?[0m
+[21:31] [0m[35;1mKsemia [Jedi(Legend)]:[0m heh...how, even.[0m
+[21:31] [0m[35;1mJasmine [Jedi(Knight)]:[0m meh[0m
+[21:36] [0mKsemia <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[21:36] [0m[34;1mHyuga shouts:[0m haha noob[0m
+[21:36] [0m[34;1mWhoknows shouts:[0m haha[0m
+[21:37] [0m[34;1mCinis shouts:[0m Glad I don't have to deal with that MOB[0m
+[21:43] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[21:45] [0mYour transmuter's stone bursts with 3 new colours![0m
+[22:10] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[22:45] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[22:45] [0mYour transmuter's stone bursts with 5 new colours![0m
+[23:13] [0m[34;1mHyuga shouts:[0m laf. on the news tonight... "demolition crew tears down wrong home"[0m
+[23:13] [0m[34;1mHardcore shouts:[0m sweet lol[0m
+[23:20] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[23:43] [0m[34;1mCixx shouts:[0m get your bets in now[0m
+[23:45] [0mYour transmuter's stone bursts with 6 new colours![0m
+[23:46] [0m[34;1mLance shouts:[0m I'll take 500 on the aint's[0m
+[23:53] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[23:54] [0m[33;1m[Clan] Xaryl :[0m woot! just got reforger 90[0m

@@ -1,0 +1,956 @@
+- = LOG STARTED [00:00] = -
+[00:06] [0m[31;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[00:18] [0m[31;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[00:20] [0m[37;1mInix flaps :[0m What's the point of naked and afraid if they blur everyhing out[0m
+[00:23] [0m[37;1mByron flaps :[0m you need voodoos directors cut[0m
+[00:24] [0m[37;1mVoodoo flaps :[0m best viewed with puddin[0m
+[00:25] [0m[37;1mBenek flaps :[0m i was laughing about how sellout it seemed the learning[0m
+[00:25] [0m              channel was getting, it was them right, that had that show.[0m
+[00:25] [0m              Then they had naked house buying, and another thing. ratings.[0m
+[00:28] [0m[31;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[00:29] [0m[37;1mInix flaps :[0m "The Laundry Guy" is a show?  ugh, need to fix my speakes so I[0m
+[00:29] [0m             can stream again, this cable nonsense is...nonsense[0m
+[00:35] [0m[37;1mCaeli flaps :[0m Night y'all and wish me luck. I'm going to drive by and see if[0m
+[00:35] [0m              the dog lady is out tomorrow.[0m
+[00:35] [0m[37;1mSquirrel flaps :[0m if she's barking up the wrong tree don't bother[0m
+[00:37] [0m[37;1mCaeli flaps :[0m Heh. There's a homeless lady with three dogs I see around a[0m
+[00:37] [0m              lot. One of the dogs is very preggers. I got her some cheap[0m
+[00:37] [0m              dog food today and wanted to see if she needed any help. But[0m
+[00:37] [0m              she wasn't out today.[0m
+[00:38] [0m[37;1mCaeli flaps :[0m Anyway.. I'm going to bed.[0m
+[00:53] [0mFluffy <.oO>: tater powah![0m
+[00:53] [0mGuru <.oO>: woo[0m
+[01:00] [0m[37;1mStormer flaps :[0m who has d3 og?[0m
+[01:03] [0m[37;1mInix flaps :[0m You mean the one on ahouse?[0m
+[01:31] [0m[Auction] Robert : Up for bids: CMC-660 Heavy Combat Suit -(Specialized)-.[0m
+[01:31] [0m[Auction] Robert : Stormer has requested 10 as the opening offer.[0m
+[01:31] [0m[Auction] Robert : Oh, come on... just 10 coins?[0m
+[01:32] [0m[Auction] Robert : Fine, bollocks to the lot of you[0m
+[01:33] [0m[Auction] Khan (mage) : stormer thats how the way to relist a for dup[0m
+[01:33] [0m                        community item[0m
+[10:41] [0mYou can currently reforge 4 items.[0m
+[10:41] [0mYou can currently reforge 0 items.[0m
+[10:51] [0mnewb Solkmerd [adventurer/6]: Is there a single letter command list[0m
+[10:51] [0m                              somewhere? I know you can use the first letter[0m
+[10:51] [0m                              for cardinal directions and I just found out[0m
+[10:51] [0m                              you can use 'l' for look.[0m
+[10:52] [0mnewb Lugh [knight/56]: help alias[0m
+[10:52] [0mnewb Turnhold [Wizard]: the alias command is alot more powerfull than people[0m
+[10:52] [0m                        think, can do argument matching, etc.[0m
+[10:52] [0mnewb Gaidin [gentech/136]: Related is "help nickname"[0m
+[10:53] [0mnewb Solkmerd [adventurer/6]: Oh well I know you can make your own alias'[0m
+[10:53] [0m                              but I'm just curious what default one's the[0m
+[10:53] [0m                              game already has.[0m
+[10:53] [0mnewb Gaidin [gentech/136]: So I can just type "shout TH is a big meanie" and[0m
+[10:53] [0m                           it automagically becomes "Turnhold is a big[0m
+[10:53] [0m                           meanie"[0m
+[10:53] [0mnewb Adalius [Admin]: 'commands' is a list of all the commands, there's not[0m
+[10:53] [0m                      a ton of single character ones in there, most of them[0m
+[10:53] [0m                      end up being made by aliases[0m
+[10:53] [0mnewb Byron [bard/138]: I noticed ! is missing from commands[0m
+[10:54] [0mnewb Adalius [Admin]: because ! isn't a command, its a modifier[0m
+[10:54] [0mnewb Byron [bard/138]: and something I never knew, 'help search mortal'[0m
+[10:55] [0m[32mByron tells you:[0m ![0m
+[10:55] [0mnewb Adalius [Admin]: 'commands' is dynamic, it will list any/all *mud*[0m
+[10:55] [0m                      commands you have access to at your level/high mortal[0m
+[10:55] [0m                      rank/etc. It will *not* list guild commands.[0m
+[10:55] [0m[31;1m[Clan] Toren enters the game.[0m  [0m
+[10:55] [0m[34;1mSpace shouts:[0m !![0m
+[10:55] [0mnewb Gaidin [gentech/136]: THere's also "%" which is a single-character[0m
+[10:55] [0m                           shortcut for the history command[0m
+[10:55] [0m[31;1m[Clan] Byron :[0m lol, what was that echo[0m
+[10:56] [0m[31;1m[Clan] Nameless :[0m heh[0m
+[10:56] [0m[31;1m[Clan] Nameless :[0m im very spammed so unsrue![0m
+[10:56] [0mnewb Solkmerd [adventurer/6]: Hmmm good to know, the 'commands' command just[0m
+[10:56] [0m                              told me all of the available commands but[0m
+[10:56] [0m                              doesn't mention what they are aliased as.[0m
+[10:56] [0mnewb Gaidin [gentech/136]: And "redo" is another super-handy[0m
+[10:56] [0m                           command-entering command.[0m
+[10:56] [0m[31;1m[Clan] Xaro :[0m wass  "!"[0m
+[10:56] [0mnewb Adalius [Admin]: No command is aliased by default. Any aliases are[0m
+[10:56] [0m                      listed by typing 'alias' and are set on a per[0m
+[10:56] [0m                      character basis.[0m
+[10:56] [0mnewb Solkmerd [adventurer/6]: I'm totally fine with making my own, but I'm[0m
+[10:56] [0m                              tempted to type letters a to z just to what[0m
+[10:56] [0m                              happens :D[0m
+[10:56] [0mnewb Elminster [mage/140]: i get what you are asking, but im not sure ive[0m
+[10:56] [0m                           ever seen a list of the premade aliases[0m
+[10:57] [0mnewb Adalius [Admin]: with the exception of cardinal directions which are[0m
+[10:57] [0m                      actually not aliased normally, they are aliased in the[0m
+[10:57] [0m                      room code itself[0m
+[10:57] [0m[37;1mByron flaps :[0m lol, i'm not sure what was echo'd but ya'll passed some[0m
+[10:57] [0m              botcheck[0m
+[10:57] [0mnewb Solkmerd [adventurer/6]: Oh ok. And look being 'l' I guess is another[0m
+[10:57] [0m                              one.[0m
+[10:57] [0mnewb Quadina [gentech/133]: and i for inventory[0m
+[10:57] [0m[37;1mSpace flaps :[0m [Byron tells you]:  ![0m
+[10:57] [0mnewb Quadina [gentech/133]: l isnt a command, its an alias[0m
+[10:58] [0mnewb Adalius [Admin]: 'l' isn't automatically look. If you type 'alias'[0m
+[10:58] [0m                      you'll see you have it aliased already[0m
+[10:58] [0mnewb Solkmerd [adventurer/6]: Yea but how did I alias it? I don't remember[0m
+[10:58] [0m                              doing that.[0m
+[10:58] [0mnewb Solkmerd [adventurer/6]: I'm certain I didn't do it haha.[0m
+[10:58] [0mnewb Adalius [Admin]: Its possible its a predefined one because it's so[0m
+[10:58] [0m                      common. I'd have to look at the login script.[0m
+[10:58] [0mnewb Solkmerd [adventurer/6]: Ah fair.[0m
+[10:58] [0mnewb Adalius [Admin]: or... l at the login script :D :D[0m
+[10:59] [0mnewb Solkmerd [adventurer/6]: I'm sure I'll realize how repetitive some of[0m
+[10:59] [0m                              my actions are and will start making more[0m
+[10:59] [0m                              alias'[0m
+[10:59] [0mnewb Solkmerd [adventurer/6]: aliases*[0m
+[11:01] [0mnewb Elminster [mage/140]: i think l for look and la for look at are pre[0m
+[11:01] [0m                           defined when you create a new character[0m
+[11:02] [0mnewb Adalius [Admin]: I don't think 'la' is, but I'm pretty sure 'l' is.[0m
+[11:02] [0m                      Also, the largest current list of aliases for any one[0m
+[11:02] [0m                      person is 343 aliases. So yes, over time your list[0m
+[11:02] [0m                      will grow :D[0m
+[11:02] [0mnewb Hsima [sii/133]: can confirm la is not default[0m
+[11:02] [0mnewb Hsima [sii/133]: exa is[0m
+[11:02] [0mnewb Solkmerd [adventurer/6]: la is equivalent to examine?[0m
+[11:03] [0mnewb Hsima [sii/133]: I have an alias la for look at which examine is[0m
+[11:03] [0m                      equivalent to[0m
+[11:03] [0mnewb Hsima [sii/133]: I think I used it on another mud some time[0m
+[11:04] [0mnewb Paradox [monk/98]: i use x for exa[0m
+[11:04] [0mnewb Hsima [sii/133]: I use x for reply, because um, I think that diku[0m
+[11:04] [0m[31;1m[Clan] Byron :[0m if anyone likes power, bunch of those in box[0m
+[11:04] [0m[31;1m[Clan] Byron :[0m 5 more rohs[0m
+[11:04] [0m[34;1mGuru shouts:[0m woo[0m
+[11:05] [0m[34;1mGuru shouts:[0m I'm still stumped on that one.  And I also need a partner for[0m
+[11:05] [0m             it![0m
+[11:05] [0mnewb Hsima [sii/133]: moral: aliases are great but fairly personal :D[0m
+[11:05] [0mnewb Solkmerd [adventurer/6]: Seems that way![0m
+[11:06] [0mnewb Solkmerd [adventurer/6]: Oh man I feel dumb. I'm looking all through[0m
+[11:06] [0m                              this help folder in my 3Kingdoms folder to[0m
+[11:06] [0m                              figure out how to do the newbie academy quest[0m
+[11:06] [0m                              hahaha[0m
+[11:06] [0mnewb Hsima [sii/133]: it is possible it is out of date, might want to look[0m
+[11:06] [0m                      in actual help files[0m
+[11:07] [0mnewb Solkmerd [adventurer/6]: Wait you mean help files in the game! I feel[0m
+[11:07] [0m                              like help files in the file folder are more[0m
+[11:07] [0m                              literal hahaha[0m
+[11:16] [0m[31;1m[Clan] Nine leaves the game.[0m  [0m
+[11:19] [0m[31;1m[Clan] Nameless :[0m ahh rip nine[0m
+[11:19] [0m[31;1m[Clan] Nameless :[0m dont think i had any gear on there at least[0m
+[11:20] [0m[31;1m[Clan] Nameless :[0m hmm, why did it run me to town[0m
+[11:21] [0mYou can currently reforge 4 items.[0m
+[11:21] [0mnewb Solkmerd [adventurer/6]: got 6 questions correct, YIKES[0m
+[11:23] [0m[Auction] Robert : Up for bids: a gold ingot.[0m
+[11:23] [0m[Auction] Robert : Squirrel has requested 558 as the opening offer.[0m
+[11:23] [0m[Auction] Robert : Got 558 from Guru(mage).  Do I hear 608?[0m
+[11:23] [0m[Auction] Robert : 558 going once![0m
+[11:23] [0m[Auction] Robert : 558 going twice![0m
+[11:23] [0m[Auction] Robert : Sold to Guru for 558 coins![0m
+[11:24] [0m[31;1m[Clan] Byron :[0m huh[0m
+[11:24] [0mnewb Turnhold [Wizard]: thats ok, we have some older players who couldnt[0m
+[11:24] [0m                        pass that test these days:P[0m
+[11:25] [0m[34;1mLocrian shouts:[0m for the next however many minutes, +18 CON boost at CoT, ack[0m
+[11:25] [0m                me![0m
+[11:25] [0mnewb Apocalypse [gentech/130]: it's not like you can't use 'help' while[0m
+[11:25] [0m                               taking the test..[0m
+[11:26] [0mYou can currently reforge 0 items.[0m
+[11:26] [0m[32mKerym says: [0mWell met, Swordbrother Dangerzone, May the Seldarine's Blessings be upon you.[0m
+[11:26] [0mnewb Byron [bard/138]: That's cheating[0m
+[11:26] [0mnewb Apocalypse [gentech/130]: and?[0m
+[11:26] [0mnewb Locrian [bard/131]: it is not cheating! :p[0m
+[11:26] [0mnewb Byron [bard/138]: It's a gateway drug to botting[0m
+[11:27] [0mnewb Apocalypse [gentech/130]: and?[0m
+[11:27] [0mnewb Kyoujin [knight/133]: don't listen to the death-prone byron :)  using[0m
+[11:27] [0m                           help is expected during the exam[0m
+[11:27] [0mnewb Kagour [juggernaut/130]: logging onto 3k is a gateway to botting...[0m
+[11:27] [0mnewb Kagour [juggernaut/130]: it really should tell you which questions you[0m
+[11:27] [0m                              got wrong, it annoys me i still get 2 wrong![0m
+[11:28] [0mnewb Locrian [bard/131]: agreed[0m
+[11:28] [0mnewb Guru [mage/134]: +1[0m
+[11:28] [0mnewb Hooligan [cyborg/138]: I had trouble when I came back after my[0m
+[11:28] [0m                            inactivity purge.  So many new commands.  lol[0m
+[11:28] [0mnewb Solkmerd [adventurer/6]: It did tell me what questions I got wrong I[0m
+[11:28] [0m                              think[0m
+[11:28] [0mnewb Hooligan [cyborg/138]: Or maybe I'm just dumb[0m
+[11:28] [0mnewb Locrian [bard/131]: i know all the answers kagour. aaaaalllll of them.[0m
+[11:28] [0m                         bwahahhahaha![0m
+[11:28] [0mnewb Solkmerd [adventurer/6]: You got the following questions wrong:[0m
+[11:28] [0m                              2,6,7,10,11,12,13[0m
+[11:29] [0mnewb Guru [mage/134]: that's a lot of wrong questions[0m
+[11:29] [0mnewb Solkmerd [adventurer/6]: Sure is. I looked up some stuff with the help[0m
+[11:29] [0m                              command and didn't really get anywhere. I did[0m
+[11:29] [0m                              it kinda briefly haha.[0m
+[11:29] [0mnewb Kagour [juggernaut/130]: pretty sure the point of the quest is to[0m
+[11:29] [0m                              familiarize people with the help files anyway[0m
+[11:30] [0mnewb Adalius [Admin]: That's absolutely the point :)[0m
+[11:30] [0mnewb Adalius [Admin]: Failure just means you read more help files and get to[0m
+[11:30] [0m                      know more. Plus you can take it as many times as you[0m
+[11:30] [0m                      like.[0m
+[11:31] [0mnewb Guru [mage/134]:  Might seem like a bit of a drag.  But hang in there[0m
+[11:31] [0m                      and push through it.  The content of the test[0m
+[11:31] [0m                      reinforces some key rules and gameplay mechanics. [0m
+[11:31] [0m                      Once that's done it's all playin' and slayin' goodness[0m
+[11:32] [0m[31;1m[Clan] Byron :[0m anyone able to reforge cmc?[0m
+[11:32] [0m[34;1mGuru shouts:[0m woo[0m
+[11:32] [0m[34;1mArchimedes shouts:[0m Whee!![0m
+[11:32] [0m[31;1m[Clan] Nameless :[0m i can[0m
+[11:33] [0m[34;1mSquirrel shouts:[0m don't hate the game hate the bot[0m
+[11:33] [0m[31;1m[Clan] Nameless :[0m i popped back onto cmud since i forget how to kill a bot[0m
+[11:33] [0m                  that broke[0m
+[11:33] [0m[31;1m[Clan] Nameless :[0m and didnt wanna pore through all the vscode stuff[0m
+[11:33] [0m[31;1m[Clan] Nameless :[0m at cbox for reforges[0m
+[11:36] [0m[31;1m[Clan] Byron :[0m brt[0m
+[11:36] [0m[31;1m[Clan] Byron :[0m mob half dead[0m
+[11:36] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[11:36] [0m[31;1m[Clan] Nameless :[0m is there a universal start/stop/resume thing for bots? ..[0m
+[11:36] [0m                  i know is the resume i think[0m
+[11:36] [0m[31;1m[Clan] Nameless :[0m dunno the rest[0m
+[11:36] [0m[31;1m[Clan] Byron :[0m my commands are:  .pause and .stop[0m
+[11:37] [0m[31;1m[Clan] Nameless :[0m ahh[0m
+[11:37] [0m[31;1m[Clan] Byron :[0m .bot checks if it should walk and respects pause[0m
+[11:37] [0m[31;1m[Clan] Byron :[0m .. says fuck that noise and just goes[0m
+[11:37] [0m[31;1m[Clan] Nameless :[0m grin[0m
+[11:38] [0m[31;1m[Clan] Nameless :[0m yeah ill have to see what made me leave kayos and run home[0m
+[11:38] [0m[31;1m[Clan] Boscar enters the game.[0m  [0m
+[11:39] [0mnewb Whoknows [priest/136]: don't forget dying, lots of dying[0m
+[11:39] [0mnewb Whoknows [priest/136]: chicks dig scars[0m
+[11:40] [0mnewb Nameless [bard/134]: dying builds character, especially for bards[0m
+[11:40] [0m[31;1m[Clan] Byron :[0m can pop into my sz if you want[0m
+[11:40] [0m[31;1m[Clan] Byron :[0m but, i'm usually aliability when i lead :D[0m
+[11:40] [0m[31;1m[Clan] Nameless :[0m oh sure[0m
+[11:40] [0mnewb Whoknows [priest/136]: i thought that was bards superpower.. die alot[0m
+[11:40] [0m                            and make the mob sad and die too[0m
+[11:40] [0mnewb Byron [bard/138]: sounds about right[0m
+[11:41] [0mnewb Nameless [bard/134]: we need a vicious mockery thing[0m
+[11:41] [0mnewb Kyoujin [knight/133]: the bardport is the defining superpower to[0m
+[11:41] [0m                           replace smile[0m
+[12:10] [0m[31;1m[Clan] Wasp :[0m omg[0m
+[12:10] [0m[31;1m[Clan] Wasp :[0m call the newspapersw[0m
+[12:11] [0m[31;1m[Clan] Wasp :[0m reforger gave me 4 reforges[0m
+[12:11] [0m[31;1m[Clan] Nameless :[0m gasp[0m
+[12:12] [0m[31;1m[Clan] Byron :[0m it always gives 4?[0m
+[12:12] [0m[31;1m[Clan] Reacher :[0m yeah[0m
+[12:12] [0m[31;1m[Clan] Reacher :[0m gives 4 per reset, 12 can be saved up[0m
+[12:12] [0m[31;1m[Clan] Timmy :[0m yeah, is this wasp girl new or something?[0m
+[12:12] [0m[31;1m[Clan] Reacher :[0m hmm leaving for airport in 5[0m
+[12:13] [0m[31;1m[Clan] Reacher :[0m maybe in an hour if anyone is around with (teleport or[0m
+[12:13] [0m                 (summon[0m
+[12:13] [0m[31;1m[Clan] Reacher :[0m i'll try to get day 3 tag[0m
+[12:13] [0m[31;1m[Clan] Reacher :[0m won't be able to do day 4 tag... will be in the air.[0m
+[12:13] [0m[31;1m[Clan] Reacher :[0m and i already duped day 3 cmc, anyway[0m
+[12:14] [0m[31;1m[Clan] Byron :[0m so me :D[0m
+[12:14] [0m[31;1m[Clan] Reacher :[0m oh you have it?[0m
+[12:14] [0m[31;1m[Clan] Reacher :[0m and i think nix has it... if he appears[0m
+[12:14] [0m[31;1m[Clan] Byron :[0m i dont think anyone else in the clan has summon/teleport[0m
+[12:14] [0m[31;1m[Clan] Prism :[0m HOPE HE DOESN'T!!!!!!!!!!![0m
+[12:14] [0m[31;1m[Clan] Byron :[0m I keep bugging nix to get summon[0m
+[12:14] [0m[31;1m[Clan] Reacher :[0m well elektra[0m
+[12:14] [0m[31;1m[Clan] Byron :[0m but no[0m
+[12:14] [0m[31;1m[Clan] Reacher :[0m which doesn't help[0m
+[12:14] [0m[31;1m[Clan] Reacher :[0m that mystery girl is NEVER on when I'm on[0m
+[12:14] [0m[31;1m[Clan] Byron :[0m lol[0m
+[12:15] [0m[31;1m[Clan] Reacher :[0m wonder if i ld'ed for 5 hours east of it if room would[0m
+[12:15] [0m                 unload me to login room[0m
+[12:15] [0m[31;1m[Clan] Reacher :[0m can try that[0m
+[12:15] [0m[31;1m[Clan] Reacher :[0m we don't have a necro to vision me there[0m
+[12:15] [0m[31;1m[Clan] Reacher :[0m ok, ride is here[0m
+[12:15] [0m[31;1m[Clan] Reacher :[0m if you are around in 90 minutes. i should be checked in and[0m
+[12:15] [0m                 past security by then[0m
+[12:18] [0mnewb Solkmerd [adventurer/6]: BOOM, 12/13 correct on try number 2! I'm[0m
+[12:18] [0m                              definitely not going to sit there and count[0m
+[12:18] [0m                              every single feeling to get the last question[0m
+[12:18] [0m                              right hahaha.[0m
+[12:18] [0mnewb Prism [gentech/137]: Nice job![0m
+[12:18] [0mnewb Guru [mage/134]: great![0m
+[12:18] [0mnewb Locrian [bard/131]: congrats!!!![0m
+[12:18] [0mnewb Locrian [bard/131]: you can just type feelings to see how many there[0m
+[12:18] [0m                         are. :p[0m
+[12:18] [0mnewb Kyoujin [knight/133]: rock on, sister sledge![0m
+[12:19] [0m[31;1m[Clan] Nameless :[0m i liked having summon[0m
+[12:19] [0m[31;1m[Clan] Nameless :[0m but definitely wont get it again for awhile[0m
+[12:21] [0mYou can currently reforge 4 items.[0m
+[12:21] [0m[31;1m[Clan] Zorbaine walks into the rain.[0m  [0m
+[12:21] [0m[31;1m[Clan] Zorbaine :[0m greeting![0m
+[12:21] [0m[31;1m[Clan] Zorbaine :[0m z![0m
+[12:22] [0m[31;1m[Clan] Byron :[0m allo[0m
+[12:30] [0mnewb Whoknows [priest/136]: feelings There are currently 1173 feelings[0m
+[12:30] [0m                            available.[0m
+[13:04] [0m[34;1mTurnhold shouts:[0m YEEEEEEEEEEEEEEEEEEEEEET[0m
+[13:04] [0m[34;1mGuru shouts:[0m woo[0m
+[13:04] [0m[34;1mOrthas shouts:[0m whee[0m
+[13:04] [0m[34;1mNameless shouts:[0m yeetus dat feetis[0m
+[13:04] [0m[34;1mHooligan shouts:[0m ouch[0m
+[13:05] [0m[34;1mNauda shouts:[0m did doge go flying again?[0m
+[13:07] [0mnewb Solkmerd [adventurer/7]: Any Monks want to recruit me to the guild!?[0m
+[13:07] [0m[34;1mNauda shouts:[0m Imagine 3k announced, they accept doge, that would send it to[0m
+[13:07] [0m              the The Andromeda galaxy[0m
+[13:08] [0mnewb Guru [mage/134]: "players monk" and ask one of them. Not all players[0m
+[13:08] [0m                      monitor the newb line[0m
+[13:08] [0mnewb Solkmerd [adventurer/7]: Oh that's true.[0m
+[13:08] [0m[37;1mNauda flaps :[0m what do I google to check doge coin price?[0m
+[13:09] [0m[34;1mNameless shouts:[0m 3koin, and its backed by wizard boons and items[0m
+[13:09] [0m[37;1mBliss flaps :[0m coinmarketcap[0m
+[13:09] [0m[37;1mNauda flaps :[0m DOGE-USD works too[0m
+[13:10] [0m[34;1mMental shouts:[0m im 13% certain that rasta said he was open to crypto vafs[0m
+[13:10] [0m               like 3 years ago, contact him and you might be surprised[0m
+[13:21] [0mYou can currently reforge 8 items.[0m
+[13:27] [0m[31;1m[Clan] Nameless :[0m where is nix? need the full bardy party![0m
+[13:27] [0m[31;1m[Clan] Byron :[0m nfi[0m
+[13:29] [0m[31;1m[Clan] Morion :[0m 125 terra is 98 wc :p[0m
+[13:31] [0m[31;1m[Clan] Nameless :[0m oof[0m
+[13:31] [0m[31;1m[Clan] Nameless :[0m so 130 or bust[0m
+[13:31] [0m[31;1m[Clan] Morion :[0m seems it nods[0m
+[13:34] [0m[31;1m[Clan] Turin :[0m that spork ftouched. :([0m
+[13:34] [0m[31;1m[Clan] Nameless :[0m AAAbard_cast![0m
+[13:34] [0m[31;1m[Clan] Morion :[0m it really likes ftouches[0m
+[13:35] [0m[31;1m[Clan] Timmy :[0m skuggis just added a refresh spell for bards on 3s that[0m
+[13:35] [0m               recasts all your songs if they're about to expire[0m
+[13:35] [0m[31;1m[Clan] Timmy :[0m it feels like cheating but it's rather sweet[0m
+[13:35] [0m[31;1m[Clan] Byron :[0m stop wasting em on sporks! ftouch my freezer![0m
+[13:35] [0m[31;1m[Clan] Byron :[0m :D[0m
+[13:36] [0m[31;1m[Clan] Timmy :[0m also a glvl 90 song that combines hero, memory, let it be etc[0m
+[13:36] [0m[31;1m[Clan] Reacher :[0m it's a fake ftouch[0m
+[13:36] [0m[31;1m[Clan] Reacher :[0m it reduced the weight like 1%[0m
+[13:36] [0m[31;1m[Clan] Reacher :[0m for heavy stuff[0m
+[13:36] [0m[31;1m[Clan] Nameless :[0m oh wow[0m
+[13:36] [0m[31;1m[Clan] Reacher :[0m it is a small fixed amt[0m
+[13:36] [0m[31;1m[Clan] Nameless :[0m time to go to 3s bois![0m
+[13:36] [0m[31;1m[Clan] Reacher :[0m well maybe more than 1%, but shrug, and it wastes a boost[0m
+[13:36] [0m[31;1m[Clan] Morion :[0m i have a baby bard there[0m
+[13:36] [0m[31;1m[Clan] Timmy :[0m simon/skuggis are doing some good stuff there[0m
+[13:36] [0m[31;1m[Clan] Morion :[0m and a mid frem[0m
+[13:37] [0m[31;1m[Clan] Nameless :[0m i liked them kinda[0m
+[13:37] [0m[31;1m[Clan] Reacher :[0m anyone have an extra taco smear?[0m
+[13:37] [0m[31;1m[Clan] Morion :[0m just wait for angarboda.[0m
+[13:37] [0m[31;1m[Clan] Timmy :[0m the archon is still the biggest twat in the 3k universe tho[0m
+[13:37] [0m               :D[0m
+[13:37] [0m[31;1m[Clan] Nameless :[0m i have 2 foils in my butt[0m
+[13:37] [0m[31;1m[Clan] Timmy :[0m angarboda is out now, it's nice[0m
+[13:37] [0m[31;1m[Clan] Nameless :[0m if you want those[0m
+[13:37] [0m[31;1m[Clan] Morion :[0m angarbodas gonna be off the hook[0m
+[13:37] [0m[31;1m[Clan] Reacher :[0m forgot to smear my cloak[0m
+[13:37] [0m[31;1m[Clan] Morion :[0m yeah but i dont think its fully out yet[0m
+[13:37] [0m[31;1m[Clan] Nameless :[0m new guild?[0m
+[13:37] [0m[31;1m[Clan] Morion :[0m no new area[0m
+[13:37] [0m[31;1m[Clan] Nameless :[0m ahh nod[0m
+[13:37] [0m[31;1m[Clan] Reacher :[0m one foil would be nice[0m
+[13:38] [0m[31;1m[Clan] Timmy :[0m new area, mobs from 65m - 292M[0m
+[13:38] [0m[31;1m[Clan] Nameless :[0m i havent played 3s since behemoths were the end game[0m
+[13:38] [0m[31;1m[Clan] Reacher :[0m i'm at arcade[0m
+[13:38] [0m[31;1m[Clan] Reacher :[0m if you can pause name[0m
+[13:38] [0m[31;1m[Clan] Timmy :[0m which in 3s terms is quite big[0m
+[13:38] [0m[31;1m[Clan] Nameless :[0m soloed a behe with sii and figured i had won[0m
+[13:38] [0m[31;1m[Clan] Morion :[0m yeah its huge[0m
+[13:38] [0m[31;1m[Clan] Nameless :[0m ill pause after this one[0m
+[13:39] [0m[31;1m[Clan] Nameless :[0m i would be tempted to go try that out but dualmudding is[0m
+[13:39] [0m                  too rough for me[0m
+[13:40] [0m[31;1m[Clan] Morion :[0m it is hard, nods[0m
+[13:40] [0m[31;1m[Clan] Nameless :[0m and i dont think i could abandon 3k unless i spontaneously[0m
+[13:40] [0m                  started hating all my chars[0m
+[13:40] [0m[31;1m[Clan] Morion :[0m idk i dont get the same fulfillment on 3s that i do here,[0m
+[13:40] [0m                almost like it just doesnt mean as much? maybe?[0m
+[13:40] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[13:40] [0m[31;1m[Clan] Timmy :[0m just setup tintin 2 muds one screen :)[0m
+[13:40] [0m[31;1m[Clan] Saim :[0m did something change there?[0m
+[13:41] [0m[31;1m[Clan] Morion :[0m simon/skuggo redoing guilds and stuff[0m
+[13:41] [0m[31;1m[Clan] Timmy :[0m no ariakis is still archon :P[0m
+[13:41] [0m[31;1m[Clan] Nameless :[0m i first went there back when i was priest only and had a[0m
+[13:41] [0m                  bunch of shitty small alts[0m
+[13:41] [0m[31;1m[Clan] Nameless :[0m when i vafed gswap to bard i came back[0m
+[13:41] [0m[31;1m[Clan] Morion :[0m ahh nods[0m
+[13:41] [0m[31;1m[Clan] Prism :[0m I feel the same way about 3s, feels hollow to me, like who[0m
+[13:41] [0m               cares[0m
+[13:41] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[13:41] [0m[31;1m[Clan] Morion :[0m yeah![0m
+[13:41] [0m[31;1m[Clan] Prism :[0m I use it to explore areas and figure out things at the same[0m
+[13:41] [0m               time[0m
+[13:41] [0m[31;1m[Clan] Morion :[0m its a good test site[0m
+[13:41] [0m[31;1m[Clan] Prism :[0m but that's it[0m
+[13:41] [0m[31;1m[Clan] Byron :[0m and fuck ariakis[0m
+[13:41] [0m[31;1m[Clan] Prism :[0m nod[0m
+[13:41] [0m[31;1m[Clan] Nameless :[0m it was nice to have a whole mud to yourself kinda[0m
+[13:41] [0m[31;1m[Clan] Byron :[0m so ya[0m
+[13:42] [0m[31;1m[Clan] Prism :[0m I was on last week, 7 players on[0m
+[13:42] [0m[31;1m[Clan] Nameless :[0m and ariakis hadnt bought his way to success back when i[0m
+[13:42] [0m                  played[0m
+[13:42] [0m[31;1m[Clan] Timmy :[0m i like 3s to chat shit with spont, damian, chaed, that's[0m
+[13:42] [0m               about it[0m
+[13:42] [0m[31;1m[Clan] Byron :[0m i miss spontanius[0m
+[13:42] [0m[31;1m[Clan] Nameless :[0m ahh nod i loved playing with spont[0m
+[13:42] [0m[31;1m[Clan] Prism :[0m who was Spont on 3k? He had to have played[0m
+[13:42] [0m[31;1m[Clan] Timmy :[0m spont :P[0m
+[13:42] [0m[31;1m[Clan] Byron :[0m spontanius[0m
+[13:42] [0m[31;1m[Clan] Prism :[0m oh[0m
+[13:42] [0m[31;1m[Clan] Prism :[0m laf[0m
+[13:42] [0m[31;1m[Clan] Morion :[0m silly prism[0m
+[13:42] [0m[31;1m[Clan] Timmy :[0m he's old school bard[0m
+[13:42] [0m[31;1m[Clan] Byron :[0m we came up in bards together[0m
+[13:42] [0m[31;1m[Clan] Nameless :[0m and whoever untouch and briannas kid was[0m
+[13:42] [0m[31;1m[Clan] Nameless :[0m he was my pocket witch[0m
+[13:42] [0m[31;1m[Clan] Byron :[0m orgrim/nix/spont/me were kinda the same size for a long time[0m
+[13:43] [0m[31;1m[Clan] Timmy :[0m kastyr[0m
+[13:43] [0m[31;1m[Clan] Nameless :[0m nod kas[0m
+[13:43] [0m[31;1m[Clan] Timmy :[0m he just vanished, shame[0m
+[13:43] [0m[31;1m[Clan] Nameless :[0m yeah[0m
+[13:43] [0m[31;1m[Clan] Timmy :[0m probably discovered girls and cocaine[0m
+[13:43] [0m[31;1m[Clan] Nameless :[0m i think i played a bit after he poofed but was kinda meh[0m
+[13:43] [0m                  with no real goals aside from last 2 sii movies[0m
+[13:43] [0m[31;1m[Clan] Nameless :[0m and the rando other alts[0m
+[13:44] [0m[31;1m[Clan] Nameless :[0m i capped out angels before transcend was added, more or[0m
+[13:44] [0m                  less, and reached sii's peak in power at only gl 18 or[0m
+[13:44] [0m                  whatever nigel is[0m
+[13:44] [0m[31;1m[Clan] Timmy :[0m who was your 3s sii?[0m
+[13:44] [0m[31;1m[Clan] Nameless :[0m nigel[0m
+[13:44] [0m[31;1m[Clan] Timmy :[0m ohh wtf i didn't know you're nigel[0m
+[13:44] [0m[31;1m[Clan] Timmy :[0m haha[0m
+[13:45] [0m[31;1m[Clan] Nameless :[0m :D[0m
+[13:45] [0m[31;1m[Clan] Timmy :[0m so we were in the same corp on 3s and 3k, friennndssss[0m
+[13:45] [0m[31;1m[Clan] Nameless :[0m oh laf, nice[0m
+[13:45] [0m[31;1m[Clan] Nameless :[0m im lost somewhere in hell on nigel so until i wander my[0m
+[13:45] [0m                  way out in the dark hes perma retired[0m
+[13:45] [0m[31;1m[Clan] Timmy :[0m can't just suicide?[0m
+[13:46] [0m[31;1m[Clan] Nameless :[0m nah, i tried[0m
+[13:46] [0m[31;1m[Clan] Nameless :[0m pulls me back into hell[0m
+[13:46] [0m[31;1m[Clan] Timmy :[0m that's annoying[0m
+[13:46] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[13:46] [0m[31;1m[Clan] Decav :[0m anyone around to help me xfer banner?[0m
+[13:46] [0m[31;1m[Clan] Reacher :[0m i can when this dies[0m
+[13:46] [0m[31;1m[Clan] Nameless :[0m im guessing i went down to help someone with barra or[0m
+[13:46] [0m                  taramin or something[0m
+[13:46] [0m[31;1m[Clan] Decav :[0m woo thanks[0m
+[13:46] [0m[31;1m[Clan] Reacher :[0m come to arcard?[0m
+[13:46] [0m[31;1m[Clan] Nameless :[0m and then lded there and came back and chose my wrong[0m
+[13:46] [0m                  return macro[0m
+[13:46] [0m[31;1m[Clan] Reacher :[0m room outside title room?[0m
+[13:47] [0m[31;1m[Clan] Reacher :[0m have about 20 rnds left on this[0m
+[13:47] [0m[31;1m[Clan] Reacher :[0m well maybe 12[0m
+[13:48] [0m[31;1m[Clan] Timmy :[0m b, can martyr tank beloch reliably?[0m
+[13:48] [0m[31;1m[Clan] Timmy :[0m i'm nearly same order now, wondering if beloch would be my[0m
+[13:48] [0m               limit[0m
+[13:49] [0m[31;1m[Clan] Prism :[0m I bet Timmy can't, cuz he sucks ASS[0m
+[13:49] [0m[31;1m[Clan] Timmy :[0m cry[0m
+[13:49] [0m[31;1m[Clan] Byron :[0m w gear ya[0m
+[13:50] [0m[31;1m[Clan] Byron :[0m but i also have almkst everything phase 10[0m
+[13:50] [0m[31;1m[Clan] Byron :[0m next lvl martyr will get a lot stronger cause dex is lowish[0m
+[13:50] [0m[31;1m[Clan] Timmy :[0m prism reminds me of when i was young and my mother died and[0m
+[13:50] [0m               my dad remarried, but the woman who he married had previously[0m
+[13:50] [0m               been married but lost her husband in a horrific car accident[0m
+[13:50] [0m               - in the same car accident was her kid, redheaded, and they[0m
+[13:50] [0m               were left retarded and busted up from the accident - anyway[0m
+[13:50] [0m               so my dad married her and her daughter joined the family and[0m
+[13:50] [0m               i was supposed to consider her my stepsister, but one night i[0m
+[13:50] [0m               waited for her to come up the stairs and pushed her down them[0m
+[13:50] [0m[31;1m[Clan] Byron :[0m reacher, wanna do fbat?[0m
+[13:50] [0m[31;1m[Clan] Timmy :[0m that's prism for me[0m
+[13:50] [0m[31;1m[Clan] Prism :[0m tldr[0m
+[13:51] [0m[31;1m[Clan] Byron :[0m laf[0m
+[13:51] [0m[31;1m[Clan] Byron :[0m tldr: <3[0m
+[13:51] [0m[31;1m[Clan] Reacher :[0m prism reminds you of all that, eh?[0m
+[13:51] [0m[31;1m[Clan] Timmy :[0m yups[0m
+[13:51] [0m[31;1m[Clan] Timmy :[0m he's my stepsister[0m
+[13:51] [0m[31;1m[Clan] Reacher :[0m i thought you were going to date her.[0m
+[13:52] [0m[31;1m[Clan] Prism :[0m Timmy reminds me a lot of myself, actually, except much[0m
+[13:52] [0m               weaker and dumber and uglier and with less phases and much[0m
+[13:52] [0m               less overall understanding of the Gentech gobj <3[0m
+[13:52] [0m[31;1m[Clan] Timmy :[0m but taller[0m
+[13:52] [0m[31;1m[Clan] Prism :[0m are you? I'm 6'2[0m
+[13:52] [0m[31;1m[Clan] Timmy :[0m TWINS[0m
+[13:52] [0m[31;1m[Clan] Prism :[0m OH NO[0m
+[13:52] [0m[31;1m[Clan] Nameless :[0m im short af[0m
+[13:52] [0m[31;1m[Clan] Byron :[0m <3[0m
+[13:52] [0m[31;1m[Clan] Reacher :[0m that is 7 meters in metric[0m
+[13:52] [0m[31;1m[Clan] Timmy :[0m TWINSIES <3[0m
+[13:52] [0m[31;1m[Clan] Nameless :[0m twins clan[0m
+[13:52] [0m[34;1mTimmy shouts:[0m ME AND PRISM ARE TWINSIES[0m
+[13:52] [0m[31;1m[Clan] Morion :[0m im 6'2 too..[0m
+[13:52] [0m[34;1mPrism shouts:[0m I'm the hot one[0m
+[13:53] [0m[31;1m[Clan] Timmy :[0m TRIPLETS[0m
+[13:53] [0m[31;1m[Clan] Byron :[0m 622?[0m
+[13:53] [0m[31;1m[Clan] Morion :[0m prism has 6 tutus[0m
+[13:53] [0m[31;1m[Clan] Nameless :[0m 69.420 cm![0m
+[13:53] [0m[31;1m[Clan] Prism :[0m my clone gets 3 hits now! Prism V3.0 > Timmy![0m
+[13:54] [0m[31;1m[Clan] Reacher :[0m 69cm is like 2'3.5"[0m
+[13:54] [0m[31;1m[Clan] Timmy :[0m oo is that level 50?[0m
+[13:54] [0m[31;1m[Clan] Prism :[0m he's Kappa[0m
+[13:54] [0m[31;1m[Clan] Reacher :[0m you'd have to look up to warwick dvis[0m
+[13:54] [0m[31;1m[Clan] Nameless :[0m i am a small boi but not that small[0m
+[13:54] [0m[31;1m[Clan] Prism :[0m only 42% to max tier haha[0m
+[13:54] [0m[31;1m[Clan] Timmy :[0m 14% to max tier :P[0m
+[14:01] [0m[31;1m[Clan] Nameless :[0m i need to work on gentech this boot sometime[0m
+[14:03] [0mnewb Solkmerd [monk/7]: Is there a reason I can't unkeep and crumble my[0m
+[14:03] [0m                        orcish helm or cutthroat sash? how do I get rid of[0m
+[14:03] [0m                        these?[0m
+[14:03] [0mnewb Gaidin [gentech/136]: dispose[0m
+[14:04] [0mnewb Gaidin [gentech/136]: crumble is a special command on just the[0m
+[14:04] [0m                           autoloading gear.[0m
+[14:05] [0mnewb Solkmerd [monk/7]: Ohhh, so if it's not login gear is there a reason I[0m
+[14:05] [0m                        can't sell them either?[0m
+[14:05] [0mnewb Byron [bard/138]: or sell.them to a shop[0m
+[14:05] [0mnewb Guru [mage/134]: what message do you get when you try to sell?[0m
+[14:05] [0mnewb Solkmerd [monk/7]: They have no value[0m
+[14:06] [0m[37;1mKitt flaps :[0m sectionz reset because i want to. 5 mins tops[0m
+[14:06] [0mnewb Guru [mage/134]: that's the reason[0m
+[14:06] [0mnewb Solkmerd [monk/7]: Well geeze, can't he just take them off my hands[0m
+[14:06] [0m                        anyways lol. Free stuff for him to esll bahaha[0m
+[14:06] [0mnewb Solkmerd [monk/7]: I wonder why they aren't even worth like 1 coin or[0m
+[14:06] [0m                        something.[0m
+[14:06] [0mnewb Guru [mage/134]: dispose <item> in that case, like Gaidin mentioned[0m
+[14:07] [0m[37;1mKitt flaps :[0m 5 bloody mins!!![0m
+[14:07] [0mnewb Evo [changeling/24]: some stuff is just so easy to get that they didn't[0m
+[14:07] [0m                          want to make it worth anything to sell them.[0m
+[14:07] [0m[37;1mNauda flaps :[0m wait a bloody moonit![0m
+[14:08] [0mnewb Guru [mage/134]: there's also a supply and demand mechanic with the[0m
+[14:08] [0m                      shops. If they have a lot of "silk sashes", then the[0m
+[14:08] [0m                      value of the next silk sash trying to be sold will be[0m
+[14:08] [0m                      diminished, and eventually reach 0[0m
+[14:08] [0mnewb Solkmerd [monk/7]: Ah, that makes sense.[0m
+[14:09] [0m[37;1mKitt flaps :[0m 2 bloody mins[0m
+[14:09] [0m[37;1mKitt flaps :[0m dont axe me to reset you[0m
+[14:09] [0m[37;1mMurmandamus flaps :[0m i'm wearing a bandaid, does it still count as bloody?[0m
+[14:10] [0m[37;1mKitt flaps :[0m pulling[0m
+[14:17] [0m[31;1m[Clan] Nameless :[0m 111 a small priority but definitely wanna gxp more in[0m
+[14:17] [0m                  general[0m
+[14:20] [0m[31;1m[Clan] Timmy :[0m i'll drag ye around if i'm awake[0m
+[14:21] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[14:21] [0m[31;1m[Clan] Nameless :[0m wont be til sometime later i think, gonna hang out with[0m
+[14:21] [0m                  the kid til he goes back home with his mom[0m
+[14:29] [0m[37;1mNameless flaps :[0m ahhh new cursed meatcanyon content[0m
+[14:37] [0m[31;1m[Clan] Reacher :[0m yeah i'll be boarded before day 4 appears[0m
+[14:38] [0m[31;1m[Clan] Reacher :[0m the plane is already being cleaned[0m
+[14:38] [0m[31;1m[Clan] Reacher :[0m maybe could do fb tonight[0m
+[14:39] [0m[31;1m[Clan] Reacher :[0m hmm unless byron wants to help me right now[0m
+[14:39] [0m[31;1m[Clan] Reacher :[0m and i LD for the next 4 hours and hope the room east[0m
+[14:39] [0m                 unloads[0m
+[14:39] [0m[31;1m[Clan] Reacher :[0m no sign of nix[0m
+[14:50] [0m[31;1m[Clan] Byron :[0m ya[0m
+[14:50] [0m[31;1m[Clan] Byron :[0m i offered an hour ago :P[0m
+[14:50] [0m[31;1m[Clan] Reacher :[0m oh?[0m
+[14:50] [0m[31;1m[Clan] Reacher :[0m heh[0m
+[14:50] [0m[31;1m[Clan] Reacher :[0m let's do it![0m
+[14:50] [0m[31;1m[Clan] Reacher :[0m well[0m
+[14:50] [0m[31;1m[Clan] Byron :[0m vamos[0m
+[14:50] [0mnewb Solkmerd [monk/7]: I was just following areadirections to get to the[0m
+[14:50] [0m                        land of ice people and I'm almost certain I followed[0m
+[14:50] [0m                        it correctly but it isn't bring me to the right[0m
+[14:50] [0m                        place.[0m
+[14:50] [0m[31;1m[Clan] Reacher :[0m if we can go in 1 min[0m
+[14:50] [0m[31;1m[Clan] Reacher :[0m they are going to start fifrst class boarding[0m
+[14:50] [0m[31;1m[Clan] Reacher :[0m in like 5 min[0m
+[14:50] [0m[31;1m[Clan] Reacher :[0m we'll be after that... we're in the back[0m
+[14:50] [0m[31;1m[Clan] Reacher :[0m this mob will take me 25 rounds[0m
+[14:51] [0m[31;1m[Clan] Byron :[0m mob half dead. meet at science[0m
+[14:51] [0m[31;1m[Clan] Reacher :[0m if can't do (finger[0m
+[14:51] [0m[31;1m[Clan] Reacher :[0m so do you have summon or tp[0m
+[14:51] [0m[31;1m[Clan] Byron :[0m both[0m
+[14:51] [0m[31;1m[Clan] Reacher :[0m oh you can't go ahead though... need to rally me first[0m
+[14:51] [0m[31;1m[Clan] Reacher :[0m oo[0m
+[14:51] [0m[31;1m[Clan] Reacher :[0m well fuck[0m
+[14:51] [0m[31;1m[Clan] Reacher :[0m you can do both ways[0m
+[14:51] [0m[31;1m[Clan] Reacher :[0m if you don't mind using them[0m
+[14:51] [0m[31;1m[Clan] Byron :[0m yep[0m
+[14:51] [0m[31;1m[Clan] Reacher :[0m thanks man[0m
+[14:51] [0m[31;1m[Clan] Byron :[0m at sci[0m
+[14:51] [0m[31;1m[Clan] Reacher :[0m or i can just ld in east room as i'll be on the plane for 3[0m
+[14:51] [0m                 hours[0m
+[14:51] [0m[31;1m[Clan] Reacher :[0m mob at death[0m
+[14:51] [0m[31;1m[Clan] Byron :[0m its fine ill use tp[0m
+[14:57] [0m[31;1m[Clan] Reacher :[0m thanks![0m
+[14:57] [0m[31;1m[Clan] Byron :[0m have a safe flight[0m
+[14:57] [0m[31;1m[Clan] Reacher :[0m we, suit is worn[0m
+[14:57] [0m[31;1m[Clan] Reacher :[0m ok, boarding[0m
+[14:57] [0m[31;1m[Clan] Byron :[0m bacm to sz[0m
+[14:58] [0mnewb Locrian [bard/131]: haven't made the trip based on those directions[0m
+[14:58] [0m                         yet, so i'm sorry. but my path is typically portal,[0m
+[14:58] [0m                         12n, leave, 11n, 3e, 9n, portal[0m
+[15:08] [0mnewb Solkmerd [monk/7]: Am I not able to attack the ice people? I don't see[0m
+[15:08] [0m                        any enemies in this area wherever I go and I can't[0m
+[15:08] [0m                        attack them.[0m
+[15:10] [0mnewb Mental [elemental/133]: you should be able to, what is it saying when[0m
+[15:10] [0m                             you try?[0m
+[15:11] [0mnewb Solkmerd [monk/7]: It just says 'There is no [insert creature here'[0m
+[15:11] [0mnewb Mental [elemental/133]: well you need to find the creature, what[0m
+[15:11] [0m                             creature is in the room?[0m
+[15:11] [0mnewb Gaidin [gentech/136]: Try kill man or kill woman[0m
+[15:11] [0mnewb Ellegon [juggernaut/132]: probably typing too specific argument.[0m
+[15:11] [0mnewb Solkmerd [monk/7]: ohhhh[0m
+[15:12] [0mnewb Mental [elemental/133]: they all might have a common identifier to, if[0m
+[15:12] [0m                             you examine them, and find them to be human,[0m
+[15:12] [0m                             kill human might work on all of them for[0m
+[15:12] [0m                             example[0m
+[15:12] [0mnewb Solkmerd [monk/7]: Nice, was able to attack. But I think I'm frozen so[0m
+[15:12] [0m                        I can't even fight effectively hahaha[0m
+[15:12] [0mnewb Mental [elemental/133]: but i dont know if they are human or not, but[0m
+[15:12] [0m                             examines might help[0m
+[15:13] [0mnewb Solkmerd [monk/7]: yea kill woman worked, I kept doing ice woman and[0m
+[15:13] [0m                        stuff[0m
+[15:13] [0mnewb Gaidin [gentech/136]: I believe monks also can do "akill" which will[0m
+[15:13] [0m                           attack the first mob in the room.[0m
+[15:13] [0mnewb Gaidin [gentech/136]: Just be careful you're not somewhere with a mob[0m
+[15:13] [0m                           you don't want to attack.[0m
+[15:34] [0mYou can currently reforge 12 items.[0m
+[15:51] [0mYou can currently reforge 0 items.[0m
+[16:34] [0mYou can currently reforge 4 items.[0m
+[16:39] [0m[31;1m[Clan] Nameless :[0m https://www.youtube.com/watch?v=8pzvkscq4h8[0m
+[16:42] [0m[34;1mMurmandamus shouts:[0m turn it around....[0m
+[16:44] [0m[34;1mNameless shouts:[0m you boys have been doing a REAL good job, why don't you[0m
+[16:44] [0m                 have a gumball? spit on the fingers now, these old hinges[0m
+[16:44] [0m                 arent what they used to be[0m
+[16:44] [0m[34;1mMurmandamus shouts:[0m not what I had in mind but you've got my attention...[0m
+[16:45] [0m[31;1m[Clan] Byron :[0m 71. One way, two paths and the nut   Creator(s)       :[0m
+[16:45] [0m               Spontanius[0m
+[16:45] [0m[31;1m[Clan] Byron :[0m now that's an interesting area  name[0m
+[16:46] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[16:46] [0m[31;1m[Clan] Nameless :[0m amazing[0m
+[16:46] [0m[31;1m[Clan] Saim :[0m think thats just a wiz collage room[0m
+[16:47] [0m[31;1m[Clan] Saim :[0m but amazing for sure[0m
+[16:47] [0m[31;1m[Clan] Byron :[0m oh, that could be it[0m
+[17:16] [0m[31;1m[Clan] Xaryl :[0m anyone need a quick Sec Z reset?[0m
+[17:17] [0m[31;1m[Clan] Xaryl :[0m ok, using reset now[0m
+[17:17] [0m[31;1m[Clan] Morion :[0m thank you but im not even saved yet :P[0m
+[17:17] [0m[34;1mNauda shouts:[0m no Moo[0m
+[17:18] [0m[31;1m[Clan] Nameless :[0m woops, forgot to use my dupe earlier this morning[0m
+[17:19] [0m[31;1m[Clan] Byron :[0m if you wanna hop in we me[0m
+[17:19] [0m[31;1m[Clan] Byron :[0m w/[0m
+[17:19] [0m[31;1m[Clan] Byron :[0m i'm halfway through 146[0m
+[17:19] [0m[31;1m[Clan] Byron :[0m for anyone that resets[0m
+[17:20] [0m[31;1m[Clan] Byron :[0m or if you're open[0m
+[17:20] [0m[Auction] Robert : Up for bids: Ring of Hearts, Ring of Hearts and Ring of[0m
+[17:20] [0m                   Hearts.[0m
+[17:20] [0m[Auction] Robert : Xiu has requested 0 as the opening offer.[0m
+[17:20] [0m[Auction] Robert : Got 1,297 from Nauda(necr).  Do I hear 1,347?[0m
+[17:20] [0m[Auction] Xiu (blad) : polearm, proficiency, gemology. - dodge, chef, vigor.[0m
+[17:20] [0m                       - elemental, appraisal, sharpness.[0m
+[17:21] [0m[Auction] Murmandamus (necr) : NOT WHAT I WANT[0m
+[17:21] [0m[Auction] Robert : 1,297 going once![0m
+[17:21] [0m[Auction] Robert : Got 2,000 from Licklick(jedi).  Do I hear 2,040?[0m
+[17:21] [0m[Auction] Xiu (blad) : yeah a whole lot of nuffin pretty much[0m
+[17:21] [0m[Auction] Inquisitor (psic) : Dodge is pretty dope.  Errbuddy loves dodge.[0m
+[17:21] [0m[Auction] Byron (bard) : wtb: axe, axe, axe. - axe, axe, axe. - axe, axe,[0m
+[17:21] [0m                         axe.[0m
+[17:21] [0m[Auction] Robert : 2,000 going once![0m
+[17:21] [0m[Auction] Nauda (necr) : out[0m
+[17:21] [0m[Auction] Robert : 2,000 going twice![0m
+[17:21] [0m[Auction] Robert : Got 2,040 from Ellegon(jugg).  Do I hear 2,142?[0m
+[17:21] [0m[Auction] Xiu (blad) : that would take... a few timeslides. ;P[0m
+[17:21] [0m[Auction] Robert : Got 2,412 from Licklick(jedi).  Do I hear 2,532?[0m
+[17:21] [0m[Auction] Kyoujin (knig) : where's all the smuggle rings to sell space?[0m
+[17:21] [0m[Auction] Prism (gent) : I gotchu[0m
+[17:22] [0m[Auction] Byron (bard) : make graey slide again![0m
+[17:22] [0m[Auction] Robert : 2,412 going once![0m
+[17:22] [0m[Auction] Robert : 2,412 going twice![0m
+[17:22] [0m[Auction] Inquisitor (psic) : What, he thinks he's Han Solo?  Space is no[0m
+[17:22] [0m                              smuggler.  Not even in space.[0m
+[17:22] [0m[Auction] Ellegon (jugg) : I just bid to buy time to look at the atalkchat.[0m
+[17:22] [0m[Auction] Robert : Sold to Licklick for 2,412 coins![0m
+[17:22] [0m[31;1m[Clan] Byron :[0m can you imagine if xiu never left gentech and had that amount[0m
+[17:22] [0m               of playtime?[0m
+[17:22] [0m[31;1m[Clan] Prism :[0m lmao[0m
+[17:22] [0m[31;1m[Clan] Byron :[0m he'd be like... order 40[0m
+[17:23] [0m[31;1m[Clan] Prism :[0m at least :P[0m
+[17:33] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[17:33] [0m[31;1m[Clan] Nameless :[0m i dont remember xiu as antyhign other than bsinger[0m
+[17:34] [0m[31;1m[Clan] Nameless :[0m oh laf, graey, gotcha[0m
+[17:35] [0m[31;1m[Clan] Nameless :[0m xiu is very much reminiscent of the exp king type of[0m
+[17:35] [0m                  mudder a la brawn, lvl 140 and mortal, impressive in a[0m
+[17:35] [0m                  sense[0m
+[17:36] [0m[31;1m[Clan] Byron :[0m except xiu is actually knowledgeable and a really nice guy[0m
+[17:36] [0m[31;1m[Clan] Nameless :[0m fair distinction[0m
+[17:36] [0m[31;1m[Clan] Byron :[0m fucking brawn[0m
+[17:36] [0m[31;1m[Clan] Byron :[0m songs? songs? songs?[0m
+[17:36] [0m[31;1m[Clan] Nameless :[0m "hey, heal me and ftouch my shit"[0m
+[17:36] [0m[31;1m[Clan] Byron :[0m pretty sure every bard had him tellblocked[0m
+[17:37] [0m[31;1m[Clan] Prism :[0m does brawn still play on another char[0m
+[17:37] [0m[31;1m[Clan] Nameless :[0m name got a fair bit of growth from idling behind brawn and[0m
+[17:37] [0m                  elijah back in the day[0m
+[17:37] [0m[31;1m[Clan] Prism :[0m I've been contemplating hard in moving Akir to bsingers, and[0m
+[17:37] [0m               Xiu has talked to me and given me advice/info every time I've[0m
+[17:37] [0m               asked him. He seems like a really cool dude[0m
+[17:37] [0m[31;1m[Clan] Morion :[0m how bout dreamcast, i actually miss him tbh[0m
+[17:37] [0m[31;1m[Clan] Prism :[0m I remember his title was (Cheator) forever lol[0m
+[17:37] [0m[31;1m[Clan] Morion :[0m yep![0m
+[17:38] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[17:38] [0m[31;1m[Clan] Prism :[0m got caught trying to cheat on an mquest or somethin[0m
+[17:38] [0m[31;1m[Clan] Nameless :[0m i think thats why i got gifted durskaen as an mquest[0m
+[17:38] [0m[31;1m[Clan] Prism :[0m did you really? when?[0m
+[17:38] [0m[31;1m[Clan] Nameless :[0m i didnt cheat, i just played stupid and instasolved like 2[0m
+[17:38] [0m                  in a row so i got the cheeky dursk[0m
+[17:38] [0m[31;1m[Clan] Prism :[0m who gave it to you? rasta?[0m
+[17:39] [0m[31;1m[Clan] Nameless :[0m yea[0m
+[17:39] [0m[31;1m[Clan] Prism :[0m you piece of FILTH, you could have been getting hints for[0m
+[17:39] [0m               YEARS!!!!!!!!!!!!!!!!!!![0m
+[17:39] [0m[31;1m[Clan] Prism :[0m I WILL NEVER FORGIVE YOU FOR THIS[0m
+[17:39] [0m[31;1m[Clan] Nameless :[0m hahahah[0m
+[17:39] [0m[31;1m[Clan] Byron :[0m ^^[0m
+[17:39] [0m[34;1mPrism shouts:[0m Nameless is dead to me!!!![0m
+[17:39] [0m[31;1m[Clan] Byron :[0m laf[0m
+[17:39] [0m[31;1m[Clan] Morion :[0m it gon get solved prism, its ok[0m
+[17:39] [0m[34;1mByron shouts:[0m Who?[0m
+[17:40] [0m[31;1m[Clan] Prism :[0m h-[0m
+[17:40] [0m[31;1m[Clan] Prism :[0m derp[0m
+[17:41] [0m[31;1m[Clan] Nameless :[0m i think my hints were the common knowledge ones[0m
+[17:41] [0m[31;1m[Clan] Nameless :[0m "common"[0m
+[17:41] [0m[31;1m[Clan] Prism :[0m but, see, you keep accumulating the hints![0m
+[17:42] [0m[31;1m[Clan] Nameless :[0m true[0m
+[17:42] [0m[31;1m[Clan] Nameless :[0m i wasnt thinking long game[0m
+[17:43] [0m[31;1m[Clan] Nameless :[0m course i also didnt expect to be playing this well over a[0m
+[17:43] [0m                  decade in the future hehe[0m
+[17:43] [0m[31;1m[Clan] Nameless :[0m 15 years now![0m
+[18:32] [0m[31;1m[Clan] Ser :[0m was so close to the end and then had to get ready/drive to nc[0m
+[18:32] [0m             and my dungeon reset :([0m
+[18:35] [0m[31;1m[Clan] Byron :[0m cry[0m
+[18:35] [0m[31;1m[Clan] Byron :[0m i hate when that happens[0m
+[18:35] [0m[31;1m[Clan] Byron :[0m i idled off twice on terra yesterday[0m
+[18:35] [0m[31;1m[Clan] Byron :[0m and was like fuckkkk i gotta do it again[0m
+[18:38] [0m[31;1m[Clan] Nameless :[0m i hate when that happens[0m
+[18:48] [0m[31;1m[Clan] Byron :[0m Your new continue code for Section 40 is[0m
+[18:48] [0m               RigmaroleOrneryBloviate[0m
+[18:48] [0m[31;1m[Clan] Byron :[0m wooooooooooooooooooo[0m
+[18:49] [0m[31;1m[Clan] Byron :[0m Don't need to finish I guess to get more continue codes[0m
+[18:49] [0m[31;1m[Clan] Droptable :[0m nod just have none and then get to the 20/40 boss. can do[0m
+[18:49] [0m                   it in any scaler too[0m
+[18:51] [0m[31;1m[Clan] Nameless :[0m will have to see if it actually gives tho[0m
+[18:51] [0m[31;1m[Clan] Ser :[0m @byron i want a green/orange main hook it up[0m
+[18:52] [0m[31;1m[Clan] Nameless :[0m i want gloves![0m
+[18:52] [0m[31;1m[Clan] Nameless :[0m my hands are cold![0m
+[18:52] [0m[31;1m[Clan] Byron :[0m lol, can rip through continue codes now for gear[0m
+[19:18] [0mYou can currently reforge 4 items.[0m
+[19:18] [0mYou can currently reforge 2 items.[0m
+[19:18] [0mYou can currently reforge 0 items.[0m
+[19:19] [0m[31;1m[Clan] Byron :[0m lets rip event twice[0m
+[19:19] [0m[31;1m[Clan] Byron :[0m with all of us[0m
+[19:19] [0m[31;1m[Clan] Byron :[0m fast[0m
+[19:19] [0m[31;1m[Clan] Byron :[0m then finish up in sz[0m
+[19:19] [0m[31;1m[Clan] Byron :[0m since theres like another 2-3 hrs at least[0m
+[19:19] [0m[31;1m[Clan] Ser :[0m at entrance[0m
+[19:19] [0m[31;1m[Clan] Byron :[0m brt once this dies[0m
+[19:20] [0m[31;1m[Clan] Ser :[0m afk 1 min[0m
+[19:21] [0m[31;1m[Clan] Byron :[0m pquit when you get back[0m
+[19:21] [0m[31;1m[Clan] Byron :[0m so name can pop in[0m
+[19:25] [0m[31;1m[Clan] Byron :[0m lol[0m
+[19:25] [0m[31;1m[Clan] Byron :[0m holler when youre back[0m
+[19:27] [0m[31;1m[Clan] Nameless :[0m oh[0m
+[19:28] [0m[31;1m[Clan] Nameless :[0m idlin next to ser[0m
+[19:33] [0m[31;1m[Clan] Morion :[0m confirm terra 130 is 100wc hammer[0m
+[19:33] [0m[31;1m[Clan] Prism :[0m can confirm Mor is v attracrtive irl, source: me[0m
+[19:34] [0m[31;1m[Clan] Morion :[0m hes projecting, hes the attractive one[0m
+[19:34] [0m[31;1m[Clan] Ser :[0m that's what i always run for 100 wc[0m
+[19:34] [0m[31;1m[Clan] Ser :[0m could be less than that tho[0m
+[19:34] [0m[31;1m[Clan] Morion :[0m oh maybe idk, i tried 120 and 125[0m
+[19:34] [0m[31;1m[Clan] Ser :[0m at scaler 50-70 there's a mixed blunt/magic hammer[0m
+[19:35] [0m[31;1m[Clan] Ser :[0m once blunt + magic > 100 tho the magic falls off[0m
+[19:35] [0m[31;1m[Clan] Morion :[0m ahhh interesting[0m
+[19:35] [0m[31;1m[Clan] Nameless :[0m very interesting[0m
+[19:37] [0m[31;1m[Clan] Morion :[0m what type is event?[0m
+[19:37] [0m[31;1m[Clan] Ser :[0m fire?[0m
+[19:37] [0m[31;1m[Clan] Morion :[0m you arent sure or..[0m
+[19:37] [0m[31;1m[Clan] Morion :[0m :P[0m
+[19:37] [0m[31;1m[Clan] Morion :[0m did i miss a tell[0m
+[19:39] [0mYou can currently reforge 4 items.[0m
+[20:00] [0m[31;1m[Clan] Elektra :[0m ya'll did event yet?[0m
+[20:00] [0m[31;1m[Clan] Prism :[0m no but my clone gets 3 attacks now so that's p cool[0m
+[20:01] [0m[31;1m[Clan] Elektra :[0m i see byron in there[0m
+[20:01] [0m[31;1m[Clan] Elektra :[0m if you want to lead it i can hit prism?[0m
+[20:01] [0m[31;1m[Clan] Elektra :[0m that really wasn't a question[0m
+[20:01] [0m[31;1m[Clan] Elektra :[0m ...but yet it was.[0m
+[20:02] [0m[31;1m[Clan] Nameless :[0m :D[0m
+[20:03] [0m[31;1m[Clan] Byron :[0m we're in here[0m
+[20:03] [0m[31;1m[Clan] Byron :[0m w/ ser/nameless[0m
+[20:03] [0m[31;1m[Clan] Byron :[0m more the merrier[0m
+[20:03] [0m[31;1m[Clan] Byron :[0m i can grab you[0m
+[20:04] [0m[31;1m[Clan] Elektra :[0m ah, come out and i'll port to you[0m
+[20:04] [0m[31;1m[Clan] Byron :[0m you can port into event[0m
+[20:04] [0m[31;1m[Clan] Byron :[0m i think?[0m
+[20:04] [0m[31;1m[Clan] Elektra :[0m that was bs byron[0m
+[20:05] [0m[31;1m[Clan] Elektra :[0m sorry i couldn't wait for day4, heh[0m
+[20:05] [0m[31;1m[Clan] Elektra :[0m maybe we'll do day 5 tomorrow[0m
+[20:16] [0m[34;1mNightrider shouts:[0m murmandamus you scrub![0m
+[20:19] [0m[31;1m[Clan] Byron :[0m im here[0m
+[20:19] [0m[31;1m[Clan] Elektra :[0m i'm just manually clearing the trash in the alien ship[0m
+[20:20] [0m[31;1m[Clan] Elektra :[0m ser skips all the north/south exits[0m
+[20:20] [0m[31;1m[Clan] Byron :[0m lets reset[0m
+[20:20] [0m[31;1m[Clan] Byron :[0m and re-run[0m
+[20:20] [0m[31;1m[Clan] Elektra :[0m oh[0m
+[20:20] [0m[31;1m[Clan] Byron :[0m ya cause they change[0m
+[20:20] [0m[31;1m[Clan] Elektra :[0m ok[0m
+[20:20] [0m[31;1m[Clan] Elektra :[0m well 2 mobs left[0m
+[20:20] [0m[31;1m[Clan] Byron :[0m so you cant make a path for it[0m
+[20:21] [0m[31;1m[Clan] Elektra :[0m and i'm not rallied[0m
+[20:21] [0m[31;1m[Clan] Byron :[0m lol[0m
+[20:21] [0m[31;1m[Clan] Elektra :[0m did you already reset?[0m
+[20:21] [0m[31;1m[Clan] Byron :[0m nope[0m
+[20:21] [0m[31;1m[Clan] Byron :[0m ser idle but he can catch us[0m
+[20:22] [0m[31;1m[Clan] Elektra :[0m he's in bed[0m
+[20:22] [0m[31;1m[Clan] Elektra :[0m as he said[0m
+[20:22] [0m[31;1m[Clan] Byron :[0m didnt see that[0m
+[20:22] [0m[31;1m[Clan] Elektra :[0m fyi[0m
+[20:22] [0m[31;1m[Clan] Elektra :[0m reps are identical scaler 142-149[0m
+[20:23] [0m[31;1m[Clan] Elektra :[0m but mobs might be also[0m
+[20:24] [0m[31;1m[Clan] Elektra :[0m on last one[0m
+[20:25] [0m[31;1m[Clan] Elektra :[0m ok[0m
+[20:25] [0m[31;1m[Clan] Elektra :[0m want to re-do it now?[0m
+[20:30] [0m[34;1mInix shouts:[0m Is he hanging out the passenger side of his best friend's ride?[0m
+[20:31] [0m[34;1mNameless shouts:[0m eeeeeeagle![0m
+[20:31] [0m[34;1mMurmandamus shouts:[0m tryin to holler at Inix[0m
+[20:39] [0mYou can currently reforge 8 items.[0m
+[20:43] [0m[37;1mMurmandamus flaps :[0m resetting sec z soon[0m
+[20:43] [0m[34;1mNightrider shouts:[0m the Moo is alive, with[0m
+[20:44] [0m[37;1mMurmandamus flaps :[0m 2 mins[0m
+[20:46] [0m[37;1mMurmandamus flaps :[0m last call for secz reset[0m
+[21:16] [0m[31;1m[Clan] Byron :[0m Cha: 380[0m
+[21:16] [0m[31;1m[Clan] Byron :[0m so pretty[0m
+[21:16] [0m[31;1m[Clan] Byron :[0m wish i had embiggen[0m
+[21:16] [0m[31;1m[Clan] Byron :[0m oh shit i do[0m
+[21:16] [0m[31;1m[Clan] Byron :[0m Cha: 517[0m
+[21:17] [0m[31;1m[Clan] Byron :[0m wooooooooooooooo[0m
+[21:17] [0m[31;1m[Clan] Archimedes :[0m hehe[0m
+[21:19] [0m[31;1m[Clan] Nameless :[0m hot[0m
+[21:19] [0m[31;1m[Clan] Reacher :[0m nice[0m
+[21:20] [0m[31;1m[Clan] Reacher :[0m The computer chirps 'You just scored a new personal best[0m
+[21:20] [0m                 record for damage[0m
+[21:20] [0m[31;1m[Clan] Reacher :[0m 3x[0m
+[21:20] [0m[31;1m[Clan] Morion :[0m woot![0m
+[21:20] [0m[31;1m[Clan] Reacher :[0m just found 3 rohs in box[0m
+[21:20] [0m[31;1m[Clan] Byron :[0m i put 18 in there[0m
+[21:20] [0m[31;1m[Clan] Reacher :[0m with 2 fire/ice mskills[0m
+[21:20] [0m[31;1m[Clan] Reacher :[0m i have 9/9 for elemental disc[0m
+[21:20] [0m[31;1m[Clan] Reacher :[0m so 9% extra damage[0m
+[21:20] [0m[31;1m[Clan] Morion :[0m oh i put a 100wc hammer in e, may be a spork or 2?[0m
+[21:20] [0m[31;1m[Clan] Reacher :[0m boom[0m
+[21:20] [0m[31;1m[Clan] Byron :[0m oo[0m
+[21:20] [0m[31;1m[Clan] Byron :[0m if you're running hammers, I'd love to see if I can get a[0m
+[21:20] [0m               varied one[0m
+[21:20] [0m[31;1m[Clan] Morion :[0m oh you need one b?[0m
+[21:20] [0m[31;1m[Clan] Byron :[0m I want to see if the dtype changes[0m
+[21:21] [0m[31;1m[Clan] Byron :[0m or if my song dominates the dtype[0m
+[21:21] [0m[31;1m[Clan] Morion :[0m yar i need vary too[0m
+[21:21] [0m[31;1m[Clan] Byron :[0m err determines[0m
+[21:21] [0m[31;1m[Clan] Morion :[0m been trying all boot[0m
+[21:21] [0m[31;1m[Clan] Byron :[0m lol nog[0m
+[21:21] [0m[31;1m[Clan] Byron :[0m mind hammer?[0m
+[21:21] [0m[31;1m[Clan] Morion :[0m theres varied sporks thst are 100 in box[0m
+[21:21] [0m[31;1m[Clan] Morion :[0m aye[0m
+[21:21] [0m[31;1m[Clan] Byron :[0m i need a hammer for my song though[0m
+[21:21] [0m[31;1m[Clan] Reacher :[0m yeah but none mind damage[0m
+[21:21] [0m[31;1m[Clan] Byron :[0m 'hammer smashed face'[0m
+[21:21] [0m[31;1m[Clan] Morion :[0m poison i think[0m
+[21:21] [0m[31;1m[Clan] Reacher :[0m 2 ice one poison[0m
+[21:21] [0m[31;1m[Clan] Morion :[0m can you xmute?[0m
+[21:22] [0m[31;1m[Clan] Reacher :[0m i can harmonize twice more on turin[0m
+[21:22] [0m[31;1m[Clan] Morion :[0m or it just wouldnt be a hammer anymore huh[0m
+[21:22] [0m[31;1m[Clan] Byron :[0m yeah im nt sure wtf the song checks against, assume just mace[0m
+[21:23] [0m[31;1m[Clan] Morion :[0m try rolm then? but no pene[0m
+[21:23] [0m[31;1m[Clan] Morion :[0m or auro mute? idk heh[0m
+[21:28] [0m[31;1m[Clan] Byron :[0m its no rush[0m
+[21:28] [0m[31;1m[Clan] Byron :[0m i can try fam too[0m
+[21:28] [0m[31;1m[Clan] Byron :[0m iirc thats mind[0m
+[21:28] [0m[31;1m[Clan] Byron :[0m or maybe not[0m
+[21:28] [0m[31;1m[Clan] Byron :[0m dunno[0m
+[21:28] [0m[31;1m[Clan] Morion :[0m i have one sec[0m
+[21:28] [0m[31;1m[Clan] Morion :[0m its 59 blunt[0m
+[21:29] [0m[31;1m[Clan] Reacher :[0m hmm[0m
+[21:29] [0m[31;1m[Clan] Reacher :[0m byron when you're out of secz maybe smack another fb?[0m
+[21:29] [0m[31;1m[Clan] Reacher :[0m if your tp/summon reset yet?[0m
+[21:29] [0m[31;1m[Clan] Reacher :[0m and you have no other use for it[0m
+[21:29] [0m[31;1m[Clan] Reacher :[0m specialized does reflect hits but it's rare.  i know absurd[0m
+[21:29] [0m                 and godlike do it so much more often.[0m
+[21:30] [0m[31;1m[Clan] Reacher :[0m oh those 3x damages were probably from huge stats from cmc.[0m
+[21:30] [0m[31;1m[Clan] Reacher :[0m ...well, that and the nice rohs[0m
+[21:31] [0m[31;1m[Clan] Reacher :[0m and you can use elektra's tp if you want to start a party[0m
+[21:31] [0m                 on section lvl 40 or whatever.[0m
+[21:47] [0m[36m<BS> Dangerzone :[0m which vaf has benefited your bsinger?[0m
+[22:02] [0mnewb Solkmerd [monk/16]: Anyone know how I can get out of a sock and a hard[0m
+[22:02] [0m                         space? I've been trying to interact with this bulge[0m
+[22:02] [0m                         and pebble but I can't figure anything out.[0m
+[22:03] [0mnewb Guru [mage/134]: just acknowledging your question. I'm not sure[0m
+[22:03] [0mnewb Nameless [bard/134]: i know this im pretty sure, sec while i browse[0m
+[22:03] [0m                          something[0m
+[22:04] [0mnewb Nameless [bard/134]: untie in some room i cant recall[0m
+[22:04] [0mnewb Nameless [bard/134]: im assuming up near the shoelaces outside of the[0m
+[22:04] [0m                          sock[0m
+[22:05] [0mnewb Solkmerd [monk/16]: Ok I'll find somewhere with shoelaces and try that[0m
+[22:06] [0mnewb Guru [mage/134]: might be from anywhere. Not sure.  Just try untie[0m
+[22:06] [0mnewb Solkmerd [monk/16]: figured it out, the solution really didn't make any[0m
+[22:06] [0m                         sense but I guess it worked haha[0m
+[22:06] [0mnewb Guru [mage/134]: great.  Way to stick with it[0m
+[22:07] [0mnewb Guru [mage/134]: some areas require the brawn, others the brain[0m
+[22:07] [0mnewb Solkmerd [monk/16]: Just strange how at the top it says I can't quite[0m
+[22:07] [0m                         climb to the edge of the shoe, but when I go down a[0m
+[22:07] [0m                         level and find shoelaces that are 'far above me'[0m
+[22:07] [0m                         I'm able to untie them haha.[0m
+[22:08] [0mnewb Nameless [bard/134]: yeah, its a weirdly laid out area[0m
+[22:08] [0mnewb Solkmerd [monk/16]: That's Chaos though! What did I expect![0m
+[22:08] [0mnewb Tychicus [jedi/70]: Chaos is annoying that way.[0m
+[22:09] [0mnewb Solkmerd [monk/16]: Whoa so creepy...I was trying to get to sesame[0m
+[22:09] [0m                         street but got distracted by the shoe, turns out it[0m
+[22:09] [0m                         spat me out right at the entrance to sesame street[0m
+[22:09] [0m                         :O[0m
+[22:09] [0mnewb Devolved [bard/131]: our new AI algorithms walk right up to creepy and[0m
+[22:09] [0m                          lick the window.[0m
+[22:10] [0mnewb Solkmerd [monk/16]: :D[0m
+[22:12] [0mnewb Solkmerd [monk/16]: Oh gosh totally flabbergasted.....I signed in and[0m
+[22:12] [0m                         all of my aliases in portal were gone, but then I[0m
+[22:12] [0m                         left quick and came back and I have them again O.o[0m
+[22:15] [0m[36m<BS> Zokko :[0m in terms of?[0m
+[22:15] [0m[36m<BS> Zokko :[0m ldlogin so i can gear up[0m
+[22:17] [0m[36m<BS> Xiu :[0m never hurts to have scaler[0m
+[22:17] [0m[36m<BS> Dangerzone :[0m got that  my  Jedi  carries[0m
+[22:23] [0mYou can currently reforge 12 items.[0m
+[22:26] [0m[31;1m[Clan] Reacher :[0m about 11% extra damage with cmc[0m
+[22:29] [0m[31;1m[Clan] Reacher :[0m 60% to lvl, chug chug chug[0m
+[22:29] [0m[31;1m[Clan] Reacher :[0m night all[0m
+[22:30] [0m[37;1mCaeli flaps :[0m So, I raised my voice to be heard at D&D tonight and was told[0m
+[22:30] [0m              to use my indoor voice.[0m
+[22:31] [0m[37;1mEllegon flaps :[0m did it antagonize you?[0m
+[22:31] [0m[37;1mNameless flaps :[0m oof[0m
+[22:31] [0m[37;1mEllegon flaps :[0m was it followed up with ... "wow, calm down."[0m
+[22:32] [0m[37;1mTychicus flaps :[0m I'm calm! *tazed*[0m
+[22:32] [0m[37;1mReacher flaps :[0m i tend to talk a bit loud but I have a friend who will start[0m
+[22:32] [0m                talking so loud ... more than once in a restaurant[0m
+[22:32] [0m                neighboring tables told him to quite down, heh.[0m
+[22:32] [0m[37;1mCaeli flaps :[0m No, just to use my indoor voice after be interrupted once and[0m
+[22:32] [0m              then being talked over again.[0m
+[22:33] [0m[37;1mCaeli flaps :[0m Info, only woman in a D&D groupl of 3 guy players and a guy DM[0m
+[22:33] [0m[37;1mTychicus flaps :[0m Maybe you need to explain how rude they are next time?[0m
+[22:33] [0m[37;1mCaeli flaps :[0m I started raising my hand.[0m
+[22:34] [0m[37;1mEllegon flaps :[0m I like to expand or riff off what people say, but to do[0m
+[22:34] [0m                that, you have to let them talk.[0m
+[22:34] [0m[37;1mTychicus flaps :[0m Oooh intimidation tactics, if they ignore you then you just[0m
+[22:34] [0m                 smack them with your + to crit hand. Gotcha![0m
+[22:34] [0m[37;1mEllegon flaps :[0m lol, I also pictured her raising the back of her hand.[0m
+[22:34] [0m[37;1mTychicus flaps :[0m *whistles innocently*[0m
+[22:34] [0m[37;1mCaeli flaps :[0m Heh.[0m
+[22:35] [0m[37;1mNameless flaps :[0m i like playing cha based characters for a reason i guess[0m
+[22:35] [0m[37;1mTychicus flaps :[0m I r smurt and purdy.[0m
+[22:36] [0m[37;1mNameless flaps :[0m terry crews the tortle paladin: in character reasons to[0m
+[22:36] [0m                 yell constantly[0m
+[22:37] [0m[37;1mTychicus flaps :[0m Tortle soup is a delicacy in some circles.[0m
+[22:38] [0m[37;1mCaeli flaps :[0m I'm just going to start saying I was talking if someone[0m
+[22:38] [0m              interrupts me again[0m
+[22:39] [0m[37;1mEllegon flaps :[0m does it rattle you? if not, just keep talking and finish.[0m
+[22:39] [0m                then... clearly expect everyone to have heard you. then[0m
+[22:39] [0m                slowly turn to look at the person that talked over you.[0m
+[22:40] [0m[37;1mTychicus flaps :[0m Just say "oh, so nobody wants $50? Guess I'll keep it[0m
+[22:40] [0m                 then." xD"[0m
+[22:41] [0m[37;1mEllegon flaps :[0m point at the ground behind that guy talking and say, "is[0m
+[22:41] [0m                that your weed?"[0m
+[22:42] [0m[37;1mCaeli flaps :[0m THAT would work!!!  LOL![0m
+[22:43] [0m[37;1mTychicus flaps :[0m Is that your blow?[0m
+[22:47] [0m[37;1mTychicus flaps :[0m So I guess if you get both vaccines CDC says you can go[0m
+[22:47] [0m                 back to pre pandemic living.[0m
+[22:47] [0m[37;1mAdalius flaps :[0m with very minimal exceptions[0m
+[22:47] [0m[37;1mAdalius flaps :[0m mainly revolving around healthcare settings[0m
+[22:48] [0m[37;1mTychicus flaps :[0m Yeah and state laws.[0m
+[22:49] [0m[37;1mEllegon flaps :[0m private property/companies can still require you to mask up.[0m
+[22:49] [0m                so... like don't be an arse.[0m
+[22:50] [0m[37;1mEllegon flaps :[0m I can see people trying to quote the CDC, and argue about[0m
+[22:50] [0m                FREEDUMBS.[0m
+[22:51] [0m[37;1mAdalius flaps :[0m we need to just amend the constitution with a DBAD clause.[0m
+[22:51] [0m[37;1mTychicus flaps :[0m https://tinyurl.com/jvk2yffd This is where it says it,[0m
+[22:51] [0m                 people can argue it all they want. :O[0m
+[22:54] [0m[37;1mCaeli flaps :[0m I've seen the BS where they claim the virus hasn't been[0m
+[22:54] [0m              isolated.[0m
+[22:54] [0m[37;1mTychicus flaps :[0m I have gone by the CDC the whole time.[0m
+[23:00] [0m[37;1mNauda flaps :[0m zero's amendment, one who's left standing is the winner.[0m
+[23:04] [0m[37;1mTychicus flaps :[0m Ready for the $2000 a month stimulus?[0m
+[23:06] [0m[37;1mNauda flaps :[0m ready for the $2000 loaf of bread stimulus?[0m
+[23:09] [0mYou can currently reforge 0 items.[0m
+[23:23] [0mYou can currently reforge 4 items.[0m
+[23:40] [0m[37;1mEvo flaps :[0m who is proposing a $2000 stimulus?[0m
+[23:40] [0m[37;1mEvo flaps :[0m *per month*[0m
+[23:40] [0m[37;1mFluffy flaps :[0m gimme $2000 ... i stimulate you ... long time![0m
+[23:41] [0m[37;1mEvo flaps :[0m monthly payments are far more effective, but all we have gotten[0m
+[23:41] [0m            has been random chunks and dribbles here and there.[0m

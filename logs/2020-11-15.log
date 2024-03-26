@@ -1,0 +1,651 @@
+- = LOG STARTED [00:00] = -
+[00:06] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[00:29] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[00:38] [0mnewb Guruk [adventurer/5]: are there any necessary skills i should be learning? I havent used[0m
+[00:38] [0m                           any of my points.[0m
+[00:39] [0mnewb Guruk [adventurer/5]: I was just trying to hold off on learning anything or even raising[0m
+[00:39] [0m                           stats until i can find a necromancer.[0m
+[00:39] [0mnewb Dathon [monk/79]: kind of depends on the guild for some of the choices, as some wear eq and[0m
+[00:39] [0m                       some dont or have restricted slots[0m
+[00:42] [0mnewb Dathon [monk/79]: but if you are set on necro, cant really go wrong with opening up[0m
+[00:42] [0m                       combat.armor.light to heavy so you can wear a main[0m
+[00:42] [0mnewb Dathon [monk/79]: and maybe crit hit to 4/5 and penetration to 5/5[0m
+[00:42] [0mnewb Guruk [adventurer/5]: Tbh im not really set on anything. I just wanna be able to do some[0m
+[00:42] [0m                           good soloing and damage.[0m
+[00:43] [0mnewb Ellegon [juggernaut/111]: yoi can safely raise con str some. youre not going ti raise it[0m
+[00:43] [0m                               too mich at your level[0m
+[00:53] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[06:31] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[06:55] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[07:20] [0m[31;1m[Clan] Sparkie :[0m anyone awake?[0m
+[07:24] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[07:51] [0m[34;1mEcholoc shouts:[0m woot[0m
+[07:58] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[08:06] [0mnewb Guruk [necromancer/11]: how do i advance skills Like armor?[0m
+[08:06] [0mnewb Agni [gentech/136]: you have to find a trainer for that[0m
+[08:06] [0mnewb Echoloc [juggernaut/108]: the mudskills?[0m
+[08:06] [0mnewb Echoloc [juggernaut/108]: or what Agni said :)[0m
+[08:07] [0mnewb Guruk [necromancer/11]: yeah mud skills[0m
+[08:07] [0mnewb Boscar [priest/57]: I don't think you need a trainer for the light/medium/heavy armor[0m
+[08:07] [0m                         skills[0m
+[08:07] [0mnewb Agni [gentech/136]: there's a list of trainers on the 3kwiki page. check that out. if oyu[0m
+[08:07] [0m                         can't find the trainer etc you may have to ask someone for help[0m
+[08:07] [0mnewb Echoloc [juggernaut/108]: fleecing for the win![0m
+[08:07] [0mnewb Agni [gentech/136]: yeah i don't know about that... just giving a general answer for[0m
+[08:07] [0m                         mskills in general[0m
+[08:07] [0mnewb Boscar [priest/57]: the syntax would be 'advance combat.armor.light'[0m
+[08:08] [0mnewb Boscar [priest/57]: In general follow the tree down from the category its in.[0m
+[08:08] [0mnewb Echoloc [juggernaut/108]: and if you can get the help file to come up, it gives you the[0m
+[08:08] [0m                               syntax[0m
+[08:08] [0mnewb Echoloc [juggernaut/108]: like help relfex would give you the string to sue :)[0m
+[08:08] [0mnewb Echoloc [juggernaut/108]: use[0m
+[08:24] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[08:30] [0m[31;1m[Clan] Roken :[0m 25 stats to go, feelsgoodman[0m
+[08:33] [0m[31;1m[Clan] Boscar :[0m WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO[0m
+[08:34] [0m[31;1m[Clan] Boscar :[0m for once zelligars isn't a bad area for me[0m
+[08:34] [0m[32;1mFrom afar, you cheer Boscar on!!![0m[0m
+[08:43] [0m[37;1mChrys flaps :[0m the best part of waking up, is killing smurfs right away.[0m
+[08:52] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[08:56] [0m[32mSpace tells you (Roken,Fluffy,Sleepy,Hooligan):[0m resetting zombies, come to entrance[0m
+[08:56] [0m[32;1mFrom afar, you tell Space that you'll be right there![0m[0m
+[08:57] [0m[32mSevenofnine says:[0m rally[0m
+[08:57] [0m[33;1m[PARTY][0m Sevenofnine joins the party.[0m
+[08:57] [0m[33;1m[PARTY][0m Javelin has quit the party.[0m
+[09:18] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[09:42] [0m[37;1mZiphe flaps :[0m anyone got event dirs[0m
+[09:50] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[10:02] [0m[31;1m[Clan] Sparkie :[0m 3 more stats to go, then i start that grind for 131. :)[0m
+[10:02] [0m[31;1m[Clan] Sparkie :[0m any crafters want my fragments/essences?[0m
+[10:02] [0m[31;1m[Clan] Sparkie :[0m i have a few hearts as well[0m
+[10:03] [0m[31;1m[Clan] Boscar :[0m <--[0m
+[10:04] [0m[31;1m[Clan] Boscar :[0m I can't carry them on this toon tho[0m
+[10:05] [0m[34;1mZiphe shouts:[0m Cuz the 808 kick drum makes the ladies get dumb, I need the volume higher I'm not[0m
+[10:05] [0m              ready to retire[0m
+[10:06] [0m[34;1mGaidin shouts:[0m False.  Nobody sleeps with the drummer.[0m
+[10:11] [0m[37;1mZiphe flaps :[0m go boscar?[0m
+[10:11] [0m[37;1mZiphe flaps :[0m w/l[0m
+[10:11] [0m[37;1mBoscar flaps :[0m GO BOSCAR![0m
+[10:14] [0m[37;1mRoken flaps :[0m hotel reset!! come satisfy your bloodlust[0m
+[10:14] [0m[37;1mRoken flaps :[0m oh shoot. I still have 1 hr[0m
+[10:14] [0m[32;1mFrom afar, Chrys grins at you.[0m[0m
+[10:17] [0mFd  Wm:g Wc: 34% Gx: 33.79% Fx: 42.70%[0m
+[10:17] [0m Tier Power                : Enrg Cooldn CooldR +Tier[0m
+[10:17] [0m ---- -------------------- : ---- ------ ------ -----[0m
+[10:17] [0m  0/5 [33;1mdestroy              :   35   6.4D   6.4D  7.5B [0m[0m
+[10:17] [0m  0/5 [33;1mdivine insight       :   25   1.8D   1.8D  3.5B [0m[0m
+[10:17] [0m  0/6 [33;1mduplicate creature   :   25   4.6h   4.6h  3.0B [0m[0m
+[10:17] [0m  6/6 [32;1mduplicate item       :   35   1.3D    RDY       [0m[0m
+[10:17] [0m  6/6 [36;1membiggen             :   22   8.3h   4.2h       [0m[0m
+[10:17] [0m  6/7 [32;1menergy well          :   55    27m    RDY  6.2B [0m[0m
+[10:17] [0m  0/6 [33;1menlarge              :    8    55m    55m  2.0B [0m[0m
+[10:17] [0m  0/5 [33;1mfarsight             :    9   1.8h   1.8h  2.8B [0m[0m
+[10:17] [0m  6/6 [36;1mfry                  :   25   1.1h    RDY       [0m[0m
+[10:17] [0m  0/6 [33;1mhasten               :    5     9m     9m  3.5B [0m[0m
+[10:17] [0m  0/5 [33;1mheal                 :   25    55m    55m  2.5B [0m[0m
+[10:17] [0m  5/5 [32;1mheightened awareness :   75   1.6D   1.4D       [0m[0m
+[10:17] [0m  0/5 [33;1mimmortality          :   20  12.9D  12.9D  3.5B [0m[0m
+[10:17] [0m  0/5 [33;1mpick pocket          :   25   6.4D   6.4D  5.0B [0m[0m
+[10:17] [0m  0/5 [33;1mprotection           :   25  11.0h  11.0h  2.5B [0m[0m
+[10:17] [0m  0/7 [33;1mquicken              :   35    18m    18m  1.5B [0m[0m
+[10:17] [0m  0/6 [33;1mredact               :   55  22.1h  22.1h  9.0B [0m[0m
+[10:17] [0m  0/4 [33;1mrefresh area         :   75   6.4D   6.4D  5.5B [0m[0m
+[10:17] [0m  0/4 [33;1mrefresh item         :   50  22.1h  22.1h  1.0B [0m[0m
+[10:17] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[10:25] [0m[35;1mEnder [Jedi(Knight)]:[0m Anyone have any idea about where I'd find druidic stones, i think its like[0m
+[10:25] [0m                      north/east of wayhaven?[0m
+[10:25] [0m[35;1mKsemia [Jedi(Master)]:[0m is that a menhirs thing?[0m
+[10:25] [0m[35;1mEnder [Jedi(Knight)]:[0m yah[0m
+[10:25] [0m[35;1mEnder [Jedi(Knight)]:[0m i know the menhirs area[0m
+[10:26] [0m[35;1mEnder [Jedi(Knight)]:[0m but I think i need to find something outside of the area as well.[0m
+[10:31] [0mDFd  Wm:g Wc: 22% Gx: 33.97% Fx: 42.75%[0m
+[10:33] [0m[34;1mPrism shouts:[0m Hi![0m
+[10:34] [0m[34;1mChrys shouts:[0m lo[0m
+[10:47] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[11:07] [0m[31;1m[Clan] Prism :[0m how has playing Boscar been?[0m
+[11:09] [0m[31;1m[Clan] Boscar :[0m enjoyable[0m
+[11:09] [0m[31;1m[Clan] Prism :[0m Well that is good[0m
+[11:09] [0m[31;1m[Clan] Taleast :[0m indeed[0m
+[11:09] [0m[31;1m[Clan] Taleast :[0m glad you're having fun, bro[0m
+[11:09] [0m[31;1m[Clan] Boscar :[0m im not BS or anything[0m
+[11:10] [0m[31;1m[Clan] Taleast :[0m that may be part of what you're enjoying[0m
+[11:10] [0m[31;1m[Clan] Taleast :[0m the challenge[0m
+[11:10] [0m[31;1m[Clan] Boscar :[0m but I actually like that[0m
+[11:10] [0m[31;1m[Clan] Boscar :[0m laf exactly[0m
+[11:10] [0m[31;1m[Clan] Boscar :[0m its fun partying w lik[0m
+[11:10] [0m[31;1m[Clan] Boscar :[0m its like the old days[0m
+[11:10] [0m[31;1m[Clan] Decav :[0m you playing him again next boot?[0m
+[11:11] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[11:11] [0m[31;1m[Clan] Taleast :[0m knowing at any moment... you could leave him to die?[0m
+[11:11] [0m[31;1m[Clan] Boscar :[0m two lowbies partying up[0m
+[11:11] [0m[31;1m[Clan] Boscar :[0m ya but lik is cool w that[0m
+[11:11] [0m[31;1m[Clan] Taleast :[0m laf[0m
+[11:11] [0m[31;1m[Clan] Boscar :[0m we both might die[0m
+[11:12] [0m[31;1m[Clan] Boscar :[0m ill prolly play him next boot yeah[0m
+[11:12] [0m[31;1m[Clan] Boscar :[0m you got a HC youre trying to play?[0m
+[11:12] [0m[31;1m[Clan] Decav :[0m yea transa, my droid. i want to get more mskills[0m
+[11:12] [0m[31;1m[Clan] Boscar :[0m it would be so dope if we had like a gnome[0m
+[11:12] [0m[31;1m[Clan] Boscar :[0m for a real OG party[0m
+[11:13] [0m[31;1m[Clan] Prism :[0m I could maybe be talked into making my HC a gnome instead of a droid[0m
+[11:13] [0m[31;1m[Clan] Boscar :[0m droids are fast but the guild theme is just meh[0m
+[11:13] [0m[31;1m[Clan] Prism :[0m but it wouldn't be for a few boots :([0m
+[11:13] [0m[31;1m[Clan] Boscar :[0m juggers are super sick HC[0m
+[11:13] [0m[31;1m[Clan] Prism :[0m why's that[0m
+[11:13] [0m[31;1m[Clan] Boscar :[0m because you do good dmg and their healing mechanism is great[0m
+[11:13] [0m[31;1m[Clan] Decav :[0m yeah i am less than excited about the theme of that guild, pretty strong char[0m
+[11:13] [0m               though for 2D time[0m
+[11:14] [0m[31;1m[Clan] Decav :[0m i had a wiz stat boon and was mowing down 800ks with just spirit gear haha[0m
+[11:14] [0m[31;1m[Clan] Boscar :[0m even as a sally you can tank really well[0m
+[11:14] [0m[31;1m[Clan] Boscar :[0m i think a clan of complementary HCs is awesome[0m
+[11:15] [0m[31;1m[Clan] Decav :[0m going a real guild scares me on hc, id get too invested and be too scared of[0m
+[11:15] [0m               dying[0m
+[11:15] [0m[31;1m[Clan] Boscar :[0m xar has a big knight[0m
+[11:15] [0m[31;1m[Clan] Decav :[0m i guess im still a softcore HC :)[0m
+[11:15] [0m[31;1m[Clan] Boscar :[0m i mean, yeah but once you get past that mental barrier its awesome[0m
+[11:15] [0m[31;1m[Clan] Boscar :[0m you die whatever reroll[0m
+[11:15] [0m[31;1m[Clan] Prism :[0m I would get level 99 and die and then burn my comp in my front yard[0m
+[11:15] [0m[31;1m[Clan] Taleast :[0m I should change Vegor's name to Skinimax[0m
+[11:15] [0m[31;1m[Clan] Decav :[0m i also wanted to see what droids were like. if i get like level 80 or something[0m
+[11:15] [0m               maybe ill just hop[0m
+[11:15] [0m[31;1m[Clan] Boscar :[0m im on like my 15th or 20th HC[0m
+[11:15] [0m[37;1mChrys flaps :[0m just flapchating to see how close to that hour we are:)[0m
+[11:16] [0m[31;1m[Clan] Decav :[0m i saw your hc mage[0m
+[11:16] [0m[31;1m[Clan] Decav :[0m that is crazytown[0m
+[11:16] [0m[31;1m[Clan] Boscar :[0m lol[0m
+[11:16] [0m[31;1m[Clan] Boscar :[0m i enjoyed mage too much to keep rerolling[0m
+[11:16] [0m[31;1m[Clan] Prism :[0m is that why yo umade Oscar a perm mage?[0m
+[11:16] [0m[31;1m[Clan] Boscar :[0m ya[0m
+[11:16] [0m[31;1m[Clan] Prism :[0m nice[0m
+[11:16] [0m[37;1mChrys flaps :[0m the only good zombie is a deader zombie[0m
+[11:17] [0m[31;1m[Clan] Decav :[0m i was kinda hoping to get more out of the start guild but 2 days in im almost[0m
+[11:17] [0m               maxed out[0m
+[11:17] [0m[31;1m[Clan] Boscar :[0m if i didnt want to party hc, id be a jugger prolly[0m
+[11:17] [0m[31;1m[Clan] Boscar :[0m ive always liked their theme[0m
+[11:17] [0m[31;1m[Clan] Decav :[0m you guys are making me wanna hop him now[0m
+[11:17] [0m[31;1m[Clan] Boscar :[0m and lazy gxp mode[0m
+[11:17] [0m[31;1m[Clan] Boscar :[0m do you, but partying is a lot funner[0m
+[11:18] [0m[31;1m[Clan] Boscar :[0m and we can hc death train[0m
+[11:18] [0m[31;1m[Clan] Boscar :[0m chooooooo[0m
+[11:18] [0m[31;1m[Clan] Decav :[0m nod originally i just needed mskill points for thi dude but partying sounds real[0m
+[11:18] [0m               fun[0m
+[11:19] [0m[31;1m[Clan] Boscar :[0m i know my perspective is a bit diff because of having some huge chars and you[0m
+[11:19] [0m                want to grind your chars there[0m
+[11:19] [0m[31;1m[Clan] Prism :[0m oo look at me I have huge chars[0m
+[11:19] [0m[31;1m[Clan] Boscar :[0m laf[0m
+[11:19] [0m[31;1m[Clan] Taleast :[0m YUGE![0m
+[11:19] [0m[31;1m[Clan] Boscar :[0m ill suddup[0m
+[11:20] [0m[31;1m[Clan] Prism :[0m haha I'm totally kidding[0m
+[11:20] [0m[31;1m[Clan] Prism :[0m I think Priest as an HC char is smart but idk if I could handle actually playing[0m
+[11:20] [0m               a Priest anymore[0m
+[11:20] [0m[31;1m[Clan] Boscar :[0m nix has poisoned your minds[0m
+[11:20] [0m[31;1m[Clan] Prism :[0m I've been this annoying basically my entire life, Decav can confirm[0m
+[11:20] [0m[31;1m[Clan] Boscar :[0m i only went priest bc I wanted to party with HC[0m
+[11:20] [0m[31;1m[Clan] Decav :[0m confirmed[0m
+[11:21] [0m[31;1m[Clan] Boscar :[0m and i figured I could recruit others to party if i was the priest[0m
+[11:21] [0m[31;1m[Clan] Boscar :[0m but insyead its nooooo you always kill me[0m
+[11:21] [0m[31;1m[Clan] Taleast :[0m but you just said you loved jugger theme and they're great for parties[0m
+[11:21] [0m[31;1m[Clan] Boscar :[0m :D[0m
+[11:21] [0m[31;1m[Clan] Prism :[0m hahaha[0m
+[11:21] [0m[31;1m[Clan] Prism :[0m gnome does like 0 damage right? I haven't been a jugger in years[0m
+[11:21] [0m[31;1m[Clan] Boscar :[0m I would prefer to be the sexy dmg dealer or tank[0m
+[11:22] [0m[31;1m[Clan] Boscar :[0m this is me being selfless :P[0m
+[11:22] [0m[31;1m[Clan] Taleast :[0m do juggs really need a healer?[0m
+[11:22] [0m[31;1m[Clan] Prism :[0m I almost always prefer to be tank or healer.. ie bard/gentech etc[0m
+[11:22] [0m[31;1m[Clan] Boscar :[0m juggs are much stronger w a sp battery[0m
+[11:22] [0m[31;1m[Clan] Taleast :[0m I haven't been a jugg in years[0m
+[11:22] [0m[31;1m[Clan] Boscar :[0m once you get transpose[0m
+[11:22] [0m[31;1m[Clan] Prism :[0m I forgot the power name but sp -> .. yea transpose![0m
+[11:22] [0m[31;1m[Clan] Boscar :[0m its like going immortal[0m
+[11:23] [0m[31;1m[Clan] Boscar :[0m and yeah gnomes do shit dmg[0m
+[11:23] [0m[31;1m[Clan] Boscar :[0m but thats where Lik or another hc hitter comes in![0m
+[11:23] [0m[31;1m[Clan] Prism :[0m nod[0m
+[11:23] [0m[31;1m[Clan] Prism :[0m you staying at 59 for a while?[0m
+[11:24] [0m[31;1m[Clan] Boscar :[0m my dmg sucks but supposedly at 42 i get a better spell[0m
+[11:24] [0m[31;1m[Clan] Boscar :[0m nah[0m
+[11:24] [0m[31;1m[Clan] Boscar :[0m im leveling/spending as i go[0m
+[11:24] [0m[31;1m[Clan] Prism :[0m nod[0m
+[11:24] [0m[31;1m[Clan] Boscar :[0m takes a while when you only do 1.5 deltas[0m
+[11:25] [0m[31;1m[Clan] Taleast :[0m 1.5 deltas?[0m
+[11:26] [0m[31;1m[Clan] Taleast :[0m do you have a spell that launches a commercial plane at mobs?[0m
+[11:26] [0m[31;1m[Clan] Taleast :[0m sorry, passenger[0m
+[11:28] [0m[31;1m[Clan] Boscar :[0m laf[0m
+[11:28] [0m[31;1m[Clan] Boscar :[0m 1.5m/30[0m
+[11:29] [0m[31;1m[Clan] Taleast :[0m Boscar summons a Japanese Zero from another plane of existence. The Kamikaze[0m
+[11:29] [0m                 takes a look at Tiamat and thinks heavily about living in dishonor before[0m
+[11:29] [0m                 committing to his trajectory, thrusting the plane like a massive missile into[0m
+[11:29] [0m                 Tiamat, creating an explosive firestorm.[0m
+[11:29] [0m[37;1mGaidin flaps :[0m Well, if they're not gonna reset zombies, I will.  Reset in 3 minutes[0m
+[11:30] [0m[37;1mLicklick flaps :[0m when your last names in the new call of duty[0m
+[11:30] [0m[31;1m[Clan] Taleast :[0m I like my version better[0m
+[11:31] [0m[37;1mGaidin flaps :[0m Last call for zombie reset[0m
+[11:31] [0m[32;1mFrom afar, you tell Gaidin that you'll be right there![0m[0m
+[11:32] [0m[37;1mRoken flaps :[0m i'll reset for sure after this run[0m
+[11:32] [0m[32mGaidin says:[0m Hang on, drop party[0m
+[11:32] [0m[32mYou say:[0m dropped[0m
+[11:32] [0m[32mGaidin says:[0m My dungeon cleared[0m
+[11:33] [0m[32mGaidin says:[0m Can't reset it[0m
+[11:33] [0m[32mYou say:[0m rally me back then?[0m
+[11:33] [0m[33;1m[PARTY][0m Bliss joins the party.[0m
+[11:33] [0m[33;1m[PARTY][0m Roken: cool[0m
+[11:33] [0m[32mGaidin says:[0m Everybody back in?[0m
+[11:33] [0m[32mMaverik says:[0m  no[0m
+[11:33] [0m[33;1m[PARTY][0m Space: u didnt need to pquit to get tied[0m
+[11:33] [0m[33;1m[PARTY][0m Maverik joins the party.[0m
+[11:33] [0m[33;1m[PARTY][0m Space has quit the party.[0m
+[11:33] [0m[33;1m[PARTY][0m The leader quit the party![0m
+[11:33] [0m[33;1m[PARTY][0m New leader for the party: gaidin.[0m
+[11:33] [0m[33;1m[PARTY][0m Gaidin has quit the party.[0m
+[11:33] [0m[33;1m[PARTY][0m The leader quit the party![0m
+[11:33] [0m[33;1m[PARTY][0m New leader for the party: maverik.[0m
+[11:34] [0m[32mGaidin says:[0m Sorry for the fark uupl[0m
+[11:38] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[11:46] [0m[34;1mPrism shouts:[0m hi :)[0m
+[11:46] [0m[34;1mChrys shouts:[0m lo :)[0m
+[12:04] [0m[31;1m[Clan] Boscar :[0m laf[0m
+[12:06] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[12:14] [0m[31;1m[Clan] Taleast :[0m laf, it works great[0m
+[12:14] [0m[31;1m[Clan] Taleast :[0m 23:57 Captain Fingerpaints flaps : You now have 208 quest points. Long road[0m
+[12:14] [0m                 ahead.[0m
+[12:15] [0m[31;1m[Clan] Taleast :[0m I do it in honor of Krank[0m
+[12:15] [0m[31;1m[Clan] Prism :[0m I forgot Gens got a gxp bonus based on qps[0m
+[12:15] [0m[31;1m[Clan] Taleast :[0m nog, takes I think 1200 for max?[0m
+[12:16] [0m[31;1m[Clan] Taleast :[0m no, can't be right, I'm at 66% and I have almost 1500[0m
+[12:16] [0m[31;1m[Clan] Prism :[0m oh, is that max? oh okay[0m
+[12:16] [0m[31;1m[Clan] Prism :[0m yea I'm at 66% with 1230[0m
+[12:16] [0m[31;1m[Clan] Taleast :[0m I should try to get 110 to see if it's 1600[0m
+[12:24] [0m[34;1mHighjinx shouts:[0m woo![0m
+[12:30] [0m[31;1m[Clan] Boscar :[0m Maybe if you find someone at 33%[0m
+[12:30] [0m[31;1m[Clan] Boscar :[0m you can extrapolate[0m
+[12:30] [0m[31;1m[Clan] Boscar :[0m i wonder how much that + rested factor really help[0m
+[12:31] [0m[31;1m[Clan] Boscar :[0m i got a fuckton of rested factor still[0m
+[12:32] [0m[31;1m[Clan] Boscar :[0m but i feel like there are stuff in gentech that is there but isn't / wasn't ever[0m
+[12:32] [0m                turned on kinda[0m
+[12:39] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[12:50] [0m[31;1m[Clan] Boscar :[0m ok...i need some help.  I'm gonna write a "bard upgrade" script for the forums. [0m
+[12:50] [0m                I need some damage emotes to include[0m
+[12:50] [0m[31;1m[Clan] Taleast :[0m eviscerate the proletariat[0m
+[12:50] [0m[31;1m[Clan] Boscar :[0m woot[0m
+[12:51] [0m[31;1m[Clan] Taleast :[0m You think even MC Hammer was touched by that.[0m
+[12:51] [0m[31;1m[Clan] Boscar :[0m laf[0m
+[12:52] [0m[31;1m[Clan] Taleast :[0m You hit like a Cosby Cocktail[0m
+[12:52] [0m[31;1m[Clan] Taleast :[0m hmm[0m
+[12:53] [0m[31;1m[Clan] Taleast :[0m are these song emotes?[0m
+[12:54] [0m[31;1m[Clan] Boscar :[0m no, i'm gonna sub the regular dmg emotes[0m
+[12:54] [0m[31;1m[Clan] Taleast :[0m gotcha[0m
+[12:54] [0m[31;1m[Clan] Prism :[0m Give me some time, I can put together a few[0m
+[12:54] [0m[31;1m[Clan] Boscar :[0m nog, ty :)[0m
+[12:54] [0m[31;1m[Clan] Boscar :[0m I have a few written[0m
+[12:54] [0m[31;1m[Clan] Boscar :[0m but figured i'd crowdsource[0m
+[12:55] [0m[31;1m[Clan] Prism :[0m You rend %t's soul![0m
+[12:55] [0m[31;1m[Clan] Prism :[0m idk that was just off the cuff, I can do better, don't judge me[0m
+[12:55] [0m[31;1m[Clan] Taleast :[0m You rip out %'s eye and skull-fuck him in front of God and everyone.[0m
+[12:55] [0m[31;1m[Clan] Decav :[0m splits %t like a blonde in heat... oops wrong guild[0m
+[12:56] [0m[31;1m[Clan] Taleast :[0m laf[0m
+[12:56] [0m[31;1m[Clan] Prism :[0m Man I hate that emote so much[0m
+[12:56] [0m[31;1m[Clan] Prism :[0m I forced myself to brief on 3s, that is so dumb lol[0m
+[12:56] [0m[31;1m[Clan] Decav :[0m haha rasta guild emotes are the best[0m
+[12:56] [0m[31;1m[Clan] Decav :[0m and by best i mean absolute worst[0m
+[12:56] [0m[31;1m[Clan] Taleast :[0m someone's roots are showing[0m
+[12:57] [0m[31;1m[Clan] Prism :[0m wonder if mage has anything lame like that[0m
+[12:57] [0m[31;1m[Clan] Prism :[0m I didn't see any really bad ones in bards[0m
+[12:57] [0m[31;1m[Clan] Boscar :[0m any are good, i just want to get a bunch so I can order them[0m
+[12:57] [0m[31;1m[Clan] Prism :[0m but I didn't get very high[0m
+[12:57] [0m[31;1m[Clan] Boscar :[0m mage emotes are greatttttt[0m
+[12:57] [0m[31;1m[Clan] Aka :[0m smoke more weed[0m
+[12:57] [0m[31;1m[Clan] Taleast :[0m there's one[0m
+[12:57] [0m[31;1m[Clan] Prism :[0m I don't smoke weed at all :([0m
+[12:57] [0m[31;1m[Clan] Aka :[0m well that's why you didn't get high[0m
+[12:57] [0m[31;1m[Clan] Boscar :[0m you ruin $1 like a slut in a horror film![0m
+[12:57] [0m[31;1m[Clan] Taleast :[0m You send % sailing into the clouds because he got high, because he got high,[0m
+[12:57] [0m                 because he got high.[0m
+[12:57] [0m[31;1m[Clan] Prism :[0m oh god is that a real one?[0m
+[12:57] [0m[31;1m[Clan] Boscar :[0m nog[0m
+[12:58] [0m[31;1m[Clan] Decav :[0m wow i cant tell[0m
+[12:58] [0m[31;1m[Clan] Prism :[0m ... -_-[0m
+[12:58] [0m[31;1m[Clan] Boscar :[0m you fuck $1 up like a freshmanat a frat party[0m
+[12:58] [0m[31;1m[Clan] Taleast :[0m uwotm8?[0m
+[12:58] [0m[31;1m[Clan] Boscar :[0m you catch $1 ousside. HOW BOUT DAT[0m
+[12:58] [0m[31;1m[Clan] Prism :[0m these are all rasta emotes?[0m
+[12:58] [0m[31;1m[Clan] Boscar :[0m these are mage emotes nod[0m
+[12:58] [0m[31;1m[Clan] Prism :[0m jesus laf[0m
+[12:59] [0m[31;1m[Clan] Decav :[0m guess i have a lot to look forward to[0m
+[12:59] [0m[31;1m[Clan] Boscar :[0m :D[0m
+[12:59] [0m[31;1m[Clan] Decav :[0m venomous spray was great, something about spewing poison like you were binge[0m
+[12:59] [0m               drinking[0m
+[13:03] [0m[31;1m[Clan] Taleast :[0m You travel back in time and kick %'s mom in the baby-maker. Then you kill John[0m
+[13:03] [0m                 Connor for good measure.[0m
+[13:07] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[13:20] [0m[31;1m[Clan] Roken :[0m max dex, YES![0m
+[13:21] [0m[32;1mFrom afar, Prism goes 'Woo Woo!' at you.[0m[0m
+[13:21] [0m[35;1mRoken [Jedi(90)]:[0m maxed con and dex, YES![0m
+[13:22] [0m[37;1mMeteorwind flaps :[0m The Meteorwind..has returned![0m
+[13:23] [0mMeteorwind <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[13:23] [0mMeteorwind <C-Trade>: I don't want to craft... I want to TRADE![0m
+[13:23] [0m[34;1mMeteorwind shouts:[0m Shout shout let it all out...[0m
+[13:24] [0m[31;1m[Clan] Boscar :[0m i feel like reforger resets faster now[0m
+[13:24] [0m[37;1mGaidin flaps :[0m You're at a 10.  We could use you at at 2.[0m
+[13:24] [0m[34;1mPrism shouts:[0m Whenever I hear that song I think of the show Psych[0m
+[13:24] [0m[31;1m[Clan] Prism :[0m reforger has always felt faster than transmuter to me[0m
+[13:24] [0m[31;1m[Clan] Taleast :[0m much[0m
+[13:24] [0m[31;1m[Clan] Boscar :[0m the xmuter random # of stones drives me nuts[0m
+[13:24] [0m[31;1m[Clan] Taleast :[0m now stop talking about it before it's nerfed[0m
+[13:24] [0m[31;1m[Clan] Boscar :[0m You can go 4 hrs and get 4 stones[0m
+[13:24] [0m[31;1m[Clan] Taleast :[0m 'nuff said[0m
+[13:24] [0m[31;1m[Clan] Prism :[0m yea[0m
+[13:24] [0m[31;1m[Clan] Boscar :[0m xmuter is one of those things you never have stones when you need them[0m
+[13:25] [0m[31;1m[Clan] Boscar :[0m its like 192 of 0[0m
+[13:25] [0m[31;1m[Clan] Boscar :[0m or*[0m
+[13:26] [0m[37;1mCrolack flaps :[0m new phone who dis?[0m
+[13:26] [0m[37;1mMeteorwind flaps :[0m I go by many names.[0m
+[13:27] [0m[37;1mMeteorwind flaps :[0m Hotspots are nice, I like my new phone.[0m
+[13:37] [0m[37;1mMeteorwind flaps :[0m Blah, need 3 more levels for scaler 45.[0m
+[13:37] [0m[37;1mChrys flaps :[0m I am number 6 who is number 1?[0m
+[13:37] [0m[37;1mMeteorwind flaps :[0m Who does #2 work for?[0m
+[13:37] [0m[37;1mChrys flaps :[0m just get the scaler VAF:)[0m
+[13:38] [0m[37;1mChrys flaps :[0m I am trying to make lamb chops in my air fryer, wish me luck[0m
+[13:38] [0m[37;1mMeteorwind flaps :[0m Dink dink.[0m
+[13:38] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[13:40] [0m[34;1mMeteorwind shouts:[0m What a catch![0m
+[13:40] [0m[34;1mChrys shouts:[0m BIG FISHY[0m
+[13:40] [0m[34;1mTrout shouts:[0m thanks everyone.[0m
+[13:53] [0m[37;1mRoken flaps :[0m hotel reset! fr, lmk![0m
+[13:53] [0m[37;1mBoscar flaps :[0m fool me once shame on me![0m
+[13:54] [0m[37;1mBoscar flaps :[0m Fool me...fool....YOU CANT FOOL ME AGAIN[0m
+[13:54] [0m[37;1mAka flaps :[0m woo dubbya![0m
+[13:54] [0m[37;1mDathon flaps :[0m Only two things come from texas, and I dont see no horns[0m
+[13:54] [0m[37;1mChrys flaps :[0m I reset the zombies the old fashioned way lol....waiting[0m
+[13:54] [0m[37;1mRoken flaps :[0m is it too early for another reset?[0m
+[13:55] [0m[37;1mBliss flaps :[0m I'm not even halfway heh[0m
+[13:55] [0m[37;1mBliss flaps :[0m I had dinner, I'm such a slacker[0m
+[13:56] [0m[37;1mChrys flaps :[0m i'm having er...lunch/dinner right now, while killing zombies. It's not too[0m
+[13:56] [0m              appitizing[0m
+[13:56] [0m[37;1mMeteorwind flaps :[0m Ima firin mah lazorz![0m
+[13:56] [0m[37;1mChrys flaps :[0m whoever came up with the idea of zombie waiters....ick[0m
+[13:57] [0m[37;1mRoken flaps :[0m i'll swing by rimalkins in the meantime[0m
+[13:59] [0m[37;1mMeteorwind flaps :[0m I'm eating baby carrots in front of adult carrots, do you think they mind?[0m
+[14:00] [0m[37;1mChrys flaps :[0m I don't know if they mind but the certainly care ot.[0m
+[14:00] [0m[37;1mApocalypse flaps :[0m someone shoot him now[0m
+[14:00] [0m[37;1mApocalypse flaps :[0m stop the dad jokes plz[0m
+[14:00] [0m[37;1mObtuse flaps :[0m with pleasure[0m
+[14:02] [0m[32;1mFrom afar, you laff at Chrys.[0m[0m
+[14:04] [0m[37;1mMeteorwind flaps :[0m I'm all powerful but made of cardboard. How is that even possible?[0m
+[14:09] [0m[37;1mMeteorwind flaps :[0m A zombie cook's ear falls off in the soup.[0m
+[14:13] [0m[31;1m[Clan] Taleast :[0m anyone know what a -10 con bonus labeled Concavity is?[0m
+[14:15] [0m[31;1m[Clan] Boscar :[0m nfi[0m
+[14:15] [0m[31;1m[Clan] Boscar :[0m what areas that are unusual have you been to?[0m
+[14:16] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[14:32] [0m[5m[1m[48;5;124mYour lightsaber begins to flicker and the handle warms![0m[0m                 [0m
+[14:45] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[15:00] [0m[37;1mMeteorwind flaps :[0m Oops[0m
+[15:05] [0m[37;1mRoken flaps :[0m hotel reset, any takers? Tres minutos[0m
+[15:05] [0m[32;1mFrom afar, Sylph nods to you.[0m[0m
+[15:06] [0m[33;1m[PARTY][0m Lost our leader![0m
+[15:06] [0m[33;1m[PARTY][0m Sylph joins the party.[0m
+[15:06] [0m[33;1m[PARTY][0m Sylph: hey:)[0m
+[15:06] [0m[37;1mGaidin flaps :[0m I'll be there in an hour.[0m
+[15:06] [0m[33;1m[PARTY][0m Wert joins the party.[0m
+[15:06] [0m[33;1m[PARTY][0m Sylph: sup wert[0m
+[15:06] [0m[33;1m[PARTY][0m Wert: only like 5 rooms in[0m
+[15:06] [0m[33;1m[PARTY][0m Wert: but mnight as well[0m
+[15:06] [0m[33;1m[PARTY][0m Wert: howdy[0m
+[15:06] [0m[33;1m[PARTY][0m Sylph: for sure[0m
+[15:07] [0m[33;1m[PARTY][0m Roken: hi[0m
+[15:07] [0m[33;1m[PARTY][0m To joins the party.[0m
+[15:07] [0m[33;1m[PARTY][0m Wert: anyone need roh?[0m
+[15:07] [0m[33;1m[PARTY][0m Sylph: nah thanks:)[0m
+[15:07] [0m[33;1m[PARTY][0m Sylph: got 4:)[0m
+[15:07] [0m[33;1m[PARTY][0m Wert: i seem to have a maintence one i forgot bout[0m
+[15:07] [0m[33;1m[PARTY][0m Wert: didnt like that +1 maintence didnt make nobreak[0m
+[15:07] [0m[33;1m[PARTY][0m Wert: seems you need +@[0m
+[15:07] [0m[33;1m[PARTY][0m Wert: +2[0m
+[15:08] [0m[37;1mRoken flaps :[0m done, thank you[0m
+[15:14] [0m[37;1mChrys flaps :[0m we used to say eyeball soup, the eye deal soup for some reason. I'm not sure why[0m
+[15:18] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[15:38] [0m[37;1mStasis flaps :[0m it's happening!!  https://www.youtube.com/watch?v=bnChQbxLkkI[0m
+[15:38] [0m[37;1mInix flaps :[0m instructions unclear[0m
+[15:41] [0m[37;1mLicklick flaps :[0m hawt[0m
+[15:48] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[15:53] [0m[37;1mChrys flaps :[0m zombies vs golems who will win, who will reign supreme!!![0m
+[15:55] [0m[37;1mAlassra flaps :[0m obviously, Plants win[0m
+[16:21] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[16:22] [0m[37;1mXiu flaps :[0m zell golems vs zombies? golems have no chance since they don't scale has high. if[0m
+[16:22] [0m            they're 8mil the zombies would be 35mil. wouldn't be surprised if a single zombie[0m
+[16:22] [0m            could clear the golems from zell dungeon. not zell himself of course, he'd wreck[0m
+[16:22] [0m            shop on a zombie.[0m
+[16:22] [0m[37;1mChrys flaps :[0m interesting:)[0m
+[16:23] [0m[37;1mLicklick flaps :[0m but 8 million golem>8 million zombie[0m
+[16:25] [0m[37;1mXiu flaps :[0m at equal class i'd have no idea because i've never fought both anywhere near close[0m
+[16:25] [0m            to the same. stats aside, the golems' ability to call for help would ruin an equal[0m
+[16:25] [0m            class zombie's day[0m
+[16:25] [0m[37;1mChrys flaps :[0m there are alot more golems than zombies as well[0m
+[16:25] [0m[37;1mChrys flaps :[0m so they could gang up on em[0m
+[16:26] [0m[37;1mChrys flaps :[0m but if the zombies brought the vampires with them.....game over.[0m
+[16:26] [0m[37;1mMaverik flaps :[0m zombies could probly summon necs[0m
+[16:26] [0m[37;1mAlassra flaps :[0m Zombies are way bigger than golems though[0m
+[16:26] [0m[37;1mAlassra flaps :[0m like, is this a version of the "how many waves of 1st graders could you fight?"[0m
+[16:26] [0m                scenario?[0m
+[16:26] [0m[37;1mLicklick flaps :[0m but golems have zelligar[0m
+[16:27] [0m[37;1mAlassra flaps :[0m zombies have vamps if we're playing that game[0m
+[16:27] [0m[37;1mWert flaps :[0m 3 zombies take zell out, rest of the zombies mop up the wussy golems, they lose 2[0m
+[16:27] [0m             total[0m
+[16:27] [0m[37;1mMeteorwind flaps :[0m vamps have OP regen[0m
+[16:28] [0m[37;1mChrys flaps :[0m that would be a good invasion:)[0m
+[16:28] [0m[37;1mChrys flaps :[0m zombies/vampires/golems/zellinger all wandering around town killing everyone[0m
+[16:28] [0m[37;1mXiu flaps :[0m wonder how many golems zelligar would need to kill an equal classed vampire, or[0m
+[16:28] [0m            would they even be any use since they're so much smaller than him[0m
+[16:29] [0m[37;1mMeteorwind flaps :[0m Give them all hobbit pipes to wield.[0m
+[16:29] [0m[37;1mGaidin flaps :[0m addhp damage is nothing to laugh at.[0m
+[16:29] [0m[37;1mEcholoc flaps :[0m nothing to sneeze at[0m
+[16:30] [0m[37;1mMeteorwind flaps :[0m Don't max level vampires get huge?[0m
+[16:30] [0m[37;1mXiu flaps :[0m quite big, yeah[0m
+[16:31] [0m[37;1mMeteorwind flaps :[0m My arch foe is bigger than my best kill.[0m
+[16:31] [0m[37;1mChrys flaps :[0m I am planning on killing my arch foe soon so they are equal:)[0m
+[16:31] [0m[37;1mMeteorwind flaps :[0m On Dy I mean.[0m
+[16:32] [0m[37;1mChrys flaps :[0m speaking of addhp damage though I think trell does that (which negates litany etc)[0m
+[16:36] [0m[37;1mXiu flaps :[0m imagine a scaled up sauk vs something like vampires or late boot firebat heh[0m
+[16:36] [0m[37;1mMeteorwind flaps :[0m That'd really sauk.[0m
+[16:38] [0m[34;1mEcholoc shouts:[0m woot[0m
+[16:39] [0m[37;1mMeteorwind flaps :[0m Sauk wouldn't be able to hit firebat even if he did get it to 1 hp I am[0m
+[16:39] [0m                   guessing.[0m
+[16:40] [0m[37;1mBoscar flaps :[0m aurothon can kill firebat eventually[0m
+[16:41] [0m[37;1mBoscar flaps :[0m or forever stalemate[0m
+[16:41] [0m[37;1mBoscar flaps :[0m uk is probably #1[0m
+[16:41] [0m[37;1mAka flaps :[0m an actual mini game where we could gamble on mob fights would be sick[0m
+[16:41] [0m[37;1mAka flaps :[0m ala saltybets[0m
+[16:41] [0m[37;1mChrys flaps :[0m lol yeah[0m
+[16:41] [0m[37;1mMeteorwind flaps :[0m Merribeth, Cancer and UK.[0m
+[16:41] [0m[37;1mXiu flaps :[0m that would be cool, and possibly a good way to remove some coin from player bank[0m
+[16:41] [0m            accnts[0m
+[16:42] [0m[37;1mChrys flaps :[0m anyone with extra coin may send it my way, I don't mind holding it for you:)[0m
+[16:43] [0m[37;1mHooligan flaps :[0m dont give it to him. he is an addict![0m
+[16:43] [0m[37;1mChrys flaps :[0m I promise to spend it all on SPICE!!!![0m
+[16:43] [0m[37;1mChrys flaps :[0m muahahaha[0m
+[16:43] [0m[37;1mAlassra flaps :[0m Undead Cow beats all![0m
+[16:43] [0m[37;1mXiu flaps :[0m a really crazy battle would be just straight up all of chaos vs all of fantasy vs[0m
+[16:43] [0m            all of science, all mobs meet in town and have it out once and for all. mud would[0m
+[16:43] [0m            crash within 3 seconds[0m
+[16:43] [0m[37;1mMeteorwind flaps :[0m I promise to spend it on the free beercare campaign.[0m
+[16:44] [0m[37;1mChrys flaps :[0m I'm pretty sure fantasy would win[0m
+[16:45] [0m[37;1mMeteorwind flaps :[0m With firebats maybe not.[0m
+[16:45] [0m[37;1mBoscar flaps :[0m uk > *[0m
+[16:45] [0m[37;1mMeteorwind flaps :[0m firebats blick UK before UK blicks them. :D[0m
+[16:45] [0m[37;1mXiu flaps :[0m UK would be wishing the whole thing was happening in his room[0m
+[16:45] [0m[37;1mBoscar flaps :[0m nothin fancy bout his room, he just kills you[0m
+[16:46] [0m[37;1mBoscar flaps :[0m least i dont think that's anyrthing to do w his room[0m
+[16:46] [0m[37;1mEcholoc flaps :[0m so UK doesn't kill people, his room does?[0m
+[16:46] [0m[37;1mAlassra flaps :[0m doesn't undead cow still dest all other creatures?[0m
+[16:46] [0m[37;1mMeteorwind flaps :[0m UK uses patch death at random.[0m
+[16:46] [0m[37;1mBoscar flaps :[0m all the undeads might.  uk kills any other creatures[0m
+[16:46] [0m[37;1mAka flaps :[0m uk doesn't kill people, tensor does[0m
+[16:47] [0m[37;1mHooligan flaps :[0m make tiamat great again![0m
+[16:47] [0m[37;1mStasis flaps :[0m how much hp does UK have? fbat probably does 70k+/round and then summons bulk[0m
+[16:47] [0m               adds on death[0m
+[16:47] [0m[37;1mMeteorwind flaps :[0m Send Daishi in.[0m
+[16:47] [0m[37;1mXiu flaps :[0m i was told it was the room that has the special, not the mob nor the axe. it's one[0m
+[16:47] [0m            reason you can't (redact it, because you can't target the room code with (redact,[0m
+[16:47] [0m            only a mob.[0m
+[16:48] [0m[37;1mMeteorwind flaps :[0m So if you can move UK out of the room he wouldn't kill you?[0m
+[16:48] [0m[37;1mXiu flaps :[0m altho if UK did have the blick special in his own code there's a 100% chance that[0m
+[16:48] [0m            he'd be made immune to (redact anyway[0m
+[16:48] [0m[37;1mBoscar flaps :[0m dunno, (redact info also syas it doesnt work on some mobs[0m
+[16:49] [0m[37;1mChrys flaps :[0m didn't we do that when jedi firstopened? Move UK out of the room?[0m
+[16:50] [0m[37;1mXiu flaps :[0m assuming that UK brings his special to the fight tho it'd put a huge weight on the[0m
+[16:50] [0m            RNG of who fights him first. if he takes out the other realms' big hitters he swings[0m
+[16:50] [0m            the battle for Fantasy bigtime, but if he got mobbed and taken down by like a buncha[0m
+[16:50] [0m            kyanite xstals or something he's wasted[0m
+[16:51] [0m[37;1mEcholoc flaps :[0m UK wrecked by kresh![0m
+[16:51] [0m[37;1mBoscar flaps :[0m Are the DWM's being summoned by firebat day 7?[0m
+[16:51] [0m[37;1mGumby flaps :[0m david koresh (burning) ?[0m
+[16:51] [0m[37;1mBoscar flaps :[0m vacuo is a sleeper from fantasy too[0m
+[16:51] [0m[37;1mXiu flaps :[0m what would Beloch's regen look like when he's tanking day7 firebat heh[0m
+[16:51] [0m[37;1mNauda flaps :[0m a fluffy gumby gumpying along[0m
+[16:52] [0m[37;1mMeteorwind flaps :[0m vacao xD[0m
+[16:52] [0m[37;1mMeteorwind flaps :[0m vacuo, whatever[0m
+[16:52] [0m[37;1mMeteorwind flaps :[0m he really sucks[0m
+[16:52] [0m[37;1mXiu flaps :[0m yeah that's one that could turn the tide as well[0m
+[16:53] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[16:55] [0m[37;1mStasis flaps :[0m death entity does an aoe teleport, so they'd be doing a tiki tour of magic while[0m
+[16:55] [0m               they fight[0m
+[16:56] [0m[37;1mBoscar flaps :[0m all the aliens in one room would hit stupidly hard as well[0m
+[16:57] [0m[31;1m[Clan] Boscar :[0m i wonder how big of a water skeleton you can make from debaucherat now that it[0m
+[16:57] [0m                wouldn't kill me so fast[0m
+[16:57] [0m[31;1m[Clan] Prism :[0m I'm too scared to go there on my regular character[0m
+[16:57] [0m[31;1m[Clan] Boscar :[0m if it's actually *2 uncapped, could make some 2bil hunters :P[0m
+[16:58] [0m[31;1m[Clan] Boscar :[0m whys that?[0m
+[16:58] [0m[31;1m[Clan] Boscar :[0m castle isn't so bad, and the map is actually the same as the d n d book[0m
+[16:58] [0m[31;1m[Clan] Boscar :[0m so you could find it online and see all the rooms[0m
+[16:59] [0m[31;1m[Clan] Boscar :[0m (I never knew that, Thom figured that one out)[0m
+[16:59] [0m[31;1m[Clan] Prism :[0m laf nice[0m
+[16:59] [0m[31;1m[Clan] Prism :[0m Honestly didn't know it was based on a dnd campaign[0m
+[16:59] [0m[31;1m[Clan] Boscar :[0m me neither[0m
+[16:59] [0m[31;1m[Clan] Boscar :[0m all of rloft and shit is[0m
+[16:59] [0m[31;1m[Clan] Boscar :[0m really all of tensors stuff[0m
+[16:59] [0m[31;1m[Clan] Boscar :[0m is taken from the dnd campaign[0m
+[16:59] [0m[31;1m[Clan] Boscar :[0m which I never knew, but Thom pointed me to it[0m
+[17:00] [0m[31;1m[Clan] Prism :[0m I was giving Tensor props from making such cool areas, now.. I must revoke said[0m
+[17:00] [0m               props[0m
+[17:00] [0m[31;1m[Clan] Boscar :[0m necromancers as well[0m
+[17:00] [0m[31;1m[Clan] Boscar :[0m laf, I had the same feeling[0m
+[17:01] [0m[31;1m[Clan] Boscar :[0m but, in any case, i bet you'd be fine fighting any mob in there[0m
+[17:01] [0m[31;1m[Clan] Boscar :[0m you beefy gentech you[0m
+[17:02] [0m[31;1m[Clan] Prism :[0m I'm not even order 1![0m
+[17:11] [0m[31;1m[Clan] Prism :[0m I'm about to eat a bunch of ice cream, AMA[0m
+[17:12] [0m[37;1mMeteorwind flaps :[0m Bladeswinger guild.[0m
+[17:12] [0m[37;1mChrys flaps :[0m it's not the size of your blade, but how you wield it.[0m
+[17:12] [0m[31;1m[Clan] Prism :[0m I need order5 so I have all shields, gen arm, and tshift 1/2[0m
+[17:13] [0m[31;1m[Clan] Boscar :[0m I still dont have all the shields[0m
+[17:13] [0m[34;1mPrism shouts:[0m I'm about to eat a bunch of ice cream, AMA[0m
+[17:13] [0m[31;1m[Clan] Boscar :[0m I like the dumb stuff like dropship[0m
+[17:13] [0m[31;1m[Clan] Prism :[0m think it's necessary now if I wanna tank vamps[0m
+[17:13] [0m[31;1m[Clan] Aka :[0m me neither, i'm missing elec/rad shields[0m
+[17:13] [0m[31;1m[Clan] Boscar :[0m so i can park that bitch ousside yo mamma's crib[0m
+[17:13] [0m[31;1m[Clan] Aka :[0m just got an order so i have an open slot, just not sure if i wanna go tshifts or[0m
+[17:13] [0m             those 2 shields[0m
+[17:13] [0m[37;1mXiu flaps :[0m i see your schwartz is as big as mine, now let's see how you handle it[0m
+[17:13] [0m[31;1m[Clan] Prism :[0m What order are you now?[0m
+[17:14] [0m[31;1m[Clan] Aka :[0m <***>    Dominator of the Disputed Border[0m
+[17:14] [0m[31;1m[Clan] Aka :[0m 6[0m
+[17:14] [0m[37;1mEllegon flaps :[0m what flavor?[0m
+[17:14] [0m[31;1m[Clan] Boscar :[0m ship pilot[0m
+[17:14] [0m[31;1m[Clan] Boscar :[0m def[0m
+[17:14] [0m[31;1m[Clan] Aka :[0m if it was 1999 i'd get ship pilot[0m
+[17:14] [0m[31;1m[Clan] Boscar :[0m we can race dropships[0m
+[17:14] [0m[31;1m[Clan] Boscar :[0m and take action on it[0m
+[17:14] [0m[31;1m[Clan] Prism :[0m I haven't seen a dropship anywhere since I came back lmao[0m
+[17:14] [0m[31;1m[Clan] Aka :[0m park it outside of Javasa and Joseph[0m
+[17:17] [0m[31;1m[Clan] Aka :[0m switched to 100% rc, gotta max some things[0m
+[17:17] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[17:17] [0m[31;1m[Clan] Prism :[0m I'm like 70 phases away from being able to get GHC laf[0m
+[17:17] [0m[31;1m[Clan] Aka :[0m what "important"ish mob does rad or elec damage anyway?[0m
+[17:18] [0m[31;1m[Clan] Prism :[0m vamps[0m
+[17:18] [0m[31;1m[Clan] Aka :[0m ah nod, does both?[0m
+[17:18] [0m[31;1m[Clan] Prism :[0m each vampire has a chance to do a different damage type, and it's random when you[0m
+[17:18] [0m               spawn the instance I think[0m
+[17:19] [0m[34;1mNightrider shouts:[0m le moo?[0m
+[17:19] [0m[34;1mChrys shouts:[0m ache tung moo[0m
+[17:19] [0m[34;1mEcholoc shouts:[0m Moo![0m
+[17:19] [0m[31;1m[Clan] Sparkie :[0m all stat points spent! woooo now to grind out another 40 billion[0m
+[17:19] [0m[31;1m[Clan] Taleast :[0m :([0m
+[17:20] [0m[31;1m[Clan] Aka :[0m all stats spent is dope tho! i've got 110 lol[0m
+[17:20] [0m[31;1m[Clan] Taleast :[0m I'm sitting on close to 30, hoping the clone offer happens again this year[0m
+[17:21] [0m[34;1mNightrider shouts:[0m Well guess that was a thing[0m
+[17:21] [0m[34;1mEcholoc shouts:[0m little late in the boot for that?[0m
+[17:21] [0m[37;1mMeteorwind flaps :[0m So much for sharpness wimpydir.[0m
+[17:21] [0m[37;1mNightrider flaps :[0m UK drags you back[0m
+[17:22] [0m[37;1mEcholoc flaps :[0m you can't get away[0m
+[17:22] [0m[37;1mMeteorwind flaps :[0m from HK?[0m
+[17:22] [0m[31;1m[Clan] Aka :[0m clone deez nuts[0m
+[17:23] [0m[37;1mMeteorwind flaps :[0m HK's OP fear skill sent me to UK.[0m
+[17:23] [0m[37;1mNightrider flaps :[0m nice you say hi[0m
+[17:24] [0m[31;1m[Clan] Aka :[0m also guys, i went with Firehea for now. first time in my life i wanted diarrhea and[0m
+[17:24] [0m             couldn't have it[0m
+[17:25] [0m[31;1m[Clan] Taleast :[0m bad, Aka, no time travel[0m
+[17:27] [0m[31;1m[Clan] Aka :[0m prob for the best, if i got Diarrhea it would have taken my focus away from[0m
+[17:27] [0m             actually having one bs char[0m
+[17:32] [0m[37;1mMeteorwind flaps :[0m Robert is racist vs low cha people![0m
+[17:35] [0m[37;1mMeteorwind flaps :[0m Used armor and darkheart at magic. :D[0m
+[17:35] [0m[37;1mApocalypse flaps :[0m no one wants your used schwety armor[0m
+[17:37] [0m[37;1mHooligan flaps :[0m will be resetting zombies in 60 ish seconds[0m
+[17:38] [0m[32mGumby says:[0m i could us a fresh reset[0m
+[17:38] [0m[32mGumby says:[0m someone rally me[0m
+[17:38] [0m[32mGumby says:[0m ah slacker is still killing the last one[0m
+[17:39] [0m[37;1mMeteorwind flaps :[0m puppies at cot[0m
+[17:40] [0m[34;1mHooligan shouts:[0m last call for zombies[0m
+[17:40] [0m[33;1m[PARTY][0m Hooligan: here we go[0m
+[17:41] [0m[37;1mMeteorwind flaps :[0m Dang hooligans![0m
+[17:41] [0m[33;1m[PARTY][0m Hooligan: waiting for chrys[0m
+[17:41] [0m[33;1m[PARTY][0m Chrys joins the party.[0m
+[17:41] [0m[33;1m[PARTY][0m Chrys: thanks for waiting[0m
+[17:42] [0m[33;1m[PARTY][0m Hooligan has quit the party.[0m
+[17:42] [0m[33;1m[PARTY][0m The leader quit the party![0m
+[17:42] [0m[33;1m[PARTY][0m New leader for the party: frostyb.[0m
+[17:42] [0m[33;1m[PARTY][0m Gumby has quit the party.[0m
+[17:42] [0m[33;1m[PARTY][0m Turak has quit the party.[0m
+[17:42] [0m[33;1m[PARTY][0m Chrys has quit the party.[0m
+[17:42] [0m[33;1m[PARTY][0m Wert has quit the party.[0m
+[17:42] [0m[33;1m[PARTY][0m Frostyb has quit the party.[0m
+[17:42] [0m[33;1m[PARTY][0m The leader quit the party![0m
+[17:42] [0m[33;1m[PARTY][0m New leader for the party: sally.[0m
+[17:43] [0m[37;1mHooligan <.oO>:[0m wooo[0m
+[17:43] [0m[37;1mHooligan <.oO>:[0m wooo[0m
+[17:43] [0m[37;1mHooligan <.oO>:[0m wooo[0m
+[17:52] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[17:52] [0m[37;1mMeteorwind flaps :[0m 3 bean chili with fiesta blend cheese.[0m
+[17:52] [0m[37;1mMeteorwind flaps :[0m It sure makes a nice dip.[0m
+[18:07] [0m[37;1mMeteorwind flaps :[0m There is no reason to 'massxp' here![0m
+[18:07] [0m[37;1mBoscar flaps :[0m lol, it still works for hc[0m
+[18:07] [0m[35;1mTo [Jedi(27)]:[0m anyone available to help me train a few things?[0m
+[18:07] [0m[37;1mMeteorwind flaps :[0m ha[0m
+[18:08] [0m[37;1mMeteorwind flaps :[0m haha![0m
+[18:08] [0m[37;1mChrys flaps :[0m give me massxp please[0m
+[18:08] [0m[37;1mEcholoc flaps :[0m probably not much longer :)[0m
+[18:08] [0m[37;1mBoscar flaps :[0m your broke ass isn't listed[0m
+[18:08] [0m[37;1mMeteorwind flaps :[0m HC really get dumped on in this mud.[0m
+[18:10] [0m[37;1mMeteorwind flaps :[0m They really should get more benefit than 1 mskill per 5 levels.[0m
+[18:10] [0m[37;1mMeteorwind flaps :[0m After 30...[0m
+[18:11] [0m[37;1mBoscar flaps :[0m I say you write a detailed letter of your ideas to frank[0m
+[18:15] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[18:16] [0m[35;1mTo [Jedi(27)]:[0m anyone near town for some training?[0m
+[18:16] [0m[35;1mLicklick [Jedi(65)]:[0m yes[0m
+[18:18] [0m[33;1m[PARTY][0m Kirwan has quit the party.[0m
+[18:19] [0m[37;1mStasis flaps :[0m 8 minutes til crew-1 launch[0m
+[18:19] [0m[37;1mChrys flaps :[0m um, does the launch reset the zombies?[0m
+[18:25] [0m[37;1mScadar flaps :[0m I am becoming less defined as days go by.[0m
+[18:26] [0m[37;1mApocalypse flaps :[0m deep fried turkey or smoked[0m
+[18:27] [0m[37;1mScadar flaps :[0m Smoking is bad for the turkey, better stick to depp fried.[0m
+[18:27] [0m[37;1mScadar flaps :[0m muah another dad joke[0m
+[18:30] [0m[37;1mScadar flaps :[0m I never understood the deep fry method, I always preferred baked in a gas stove.[0m
+[18:31] [0m[37;1mScadar flaps :[0m It bakes more evenly and keeps the moisture.[0m
+[18:31] [0m[37;1mGumby flaps :[0m but how else can you decapitate yourself while check on supper ?[0m
+[18:31] [0m[37;1mScadar flaps :[0m Ask Pokey, he did it before. -.-[0m
+[18:32] [0m[37;1mApocalypse flaps :[0m deep fried is yummy[0m
+[18:32] [0m[37;1mScadar flaps :[0m Or maybe that was the dinosaur one that did that.[0m
+[18:33] [0m[37;1mApocalypse flaps :[0m deep fried is also consistent cooking[0m
+[18:33] [0m[37;1mHooligan flaps :[0m thanksgiving cancelled in ny. cant have more than 10 ppl in your house[0m
+[18:33] [0m                 including family members[0m
+[18:34] [0m[37;1mHooligan flaps :[0m guess i will have a LOT of leftovers. lol[0m
+[18:34] [0m[37;1mScadar flaps :[0m Arizona isn't banning large gatherings...yet.[0m
+[18:35] [0m[37;1mScadar flaps :[0m It is a nice time of year too. It isn't sweltering.[0m
+[18:47] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[19:00] [0m[31;1m[Clan] Prism :[0m 3 hour reboot, me no likey[0m
+[19:01] [0m[31;1m[Clan] Boscar :[0m yeah but think about the hc fun we can have next boot![0m
+[19:01] [0m[31;1m[Clan] Boscar :[0m RIGHT[0m

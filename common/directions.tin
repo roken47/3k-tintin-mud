@@ -1,0 +1,50 @@
+#nop Directions
+#nop Type $ and var like $cochotel
+
+#VARIABLE {bess} {fy;portal;#15 e;leave;e;e;e;e;ne;ne;n;ne;ne;e;e;e;e;n;n;n;n}
+
+		/*	FREQUENTED DUNGEONS	*/
+
+/*	Hotel Translyvania Scaling Dungeon					*/
+#VARIABLE {cochotel} {e;e;e;s;s;e;e;s;w;w;theatre;e;enter;pull rug}
+#VARIABLE {hotelcoc} {out;out;w;s;e;e;n;w;w;n;n;w;w;w}
+
+/*	Zelligar's Castle Scaling Dungeon					*/
+#VARIABLE {fanzel} {portal;n;n;n;n;n;n;n;n;n;n;n;n;leave;n;n;n;w;w;w;w;enter}
+#VARIABLE {zelfan} {leave;e;e;e;e;s;s;s;enter;s;s;s;s;s;s;s;s;s;s;s;s;portal}
+
+/*	Android Scaling Dungeon							*/
+#VARIABLE {cocand} {e;e;e;s;s;e;e;n;n;flip switch on the android}
+#VARIABLE {andcoc} {exit;s;s;w;w;n;n;w;w;w}
+
+		/*	NEWBIE AREAS	*/
+
+/*	Land of the Ice People: portal/12n/leave/8n/4e/6n/w/6n/portal (level 5+)	*/
+#VARIABLE {fanice} {portal;#12 n;leave;#8 n;#4 e;#6 n;w;#6 n;portal}
+#VARIABLE {icefan} {portal;#6 s;e;#6 s;#4 w;#8 s;enter;#12 s;portal}
+
+/*	Grindur: portal/12n/leave/8n/4e/6n/11w/n/enter (level 15+)			*/
+#VARIABLE {fandur} {portal;#12 n;leave;#8 n;#4 e;#6 n;#11 w;n;enter}
+#VARIABLE {durfan} {leave;s;#11 e;#6 s;#4 w;#8 s;enter;#12 s;portal}
+
+/*	Scorpion Caves: portal 12w/leave/11w/enter (level 15+)				*/
+#VARIABLE {fansco} {portal;#12 w;leave;#11 w;enter}
+#VARIABLE {scofan} {leave;#11 e;enter;#12 e;portal}
+
+/*	Thistlebeard's Galleon: portal/7w/9s/board (level 15+)				*/
+#VARIABLE {fangal} {portal;#7 w;#9 s;board}
+#VARIABLE {galfan} {something;#9 n;#7 e;portal}
+
+/*	Rimalkin Cave: portal/12n/leave/8n/4e/6n/7w/s/enter (level 20+)			*/
+#VARIABLE {fanrim} {portal;#12 n;leave;#8 n;#4 e;#6 n;#7 w;s;enter}
+#VARIABLE {rimfan} {leave;n;#7 e;#6 s;#4 w;#8 s;enter;#12 s;portal}
+/*	Rimalkin 2.0: 10-25 M Class							*/
+#VARIABLE {fanrim2} {portal;#12 n;leave;#8 n;#4 e;#6 n;#7 w;s;slide rock}
+
+/*	Wayhaven - Library: portal/7w/3s/2e/s (level 20+)				*/
+#VARIABLE {fanlib} {portal;#7 w;#3 s;#2 e;s}
+#VARIABLE {libfan} {n;#2 w;#3 n;#7 e;portal}
+
+/*	 Catacombs: portal/12n/leave/8n/4e/6n/2w/n/d (level 25+)			*/
+#VARIABLE {fancat} {portal;#12 n;leave;#8 n;#4 e;#6 n;#2 w;n;d}
+#VARIABLE {catfan} {u;s;#2 e;#6 s;#4 w;#8 s;enter;#12 s;portal}

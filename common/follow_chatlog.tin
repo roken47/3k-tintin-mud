@@ -1,0 +1,20 @@
+#EVENT {PROGRAM START} {
+	#format {datestamp} {%t} {%Y-%m-%d.log};
+	#run {chatlog} {tail -f /home/tintin/3k/logs/${datestamp};}
+	}
+
+#EVENT {DAY} {
+	#format {datestamp} {%t} {%Y-%m-%d.log};
+	#sys {touch /home/tintin/3k/logs/${datestamp}};
+	#send {\cc};
+	}
+
+#EVENT {SESSION DISCONNECTED} {
+	#format {datestamp} {%t} {%Y-%m-%d.log};
+	#format {hourstamp} {%t} {%H}
+	#math {hourstamp} {$hourstamp - 4};
+	#format {timestamp} {%t} {[$hourstamp:%M]};
+	#format {datestamp} {%t} {%Y-%m-%d.log};
+	#line log logs/$datestamp - = LOG STARTED $timestamp = -;
+	#run {chatlog} {tail -f /home/tintin/3k/logs/${datestamp}}
+	}

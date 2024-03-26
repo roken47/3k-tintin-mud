@@ -1,0 +1,1118 @@
+- = LOG STARTED [00:00] = -
+[00:10] [0m[4m[31m[JEDI]: Alyssa K'tal arrives at the Academy.[0m[0m[0m
+[00:23] [0mnewb Ion [android/36]: is there anywhere outside of guilds to buy a bag? [0m
+[00:23] [0m                       and not the probably-cursed rando bags that get sold[0m
+[00:23] [0m                       to cancer?[0m
+[00:23] [0mnewb Space [necromancer/141]: hmm, hit crydee, kill merchants and servants[0m
+[00:23] [0m                              for bags of holding[0m
+[00:23] [0mnewb Hyuga [jedi/133]: santa claus, crydee merchants[0m
+[00:24] [0mnewb Ukyo [jedi/107]: they're out there. explore![0m
+[00:24] [0mnewb Space [necromancer/141]: and yes santa too[0m
+[00:24] [0mnewb Ukyo [jedi/107]: yea, santa's a regular on the hit list.[0m
+[00:25] [0mnewb Space [necromancer/141]: midway marines sometimes carry some olive bag[0m
+[00:25] [0mnewb Space [necromancer/141]: and cometimes its "real" i.e massive capacity[0m
+[00:25] [0mnewb Ion [android/36]: thanks[0m
+[00:25] [0mnewb Hyuga [jedi/133]: any mob that drops random items can drop bags of[0m
+[00:25] [0m                       stretching or bags of holding of various strength[0m
+[00:25] [0mnewb Fluffy [changeling/134]: they're real ... and they're fabulous![0m
+[00:26] [0mnewb Nauda [necromancer/123]: pedal rift[0m
+[00:26] [0mnewb Space [necromancer/141]: no fluffy not all olive bags are real[0m
+[00:27] [0mnewb Hyuga [jedi/133]: while we are suggesting mobs he can't kill, gnome[0m
+[00:27] [0m                       warlord, nasturtium deity. :p[0m
+[00:27] [0mnewb Ion [android/36]: been trying for a pedal rift with my main the last[0m
+[00:27] [0m                       few boots, no dice[0m
+[00:28] [0mnewb Ion [android/36]: i'd forgotten about santa, and didn't know crydee[0m
+[00:28] [0m                       bags were never cursed.  just struck me odd that[0m
+[00:28] [0m                       pinnacle didn't have a bag shop[0m
+[00:29] [0mByron <Craft>: bunch of cxp tomes at magic[0m
+[00:29] [0mnewb Fluffy [changeling/134]: you get your bags lke everything else, by[0m
+[00:29] [0m                              beating the krap outta mobs and taking them[0m
+[00:29] [0m                              ... young whipper snappers and your FANCY[0m
+[00:29] [0m                              SMANCY shops[0m
+[00:29] [0mLance <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[00:29] [0mnewb Okaybanana [juggernaut/79]: lol[0m
+[00:32] [0mnewb Ion [android/36]: speaking of whipper snappers and fancy new stuff.. is[0m
+[00:32] [0m                       there rhyme or reason to what <60 folk can have[0m
+[00:32] [0m                       autoload and what can't?  Just tested a few things[0m
+[00:32] [0m                       and most of the gear i'd acquired showed up on me,[0m
+[00:32] [0m                       but not my ring of speed or zelligar headband....?[0m
+[00:33] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[00:33] [0mYou can currently reforge 12 items.[0m
+[00:40] [0m[4m[31m[JEDI]: Bithoff Jonansaan arrives at the Academy.[0m[0m[0m
+[01:03] [0m[4m[31m[JEDI]: Wennic Ber'ni'lok arrives at the Academy.[0m[0m[0m
+[01:04] [0mAsp [Jedi(37)]: gah, wennic is the worst[0m
+[01:06] [0mUkyo {Professions}: for higher end xmuters, just put a bunch of voidstone[0m
+[01:06] [0m                    and nethernium gleanings in the craft box.[0m
+[01:29] [0m[32;1mFrom afar, Simonz bows before you.[0m[0m
+[01:35] [0m[4m[31m[JEDI]: Herah Wylann arrives at the Academy.[0m[0m[0m
+[02:02] [0m[4m[31m[JEDI]: H'ssani C'talan arrives at the Academy.[0m[0m[0m
+[06:33] [0m[4m[31m[JEDI]: Tobias Kel'ach'nar arrives at the Academy.[0m[0m[0m
+[06:33] [0mSleepy <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[06:42] [0mnewb Roken [jedi/100]: anyone have experience with monk hp and tintin?[0m
+[06:45] [0mnewb Roken [jedi/100]: maybe the config helped by a friend is the only way.[0m
+[06:45] [0m                       tick updates every second[0m
+[06:46] [0mnewb Gaidin [elemental/130]: I don't know monks, but I use tintin.[0m
+[06:47] [0m[32mYou tell Ser:[0m finally used your monkhpbar. a code line 'heartbeat' i'm[0m
+[06:47] [0m        guessing is meant to update hpbar so i changed it to 'hp' b/c[0m
+[06:47] [0m        heartbeat doesn't work. I may make an alias for interval updates[0m
+[06:49] [0mnewb Roken [jedi/100]: my expectation of a mud is low resource, but when[0m
+[06:49] [0m                       that hpbar updates constantly, either ssh server or[0m
+[06:49] [0m                       putty is freaking out[0m
+[06:50] [0mnewb Gaidin [elemental/130]: are you talking about the MIP messages?[0m
+[06:51] [0m[32mYou tell Gaidin:[0m i'm sorry MIP?[0m
+[06:53] [0m[32mGaidin tells you:[0m I'm trying to figure out which "hpbar updates" you're[0m
+[06:53] [0m        talkinag about.[0m
+[06:54] [0m[32mYou tell Gaidin:[0m are you on discord?[0m
+[06:58] [0m[32mGaidin tells you:[0m No.[0m
+[07:05] [0m[32mYou tell Gaidin:[0m shorturl.at/jnSZ1[0m
+[07:05] [0m[32mYou tell Gaidin:[0m the long -- https://drive.google.com/file/d/1a1WFjP_MTLuTd[0m
+[07:05] [0m        raHva5qoAQs6c71g5Du/view[0m
+[07:08] [0m[32mGaidin tells you:[0m So what's happening with that.  Most looks pretty[0m
+[07:08] [0m        straighforward[0m
+[07:08] [0m[32mYou tell Gaidin:[0m hp line is what updates it[0m
+[07:09] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[07:09] [0mYou can currently reforge 4 items.[0m
+[07:11] [0m[4m[31m[JEDI]: Durnoth arrives at the Academy.[0m[0m[0m
+[07:12] [0m[32mGaidin tells you:[0m But what's happening and when?[0m
+[07:14] [0m[32mSer tells you:[0m no that is an alias to send commands based on hpbar, i.e.[0m
+[07:14] [0m        if hp < blah blah do stuff[0m
+[07:14] [0m[32mYou tell Ser:[0m insertion line blinks between main and hpbar after awhile.[0m
+[07:14] [0m        hpbar constantly blinks. I'll give an alias with #delay 5 hp. a try[0m
+[07:15] [0m[32mSer tells you:[0m i used it a lot more before reflex was introduced[0m
+[07:15] [0m[32mSer tells you:[0m just #nop the line[0m
+[07:15] [0m[32mYou tell Gaidin:[0m insertion line blinks between main and hpbar after awhile.[0m
+[07:15] [0m        hpbar constantly blinks. I'll give an alias with #delay 5 hp. a try[0m
+[07:15] [0m[32mSer tells you:[0m use autohp and just #nop that line[0m
+[07:16] [0m[32mYou tell Ser:[0m will hp bar update with autohp?[0m
+[07:16] [0m[32mSer tells you:[0m yes, right now youre spamming the mud[0m
+[07:17] [0m[32mYou tell Ser:[0m ok[0m
+[07:19] [0m[32mYou tell Ser:[0m what is G2 for monk? trying to find the number when i type[0m
+[07:19] [0m        guild stats[0m
+[07:22] [0m[32mSer tells you:[0m probably gxp 2 next glevel[0m
+[07:30] [0m[32mYou tell Ser:[0m wrote into corpsetrig #if {$mindcur < 100} {meditate} - will[0m
+[07:30] [0m        it read from hpbar?[0m
+[07:33] [0m[32mYou tell Ser:[0m are coffins for people to study corpses in bulk? cuz[0m
+[07:33] [0m        everytime i'm done killing i'm triggered to study corpse and move[0m
+[07:33] [0m        on[0m
+[07:40] [0m[4m[31m[JEDI]: Ylenic It'kla arrives at the Academy.[0m[0m[0m
+[07:42] [0m[32mYou say: [0mskills                                                               [0m
+[07:42] [0;32mYlenic says: [0mI have mastered lightsaber combat, control pain, resist[0m
+[07:42] [0m             poison, magnify senses, absorb energy, distract, alter[0m
+[07:42] [0m             technology, displace matter, lightsaber alteration, battle[0m
+[07:42] [0m             meditation, robotics.                                        [0m
+[07:42] [0;32mYlenic says: [0mI have become adept at detoxify poison, melee combat, hand to[0m
+[07:42] [0m             hand combat, cloud mind.                                     [0m
+[07:42] [0;32mYlenic says: [0mAnd I have gained an understanding of accelerated healing,[0m
+[07:42] [0m             reduce injury, soul siphon, force, concentration, hibernation[0m
+[07:42] [0m             trance, meditation, dodge, lesser force shield, greater force[0m
+[07:42] [0m             shield, resist stun, enhance metabolism, launch item, inflict[0m
+[07:42] [0m             pain, injure-kill, telekinetic kill, life sense, sense force,[0m
+[07:42] [0m             telepathy, animal affinity, disturbing aura, misdirect,[0m
+[07:42] [0m             enrage, confusion, mindblock, telekinesis, drain crystals,[0m
+[07:42] [0m             dissipate energy, release force, force storm.                [0m
+[07:42] [0m[32mYlenic says: [0mI can teach you any of those if you wish.                     [0m
+[07:43] [0m[32;1mUkyo says 'yo'.[0m[0m
+[07:43] [0m[32mYou say:[0m yo[0m
+[07:43] [0m[32;1mAsp says 'yo'.[0m[0m
+[07:44] [0m[32mYou say:[0m May the Force be with You![0m
+[07:44] [0m[32;1mUkyo says, 'May the Force be with you, Roken.'[0m[0m
+[07:45] [0m[32mUkyo thinks . o O ([0m [32;1m info emotes [0m [32m)[0m[0m
+[07:45] [0m[32;1mFrom afar, Magneto goes 'OOoOooOoOooOooooOOOoOOoooOO!!!!!!!!' at you.[0m[0m
+[07:47] [0mRoken [Jedi(51)]: fighting naked Woo[0m
+[07:47] [0mAsp [Jedi(37)]: watch how you swing that saber[0m
+[07:48] [0mRoken [Jedi(51)]: dirty[0m
+[07:57] [0mUkyo [Jedi(76)]: Welcome to the club.[0m
+[08:05] [0mUkyo <Craft>: hrm. i wonder what he's going to be used for?[0m
+[08:09] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[08:09] [0mYou can currently reforge 8 items.[0m
+[08:11] [0m[4m[31m[JEDI]: Herah Wylann arrives at the Academy.[0m[0m[0m
+[08:14] [0mYou can currently reforge 0 items.[0m
+[08:30] [0m[32mSer tells you:[0m you can donate corpses to increase coffin size or sell them[0m
+[08:30] [0m        for coins[0m
+[08:31] [0m[32mYou tell Ser:[0m thank you[0m
+[08:36] [0m[32mYou tell Ser:[0m you have a backup of monk hp bar? some reason Enemymsg[0m
+[08:36] [0m        displays $mob_health_color%%[0m
+[09:21] [0mFlaxen {Professions}: Hi ho, hi ho ... it's off to work I go.[0m
+[09:22] [0mNauda {Professions}: ho ho ho off the pants go[0m
+[09:25] [0mArmy shouts: Game reboot in 47 minutes 47 seconds [0m
+[09:26] [0m[34;1mKichi shouts:[0m wooo[0m
+[09:26] [0m[32;1mFrom afar, you go 'Woo Woo!' at Simonz.[0m[0m
+[09:27] [0m[34;1mSpace shouts:[0m woos[0m
+[09:27] [0m[32;1mFrom afar, you go 'Woo Woo!' at Ukyo.[0m[0m
+[09:28] [0m[32mSimonz tells you:[0m I'm going to be making a titanium set after reboot[0m
+[09:28] [0m[32mYou tell Simonz:[0m in efforts to tank to 111?[0m
+[09:28] [0m[32mSer tells you:[0m have you gotten evaluation yet[0m
+[09:29] [0m[32mYou tell Ser:[0m yes[0m
+[09:29] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[09:29] [0m[32mSer tells you:[0m at work atm ill look at your setup later[0m
+[09:29] [0m[32mSimonz tells you:[0m I tank way better with lots of +dex[0m
+[09:30] [0m[32mSimonz tells you:[0m are you still going to work on your crafting stuff? [0m
+[09:30] [0m        apart from the mining you could have everything up to 60 in one day[0m
+[09:30] [0m        of solid work[0m
+[09:37] [0mArmy shouts: Game reboot in 35 minutes 40 seconds [0m
+[09:37] [0m[32mYou tell Simonz:[0m working on setting up monk and exploring necro[0m
+[09:47] [0mArmy shouts: Game reboot in 26 minutes 35 seconds [0m
+[09:53] [0mArmy shouts: Game reboot in 19 minutes 46 seconds [0m
+[09:54] [0mSimonz {Professions}: oh, Flaxen, is there a cutoff where transmuters use[0m
+[09:54] [0m                      less mats when raising quality?  it takes me 5[0m
+[09:54] [0m                      superior to go to legendary, for example, but larger[0m
+[09:54] [0m                      transmuters only need 4?[0m
+[09:55] [0mSimonz {Professions}: I'm trying with aquamarine, the lowest level mat, and[0m
+[09:55] [0m                      it always costs 5[0m
+[09:55] [0mGaidin {Professions}: It should be the same ratio.  2 average makes 1 good,[0m
+[09:55] [0m                      3 good makes 1 superior, 4 superior makes one[0m
+[09:55] [0m                      legendary[0m
+[09:55] [0mNauda {Professions}: for me doesn't matter if I transmute item that has[0m
+[09:55] [0m                     minimal level 70 or 7, still 4 superior is 1 legendary[0m
+[09:55] [0mSimonz {Professions}: had another small transmuter test, he got the same[0m
+[09:55] [0m                      results[0m
+[09:56] [0mNauda {Professions}: then let's blame Flaxen[0m
+[09:58] [0mArmy shouts: Game reboot in 14 minutes 39 seconds [0m
+[09:59] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[09:59] [0mAlstor [Jedi(Staff)]: I shall be selling the Armory off shortly. Please[0m
+[09:59] [0m                      return any borrowed equipment promptly.[0m
+[09:59] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 3363850 coins[0m
+[09:59] [0m                      and credited your accounts with your share of the[0m
+[09:59] [0m                      proceeds.[0m
+[10:01] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 76041 coins and[0m
+[10:01] [0m                      credited your accounts with your share of the[0m
+[10:01] [0m                      proceeds.[0m
+[10:02] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 244466 coins and[0m
+[10:02] [0m                      credited your accounts with your share of the[0m
+[10:02] [0m                      proceeds.[0m
+[10:02] [0mArmy shouts: Game reboot in 10 minutes 49 seconds [0m
+[10:04] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 360313 coins and[0m
+[10:04] [0m                      credited your accounts with your share of the[0m
+[10:04] [0m                      proceeds.[0m
+[10:05] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 11912 coins and[0m
+[10:05] [0m                      credited your accounts with your share of the[0m
+[10:05] [0m                      proceeds.[0m
+[10:05] [0mArmy shouts: Game reboot in 7 minutes 56 seconds [0m
+[10:06] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:06] [0;32mChavee says: [0mJoining is the easy part and the beginning of your learning. [0m
+[10:06] [0m             Simply say 'craftmenow' and we'll get you started.           [0m
+[10:06] [0m[32mYou say:[0m craftmenpw[0m
+[10:07] [0m[32mYou say: [0mcraftmenow                                                           [0m
+[10:07] [0m[32mYou say: [0mhi                                                                   [0m
+[10:07] [0;32mChavee says:[0m Hi, Dartholiver, I hope you are doing well.  This is the[0m
+[10:07] [0m            Crafter's Union Guild Hall, where crafters come to assemble[0m
+[10:07] [0m            raw materials into powerful items to help adventurers!  We're[0m
+[10:07] [0m            open to all who are interested in joining.                    [0m
+[10:07] [0m[32mYou say: [0mcraftmenow                                                           [0m
+[10:07] [0;32mChavee says: [0mDone!  Welcome to the Crafter's Guild!  Feel free to explore![0m
+[10:07] [0m             Make sure you speak with each of the individual trainers to[0m
+[10:07] [0m             learn a profession!                                          [0m
+[10:07] [0mArmy shouts: Game reboot in 5 minutes 47 seconds [0m
+[10:08] [0m[32mChavee says:[0m Welcome back, Dartholiver, and I wish you the best of luck![0m
+[10:08] [0m[32mYou say: [0mhi                                                                   [0m
+[10:08] [0;32mTorix says:[0m Well, you don't look like a wrangler, but I've been suprised[0m
+[10:08] [0m           before.                                                        [0m
+[10:09] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:09] [0;32mTorix says: [0mEasy enough, simply say 'wranglemenow' and we'll get you[0m
+[10:09] [0m            started.                                                      [0m
+[10:09] [0m[32mYou say: [0mwranglemenow                                                         [0m
+[10:09] [0;32mTorix says: [0mCongratulations!  You are ready to begin wrangling!  Remember[0m
+[10:09] [0m            to come back for training once you have learned everything you[0m
+[10:09] [0m            can.                                                          [0m
+[10:09] [0m[32mYou say: [0mhi                                                                   [0m
+[10:09] [0mArmy shouts: TELL ARMY if you want a free transport![0m
+[10:09] [0mArmy shouts: Game reboot in 4 minutes 10 seconds [0m
+[10:09] [0;32mSebastian says:[0m Hi, Dartholiver, do you seek to learn about enchanting?   [0m
+[10:09] [0m[34;1mElminster shouts:[0m last[0m
+[10:09] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:09] [0m[32mYou say: [0mhi                                                                   [0m
+[10:09] [0m[34;1mSaim shouts:[0m not even close[0m
+[10:09] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:09] [0m[32mYou say: [0mhi                                                                   [0m
+[10:10] [0m[32mYou say:[0m how are you[0m
+[10:10] [0m[32mYou say: [0mhi                                                                   [0m
+[10:10] [0;32mSebastian says:[0m Hi, Dartholiver, do you seek to learn about enchanting?   [0m
+[10:10] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:10] [0;32mSebastian says: [0mJoining is the easy part and the beginning of your[0m
+[10:10] [0m                learning.  Simply say 'enchantmenow' and we'll get you[0m
+[10:10] [0m                started.                                                  [0m
+[10:10] [0m[34;1mSimonz shouts:[0m last first ;)[0m
+[10:10] [0m[32mYou say: [0menchantmenow                                                         [0m
+[10:10] [0;32mSebastian says: [0mCongratulations!  You are ready to begin enchanting! [0m
+[10:10] [0m                Remember to come back for training once you have learned[0m
+[10:10] [0m                everything you can.                                       [0m
+[10:10] [0m[34;1mWik shouts:[0m too late[0m
+[10:10] [0mArmy shouts: Game reboot in 2 minutes 57 seconds [0m
+[10:10] [0m[34;1mTex shouts:[0m last[0m
+[10:10] [0m[34;1mSpace shouts:[0m tsal[0m
+[10:11] [0m[32mYou say: [0mhi                                                                   [0m
+[10:11] [0;32mDaniel says:[0m Hi, Dartholiver, do you seek to learn about mining?          [0m
+[10:11] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:11] [0m[34;1mWik shouts:[0m tlucyalp[0m
+[10:11] [0m[32mYou say: [0mhi                                                                   [0m
+[10:11] [0;32mDaniel says:[0m Hi, Dartholiver, do you seek to learn about mining?          [0m
+[10:11] [0m[32mYou say:[0m yes[0m
+[10:11] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:11] [0mArmy shouts: Game reboot in 2 minutes 2 seconds [0m
+[10:11] [0m[32mYou say: [0mhi                                                                   [0m
+[10:11] [0;32mDaniel says:[0m Hi, Dartholiver, do you seek to learn about mining?          [0m
+[10:11] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:11] [0;32mDaniel says: [0mJoining is the easy part and the beginning of your learning. [0m
+[10:11] [0m             Simply say 'minemenow' and we'll get you started.            [0m
+[10:11] [0m[32mYou say: [0mminemenow                                                            [0m
+[10:11] [0;32mDaniel says: [0mCongratulations!  You are ready to begin mining!  Remember to[0m
+[10:11] [0m             come back for training once you have learned everything you[0m
+[10:11] [0m             can.                                                         [0m
+[10:12] [0m[34;1mWik shouts:[0m redrah toober[0m
+[10:12] [0m[34;1mTex shouts:[0m the clap last[0m
+[10:12] [0m[32mYou say: [0mhi                                                                   [0m
+[10:12] [0;32mYvon says:[0m Hi, Dartholiver, do you seek to learn about blacksmithing?     [0m
+[10:12] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:12] [0mArmy shouts: Game reboot in 1 minute 21 seconds [0m
+[10:12] [0m[32mYou say: [0mhi                                                                   [0m
+[10:12] [0m[32mYou say: [0mhi                                                                   [0m
+[10:12] [0m[34;1mSpace shouts:[0m sounds like a porno[0m
+[10:12] [0;32mYvon says:[0m Hi, Dartholiver, do you seek to learn about blacksmithing?     [0m
+[10:12] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:12] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:12] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:12] [0;32mYvon says: [0mJoining is the easy part and the beginning of your learning. [0m
+[10:12] [0m           Simply say 'blacksmithmenow' and we'll get you started.        [0m
+[10:12] [0m[32mYou say: [0mblacksmithmenow                                                      [0m
+[10:12] [0mArmy shouts: Game reboot in 50 seconds [0m
+[10:12] [0m[32mYou say: [0mblacksmithmenow                                                      [0m
+[10:12] [0;32mYvon says: [0mCongratulations!  You are ready to begin blacksmithing! [0m
+[10:12] [0m           Remember to come back for training once you have learned[0m
+[10:12] [0m           everything you can.                                            [0m
+[10:13] [0mArmy shouts: Game reboot in 27 seconds [0m
+[10:13] [0m[34;1mSaim shouts:[0m clappin alien butt cheeks[0m
+[10:13] [0m[34;1mMugen shouts:[0m not for 2 more months[0m
+[10:13] [0mArmy shouts: Game reboot in 10 seconds [0m
+[10:14] [0mArmy shouts: The sweltering heat of this arid desert is making your head ache[0m
+[10:14] [0m[34;1mCaboose shouts:[0m oy![0m
+[10:15] [0m[34;1mLeto shouts:[0m :D[0m
+[10:15] [0m[34;1mBoosh shouts:[0m number 28 with a decided fate[0m
+[10:16] [0m[34;1mBoosh shouts:[0m lag monster dead you're welcome[0m
+[10:17] [0m[34;1mWik shouts:[0m anyone want a bless?[0m
+[10:18] [0m[34;1mKichi shouts:[0m i havent sneezed yet[0m
+[10:18] [0m[34;1mNauda shouts:[0m Bless you.[0m
+[10:18] [0m[34;1mThom shouts:[0m yay 44 :P[0m
+[10:19] [0mSpun flaps : who has trident seriously bad@$$[0m
+[10:20] [0m[34;1mNightrider shouts:[0m order up![0m
+[10:20] [0m[32mYou say: [0mhi                                                                   [0m
+[10:20] [0;32mChavee says:[0m Hi, Dangerzone, I hope you are doing well.  This is the[0m
+[10:20] [0m            Crafter's Union Guild Hall, where crafters come to assemble[0m
+[10:20] [0m            raw materials into powerful items to help adventurers!  We're[0m
+[10:20] [0m            open to all who are interested in joining.                    [0m
+[10:20] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:20] [0;32mChavee says: [0mJoining is the easy part and the beginning of your learning. [0m
+[10:20] [0m             Simply say 'craftmenow' and we'll get you started.           [0m
+[10:20] [0m[32mYou say: [0mcraftmenow                                                           [0m
+[10:20] [0;32mChavee says: [0mDone!  Welcome to the Crafter's Guild!  Feel free to explore![0m
+[10:20] [0m             Make sure you speak with each of the individual trainers to[0m
+[10:20] [0m             learn a profession!                                          [0m
+[10:21] [0m[32mChavee says:[0m Welcome back, Dangerzone, and I wish you the best of luck![0m
+[10:21] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:21] [0;32mTorix says: [0mEasy enough, simply say 'wranglemenow' and we'll get you[0m
+[10:21] [0m            started.                                                      [0m
+[10:21] [0m[32mYou say: [0mwranglemenow                                                         [0m
+[10:21] [0;32mTorix says: [0mCongratulations!  You are ready to begin wrangling!  Remember[0m
+[10:21] [0m            to come back for training once you have learned everything you[0m
+[10:21] [0m            can.                                                          [0m
+[10:21] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:21] [0;32mSebastian says: [0mJoining is the easy part and the beginning of your[0m
+[10:21] [0m                learning.  Simply say 'enchantmenow' and we'll get you[0m
+[10:21] [0m                started.                                                  [0m
+[10:21] [0m[32mYou say: [0menchantmenow                                                         [0m
+[10:21] [0;32mSebastian says: [0mCongratulations!  You are ready to begin enchanting! [0m
+[10:21] [0m                Remember to come back for training once you have learned[0m
+[10:21] [0m                everything you can.                                       [0m
+[10:21] [0m[32mYou say: [0mjoin                                                                 [0m
+[10:21] [0;32mDaniel says: [0mJoining is the easy part and the beginning of your learning. [0m
+[10:21] [0m             Simply say 'minemenow' and we'll get you started.            [0m
+[10:21] [0m[32mYou say: [0mminemenow                                                            [0m
+[10:21] [0;32mDaniel says: [0mCongratulations!  You are ready to begin mining!  Remember to[0m
+[10:21] [0m             come back for training once you have learned everything you[0m
+[10:21] [0m             can.                                                         [0m
+[10:22] [0m[32mYou say: [0mblacksmithmenow                                                      [0m
+[10:22] [0;32mYvon says: [0mCongratulations!  You are ready to begin blacksmithing! [0m
+[10:22] [0m           Remember to come back for training once you have learned[0m
+[10:22] [0m           everything you can.                                            [0m
+[10:24] [0m[32mYou say: [0mcraftmenow                                                           [0m
+[10:24] [0;32mChavee says: [0mDone!  Welcome to the Crafter's Guild!  Feel free to explore![0m
+[10:24] [0m             Make sure you speak with each of the individual trainers to[0m
+[10:24] [0m             learn a profession!                                          [0m
+[10:24] [0m[32mChavee says:[0m Welcome back, Snakebite, and I wish you the best of luck![0m
+[10:25] [0m[32mYou say:[0m wrangmenow[0m
+[10:25] [0m[32mYou say: [0mwranglemenow                                                         [0m
+[10:25] [0;32mTorix says: [0mCongratulations!  You are ready to begin wrangling!  Remember[0m
+[10:25] [0m            to come back for training once you have learned everything you[0m
+[10:25] [0m            can.                                                          [0m
+[10:25] [0m[32mYou say: [0menchantmenow                                                         [0m
+[10:25] [0;32mSebastian says: [0mCongratulations!  You are ready to begin enchanting! [0m
+[10:25] [0m                Remember to come back for training once you have learned[0m
+[10:25] [0m                everything you can.                                       [0m
+[10:25] [0m[32mYou say: [0mminemenow                                                            [0m
+[10:25] [0;32mDaniel says: [0mCongratulations!  You are ready to begin mining!  Remember to[0m
+[10:25] [0m             come back for training once you have learned everything you[0m
+[10:25] [0m             can.                                                         [0m
+[10:25] [0m[32mYou say: [0mblacksmithmenow                                                      [0m
+[10:25] [0;32mYvon says: [0mCongratulations!  You are ready to begin blacksmithing! [0m
+[10:25] [0m           Remember to come back for training once you have learned[0m
+[10:25] [0m           everything you can.                                            [0m
+[10:28] [0mnewb Snakebite [adventurer/10]: directions to necro again? 15 E leave ...[0m
+[10:29] [0;1;34mRikken shouts: [0mPolls are now open![0m
+[10:36] [0m[32mYou say: [0mhi                                                                   [0m
+[10:36] [0m[32mRaylorn says: [0mHello Snakebite.  How can I help you?[0m
+[10:36] [0m[32mYou say:[0m join[0m
+[10:36] [0mRaylorn tells you:[0m
+[10:36] [0m     To join the guild, you only need to ask a Necromancer of[0m
+[10:37] [0mSnakebite flaps : @space @gore @barian @agni @nauda - any of you happy to[0m
+[10:37] [0m                  recruit me to the darkside?[0m
+[10:38] [0m[32mYou say:[0m hi[0m
+[10:39] [0m[32mYou say:[0m guildmenow[0m
+[10:39] [0m[32mYou say:[0m join the guild[0m
+[10:39] [0m[32mYou say:[0m join necromancer[0m
+[10:42] [0mUkyo <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[10:43] [0mLeto <Craft>: Lumberjacks unite![0m
+[10:43] [0mUkyo <Craft>: do we need to recover?[0m
+[10:43] [0mSimonz <Craft>: doesn't fix it[0m
+[10:43] [0mUkyo <Craft>: so, something broke?[0m
+[10:43] [0m[34;1mSnakebite shouts:[0m I want to learn the Dark arts![0m
+[10:43] [0mUkyo <Craft>: probably to do with the drop rate fix[0m
+[10:43] [0m[32mGore tells you:[0m I can recruit you but I can't do anything beyond that,[0m
+[10:43] [0m        busy brunning. Do you want a blind recruit?[0m
+[10:44] [0m[34;1mUkyo shouts:[0m You'll need to become a jedi for that. darkside[0m
+[10:44] [0m[32mUkyo thinks . o O ([0m [32;1m don't you already have a jedi? [0m [32m)[0m[0m
+[10:44] [0m[32mYou tell Ukyo:[0m are there enough help files?[0m
+[10:44] [0m[32mYou tell Gore:[0m are there enough help files?[0m
+[10:45] [0m[32mUkyo thinks . o O ([0m [32;1m mistell or what do you mean by enough help[0m
+[10:45] [0;1;32m           files? i don't understand [0m [32m)[0m[0m
+[10:45] [0m[32mYou tell Ukyo:[0m necromancer dark arts[0m
+[10:45] [0m[32mGore tells you:[0m there are plenty of help files, and people will answer[0m
+[10:45] [0m        questions on guild chat[0m
+[10:45] [0m[32mYou tell Gore:[0m ok blind recruit sounds alright[0m
+[10:46] [0mGore whispers a few words of magic into the wind.[0m
+[10:46] [0m[32mUkyo thinks . o O ([0m [32;1m oh, necros, yea, they'd be dark arts too.[0m
+[10:46] [0;1;32m           weere you asking earlier about directions? follow the east[0m
+[10:46] [0;1;32m           road to the portal, then go north, and i think maybe east one[0m
+[10:46] [0;1;32m           or two and north. you're looking for Katin, iirc [0m [32m)[0m[0m
+[10:46] [0mA whisper from long ago: You only have two choices, one you can[0m
+[10:46] [0mA whisper from long ago: To accept the offer 'drink from the pool'[0m
+[10:46] [0m                             or to decline 'decline a drink'.[0m
+[10:46] [0mnewb Ukyo [jedi/108]: follow the east road from wayhaven to the eastern[0m
+[10:46] [0m                      portal. turn north to the edge of the forest, and look[0m
+[10:46] [0m                      there for a town called Katin, i THINK.[0m
+[10:47] [0mnewb Ukyo [jedi/108]: never been a necro, so i don't know for sure[0m
+[10:47] [0mGore whispers a few words, causing the rod to glow with light.[0m
+[10:47] [0m[32mGore tells you:[0m You have chosen well, and welcome to the path of[0m
+[10:47] [0m        necromancy. Keep well that rod, for it contains the secrets of the[0m
+[10:47] [0m        guild and will be your guide for the days ahead.  Now go forth and[0m
+[10:47] [0m        become great, but first greet your fellow necromancers.  'chat[0m
+[10:47] [0m        <message>' to greet them, and 'info' to obtain help.[0m
+[10:47] [0m[32mGore says:[0m chat to guildchat[0m
+[10:47] [0mnewb Snakebite [necromancer/10]: read logs[0m
+[10:47] [0m[32mGore tells you:[0m 'info newbie' is a good place to start[0m
+[10:53] [0mSimonz <Craft>: the gems still work, i can smith with them and get the stat[0m
+[10:53] [0m                bonuses[0m
+[10:53] [0mRictor <Craft>: recover[0m
+[10:54] [0mSimonz <Craft>: did several times[0m
+[10:55] [0m[32mYou say:[0m hi[0m
+[10:55] [0mTheela says: Hello Snakebite.  How can I help you?[0m
+[10:55] [0mNauda <Craft>: what with all the recovers?[0m
+[11:12] [0mLeto <Craft>: is there a file that talks about the different quality levels[0m
+[11:12] [0m              of crafting supplies?[0m
+[11:13] [0mLeto <Craft>: crafthelp craftcommands exa satchel haven't provided me with[0m
+[11:13] [0m              this information.[0m
+[11:14] [0mUkyo <Craft>: have you read through crafthelp new, from bottom to top?[0m
+[11:15] [0mUkyo <Craft>: not really much in there on quality, to be honest[0m
+[11:16] [0mLeto <Craft>: thank you, i will read it.[0m
+[11:39] [0mTuba <Craft>: pearl dust? pearl dust? sheesh crazy nethernium helmet needs a[0m
+[11:39] [0m              pearl dust![0m
+[11:40] [0mTuba <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[11:41] [0mUkyo <Craft>: i've got some tuba. give me a minute[0m
+[11:42] [0mSimonz <C-Trade>: wtb legendary heart of soul[0m
+[11:42] [0mTuba <Craft>: take your time[0m
+[11:56] [0mUkyo <Craft>: I'm disappointed, Flaxen. I expected another doubling. not[0m
+[11:56] [0m              half again. especially considering the cost.[0m
+[12:08] [0mNauda flaps : sometimes I get lag, I hope it's not my internet[0m
+[12:08] [0mUkyo flaps : getting a lot this boot, tbh[0m
+[12:08] [0m[32mWhoknows says:[0m What are you waiting for, Christmas?[0m
+[12:20] [0m[32mTuck says:[0m How are ye today, my friend?[0m
+[12:20] [0m[32mTuck says:[0m Oh my dear.[0m
+[12:25] [0m[32mBandit says:[0m Your valuables please..[0m
+[12:30] [0m[34;1mDartholiver shouts:[0m anyone have a light?![0m
+[12:30] [0m[34;1mUkyo shouts:[0m Does a Light-saber count?[0m
+[12:30] [0mCarid says: Ah, what I would give if only the lovely Terela would be mine! [0m
+[12:30] [0m[32mYou tell Ukyo:[0m ya :) all sudden the library is dark[0m
+[12:30] [0m[34;1mCaboose shouts:[0m you're not getting my bud light, johnny![0m
+[12:31] [0mCarid says: Please!  Help make Terela love me!                             [0m
+[12:31] [0m[32mYou tell Ukyo:[0m ya[0m
+[12:31] [0m[34;1mXiu shouts:[0m flickum bicus[0m
+[12:31] [0m[32;1mFrom afar, Ukyo tells you that he'll be right there![0m[0m
+[12:32] [0m[32;1mUkyo says 'yo'.[0m[0m
+[12:32] [0m[32mUkyo thinks . o O ([0m [32;1m looking for my lightsource [0m [32m)[0m[0m
+[12:32] [0m[32mYou tell Ukyo:[0m i can see the room[0m
+[12:33] [0m[32mYou tell Ukyo:[0m i need to find space to meditate[0m
+[12:34] [0m[32mYou tell Ukyo:[0m woo thank you. must get back to guild to complete a[0m
+[12:34] [0m        challenge to rise guild lvl[0m
+[12:35] [0m[32;1mFrom afar, Ukyo sticks his thumb up at you and says 'No problemo'.[0m[0m
+[12:36] [0m[32mYou tell Rictor:[0m hi[0m
+[12:36] [0m[32;1mFrom afar, Rictor waves in your direction.[0m[0m
+[12:37] [0m[32mYou tell Rictor:[0m there methods outside study and meditate to regen sp?[0m
+[12:38] [0m[32mRictor tells you:[0m No, not guild related.  Meditate is the big one.  You[0m
+[12:38] [0m        can get equipment to help with regeneration too[0m
+[12:40] [0m[32mYou tell Rictor:[0m copy. trying a librarian ran out of sp healing. more hands[0m
+[12:40] [0m        gxp = less sp?[0m
+[12:41] [0m[32mRictor tells you:[0m Not quite sure what you mean in regards to gxp and sp[0m
+[12:42] [0m[32mYou tell Rictor:[0m a skill point into hands = less sp or pp? or more healing[0m
+[12:42] [0m        for same pp cost?[0m
+[12:42] [0m[32mRictor tells you:[0m I believe it lets you heal more per hands, but takes[0m
+[12:42] [0m        more sp.  I don't think it helps with the ratio of sp->hp[0m
+[12:43] [0m[32mYou tell Rictor:[0m kk[0m
+[12:43] [0m[32mRictor tells you:[0m But makes you much less suseptable to blicks if you take[0m
+[12:43] [0m        a few hard hits in a row.  It might help with the ratio some, would[0m
+[12:43] [0m        be interesting to test at your size.  I can't remember except for[0m
+[12:43] [0m        top end the ratio's[0m
+[12:46] [0m[32mYou tell Rictor:[0m getting there in meditate 4/5[0m
+[12:46] [0m[32mYou tell Rictor:[0m following info faq[0m
+[12:47] [0m[32mYou tell Rictor:[0m my char lvl ix inflated. have about 190 stats i can[0m
+[12:47] [0m        allocate when xp comes[0m
+[12:47] [0m[32mRictor tells you:[0m Oh wow, yeah, the button eh? :P[0m
+[12:48] [0m[32mYou tell Rictor:[0m help from another mudder when i cassist at hoteltrans[0m
+[12:48] [0m[32mMerribeth says: [0mIf you have any questions, please 'inquire'.[0m
+[12:48] [0m                I am here to answer all of your questions[0m
+[12:48] [0m[32;1mFrom afar, Rictor nogs at you.[0m[0m
+[12:49] [0m[32mYou tell Rictor:[0m you have a hpbar tintin code?[0m
+[12:53] [0m[32mRictor tells you:[0m I do not, I only use cmud[0m
+[12:59] [0m[34;1mNightrider shouts:[0m *Warning* You may die . Idle 5 secs[0m
+[13:05] [0m[32mJohawn says:[0m Consider buying a day pass.  Cheaper in the long run.[0m
+[13:06] [0m[32mJohawn says:[0m Consider buying a day pass.  Cheaper in the long run.[0m
+[13:44] [0m[34;1mInago shouts:[0m Hold my beer and watch this...[0m
+[13:44] [0m[34;1mInago shouts:[0m Thanks, all![0m
+[13:44] [0m[32;1mFrom afar, you cheer Inago on!!![0m[0m
+[13:44] [0m[34;1mNightrider shouts:[0m What was that.[0m
+[13:49] [0mnewb Leto [juggernaut/66]: is there a way to send someone some coins?[0m
+[13:49] [0mnewb Chaed [jedi/134]: transfer at the bank[0m
+[13:49] [0mnewb Space [necromancer/141]: ye[0m
+[13:49] [0mnewb Ukyo [jedi/108]: have 25 coins in inventory, transfer x coins to player[0m
+[13:49] [0mnewb Leto [juggernaut/66]: thank you[0m
+[13:49] [0mnewb Ukyo [jedi/108]: at a bank[0m
+[13:50] [0mnewb Ukyo [jedi/108]: atm[0m
+[13:50] [0mnewb Space [necromancer/141]: buy magic safe at bank, put coins in it, ask a[0m
+[13:50] [0m                              knight to send an esquire, give safe to[0m
+[13:50] [0m                              esquire, send esquire to person[0m
+[15:06] [0mTuba <Craft>: sensitive mind message while wrangling an essence[0m
+[15:06] [0mSimonz <Craft>: yup[0m
+[15:06] [0mTuba <Craft>: the gem is full, i still have the essence, no cxp, same for[0m
+[15:06] [0m              everyone?[0m
+[15:06] [0mSimonz <Craft>: I was getting cxp[0m
+[15:06] [0mSimonz <Craft>: but otherwise the same[0m
+[15:06] [0mTuba <Craft>: i'm at 97%, that gem should have pushed me over[0m
+[15:06] [0mTuba <Craft>: but i'm still at 97%[0m
+[15:06] [0mSimonz <Craft>: and the gem was usable in smithing[0m
+[15:06] [0mUkyo <Craft>: not sure on the cxp, pretty sure i didn't get any[0m
+[15:07] [0mSimonz <Craft>: let me check my logs[0m
+[15:08] [0mUkyo <Craft>: yea, filled a legendary major gem of agility, and should have[0m
+[15:08] [0m              gotten three levels worth of wxp, but got zilch.[0m
+[15:10] [0mSimonz <Craft>: ok, I didn't get cxp[0m
+[15:11] [0mUkyo <Craft>: ayup. confirmed.[0m
+[15:11] [0mTuba <Craft>: guess we'll wait on the wrangling[0m
+[15:11] [0mSimonz <Craft>: I'm at 48, crafted standard wolf, which is 47, got nothing[0m
+[15:11] [0mUkyo <Craft>: at least, wranglng for cxp[0m
+[15:11] [0mXiu <Craft>: same thing here. i actually assploded the gem cuz double[0m
+[15:11] [0m             wrangled it[0m
+[15:12] [0mTuba <Craft>: me too xiu, but somehow it gave me a message that my master[0m
+[15:12] [0m              skill prevented it from exploding[0m
+[15:12] [0mUkyo <Craft>: but you can't use it on another gem[0m
+[15:12] [0m[32mYou tell Ser:[0m bots dont work for monk[0m
+[15:13] [0mUkyo <Craft>: so say you get one at almost perfect 50% filled with one[0m
+[15:13] [0m              essence, you can reuse the essence to take it to 100[0m
+[15:13] [0mXiu <Craft>: yeah i suppose if it was worth 50% you could "one shot double[0m
+[15:13] [0m             shot" it but i wouldn't do that cuz it'd be bug abuse[0m
+[15:13] [0mUkyo <Craft>: i did it once to test the theory.[0m
+[15:14] [0mTuba <Craft>: bug abuse that doesn't help you any, unless you don't care[0m
+[15:14] [0m              about cxp and just need gems i guess[0m
+[15:15] [0mUkyo <Craft>: although, now that ithink about it, i didn't see if the entrap[0m
+[15:15] [0m              number went down with the wrangle. so, if you get a small[0m
+[15:15] [0m              multiple, i guess it could be abused. it will require testing.[0m
+[15:15] [0mXiu <Craft>: now my wrangling is 29% behind enchanting. going to be some[0m
+[15:15] [0m             extra gems[0m
+[15:16] [0mXiu <Craft>: if the wrangle command is effecting entraps remaining then[0m
+[15:16] [0m             that's the source of the bug right there because it's not meant[0m
+[15:16] [0m             to[0m
+[15:16] [0mUkyo <Craft>: see? we don't always test our code, but when we do, it's in[0m
+[15:16] [0m              production. good job, team.[0m
+[15:17] [0mXiu <Craft>: 60% of the time it's buggy every time[0m
+[15:19] [0m[34;1mNightrider shouts:[0m Jesus loves us![0m
+[15:19] [0mTuba <Craft>: 99 little bugs in the code. 99 little bugs.  We fix one bug,[0m
+[15:19] [0m              compile it again, 100 little bugs in the code.[0m
+[15:19] [0mUkyo <Craft>: hrm. is flaxen MUDLIB? i hope he is.[0m
+[15:19] [0m[34;1mNauda shouts:[0m Only when loged in![0m
+[15:23] [0mUkyo <Craft>: my suspicion is that it has something to do with the increased[0m
+[15:23] [0m              drop rates of frags/essences/hearts, and he mixed up essences[0m
+[15:23] [0m              in a line somewhere.[0m
+[15:24] [0m[32mYou tell Rictor:[0m "that is is too few" over and over[0m
+[15:24] [0mXiu <Craft>: thus causing chaos[0m
+[15:24] [0mUkyo <Craft>: Hail Eris.[0m
+[15:24] [0m[32mRictor tells you:[0m enervate?[0m
+[15:26] [0m[32mYou tell Rictor:[0m that was it. may need another trigger[0m
+[15:26] [0m[32mYou tell Rictor:[0m that was it. may need another trigger[0m
+[15:29] [0mNauda {Professions}: Does transmuting craft materials work? does it give[0m
+[15:29] [0m                     pxp?[0m
+[15:30] [0mHsima {Professions}: sure[0m
+[15:30] [0mUkyo {Professions}: are you asking if there might be a bug? like what we're[0m
+[15:30] [0m                    experiencing with wrangling?[0m
+[15:30] [0mNauda <Craft>: don't want to blow all my colors and lose mats and not get[0m
+[15:30] [0m               pxp, considering that wrangling is bugged[0m
+[15:30] [0mUkyo <Craft>: test it on something. transmuter score, write it down, use a[0m
+[15:30] [0m              few colors, check it against the old value[0m
+[15:42] [0mBoosh <Craft>: please for the love of all crafing 999 is not enough we more[0m
+[15:42] [0m               space or 2 satchels[0m
+[15:43] [0mMaxim <Craft>: VAF it[0m
+[15:43] [0mBoosh <Craft>: not everyone has money like you rich folks[0m
+[15:43] [0mSpace <Craft>: yeah done the vaf too and 1998 is not enough either[0m
+[15:43] [0mSky <Craft>: chat they are only rich cause they live in momma's basement[0m
+[15:43] [0mNauda <Craft>: get million illegal aliens to carry yout craft junk[0m
+[15:44] [0mMaxim <Craft>: i don't have a neckbeard at least![0m
+[15:44] [0mBoosh <Craft>: need about that[0m
+[15:44] [0mByron <Craft>: wrangling is bugged?[0m
+[15:44] [0mSimonz <Craft>: yup[0m
+[15:44] [0mByron <Craft>: how so[0m
+[15:44] [0mUkyo <Craft>: very[0m
+[15:44] [0mSimonz <Craft>: sensitive mine message when wrangling an essence[0m
+[15:44] [0mEllegon <Craft>: everyone kills, why doesn't everyone wrangle? (I haven no[0m
+[15:44] [0m                 idea how it works)[0m
+[15:45] [0mXiu <Craft>: chaotic essences don't dest when wrangled. sense mind. no cxp[0m
+[15:45] [0m             for doing it.[0m
+[15:45] [0mSimonz <Craft>: gem still fills, and is usable in smithing, but no cxp for[0m
+[15:45] [0m                wrangling[0m
+[15:45] [0mRictor <Craft>: Anybody have the enchanting recipes in a text file?  Seems[0m
+[15:45] [0m                wiki is up/down[0m
+[15:45] [0mByron <Craft>: ah, sounds buggy[0m
+[15:45] [0mSimonz <Craft>: wiki.maybeits.us[0m
+[15:45] [0mXiu <Craft>: mirror is http://wiki.maybeits.us/index.php/An_Open_3k_Wiki[0m
+[15:46] [0m[34;1mEllegon shouts:[0m down with puppymills.[0m
+[15:46] [0m[34;1mSky shouts:[0m woulda been funnier if he was named "Altarboy"[0m
+[15:46] [0m[34;1mEllegon shouts:[0m Sky's the limit[0m
+[15:51] [0m[34;1mNightrider shouts:[0m Yes Sky does have limits[0m
+[15:51] [0m[MONK] Dartholiver : test[0m
+[15:56] [0mZera <C-Trade>: I'm looking to buy a fragment of might to smith a starting[0m
+[15:56] [0m                weapon for this boot[0m
+[15:57] [0mZera <Craft>: Is there a method for getting fragments, or are they always[0m
+[15:57] [0m              just random drops?[0m
+[15:58] [0m[Auction] Robert : Up for bids: Good heart of light, Average heart of light,[0m
+[15:58] [0m                   Average heart of light, Crude heart of light, Average[0m
+[15:58] [0m                   heart of light, Good heart of light, Poor heart of light,[0m
+[15:58] [0m                   Average heart of light, Poor heart of light, Average[0m
+[15:58] [0m                   heart of light, Average heart of light, Crude heart of[0m
+[15:58] [0m                   light and Good heart of light.[0m
+[15:58] [0m[Auction] Robert : Boosh has requested 1,000 as the opening offer.[0m
+[15:58] [0m[Auction] Robert : Got 1,000 from Ukyo(jedi).  Do I hear 1,050?[0m
+[15:58] [0m[Auction] Robert : 1,000 going once![0m
+[15:59] [0m[Auction] Robert : 1,000 going twice![0m
+[15:59] [0m[Auction] Robert : Sold to Ukyo for 1,000 coins![0m
+[15:59] [0m[Auction] Robert : Up for bids: Average heart of light, Poor heart of light,[0m
+[15:59] [0m                   Poor heart of light, Poor heart of light, Average heart[0m
+[15:59] [0m                   of light, Good heart of light and Worthless heart of[0m
+[15:59] [0m                   light.[0m
+[15:59] [0m[Auction] Robert : Boosh has requested 1,000 as the opening offer.[0m
+[16:00] [0mBoosh <Craft>: some on auction if anyone needs[0m
+[16:00] [0m[Auction] Robert : Got 1,000 from Ukyo(jedi).  Do I hear 1,050?[0m
+[16:00] [0m[Auction] Robert : 1,000 going once![0m
+[16:00] [0m[Auction] Robert : 1,000 going twice![0m
+[16:00] [0m[Auction] Robert : Sold to Ukyo for 1,000 coins![0m
+[16:00] [0mUkyo <Craft>: i shouldn't be bidding, considering the increased drop rates[0m
+[16:00] [0m              we're supposed to be getting[0m
+[16:00] [0m[Auction] Robert : Up for bids: Average heart of shadow, Average heart of[0m
+[16:00] [0m                   shadow, Average heart of shadow, Poor heart of shadow,[0m
+[16:00] [0m                   Average heart of shadow, Poor heart of shadow, Poor heart[0m
+[16:00] [0m                   of shadow, Poor heart of shadow, Average heart of shadow,[0m
+[16:00] [0m                   Average heart of shadow, Average heart of shadow, Crude[0m
+[16:00] [0m                   heart of shadow and Average heart of shadow.[0m
+[16:00] [0m[Auction] Robert : Boosh has requested 1,000 as the opening offer.[0m
+[16:01] [0m[Auction] Robert : Got 1,000 from Space(necr).  Do I hear 1,050?[0m
+[16:01] [0mCaboose <Craft>: i would, but i've got over 1500 hearts on me already...[0m
+[16:01] [0m[Auction] Robert : 1,000 going once![0m
+[16:01] [0mBoosh <Craft>: i was thinking for the newbies[0m
+[16:01] [0m[Auction] Robert : 1,000 going twice![0m
+[16:01] [0m[Auction] Robert : Sold to Space for 1,000 coins![0m
+[16:02] [0m[Auction] Robert : Up for bids: Legendary heart of might, Average heart of[0m
+[16:02] [0m                   might, Average heart of might, Poor heart of might, Poor[0m
+[16:02] [0m                   heart of might, Poor heart of might, Poor heart of might,[0m
+[16:02] [0m                   Superior heart of might, Poor heart of might, Average[0m
+[16:02] [0m                   heart of might, Good heart of might, Poor heart of might[0m
+[16:02] [0m                   and Average heart of might.[0m
+[16:02] [0m[Auction] Robert : Boosh has requested 1,000 as the opening offer.[0m
+[16:02] [0m[Auction] Robert : Got 1,000 from Ukyo(jedi).  Do I hear 1,050?[0m
+[16:02] [0m[4m[31m[JEDI]: Bithoff Jonansaan arrives at the Academy.[0m[0m[0m
+[16:02] [0m[Auction] Robert : 1,000 going once![0m
+[16:02] [0m[Auction] Robert : 1,000 going twice![0m
+[16:03] [0m[Auction] Robert : Sold to Ukyo for 1,000 coins![0m
+[16:03] [0m[Auction] Robert : Up for bids: Crude heart of water, Legendary heart of[0m
+[16:03] [0m                   water, Superior heart of water, Average heart of water,[0m
+[16:03] [0m                   Average heart of water, Good heart of water, Average[0m
+[16:03] [0m                   heart of water, Crude heart of water, Average heart of[0m
+[16:03] [0m                   water, Average heart of water, Average heart of water,[0m
+[16:03] [0m                   Poor heart of water and Average heart of water.[0m
+[16:03] [0m[Auction] Robert : Boosh has requested 1,000 as the opening offer.[0m
+[16:03] [0m[Auction] Robert : Got 1,000 from Space(necr).  Do I hear 1,050?[0m
+[16:04] [0m[Auction] Robert : 1,000 going once![0m
+[16:04] [0m[Auction] Robert : 1,000 going twice![0m
+[16:04] [0m[Auction] Robert : Got 2,000 from Ukyo(jedi).  Do I hear 2,040?[0m
+[16:04] [0m[Auction] Space (necr) : meh, out[0m
+[16:04] [0m[Auction] Robert : 2,000 going once![0m
+[16:04] [0m[Auction] Robert : Got 2,040 from Rictor(monk).  Do I hear 2,142?[0m
+[16:04] [0m[Auction] Ukyo (jedi) : me too[0m
+[16:04] [0m[Auction] Robert : 2,040 going once![0m
+[16:07] [0mZera <Craft>: I just made a Legendary 1-handed Copper Axe, gaining 10[0m
+[16:07] [0m              blacksmith levels in the process.[0m
+[16:08] [0mChaed <Craft>: kachow[0m
+[16:33] [0mEllegon flaps : any idea what NoHeart's amulet does besides negative AC[0m
+[16:33] [0m[4m[31m[JEDI]: Wennic Ber'ni'lok arrives at the Academy.[0m[0m[0m
+[16:34] [0mByron flaps : regen i think[0m
+[17:07] [0m[4m[31m[JEDI]: Tobias Kel'ach'nar arrives at the Academy.[0m[0m[0m
+[17:24] [0mSimonz <C-Trade>: still wtb legendary heart of soul[0m
+[17:24] [0mMerrick <C-Trade>: what ya offerin?[0m
+[17:24] [0mNightrider <C-Trade>: BRAINS[0m
+[17:25] [0mSimonz <C-Trade>: nah, don't have any of those[0m
+[17:25] [0mSky <C-Trade>: but, like.. NR needs one of those. :)[0m
+[17:26] [0mUkyo <Craft>: fix incoming for wrangling guys[0m
+[17:26] [0mHyuga <Craft>: thanks ukyo[0m
+[17:27] [0mUkyo <Craft>: all credit to the team and kikipopo.[0m
+[17:28] [0mKikipopo <Craft>: Existing gems will be borked, but all new ones should be[0m
+[17:28] [0m                  okay.[0m
+[17:28] [0mKikipopo <Craft>: If they're not, please let me know right away[0m
+[17:28] [0mSpace <Craft>: I have  *Superior gem of major smarts (100%), i should not[0m
+[17:28] [0m               use it ?[0m
+[17:29] [0mBoosh <Craft>: not smart not too[0m
+[17:29] [0mKikipopo <Craft>: It was broken just during wrangle[0m
+[17:29] [0mUkyo <Craft>: remember, craftrecover is all one word, folks[0m
+[17:29] [0mKikipopo <Craft>: I don't know enough about the different scenarios which[0m
+[17:29] [0m                  would have caused this particular code to run, but the[0m
+[17:29] [0m                  code is fixed and it was part of the wrangling functions[0m
+[17:30] [0mKikipopo <Craft>: Shouldn't need to recover, it was in the gem object[0m
+[17:30] [0mKikipopo <Craft>: Not the craft gobjs[0m
+[17:30] [0mRictor <Craft>: danke[0m
+[17:30] [0mNightrider <C-Trade>: well that being said.. headbands[0m
+[17:30] [0mXiu <Craft>: guess i should wrangle these ones i made now so i don't wonder[0m
+[17:30] [0m             what the heck's up with them later after forgetting this[0m
+[17:30] [0m             happened[0m
+[17:31] [0mUkyo <Craft>: or stash and unstash?[0m
+[17:31] [0mNightrider flaps : anyone free to help ?[0m
+[17:31] [0mByron <Craft>: wow crafthelp new is spammy, maybe paginate that thing?[0m
+[17:31] [0mUkyo <Craft>: that would fix it, righy[0m
+[17:31] [0mXiu <Craft>: they've actually been stashed, i suppose that should fix it[0m
+[17:31] [0m             actually going from listed to a new object[0m
+[17:32] [0mKikipopo <Craft>: stash and unstash should probably fix, yeah[0m
+[17:32] [0mZera flaps : What do you need help with?[0m
+[17:32] [0mNightrider flaps : come to magic plz[0m
+[17:37] [0mNightrider flaps : thanks im all set[0m
+[17:37] [0mNightrider flaps : anyone need to dup mask?[0m
+[17:41] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[17:41] [0mYou can currently reforge 8 items.[0m
+[17:44] [0m[4m[31m[JEDI]: Bithoff Jonansaan arrives at the Academy.[0m[0m[0m
+[17:59] [0mNightrider flaps : doing some beloches, bring friends[0m
+[18:14] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[18:14] [0m                          Northern Hills of Fantasy!  We are localizing it[0m
+[18:14] [0m                          now - get ready![0m
+[18:15] [0m[4m[31m[JEDI]: Alyssa K'tal arrives at the Academy.[0m[0m[0m
+[18:15] [0m[34;1mNightrider shouts:[0m Get your event on[0m
+[18:21] [0mByron flaps : Ew. boot 1809[0m
+[18:21] [0mSky flaps : good alt boot :)[0m
+[18:22] [0mSky flaps : besodes bots gotta sleep sometime[0m
+[18:42] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[18:42] [0mYou can currently reforge 12 items.[0m
+[18:42] [0m[34;1mTurnhold shouts:[0m Get Rekt.[0m
+[18:43] [0mSimonz [Jedi(57)]: woo power droid[0m
+[18:43] [0mSimonz [Jedi(57)]: no wait[0m
+[18:43] [0mSimonz [Jedi(57)]: was thinking repair droid, dang[0m
+[18:44] [0m[34;1mByron shouts:[0m no u[0m
+[18:47] [0m[4m[31m[JEDI]: Herah Wylann arrives at the Academy.[0m[0m[0m
+[18:59] [0mXiu <Craft>: stash/unstash fixes previously borked gems confirmed[0m
+[18:59] [0mZera <Craft>: I found a rake that teleported me to a farm???[0m
+[19:00] [0mXiu <Craft>: yeah that's a place you can farm food mats for cooking aspect[0m
+[19:00] [0m             of crafting. of details i have none, not a farmer/cook[0m
+[19:00] [0mZera <Craft>: Neat  I'll look into it[0m
+[19:04] [0mByron flaps : anyone see portal?[0m
+[19:07] [0mByron flaps : it's southeast of road portal...freezing dmg.[0m
+[19:08] [0mHyuga [Jedi(90)]: should be countered by your RLI bonus :p[0m
+[19:08] [0mInquisitor [Jedi(Knight)]: It will balance out in time, yes.[0m
+[19:18] [0m[4m[31m[JEDI]: Reena Bel Noir arrives at the Academy.[0m[0m[0m
+[19:20] [0m[34;1mJasmine shouts:[0m PLAYCULT! Yik likes when culties stick things in him![0m
+[19:22] [0m[34;1mYik shouts:[0m like a mailbox[0m
+[19:23] [0m[34;1mNightrider shouts:[0m Get Rewt![0m
+[19:26] [0m[34;1mZera shouts:[0m mailboxes don't like things, sillies[0m
+[19:29] [0mSky flaps : https://www.youtube.com/watch?v=YJwZMUn7GdQ no caption required[0m
+[19:29] [0mZera <Craft>: Is there a recommended strategy to go from mining iron to[0m
+[19:29] [0m              mining steel?[0m
+[19:30] [0mZokko <Craft>: other than get to 15 and pray steel nodes spawn?[0m
+[19:30] [0mStasis <Craft>: prayer is good[0m
+[19:30] [0mInquisitor <Craft>: Steel nodes will spawn regardless of your mining level. [0m
+[19:30] [0m                    You just can't mine them until your skill is high[0m
+[19:30] [0m                    enough.[0m
+[19:30] [0mStasis <Craft>: gets more fun on the triple node levels[0m
+[19:31] [0mZera <Craft>: the problem I'm having is that they are spawning without me[0m
+[19:31] [0m              being highly skilled enough to actually mine them[0m
+[19:31] [0mZokko <Craft>: yep you have to just skip them[0m
+[19:31] [0mZokko <Craft>: that will keep happening on any floor with multiple types of[0m
+[19:31] [0m               ore[0m
+[19:31] [0mSimonz [Jedi(57)]: dirs?[0m
+[19:31] [0mSimonz [Jedi(57)]: w/l[0m
+[19:37] [0mNightrider flaps : portal has been found![0m
+[19:42] [0m[34;1mSpun shouts:[0m who has string and can you use it please?[0m
+[19:42] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[19:42] [0mYou can currently reforge 12 items.[0m
+[19:46] [0m[4m[31m[JEDI]: Rhaan arrives at the Academy.[0m[0m[0m
+[19:55] [0mZera <Craft>: I uncovered mostly steel ore, and only advanced 1 point in[0m
+[19:55] [0m              mining while spelunking out the entire mines.  Will it reset[0m
+[19:55] [0m              later if I leave it for a while?[0m
+[19:55] [0mSimonz <Craft>: yup[0m
+[19:55] [0mSimonz <Craft>: I usually wait about an hour to make sure it resets before I[0m
+[19:55] [0m                go back in[0m
+[19:55] [0mZera <Craft>: Wonderful.  I'm going to get some dinner and come back to it[0m
+[19:56] [0mStasis <Craft>: the rooms all reset individually[0m
+[19:56] [0mZera <Craft>: nice to know[0m
+[19:57] [0mThom <Craft>: yeah it takes a little while to get up to the sttel part of[0m
+[19:57] [0m              the iron stage.[0m
+[19:58] [0mZera <Craft>: It's okay.  I am a patient woman.  :)[0m
+[19:59] [0mNauda <Craft>: if a doctor could wait she would be patient[0m
+[20:09] [0m[4m[31m[JEDI]: Kerran Halcyon arrives at the Academy.[0m[0m[0m
+[20:10] [0m[34;1mKitt shouts:[0m Keep it down[0m
+[20:13] [0m[34;1mKikipopo shouts:[0m I bet a nodeath boon would be great right now, yeah?[0m
+[20:13] [0mInquisitor <Craft>: Nah, my transmute skill is sufficient for the time[0m
+[20:13] [0m                    being.[0m
+[20:13] [0mHyuga [Jedi(90)]: wvein, hearteater, mournblade, redaxe. fully charged vamp[0m
+[20:13] [0m                  blade[0m
+[20:13] [0m[34;1mKitt shouts:[0m ya[0m
+[20:13] [0m[34;1mAl shouts:[0m nah[0m
+[20:13] [0m[34;1mFluffy shouts:[0m you said it[0m
+[20:13] [0m[34;1mMud shouts:[0m ayup![0m
+[20:13] [0mInquisitor <Craft>: w/l[0m
+[20:13] [0m[34;1mKayos shouts:[0m nah, make them bleed a little more first[0m
+[20:14] [0mHyuga [Jedi(90)]: oops wl[0m
+[20:14] [0m[34;1mKayos shouts:[0m wait til its at 10%[0m
+[20:14] [0m[34;1mNofx shouts:[0m ND for mobs[0m
+[20:14] [0m[34;1mAl shouts:[0m the mud could do with a few more corpses[0m
+[20:16] [0m[34;1mFluffy shouts:[0m we want extra death boot, everythign hits 10X as hard and you[0m
+[20:16] [0m               cant heal[0m
+[20:17] [0m[34;1mInix shouts:[0m Just keep killing UK[0m
+[20:17] [0m[34;1mKayos shouts:[0m nah, double damage, from all sources dealt and recieved[0m
+[20:23] [0mYou can currently reforge 12 items.[0m
+[20:29] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:33] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:33] [0mnewb Roken [jedi/100]: anyone tried colorizing enemy hp with mskill[0m
+[20:33] [0m                       evaluation? using tintin[0m
+[20:36] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:40] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:40] [0m[4m[31m[JEDI]: Talia Ska arrives at the Academy.[0m[0m[0m
+[20:41] [0mHadriene <Craft>: i thought the fragment rate was increased[0m
+[20:41] [0mFluffy <Craft>: all 3 types are increased, with highest boost to essences[0m
+[20:42] [0mHadriene <Craft>: im not getting any fragments at all now[0m
+[20:42] [0mFluffy <Craft>: nod, you suck[0m
+[20:42] [0mSimonz <Craft>: I haven't seen much of an increase either[0m
+[20:43] [0mRaest <Craft>: what's going on now?[0m
+[20:43] [0mHadriene <Craft>: im not getting any fragments to drop now[0m
+[20:43] [0mRaest <Craft>: i have like 1000 hearts atm[0m
+[20:43] [0mAl <Craft>: if i only had a heart[0m
+[20:44] [0mRaest <Craft>: if you only had a brain[0m
+[20:44] [0mNauda <Craft>: I got lucky! Found an average heart of blasting[0m
+[20:44] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:44] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:44] [0mRaest <Craft>: my HC last boot scored like 100 frags etc.  so they must[0m
+[20:44] [0m               still be dropping[0m
+[20:45] [0mAl <Craft>: When a man's an empty kettle, he should be on his mettle, and[0m
+[20:45] [0m            yet i'm torn apaaaaaaart.  just because i'm presumin that i[0m
+[20:45] [0m            could be kind of human if i only had a heaaaart[0m
+[20:45] [0mAl <Craft>: i could while away the hours, conferrin with the flowers,[0m
+[20:45] [0m            consulting with the rain.  and my head id be scratchin while my[0m
+[20:45] [0m            thoughts are busy hatchin.....if i only had a brain[0m
+[20:47] [0mFluffy <Craft>: and im getting a fairly annoying # of hearts already, barely[0m
+[20:47] [0m                logged an hour total this boot ;-)[0m
+[20:49] [0mHadriene <Craft>: out of 67 mobs killed so far not one fragment[0m
+[20:49] [0mRaest <Craft>: that's not too bad.  do a sample of 1000 mobs and see how it[0m
+[20:49] [0m               goes[0m
+[20:49] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:49] [0mFluffy <Craft>: one million![0m
+[20:50] [0mRaest <Craft>: tree fiddy[0m
+[20:50] [0mEllegon <Craft>: watched pot etc.[0m
+[20:50] [0mFluffy <Craft>: oh and you must turn off your gobj .. and kill them all ...[0m
+[20:50] [0m                with ... a HERRING![0m
+[20:50] [0mRaest <Craft>: you find me a herring to wield and I'll try it![0m
+[20:51] [0mXiu <Craft>: i'll trade you my herring for a shrubbery[0m
+[20:51] [0mRaest <Craft>: Ni![0m
+[20:51] [0mHadriene <Craft>: it is heresy to quote Monty Python![0m
+[20:51] [0mFluffy <Craft>: neither herenortheresay[0m
+[20:52] [0mHadriene <Craft>: never mind i just got a fragment[0m
+[20:52] [0mFluffy <Craft>: now was this a general observation, or do you need hearts to[0m
+[20:52] [0m                cxp ?[0m
+[20:52] [0mHadriene <Craft>: i neeed fragments. not hearts[0m
+[20:53] [0mFluffy <Craft>: heart = 25 fragments, silly[0m
+[20:53] [0mFluffy <Craft>: 5 frag = ess, 5 ess = heart[0m
+[20:53] [0mNauda <Craft>: Your mother was a hamster, and your father smelled of[0m
+[20:53] [0m               elderberries.[0m
+[20:53] [0mHadriene <Craft>: im so deeply offended Nauda. lol[0m
+[20:53] [0mNauda <Craft>: I killed like 100 monsters and got 2 fragments and an average[0m
+[20:53] [0m               heart of blasting[0m
+[20:54] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:55] [0mRaest <Craft>: players.  look at how many players have 1,000,000+ kills. [0m
+[20:55] [0m               you really need sampling in the 1000 range, not 100[0m
+[20:56] [0mHadriene <Craft>: To feel so deperately that I am right, but to fail[0m
+[20:56] [0m                  nevertheless.[0m
+[20:56] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[20:56] [0mYou can currently reforge 4 items.[0m
+[20:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:02] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:06] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:11] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:13] [0m[4m[31m[JEDI]: Wennic Ber'ni'lok arrives at the Academy.[0m[0m[0m
+[21:14] [0mHyuga [Jedi(90)]: doh[0m
+[21:14] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:16] [0mZera <Craft>: Hey, is there someone online with the ability to see exact[0m
+[21:16] [0m              weapon classes for crafted items?[0m
+[21:19] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:25] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:25] [0mZera <Craft>: How does one obtain Eyes (e.g. of Flame/Frost)[0m
+[21:25] [0mHadriene <Craft>: flame is in bronze ore[0m
+[21:25] [0mZera <Craft>: so, prospecting, then?[0m
+[21:25] [0mNauda <Craft>: from donation box[0m
+[21:26] [0mStasis <Craft>: yeah, prospecting. And from mining occasionally[0m
+[21:26] [0mNauda <Craft>: mining bronze notes. or prospecting bronze ore[0m
+[21:27] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:31] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:35] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:36] [0mZera <Craft>: is there a way to make bronze shards from bronze ore?[0m
+[21:37] [0mHadriene <Craft>: propsecting[0m
+[21:37] [0mZera <Craft>: Ah, then I need to level up enchanting[0m
+[21:39] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:43] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:43] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:43] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:46] [0mLachlan flaps : any priest want to bless me to take away my sins?[0m
+[21:46] [0mnewb Shaelyn [changeling/10]: is there an identify skill/spell in 3k?[0m
+[21:47] [0mnewb Nauda [necromancer/123]: some guilds have[0m
+[21:47] [0mnewb Lachlan [bladesinger/114]: for armour? weapons, rooms?[0m
+[21:47] [0mnewb Nauda [necromancer/123]: gypsy can do it for 500 coins[0m
+[21:47] [0m[4m[31m[JEDI]: H'ssani C'talan arrives at the Academy.[0m[0m[0m
+[21:47] [0mnewb Lachlan [bladesinger/114]: ah[0m
+[21:47] [0mnewb Shaelyn [changeling/10]: ah ok[0m
+[21:47] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:47] [0mnewb Shaelyn [changeling/10]: so lore and identify aren't the same then?[0m
+[21:48] [0mnewb Zera [bladesinger/56]: I think it's a chance to randomly identify[0m
+[21:48] [0m                            things you pick up off the ground, and can't[0m
+[21:48] [0m                            actively be used, yeah?[0m
+[21:48] [0mnewb Zera [bladesinger/56]: lore, I mean[0m
+[21:48] [0mnewb Shaelyn [changeling/10]: ahhh ok. Thanks everyone.[0m
+[21:48] [0mnewb Zera [bladesinger/56]: You're welcome.[0m
+[21:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:53] [0mSky flaps : are you sure a bless will be enough for that?[0m
+[21:55] [0m[32mSer tells you:[0m did you run defaults.tin?[0m
+[21:55] [0m[32mSer tells you:[0m on darth?[0m
+[21:55] [0m[32mSer tells you:[0m ofc not because you didn't follow the simple instructions[0m
+[21:56] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[21:57] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[21:57] [0mYou can currently reforge 8 items.[0m
+[22:00] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:05] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:09] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:10] [0m[4m[31m[JEDI]: Janath Meelin arrives at the Academy.[0m[0m[0m
+[22:13] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:13] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:16] [0mFluffy <Craft>: bunch of poor essences in craft box/clearing out my stash[0m
+[22:17] [0m[32mYou tell Ser:[0m trying to update my hpbar with green to orange to yellow to[0m
+[22:17] [0m        red for enemy stat[0m
+[22:18] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:18] [0m[32mSer tells you:[0m cool[0m
+[22:21] [0mDisruptor {Professions}: could we change the xmuter system a little? I.E.[0m
+[22:21] [0m                         transmute all xyz to xys or whatever...can it check[0m
+[22:21] [0m                         for optimization? Like if I unstash all of an item[0m
+[22:21] [0m                         an dtransmute them all quality upward withotu[0m
+[22:21] [0m                         looking at mats...i'll burn several mats that i[0m
+[22:21] [0m                         didn't have enough of to reach the next level of[0m
+[22:21] [0m                         item, etc[0m
+[22:22] [0m[32mYou tell Ser:[0m ya ok not working... like jedihp has reverse colscale and[0m
+[22:22] [0m        colscale. revcolscale works well on force per[0m
+[22:22] [0mDisruptor {Professions}: i.e. transmute all(which happens to be 6) quality[0m
+[22:22] [0m                         upward, and i only needed 4 i burn 2 items[0m
+[22:22] [0mFluffy {Professions}: no die, tm twist![0m
+[22:22] [0mNauda {Professions}: Flaxen said he'd rather spend his efforts on some other[0m
+[22:22] [0m                     things, than this[0m
+[22:23] [0m[32mSer tells you:[0m nod colscale is what you would need to modify but most if[0m
+[22:23] [0m        not all things that colorize your hpbar use it[0m
+[22:23] [0mNauda {Professions}: like 12 hearts of light into 1 heart of knowledge, and[0m
+[22:23] [0m                     if I have 23 and do transute all I still get 1 heart of[0m
+[22:23] [0m                     knowledge[0m
+[22:23] [0m[34;1mSer shouts:[0m lag.  me.  NOW![0m
+[22:24] [0mNauda {Professions}: and more sad is if transmute 99 legendary hearts and 1[0m
+[22:24] [0m                     poor, into other hearts 3:1 I get 33 poor hearts[0m
+[22:25] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:28] [0m[32mYou tell Ser:[0m are there var for mod hp? Like hpbar_full hpbar_low etc[0m
+[22:29] [0m[32mSer tells you:[0m what is mod hp[0m
+[22:31] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:32] [0m[32mYou tell Ser:[0m sorry MOB*[0m
+[22:32] [0m[32mSer tells you:[0m the mud sends a colorized version of the hpbar.  the client[0m
+[22:32] [0m        grabs the text (not the colors) and reprocesses it.[0m
+[22:32] [0m[32mSer tells you:[0m what's pass again[0m
+[22:33] [0m[32mYou tell Ser:[0m 098013ttFM#[0m
+[22:38] [0m[32mYou tell Ser:[0m is it working?[0m
+[22:39] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:42] [0m[4m[31m[JEDI]: Durnoth arrives at the Academy.[0m[0m[0m
+[22:42] [0m[32mYou tell Ser:[0m that showme worked yay[0m
+[22:43] [0mNauda {Professions}: Hi ho, hi ho ... it's off to work I go.[0m
+[22:44] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:49] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:53] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:56] [0m[32mYou tell Ser:[0m so i didnt get the memo. half expecting id see my char file[0m
+[22:56] [0m        in there[0m
+[22:56] [0m[32mSer tells you:[0m a) which memo b) why, if you read it "it sets mudside[0m
+[22:56] [0m        variables"...  only needs to be run once[0m
+[22:56] [0m[32mSer tells you:[0m once the variables are set it "just works"[0m
+[22:56] [0m[32mYou tell Ser:[0m Exactly! had no idea it was read on roken[0m
+[22:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[22:57] [0m[32mSer tells you:[0m if you ever read the generic.tin code you would have[0m
+[22:57] [0m        understood[0m
+[22:57] [0m[32mSer tells you:[0m or looked at your asets, or your prompt, or a few other[0m
+[22:57] [0m        things[0m
+[22:58] [0m[32mSer tells you:[0m or ANY of the area files for the scripts[0m
+[22:58] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[22:58] [0mYou can currently reforge 12 items.[0m
+[22:59] [0m[32mYou tell Ser:[0m i understand that's where you got corpsetrig[0m
+[23:00] [0m[32mSer tells you:[0m only reason i used corpsetrig is it was a generic sounding[0m
+[23:00] [0m        alias that i could use across all my characters[0m
+[23:00] [0m[32mSer tells you:[0m dude i wrote that shit, that's not where i got it, that's[0m
+[23:00] [0m        where i fucking PUT it[0m
+[23:00] [0m[32mYou tell Ser:[0m ya and it's in the generic.tin[0m
+[23:01] [0m[32mYou tell Ser:[0m and in my alias tin to trigger off a bot script[0m
+[23:01] [0m[32mSer tells you:[0m what[0m
+[23:01] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:01] [0m[32mSer tells you:[0m it's an alias, i use mine when i'm not botting too[0m
+[23:03] [0m[32mYou tell Ser:[0m i know this. i set one up for monk. just figured you had the[0m
+[23:03] [0m        same alias for generic and personal alias tins so that is[0m
+[23:03] [0m        cohesive/synergy[0m
+[23:03] [0m[32mSer tells you:[0m and then i use .cbot to set guild specific stuff, i.e. (for[0m
+[23:03] [0m        monks) medding until full, then stepping[0m
+[23:03] [0m[32mSer tells you:[0m instead of .bot, i use a 'g2g' alias[0m
+[23:03] [0m[32mYou tell Ser:[0m but i get it. you had #act {dealt killing blow} blah so won't[0m
+[23:03] [0m        make a difference[0m
+[23:04] [0m[32;1mFrom afar, Ser nods to you.[0m[0m
+[23:04] [0m[32mYou tell Ser:[0m and in personal tin .bot to continue bot[0m
+[23:05] [0m[32mSer tells you:[0m no in generic[0m
+[23:05] [0m[32mSer tells you:[0m you didnt look hard enough[0m
+[23:05] [0m[32mYou tell Ser:[0m it's also in my personal tin[0m
+[23:05] [0m[32mSer tells you:[0m not to continue bot[0m
+[23:05] [0m[32mSer tells you:[0m .cbot might be[0m
+[23:05] [0m[32mYou tell Ser:[0m .cbot mb[0m
+[23:05] [0m[32mSer tells you:[0m nod[0m
+[23:06] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:06] [0m[32mYou tell Ser:[0m going to try another mod on hpbar[0m
+[23:06] [0m[32mSer tells you:[0m good luck[0m
+[23:08] [0m[32mYou tell Ser:[0m #math makes var's too?[0m
+[23:09] [0m[32mSock tells you:[0m yes[0m
+[23:09] [0m[32mYou tell Ser:[0m ok looks like it thx[0m
+[23:09] [0m[32;1mFrom afar, Sock pats you on the head.[0m[0m
+[23:09] [0m[34;1mArchangel shouts:[0m Woo!![0m
+[23:09] [0m[34;1mRomulus shouts:[0m woo![0m
+[23:09] [0m[34;1mFluffy shouts:[0m he wants you too, malachi![0m
+[23:09] [0m[34;1mLachlan shouts:[0m ONE MOAR![0m
+[23:10] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:13] [0m[32mYou tell Ser:[0m ok so now i have two vars for force.. do they both go in[0m
+[23:13] [0m        hpbar_label?[0m
+[23:13] [0m[32mSer tells you:[0m why[0m
+[23:13] [0m[32mYou tell Ser:[0m attempting to flip %[0m
+[23:13] [0m[32mSer tells you:[0m and what[0m
+[23:13] [0m[32mSer tells you:[0m hpbar_label is a color[0m
+[23:14] [0m[32mYou tell Ser:[0m https://github.com/pladdy/mud/blob/master/tin/guilds/jedi/act[0m
+[23:14] [0m        ions/hpbar.tin[0m
+[23:14] [0m[32mSer tells you:[0m i am not going to look at that[0m
+[23:14] [0m[32mSer tells you:[0m this is your problem[0m
+[23:14] [0m[34;1mInix shouts:[0m fo wo?[0m
+[23:14] [0m[32mSer tells you:[0m it's 11:14 here[0m
+[23:14] [0m[34;1mMalachi shouts:[0m what is it good fo?[0m
+[23:16] [0m[32mSer tells you:[0m i'll talk to you about it but i am not going to look at it[0m
+[23:16] [0m[32mSer tells you:[0m if that makes sense[0m
+[23:16] [0m[32;1mFrom afar, Ser winks at you suggestively.[0m[0m
+[23:17] [0m[34;1mInix shouts:[0m Key lime pie[0m
+[23:17] [0m[4m[31m[JEDI]: Ylenic It'kla arrives at the Academy.[0m[0m[0m
+[23:23] [0m[32mYou tell Ser:[0m giving INVALID START OF FILE[0m
+[23:23] [0m[32mSer tells you:[0m yah i added a newline when i was getting out of it[0m
+[23:23] [0m[32mSer tells you:[0m delete the new line[0m
+[23:26] [0m[32mYou tell Ser:[0m looks like it works. So now if force is near Zero i am dead[0m
+[23:26] [0m        vs 100[0m
+[23:27] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:27] [0m[32mSer tells you:[0m but it's not force, it's force saturation[0m
+[23:27] [0m[32;1mFrom afar, Ser sighs deeply at you.[0m[0m
+[23:28] [0m[32mSer tells you:[0m i feel like you don't even understand the guild you're[0m
+[23:28] [0m        playing[0m
+[23:29] [0m[32mYou tell Ser:[0m my bad didn't type it all out[0m
+[23:30] [0m[32mSer tells you:[0m btw you're #8 on nolife list[0m
+[23:30] [0m[32mYou tell Ser:[0m what list is that[0m
+[23:31] [0m[32mYou tell Ser:[0m massxp show 21[0m
+[23:31] [0m[32mSer tells you:[0m 'nolife'[0m
+[23:31] [0m[32mSer tells you:[0m how much time you've spent logged in over the past 2 weeks[0m
+[23:31] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:32] [0m[32mYou tell Ser:[0m beating you by not much[0m
+[23:32] [0m[32;1mFrom afar, Ser grins at you.[0m[0m
+[23:33] [0m[32mSer tells you:[0m i wouldn't call it 'beating'[0m
+[23:33] [0m[32mYou tell Simonz:[0m you aare no 5 on nolife list[0m
+[23:33] [0m[32;1mFrom afar, Ser accuses you of being a total nolifer.[0m[0m
+[23:33] [0m[32mYou say:[0m My eyes don't shut anymore![0m
+[23:35] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:35] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:40] [0m[34;1mInix shouts:[0m Fire beats magnets, who knew[0m
+[23:41] [0mJasmine [Jedi(Knight)]: blah, so used to watching stuff on dvr that when i[0m
+[23:41] [0m                        watch stuff live i keep trying to forward through[0m
+[23:41] [0m                        commercials[0m
+[23:41] [0m[34;1mArchangel shouts:[0m Science![0m
+[23:45] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:45] [0m[32mYou tell Ser:[0m w/e dissipate trigger not working -- night night![0m
+[23:46] [0mAdalius flaps : Hey knuckleheads, remind me so I don't have to dig, how many[0m
+[23:46] [0m                skill points extra do you get from HC chars?[0m
+[23:46] [0m[4m[31m[JEDI]: Alyssa K'tal arrives at the Academy.[0m[0m[0m
+[23:46] [0mGlowie flaps : 1 at lvl 30, then 1 for every 5 levels[0m
+[23:46] [0mSer flaps : ^^[0m
+[23:46] [0mVagrant flaps : noice![0m
+[23:46] [0mGlowie flaps : does answering that net me a free skillpoint? :)[0m
+[23:47] [0mInix flaps : No.[0m
+[23:47] [0mFluffy flaps : no, you have to mudsex addy now[0m
+[23:47] [0mGlowie flaps : damn, it was totally worth the shot, though[0m
+[23:47] [0mGlowie flaps : eep![0m
+[23:47] [0mGlowie flaps : i retract that statement[0m
+[23:47] [0mCixx flaps : Actually, everyone gets a skillpoint except you. Teach you to[0m
+[23:47] [0m             answer a question correctly![0m
+[23:47] [0mInix flaps : Typing "help hardcore" so hard, have to dig /sooooo/ far[0m
+[23:48] [0mInix flaps : Qqizards always qqing[0m
+[23:48] [0mGlowie flaps : and thats precisely what I did... sadly.[0m
+[23:48] [0mAdalius flaps : Laugh, I didn't think it'd actually be in a helpfile. When[0m
+[23:48] [0m                are they ever... you know... helpful?[0m
+[23:48] [0mSer flaps : it's probably the reading part that was hard, since that part is[0m
+[23:48] [0m            in the last paragraph[0m
+[23:48] [0m[32mSimonz tells you:[0m nice, heh[0m
+[23:48] [0mSer flaps : and true that, has help death been updated recently?[0m
+[23:48] [0m[32mYou tell Simonz:[0m im #8 lol[0m
+[23:48] [0m[32mSimonz tells you:[0m you're right behind me[0m
+[23:49] [0mInix flaps : Recently as in the past century?  Yes?[0m
+[23:49] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:49] [0mSer flaps : i feel like if there's an announcement posted on the main board,[0m
+[23:49] [0m            the help files should be updated/rewritten/revised to reflect[0m
+[23:49] [0mAdalius flaps : *aks* You're *cakljsd*ing *causd*up. Can't under*sadsdwratg*[0m
+[23:49] [0m                you. Signal *zzzzzaaasda* fading.[0m
+[23:49] [0mInix flaps : Signal drunkening[0m
+[23:49] [0mSer flaps : because some of that stuff is old af.  eabod[0m
+[23:49] [0mInix flaps : I recognize this language[0m
+[23:50] [0m[34;1mSimonz shouts:[0m no[0m
+[23:50] [0mGlowie flaps : Translation, please?[0m
+[23:50] [0mAdalius flaps : Laugh, that was funny. I'm updating my graphics drivers, I[0m
+[23:50] [0m                echoall'd You quit. and then my screen went blank.[0m
+[23:50] [0mFluffy flaps : there are no mskills points, only zuul[0m
+[23:50] [0m[34;1mXiu shouts:[0m if you don't want it to do that just "quit quitting"[0m
+[23:50] [0mInix flaps : l[0m
+[23:50] [0mJasmine flaps : Dirty Filthy Mskills[0m
+[23:50] [0mGlowie flaps : bad mudder.[0m
+[23:51] [0mInix flaps : flipbird glowie[0m
+[23:52] [0mGlowie flaps : its only Tuesday and you're drunk?[0m
+[23:52] [0mCixx flaps : Been drunk since Monday.[0m
+[23:52] [0mInix flaps : I'm on my third 12pk of the week[0m
+[23:52] [0mGlowie flaps : sounds like a slow week.[0m
+[23:53] [0mInix flaps : Nod, lots of flying interrupting[0m
+[23:55] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:55] [0m[34;1mJasmine shouts:[0m 10 of hearts? havent seen anyone die in euchre since the[0m
+[23:55] [0m                last person to beat rasta in a game[0m
+[23:58] [0m[32mSock tells you:[0m yo[0m
+[23:59] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[23:59] [0mYou can currently reforge 12 items.[0m
+[23:59] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m

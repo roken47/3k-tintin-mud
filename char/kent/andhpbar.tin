@@ -1,0 +1,42 @@
+#split 0 3
+#class {hpBar} {kill}
+#class {hpBar} {open}
+
+#function {colscale} { 
+	#switch {10 * %1 / %2} {
+		#case {0} {#return <FF00>};
+		#case {1} {#return <FF30>};
+		#case {2} {#return <FF60>};
+		#case {3} {#return <FF90>};
+		#case {4} {#return <FFC0>};
+		#case {5} {#return <FFF0>};
+		#case {6} {#return <FCF0>};
+		#case {7} {#return <F9F3>};
+		#case {8} {#return <F6F3>};
+		#case {9} {#return <F3F3>};
+	#default  {#return <F0F0>};
+	}
+};              
+
+
+#act {^HP:[%1/%2] CHARGE:[%3Ah/%4Ah] G2N:[%5%] P:%6 E:%7%} { 
+	#var hpCur %1;
+	#var hpMax %2;
+	#var batCur %3;
+	#var batMax %4;
+	#var gxp %5;
+	#var pwr %6;
+	#var enmy %7;
+
+		#format {hpMsg} {HP:%s/%s} {$hpCur} {$hpMax}
+		#format {batMsg} {CHARGE:%s/%s} {$batCur} {$batMax}
+		#format {gxpMsg} {GXP: [%s]} {$gxp}
+		#format {pwrMsg} {P:%s} {$pwr}
+		#format {enmyMsg} {E:%s} {$enmy}
+	#format {line1} {%s %s %s %s %s} {$hpMsg} {$batMsg} {$gxpMsg} {$pwrMsg} {$enmyMsg}
+}
+{2};
+
+#prompt {HP:[%1/%2] CHARGE:[%3Ah/%4Ah] G2N:[%5] P:%6 E:%7} {${line1}} {-1}
+
+#class {hpBar} {close}

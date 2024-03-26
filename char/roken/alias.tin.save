@@ -1,0 +1,396 @@
+#class {alias} {kill}
+#class {alias} {open}
+
+/*	Troubleshoot		*/
+#alias {reboot} {#kill;#read 3k/roken/alias.tin;#read 3k/roken/actions.tin;
+		#read 3k/roken/gags.tin;#read 3k/roken/highlight.tin;
+		#read 3k/roken/jedihpbar2.tin;#read common/directions.tin;
+		#read common/chatlog.tin;#read common/craftpurge.tin;
+		#read common/mapper.tin;tank on;exa stone}
+#alias {/hpbar} {#kill class hpbar;#read 3k/roken/jedihpbar2.tin}
+
+/*	Linkdead or Reboot	*/
+
+#alias {keep.autoloads} {keep A Transmuter's Stone;keep satchel;keep clan symbol;keep top hat;keep kit;keep house keys;keep crystal;keep mark;keep safari hat;keep manual;keep long shimmering thread;keep An auction line}
+#alias {/start} {jump;e;home;}
+#alias {/boot}
+        {jump;e;home;cog;u;s;buy 1;#17 buy 3;#16 pp cell;
+        keep.autoloads;keep pack;exa stone;exa pack;n;d;s;s;s;home;
+        ch;enter;s;s;w;w;enter;#4 n;#3 buy rocks;#4 s;leave;e;e;n;n;
+        $cochotel;s;buy 5;buy 4;theatre;e;enter;pull rug;$hotelcoc;vortex;home;
+        keep all;unkeep cell;/tat;i;#delay {30} {#showme <110>> maybe grab PB armor or craft armor?}}
+
+/*	Jedi Guild Related	*/
+#NOP	---GUILD STATS
+#alias {gs} {focus guild stats}
+#alias {gs1} {focus guild stats /long}
+#alias {gs2} {focus login stats}
+#alias {gs3} {focus skill list /short}
+#alias {gs4} {focus skill list /trained}
+#alias {gs5} {focus ancient teachings /trainable}
+#alias {adv} {focus check /cost}
+#alias {wt} {focus check /weight}
+#alias {rs} {focus control droid on status}
+#alias {/stats} {gs1;/gs;cs;stats;xp;rs;ps1}
+#alias {fdef} {focus force trance /focus check /deflect,repeat}
+#alias {fdef_off} {focus force trance /off}
+#alias {fdef_reset} {
+    #var my[fdef][base] 0;
+    #var my[fdef][current] 0;
+    #var my[fdef][previous] 0;
+    #var my[fdef][total_gain] 0;
+    #var my[fdef][proc] 0;
+    #var my[fdef][total_proc] 0;
+    #var my[fdef][proc_rate] 0.000000;
+    #var my[fdef][rounds] 0;
+    #var my[fdef][xp_rate][current] 0.000000;
+    #var my[fdef][xp_rate][average] 0.000000;
+}
+#NOP	---SKILLS
+#alias {ctrl} {focus control droid on}
+#NOP alias {cd} {
+	#var items %1;
+		#regex {%1} %!{([A-Za-z0-9_]*?)};
+	#switch {#var cmd "%2"} {
+	  #case {"dismiss"} {
+		!focus control droid on dismiss};
+	  #case {"drop"} {
+		!focus control droid on drop %1};
+	  #case {"exa"} {
+		!focus control droid on exa %1};
+	  #case {"follow"} {
+		!focus control droid on follow};
+	  #case {"get"} {
+		!focus control droid on get %1};
+	  #case {"give"} {
+		!focus control droid on give %1};
+	  #case {"i"} {
+		!focus control droid on i};
+	  #case {"g"} {
+		!focus control droid on g};
+	  #case {"l"} {
+		!focus control droid on l};
+	  #case {"put"} {
+		!focus control droid on put %1};
+	  #case {"status"} {
+		!focus control droid on status};
+	  #case {"stay"} {
+		!focus control droid on stay};
+	  #case {"watch"} {
+		!focus control droid on watch};
+	  #default {
+		#showme <170>-=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=-;
+		#showme <129>				Control Droid Options					;
+		#showme <129>		dismiss<088>  - <170>Sends your droid away.				;
+		#showme <129>		drop<088> - <170>Makes your droid drop an item.				;
+		#showme <129>		exa<088> -<170> Makes your droid examine an item.			;
+		#showme <129>		follow<088> -<170> Makes your droid follow you.				;
+		#showme <129>		get<088> -<170> Makes your droid take an item.				;
+		#showme <129>		give<088> -<170> Makes your droid give an item to someone/thing.	;
+		#showme <129>		i<088> -<170> Lists items held by your droid.				;
+		#showme <129>		g<088> -<170> Your droid does a glance in the room.			;
+		#showme <129>		l<088> -<170> Your droid reports its surroundings.			;
+		#showme <129>		put<088> -<170> Makes your droid put something into something.		;
+		#showme <129>		status<088> -<170> Reports your droid mastery levels.			;
+		#showme <129>		stay<088> -<170> Tells your droid to stop following.			;
+		#showme <129>		watch<088> -<170> Toggles your droid's watch ability.			;
+		#showme <170>-=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=-;
+		#showme <110>			Not [ALL] Options are [Avail] to [All Droids];
+		#showme <170>-=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=-;}}}
+#alias {tk} {focus telekinesis /on}
+#alias {cm} {focus clear mind}
+#alias {manaup} {#local min_sp 200;#foreach {2;4;6;8;10} {dela} {#delay {$dela} {cm}};#if {$spcur == spmax} {.bot}}
+#alias {h} {focus reduce injury}
+#alias {healup} {#local min_hp 1500;#foreach {0;2;4;6;8} {delay} {#delay {$delay} {h}}}
+#alias {htrance} {focus hibernation trance}
+#alias {m} {focus meditation}
+#alias {cp} {focus control pain}
+#alias {fcm} {focus cloud mind}
+#alias {cloak} {
+	#switch {"%1"} {
+
+	#case {"on"} {#showme <170>Cloak is ON [Self];
+			!focus cloak /self}; 
+	#case {"all"} {#showme <170>Cloak is ON [Party];
+			!focus cloak /party};
+	#case {"off"} {#showme <170>Cloak is OFF;
+			!focus cloak /OFF}
+	#default {#showme <170>		Current Options:		;
+		  #showme <129> on  :  <110>Make yourself invisible;
+		  #showme <129> all :  <110>Cloak yourself and your party;
+		  #showme <129> off :  <110>Turn cloaking off;}}}
+#nop Need to figure out Levitating objects <syntax> focus levitate on [object|all] into [container|self]
+#alias {lev} {
+	#switch {"%1"} {
+	
+	#case {"on"} {#showme <170>Levitation is ON;
+			!focus levitate on self};
+	#case {"off"} {#showme <170>Levitation is OFF;
+			!focus levitate /off};
+	#default {#showme <170>Current Options:;
+		  #showme <169>on : <088>Start levitating.;
+		  #showme <169>off: <088>End levitating.;
+		  #showme <169>object: focus levitate on [object|all] into [container|self];
+		  #showme <110>object is currently an invalid option.;}}}
+#alias {peace} {
+        #switch {"%1"} {
+                #case {"on"} {#act {The Golem calls for help!} {focus cloud mind};
+                                #showme <170>Peacing Golems ENABLED};
+                #case {"off"} {#unact {The Golem calls for help!} {focus cloud mind};
+                                #showme <170>Peacing Golems DISABLED};
+		#case {"golem"} {focus cloud mind on golem};
+		#case {"aa"} {focus animal affinity};
+                #default {#showme <170>		Current Options:	;
+			  #showme <139>You can toggle Peacing Golems "on" or "off";
+			  #showme <139>Directly peace a random golem with 'golem';
+			  #showme <139>Peace a zombie or animal with option 'aa';};
+        }}
+
+#NOP	---COMBAT
+
+#alias {tank} {
+	#var tank %1;
+	#switch {"%1"} {
+
+	#case {"on"} {#showme <170>Kill Trigger ENABLED;
+		#alias {corpsetrig} {
+        focus absorb energy;get coins;get tome;
+        #if {$forceper > 10 || $controlper < 70} {htrance} {.bot}}};
+
+	#case {"ga"} {#showme <170>Loot Ktrig ENABLED;
+		#alias {corpsetrig} {
+	focus absorb energy;get all;#if {$forceper > 10 || $controlper < 70} {htrance} {.bot}}};
+	#case {"off"} {#showme <110>Kill Trigger DISABLED;#alias {corpsetrig} {#nop}};
+	#default {#showme <169>When in a Party turn 'tank' to 'off' position <170> otherwise keep 'on' to keep
+			triggering your 'corpsetrig' functions. Loot mode "ga".;}
+}}
+
+#alias {.cbot} {#act {dealt the killing blow to} {corpsetrig};}
+#alias {/wipeout} {#showme <110>Wimpy firing!;healup}
+#alias {/wimpout} {#delay {2} {h};#delay {4} {h};#delay {6} {cm};#delay {8} {htrance};}
+#alias {numbers reset} {
+	#var numbers[hit] 0;
+	#var numbers[miss] 0;
+	#var numbers[dmg] 0;
+	#var numbers[avg] 0;
+	#var numbers[thit] 0;
+	#var numbers[tmiss] 0;
+	#var numbers[tdmg] 0;
+}
+#action {^You hit %0 %d time for %d damage.$} {
+	#var numbers[hit] %1;
+	#var numbers[dmg] %2;
+	#if {$numbers[hit] == 0} {#var numbers[miss] 1};
+	#math {numbers[thit]} {($numbers[hit] + %1)};
+	#math {numbers[tmiss]} {($numbers[miss] + $numbers[hit])};
+	#math {numbers[tdmg]} {($numbers[dmg] + $numbers[dmg])};
+	#math {numbers[avg]} {($numbers[dmg] / $my[fdef][rounds])};
+}
+#NOP	---WEAPONS RELATED
+#alias {w1} {aset attack \e[48\;5\;9m;sheath;draw lightsaber;activate lightsaber;focus mode /guide}
+#alias {w2} {aset attack \e[48\;5\;21m;sheath;draw lightstaff;activate lightstaff;focus mode /guide}
+#alias {w3} {aset attack \e[48\;5\;5m;sheath;draw lightdaggers;activate lightdaggers;focus mode /flurry}
+#alias {r1} {repair ruby\;lightsaber}
+#alias {r2} {repair sapphire\;lightstaff}
+#alias {r3} {repair emerald\;lightdaggers}
+#alias {g} {focus mode /guide}
+#alias {f} {focus mode /flurry}
+
+#NOP	---NAVIGATION FROM HOME
+
+#alias {cog} {guild;n;n;n}
+#alias {glib} {guild;n;n;n;u;u;w;i}
+#alias {grepair} {guild;n;n;n;nw;r1;r2;r3}
+#alias {/tat} {guild;board tatooine;list droids}
+
+#NOP	---MISC
+
+#alias {gwho} {jedis}
+#alias {ep} {exa pack}
+
+/*	Adventuring Related	*/
+#alias {gl} {glance}
+#alias {l} {look}
+#alias {S} {search}
+#alias {ga} {get all}
+#alias {gac} {get all from corpse}
+#alias {gc} {get coins}
+#alias {k} {kill}
+#alias {/k} {killed}
+#alias {li} {lineofsight}
+#alias {sm} {smuggle}
+#alias {rsm} {smuggle remove}
+#alias {fol} {follow}
+#alias {rfol} {unfollow}
+#alias {rem} {remove}
+#alias {sa} {sell all}
+#alias {.sa} {can;keep cell;sell all;home}
+#alias {fa} {fix all}
+#alias {.fa} {ws;fix all;home}
+#alias {da} {deposit all}
+#alias {.da} {atm;deposit all;home}
+#alias {cash reset} {
+	#var coins[hand] 0;
+	#var coins[bank] 0;
+	#var coins[taken] 0;
+	#var coins[total] 0;
+}
+#alias {.c} {#showme <170> COINS [On Hand] <F0F0>$coins_hand <170>[Bank] <F0F0>$coins_bank <170>[Total] <F0F0>$coins_total}
+#alias {.b} {balance}
+#alias {ql} {questlist}
+#alias {sq} {skillquests}
+#alias {clan} {cwho -o}
+#alias {3k} {players -local}
+#alias {trash} {dispose}
+
+/*	Crafting	*/
+#alias {ci} {stashlist}
+#alias {cs} {craftstats}
+#alias {cs2} {craftstats2}
+#alias {X} {spelunk;mine ore}
+#alias {mat} {stash all}
+#alias {rmat} {unstash}
+#alias {pro} {prospect}
+#alias {dig} {prospect for}
+#alias {crf} {craftfinger}
+#alias {en} {entrap}
+#alias {wr} {get essence;wrangle}
+#alias {titset} {#showme <129> KEEP MINING Gold, Mithril, Ebon, Titanium, and Addy for Mats---;
+		#showme <170>	Titanium Set;
+		#showme <170>Boots: <169>2 bars, 1 heliodor dust, 1 mithril shards, 1 standard gem;
+		#showme <170>Breastplate: <169>3 bars, 1 heliodor, 1 topaz dust, 1 standard gem;
+		#showme <170>Codpiece: <169>2 bars, 1 amethyst dust, 1 ess of the unseen, 1 std gem;
+		#showme <170>Gloves: <169>2 bars, 1 hematite dust, 1 mithril shards, 1 std gem;
+		#showme <170>Greaves: <169>2 bars, 1 heliodor dust, 1 ess of rejuvenation, 1 std gem;
+		#showme <170>Helmet: <110>hinders dodge for hp regen and stat buffs;
+		ci titanium;ci mithril shards;ci amethyst dust;ci the unseen;ci rejuvenation;ci gold shards;ci topaz;
+		#showme <170>	Beneficial Standard Gems;
+		#showme <110> Buff from baked in gem and buff from 1 gemchant per AC pc upto 3 of the same gem to a total of 5 (6 in a set);
+		#showme [✓]<170>Thief at Large (Dex/Wis): <169>1 pearl, 1 peridot dust, 1 ess of blasting;
+		ci blasting;
+		#showme [✓]<170>Elephant (Con/Wis): <169>1 pearl, 1 pearl dust, 1 ess of willy;
+		ci pearl;ci willy;
+		#showme [✓]<170>Insight(Wis): <169>1 hematite, 1 peridot dust, 1 ess of soul;
+		ci hematite;ci soul;
+		#showme [✓]<170>Agility(Dex): <169>1 eye of air, 1 topaz dust, 1 ess of light;
+		ci eye of air;ci light;
+		#showme [✓] <170>Wolf(Dex/Con): <169>1 heliodor, 1 heliodor dust, 1 ess of soul;
+		ci heliodor;
+		#showme [✓] <170>Jackal(Int/Con): <169>1 heliodor dust, 1 peridot, 1 ess of ascension;
+		ci peridot;ci ascension;
+		}
+#NOP	---NAVIGATION FROM HOME
+#variable {mcraft} {craft;nw;w;w;sw;se}
+#variable {mhome} {nw;ne;e;e;se;home}
+#variable {bcraft} {craft;nw;w;w;sw;nw;e}
+#variable {bhome} {se;ne;e;e;se;home}
+#variable {ecraft} {craft;nw;w;s;e}
+#variable {ehome} {n;e;se;home}
+
+#NOP	---HOME BUILDING
+#alias {h/edit} {houseedit}
+#alias {h/help} {houseedit help}
+#alias {h/info} {houseedit houseinfo}
+#alias {h/paris} {home 182}
+#alias {h/clan} {home 227}
+#alias {h/} {home 929}
+#alias {h/bal} {house balance}
+
+/*	Communication	*/
+#alias {ct} {ctell}
+#alias {cth} {ctell -h}
+#alias {pt} {ptell}
+#alias {pth} {ptell -h}
+#alias {t} {tell}
+#alias {th} {tellhist}
+#alias {/com} {(chat main}
+#alias {hcom} {house chat}
+#alias {ccom} {craft}
+#alias {ctcom} {ctrade}
+#alias {fc} {flapchat}
+#alias {re} {reply}
+#NOP esp has to be mud-side for colors to function
+
+#NOP	---AFK STATUSES
+
+#alias {home.afk} {afk There's no place like 127.0.0.1}
+#alias {work.afk} {afk #deliveringsmiles @Amazon[tell ASAP]}
+#alias {road.afk} {afk Driving, I'll respond ASAP}
+#alias {zzz.afk} {afk May the Force be with You!}
+
+/*	Eternals Guild		*/
+
+#alias {/gs} {(gs}
+#alias {/gs2} {(gs2}
+#alias {/train} {(train}
+#alias {/pwrs} {(powers}
+#alias {/info} {(info}
+#alias {/learn} {(learn}
+#alias {/finger} {(finger}
+#alias {/hp} {(hp}
+#alias {/who} {(who}
+#alias {/status} {(babble}
+#alias {/guild} {pound;s;w;s;portal;enter;l}
+#alias {/cs} {(cstats}
+/*	Eternal Powers		*/
+#alias {/dupe} {(duplicate item}
+#alias {/room} {(refresh room}
+#alias {/dung} {(reset dungeon}
+#alias {/big} {(embiggen}
+
+/*	Profession: Reforger	*/
+
+#NOP	/*practice forge with : get sword from box;reforge sword little edged penetrate*/ 
+#NOP alias {pforge} {#$pxp {gb sword;reforge sword little edged penetrate};
+		#delay {2} {can};#delay {4} {#$pxp sell sword};
+		#delay {6} {home};#delay {8} {ws};#delay {10} {#$pxp buy sword};
+		#delay {12} {home};#delay {14} {#$pxp pb sword};#delay {16} {reforger}}
+#alias {.reforger} {#read common/reforger.tin}
+#alias {.reforger off} {#kill class profforge}
+
+/*	Profession: Transmuter	*/
+
+#alias {ps} {profs}
+#alias {ps1} {assassin score;tactician score;big_game_hunter score;magician score;transmuter score}
+#alias {ps2} {transmuter score}
+#alias {pxp} {#showme <170> CURRENT MATS TO GAIN PXP;
+		#showme <169> heart of shadow/diamond/hmight/void/sfrost/shan tears;
+		#showme <169> hrejuvenation/heart of water;
+		#showme <159> heart of water til 79 and <129>phasemetal mats @ 80? hrage @ 77 hsoul @ 79}
+/*	Dungeons		*/
+
+#alias {- %1} {#read bots/%1.tin}
+#alias {ds} {dungeons}
+#alias {zell} {#4 {unkeep key;sell key};unkeep gloves of acid protection;sell gloves of acid protection;#showme <170>Sold Zelligar Dungeon TRASH}
+#alias {1hr} {#var IdleTimeout 3600;#showme <170> set to 1 hour Idle Timeout}
+#alias {.5hr} {#var IdleTimeout 1800;#showme <170> set to 30 minute Idle Timeout}
+#alias {10min} {#var IdleTimeout 600;#showme <170> set to default Idle Timeout}
+
+/*	Non Mapper Shortcuts	*/
+#alias {goto} {
+	#switch {"%1"} {
+		#case {"ser"} {fy;portal;#7 w;#8 s;e;charter serinth};
+		#case {"sopem"} {#3 se;e;#3 s;w;#5 s;e;s;se;sw;s;#5 w;sw;#7 s;#3 w;#5 s;se;e;s;sw;s;enter sopem;center;center;sleep upon altar;#delay {5} {#showme <110>  Search East Wall until Long Spike is Found, then Exa Spike and Push Spike}};
+		#case {"beloch"} {fy;portal;#15 e;leave;e;e;s;e;e;e;e;e;e;e;e;e;s;e;s;w;s;s;s;s;s;s;w;w;s;d;d;d};
+		#case {"chess"} {ch;enter;e;scaler 140;climb;fdef_reset;#read bots/chess.tin};
+		#case {"hotel"} {ch;enter;$cochotel;scaler 117;fdef_reset;#read bots/hoteltrans.tin};
+		#case {"zel"} {fy;$fanzel;scaler 140;fdef_reset;#read bots/zelligar.tin};
+		#case {"smurf"} {ch;enter;e;scaler 110;fdef_reset;s;#read bots/smurf.tin};
+		#case {"mine"} {$mcraft;#read common/miner.tin};
+		#case {"taco"} {ch;enter;w;w;w;w;e;n;w;n;n;taco};
+		#default {
+			#showme <170>		Current Options:		;
+			#showme <169>	ser   : <088> Charter to Serinth for PB   ;
+			#showme <169>	sopem : <088> <110>*UPDATE*<088>Slumber at the Altar for PB;
+			#showme <169>	beloch :<110>*UPDATE* <088> Will be 1 south of Beloch	;
+			#showme <169>	chess : <088> Chess @ Scaler 140	;
+			#showme <169>	hotel : <088> Hotel @ Scaler 117	;
+			#showme <169>	zel   :	<088> Zelligar @ Scaler 140	;
+			#showme <169>	smurf : <088> Smurf @ Scaler 110	;
+			#showme <169>	mine  :	<088> Starts Miner Bot	;
+			#showme <110>	update:	alias.tin when scalers go up;
+			#showme <170>||||[-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-]||||;
+			}}}
+
+#class {alias} {close}
+

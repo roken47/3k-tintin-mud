@@ -1,0 +1,221 @@
+- = LOG STARTED [00:00] = -
+[16:34] [31;1m[Clan] Roken wisps into existence.[0m  [0m
+[16:34] [0m[32;1mFrom afar, Ser waves in your direction.[0m[0m
+[16:34] [0m[32;1mFrom afar, you wave in Ser's direction.[0m[0m
+[16:40] [0m[Auction] Robert : Up for bids: Potion giving you the finger.[0m
+[16:40] [0m[Auction] Robert : Xiu has requested 0 as the opening offer.[0m
+[16:40] [0m[Auction] Robert : Got 0 from To(necr).  Do I hear 50?[0m
+[16:40] [0m[Auction] Robert : Got 50 from Jaeger(jugg).  Do I hear 100?[0m
+[16:40] [0m[Auction] Robert : Got 10,000 from Vasuki(jedi).  Do I hear 10,200?[0m
+[16:41] [0m[Auction] Robert : Got 10,200 from Stasis(elem).  Do I hear 11,220?[0m
+[16:41] [0m[Auction] Robert : Got 11,220 from Inquisitor(jedi).  Do I hear 12,342?[0m
+[16:46] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[17:04] [0m[34;1mKenny shouts:[0m woot[0m
+[17:09] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[17:21] [0m[31;1m[Clan] Taleast leaves the game.[0m  [0m
+[17:21] [0m[31;1m[Clan] Falthrice enters the game.[0m  [0m
+[17:36] [0m[37;1mNameless flaps :[0m mega lag batman![0m
+[17:37] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[17:42] [0m[37;1mGlorfindel flaps :[0m Score one for Skeletal Warrior[0m
+[17:43] [0m[35;1mHyuga [Jedi(100)]:[0m any way we can look at maybe bumping up the fdef limiter a little?[0m
+[17:44] [0m[35;1mHyuga [Jedi(100)]:[0m these assisting stacks hit right over it  :/[0m
+[17:44] [0m[35;1mInquisitor [Jedi(Knight)]:[0m I've been killed by land2 kresh packs that way.[0m
+[17:45] [0m[35;1mHyuga [Jedi(100)]:[0m most high level mobs have like 8 attacks a round it seems like[0m
+[17:45] [0m[35;1mInquisitor [Jedi(Knight)]:[0m But in the wake of how inspirationally BS fdef is, letting us block[0m
+[17:45] [0m                           30 instead of 20 might be a touch sick.[0m
+[17:45] [0m[35;1mHyuga [Jedi(100)]:[0m and these new ones spawn with 3, sometimes 4 in a roomw[0m
+[17:45] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Emphasis on might be.  I still get killed all the time and I'm not[0m
+[17:45] [0m                           fighting 30 attacks/rnd...[0m
+[17:45] [0m[35;1mHyuga [Jedi(100)]:[0m i'd like a choice in the matter, but when they spawn 3-4 wide, assist, and[0m
+[17:45] [0m                   can't be feared out of the room...[0m
+[17:46] [0m[35;1mHyuga [Jedi(100)]:[0m my only choice is to die and port to town :)[0m
+[17:46] [0m[35;1mInquisitor [Jedi(Knight)]:[0m You could ...  I dunno.  Not be BS.  Then you wouldn't have that[0m
+[17:46] [0m                           problem.  ;)[0m
+[17:46] [0m[35;1mHyuga [Jedi(100)]:[0m why didn't i think of that![0m
+[17:47] [0m[35;1mHyuga [Jedi(100)]:[0m 3 mobs, with 8 attacks and 1 special apiece is 21 attacks[0m
+[17:48] [0m[35;1mHyuga [Jedi(100)]:[0m that's enough to cream us if they don't miss in a round[0m
+[17:52] [0m[35;1mInquisitor [Jedi(Knight)]:[0m I get the impression that these days, everybody wants every gobj to[0m
+[17:52] [0m                           be able to tank and kill every thing.  I was also under the[0m
+[17:52] [0m                           impression that was never the intent of the overall mud/guild[0m
+[17:52] [0m                           balance.[0m
+[17:52] [0m[35;1mInquisitor [Jedi(Knight)]:[0m If one hit getting through is the difference between living and[0m
+[17:52] [0m                           dying, bring more DR?  I dunno.[0m
+[17:53] [0m[35;1mHyuga [Jedi(100)]:[0m i don't think you understand how our DR works :p[0m
+[17:53] [0m[35;1mHyuga [Jedi(100)]:[0m we get like 97% DR[0m
+[17:54] [0m[35;1mHyuga [Jedi(100)]:[0m you can't just 'bring 97% DR' :p[0m
+[17:54] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Oh I have numbers, I know that I routinely take enough damage to kill[0m
+[17:54] [0m                           me many times over and keep right on truckin'[0m
+[17:55] [0m[35;1mHyuga [Jedi(100)]:[0m the difference is the number of attacks[0m
+[17:56] [0m[35;1mHyuga [Jedi(100)]:[0m i don't expect to be able to kill everything, but i do expect to be able to[0m
+[17:56] [0m                   kill 3 blocking mobs[0m
+[17:57] [0m[35;1mHyuga [Jedi(100)]:[0m especially when i can easily kill the mob they are blocking, that's 8x bigger[0m
+[17:57] [0m                   than they are[0m
+[17:58] [0m[35;1mHyuga [Jedi(100)]:[0m especially when it's an extremely outdated mechanic that's causing the issue[0m
+[17:58] [0m[35;1mHyuga [Jedi(100)]:[0m and hence the original question[0m
+[17:58] [0m[35;1mHyuga [Jedi(100)]:[0m does every guild have a limiter of some sort? yes[0m
+[17:59] [0m[35;1mHyuga [Jedi(100)]:[0m was ours coded when the average number of attacks per mob was less than half[0m
+[17:59] [0m                   of what it is now? yes[0m
+[18:00] [0m[35;1mHyuga [Jedi(100)]:[0m in fact, the only other mob with a 'per hit' limiter, as opposed to a 'per[0m
+[18:00] [0m                   mob' limiter, i can think of, is gentech[0m
+[18:00] [0m[35;1mEnder [Jedi(Master)]:[0m yah we need some sort of feature to increase our hit limiter. like fdef[0m
+[18:00] [0m                      level adds a certain number of attacks.[0m
+[18:01] [0m[35;1mHyuga [Jedi(100)]:[0m err, i meant guild[0m
+[18:01] [0m[35;1mEnder [Jedi(Master)]:[0m juggers have a hit limiter[0m
+[18:01] [0m[35;1mHyuga [Jedi(100)]:[0m fremen used to have no limiter on litany, and even they have a limiter now[0m
+[18:02] [0m[35;1mEnder [Jedi(Master)]:[0m it is substantially higher than ours though at higher levels.[0m
+[18:02] [0m[35;1mHyuga [Jedi(100)]:[0m althogh i'm not entirely sure what it is and it's not listed anywhere at all[0m
+[18:02] [0m[35;1mHyuga [Jedi(100)]:[0m iirc i could do 6 furtives on pdog but 7 blicked me[0m
+[18:02] [0m[35;1mHyuga [Jedi(100)]:[0m and that's like 45 attacks a round[0m
+[18:03] [0m[35;1mHyuga [Jedi(100)]:[0m 1 per level would be perfect[0m
+[18:04] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[18:04] [0m[35;1mHyuga [Jedi(100)]:[0m i'd be able to do 37 a round?[0m
+[18:04] [0m[35;1mEnder [Jedi(Master)]:[0m uah i dont think that would be a lot to ask for:)[0m
+[18:05] [0m[35;1mInquisitor [Jedi(Knight)]:[0m I have no meaningful opinion as I can't fight big enough for it to be[0m
+[18:05] [0m                           relevant.  Guess I need to gxp more.[0m
+[18:05] [0m[35;1mEnder [Jedi(Master)]:[0m if we could do that, and have a defensive light weapon, or like a weapon[0m
+[18:05] [0m                      that did more damage than we do now, and one that increases defense, that[0m
+[18:05] [0m                      would give us a few awesome things to keep working on.[0m
+[18:06] [0m[35;1mHyuga [Jedi(100)]:[0m that's a great idea too[0m
+[18:06] [0m[35;1mEnder [Jedi(Master)]:[0m yah inquisitor I love the guild and want to keep grinding but at 100+[0m
+[18:06] [0m                      there's no real change.[0m
+[18:06] [0m[35;1mHyuga [Jedi(100)]:[0m of course then we'd be staff/deflect again laf[0m
+[18:06] [0m[35;1mEnder [Jedi(Master)]:[0m sure but it doesnt have to be a broken mechanic, it could just be another[0m
+[18:06] [0m                      dodge/dr[0m
+[18:10] [0m[37;1mLance flaps :[0m anyone not saved to chess board want a buckler of eternia?[0m
+[18:11] [0m[34;1mLocrian shouts:[0m -=W=- -=O=- -=W=- Way to go Sith - you've won A FULL SET OF LUCANUS GEAR!!![0m
+[18:13] [0m[34;1mHyuga shouts:[0m i in yer pande 2.0s rottin yer daemon helms and daemon plates[0m
+[18:18] [0m[35;1mHyuga [Jedi(100)]:[0m oh the helmets are BoP[0m
+[18:18] [0m[35;1mHyuga [Jedi(100)]:[0m interesting[0m
+[18:29] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[18:41] [0m[35;1mKsemia [Jedi(Master)]:[0m anyone let Ferret know that Wex is again a nice gxp spot?[0m
+[18:44] [0m[35;1mHyuga [Jedi(100)]:[0m The brilliant sphere of energy explodes![0m
+[18:45] [0m[31;1m[Clan] Nix :[0m donde esta la fiest?[0m
+[18:45] [0m[31;1m[Clan] Prism :[0m resetting sz in 1 min if anyone wants[0m
+[18:45] [0m[35;1mHyuga [Jedi(100)]:[0m oh, oops, it cut off[0m
+[18:45] [0m[31;1m[Clan] Nix :[0m is that an invite to leach?[0m
+[18:45] [0m[31;1m[Clan] Prism :[0m LOL NO FUCK OFF[0m
+[18:45] [0m[35;1mHyuga [Jedi(100)]:[0m Lucifer summons a wall of fire that blocks the attack.[0m
+[18:45] [0m[35;1mHyuga [Jedi(100)]:[0m haha[0m
+[18:45] [0m[31;1m[Clan] Nix :[0m hahah[0m
+[18:45] [0m[31;1m[Clan] Prism :[0m honestly just doing sz40s for balangool anyway so they don't last long[0m
+[18:46] [0m[31;1m[Clan] Nix :[0m in the spirit of Thanksgiving i just want to say, I'm thankful for you Prism[0m
+[18:46] [0m[35;1mHyuga [Jedi(100)]:[0m I just got outplayed by Mei[0m
+[18:46] [0m[31;1m[Clan] Prism :[0m <3 <3 <3[0m
+[18:46] [0m[31;1m[Clan] Nix :[0m thankful for the friendships i have with all of you[0m
+[18:46] [0m[35;1mHyuga [Jedi(100)]:[0m this is a long fight :)[0m
+[18:47] [0m[35;1mHyuga [Jedi(100)]:[0m i hope this is the last life :p[0m
+[18:47] [0m[35;1mHyuga [Jedi(100)]:[0m it already went nogxp :p[0m
+[18:48] [0m[35;1mHyuga [Jedi(100)]:[0m next time bring a friend, noted![0m
+[18:50] [0m[35;1mHyuga [Jedi(100)]:[0m nice[0m
+[18:50] [0m[35;1mHyuga [Jedi(100)]:[0m Lucifer {empowered} {hellfire} 208654071[0m
+[18:50] [0m[31;1m[Clan] Nameless :[0m im thankful for[0m
+[18:50] [0m[31;1m[Clan] Nameless :[0m deez nuts[0m
+[18:50] [0m[31;1m[Clan] Nameless :[0m and YOU GAIS[0m
+[18:51] [0m[35;1mHyuga [Jedi(100)]:[0m pokey will love this thing[0m
+[18:51] [0m[35;1mHyuga [Jedi(100)]:[0m i scored a saudauker harness for the fremen guild[0m
+[18:51] [0m[35;1mHyuga [Jedi(100)]:[0m gunna let pokey try out this blood plate[0m
+[18:52] [0m[31;1m[Clan] Cambiador :[0m We wuv you too Nameless. :D[0m
+[18:55] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[18:57] [0m[31;1m[Clan] Nix :[0m jolliest bunch of assholes this side of the nut house[0m
+[18:57] [0m[31;1m[Clan] Nix :[0m i just pulled my turkey out... been defrosting for 3 days and this sumbitch is[0m
+[18:57] [0m             still sorta frozen[0m
+[18:58] [0m[31;1m[Clan] Nix :[0m going to brine it over night so it'll be in water i'm pretty sure i'll be fine[0m
+[18:58] [0m[31;1m[Clan] Nix :[0m but the wife just chewed me out lol[0m
+[18:58] [0m[31;1m[Clan] Ser :[0m you deep frying it[0m
+[18:59] [0m[31;1m[Clan] Nix :[0m smoking it[0m
+[18:59] [0m[31;1m[Clan] Nix :[0m ive done it the past 2 years, it comes out awesome[0m
+[18:59] [0m[31;1m[Clan] Ser :[0m sounds yummy[0m
+[18:59] [0m[31;1m[Clan] Nix :[0m honey hot rub and apple pellets[0m
+[19:19] [0m[31;1m[Clan] Roor leaves the game.[0m  [0m
+[19:25] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[19:26] [0m[37;1mZethrak flaps :[0m mmm... lag[0m
+[19:30] [0m[34;1mZiphe shouts:[0m can 3k get a real ISP please[0m
+[19:33] [0m[34;1mSylph shouts:[0m tell Uq to hook us up already[0m
+[19:33] [0m[34;1mSally shouts:[0m what ya need[0m
+[19:34] [0m[34;1mSally shouts:[0m btw there is a big DDOS attack going on tonight on the net.[0m
+[19:34] [0m[34;1mStasis shouts:[0m rip blizzard[0m
+[19:35] [0m[37;1mGlorfindel flaps :[0m Score one for Red Butterfly[0m
+[19:36] [0m[34;1mHyuga shouts:[0m isn't there a website where you can watch DDoS attacks live? norse or something?[0m
+[19:36] [0m[34;1mSer shouts:[0m digitalattackmap.com[0m
+[19:37] [0m[34;1mHyuga shouts:[0m little do they know they are murder our poor mudders[0m
+[19:41] [0m[31;1m[Clan] Nameless :[0m anyone wanna help me beat up guyahi?[0m
+[19:43] [0m[31;1m[Clan] Cambiador :[0m In this lag?[0m
+[19:44] [0m[31;1m[Clan] Nameless :[0m laf, yeah thats horrible lagginess[0m
+[19:44] [0m[31;1m[Clan] Pipin :[0m i cant keep connection heh[0m
+[19:44] [0m[31;1m[Clan] Nameless :[0m nod :([0m
+[19:46] [0m[31;1m[Clan] Nameless :[0m oh yeah, my dmg is the big suck with rolm[0m
+[19:46] [0m[31;1m[Clan] Nameless :[0m ill use it in corpsing or gxp areas but yeaaa[0m
+[19:47] [0m[31;1m[Clan] Ser :[0m prolly decent if you have a bunch of sp regen[0m
+[19:47] [0m[31;1m[Clan] Nameless :[0m my melee is noticeably horrible with first weap at least[0m
+[19:47] [0m[31;1m[Clan] Ser :[0m it's blunt[0m
+[19:47] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[19:47] [0m[31;1m[Clan] Ser :[0m that's to be expected[0m
+[19:48] [0m[31;1m[Clan] Ser :[0m all of them are 100 wc[0m
+[19:48] [0m[31;1m[Clan] Ser :[0m and take into consideration your mskills/profs[0m
+[19:49] [0m[31;1m[Clan] Void leaves the game.[0m  [0m
+[19:51] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[19:56] [0m[31;1m[Clan] Pipin :[0m wtf[0m
+[19:56] [0m[31;1m[Clan] Falthrice :[0m what up, yo?[0m
+[19:56] [0m[31;1m[Clan] Pipin :[0m just rachit connection[0m
+[20:19] [0m[31;1m[Clan] Xara leaves the game.[0m  [0m
+[20:21] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[20:49] [0m[31;1m[Clan] Xaro leaves the game.[0m  [0m
+[20:52] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[20:55] [0m[34;1mEllegon shouts:[0m woot[0m
+[20:55] [0m[34;1mFluffy shouts:[0m thanks for boonage[0m
+[20:55] [0m[31;1m[Clan] Falthrice :[0m choose boon![0m
+[20:55] [0m[34;1mSally shouts:[0m we gathering for inductor run?[0m
+[20:55] [0m[34;1mSaim shouts:[0m woo[0m
+[20:55] [0m[34;1mFalthrice shouts:[0m indeed, thanks[0m
+[20:56] [0m[34;1mMurmandamus shouts:[0m I for one welcome our new Revelation overlords[0m
+[20:57] [0m[34;1mRevelation shouts:[0m is everyone having trouble with connection?[0m
+[20:57] [0m[34;1mTchazzar shouts:[0m We need all we can get to survive the lag spikes.[0m
+[20:57] [0m[34;1mLilinei shouts:[0m Yes[0m
+[20:57] [0m[34;1mLance shouts:[0m haven't had trouble all day[0m
+[20:57] [0m[34;1mStasis shouts:[0m so annoying[0m
+[20:57] [0m[34;1mMisha shouts:[0m Not it![0m
+[20:57] [0m[37;1mFluffy flaps :[0m yes, maybe i need to work on my pickup lines ?[0m
+[20:57] [0m[34;1mLance shouts:[0m netzero premium is running strong[0m
+[20:57] [0m[34;1mSally shouts:[0m big ddos going on tonight[0m
+[20:57] [0m[34;1mVoodoo shouts:[0m yes, connection trouble, a +100 stat boon will probably resolve it[0m
+[20:58] [0m[34;1mTchazzar shouts:[0m Blizzard claims the ddos is over.[0m
+[20:58] [0m[37;1mSally flaps :[0m inductor time[0m
+[20:58] [0m[34;1mEsper shouts:[0m they also claim they fixed all their problems[0m
+[20:58] [0m[34;1mTchazzar shouts:[0m yes, their problems, just not yours.[0m
+[20:59] [0m[34;1mZiphe shouts:[0m I've had at least 6 20-30 second periods with no network traffic to 3k[0m
+[20:59] [0m[34;1mEsper shouts:[0m Far[0m
+[21:00] [0m[34;1mZiphe shouts:[0m started earlier in the day though, hours ago[0m
+[21:05] [0m[34;1mHyuga shouts:[0m i've been having issues for hours[0m
+[21:11] [0m[34;1mZiphe shouts:[0m network blipped again[0m
+[21:12] [0m[34;1mUq shouts:[0m I am ok... thanks for asking... I am good... really...[0m
+[21:12] [0m[34;1mWhoknows shouts:[0m it's everyone hoping online and searching for blackfriday deals[0m
+[21:12] [0m[34;1mZiphe shouts:[0m get me that instant vortex air fryer whoknows[0m
+[21:13] [0m[34;1mStasis shouts:[0m rip brazil apparently[0m
+[21:13] [0m[34;1mWhoknows shouts:[0m you don't want that, it sucks all the hot air out of you[0m
+[21:13] [0m[34;1mZiphe shouts:[0m but I'm only comprised of hot air[0m
+[21:13] [0m[34;1mWhoknows shouts:[0m it will leave you cold and limp[0m
+[21:14] [0m[34;1mFluffy shouts:[0m he needs airfry viagra too then[0m
+[21:14] [0m[34;1mSer shouts:[0m you mean all the script kiddie hustlers firing up their scrapers[0m
+[21:15] [0m[34;1mZiphe shouts:[0m whacky waving inflatable arm-flailing tube man!![0m
+[21:17] [0m[34;1mZiphe shouts:[0m ebay snipers and product scalpers be damned![0m
+[21:18] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[21:19] [1;37;40m Auto Dissipate on Shield is [ON]
+[21:19] [1;37;40m Auto Dissipate on Shield is [ON]
+[21:19] [1;37;40m Auto Dissipate on Shield is [ON]
+[21:19] [1;37;40m Auto Dissipate on Shield is [ON]
+[21:19] [1;37;40m Auto Dissipate on Shield is [ON]
+[21:19] [1;37;40m Auto Dissipate on Shield is [ON]
+[21:45] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[22:08] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[22:19] [0m[31;1m[Clan] Ipsie leaves the game.[0m  [0m
+[22:22] [0m[34;1mGik shouts:[0m playcult like a turkey[0m
+[22:23] [0m[34;1mPdog shouts:[0m pokwho if you're not a turkey[0m
+[22:30] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[22:49] [0m[31;1m[Clan] Toxin leaves the game.[0m  [0m
+[22:56] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[23:00] [0m[37;1mZethrak flaps :[0m lag-o-licious[0m
+[23:00] [0m[37;1mPdog flaps :[0m i was actually fine for once[0m
+[23:06] [0m[37;1mFujitsu flaps :[0m protip, a zester too dull for a lemon works great on knuckles still[0m
+[23:18] [0m[37;1mZiphe flaps :[0m how much dodge does a single point in dodge give? is it like shield block, 0.5%[0m
+[23:18] [0m              per point?[0m
+[23:19] [0m[37;1mZiphe flaps :[0m the help file doesn't say[0m

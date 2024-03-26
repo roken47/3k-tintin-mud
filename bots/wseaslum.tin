@@ -1,0 +1,45 @@
+#class {bot} {open};
+
+#var {areaname} {wsea};
+
+#var {botpath} {in;s;n;w;w;w;w;w;w;w;w;w;w;w;s;s;w;w;w;w;w;w;w;w;w;s;s;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;e;sw;ne;e;ne;w;w;n;s;e;e;e;e;e;n;s;e;e;e;e;n;n;n;n;e;e;e;e;e;e;e;e;e;e;e;out};
+
+#act {^[MoNSTaR]{Shady leader|Tough looking brigand|Mischievous ruffian}} {
+	#if {"%1" == "Shady leader"} {#var mobname leader};
+	#if {"%1" == "Tough looking brigand"} {#var mobname brigand};
+	#if {"%1" == "Mischievous ruffian"} {#var mobname ruffian};
+	#if {"$mobname" == "leader"} {#if {$mob_count[leader] < 3} {_check_mob} {_step_room}};
+	#if {"$mobname" == "brigand"} {#if {$mob_count[brigand] < 5} {_check_mob} {_step_room}};
+	#if {"$mobname" == "ruffian"} {#if {$mob_count[ruffian] < 10} {_check_mob} {_step_room}};
+	};
+
+#act {^You update the slum cleanup mission.$} {
+	#if {"$mobname" == "leader"} {#math {mob_count[leader]} {$mob_count[leader] + 1}};
+	#if {"$mobname" == "brigand"} {#math {mob_count[brigand]} {$mob_count[brigand] + 1}};
+	#if {"$mobname" == "ruffian"} {#math {mob_count[ruffian]} {$mob_count[ruffian] + 1}};
+	#if {	$mob_count[leader] == 3 &&
+		$mob_count[brigand] == 5 && 
+		$mob_count[ruffian] == 10} {
+			killbot;
+			go wsea;
+			in;
+			s;
+			say complete;
+			#delay {2} {
+				say slum cleanup;
+				#delay {2} {
+					go wsea;
+					#var mob_count[leader] 0;
+					#var mob_count[brigand] 0;
+					#var mob_count[ruffian] 0;
+					};
+				};
+			};
+
+	};
+
+#class {bot} {close}
+
+- wsea_mission_parser;
+#read bots/generic.tin
+

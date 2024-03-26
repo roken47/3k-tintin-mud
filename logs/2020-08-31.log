@@ -1,0 +1,726 @@
+- = LOG STARTED [00:00] = -
+[05:13] [0mYou can currently reforge 4 items.[0m
+[05:26] [0mVapor <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[06:09] [0mYou can currently reforge 8 items.[0m
+[06:09] [0mYou can currently reforge 0 items.[0m
+[06:09] [0m[32mKerym says: [0mWell met, Swordbrother Dangerzone, May the Seldarine's Blessings be upon you.[0m
+[06:36] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[06:36] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[06:36] [0m                          get ready![0m
+[06:41] [0m[34;1mHsima shouts:[0m I be ready![0m
+[06:51] [0m[37;1mHsima flaps :[0m 2e of xaxis[0m
+[06:52] [0m[37;1mHsima flaps :[0m corroding[0m
+[06:54] [0m[37;1mNauda flaps :[0m zombie reset[0m
+[07:09] [0mYou can currently reforge 4 items.[0m
+[07:11] [0m[31;1m[Clan] Dangerzone :[0m feel like a clanny had the question.. and the answer is[0m
+[07:11] [0m                    yes. I dipped below lv111 and still have eguild status,[0m
+[07:11] [0m                    so it's likely to vaf yourself to lvl 1 and maintain :)[0m
+[07:11] [0m[31;1m[Clan] Dangerzone :[0m someone did w-h-i-l-e back[0m
+[07:32] [0m[31;1m[Clan] Taleast :[0m morning[0m
+[07:32] [0m[31;1m[Clan] Dangerzone :[0m morning tal[0m
+[07:32] [0m[32;1mFrom afar, Taleast tips his hat to you.[0m[0m
+[07:35] [0m[37;1mEnder flaps :[0m anyone here use mudlet and able to gag stuff using[0m
+[07:35] [0m              deleteLine() ? Can't seem to get it to work.[0m
+[07:44] [0m[37;1mHsima flaps :[0m yep[0m
+[07:45] [0m[37;1mHsima flaps :[0m It works a bit odd, you make a trigger for what you want to[0m
+[07:45] [0m              gag and call deleteLine() as the script[0m
+[07:45] [0m[37;1mHsima flaps :[0m depending on your triggers it can be overly greedy, it is kind[0m
+[07:45] [0m              of a good test to see if your triggers are actually matching[0m
+[07:45] [0m              what you think they are[0m
+[08:07] [0m[34;1mHooligan shouts:[0m last call for day 5 dupe. logging in a sec[0m
+[08:08] [0m[34;1mSpace shouts:[0m not right now, i will ask you for a dup two min after you[0m
+[08:08] [0m              leave ss[0m
+[08:08] [0m[34;1mSpace shouts:[0m just like you do to me for auro shield dup![0m
+[08:08] [0m[34;1mHooligan shouts:[0m i wont be online. hehe. ask a clannie. :)[0m
+[08:08] [0m[34;1mSpace shouts:[0m boo! Around neck:  String of Love and Happiness 2.0 [Beaming[0m
+[08:08] [0m              Pendant: CMC-660 Heavy[0m
+[08:09] [0m[37;1mHooligan flaps :[0m going once[0m
+[08:09] [0m[37;1mHooligan flaps :[0m going twice[0m
+[08:09] [0m[37;1mHooligan flaps :[0m ok. i am off. og is in our clan box[0m
+[08:09] [0mYou can currently reforge 8 items.[0m
+[08:18] [0m[31;1m[Clan] Taleast :[0m anyone need a day 3 cmc for anything?[0m
+[08:20] [0mTaleast <.oO>: woooo![0m
+[08:21] [0mDangerzone <.oO>: weee[0m
+[08:21] [0m[32;1mFrom afar, you thank Taleast.[0m[0m
+[08:29] [0m[31;1m[Clan] Taleast :[0m well, I'm up to level... 8 I think? I've gone a stealth[0m
+[08:29] [0m                 build which is what I always liked from the regular games[0m
+[08:29] [0m[31;1m[Clan] Taleast :[0m not playing currently, but was up WAY too late last night[0m
+[08:30] [0m[31;1m[Clan] Dangerzone :[0m which game?[0m
+[08:30] [0m[31;1m[Clan] Taleast :[0m Fallout 76[0m
+[08:31] [0m[31;1m[Clan] Dangerzone :[0m oh it would be fun to play again since they've made so[0m
+[08:31] [0m                    many changes since i wasted $60 on the game[0m
+[08:31] [0m[31;1m[Clan] Taleast :[0m it's been an experience, I've played hard difficulty, but[0m
+[08:31] [0m                 was never interested in playing survival in fallout 4[0m
+[08:32] [0m[31;1m[Clan] Taleast :[0m all I care about is they took care of many of the crash[0m
+[08:32] [0m                 bugs[0m
+[08:32] [0m[31;1m[Clan] Taleast :[0m and have npcs[0m
+[08:32] [0m[31;1m[Clan] Dangerzone :[0m bummer, I want to play with you. I got to complete a[0m
+[08:32] [0m                    social network webpage mockup[0m
+[08:32] [0m[31;1m[Clan] Taleast :[0m don't worry, I'm not playing right now either, not til[0m
+[08:32] [0m                 after work, different animal than 3k[0m
+[08:33] [0m[31;1m[Clan] Dangerzone :[0m ya i know, after work im working on my school work[0m
+[08:35] [0m[31;1m[Clan] Dangerzone :[0m can't wait to have a career in web developing[0m
+[08:35] [0m[31;1m[Clan] Taleast :[0m ahhhh[0m
+[08:35] [0m[31;1m[Clan] Taleast :[0m I thought that was stuff you were doing on your work's dime[0m
+[08:36] [0m[31;1m[Clan] Taleast :[0m I'm all about furthering yourself, good for you, guy[0m
+[08:36] [0m[31;1m[Clan] Taleast :[0m stupid question, but the only difference between day 3 and[0m
+[08:36] [0m                 day 5 is ac, right?[0m
+[08:37] [0m[31;1m[Clan] Dangerzone :[0m i am but on my day's off with 1 assignment or assessment[0m
+[08:37] [0m                    a week that's due the following week. Up until last[0m
+[08:37] [0m                    week's assessment, I have been completing them quickly[0m
+[08:37] [0m                    and scoring 100%[0m
+[08:37] [0m[31;1m[Clan] Dangerzone :[0m shrug... probs and maybe higher stat boosts[0m
+[08:37] [0m[31;1m[Clan] Dangerzone :[0m never compared the two. I've only had day 5[0m
+[08:38] [0m[31;1m[Clan] Dangerzone :[0m unfortunately died too many times during a day 7 fight[0m
+[08:38] [0m                    that I was in the tomb when tags were handed out[0m
+[08:38] [0m[31;1m[Clan] Saim :[0m day5+ has better ac/boons and an invunerability power if you[0m
+[08:38] [0m              press the emblem, and day 7 is +xp[0m
+[08:39] [0m[31;1m[Clan] Saim :[0m i would like to get day 5, if someone could tank that at some[0m
+[08:39] [0m              point[0m
+[08:39] [0m[31;1m[Clan] Taleast :[0m I knew about the +xp but I had no idea about the invuln[0m
+[08:39] [0m                 emblem. Appreciate the info, Saim![0m
+[08:40] [0m[31;1m[Clan] Dangerzone :[0m same here saim! emblem, what? :)[0m
+[08:40] [0m[31;1m[Clan] Taleast :[0m to be clear I know the +xp is only day 7, I just got lazy[0m
+[08:40] [0m                 writing that[0m
+[08:40] [0m[31;1m[Clan] Saim :[0m yep try 'press emblem'[0m
+[08:40] [0m[31;1m[Clan] Taleast :[0m how often that reset?[0m
+[08:40] [0m[31;1m[Clan] Saim :[0m i think its like 10-20 rounds then it has to reset[0m
+[08:40] [0m[31;1m[Clan] Saim :[0m idk[0m
+[08:41] [0m[31;1m[Clan] Taleast :[0m cool cool cool, thanks[0m
+[08:41] [0m[31;1m[Clan] Oscar :[0m you dont have tags from last boot?[0m
+[08:43] [0m[31;1m[Clan] Saim :[0m i dont think i got them last boot...[0m
+[08:43] [0m[31;1m[Clan] Taleast :[0m want to test with my day 3?[0m
+[08:43] [0m[31;1m[Clan] Saim :[0m shouldnt be too hard to find someone to tank day 5[0m
+[08:43] [0m[31;1m[Clan] Taleast :[0m I'll put it in the box[0m
+[08:43] [0m[31;1m[Clan] Saim :[0m im pretty sure i didnt[0m
+[08:43] [0m[31;1m[Clan] Taleast :[0m in box if you want[0m
+[08:44] [0m[31;1m[Clan] Taleast :[0m eq[0m
+[08:44] [0m[31;1m[Clan] Taleast :[0m laf, disregard, morning brain[0m
+[08:44] [0m[31;1m[Clan] Taleast :[0m I'm so terrible at multitasking[0m
+[08:44] [0m[31;1m[Clan] Saim :[0m i just need a priest or a tank[0m
+[08:45] [0m[31;1m[Clan] Saim :[0m and can get it done[0m
+[08:45] [0m[31;1m[Clan] Taleast :[0m just one priest, or a young priest and an old priest?[0m
+[08:45] [0m[31;1m[Clan] Saim :[0m eww[0m
+[08:45] [0m[31;1m[Clan] Taleast :[0m laf, no, reference to The Exorcist[0m
+[08:45] [0m[31;1m[Clan] Saim :[0m ohh ahh...hmmm...[0m
+[08:45] [0m[31;1m[Clan] Taleast :[0m and Austin Powers 2[0m
+[08:46] [0m[31;1m[Clan] Taleast :[0m https://www.youtube.com/watch?v=PoosDbx2TCs[0m
+[08:57] [0m[31;1m[Clan] Taleast :[0m appreciate the info, sorry, work was distracting me[0m
+[09:09] [0m[31;1m[Clan] Taleast :[0m they got one for cmud, Simonz?[0m
+[09:09] [0m[31;1m[Clan] Taleast :[0m w/l[0m
+[09:09] [0m[31;1m[Clan] Aka :[0m i need that day 5 tag too if we can get fb murdering crew[0m
+[09:09] [0m[31;1m[Clan] Taleast :[0m agreed[0m
+[09:09] [0m[31;1m[Clan] Taleast :[0m doh, w/l again[0m
+[09:10] [0mYou can currently reforge 12 items.[0m
+[09:12] [0m[31;1m[Clan] Taleast :[0m there any way to get a good rifle at low levels in F76?[0m
+[09:12] [0m[31;1m[Clan] Taleast :[0m just using short hunting rifles currently and a snubnose[0m
+[09:12] [0m                 .44[0m
+[09:13] [0m[31;1m[Clan] Taleast :[0m trying to take notes and listen to guides/advice on youtube[0m
+[09:13] [0m                 while working, lol[0m
+[09:15] [0m[31;1m[Clan] Taleast :[0m sounds like I just need to tag some high-level monsters at[0m
+[09:15] [0m                 an event with other high level folks there for leveling[0m
+[09:16] [0m[31;1m[Clan] Taleast :[0m it sounds like leveling there is like leveling here, lol[0m
+[09:22] [0m[31;1m[Clan] Oscar :[0m I can tank it once I cler hotel[0m
+[09:23] [0m[31;1m[Clan] Saim :[0m kichi said he could too[0m
+[09:23] [0m[31;1m[Clan] Saim :[0m either way[0m
+[09:31] [0mYou can currently reforge 0 items.[0m
+[09:39] [0m[31;1m[Clan] Oscar :[0m ok[0m
+[09:40] [0m[31;1m[Clan] Oscar :[0m ready?[0m
+[09:40] [0m[31;1m[Clan] Saim :[0m yea[0m
+[09:40] [0m[31;1m[Clan] Saim :[0m let me finish this mob[0m
+[09:40] [0m[31;1m[Clan] Saim :[0m 3min[0m
+[09:47] [0m[31;1m[Clan] Saim :[0m ok[0m
+[09:47] [0m[31;1m[Clan] Saim :[0m lets do thi[0m
+[09:48] [0m[31;1m[Clan] Byron :[0m gonna wait if its just me and you for more people so i'm not[0m
+[09:48] [0m               tanking it again when aka/ser/etc come back[0m
+[09:48] [0m[31;1m[Clan] Byron :[0m haven't heard back from anyone[0m
+[09:48] [0m[31;1m[Clan] Dangerzone :[0m oh we doing this now? ok can I come?[0m
+[09:48] [0m[31;1m[Clan] Byron :[0m sure[0m
+[09:49] [0m[32;1mFrom afar, Saim grumbles at you.[0m[0m
+[09:50] [0m[37;1mByron flaps :[0m killing firebat if anyone wants day 5[0m
+[09:50] [0m[37;1mByron flaps :[0m no promises you or i live[0m
+[09:50] [0mYour transmuter's stone bursts with 4 new colours![0m
+[09:51] [0m[31;1m[Clan] Roken :[0m hpbar wonky[0m
+[09:52] [0m[31;1m[Clan] Byron :[0m you have an alias to walk here roken?[0m
+[09:53] [0m[31;1m[Clan] Taleast :[0m if you need it, 2e,2n,3w,3n,2w,n,w[0m
+[09:53] [0m[31;1m[Clan] Byron :[0m simonz coming too[0m
+[09:53] [0m[31;1m[Clan] Byron :[0m anyone else[0m
+[09:53] [0m[31;1m[Clan] Byron :[0m i need corpses[0m
+[09:53] [0m[31;1m[Clan] Byron :[0m so unwrap if you got em[0m
+[09:53] [0m[31;1m[Clan] Byron :[0m i got 0[0m
+[09:54] [0m[31;1m[Clan] Byron :[0m roken?[0m
+[09:54] [0m[31;1m[Clan] Roken :[0m got off at shuttle @ houston midway shuttle bay[0m
+[09:55] [0m[31;1m[Clan] Byron :[0m 3w/2d/west/enter pod[0m
+[09:55] [0m[31;1m[Clan] Byron :[0m then follow taleast's dirs[0m
+[09:56] [0m[31;1m[Clan] Byron :[0m res'd you[0m
+[09:56] [0m[35;1mSimonz [Jedi(Knight)]:[0m wrong FB, heh, use force cloak[0m
+[09:56] [0m[35;1mRoken [Jedi(86)]:[0m copy[0m
+[09:56] [0m[31;1m[Clan] Byron :[0m go to cot roken[0m
+[09:57] [0m[31;1m[Clan] Byron :[0m i'm outside shuttle[0m
+[09:57] [0m[31;1m[Clan] Taleast :[0m cryptwalk?[0m
+[09:57] [0m[31;1m[Clan] Byron :[0m when you get there[0m
+[09:57] [0m[31;1m[Clan] Byron :[0m nah, (summon[0m
+[09:57] [0m[31;1m[Clan] Roken :[0m um shoot, i was already walking[0m
+[09:57] [0m[31;1m[Clan] Byron :[0m just exit shuttle[0m
+[09:57] [0m[31;1m[Clan] Byron :[0m when you get here[0m
+[09:57] [0m[31;1m[Clan] Roken :[0m cloaking per simonz[0m
+[09:58] [0m[31;1m[Clan] Byron :[0m hold still[0m
+[09:58] [0m[31;1m[Clan] Byron :[0m you're already in here[0m
+[09:58] [0m[31;1m[Clan] Byron :[0m keep goin[0m
+[09:58] [0m[32mPrivate says: Do you have a smoke I can have?[0m[0m
+[09:58] [0m[31;1m[Clan] Byron :[0m i can't find you force cloak'd[0m
+[09:59] [0m[31;1m[Clan] Byron :[0m hold still[0m
+[09:59] [0m[31;1m[Clan] Byron :[0m sit at cemetery[0m
+[09:59] [0m[35;1mRoken [Jedi(86)]:[0m guess not must wait for next time to cloak when strolling. firebat just knows[0m
+[09:59] [0m                  now[0m
+[09:59] [0m[34;1mFlaxen shouts:[0m shout[0m
+[09:59] [0m[31;1m[Clan] Byron :[0m i'm outside cemetery[0m
+[09:59] [0m[33;1m[PARTY][0m Roken joins the party.[0m
+[10:00] [0m[33;1m[PARTY][0m Byron: dont move[0m
+[10:00] [0m[34;1mAlassra shouts:[0m let it all out[0m
+[10:00] [0m[33;1m[PARTY][0m Byron: ok[0m
+[10:00] [0m[33;1m[PARTY][0m Byron: ready?[0m
+[10:00] [0m[33;1m[PARTY][0m Roken: at cot[0m
+[10:00] [0m[33;1m[PARTY][0m Saim: yeo[0m
+[10:00] [0m[34;1mSpace shouts:[0m twist n[0m
+[10:00] [0m[33;1m[PARTY][0m Byron: no you're not[0m
+[10:00] [0m[33;1m[PARTY][0m Byron: you're in the room w us[0m
+[10:00] [0m[33;1m[PARTY][0m Saim: laf[0m
+[10:01] [0m[32mByron says:[0m gimme corpses[0m
+[10:01] [0m[32mByron says:[0m i got 0[0m
+[10:02] [0m[33;1m[PARTY][0m Byron: ewell'd[0m
+[10:02] [0m[33;1m[PARTY][0m Byron: cpain me[0m
+[10:03] [0m[33;1m[PARTY][0m Simonz: done[0m
+[10:04] [0m[33;1m[PARTY][0m Byron: toss me some corpses[0m
+[10:04] [0m[33;1m[PARTY][0m Simonz: I'm all out[0m
+[10:04] [0m[33;1m[PARTY][0m Byron: anyone else?[0m
+[10:04] [0m[33;1m[PARTY][0m Aka: hit you with 10[0m
+[10:04] [0m[33;1m[PARTY][0m Byron: perfect[0m
+[10:04] [0m[33;1m[PARTY][0m Aka: have 20 more up my butt[0m
+[10:04] [0m[33;1m[PARTY][0m Byron: i'll be set[0m
+[10:04] [0m[33;1m[PARTY][0m Byron: I fucked up and was in dmg / corpse burner mode[0m
+[10:05] [0m[33;1m[PARTY][0m Byron: so i ripped through like 12 of simonz's corpses[0m
+[10:05] [0m[33;1m[PARTY][0m Byron: in the first 15 rounds[0m
+[10:05] [0m[33;1m[PARTY][0m Aka: heh whoops[0m
+[10:05] [0m[33;1m[PARTY][0m Byron: ewell?[0m
+[10:05] [0m[33;1m[PARTY][0m Saim: on it[0m
+[10:06] [0m[32mByron says:[0m follow[0m
+[10:07] [0m[32;1mFrom afar, Byron pokes you in the ribs.[0m[0m
+[10:07] [0m[32mByron says:[0m follow[0m
+[10:07] [0m[33;1m[PARTY][0m Byron: nfi where OG is[0m
+[10:07] [0m[33;1m[PARTY][0m Aka: i got one from nightmare asylum boys[0m
+[10:07] [0m[33;1m[PARTY][0m Byron: nog[0m
+[10:08] [0m[33;1m[PARTY][0m Aka: fluffy/gaidin/hooligan[0m
+[10:08] [0m[33;1m[PARTY][0m Simonz: all good, I don't have a dupe ready anyways, I'll just[0m
+[10:08] [0m        pick up a spare tomorrow[0m
+[10:08] [0m[33;1m[PARTY][0m Byron: nog[0m
+[10:08] [0m[33;1m[PARTY][0m Byron: see ya[0m
+[10:08] [0m[33;1m[PARTY][0m Simonz has quit the party.[0m
+[10:08] [0m[33;1m[PARTY][0m Aka has quit the party.[0m
+[10:08] [0m[33;1m[PARTY][0m Byron has quit the party.[0m
+[10:08] [0m[33;1m[PARTY][0m Roken has quit the party.[0m
+[10:09] [0m[35;1mKsemia [Jedi(Master)]:[0m am I recalling correctly that the different traditions supply different[0m
+[10:09] [0m                       bonuses from battle meditation, or am I making that up?[0m
+[10:09] [0m[35;1mTaleast [Jedi(52)]:[0m sounds like you[0m
+[10:09] [0m[35;1mTaleast [Jedi(52)]:[0m I mean... of course not[0m
+[10:10] [0m[35;1mTaleast [Jedi(52)]:[0m honestly I didn't even know what it did until Hyuga used it the other day[0m
+[10:10] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[10:11] [0m[35;1mSimonz [Jedi(Knight)]:[0m how much did you get from hyuga or ukyo?[0m
+[10:11] [0m[35;1mWert [Jedi(Knight)]:[0m hyuga was 20[0m
+[10:11] [0m[35;1mKsemia [Jedi(Master)]:[0m ukyo gave +15 dex[0m
+[10:11] [0m[35;1mSimonz [Jedi(Knight)]:[0m same here for both[0m
+[10:11] [0m[31;1m[Clan] Taleast :[0m it seems completely superfluous, I like the idea, but the fact that you can't[0m
+[10:11] [0m                 be idle for it when it seems like something you'd do while idling...[0m
+[10:11] [0m[31;1m[Clan] Taleast :[0m w/l[0m
+[10:11] [0m[35;1mKsemia [Jedi(Master)]:[0m not sure what he has BM trained up to...[0m
+[10:11] [0m[35;1mTaleast [Jedi(52)]:[0m it seems completely superfluous, I like the idea, but the fact that you[0m
+[10:11] [0m                    can't be idle for it when it seems like something you'd do while idling...[0m
+[10:11] [0m[35;1mTaleast [Jedi(52)]:[0m think Hyuga gave +20[0m
+[10:11] [0m[31;1m[Clan] Saim :[0m anyone find OG?[0m
+[10:11] [0m[35;1mTaleast [Jedi(52)]:[0m oh, Wert said that[0m
+[10:11] [0m[35;1mTaleast [Jedi(52)]:[0m Happiness is having a large, loving, caring, close-knit family in another[0m
+[10:11] [0m                    city.[0m
+[10:12] [0m[31;1m[Clan] Taleast :[0m Hooligan and that clan have it[0m
+[10:12] [0m[35;1mSimonz [Jedi(Knight)]:[0m ukyo has BM at 15/20.  I'm guessing hyuga has it maxed[0m
+[10:13] [0m[35;1mKsemia [Jedi(Master)]:[0m so likely +1 per point...just curious about the traditions. they're both[0m
+[10:13] [0m                       pure jedi, no?[0m
+[10:14] [0m[35;1mSimonz [Jedi(Knight)]:[0m yup[0m
+[10:17] [0m[35;1mSeeker [Jedi(51)]:[0m i need a kick in the head[0m
+[10:18] [0m[35;1mSeeker [Jedi(51)]:[0m i study AT control pain to 20 but forgot to learn cpain 11[0m
+[10:19] [0m[35;1mSaim [Jedi(Elder)]:[0m doh[0m
+[10:19] [1;31;40m Auto Dissipate is [OFF]
+[10:19] [0m[35;1mSaim [Jedi(Elder)]:[0m maybe a nice teepo can teach you[0m
+[10:19] [0m[35;1mSaim [Jedi(Elder)]:[0m they might be able to if they have 12 cpain[0m
+[10:19] [0m[35;1mSaim [Jedi(Elder)]:[0m but maybe they need 13 --- too soon?[0m
+[10:19] [0m[35;1mSeeker [Jedi(51)]:[0m will that work[0m
+[10:20] [0m[35;1mWert [Jedi(Knight)]:[0m thats cruel saim[0m
+[10:20] [0m[35;1mEphemeral [Jedi(31)]:[0m yo![0m
+[10:20] [0m[35;1mWert [Jedi(Knight)]:[0m im staying in event now[0m
+[10:20] [0m[32mYou tell Gaidin:[0m may i dupe cmc 5?[0m
+[10:21] [0m[32;1mFrom afar, Gaidin nogs at you.[0m[0m
+[10:21] [0m[32mGaidin tells you:[0m SS[0m
+[10:21] [0m[32;1mFrom afar, you nog at Gaidin.[0m[0m
+[10:22] [0m[32;1mFrom afar, you bow to Gaidin.[0m[0m
+[10:22] [0m[32mYou tell Gaidin:[0m thank you sir![0m
+[10:25] [0m[35;1mSimonz [Jedi(Knight)]:[0m lol[0m
+[10:29] [0m[35;1mTaleast [Jedi(52)]:[0m sup, Ephemeral[0m
+[10:31] [0m[32mYou tell Simonz:[0m thinking about how to code auto dissipates triggered by the repeated hpbar[0m
+[10:31] [0m        away from the keys. worked well, like duh this will work. /ranting ugh sorry. I've been[0m
+[10:31] [0m        manually #NOP or */#NOP*/ the auto dis on shield or attack[0m
+[10:31] [0m[32mYou tell Simonz:[0m does your transmuting script involve regex?[0m
+[10:32] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[10:35] [0m[34;1mPirx shouts: [0mI love you.  You love... Oh God...just shoot me!![0m
+[10:35] [0m[34;1mSpace shouts:[0m done[0m
+[10:37] [0m[31;1m[Clan] Roken :[0m duped cmc from gaidin[0m
+[10:37] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[10:51] [0mYour transmuter's stone bursts with 5 new colours![0m
+[10:57] [0m[35;1mSally [Jedi(44)]:[0m anyone know combat days from 8 mastery to 9[0m
+[10:59] [0m[35;1mSimonz [Jedi(Knight)]:[0m no dara on thus, but it feels like it doubles every time[0m
+[10:59] [0m[35;1mSimonz [Jedi(Knight)]:[0m data[0m
+[11:01] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[11:06] [0m[31;1m[Clan] Xaro leaves the game.[0m  [0m
+[11:06] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[11:36] [0m[31;1m[Clan] Archimedes leaves the game.[0m  [0m
+[11:37] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[11:37] [0m[32mYou tell Simonz:[0m 94B tnl[0m
+[11:37] [0m[32;1mFrom afar, you grin at Simonz.[0m[0m
+[11:38] [0m[32mYou tell Simonz:[0m spent 182.4B on epowers[0m
+[11:49] [0m[32mVoodoo tells you:[0m Roken! I have great news! My mom said I can join your boy band.[0m
+[11:49] [0m[34;1mDin shouts:[0m we already have a bassist[0m
+[11:49] [0m[34;1mSeeker shouts:[0m haha[0m
+[11:50] [0m[34;1mKichi shouts:[0m bring the lube[0m
+[11:51] [0mYour transmuter's stone bursts with 3 new colours![0m
+[11:54] [0m[31;1m[Clan] Roken :[0m 94B tnl lol[0m
+[11:55] [0m[31;1m[Clan] Oscar :[0m anyone able to rally byron?[0m
+[11:56] [0m[31;1m[Clan] Saim :[0m i can meet you at tree entrance[0m
+[11:56] [0m[31;1m[Clan] Saim :[0m after this mob[0m
+[11:59] [0m[31;1m[Clan] Saim :[0m still need byron?[0m
+[11:59] [0m[31;1m[Clan] Byron :[0m yep[0m
+[11:59] [0m[31;1m[Clan] Saim :[0m err oscar[0m
+[11:59] [0m[31;1m[Clan] Saim :[0m mob is near ded[0m
+[11:59] [0m[31;1m[Clan] Saim :[0m brt[0m
+[11:59] [0m[31;1m[Clan] Byron :[0m k[0m
+[11:59] [0m[31;1m[Clan] Byron :[0m ty[0m
+[12:00] [0m[34;1mHooligan shouts:[0m how come i still get tells from voodoo even after tellblocking him like 25[0m
+[12:00] [0m                 years ago...[0m
+[12:00] [0m[34;1mKichi shouts:[0m his undying love for you is stronger than tellb[0m
+[12:00] [0m[34;1mInquisitor shouts:[0m Evil swamp magic?[0m
+[12:04] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[12:04] [0m[31;1m[Clan] Nik :[0m anyone wanna help me do day 5 fb pretty please?[0m
+[12:05] [0m[35;1mKsemia [Jedi(Master)]:[0m now's your chance....Durnoth is here to admit you to the Baadu[0m
+[12:05] [0m[35;1mTaleast [Jedi(52)]:[0m sounds like a lamb giving his opinion. How is that tradition? Not Baadu.[0m
+[12:07] [0m[35;1mKsemia [Jedi(Master)]:[0m we have the best parties in the west side of the guild....[0m
+[12:07] [0m[35;1mAl [Jedi(69)]:[0m its always tempting[0m
+[12:07] [0m[35;1mAl [Jedi(69)]:[0m but never *that* tempting[0m
+[12:08] [0m[35;1mAl [Jedi(69)]:[0m WESSSIDE-UH![0m
+[12:09] [0m[31;1m[Clan] Aka :[0m i'd def come hit when you get a crew together![0m
+[12:09] [0m[31;1m[Clan] Saim :[0m sure we can help when u are rdy[0m
+[12:10] [0m[31;1m[Clan] Saim :[0m i can tank if u get a priest[0m
+[12:14] [0m[35;1mSally [Jedi(44)]:[0m Al is the Jersey Shore of the guild[0m
+[12:27] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[12:32] [0m[31;1m[Clan] Saim :[0m oh...maybe the emblem only works for CMC 6+[0m
+[12:32] [0m[31;1m[Clan] Taleast :[0m I know it has a lifeline feature if you get close to death[0m
+[12:36] [0m[31;1m[Clan] Phenom leaves the game.[0m  [0m
+[12:36] [0m[31;1m[Clan] Roken :[0m and dmg deflection[0m
+[12:37] [0m[31;1m[Clan] Oscar :[0m day 6 has the no death[0m
+[12:38] [0m[31;1m[Clan] Oscar :[0m day 7 has xp[0m
+[12:38] [0m[31;1m[Clan] Oscar :[0m each day does add somethin[0m
+[12:38] [0m[31;1m[Clan] Oscar :[0m (refresh item + day 6/7 can give you 2 quick nds[0m
+[12:38] [0m[31;1m[Clan] Oscar :[0m If that's useful[0m
+[12:38] [0m[31;1m[Clan] Oscar :[0m super cheap at 1bil xp[0m
+[12:40] [0m[35;1mRoken [Jedi(86)]:[0m 75%tngl woo![0m
+[12:41] [0m[35;1mAl [Jedi(69)]:[0m Jersey Shore?  Naw, I'm Gulf Shore[0m
+[12:42] [0m[35;1mSimonz [Jedi(Knight)]:[0m I'm Shore Tired[0m
+[12:42] [0m[35;1mAl [Jedi(69)]:[0m I need Shore Leave[0m
+[12:46] [0m[35;1mAl [Jedi(69)]:[0m XP Per Hour:  -3,957,777[0m
+[12:46] [0m[32mSimonz tells you:[0m looks like it does use regex[0m
+[12:46] [0m[35;1mSally [Jedi(44)]:[0m luxury[0m
+[12:46] [0m[32mSimonz tells you:[0m check out the necromancer wiki's tintin scripts, that's where I got my[0m
+[12:46] [0m        crafting one[0m
+[12:47] [0m[32mSimonz tells you:[0m oh, my transmuting, sorry[0m
+[12:47] [0m[32mSimonz tells you:[0m no regex, just tintin pattern matching[0m
+[12:48] [0m[32;1mFrom afar, you go twosteppin with Simonz.[0m[0m
+[12:48] [0m[32;1mFrom afar, you thank Simonz.[0m[0m
+[12:50] [0m[35;1mKsemia [Jedi(Master)]:[0m that's not good...[0m
+[12:51] [0mYour transmuter's stone bursts with 5 new colours![0m
+[12:52] [0m[35;1mSaim [Jedi(Elder)]:[0m eh[0m
+[12:53] [0m[35;1mSaim [Jedi(Elder)]:[0m two insane dmg rounds[0m
+[12:53] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Big critters be doing that, yo.[0m
+[12:54] [0m[35;1mSimonz [Jedi(Knight)]:[0m terra be like that.  what scaler?[0m
+[12:54] [0m[35;1mSaim [Jedi(Elder)]:[0m 142[0m
+[12:54] [0m[35;1mSimonz [Jedi(Knight)]:[0m ......[0m
+[12:55] [0m[35;1mSimonz [Jedi(Knight)]:[0m wow.  Yeah, she gets me at 135[0m
+[12:55] [0m[35;1mSaim [Jedi(Elder)]:[0m terra is a chick, nice[0m
+[12:55] [0m[35;1mSaim [Jedi(Elder)]:[0m never looked below[0m
+[12:56] [0m[31;1m[Clan] Bruce :[0m anyone have day 5, or want to kill day 5?[0m
+[12:57] [0m[35;1mSimonz [Jedi(Knight)]:[0m lol[0m
+[13:00] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[13:01] [0mnewb Avalin [necromancer/35]: why am I seeing a greater than sign after every movement?[0m
+[13:01] [0mnewb Avalin [necromancer/35]: oh my fault[0m
+[13:02] [0mnewb Arahnapogue [necromancer/135]: that's your prompt. that let's you know you can type[0m
+[13:02] [0m                                    something[0m
+[13:05] [0mnewb Zerg [fremen/83]: help prompt[0m
+[13:05] [0mnewb Terran [gentech/105]: i like prompt $nl$[0m
+[13:19] [0m[32mYou say:[0m GV/3[0m
+[13:25] [0m[31;1m[Clan] Roken :[0m umm bot doesn't like this #act trigger on '#act{^[MoNSTaR]Roken's GV/3 Guardian[0m
+[13:25] [0m               Droid Darth.$} {#nop} {0}'[0m
+[13:25] [0m[31;1m[Clan] Roken :[0m gaidin has day 5[0m
+[13:27] [0m[31;1m[Clan] Roken :[0m have all droids like that[0m
+[13:28] [0m[31;1m[Clan] Oscar :[0m gotta escape the /[0m
+[13:29] [0m[31;1m[Clan] Oscar :[0m GC/3[0m
+[13:29] [0m[31;1m[Clan] Oscar :[0m and a say golem, defend me[0m
+[13:29] [0m[31;1m[Clan] Oscar :[0m add a \[0m
+[13:29] [0m[31;1m[Clan] Oscar :[0m before the /[0m
+[13:29] [0m[31;1m[Clan] Roken :[0m tried with escape[0m
+[13:30] [0m[31;1m[Clan] Oscar :[0m Or just do Roken's%* Darth.$[0m
+[13:30] [0m[31;1m[Clan] Oscar :[0m Or w/o darth[0m
+[13:30] [0m[31;1m[Clan] Oscar :[0m For my palyerchecks I usually just do %*Name%*.$[0m
+[13:30] [0m[31;1m[Clan] Roken :[0m ok thank you[0m
+[13:33] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[13:35] [0m[31;1m[Clan] Roken :[0m tintin obviously broken :D still not working and trying another new droid[0m
+[13:35] [0m               [MoNSTaR]Roken's Krath War Droid Darth.[0m
+[13:37] [0m[31;1m[Clan] Roken :[0m fuggit i'll grab an already coded one which doesn't make sense when the template[0m
+[13:37] [0m               has worked for many other droids[0m
+[13:38] [0m[31;1m[Clan] Roken :[0m nvm idk debug this[0m
+[13:40] [0m[31;1m[Clan] Oscar :[0m If you're just trying to ignore it[0m
+[13:40] [0m[31;1m[Clan] Oscar :[0m try...[0m
+[13:41] [0m[31;1m[Clan] Oscar :[0m #act {^[MoNSTaR]Roken's%*.$} {#NOP} 0[0m
+[13:48] [0m[31;1m[Clan] Roken :[0m hmmm[0m
+[13:51] [0mYour transmuter's stone bursts with 2 new colours![0m
+[13:54] [0m[31;1m[Clan] Oscar :[0m no?[0m
+[13:55] [0m[31;1m[Clan] Oscar :[0m #debug all[0m
+[13:55] [0m[31;1m[Clan] Oscar :[0m and poke[0m
+[14:00] [0m[31;1m[Clan] Roken :[0m wow here it is.. my prompt was changed[0m
+[14:00] [0m[31;1m[Clan] Oscar :[0m go go gadget debug[0m
+[14:01] [0m[31;1m[Clan] Roken :[0m interesting[0m
+[14:01] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[14:06] [0m[31;1m[Clan] Roken :[0m suggestions for ending an action after a spell has been attempted a few times?[0m
+[14:06] [0m               #loop?[0m
+[14:09] [0m[31;1m[Clan] Oscar :[0m why are you ending the action?[0m
+[14:09] [0m[31;1m[Clan] Oscar :[0m or no longer perfoming the spell?[0m
+[14:11] [0m[31;1m[Clan] Roken :[0m so if I tried to peace a mob but fails repeatedly, I won't be using all my[0m
+[14:11] [0m               resources trying. I think I can do #while and #break[0m
+[14:17] [0m[31;1m[Clan] Oscar :[0m Do you get a response when you can't peace the mob?[0m
+[14:18] [0m[31;1m[Clan] Roken :[0m ya i use that statement to try again. is while and break the easier way to stop[0m
+[14:18] [0m               the trigger?[0m
+[14:21] [0m[31;1m[Clan] Oscar :[0m I would assume the failure message would mean stop peacing the mob?[0m
+[14:21] [0m[31;1m[Clan] Oscar :[0m Instead of try again (and fail again?)[0m
+[14:23] [0m[31;1m[Clan] Roken :[0m f-ck almost died lol need to escape that msg[0m
+[14:24] [0m[31;1m[Clan] Roken :[0m oh i see heh[0m
+[14:24] [0m[31;1m[Clan] Roken :[0m maybe your chatlog missed it too[0m
+[14:24] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[14:25] [0m[31;1m[Clan] Oscar :[0m How are you deciding to peace the mob?[0m
+[14:26] [0m[31;1m[Clan] Roken :[0m x Hp[0m
+[14:26] [0m[31;1m[Clan] Oscar :[0m and in your heartbeat, #if $no_peace <do this> <peace>[0m
+[14:27] [0m[31;1m[Clan] Oscar :[0m and to your killing blow add #var no_peace 0[0m
+[14:27] [0m[31;1m[Clan] Oscar :[0m a useful alias is some sort of "reset mob variables"[0m
+[14:28] [0m[31;1m[Clan] Roken :[0m this off the cuff or something you use?[0m
+[14:28] [0m[31;1m[Clan] Roken :[0m thank you oscar[0m
+[14:32] [0m[31;1m[Clan] Oscar :[0m i don't peace mobs, I die :P[0m
+[14:33] [0m[31;1m[Clan] Oscar :[0m I do use a "pre fight check" alias, and a cleanup of sorts when mobs die[0m
+[14:33] [0m[31;1m[Clan] Oscar :[0m So I can config it across all my chars[0m
+[14:34] [0m[31;1m[Clan] Oscar :[0m do x when initiating combat (sets up defenses, make sure you have x hps, yadda),[0m
+[14:34] [0m               do y when mob dies[0m
+[14:37] [0m[35;1mSimonz [Jedi(Knight)]:[0m couple hundred fragments in if anyone was looking for something in[0m
+[14:37] [0m                       particular[0m
+[14:38] [0m[31;1m[Clan] Roken :[0m something like that but so far no setup configs for bsingers or jedi. Jedi is[0m
+[14:38] [0m               dumbed down when I can 'maintain' defenses[0m
+[14:38] [0m[31;1m[Clan] Roken :[0m something to look forward to with the bard 'geralt'?[0m
+[14:39] [0m[31;1m[Clan] Oscar :[0m You can have my bard setup, I think every bard in this clan uses it :D[0m
+[14:43] [0m[32;1mFrom afar, you go 'Woo Woo!' at Oscar.[0m[0m
+[14:43] [0m[31;1m[Clan] Roken :[0m woo! Any use in the early glvls?[0m
+[14:44] [0m[31;1m[Clan] Oscar :[0m It'll keep your defenses up[0m
+[14:44] [0m[31;1m[Clan] Oscar :[0m So, ya[0m
+[14:44] [0m[31;1m[Clan] Oscar :[0m It uses MIP as well[0m
+[14:44] [0m[31;1m[Clan] Oscar :[0m So bit different than maybe what you're using[0m
+[14:44] [0m[31;1m[Clan] Roken :[0m oh, no MIP here[0m
+[14:45] [0m[31;1m[Clan] Oscar :[0m it sets it all up automagically[0m
+[14:45] [0m[31;1m[Clan] Oscar :[0m you literally login, type 'defaults_on'[0m
+[14:45] [0m[31;1m[Clan] Oscar :[0m And you're dropped it[0m
+[14:45] [0m[31;1m[Clan] Oscar :[0m in*[0m
+[14:46] [0m[31;1m[Clan] Oscar :[0m YOu can do that w/ all the gobjs I have setup... so my mage/gentech/etc.[0m
+[14:47] [0m[35;1mSally [Jedi(44)]:[0m Al, who has mastered lesser force shield?[0m
+[14:47] [0m[35;1mAl [Jedi(69)]:[0m Tobias, Talia mastered lesser force shield[0m
+[14:50] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[14:51] [0mYour transmuter's stone bursts with 5 new colours![0m
+[14:52] [0m[31;1m[Clan] Aka :[0m any bard alt available to sing me some boosting songs? i'm gonna try 91 death taco[0m
+[14:52] [0m             again[0m
+[14:55] [0m[31;1m[Clan] Roken :[0m mip screenshot, oscar?[0m
+[15:05] [0m[31;1m[Clan] Oscar :[0m sure in a few[0m
+[15:06] [0m[31;1m[Clan] Sock wiggles off your foot.[0m  [0m
+[15:13] [0m[37;1mRoken flaps :[0m resetting hotel in a few, send a tell![0m
+[15:13] [0m[32mTerran tells you:[0m omw =)[0m
+[15:13] [0m[32mKsemia tells you:[0m i'm in....on my way[0m
+[15:14] [0m[32;1mFrom afar, Simonz goes 'oOOOOOOoOooOoOOoOoOoooO!!!!!!!!' at you.[0m[0m
+[15:14] [0m[32mSimonz tells you:[0m brt[0m
+[15:14] [0m[32mTerran tells you:[0m could syreth/I get an inveite?[0m
+[15:15] [0m[32mSyreth tells you:[0m is it too late to join for hotel reset?[0m
+[15:15] [0m[32mYou tell Terran:[0m ya come along[0m
+[15:15] [0m[32mSimonz says:[0m  rally?[0m
+[15:15] [0m[32mYou tell Syreth:[0m come along pls[0m
+[15:15] [0m[33;1m[PARTY][0m Lost our leader![0m
+[15:15] [0m[33;1m[PARTY][0m New leader for the party: roken.[0m
+[15:15] [0m[33;1m[PARTY][0m Simonz joins the party.[0m
+[15:16] [0m[33;1m[PARTY][0m Syreth joins the party.[0m
+[15:16] [0m[33;1m[PARTY][0m Terran joins the party.[0m
+[15:16] [0m[33;1m[PARTY][0m Ksemia joins the party.[0m
+[15:16] [0m[33;1m[PARTY][0m Roken: that everyone? everyone that did send a tell[0m
+[15:16] [0m[33;1m[PARTY][0m Terran: i suppose, i dont know of anyone else[0m
+[15:16] [0m[37;1mRoken flaps :[0m done[0m
+[15:17] [0m[33;1m[PARTY][0m Terran has quit the party.[0m
+[15:17] [0m[33;1m[PARTY][0m Roken has quit the party.[0m
+[15:17] [0m[32mWhoknows tells you:[0m snap[0m
+[15:17] [1;37;40m set to 1 hour Idle Timeout
+[15:17] [0m[32mWhoknows tells you:[0m was just about tot ype lol[0m
+[15:17] [0m[31;1m[Clan] Archimedes enters the game.[0m  [0m
+[15:17] [0m[32;1mFrom afar, you apologize to Whoknows.[0m[0m
+[15:17] [0m[32mYou tell Simonz:[0m heh after i said 'done' whoknows came to lol[0m
+[15:19] [0m[32;1mFrom afar, Simonz thanks you.[0m[0m
+[15:19] [0m[34;1mNik shouts:[0m playcult like you enjoy peanut butter and mayo samiches[0m
+[15:19] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[15:21] [0m[31;1m[Clan] Oscar :[0m Ok.... Aka can sing you up if you need it[0m
+[15:22] [0m[31;1m[Clan] Byron :[0m ss[0m
+[15:22] [0m[31;1m[Clan] Byron :[0m got discord or something roken?[0m
+[15:22] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[15:25] [0m[31;1m[Clan] Roken :[0m yes discord: roken47#xxxx idk not home[0m
+[15:29] [0m[37;1mAl flaps :[0m considering getting my wife an espresso machine--any recommendations?[0m
+[15:29] [0m[37;1mSquirrel flaps :[0m krupps[0m
+[15:29] [0m[37;1mGaidin flaps :[0m Get a wife with cheaper tastes.[0m
+[15:29] [0m[37;1mGilneas flaps :[0m make sure she's italian, big chest, small morals. your wife won't mind.[0m
+[15:29] [0m[37;1mEnder flaps :[0m That's me to a T[0m
+[15:29] [0m[37;1mSally flaps :[0m she takes her coffee black,  like her men[0m
+[15:30] [0m[37;1mWhoknows flaps :[0m nesspresso[0m
+[15:30] [0m[37;1mVoodoo flaps :[0m she can live with me for a while, then she'll be happy with tap water[0m
+[15:30] [0m[37;1mWhoknows flaps :[0m love mine[0m
+[15:30] [0m[37;1mAl flaps :[0m i was gonna avoid the nespresso only because of the pod situation--i was hoping to[0m
+[15:30] [0m           keep using our lavazza[0m
+[15:30] [0m[37;1mAl flaps :[0m its true, sally[0m
+[15:34] [0m[37;1mAl flaps :[0m Gil, i like the way you think[0m
+[15:34] [0m[37;1mSquirrel flaps :[0m LOL voodoo would drill for oil[0m
+[15:37] [0m[37;1mGilneas flaps :[0m better if she speaks 0 english[0m
+[15:50] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[15:51] [0mYour transmuter's stone bursts with 3 new colours![0m
+[15:51] [0m[31;1m[Clan] Aka :[0m gotter! new bk[0m
+[15:51] [0m[31;1m[Clan] Taleast :[0m woot![0m
+[15:52] [0m[32;1mFrom afar, you go 'Woo Woo!' at Aka.[0m[0m
+[15:52] [0m[31;1m[Clan] Aka :[0m used considerably less corpses than i thought i would[0m
+[15:55] [0m[32;1mFrom afar, you flex your steroid-sucking, no-necked,[0m
+[16:05] [0m[32;1mFrom afar, Simonz raises an eyebrow at you.[0m[0m
+[16:06] [0m[31;1m[Clan] Dayland leaves the game.[0m  [0m
+[16:09] [0m[32mYou tell Simonz:[0m woo! ONE MORE CON POINT[0m
+[16:10] [0m[34;1mFlaxen shouts:[0m eeeeeps[0m
+[16:10] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[16:10] [0m[32mSimonz tells you:[0m 8 more dex to max[0m
+[16:12] [0m[32mYou tell Simonz:[0m wis and dex max next lvl *grin*[0m
+[16:12] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[16:12] [0m[32mSimonz tells you:[0m after those dex, 27 con points and I'm at max there too.  I'll have a few[0m
+[16:12] [0m        points left to dump into str/int[0m
+[16:19] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[16:24] [0m[35;1mTaleast [Jedi(52)]:[0m woot![0m
+[16:25] [0m[35;1mSimonz [Jedi(Knight)]:[0m I can't do that until next gl =([0m
+[16:25] [0m[35;1mSimonz [Jedi(Knight)]:[0m unless Adalius in his infinite mercy gave me a skill reset =)=)=)[0m
+[16:26] [0m[35;1mSimonz [Jedi(Knight)]:[0m because he's super awesome like that[0m
+[16:26] [0m[35;1mSally [Jedi(44)]:[0m nice[0m
+[16:26] [0m[31;1m[Clan] Ser :[0m fyi my vps bill this month is $0.08[0m
+[16:26] [0m[31;1m[Clan] Ser :[0m that's hosting the wiki and playing 3k[0m
+[16:49] [0m[31;1m[Clan] Oscar :[0m on google free tier?[0m
+[16:52] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[17:05] [0mYour transmuter's stone bursts with 5 new colours![0m
+[17:07] [0m[31;1m[Clan] Ser :[0m yeah[0m
+[17:11] [0m[35;1mEnder [Jedi(Knight)]:[0m sweet just did over 4k damage in one round with an erad.[0m
+[17:11] [0m[35;1mEnder [Jedi(Knight)]:[0m personal best:)[0m
+[17:11] [0m[35;1mTaleast [Jedi(52)]:[0m grats![0m
+[17:12] [0m[35;1mEnder [Jedi(Knight)]:[0m just got tactician as well so its probably when that and magician are[0m
+[17:12] [0m                      going[0m
+[17:20] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[17:27] [0m[34;1mTex shouts:[0m its evil  You may advance 666 stats at your current level.[0m
+[17:50] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[17:53] [0m[34;1mCrolack shouts:[0m put it all in cha[0m
+[17:54] [0m[34;1mTex shouts:[0m ill leave my cha at 1[0m
+[18:05] [0m[35;1mSimonz [Jedi(Knight)]:[0m I wonder if you can commune with multiple jedi running battle[0m
+[18:05] [0m                       meditation...[0m
+[18:06] [0m[35;1mSally [Jedi(44)]:[0m if each are sacrificing to do it -- I hope you could[0m
+[18:12] [0m[31;1m[Clan] Oscar :[0m oh wow, voodoo in gnome suit[0m
+[18:13] [0m[31;1m[Clan] Taleast :[0m he wore pants[0m
+[18:13] [0mYour transmuter's stone bursts with 6 new colours![0m
+[18:13] [0m[31;1m[Clan] Archangel :[0m What can he tank?[0m
+[18:14] [0m[31;1m[Clan] Oscar :[0m i mean, he can tank everthing as sallie[0m
+[18:14] [0m[31;1m[Clan] Oscar :[0m I assume it's because he hasn't been making gxp as sallie[0m
+[18:16] [0m[31;1m[Clan] Ser :[0m what are you guys doin[0m
+[18:17] [0m[31;1m[Clan] Archangel :[0m Who?[0m
+[18:19] [0m[31;1m[Clan] Oscar :[0m killin chessboard[0m
+[18:20] [0m[31;1m[Clan] Ser :[0m voodoo?[0m
+[18:22] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[18:41] [0m[32mYou say:[0m goto zel[0m
+[18:45] [0m[35;1mAl [Jedi(69)]:[0m dropped a couple hundred frags in the box too[0m
+[18:45] [0m[35;1mInquisitor [Jedi(Knight)]:[0m You crazy BS kids who get lots of frags.[0m
+[18:56] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[18:56] [0m[35;1mTaleast [Jedi(52)]:[0m you still looking for Bithoff, Inquisitor?[0m
+[18:56] [0m[35;1mAl [Jedi(69)]:[0m i just pinged him about it too, heh[0m
+[19:03] [0m[35;1mMichael [Jedi(65)]:[0m I need Talia![0m
+[19:13] [0mYour transmuter's stone bursts with 5 new colours![0m
+[19:26] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[19:36] [0m[35;1mAl [Jedi(69)]:[0m booooooo[0m
+[19:36] [0m[35;1mAl [Jedi(69)]:[0m i'll never catch up if you keep doing that[0m
+[19:38] [0m[35;1mTaleast [Jedi(52)]:[0m Woot! Grats, Wert[0m
+[19:39] [0m[35;1mAl [Jedi(69)]:[0m stop egging him on, i'll never catch up at this rate :)[0m
+[19:54] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[19:57] [0m[35;1mKsemia [Jedi(Master)]:[0m rehi[0m
+[19:57] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Northern Hills of[0m
+[19:57] [0m                          Fantasy!  We are localizing it now - get ready![0m
+[19:57] [0m[35;1mSimonz [Jedi(Knight)]:[0m Grats Wert, keep it up!  =)[0m
+[20:01] [0m[31;1m[Clan] Oscar :[0m If anyone runs a big(ger) treehouse, I want to see if I can slow those mobs in[0m
+[20:01] [0m               there.[0m
+[20:02] [0m[31;1m[Clan] Oscar :[0m If I can... would be BS and probably let you max the scaler[0m
+[20:04] [0m[31;1m[Clan] Oscar :[0m guessi can steal byrons[0m
+[20:05] [0m[31;1m[Clan] Taleast :[0m sorry, bro, I don't even run treehouse becaue I don't have the tanking[0m
+[20:05] [0m[31;1m[Clan] Taleast :[0m more than welcome to use mine though if you don't need a tank[0m
+[20:05] [0m[31;1m[Clan] Oscar :[0m Nog, I doubt anyone has theirs open[0m
+[20:05] [0m[31;1m[Clan] Oscar :[0m So no harm[0m
+[20:05] [0m[31;1m[Clan] Oscar :[0m I used byrons[0m
+[20:06] [0m[31;1m[Clan] Oscar :[0m fuck yes[0m
+[20:06] [0m[31;1m[Clan] Oscar :[0m slow'd em[0m
+[20:06] [0m[31;1m[Clan] Oscar :[0m scaler 145[0m
+[20:06] [0m[31;1m[Clan] Oscar :[0m can't stun them[0m
+[20:06] [0m[31;1m[Clan] Oscar :[0m but can cut their attacks in 1/2[0m
+[20:06] [0m[31;1m[Clan] Taleast :[0m very nice[0m
+[20:07] [0m[31;1m[Clan] Oscar :[0m slow is amazing[0m
+[20:07] [0m[31;1m[Clan] Taleast :[0m course there's still the special[0m
+[20:07] [0m[31;1m[Clan] Oscar :[0m ya, but i'm hiding behind my golem :D[0m
+[20:07] [0m[31;1m[Clan] Taleast :[0m isn't that what most people have trouble with? the special?[0m
+[20:07] [0m[31;1m[Clan] Oscar :[0m that thing eats specials for breakfast[0m
+[20:07] [0m[31;1m[Clan] Oscar :[0m I want to try having a priest heal my golem heh[0m
+[20:08] [0m[31;1m[Clan] Oscar :[0m sexy[0m
+[20:08] [0m[31;1m[Clan] Oscar :[0m good to know[0m
+[20:08] [0m[31;1m[Clan] Oscar :[0m back to chessboard now :D[0m
+[20:08] [0m[31;1m[Clan] Oscar :[0m Soon as the golem dies, I'd get blicked from my super shit e/b tanking[0m
+[20:13] [0mYour transmuter's stone bursts with 4 new colours![0m
+[20:15] [0m[31;1m[Clan] Oscar :[0m i might've just figured out how to do zelligars as a mage too[0m
+[20:18] [0m[31;1m[Clan] Oscar :[0m sweet[0m
+[20:18] [0m[31;1m[Clan] Oscar :[0m works heh[0m
+[20:19] [0m[31;1m[Clan] Oscar :[0m but...major problem is my own golem[0m
+[20:19] [0m[31;1m[Clan] Oscar :[0m    39731784 : El Jefe (wood Golem)[0m
+[20:20] [0m[31;1m[Clan] Oscar :[0m holy fuck[0m
+[20:20] [0m[31;1m[Clan] Oscar :[0m my mage golem is a 40mil beefcake[0m
+[20:20] [0m[37;1mInfectious flaps :[0m reset swang by[0m
+[20:20] [0m[37;1mInfectious flaps :[0m zambies[0m
+[20:20] [0m[37;1mSamiel flaps :[0m how exactly does one 'swang'?[0m
+[20:20] [0m[31;1m[Clan] Archangel :[0m Event portal: Ant hole/w corroding[0m
+[20:20] [0m[37;1mInfectious flaps :[0m you swing but swang[0m
+[20:20] [0m[37;1mArchangel flaps :[0m Event portal: Ant hole/w corroding[0m
+[20:21] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[20:22] [0m[37;1mInfectious flaps :[0m resetted[0m
+[20:23] [0m[31;1m[Clan] Taleast :[0m BEEFCAKE![0m
+[20:24] [0m[31;1m[Clan] Oscar :[0m BEEF BEEF BEEF[0m
+[20:24] [0m[31;1m[Clan] Oscar :[0m So, I was able to polymorph golems onto each other when they summon[0m
+[20:24] [0m[31;1m[Clan] Oscar :[0m But, my own golem id'ing to golem makes it a total clusterfuck[0m
+[20:24] [0m[31;1m[Clan] Oscar :[0m But, stealing Byron's zelligar dungeon gives me a fuckton of like 8-9mils[0m
+[20:26] [0m[31;1m[Clan] Oscar :[0m Downside is they fuck me up on entry and polymorph is kinda tricky...cause my[0m
+[20:26] [0m               golems id to rope golem/wood golem/etc as well laf[0m
+[20:26] [0m[31;1m[Clan] Taleast :[0m with day 5 I'm doing my max scaler zelligar golems, level 124[0m
+[20:27] [0m[37;1mOscar flaps :[0m Does anyone know if there is another identifier for zelligar's golems?  Something[0m
+[20:27] [0m              that wouldn't clash with my mage golem heh[0m
+[20:28] [0m[37;1mSimonz flaps :[0m dunno.  even zelligar id's as a golem, heh[0m
+[20:28] [0m[37;1mOscar flaps :[0m was hoping for creature or creation or somethin, but nada[0m
+[20:28] [0m[37;1mXiu flaps :[0m you can probably specify them as "straw, steel" ect golem but you'd have to set up a[0m
+[20:28] [0m            system to deal with the RNGness of what each room's golems are[0m
+[20:28] [0m[37;1mOscar flaps :[0m My golems also id to that stuff :/[0m
+[20:28] [0m[37;1mOscar flaps :[0m flesh, straw, etc[0m
+[20:39] [0m[31;1m[Clan] Oscar :[0m you slutty jedis and your stats[0m
+[20:40] [0m[37;1mXiu flaps :[0m i guess the best way is just to use numbers. if you have X golem followers then[0m
+[20:40] [0m            golem already in the room should be "golem X+1" and when/if it summons aid the new[0m
+[20:40] [0m            one will be "golem 1" because it just arrived.[0m
+[20:41] [0m[37;1mOscar flaps :[0m Yeah, it's more just missing the golem calling a friend in and then I'm trying to[0m
+[20:41] [0m              attack golem 2 and golem 2 is now my familiar[0m
+[20:43] [0m[37;1mXiu flaps :[0m sounds like mages need to be able to idset their summons heh, could use unique[0m
+[20:43] [0m            strings so that it'd never clash with a mob[0m
+[20:56] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[21:04] [0m[35;1mSimonz [Jedi(Knight)]:[0m woot![0m
+[21:10] [0m[35;1mEnder [Jedi(Knight)]:[0m like a tease, 2 glvls before I can actually max one of those out:)[0m
+[21:10] [0m[35;1mSimonz [Jedi(Knight)]:[0m lol[0m
+[21:10] [0m[35;1mSimonz [Jedi(Knight)]:[0m nod.  I need one more gl before I have enough skill points to AT LSC[0m
+[21:10] [0m                       again[0m
+[21:11] [0m[35;1mEnder [Jedi(Knight)]:[0m you can do ATs again?[0m
+[21:11] [0m[35;1mEnder [Jedi(Knight)]:[0m oh tradition[0m
+[21:11] [0m[35;1mSimonz [Jedi(Knight)]:[0m I left teepo, yeah[0m
+[21:12] [0m[35;1mSimonz [Jedi(Knight)]:[0m unless Adalius in his infinite mercy grants me a skill reset, cause he's[0m
+[21:12] [0m                       awesome like that =)[0m
+[21:12] [0m[35;1mEnder [Jedi(Knight)]:[0m He said one is coming. In like 1-10 years...[0m
+[21:18] [0m[31;1m[Clan] Nix :[0m what's ladies[0m
+[21:18] [0m[31;1m[Clan] Nix :[0m what's up rather[0m
+[21:18] [0m[35;1mAdalius [Jedi(WGM)]:[0m :P Depending on how the skill changes play :P[0m
+[21:18] [0m[31;1m[Clan] Nik :[0m ayyyo Nix![0m
+[21:19] [0m[31;1m[Clan] Nix :[0m been MIA sorry =P[0m
+[21:19] [0m[35;1mSimonz [Jedi(Knight)]:[0m quick, everyone leave or join a trad so we all need resets![0m
+[21:19] [0m[35;1mWert [Jedi(Knight)]:[0m oo some of our "more unique" skills are coming good?[0m
+[21:23] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[21:39] [0m[35;1mSally [Jedi(44)]:[0m skill changes ?[0m
+[21:39] [0m[35;1mSimonz [Jedi(Knight)]:[0m I think adalius was talking about the trad skill bonus changes that[0m
+[21:39] [0m                       happened last week.  I don't think there are any core changes to the[0m
+[21:39] [0m                       skills themselves[0m
+[21:39] [0m[35;1mSally [Jedi(44)]:[0m ok[0m
+[21:40] [0m[35;1mSally [Jedi(44)]:[0m good I like the guild the way it is[0m
+[21:40] [0m[35;1mSally [Jedi(44)]:[0m very cool and fun to play[0m
+[21:40] [0m[35;1mKsemia [Jedi(Master)]:[0m rancors...the witches are getting rancors....[0m
+[21:40] [0m[35;1mKsemia [Jedi(Master)]:[0m ^fake news[0m
+[21:40] [0m[35;1mSimonz [Jedi(Knight)]:[0m well, there's also the possibility of a recode in the next 1-10 years ;)[0m
+[21:42] [0m[35;1mSimonz [Jedi(Knight)]:[0m I'd like to have a droid that's like a familiar that's always available,[0m
+[21:42] [0m                       and I spend money/skill points or something to upgrade him to my[0m
+[21:42] [0m                       specifications, I think that'd be awesome[0m
+[21:47] [0m[35;1mAdalius [Jedi(WGM)]:[0m Simonz, when I was about... oh.. 95% done with droids I thought about that[0m
+[21:47] [0m                     kind of a system, and its in my notes for the recode :( but I had all the[0m
+[21:47] [0m                     work done on these and people needed something 'new' around here so I[0m
+[21:47] [0m                     pushed through it[0m
+[21:47] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[21:47] [0m[35;1mSimonz [Jedi(Knight)]:[0m ahh, gotcha[0m
+[21:48] [0m[35;1mKsemia [Jedi(Master)]:[0m i like these, at least the ones i've seen thus far....fwiw[0m
+[21:48] [0m[35;1mKsemia [Jedi(Master)]:[0m but that would be a fun system.[0m
+[21:49] [0mYour transmuter's stone bursts with 4 new colours![0m
+[21:51] [0m[37;1mAlassra flaps :[0m zombie reset incoming![0m
+[21:54] [0m[37;1mAlassra flaps :[0m reset![0m
+[21:58] [0m[35;1mTaleast [Jedi(52)]:[0m Well, that's enough for one day. Night folks.[0m
+[21:58] [0m[31;1m[Clan] Taleast :[0m night, everyone[0m
+[22:07] [0m[32mSimonz tells you:[0m heh, just got dex 269, I might get those last 6 points before I manage to[0m
+[22:07] [0m        get fdef 13, heh[0m
+[22:08] [0m[32mSimonz tells you:[0m XP Gain for the last 30 minutes: 591,806,521[0m
+[22:08] [0m[32mSimonz tells you:[0m get yourself some damage behind you and go do terra's treehouse, it's[0m
+[22:08] [0m        awesome[0m
+[22:24] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[22:26] [0m[37;1mSimonz flaps :[0m hotel reset incoming in 5-10min[0m
+[22:26] [0m[34;1mOgotaz shouts:[0m Thank you Toren for your parsimonious contribution towards Bless![0m
+[22:29] [0m[33;1m[PARTY][0m Roken joins the party.[0m
+[22:29] [0m[33;1m[PARTY][0m Alassra: figure I might as well get a reset on the stuff I cleared[0m
+[22:29] [0m         hah[0m
+[22:29] [0m[33;1m[PARTY][0m Ksemia joins the party.[0m
+[22:30] [0m[33;1m[PARTY][0m Simonz: heh[0m
+[22:30] [0m[33;1m[PARTY][0m Vagrant joins the party.[0m
+[22:30] [0m[37;1mSimonz flaps :[0m last call, holler if you're coming[0m
+[22:31] [0m[33;1m[PARTY][0m Nik joins the party.[0m
+[22:31] [0m[33;1m[PARTY][0m Vagrant has quit the party.[0m
+[22:31] [0m[33;1m[PARTY][0m Turak has quit the party.[0m
+[22:31] [0m[33;1m[PARTY][0m Alassra has quit the party.[0m
+[22:31] [0m[33;1m[PARTY][0m Ksemia has quit the party.[0m
+[22:32] [0m[33;1m[PARTY][0m Nik has quit the party.[0m
+[22:32] [0m[33;1m[PARTY][0m Roken is being booted from the party.[0m
+[22:43] [0m[34;1mBrasky shouts:[0m 0h[0m
+[22:49] [0m[34;1mTex shouts:[0m i got 3 words for thats really one finished oak cabinets[0m
+[22:56] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[23:13] [0m[34;1mGumby shouts:[0m bad wyvern![0m
+[23:13] [0m[34;1mMalachi shouts:[0m come on bro[0m
+[23:27] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[23:43] [0m[31;1m[Clan] Oscar :[0m https://i.imgur.com/Uk6xczZ.gifv[0m
+[23:44] [0m[31;1m[Clan] Xaryl :[0m too funny[0m
+[23:44] [0m[31;1m[Clan] Nix :[0m oscar how was that pork[0m
+[23:44] [0m[31;1m[Clan] Nix :[0m toot my horn ![0m
+[23:46] [0m[31;1m[Clan] Nix :[0m cooked a 17lb pork shoulder last night for context[0m
+[23:46] [0m[31;1m[Clan] Nix :[0m well started it saturday, 17 hours on the smoker[0m
+[23:46] [0m[31;1m[Clan] Xaryl :[0m nod, figured.....you are a real man!![0m
+[23:46] [0m[31;1m[Clan] Xaryl :[0m i you do the BBQ'ing[0m
+[23:47] [0m[31;1m[Clan] Nix :[0m i am fat man trapped in a skinny mans body[0m
+[23:47] [0m[31;1m[Clan] Xaryl :[0m archi is supposed to be the man...but I always end up doing the BBQ'ing[0m
+[23:47] [0m[31;1m[Clan] Nix :[0m that's it =OP[0m
+[23:47] [0m[31;1m[Clan] Nix :[0m i bought a traegar in march and i've used the hell out of it[0m
+[23:47] [0m[31;1m[Clan] Xaryl :[0m nice[0m
+[23:50] [0m[31;1m[Clan] Xaryl :[0m my favorite thing I have done on the BBQ grill was a meatloaf[0m
+[23:50] [0m[31;1m[Clan] Xaryl :[0m the smokiness was amazing[0m
+[23:53] [0m[31;1m[Clan] Oscar :[0m yeah, was good pork[0m

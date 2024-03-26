@@ -1,0 +1,95 @@
+#class {gags} {kill}
+#class {open} {gags}
+
+/* Blank Line */
+#gag {^$}
+#gag {^>$}
+#gag {^There is no reason to '.bot' here.$}
+
+/* Jedi Guild */
+#NOP Force Deflection
+#gag {^{You lose focus and miss deflecting}%*}
+#gag {^{You reach out with the Force and deflect some of}%*}
+#gag {^The Force guides your actions. -> focus check /deflect$}
+
+#gag {^You are already dissipating that.$}
+#gag {^It is too soon to draw healing energies from the Force.$}
+
+#NOP Dodge
+#gag {^{You try to tumble to safety but get struck a glancing blow from}%*}
+#gag {^{You try to leap aside and are sent sprawling in the dust by}%*}
+#gag {^You try to sidestep %*'s attack but only partially succeed.}
+#gag {^You spin aside but only manage to escape the worst of %*'s attack.}
+
+/* Item Gags */
+#NOP Zelligar's Headband
+#gag {^Zelligar's Headband warms you with a radiant glow.$}
+
+#NOP Cocoon
+#gag {^The sticky cocoon absorbs part of the attack!$}
+#gag {^The cocoon fuses with the attack and grows stronger!$}
+
+#NOP Armor
+#gag {^The pitch black armour turns you into a shadow for a moment!$}
+#gag {^The titanium armour glimmers.$}
+#gag {^The CMC-660 infuses you with adrenaline!$}
+#gag {^The chaostone armour glimmers.$}
+
+#NOP Jedi Backpack
+#gag {^A ruggedly constructed backpack.  They are sold in the Jedi Academy's}
+#gag {^stock room for use by the trainees in their travels. It is lightweight}
+#gag {^and unrestrictive to wear, allowing freedom of movement even when}
+#gag {^packed to capacity.}
+
+/* Profession Gags */
+#NOP Assassin
+#gag {Your insidious inspiration flows through you as you make the most of each attack!}
+#gag {Your insidious inspiration fades.}
+
+#NOP Big Game Hunter
+#gag {Your crazed ambition overflows!}
+#gag {Your ambition overflows as you try to bring down the big game with a spell!}
+#gag {Your wild ambition drives you ever onward!}
+#gag {Your wild ambition takes a back seat to prudence.}
+
+#NOP Tactician
+#gag {You outfox your opponent and take advantage of it!}
+#gag {You press your advantage on your outsmarted foe!}
+#gag {Your tactical advantage ends.}
+
+#NOP Magician
+#gag {^The energies of the magical nexus empower you!$}
+#gag {^The shabby black top hat belches forth magical nexus that fuels your attacks!$}
+#gag {^With a POP the magical nexus snaps shut.$}
+#gag {^A flash of insidious insight strikes you!$}
+
+#NOP Transmuter
+#gag {^This stone of swirling magicks is the key to your transmuting ability.$}
+#gag {^When fully powered, many colours writhe about inside stone: blue, red,}
+#gag {^orange, octarine... and you know how to harness them all!  The stone}
+#gag {^is much lighter than it would seem at a first glance, and it is eerily}
+#gag {^smooth to the touch.}
+#gag {^Type 'transmuter' for more information.}
+#gag {^You say: Brigga Bragga!  Hizzie wizzie snizzie lizzie!  CHOWDA CHOWDA}
+#gag {^CHOWDA!!!!}
+
+/* Mskills */
+#NOP Critical Hit
+#gag {You critically hit }
+#gag {^{[THWACK*]+ You critically hit}}
+
+#NOP Penetrate
+#gag {You drive your attack past %*'s resistances!}
+
+/* Misc Gags */
+#gag {^Your situational awareness allows you to find a weak spot in}
+#gag {^You strike }
+#gag {^You don't need to convert at this time!$}
+#gag {^{Cancer says:}%*}
+#gag {^Your shield blocks}
+#gag {^You restore your health by tapping into the flux.$}
+#gag {^Zelligar says: They are coming for me! I know it!$}
+#gag {^Zelligar says: The Mage Wars have given magic a bad name!$}
+#gag {^Zelligar says: Who are you?  You don't seem to be much of a threat.$}
+
+#class {gags} {close}

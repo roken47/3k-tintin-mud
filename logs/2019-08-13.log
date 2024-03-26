@@ -1,0 +1,699 @@
+- = LOG STARTED [00:00] = -
+[00:20] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[00:23] [0m[Clan] Pol leaves the game.  [0m
+[00:54] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[01:28] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[01:45] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[01:45] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[01:45] [0m                          get ready![0m
+[02:03] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[02:04] [0m[34;1mNightrider shouts:[0m event 2w from xaxis enjoy[0m
+[02:05] [0mNightrider flaps : event 2 w of xacis. fire dmg[0m
+[02:05] [0mHavox flaps : thank you[0m
+[02:06] [0mInix flaps : You're welcome.[0m
+[06:35] [0mYou can currently reforge 4 items.[0m
+[06:48] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[06:54] [0mYou can currently reforge 8 items.[0m
+[07:23] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[07:55] [0mYou can currently reforge 12 items.[0m
+[07:57] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[08:14] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Sometimes I wish I hadn't started crafting.  It's[0m
+[08:14] [0m                           such a time sink.[0m
+[08:14] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Then I remember how cool it is and I'm good[0m
+[08:14] [0m                           again.[0m
+[08:20] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Ta da, level 70 blacksmith.  Now I gotta go see[0m
+[08:20] [0m                           what new toys I've unlocked to attempt to craft.[0m
+[08:22] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Anybody need a pair of average ebon boots with a[0m
+[08:22] [0m                           standard detective gem in it?[0m
+[08:33] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[08:38] [0mByron flaps : Does anyone know a script with a decent example of using[0m
+[08:38] [0m              TinTin++ formatting?  The manual/examples I've seen online[0m
+[08:38] [0m              are...awful.[0m
+[08:39] [0mTurnhold flaps : whatcha mean?[0m
+[08:41] [0mByron flaps : I want to create a report with damage tracking, and make it[0m
+[08:41] [0m              somewhat pretty.  So an example of someone who made a[0m
+[08:41] [0m              table-looking report ideally.[0m
+[08:41] [0mTurnhold flaps : it can be done, i've seen it somewhere, I havent went that[0m
+[08:41] [0m                 far yet tho[0m
+[08:42] [0mTurnhold flaps : but now im curious[0m
+[08:42] [0mByron flaps : Simple as ------  Trounced:  125   10%  --------[0m
+[08:42] [0mByron flaps : Or something similar[0m
+[08:43] [0mGaidin flaps : You'll want to use %+3s, %-3s, and %.3s[0m
+[08:43] [0mGaidin flaps : Or Prepad, post pad, or print at most.[0m
+[08:43] [0mGaidin flaps : The number is the number of characters.[0m
+[08:45] [0mGaidin flaps : So like #format line {----- %+10s %+4s %+4s} {damage_text}[0m
+[08:45] [0m               {damage_number} {damage_percent}[0m
+[08:58] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[08:59] [0m[Clan] Xaryl : donates in[0m
+[09:08] [0m[Clan] Byron : woo ty[0m
+[09:13] [0m[34;1mSpace shouts:[0m anyone need to dup string 2.0?[0m
+[09:13] [0m[34;1mNauda shouts:[0m dup your face 3.0[0m
+[09:14] [0m[34;1mVagrant shouts:[0m zingggg[0m
+[09:21] [0m[Clan] Ser : 44% through glvl[0m
+[09:21] [0m[Clan] Archangel : Whee!![0m
+[09:23] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[09:28] [0m[Clan] Saim : i have 0 pots[0m
+[09:28] [0m[Clan] Saim : can we kill some beloch?[0m
+[09:29] [0m[Clan] Xaryl : you want to tank & I heal?[0m
+[09:29] [0m[Clan] Byron : I'll go there now[0m
+[09:29] [0m[Clan] Byron : And tank while I pack[0m
+[09:29] [0m[Clan] Byron : Maybe can do 2[0m
+[09:29] [0m[Clan] Saim : cool[0m
+[09:30] [0m[Clan] Saim : come to beloch xar[0m
+[09:31] [0m[Clan] Xaryl : have to finish off this demon 1st[0m
+[09:34] [0m[Clan] Saim : unless nix decides to show up too ;P[0m
+[09:37] [0m[Clan] Archangel : With a new final boss.. ~100M[0m
+[09:44] [0mSimonz <C-Trade>: anyone have any heart/essence of blasting they can part[0m
+[09:44] [0m                  with?  preferably legendary, but I'll take anything.  =)[0m
+[17:59] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[18:20] [0m[34;1mNightrider shouts:[0m I AM NIGHTRIDER[0m
+[18:20] [0m[34;1mWhisper shouts:[0m with no wheels, you are darkcar...[0m
+[18:21] [0m[34;1mNauda shouts:[0m This is Wakanda FOREVER[0m
+[18:21] [0m[34;1mNix shouts:[0m whisper dont hassle the hoff[0m
+[18:22] [0m[34;1mWhisper shouts:[0m david husslebacksoft?[0m
+[18:31] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[18:34] [0m[32mYou tell Simonz:[0m hi[0m
+[18:35] [0m[32mYou tell Simonz:[0m i have 2 superior essence of blasting, would that help?[0m
+[18:36] [0mYou can currently reforge 12 items.[0m
+[18:40] [0m[32mSimonz tells you:[0m sure![0m
+[18:41] [0m[32mYou tell Simonz:[0m is that xmutable to legend[0m
+[18:42] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[18:44] [0m[32mYou tell Simonz:[0m ok i'll meet when im done at the hotel[0m
+[18:45] [0m[32mSimonz tells you:[0m cool, how much longer?  I'm almost done myself[0m
+[18:45] [0m[32mYou tell Simonz:[0m idk im a tard. Don't have mapper done[0m
+[18:45] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[18:45] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[18:46] [0m[Clan] Byron : The ring blocks specials (like zombie etc. specials)[0m
+[18:46] [0m[Clan] Byron : So in that respect, it's pretty dope if you fight a lot of[0m
+[18:46] [0m               stuff w big specials.[0m
+[18:46] [0m[Clan] Byron : And you don't need to clear the area[0m
+[18:46] [0m[Clan] Byron : You just need to kill enough[0m
+[18:47] [0m[Clan] Archangel : Of the Rimalkin dungeon?[0m
+[18:47] [0m[Clan] Ser : oo[0m
+[18:47] [0m[Clan] Ser : anyone have #s for <130?[0m
+[18:47] [0m[Clan] Ser : i dont think i can solo a 90mil[0m
+[18:48] [0m[Clan] Roken : zelligar?[0m
+[18:48] [0m[32mSimonz tells you:[0m on sp that is, not hp lol[0m
+[18:49] [0m[32mSimonz tells you:[0m oops, lol[0m
+[18:49] [0m[32mSimonz tells you:[0m but I put an hp/sp regen gem in my gear, now I always[0m
+[18:49] [0m        have full sp[0m
+[18:50] [0m[Clan] Ser : rimalkin[0m
+[18:50] [0m[Clan] Byron : One way to find out[0m
+[18:50] [0m[Clan] Byron : I, for one, believe in you.[0m
+[18:50] [0m[Clan] Byron : And would never mock your death.[0m
+[18:51] [0m[Clan] Ser : how big are the ones you're doing[0m
+[18:52] [0m[Clan] Nik : and if it happens save me the corpse please![0m
+[18:52] [0m[Clan] Ser : laf ok[0m
+[18:52] [0m[Clan] Byron : The rimalkins are regular[0m
+[18:53] [0m[Clan] Ser : i'll do event quick[0m
+[18:53] [0m[Clan] Byron : No change[0m
+[18:53] [0m[Clan] Byron : Oh didnt see event[0m
+[18:53] [0m[Clan] Byron : where's portal?[0m
+[18:53] [0m[Clan] Byron : The King is fought at scaler 142 was 95mil[0m
+[18:53] [0m[Clan] Nix : there are no scaler[0m
+[18:53] [0m[Clan] Byron : I fought[0m
+[18:53] [0m[Clan] Nix : its not a scalable area[0m
+[18:53] [0m[Clan] Byron : The King doesn't scale?[0m
+[18:54] [0m[Clan] Ser : your mom is a scaler[0m
+[18:54] [0m[Clan] Nix : the king i dont know, but the other mobs are the same[0m
+[18:54] [0m             regardless of what your scaler is set too[0m
+[18:54] [0m[Clan] Byron : Nix, as your counsel, I advise you to get all the facts[0m
+[18:54] [0m               before making these kind of claims.[0m
+[18:54] [0m[Clan] Nix : my mother is a fucking saint ser[0m
+[18:54] [0m[Clan] Byron : That I agree with, any other woman would've put her son down.[0m
+[18:54] [0m[Clan] Nix : damn right[0m
+[18:55] [0m[Clan] Nix : and king at 144 is 95m byron[0m
+[18:58] [0m[32mYou tell Simonz:[0m i'm out. meet near consign shop at craft guild?[0m
+[18:58] [0mYou can currently reforge 12 items.[0m
+[18:58] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[18:59] [0m[Clan] Ser : 1e/4n[0m
+[18:59] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[18:59] [0m[32mYou say:[0m yello[0m
+[19:00] [0m[32mYou tell Simonz:[0m blasting right?[0m
+[19:00] [0m[32mSimonz says:[0m  but heck, anything you don't want/need i'd take[0m
+[19:01] [0m[32mSimonz says:[0m  getting ready to push up enchant/wrangle/smith clevels[0m
+[19:01] [0m[32mYou tell Simonz:[0m steel ore?[0m
+[19:01] [0m[32mSimonz says:[0m  i mean like frags/essence/hearts[0m
+[19:01] [0m[32mYou tell Simonz:[0m tell me what you need[0m
+[19:02] [0m[32mSimonz tells you:[0m I can always combine/upgrade whatever, just need[0m
+[19:02] [0m        something to work with[0m
+[19:02] [0m[32mSimonz tells you:[0m also, mugem may be scoring me an awesome main, in which[0m
+[19:02] [0m        case you can have my titanium breastplate[0m
+[19:02] [0m[32mYou tell Simonz:[0m which frag/ess/heart you need?[0m
+[19:04] [0m[32mSimonz tells you:[0m light for sure, that'll be major agility[0m
+[19:04] [0m[32mYou tell Simonz:[0m i know you said any. But what is absolutely on your[0m
+[19:04] [0m        wishlist[0m
+[19:04] [0m[32mSimonz tells you:[0m rejuv, soul[0m
+[19:05] [0m[32mSimonz tells you:[0m blasting, willy[0m
+[19:05] [0m[32mSimonz tells you:[0m those would be the gems I would make[0m
+[19:06] [0m[32mSimonz tells you:[0m I do 3 agility, 2 thief at large, and one sp regen baked[0m
+[19:06] [0m        in, and then gemchant 3 wolf and 2 elephant[0m
+[19:07] [0m[Clan] Void leaves the game.  [0m
+[19:07] [0m[32mSimonz tells you:[0m I can't use the tome, I'm already past that level[0m
+[19:07] [0m[32mYou tell Simonz:[0m give back then[0m
+[19:09] [0m[32mYou tell Simonz:[0m all in those types[0m
+[19:09] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[19:10] [0m[35;1mSimonz [Jedi(62)]:[0m ok, suggestions for next AT?[0m
+[19:11] [0m[35;1mSimonz [Jedi(62)]:[0m have cp, dodge, force, gfs, lfs, lc, ri[0m
+[19:12] [0m[35;1mSimonz [Jedi(62)]:[0m available are concentraion and dissipate, meditation,[0m
+[19:12] [0m                   htrance, absorb energy[0m
+[19:12] [0m[35;1mSimonz [Jedi(62)]:[0m plus a few others like emet/rpoison/rstun[0m
+[19:12] [0m[35;1mUkyo [Jedi(77)]:[0m wow. i've only got two AT's so far. oh, that's right, that[0m
+[19:12] [0m                 was done after i'd already gotten everything.[0m
+[19:12] [0m[35;1mSimonz [Jedi(62)]:[0m oops[0m
+[19:13] [0m[35;1mUkyo [Jedi(77)]:[0m i'll rephrase, two at's maxed[0m
+[19:13] [0m[35;1mUkyo [Jedi(77)]:[0m oops? he just wanted a quick port to town to grab cells and[0m
+[19:13] [0m                 a saber fix[0m
+[19:13] [0m[35;1mSimonz [Jedi(62)]:[0m fear being lazy enough to want a deathport from hotel[0m
+[19:14] [0m[35;1mSimonz [Jedi(62)]:[0m lol[0m
+[19:27] [0mLasher <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[19:28] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[19:31] [0mBeebo {Professions}: Awesome, got big game hunter up to 17[0m
+[19:41] [0mYou can currently reforge 4 items.[0m
+[20:01] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[20:12] [0m[32;1mFrom afar, Ser pokes you in the ribs.[0m[0m
+[20:13] [0m[32mYou tell Ser:[0m gotta play ca[0m
+[20:14] [0m[32mYou tell Ser:[0m cs[0m
+[20:15] [0m[32mSer tells you:[0m bleh[0m
+[20:24] [0m[Clan] Nix : my hotel resets in 6m.. i'm going to clear it and then reset[0m
+[20:24] [0m[Clan] Nix : it'll probably take me an hourish to clear[0m
+[20:32] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[20:37] [0m[Clan] Ser : trying rimalkins here[0m
+[20:37] [0m[Clan] Ser : and no guac[0m
+[20:37] [0m[Clan] Ser : so soz[0m
+[20:37] [0m[Clan] Nix : you shouldn't need em they're only 14m[0m
+[20:37] [0m[Clan] Ser : for paul[0m
+[20:37] [0m[Clan] Nix : oh[0m
+[20:37] [0m[Clan] Mud : ive got 2x in my bag (id use one)[0m
+[20:38] [0m[Clan] Mud : guacs, for paul[0m
+[20:41] [0m[Clan] Nix : 6 with raest[0m
+[20:43] [0mYou can currently reforge 8 items.[0m
+[20:43] [0m[Clan] Nik : anybody got any extra player corpses sittin around?[0m
+[20:44] [0m[35;1mSimple [Jedi(26)]:[0m at what glvl do we start collecting holocrons[0m
+[20:44] [0m[Clan] Ser : i haven't finished rimalkin[0m
+[20:44] [0m[Clan] Ser : but i'm sure i'll have one[0m
+[20:44] [0m[Clan] Mud : ive got 1x me, 1x nameless, 1x nik on me[0m
+[20:44] [0m[Clan] Ser : oh well mud's got you covered then nvm[0m
+[20:45] [0m[35;1mUkyo [Jedi(77)]:[0m we donate them to the library upstairs[0m
+[20:45] [0m[Clan] Nik : hook me up please Mud! whenever you got the time[0m
+[20:45] [0m[35;1mUkyo [Jedi(77)]:[0m they drop from 1mil plus, in my exprience[0m
+[20:45] [0m[Clan] Nix : by the puppy pen[0m
+[20:45] [0m[Clan] Mud : lemme give em to ya quick nik[0m
+[20:45] [0m[35;1mUkyo [Jedi(77)]:[0m check the library, we fill the box there up, most boots[0m
+[20:45] [0m[Clan] Nik : just 1 please[0m
+[20:45] [0m[35;1mSimple [Jedi(26)]:[0m ahhh so no time soon[0m
+[20:45] [0m[35;1mChaed [Jedi(AGM)]:[0m think you have a really low chance with 500k mobs[0m
+[20:46] [0m[35;1mUkyo [Jedi(77)]:[0m i'll be hopping on chidori some time and you won't feel so[0m
+[20:46] [0m                 alone in the underpoweredness.[0m
+[20:46] [0m[Clan] Ser : should i quit tryna kill tacos then[0m
+[20:46] [0m[Clan] Mud : im at chaos if ya want[0m
+[20:46] [0m[Clan] Ser : nix you there?  talk to whisper, he's standing by to make a[0m
+[20:46] [0m             crypt[0m
+[20:46] [0m[35;1mSimple [Jedi(26)]:[0m plann to have fdef by the end of boot[0m
+[20:46] [0m[Clan] Nameless : plasma made one[0m
+[20:46] [0m[Clan] Ser : o ok[0m
+[20:47] [0m[Clan] Ser : where's entrance[0m
+[20:47] [0m[35;1mSimonz [Jedi(62)]:[0m yup, you could definitely do that[0m
+[20:47] [0m[Clan] Nameless : dunno where the other side is[0m
+[20:47] [0m[Clan] Nameless : heh[0m
+[20:47] [0m[Clan] Ser : 1n of resid[0m
+[20:48] [0m[Clan] Nameless : north of resid[0m
+[20:48] [0m[Clan] Nameless : oh i am slo[0m
+[20:48] [0m[Clan] Ser : i just said that[0m
+[20:48] [0m[Clan] Nameless : :p[0m
+[20:50] [0m[34;1mUkyo shouts:[0m Down to the wire![0m
+[20:50] [0m[34;1mWhisper shouts:[0m death train to paul![0m
+[20:50] [0m[34;1mNameless shouts:[0m choo choo[0m
+[20:50] [0m[34;1mThom shouts:[0m *hands out copper wire*[0m
+[20:51] [0m[35;1mUkyo [Jedi(77)]:[0m i think my fdef went from 16-3=13 up to 16-2=14 here[0m
+[20:51] [0m                 recently. saturating a lot more force than i used to. so,[0m
+[20:51] [0m                 -254 was probably the cut off.[0m
+[20:51] [0m[35;1mUkyo [Jedi(77)]:[0m grr, can't start with a negative. thinks it's a flag. so:[0m
+[20:51] [0m                 -254%[0m
+[20:52] [0m[35;1mUkyo [Jedi(77)]:[0m fdefxp. not sure how many others are in that boat, but[0m
+[20:52] [0m                 there it is[0m
+[20:54] [0m[Clan] Nix : singing hammer smashed face[0m
+[20:54] [0m[Clan] Mud : does dmg?[0m
+[20:55] [0m[Clan] Nix : just don't want to mix our dot stacks[0m
+[20:55] [0m[Clan] Mud : ahh, good call[0m
+[20:55] [0m[Clan] Nix : i have them out, but singing that too just in case[0m
+[20:55] [0m[Clan] Ser : sounds like a native american name[0m
+[20:55] [0m[Clan] Ser : "Singing Hammer Smashed Face"[0m
+[20:55] [0m[Clan] Mud : chief long hair[0m
+[20:55] [0m[Clan] Nix : haha[0m
+[20:56] [0m[Clan] Ser : might be a little racist, sorry[0m
+[20:56] [0m[Clan] Mud : that? naw[0m
+[20:56] [0m[35;1mSimonz [Jedi(62)]:[0m if that's the case, then fdef xp definitely came faster[0m
+[20:56] [0m                   at some point in the past[0m
+[20:57] [0m[35;1mUkyo [Jedi(77)]:[0m it was 'rescaled'[0m
+[20:57] [0m[35;1mSimonz [Jedi(62)]:[0m not a chance I'll be at fdef 14 when I get to gl 77, and[0m
+[20:57] [0m                   I've focused on it pretty hard[0m
+[20:57] [0m[35;1mUkyo [Jedi(77)]:[0m and, i'm old.[0m
+[20:57] [0m[35;1mUkyo [Jedi(77)]:[0m also, i knew what to fight[0m
+[20:57] [0m[35;1mSimonz [Jedi(62)]:[0m nod, not just rescaled like the recent change says, but[0m
+[20:57] [0m                   the actual amount you got when you earned fdef must have[0m
+[20:57] [0m                   changed[0m
+[20:58] [0m[35;1mUkyo [Jedi(77)]:[0m don't think so.[0m
+[20:58] [0m[35;1mSimonz [Jedi(62)]:[0m nog, I've focused fdef a lot harder than anyone else[0m
+[20:58] [0m                   that's been coming up recently[0m
+[20:58] [0m[35;1mUkyo [Jedi(77)]:[0m if you're fighting the -eek, five minute warning[0m
+[20:59] [0m[35;1mUkyo [Jedi(77)]:[0m if you're fighting the max that you can kill with guide,[0m
+[20:59] [0m                 you're out of your fdef range, i've found.[0m
+[20:59] [0m[35;1mSimonz [Jedi(62)]:[0m oh yeah, totally.[0m
+[20:59] [0m[35;1mAsp [Jedi(44)]:[0m picturing Ukyo sitting on pedes using immune dtype[0m
+[20:59] [0m                continuously for boot after boot after boot heh[0m
+[21:00] [0m[35;1mSimonz [Jedi(62)]:[0m I usually fight in zell way below that, I get a full[0m
+[21:00] [0m                   deflect almost every round[0m
+[21:00] [0m[35;1mUkyo [Jedi(77)]:[0m actually, using immune dtype on pedes is a "Bad Idea".[0m
+[21:00] [0m[35;1mUkyo [Jedi(77)]:[0m just going to let that one simmer[0m
+[21:00] [0m[35;1mAsp [Jedi(44)]:[0m pedelings = moar deflects![0m
+[21:01] [0m[35;1mSimonz [Jedi(62)]:[0m stacking aegis is good[0m
+[21:01] [0m[35;1mSimonz [Jedi(62)]:[0m doesn't last long though[0m
+[21:01] [0m[35;1mUkyo [Jedi(77)]:[0m also, i don't think they give best fdefxp, either[0m
+[21:01] [0m[35;1mUkyo [Jedi(77)]:[0m i'll go test[0m
+[21:01] [0m[35;1mSimonz [Jedi(62)]:[0m maybe I should break out my daggers for aegis[0m
+[21:02] [0m[35;1mAsp [Jedi(44)]:[0m i sit on my max zombies getting 1/3rnds like a baws..[0m
+[21:03] [0m[35;1mSimonz [Jedi(62)]:[0m just ask burnaby[0m
+[21:05] [0m[35;1mBurnaby [Jedi(56)]:[0m axe me wut?[0m
+[21:05] [0m[35;1mSimonz [Jedi(62)]:[0m talking about fdef efficiency[0m
+[21:05] [0m[35;1mBurnaby [Jedi(56)]:[0m ah yeah. zell golems low level with daggers[0m
+[21:05] [0m[35;1mUkyo [Jedi(77)]:[0m my max efficiency atm is about 12 rounds for .001% fdefxp.[0m
+[21:05] [0m[35;1mSimonz [Jedi(62)]:[0m ukyo figures he's at fdef 14, I was saying there's no way[0m
+[21:05] [0m                   I'll be at 14 when I get to gl77[0m
+[21:06] [0m[35;1mSimonz [Jedi(62)]:[0m and I grind fdef pretty hard[0m
+[21:06] [0m[35;1mBurnaby [Jedi(56)]:[0m yeah, the old guard got grandfathered in before the fdef[0m
+[21:06] [0m                    gravy train derailed[0m
+[21:06] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[21:06] [0m[35;1mInquisitor [Jedi(Knight)]:[0m I'm at 11, but I'm also at -319%.  It's gonna be[0m
+[21:06] [0m                           a minute.  (So, I guess I'm functionally at 8?)[0m
+[21:07] [0m[35;1mUkyo [Jedi(77)]:[0m yea,[0m
+[21:07] [0m[35;1mSimonz [Jedi(62)]:[0m see yeah, that's crazy.  gl 42 fdef 8.  I'm at fdef 7[0m
+[21:07] [0m[35;1mBurnaby [Jedi(56)]:[0m just refund the stupid points[0m
+[21:07] [0m[35;1mBurnaby [Jedi(56)]:[0m put everyone where theyre supposed to be[0m
+[21:08] [0m[35;1mUkyo [Jedi(77)]:[0m meh, it's ok the way it is for us old timers. besides, i'm[0m
+[21:08] [0m                 going to attempt to grind fdef with chidori.[0m
+[21:08] [0mnewb Thom [bard/60]: there is no way to tell where exactly along the[0m
+[21:08] [0m                     alighment score you are correct? just curious for[0m
+[21:08] [0m                     getting to the top alignment[0m
+[21:09] [0m[35;1mInquisitor [Jedi(Knight)]:[0m I guess I can't be too mad.  I can still kill[0m
+[21:09] [0m                           tier 4 tacos.  Level 70 Zelligar kills me almost[0m
+[21:09] [0m                           every time now but I suppose that's the cost of[0m
+[21:09] [0m                           doing business.[0m
+[21:09] [0mnewb Inix [juggernaut/138]: There is, but it takes an mskill to see[0m
+[21:09] [0mnewb Nightrider [knight/136]: there is with mskills[0m
+[21:09] [0mnewb Ukyo [jedi/108]: spirituality[0m
+[21:10] [0m[35;1mAsp [Jedi(44)]:[0m stats ftw. i murder lv72 zelligar with fdef 3 heh[0m
+[21:11] [0m[35;1mSimonz [Jedi(62)]:[0m nod, I could take lev 81 zell no problem, he was only[0m
+[21:11] [0m                   like 6m.  after that he just blicks me lol[0m
+[21:11] [0mnewb Thom [bard/60]: interesting. just gotta decide if its worth the 3[0m
+[21:11] [0m                     points lol but thanks[0m
+[21:12] [0mnewb Beebo [changeling/64]: It is, because you can respec later or just gain[0m
+[21:12] [0m                            some levels or something to get more.[0m
+[21:12] [0m[35;1mUkyo [Jedi(77)]:[0m pede test is going to have to wait, have to run my mines.[0m
+[21:12] [0m[35;1mUkyo [Jedi(77)]:[0m at mining level 89 with 72% of the level done, and can[0m
+[21:12] [0m                 almost taste chaostone.[0m
+[21:13] [0m[35;1mUkyo [Jedi(77)]:[0m and, i only get about 2 to 3 percent per run, so yea.[0m
+[21:13] [0m[35;1mBurnaby [Jedi(56)]:[0m lvl62 golems withj daggers. .0006 almost every round[0m
+[21:13] [0m                    *flex*[0m
+[21:13] [0m[35;1mAsp [Jedi(44)]:[0m chaostone goes way faster/more fun too. Since you get stacks[0m
+[21:13] [0m                more ore than anything else[0m
+[21:14] [0mnewb Thom [bard/60]: sometime i need to figure out how to do that lol[0m
+[21:14] [0m[35;1mUkyo [Jedi(77)]:[0m then it'll be a case of needing a level 90+ transmuter to[0m
+[21:14] [0m                 xmute their quality up to legendary.[0m
+[21:15] [0mnewb Beebo [changeling/64]: Gain levels?  I feel like you just kill tacos[0m
+[21:15] [0m                            over and over.  That's what I'm doing.[0m
+[21:15] [0mnewb Simonz [jedi/115]: grind hotel -> gain levels[0m
+[21:15] [0m[35;1mAsp [Jedi(44)]:[0m newb -h[0m
+[21:15] [0m[35;1mAsp [Jedi(44)]:[0m oops[0m
+[21:16] [0mnewb Thom [bard/60]: i meant respec XD[0m
+[21:16] [0mnewb Thom [bard/60]: i'll be 60 for a while till i bloody learn more of the[0m
+[21:16] [0m                     mud and where stuff is XD. because lord knows i could[0m
+[21:16] [0m                     get the gear i have atm by myself lol[0m
+[21:16] [0mnewb Thom [bard/60]: * couldn't[0m
+[21:17] [0mnewb Beebo [changeling/64]: That's ok, me neither.  That's why I'm a morph.[0m
+[21:17] [0mnewb Beebo [changeling/64]: regarding the issue of mskills, don't worry too[0m
+[21:17] [0m                            much about messing them up the first time[0m
+[21:17] [0m                            around.  respec the first time is either really[0m
+[21:17] [0m                            cheap or free.  I forgot.[0m
+[21:17] [0mnewb Ukyo [jedi/108]: have you tried blacksmithing? it's actually fairly[0m
+[21:17] [0m                      decent, once you get far enough along[0m
+[21:18] [0mnewb Ukyo [jedi/108]: also, costs for reset goes down if you've waited a[0m
+[21:18] [0m                      year[0m
+[21:18] [0mnewb Thom [bard/60]: mmhmm i've been leveling it, itsl ike at 30 but i've[0m
+[21:18] [0m                     been stuck for now with getting fragments. and reading[0m
+[21:18] [0m                     tomes when i find them[0m
+[21:20] [0m[Clan] Mud : just realized you can string 2.0 cocoon without needing to[0m
+[21:20] [0m             ftouch it[0m
+[21:21] [0m[Clan] Nix : nog[0m
+[21:21] [0mWhisper flaps : can someone explain to that dumb car the vagaries of kill[0m
+[21:21] [0m                triggers and why its bad to have one for ALL corpses, not[0m
+[21:21] [0m                their own?[0m
+[21:22] [0mUkyo flaps : car?[0m
+[21:23] [0mXiu {Professions}: "golemize corpse limbs" on a pede... 5 hours later...[0m
+[21:23] [0m                   done.[0m
+[21:23] [0mDisruptor flaps : because that?[0m
+[21:23] [0mRaest flaps : that's what she said[0m
+[21:23] [0mUkyo flaps : negative, ghostrider, that trigger doesn't work here.[0m
+[21:23] [0mRictor {Professions}: Huh?[0m
+[21:23] [0mWhisper flaps : flattens the tires on that KB trigger.[0m
+[21:23] [0mXiu {Professions}: ya know, cuz they've got so many limbs ;P[0m
+[21:23] [0mRictor {Professions}: Laf[0m
+[21:24] [0mRaest {Professions}: God: i only have 1000 legs left. Millipede: Dibs!!! [0m
+[21:24] [0m                     Snake: aw, crap.[0m
+[21:24] [0mUkyo flaps : I like Turnhold's Monday quote:[0m
+[21:25] [0m[35;1mSimonz [Jedi(62)]:[0m welcome Karisia!  com for this line[0m
+[21:26] [0m[5m[1m[41mYour lightsaber begins to flicker and the handle warms![0m[0m                 [0m
+[21:26] [0m[35;1mUkyo [Jedi(77)]:[0m woot, a non 'Aspiring jedi'?[0m
+[21:26] [0m[35;1mAsp [Jedi(44)]:[0m rebel[0m
+[21:27] [0m[35;1mUkyo [Jedi(77)]:[0m i was going to go with something more offensive to the[0m
+[21:27] [0m                 aspirants, but ok, we'll go with that[0m
+[21:27] [0m[35;1mKarisia [Jedi(0)]:[0m Im going jens[0m
+[21:28] [0mThom flaps : that is an amusing quote[0m
+[21:28] [0mRaest flaps : dating a girl with kids is like playing on another dude's[0m
+[21:28] [0m              saved game.[0m
+[21:29] [0mRaest flaps : Dad was chopping onions for supper last night and it brought a[0m
+[21:29] [0m              tear to his eyes because Onions was a good dog.[0m
+[21:30] [0mSimple flaps : why was he chopping a dog[0m
+[21:33] [0mBurnaby flaps : Why was he chopping a dog? Raest! Answer him![0m
+[21:33] [0m[35;1mUkyo [Jedi(77)]:[0m hrm. ok, so yea, pedes are good for fdef AND nrg. who knew?[0m
+[21:33] [0m                 i always just loved'em for their gear and coins[0m
+[21:33] [0mRaest flaps : because it's a bad joke[0m
+[21:33] [0mRaest flaps : what's the difference between 3 dinks and a joke?[0m
+[21:34] [0mRaest flaps : your wife/girlfriend can't take a joke[0m
+[21:34] [0m[35;1mBurnaby [Jedi(56)]:[0m *burp* so 0.0006 fdef xp/round equates to about 4 combat[0m
+[21:34] [0m                    days[0m
+[21:34] [0m[35;1mBurnaby [Jedi(56)]:[0m #themoreyouknow[0m
+[21:35] [0m[35;1mUkyo [Jedi(77)]:[0m hrm. i haven't even calculated how much it is per round,[0m
+[21:35] [0m                 because the number of rounds varies on most non-optimal[0m
+[21:35] [0m                 mobs.[0m
+[21:35] [0mXiu flaps : there's also the arkansas version of that; your[0m
+[21:35] [0m            wife/girlfriend/sister/cousin can't take a joke[0m
+[21:35] [0m[35;1mBurnaby [Jedi(56)]:[0m meh Im just watching each success round and noting the[0m
+[21:35] [0m                    delta.[0m
+[21:35] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[21:35] [0m[35;1mSimonz [Jedi(62)]:[0m yeah, I aim for 1 fdef every 5 or 6 gl[0m
+[21:36] [0mRaest flaps : my twin brother stepped between my wife and I mid[0m
+[21:36] [0m              conversation, turned his back to her and told me that joke[0m
+[21:36] [0m[35;1mUkyo [Jedi(77)]:[0m i'm just happy to be one step closer to where i was.[0m
+[21:36] [0mRaest flaps : she thought it was funny, luckily for me she can take a joke[0m
+[21:36] [0m[35;1mUkyo [Jedi(77)]:[0m even if it'll be years before i see the next[0m
+[21:36] [0m[35;1mUkyo [Jedi(77)]:[0m just gotta remember, one foot in front of the other.[0m
+[21:36] [0m[35;1mUkyo [Jedi(77)]:[0m info time is no joke, btw[0m
+[21:36] [0m[35;1mBurnaby [Jedi(56)]:[0m every success is one step closer :)[0m
+[21:37] [0m[35;1mSimonz [Jedi(62)]:[0m you could grind it out in a month or two if you focused[0m
+[21:37] [0m[35;1mBurnaby [Jedi(56)]:[0m boom 19%[0m
+[21:37] [0m[35;1mUkyo [Jedi(77)]:[0m or if i won the lottery and didn't have to work.[0m
+[21:37] [0m[35;1mSimonz [Jedi(62)]:[0m good scripts and a client that works on your phone =)[0m
+[21:38] [0m[35;1mBurnaby [Jedi(56)]:[0m but in good xp news. the tier2 heavy industry droid goes[0m
+[21:38] [0m                    up a % about every 500 or so rounds, so thats good[0m
+[21:38] [0m[35;1mUkyo [Jedi(77)]:[0m uh oh[0m
+[21:38] [0m[35;1mSimonz [Jedi(62)]:[0m ...that's crazy fast[0m
+[21:39] [0mCaeli flaps : Whee!!!!  I'm kinda drunk![0m
+[21:39] [0mSimonz flaps : try harder[0m
+[21:39] [0mBurnaby flaps : the mating call of many a LA girl[0m
+[21:39] [0m[Clan] Ser : rimalkins is pretty decent xp eh[0m
+[21:39] [0m[Clan] Ser : why haven't i done this before[0m
+[21:40] [0m[Clan] Ser : or was it not a dungeon before[0m
+[21:40] [0m[Clan] Nix : i was not a dungeon[0m
+[21:40] [0m[Clan] Nix : until last night[0m
+[21:40] [0m[Clan] Ser : ah[0m
+[21:40] [0m[Clan] Ser : nod[0m
+[21:40] [0m[Clan] Nix : and it was farmed to hell[0m
+[21:40] [0m[Clan] Nix : rims will replace chess for me to just grind on[0m
+[21:40] [0m[Clan] Ser : with a 2 hr reset that's pretty good[0m
+[21:40] [0m[Clan] Mud : need a stepper for that it seems[0m
+[21:40] [0mCaeli flaps : Well, still have moat of a bottle of wine. And is that L.A.[0m
+[21:40] [0m              the city or LA as in Louisiana?[0m
+[21:41] [0m[Clan] Nix : ive always fought in here[0m
+[21:41] [0mBurnaby flaps : por que no los dos[0m
+[21:42] [0mCaeli flaps : Por que, dos uh, como ae dice cultures?[0m
+[21:43] [0m[35;1mBurnaby [Jedi(56)]:[0m do you think the rank of your weapon affects fdef?[0m
+[21:43] [0mYou can currently reforge 12 items.[0m
+[21:44] [0m[35;1mUkyo [Jedi(77)]:[0m if we had focus mode for deflect, maybe. but since that got[0m
+[21:44] [0m                 taken away . . .[0m
+[21:44] [0mCaeli flaps : porque dos culturas diferentes. Bien[0m
+[21:44] [0mSimonz flaps : sprechen sie dork?[0m
+[21:46] [0m[35;1mBurnaby [Jedi(56)]:[0m whats master?[0m
+[21:46] [0m[35;1mSimonz [Jedi(62)]:[0m The first sign of maturity is the discovery that the[0m
+[21:46] [0m                   volume knob also turns to the left.[0m
+[21:46] [0m[35;1mUkyo [Jedi(77)]:[0m 20/10/10/[10defunkt deflect][0m
+[21:46] [0m[35;1mBurnaby [Jedi(56)]:[0m is that your lightsaber ranks?[0m
+[21:47] [0m[35;1mUkyo [Jedi(77)]:[0m me? i'm at 14/10/10[0m
+[21:47] [0m[35;1mBurnaby [Jedi(56)]:[0m ok im at 9/9/1[0m
+[21:47] [0m[35;1mUkyo [Jedi(77)]:[0m and i don't even use my saber anymore. switching between[0m
+[21:47] [0m                 staff and daggers[0m
+[21:47] [0mCaeli flaps : Hablo un poquito de espanol y japones....[0m
+[21:47] [0m[35;1mSimonz [Jedi(62)]:[0m oh, is 10 the max for modes?[0m
+[21:48] [0m[35;1mUkyo [Jedi(77)]:[0m yup. 10 is max for modes. 20 is max for normal[0m
+[21:48] [0m[35;1mSimonz [Jedi(62)]:[0m oh.[0m
+[21:48] [0m[35;1mBurnaby [Jedi(56)]:[0m whats this normal?[0m
+[21:48] [0m[35;1mUkyo [Jedi(77)]:[0m exactly?[0m
+[21:48] [0m[35;1mSimonz [Jedi(62)]:[0m staff 9/9, saber 6/6/4, dagger 4/4[0m
+[21:48] [0m[35;1mBurnaby [Jedi(56)]:[0m seriosuly is that noted in gscore?[0m
+[21:49] [0m[35;1mBurnaby [Jedi(56)]:[0m how do you know if you have 20[0m
+[21:49] [0m[35;1mBurnaby [Jedi(56)]:[0m or do you mean lsc[0m
+[21:49] [0m[35;1mSimonz [Jedi(62)]:[0m 6/6/4 is mastery 6/guide 6/flurry 6[0m
+[21:49] [0m[35;1mSimonz [Jedi(62)]:[0m mastery == normal[0m
+[21:49] [0m[35;1mUkyo [Jedi(77)]:[0m mastery[0m
+[21:50] [0m[35;1mBurnaby [Jedi(56)]:[0m ok but you dont get mastery fighting in normal[0m
+[21:50] [0m[35;1mSimonz [Jedi(62)]:[0m sure you do, why wouldn't you?[0m
+[21:50] [0m[35;1mUkyo [Jedi(77)]:[0m Mast: normal [guide][flurry][defunct][0m
+[21:50] [0m[35;1mUkyo [Jedi(77)]:[0m and yes, normal goes up when you're in normal. and yes,[0m
+[21:50] [0m                 there are times that call for it[0m
+[21:51] [0m[35;1mBurnaby [Jedi(56)]:[0m I dont get it. I never fight in normal. how am i at 9?[0m
+[21:51] [0m[35;1mUkyo [Jedi(77)]:[0m just that usually, flurry works better in those cases,[0m
+[21:51] [0m                 except when saturation gets to be a problem[0m
+[21:51] [0m[35;1mUkyo [Jedi(77)]:[0m normal goes up no matter what mode you're using, wether it[0m
+[21:51] [0m                 be guide or flurry[0m
+[21:52] [0m[35;1mBurnaby [Jedi(56)]:[0m ok. but does it go up *faster* if I'm specifically in[0m
+[21:52] [0m                    normal?[0m
+[21:52] [0m[35;1mUkyo [Jedi(77)]:[0m think of normal as the base damage you will do, and guide[0m
+[21:52] [0m                 as the focused damage.[0m
+[21:52] [0m[35;1mUkyo [Jedi(77)]:[0m no, it goes up 'faster' in flurry.[0m
+[21:52] [0m[35;1mBurnaby [Jedi(56)]:[0m so a high normal benefits the other modes[0m
+[21:52] [0m[35;1mUkyo [Jedi(77)]:[0m yes, high normal makes other modes that much more bs[0m
+[21:53] [0m[35;1mBurnaby [Jedi(56)]:[0m oof. I dunno. I can already kill brainy smurf. I think[0m
+[21:53] [0m                    I've hit end game content[0m
+[21:53] [0m[35;1mUkyo [Jedi(77)]:[0m so, i can only imagine how much damage hyuga is doing, with[0m
+[21:53] [0m                 his normal above adept(read: over 15)[0m
+[21:54] [0m[35;1mBurnaby [Jedi(56)]:[0m we dont need to see a trainer to go above anyuthing do[0m
+[21:54] [0m                    we?[0m
+[21:54] [0m[35;1mUkyo [Jedi(77)]:[0m err, no?[0m
+[21:54] [0m[35;1mUkyo [Jedi(77)]:[0m you mean like crafting? oh hell no[0m
+[21:54] [0m[35;1mBurnaby [Jedi(56)]:[0m well you say adept. makes me think we gotta see a[0m
+[21:54] [0m                    trainer to advance it[0m
+[21:55] [0m[35;1mUkyo [Jedi(77)]:[0m nothing that . . . i would like to say 'retarded', but i[0m
+[21:55] [0m                 actually think i understand why those 'training steps' were[0m
+[21:55] [0m                 put in place in the first place.[0m
+[21:56] [0m[35;1mUkyo [Jedi(77)]:[0m oh, i'm refering to crafting, btw[0m
+[21:56] [0m[35;1mUkyo [Jedi(77)]:[0m for context[0m
+[21:56] [0m[35;1mUkyo [Jedi(77)]:[0m sorry if that wasn't understood[0m
+[21:57] [0m[35;1mUkyo [Jedi(77)]:[0m no, Nanook's code is much more borked than even Flaxen[0m
+[21:57] [0m                 could imagine in his wildest wettest dreams of making buggy[0m
+[21:57] [0m                 and bizarre code. At least, that's the story we've been fed[0m
+[21:57] [0m                 about the original code[0m
+[21:58] [0m[35;1mUkyo [Jedi(77)]:[0m I'd like to think it was originally intended to 'integrate'[0m
+[21:58] [0m                 things for lightsiders, but over the years, has been[0m
+[21:58] [0m                 dismantled one piece at a time and no longer operates as he[0m
+[21:58] [0m                 intended it to.[0m
+[21:58] [0m[35;1mBurnaby [Jedi(56)]:[0m do you think having dodge active takes away from having[0m
+[21:58] [0m                    fdef activate?[0m
+[21:58] [0m[35;1mUkyo [Jedi(77)]:[0m you know, like the way you have to have animal affinity if[0m
+[21:58] [0m                 you want to cloud a zombie.[0m
+[21:59] [0m[35;1mUkyo [Jedi(77)]:[0m no[0m
+[21:59] [0m[35;1mUkyo [Jedi(77)]:[0m fdef fires first.[0m
+[21:59] [0m[35;1mUkyo [Jedi(77)]:[0m i keep everything up at all times[0m
+[21:59] [0m[35;1mBurnaby [Jedi(56)]:[0m does flurry grant more dodge or fdef attemtpts or just[0m
+[21:59] [0m                    saber swings[0m
+[21:59] [0m[35;1mUkyo [Jedi(77)]:[0m then again, i've also got Sense trained way out in front of[0m
+[21:59] [0m                 control/alter atm.[0m
+[22:00] [0m[35;1mUkyo [Jedi(77)]:[0m saber/dagger swings[0m
+[22:00] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[22:02] [0m[35;1mBurnaby [Jedi(56)]:[0m ha! daggers flurry 4 is doing more damage than saber[0m
+[22:02] [0m                    flurry 1[0m
+[22:03] [0m[35;1mUkyo [Jedi(77)]:[0m yea, daggers are highly under rated and appreciated.[0m
+[22:04] [0m[35;1mUkyo [Jedi(77)]:[0m that said, flurry is akin to melee/h2h, damage wise.[0m
+[22:04] [0m[35;1mBurnaby [Jedi(56)]:[0m 20 extra rounds to kill a golem[0m
+[22:04] [0m[35;1mUkyo [Jedi(77)]:[0m at least, i think it is. haven't really done a lot of[0m
+[22:04] [0m                 testing, tbh, but it's the way things seem in my mind. i[0m
+[22:04] [0m                 could be wrong.[0m
+[22:05] [0m[35;1mUkyo [Jedi(77)]:[0m i was stoked when i started dropping mils and 2 mils in[0m
+[22:05] [0m                 flurry.[0m
+[22:05] [0m[35;1mBurnaby [Jedi(56)]:[0m well these 180ks arent standing a chance. haha[0m
+[22:06] [0m[35;1mUkyo [Jedi(77)]:[0m top end, though, flurry has three uses.[0m
+[22:07] [0m[35;1mUkyo [Jedi(77)]:[0m a) you want to stretch the fight out for gxp/fdefxp, b)[0m
+[22:07] [0m                 you're killing pedes and don't want them to get miffed[0m
+[22:07] [0m                 because guide hits WAY too hard, and even then, i can't use[0m
+[22:07] [0m                 my saber flurry any more, it hits too hard now, so, normal?[0m
+[22:07] [0m                 c) i had a third reason, but can't remember it anymore.[0m
+[22:08] [0m[35;1mAsp [Jedi(44)]:[0m dragon scales[0m
+[22:08] [0m[35;1mUkyo [Jedi(77)]:[0m oh, that's right! C)you want to train Normal Mastery[0m
+[22:08] [0m                 faster![0m
+[22:08] [0m[35;1mBurnaby [Jedi(56)]:[0m ok. pedes have been mentioned several times. what/where[0m
+[22:08] [0m                    are they[0m
+[22:08] [0m[35;1mBurnaby [Jedi(56)]:[0m and why[0m
+[22:08] [0m[35;1mUkyo [Jedi(77)]:[0m pedes are an exceedingly dangerous group of beasties that I[0m
+[22:08] [0m                 have been killing for YEARS.[0m
+[22:08] [0m[35;1mUkyo [Jedi(77)]:[0m they're deep in the ant caves.[0m
+[22:09] [0m[35;1mBurnaby [Jedi(56)]:[0m what class?[0m
+[22:09] [0m[35;1mUkyo [Jedi(77)]:[0m also, their gear is fairly decent, but the risk is great,[0m
+[22:09] [0m                 but, once learned, managable.[0m
+[22:09] [0m[35;1mUkyo [Jedi(77)]:[0m hr. up to 500k's?[0m
+[22:10] [0m[35;1mUkyo [Jedi(77)]:[0m and you have to kill pedelings when they spawn, or 'bad[0m
+[22:10] [0m                 things'[0m
+[22:10] [0m[35;1mUkyo [Jedi(77)]:[0m yea, looks like they're mostly 500k's, give or take twenty[0m
+[22:11] [0m[35;1mAsp [Jedi(44)]:[0m paging Reena, you're wanted in the lobby[0m
+[22:11] [0m[35;1mUkyo [Jedi(77)]:[0m what do you need? at or regular?[0m
+[22:11] [0m[35;1mAsp [Jedi(44)]:[0m yeah both[0m
+[22:11] [0m[35;1mUkyo [Jedi(77)]:[0m i'm almost done with this mining run[0m
+[22:13] [0m[35;1mUkyo [Jedi(77)]:[0m in guest chambers, not invis[0m
+[22:13] [0m[35;1mUkyo [Jedi(77)]:[0m just tug for teaching[0m
+[22:13] [0m[35;1mUkyo [Jedi(77)]:[0m i'm going to go get cleaned up and get this sun block off[0m
+[22:13] [0m                 my face.[0m
+[22:14] [0m[34;1mKitt shouts:[0m VAGRANT is our DAddy![0m
+[22:14] [0m[35;1mAsp [Jedi(44)]:[0m cheers[0m
+[22:14] [0m[34;1mWhisper shouts:[0m dad, is a vagrant?[0m
+[22:26] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[22:42] [0m[34;1mGilead shouts:[0m hot dog![0m
+[22:44] [0mYou can currently reforge 12 items.[0m
+[22:44] [0m[34;1mKitt shouts:[0m All Hail Megatron![0m
+[22:44] [0m[34;1mMud shouts:[0m unicron[0m
+[22:44] [0m[34;1mRaest shouts:[0m Soundwave ftw![0m
+[22:46] [0mArmy shouts: Game reboot in 10 minutes[0m
+[22:46] [0m[34;1mElminster shouts:[0m boo![0m
+[22:46] [0m[34;1mVoodoo shouts:[0m Screw you Army![0m
+[22:46] [0m[34;1mBeebo shouts:[0m Nooooo I'll lose my buffs from missions![0m
+[22:48] [0m[32mKikipopo tells you:[0m Did I get you with my fake Army shout?[0m
+[22:48] [0m[34;1mArahnapogue shouts:[0m of course![0m
+[22:48] [0m[34;1mRomulus shouts:[0m heh[0m
+[22:48] [0m[34;1mSimonz shouts:[0m nope, i was botting and missed it[0m
+[22:48] [0m[34;1mDin shouts:[0m nope, was too busy stroking my ego by reading my quora content[0m
+[22:49] [0m[34;1mSimonz shouts:[0m you'll go blind like that...[0m
+[22:49] [0m[34;1mHooligan shouts:[0m the army is coming?[0m
+[22:50] [0m[34;1mHadriene shouts:[0m I knew it. The jedi are taking over...[0m
+[22:54] [0m[Clan] Byron : hmmm wonder if you can duoe the field of elements thingy. or[0m
+[22:54] [0m               what would hapoen if i try[0m
+[22:59] [0m[Clan] Nix : youve neverbeen shy about breaking shit before give it a try[0m
+[23:00] [0m[34;1mRomulus shouts:[0m woo[0m
+[23:00] [0m[34;1mNooster shouts:[0m WOoo![0m
+[23:01] [0m[35;1mCall [Jedi(23)]:[0m i forgot how weak my jedi is compared to my bladesinger[0m
+[23:01] [0m                 now..[0m
+[23:01] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[23:01] [0m[Clan] Byron : 4 hrs from my dupe. definitely going to try[0m
+[23:02] [0m[35;1mUkyo [Jedi(77)]:[0m the problem with most droids is they only work if they can[0m
+[23:02] [0m                 follow you into the area you're going into.[0m
+[23:02] [0m[Clan] Byron : woild be crazy if you could stack those[0m
+[23:03] [0m[35;1mAsp [Jedi(44)]:[0m yeah, strikes me as very weird that they can't go into[0m
+[23:03] [0m                noport zones[0m
+[23:06] [0m[35;1mUkyo [Jedi(77)]:[0m i suppose part of the reason i've never used an alt is[0m
+[23:06] [0m                 because the jedi power curve is long and requires a bit of[0m
+[23:06] [0m                 dedication.[0m
+[23:06] [0m[35;1mUkyo [Jedi(77)]:[0m at least, it is under most circumstances.[0m
+[23:06] [0m[35;1mUkyo [Jedi(77)]:[0m oh, bugs!!![0m
+[23:06] [0m[35;1mAsp [Jedi(44)]:[0m i was stronger in about 3 combat days than my 40 cdays in[0m
+[23:06] [0m                blades[0m
+[23:07] [0m[35;1mAsp [Jedi(44)]:[0m jedi are MONSTERS[0m
+[23:07] [0m[35;1mSimonz [Jedi(62)]:[0m rawr[0m
+[23:07] [0m[35;1mUkyo [Jedi(77)]:[0m they are now, you should have seen us a decade ago. i had[0m
+[23:07] [0m                 100 days combat and still couldn't kill more than a 100k[0m
+[23:07] [0m[35;1mUkyo [Jedi(77)]:[0m probably more combat time than that, considering my haitus[0m
+[23:08] [0m[35;1mCall [Jedi(23)]:[0m you heard it from asp. jedi need to be downgraded.[0m
+[23:08] [0m[35;1mUkyo [Jedi(77)]:[0m actually, i don't really know. but, i do know this, you[0m
+[23:08] [0m                 know that Ferret com about Wexmuk? there's a reason for[0m
+[23:08] [0m                 that being there. it's a reminder that we sucked, and we[0m
+[23:08] [0m                 sucked hard, for a VERY long time.[0m
+[23:08] [0m[35;1mAsp [Jedi(44)]:[0m other guilds upgraded more like[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m RAGEQUIT[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m We are the people our parents warned us about.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m If you can't convince them, confuse them.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m The first sign of maturity is the discovery that the volume[0m
+[23:09] [0m                 knob also turns to the left.[0m
+[23:09] [0m[35;1mCall [Jedi(23)]:[0m im going to have to recommend the guild be downgraded to[0m
+[23:09] [0m                 have power just behind current gentech[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m sorry for the spam, but i want you to see it[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m The first sign of maturity is the discovery that the volume[0m
+[23:09] [0m                 knob also turns to the left.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m The first sign of maturity is the discovery that the volume[0m
+[23:09] [0m                 knob also turns to the left.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m Those who cannot remember the past will spend a lot of time[0m
+[23:09] [0m                 looking for their cars in mall parking lots.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m Murphy's Eighth Law: If everything seems to be going well,[0m
+[23:09] [0m                 you have obviously overlooked something.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m Murphy's Eighth Law: If everything seems to be going well,[0m
+[23:09] [0m                 you have obviously overlooked something.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m Attachment leads to jealousy, the shadow of greed that is.[0m
+[23:09] [0m                 Train yourself to let go of everything you fear to lose.[0m
+[23:09] [0m                 --Master Yoda[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m Ohh, a great warrior, hmmm? Wars not make one great.[0m
+[23:09] [0m                 --Master Yoda[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m I've been in this stupid guild for over THREE WEEKS and I[0m
+[23:09] [0m                 *still* can't kill the undead knight![0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m Sheep screams something incomprehensible at you, then looks[0m
+[23:09] [0m                 at you quizzically awaiting a responce.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m I either Get what I want or I change my mind.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m I either Get what I want or I change my mind.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m Sheep screams something incomprehensible at you, then looks[0m
+[23:09] [0m                 at you quizzically awaiting a responce.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m If you think nobody cares if you're alive, try missing a[0m
+[23:09] [0m                 couple of car payments.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m I've been in this stupid guild for over THREE WEEKS and I[0m
+[23:09] [0m                 *still* can't kill the undead knight![0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m You know there is a problem with the education system when[0m
+[23:09] [0m                 you realize that out of the 3 R's only one begins with an[0m
+[23:09] [0m                 R.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m We are the people our parents warned us about.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m There are three kinds of lies: lies, damned lies, and[0m
+[23:09] [0m                 statistics.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m Those who cannot remember the past will spend a lot of time[0m
+[23:09] [0m                 looking for their cars in mall parking lots.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m I wonder how much dust has settled on Alerik from all his[0m
+[23:09] [0m                 idling?[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m I've been in this stupid guild for over THREE WEEKS and I[0m
+[23:09] [0m                 *still* can't kill the undead knight![0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m Happiness is having a large, loving, caring, close-knit[0m
+[23:09] [0m                 family in another city.[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m Ferret screams at you "Get out of Wexsmuk that's MY CITY!!"[0m
+[23:09] [0m[35;1mUkyo [Jedi(77)]:[0m that one[0m
+[23:10] [0m[Clan] Sock wiggles off your foot.  [0m
+[23:10] [0m[35;1mUkyo [Jedi(77)]:[0m Ferret, heck, all of us, spent an absurd amount of time in[0m
+[23:10] [0m                 what we'd now call newbie areas because we were so weak.[0m
+[23:10] [0m[35;1mSimonz [Jedi(62)]:[0m i'm assuming that's a lowbie area?[0m
+[23:11] [0m[35;1mUkyo [Jedi(77)]:[0m yea. 50k's, iirc[0m
+[23:11] [0m[35;1mUkyo [Jedi(77)]:[0m and that was pushing it[0m
+[23:11] [0m[35;1mUkyo [Jedi(77)]:[0m stacks of them.[0m
+[23:11] [0m[35;1mCall [Jedi(23)]:[0m perhaps adalius can do the downgrade[0m
+[23:12] [0m[35;1mUkyo [Jedi(77)]:[0m then riekl came and deflect got taken away and, and, and, .[0m
+[23:12] [0m                 . . ;ecom sheds tears for the lost Deflect Mode.[0m
+[23:12] [0m[35;1mUkyo [Jedi(77)]:[0m so much for stacking that command[0m
+[23:12] [0m[35;1mCall [Jedi(23)]:[0m you still have deflect[0m
+[23:12] [0m[35;1mUkyo [Jedi(77)]:[0m No, we don't. we have Force Deflect, which is another beast[0m
+[23:12] [0m                 all together[0m
+[23:13] [0m[35;1mCall [Jedi(23)]:[0m that's good enough.[0m
+[23:13] [0m[35;1mUkyo [Jedi(77)]:[0m info deflect, vs info force deflect[0m
+[23:13] [0m[35;1mUkyo [Jedi(77)]:[0m no, it isn't.[0m
+[23:13] [0m[35;1mUkyo [Jedi(77)]:[0m worlds of difference.[0m
+[23:13] [0m[35;1mUkyo [Jedi(77)]:[0m especially vs mobs that hit a lot[0m
+[23:14] [0m[35;1mCall [Jedi(23)]:[0m true.[0m
+[23:14] [0m[35;1mUkyo [Jedi(77)]:[0m both, might be a bit OP, tbh.[0m
+[23:14] [0m[35;1mCall [Jedi(23)]:[0m my bladesinger can do mines level 6 where my jedi can't[0m
+[23:16] [0m[35;1mKarisia [Jedi(0)]:[0m what is the rcost command for jedi[0m
+[23:16] [0m[35;1mCall [Jedi(23)]:[0m focus check /cost[0m
+[23:18] [0m[35;1mCall [Jedi(23)]:[0m the cool thing i like is the armor i make and rune for my[0m
+[23:18] [0m                 bladesinger i can also wear as a jedi[0m
+[23:18] [0m[35;1mUkyo [Jedi(77)]:[0m info commands is also usefull[0m
+[23:21] [0m[35;1mCall [Jedi(23)]:[0m there is one force ability i would like to see[0m
+[23:23] [0mYou can currently reforge 12 items.[0m
+[23:23] [0m[35;1mCall [Jedi(23)]:[0m force feed like darth nihilus had. have it wear everything[0m
+[23:23] [0m                 living in a realm is killed and fed off by the force.[0m
+[23:23] [0mYou can currently reforge 12 items.[0m
+[23:23] [0m[35;1mUkyo [Jedi(77)]:[0m soul siphon?[0m
+[23:24] [0m[35;1mCall [Jedi(23)]:[0m soul siphon but on a planetary scale[0m
+[23:30] [0m[34;1mHooligan shouts:[0m woot[0m
+[23:32] [0mDyne <C-Trade>: Anyone have Sup Rage essences?[0m
+[23:34] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[23:40] [0m[Clan] Archimedes leaves the game.  [0m
+[23:40] [0m[Clan] Xaro leaves the game.  [0m
+[23:45] [0mYou can currently reforge 4 items.[0m
+[23:47] [0m[35;1mSimple [Jedi(27)]:[0m teacher needed for dodge 9 lsc 8[0m
+[23:47] [0m[35;1mUkyo [Jedi(77)]:[0m brt[0m
+[23:47] [0m[35;1mUkyo [Jedi(77)]:[0m guest chambers[0m

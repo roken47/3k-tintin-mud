@@ -1,0 +1,76 @@
+#class {cash} {kill}
+#class {cash} {open}
+
+coins
+#act {^You are carrying %d coins in loose change.$} {#var coins[cur_hand] %1}
+#act {^%d coins (weightless)$} {#var coins[cur_hand] %1}
+#act {^You have %d coins in the bank.$} {#var coins[bank] %1}
+#act {^coins (%d): Taken.$} {#var coins[taken] %1}
+#math {coins[cur_hand]} {($coins[cur_hand] + $coins[taken])}
+#math {coins[total]} {($coins[cur_hand] + $coins[bank])}
+#act {^Thank you Roken, your new balance is: %d coins.$} {#var coins[hand] 0;#var coins[bank] %1}
+#format {coins_total} {%s%g} {$} {$coins[total]}
+#format {coins_hand} {%s%g} {$} {$coins[cur_hand]}
+#format {coins_bank} {%s%g} {$} {$coins[bank]}
+#format {coinsmsg} {%s %s %s %s %s %s %s %s %s} {<169>Coins in <170>[Hand]} {<F0F0>} {$coins_hand} {<F170>[Bank]} {<F0F0>} {$coins_bank} {<F0F0>[Total]} {<F0F0>} {$coins_total}
+
+#class {cash} {close}
+
+#class {actions} {kill}
+#class {actions} {open}
+
+/*	Combat		*/
+#nop --- Droids to inactivate for any bot script.
+#act {^[MoNSTaR]Roken's%*.$} {#NOP} {1};
+#nop ---
+#act {^Warning! In neutral mode, pick a combat mode!$} {w1};
+#act {^You feel less awesomesauce.$} {adis shi};
+#act {^Encircling %* in a yellowy haze of mystic adrenaline, it looks much} {#delay {800} {(enlarge}} 
+#act {dealt the killing blow to} {corpsetrig}
+#act {%1 resists your attempt to cloud} {focus cloud mind}
+#act {^Your {lightsaber|lightstaff|lightdaggers} has run out of charge. Luckily you have a spare energy cell.$} {get cell from pack;ep}
+#act {^A diatium power cel~ [%d]$} {#var {cells} {%1}};
+#act {^A diatium power cel~$} {#var {cells} {001}}
+#act {^Nothing} {#var {cells} {000}}
+#act {^That is not here or it is uninteresting. (pack?)} {#var {cells} {000}}
+#act {^You are fully rejuvenated and thus exit your trance.} {m};
+#act {^You have no need to enter a restorative trance.} {m};
+#act {^You stir from your meditation, the sense of calm lost.} {m};
+#act {^You abruptly exit your hibernation trance.} {htrance};
+#act {^You must rest a moment to attain the proper mindset} {#delay {4} {htrance}};
+#act {^You have no need to meditate.} {.bot};
+#act {^Your meditation has cleared your thoughts} {.bot};
+#act {^You have no need to enter a hibernation trance.} {m};
+#nop --- Wimpy Commands
+#act {^Your legs tried to run away, but failed.$} {/wipeout;/wimpout}
+#act {^Your legs run away with you!} {/wipeout;#showme <110>Wimpy was to a random direction!}
+#act {^Your legs run away with you %*.$} {/wipeout;/wimpout}
+#act {^You feel less awesomesauce.$} {adis shi;dis shi}
+#if {"$mobname" == "terra"} {dis shi;(energy well};
+#act {^[PARTY] Roken joins the party.$} {tank off} {1};
+#act {^[PARTY] New leader for the party: roken.$} {tank off} {1};
+#act {^[PARTY] Roken has quit the party.$} {tank on} {1};
+
+/*	Crafting	*/
+
+#act {^You have created something new!$} {retrieve all}
+#nop ---Chef
+#act {^A Tome of 'To Serve Man', Volume I.$} {get tome;sm tome}
+#nop ---Farmer
+#act {^A Tome of 'A Farmer's Journey', Volume I.$} {get tome;sm tome}
+
+/*	Adventuring	*/
+#act {^You can sense the power of the force cloaking your presence!$} {#var cloak on;#gag %0}
+/*	Misc	*/
+#act {^You finally wake up again after drifting through time and space for what} {S east wall}
+#act {^about it.  You start to get bored of searching so you stop.$} {S east wall}
+#act {^You search the east wall very carefully and notice one of the spikes is} {exa spike}
+#act {^This long spike looks like it can be pushed in.$} {push spike}
+#act {^You push the longer spike with all your strength, trying not to impale} {#showme <170> PROCEED TO SKELETAL LORD}
+
+#act {tugs on your sleeve persistently.} {focus teaching}
+/*	Transmuter	*/
+#act {^*A Transmuter's Stone (filled with %d colours)} {#gag {%0};#var {pxp[transmuter]} {%1}}
+#act {^You have %d colours remaining, swirling happily.} {#var {pxp[transmuter]} {%1}}
+#act {^*A Transmuter's Stone (blank)} {#var pxp[transmuter] 0}
+#class {actions} {close}

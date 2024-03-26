@@ -1,0 +1,927 @@
+- = LOG STARTED [00:00] = -
+[09:08] [0m[31;1m[Clan] Roken :[0m morning[0m
+[09:09] [0m[Auction] Fluffy (chan) : Huge Terran Firebat -{beyond your imagination)- = 7  ... Huge Terran[0m
+[09:09] [0m                          Firebat -{out of control}-  = 6    Huge Terran Firebat -{terrifying}-[0m
+[09:09] [0m                          = 5 ... dont give a krap about the smaller runt/never bothered[0m
+[09:09] [0m[31;1m[Clan] Roken :[0m windows being dumb, chrome crashed/locked up my pc twice with two tabs[0m
+[09:09] [0m[31;1m[Clan] Nameless :[0m ooof[0m
+[09:10] [0m[Auction] Ziphe (prie) : yeah I was crossing cmc and firebat names[0m
+[09:10] [0m[31;1m[Clan] Roken :[0m definite correlation.. hasn't usually. I have mail, discord, chrome, and counter[0m
+[09:10] [0m               strike opened in the foreground when it did[0m
+[09:10] [0m[31;1m[Clan] Roken :[0m and putty[0m
+[09:10] [0m[31;1m[Clan] Nameless :[0m ahhh putty[0m
+[09:13] [0mVerminous <Craft>: Meethreel![0m
+[09:13] [0m[31;1m[Clan] Nameless :[0m mtg arena seems to crash my comp more often than not, but only really when[0m
+[09:13] [0m                  chrome is up (and facebook, by extension)[0m
+[09:14] [0mVerminous <Craft>: It's reeeeeeal![0m
+[09:18] [0m[31;1m[Clan] Roken :[0m speaking of mtg arena... can't wait for its ios release[0m
+[09:18] [0m[31;1m[Clan] Roken :[0m sure you have seen it on your droid?[0m
+[09:18] [0m[31;1m[Clan] Nameless :[0m yeah i saw it was released for mobile, wasnt sure if it was droid only, thats[0m
+[09:18] [0m                  a shame[0m
+[09:19] [0m[31;1m[Clan] Nameless :[0m scaler 130 hotel, at least top floor is ezpz, and i remember that giving me[0m
+[09:19] [0m                  trouble in the past[0m
+[09:20] [0m[31;1m[Clan] Nameless :[0m might have to try the vamps someday but not solo i dont think[0m
+[09:20] [0m[31;1m[Clan] Oscar :[0m who wants a shitty mage behind them[0m
+[09:20] [0m[31;1m[Clan] Roken :[0m oh iphone buddy? it's coming always later to iphone for maybe a better QC face[0m
+[09:20] [0m               for Apple?[0m
+[09:20] [0m[31;1m[Clan] Oscar :[0m shitty for 3% more[0m
+[09:20] [0m[31;1m[Clan] Oscar :[0m get in my good graces today![0m
+[09:20] [0m[31;1m[Clan] Nameless :[0m grin[0m
+[09:20] [0m[31;1m[Clan] Nameless :[0m i gotta head out in like 10 mins, but maybe when im back either hotel or secz[0m
+[09:20] [0m                  if your dungeons arent spoken for[0m
+[09:25] [0m[31;1m[Clan] Roken :[0m how much xp to gain in secz over a day?[0m
+[09:26] [0m[34;1mLeto shouts:[0m screams in horror![0m
+[09:26] [0m[34;1mZiphe shouts:[0m Ok El Mister[0m
+[09:26] [0m[37;1mPrismal flaps :[0m if you don't do it until you die then you are a coward[0m
+[09:26] [0m[31;1m[Clan] Nameless :[0m hmm, i dunno how to track that[0m
+[09:27] [0m[34;1mVerminous shouts:[0m Again![0m
+[09:27] [0m[31;1m[Clan] Nameless :[0m i guess do a pstats clear before going in[0m
+[09:29] [0m[37;1mRoken flaps :[0m anyone know of a cli syntax to listen to tintin's #bell?[0m
+[09:29] [0m[37;1mGlorfindel flaps :[0m What do you mean?  To test it?[0m
+[09:30] [0m[37;1mZiphe flaps :[0m type #bell[0m
+[09:30] [0m[37;1mZiphe flaps :[0m if you don't hear a bell, your audio doesn't work, or your system bell isn't setup[0m
+[09:30] [0m[37;1mWhoknows flaps :[0m wish you could customize it more instead of just #bell[0m
+[09:30] [0m[37;1mZiphe flaps :[0m what OS are you on?[0m
+[09:30] [0m[37;1mLocrian flaps :[0m and #help bell will show you lots of info you can do with it![0m
+[09:30] [0m[37;1mVerminous flaps :[0m sounds like linux[0m
+[09:30] [0m[31;1m[Clan] Nameless :[0m ah nevermind, i still suck, not needing heals but karma still runs net[0m
+[09:30] [0m                  negative, sigh[0m
+[09:30] [0m[37;1mZiphe flaps :[0m it's using a terminal bell whoknows, this is tech that predates sound cards[0m
+[09:31] [0m[37;1mWhoknows flaps :[0m yeah me too[0m
+[09:31] [0m[37;1mWhoknows flaps :[0m sorry misread that[0m
+[09:31] [0m[37;1mWhoknows flaps :[0m yeah, at least with putty you can customize the sound, but not for specific[0m
+[09:31] [0m                 things[0m
+[09:31] [0m[37;1mBliss flaps :[0m doh! I never did #help bell, I was assuming it just beeped[0m
+[09:31] [0m[31;1m[Clan] Oscar :[0m few bil depending on scaler[0m
+[09:31] [0m[37;1mZiphe flaps :[0m if it's linux, open a terminal and hit control-g at the same time. If you don't[0m
+[09:31] [0m              hear a bell, your terminal bell is broken[0m
+[09:31] [0m[37;1mBliss flaps :[0m silly me[0m
+[09:31] [0m[31;1m[Clan] Oscar :[0m sz is da shit[0m
+[09:32] [0m[31;1m[Clan] Nameless :[0m gonna test with mask on and see[0m
+[09:33] [0m[31;1m[Clan] Nameless :[0m i think 130 with some decent ish dmg would be doable, really seems my issue is[0m
+[09:33] [0m                  making sure i kill things in 50 rounds or less, regardless of any level of dmg[0m
+[09:33] [0m                  incoming i guess[0m
+[09:33] [0m[37;1mElminster flaps :[0m putty lets you choose a custom sound, and can point to a wav file of whatever[0m
+[09:34] [0m[37;1mWhoknows flaps :[0m i like how portal allows for .wavs for specific emotes[0m
+[09:35] [0mFd  Wm:g Wc: 94% Gx: 74.57% Fx: 77.20%[0m
+[09:35] [0m[37;1mNameless flaps :[0m that is one thing i liked portal for a lot[0m
+[09:35] [0m[37;1mNameless flaps :[0m i used to have all sorts of sounds assigned for different things[0m
+[09:35] [0m[37;1mZiphe flaps :[0m you can do that in tintin with actions and running system commands[0m
+[09:36] [0m[37;1mZiphe flaps :[0m there are tons of cli audio players for linxu/mac/bsd[0m
+[09:36] [0m[37;1mNameless flaps :[0m one day ill abandon cmud, but i am slow![0m
+[09:36] [0m[37;1mVerminous flaps :[0m What's wrong with cmud now? I thought everyone loved cmud. lol[0m
+[09:36] [0m[37;1mZiphe flaps :[0m problem with playing wav files is that if you use tintin on your phone, that wav[0m
+[09:36] [0m              file is going to be playing on your laptop/desktop/server[0m
+[09:37] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[09:37] [0m[37;1mZiphe flaps :[0m if you stick to the terminal bell, it works anywhere[0m
+[09:37] [0m[37;1mNameless flaps :[0m rofl[0m
+[09:37] [0m[37;1mVerminous flaps :[0m I always used mudlet after Windows/PortalGT didn't get along.[0m
+[09:38] [0m[31;1m[Clan] Nameless :[0m hoping that improves somehow, i guess i just need to hit harder[0m
+[09:38] [0m[37;1mVerminous flaps :[0m Does mudlet even have a bell type feature?[0m
+[09:39] [0m[37;1mVerminous flaps :[0m Ah, the crickets sound nice.[0m
+[09:40] [0m[37;1mDrax flaps :[0m I am not sure about a bell, but you can assign pretty much any audio file through[0m
+[09:40] [0m             triggers.  MP3, WAV etc[0m
+[09:42] [0m[37;1mZiphe flaps :[0m bell is just the legacy name of it, it's up to the terminal emulator to actually[0m
+[09:42] [0m              play the sound. it's configurable in 99% of cases[0m
+[09:42] [0m[37;1mVerminous flaps :[0m Hmm that's good.[0m
+[09:43] [0m[37;1mRoken flaps :[0m on ubuntu and tilix as cli emulator[0m
+[09:43] [0m[37;1mZiphe flaps :[0m hmm tilix, never heard of that term[0m
+[09:43] [0m[37;1mVerminous flaps :[0m Yeah I meant sound playing feature in response to events like triggers. 'bell[0m
+[09:43] [0m                  like' was just shorter[0m
+[09:44] [0m[37;1mZiphe flaps :[0m ok tiling, figured[0m
+[09:44] [0m[37;1mZiphe flaps :[0m looking at their github[0m
+[09:44] [0m[37;1mZiphe flaps :[0m doesn't look like it supports audio bell rn[0m
+[09:44] [0m[37;1mZiphe flaps :[0m https://github.com/gnunn1/tilix/issues/350[0m
+[09:46] [0m[37;1mZiphe flaps :[0m try another terminal[0m
+[09:46] [0m[37;1mZiphe flaps :[0m that's an old post, 2016, hard to say, may just need configuration[0m
+[09:47] [0mDFd  Wm:g Wc: 84% Gx: 74.71% Fx: 77.25%[0m
+[09:47] [0m[37;1mRoken flaps :[0m thank you ziphe[0m
+[09:50] [0m[37;1mZiphe flaps :[0m fosho[0m
+[09:52] [0m[37;1mAdalius flaps :[0m "Today, I will fly." said the penguin. And he did.... The jetpack probably[0m
+[09:52] [0m                helped.[0m
+[09:53] [0m[37;1mRoken flaps :[0m your recommended terminal? alacritty comes to mind[0m
+[09:54] [0m[37;1mBliss flaps :[0m heh I use aterm, so I'm not giving advice[0m
+[09:56] [0m[37;1mLocrian flaps :[0m it would be fun if rating showed you when the area was created and when it was[0m
+[09:56] [0m                last updated. (random thoughts while exploring)[0m
+[10:02] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Deserts of Fantasy![0m
+[10:02] [0m                          We are localizing it now - get ready![0m
+[10:05] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[10:12] [0m[34;1mGumby shouts:[0m desert portal/6w ... theme flaming[0m
+[10:29] [0m[32mZiphe tells you:[0m oh, yes, I use alacritty or macos' terminal.[0m
+[10:29] [0m[32mZiphe tells you:[0m on iOS I use prompt[0m
+[10:31] [0m[32mZiphe tells you:[0m the tiling thing can be achieved by your desktop environment btw[0m
+[10:31] [0m[32mZiphe tells you:[0m i3 is a common tiling window manager[0m
+[10:31] [0m[32mZiphe tells you:[0m so you could run alacritty in i3 and get the same results as tilix I'd[0m
+[10:31] [0m        imagine[0m
+[10:32] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[10:36] [0m[37;1mGaidin flaps :[0m Hey, slackers, get to square-buying.  You don't want me winning again this year[0m
+[10:36] [0m               and I still have a 1/5 chance.  https://www.gaidinbdj.com/3kSquares[0m
+[10:44] [0m[34;1mGumby shouts:[0m event is corroding, not flaming btw ... oops[0m
+[10:44] [0m[34;1mZokko shouts:[0m one burns the other is itchy[0m
+[10:53] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[10:56] [0m[34;1mNightrider shouts:[0m Wait For It![0m
+[10:57] [0m[34;1mRheiu shouts:[0m I farted[0m
+[10:57] [0m[34;1mNightrider shouts:[0m Wait For It![0m
+[10:57] [0m[34;1mNightrider shouts:[0m agotta wait and not fart[0m
+[10:57] [0m[34;1mNightrider shouts:[0m le moo?[0m
+[10:57] [0m[34;1mRaest shouts:[0m le meow[0m
+[10:57] [0m[34;1mVolt shouts:[0m It Logged out 12 years 37 weeks 4 days 57 minutes 9 seconds ago.[0m
+[10:59] [0m[31;1m[Clan] Nameless :[0m alrighty back[0m
+[11:00] [0m[31;1m[Clan] Aka :[0m yoeo[0m
+[11:00] [0m[31;1m[Clan] Oscar :[0m my hero[0m
+[11:00] [0m[31;1m[Clan] Oscar :[0m like 3 hrs to gl![0m
+[11:01] [0m[34;1mZiphe shouts:[0m update your chrome if you use it[0m
+[11:02] [0m[34;1mRaest shouts:[0m anyone know if someone's found a work-around for flash player yet?[0m
+[11:02] [0m[35;1mJohannes [Jedi(20)]:[0m bithoff is mocking me again, by showing up now when i don't need him. He'll[0m
+[11:02] [0m                     be nowhere to be found in a couple hours when i do[0m
+[11:02] [0m[34;1mGaidin shouts:[0m Yes.  HTML5[0m
+[11:02] [0m[34;1mLeto shouts:[0m HA![0m
+[11:08] [0m[31;1m[Clan] Nameless :[0m anyone wanna clea rthe rest of my hotel/ run with me through secz?[0m
+[11:10] [0m[31;1m[Clan] Nameless :[0m iaw so if so wake me, gonna be playing some mtga[0m
+[11:18] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[11:52] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[11:53] [0msCSsRPDFd  Wm:g Wc: 88% Gx: 76.10% Fx: 77.54%[0m
+[11:58] [0m[31;1m[Clan] Saim :[0m anyone want to help sith with paul2?[0m
+[11:59] [0m[32mMorvant says:[0m golem, begone[0m
+[12:02] [0m[37;1mCrolack flaps :[0m RIP Christopher Plummer[0m
+[12:04] [0m[37;1mVolt flaps :[0m He was the evil guy in dreamscape.  i never trusted him after that show.  RIP[0m
+[12:06] [0m[34;1mGumby shouts:[0m plummer![0m
+[12:06] [0m[34;1mGuru shouts:[0m who's that?[0m
+[12:06] [0m[34;1mAl shouts:[0m who's christopher plummer?[0m
+[12:07] [0m[34;1mTex shouts:[0m darn you carona[0m
+[12:07] [0m[34;1mHooligan shouts:[0m Capn Von Trapp Nooooooooooooo[0m
+[12:07] [0m[34;1mElindal shouts:[0m <bigletters>NO ONE CARES</bigletters>[0m
+[12:07] [0m[37;1mSally flaps :[0m another unknown[0m
+[12:07] [0m[37;1mCrolack flaps :[0m Recent movie: Knives Out[0m
+[12:08] [0m[37;1mSally flaps :[0m well I guess taking a knife out is a dangerous thing[0m
+[12:08] [0m[34;1mGuru shouts:[0m Looks like he tanked it for quite a while.[0m
+[12:09] [0m[31;1m[Clan] Nameless :[0m sure[0m
+[12:09] [0m[37;1mKikipopo flaps :[0m Just an Oscar and Tony award winning legend, nbd[0m
+[12:09] [0m[37;1mGumby flaps :[0m nooobz[0m
+[12:09] [0m[31;1m[Clan] Nameless :[0m where is the thingy[0m
+[12:10] [0m[35;1mValmorian [Jedi(0)]:[0m I've been in this stupid guild for over THREE WEEKS and I *still* can't[0m
+[12:10] [0m                     kill the undead knight![0m
+[12:10] [0m[35;1mValmorian [Jedi(0)]:[0m oops[0m
+[12:10] [0m[35;1mPlisken [Jedi(44)]:[0m If you think nobody cares if you're alive, try missing a couple of car[0m
+[12:10] [0m                    payments.[0m
+[12:10] [0m[35;1mJohannes [Jedi(20)]:[0m Murphy's Fourth Law: If there is a possibility that several things can go[0m
+[12:10] [0m                     wrong, then the one that will cause the greatest damage will be the one to[0m
+[12:10] [0m                     go wrong.[0m
+[12:10] [0m[35;1mValmorian [Jedi(0)]:[0m time to try and figure out how to do... anything[0m
+[12:11] [0m[35;1mSaim [Jedi(Elder)]:[0m Welcome Valmorian[0m
+[12:11] [0m[37;1mWhoknows flaps :[0m what has Oscar or Tony done to be winning awards?[0m
+[12:11] [0m[35;1mSally [Jedi(Knight)]:[0m welcome[0m
+[12:11] [0m[37;1mKikipopo flaps :[0m Clearly not a damn thing[0m
+[12:12] [0m[37;1mRaest flaps :[0m i know my Grammy made alot of good music![0m
+[12:14] [0m[37;1mRaest flaps :[0m Mel Brooks is still kicking at 94, and he's won an Oscar, Tony, Grammy AND Emmy. [0m
+[12:14] [0m              He collected awards like they were Pokemon[0m
+[12:14] [0m[37;1mEcholoc flaps :[0m emmy! i choose you![0m
+[12:14] [0m[32mMadmartigan tells you:[0m Hey, Mumbo. Jumbo. I am hungry. Go get me some eggs or something.[0m
+[12:14] [0m[37;1mKikipopo flaps :[0m I didn't know he was an EGOT[0m
+[12:14] [0m[37;1mGaidin flaps :[0m Yep, just like Tracy Jordan.[0m
+[12:15] [0m[34;1mEphemeral shouts:[0m mm eggs[0m
+[12:15] [0m[34;1mPrism shouts:[0m EGGS[0m
+[12:15] [0m[34;1mTex shouts:[0m my hotdogs stay away[0m
+[12:15] [0m[34;1mRaest shouts:[0m GAWD that was a slow game in places[0m
+[12:15] [0m[37;1mEcholoc flaps :[0m Willow! You Iiidiiot![0m
+[12:20] [0m[34;1mMentok shouts:[0m woot[0m
+[12:21] [0m[34;1mJohannes shouts:[0m i was gonna come up with a snarky comment mocking that death, but i decided it[0m
+[12:21] [0m                 would be best to just let it be[0m
+[12:21] [0m[34;1mRaest shouts:[0m in Soviet Russia, Lenon kills you?[0m
+[12:24] [0m[34;1mSarge shouts:[0m Imagine there's no death mocks, it isn't hard to do... no need for snark or salt,[0m
+[12:24] [0m              and no sarcasm too....[0m
+[12:24] [0m[34;1mEcholoc shouts:[0m Down with Pants![0m
+[12:24] [0m[34;1mRaest shouts:[0m up with skirts![0m
+[12:24] [0m[34;1mAlassra shouts:[0m Up with kilts![0m
+[12:25] [0m[34;1mOrthas shouts:[0m e[0m
+[12:26] [0m[34;1mNameless shouts:[0m yoko oh no![0m
+[12:28] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[12:29] [0m[31;1m[Clan] Bruce enters the game.[0m  [0m
+[12:29] [0m[31;1m[Clan] Nameless :[0m so no doing day 7 cmc this boot is the consensus?[0m
+[12:29] [0m[31;1m[Clan] Nameless :[0m just wondering to know if is hould smuggle away another guac[0m
+[12:30] [0m[31;1m[Clan] Saim :[0m depends when it goes off for me and who else is[0m
+[12:30] [0m[31;1m[Clan] Nameless :[0m ill grab one just in case then heh[0m
+[12:30] [0m[31;1m[Clan] Nameless :[0m or try[0m
+[12:31] [0m[37;1mSquirrel <.oO>:[0m woo[0m
+[12:36] [0m[34;1mJohannes shouts:[0m It's a plague of murderous hippies! Someone call eric cartman![0m
+[12:37] [0m[37;1mSquirrel flaps :[0m rip christopher plummer[0m
+[12:40] [0m[31;1m[Clan] Nameless :[0m boggle, no idea when i killed a 95mil clone soldier[0m
+[12:40] [0m[31;1m[Clan] Xaryl :[0m because bards are just too OP![0m
+[12:40] [0m[31;1m[Clan] Nameless :[0m grin[0m
+[12:41] [0m[34;1mSarge shouts:[0m who takes one look at the pile of corpses... "Screw you guys, I'm going home...."[0m
+[12:43] [0m[31;1m[Clan] Nameless :[0m oh yeah, with guac still running these mobs are even easier heh[0m
+[12:47] [0md  Wm:g Wc: 54% Gx: 76.68% Fx: 77.71%[0m
+[12:56] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[12:58] [0mPDFd  Wm:g Wc: 45% Gx: 76.81% Fx: 77.75%[0m
+[13:05] [0m[34;1mZiphe shouts:[0m there can only be 2 Moo![0m
+[13:20] [0m[34;1mCrolack shouts:[0m Ziphe, zero, nauda, nothing![0m
+[13:20] [0m[34;1mRaest shouts:[0m Character Nothing does not exist @ this realm (3k).[0m
+[13:21] [0m[34;1mDin shouts:[0m i really wanted to use the name nobody but it was taken[0m
+[13:21] [0m[34;1mRheiu shouts:[0m Yes, it was.[0m
+[13:21] [0m[34;1mRaest shouts:[0m Nobody knows, the trouble you've seen?[0m
+[13:22] [0m[34;1mDin shouts:[0m il mio nome e` nessuno[0m
+[13:22] [0m[34;1mDin shouts:[0m great movie[0m
+[13:28] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[13:33] [0m[34;1mZartan shouts:[0m DOLORES![0m
+[13:33] [0m[Auction] Whoknows (prie) : 3rd time's a charm?[0m
+[13:33] [0m[37;1mZartan flaps :[0m cletus[0m
+[13:34] [0m[Auction] Kyoujin (knig) : indeed, one of those days[0m
+[13:34] [0m[Auction] Gaidin (chan) : Post it for 10/11[0m
+[13:38] [0m[31;1m[Clan] Oscar :[0m 30k to 160!!!!!!!!!!!![0m
+[13:38] [0m[31;1m[Clan] Decav :[0m omg[0m
+[13:38] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[13:38] [0m[31;1m[Clan] Decav :[0m how many deaths is that?[0m
+[13:39] [0m[31;1m[Clan] Oscar :[0m if i do it in under 7 you owe me 50k[0m
+[13:39] [0m[31;1m[Clan] Decav :[0m haha, deal[0m
+[13:40] [0m[Auction] Killergate (bard) : woot :)[0m
+[13:40] [0m[Auction] Kyoujin (knig) : whew! stupid stupid[0m
+[13:50] [0m[34;1mElindal shouts:[0m CHEATER![0m
+[13:50] [0m[34;1mSissy shouts:[0m simons says .. raise your level![0m
+[13:50] [0m[34;1mSquirrel shouts:[0m simon days gimme your xo[0m
+[13:51] [0m[37;1mSquirrel flaps :[0m xp[0m
+[13:51] [0m[34;1mKagour shouts:[0m so you want his hugs and kisses???? :O[0m
+[13:52] [0m[34;1mEphemeral shouts:[0m Mr. Kagour. I expect you to level![0m
+[13:53] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[14:10] [0m[31;1m[Clan] Ser :[0m yo[0m
+[14:10] [0m[31;1m[Clan] Ser :[0m just picked up a 3090 from microcenter[0m
+[14:12] [0m[31;1m[Clan] Ser :[0m for the low price of 2 house payments[0m
+[14:12] [0m[31;1m[Clan] Zik :[0m laff[0m
+[14:26] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[14:32] [0m[37;1mOnodrim flaps :[0m Going to reset event if anyone's interested..[0m
+[14:34] [0m[31;1m[Clan] Oscar :[0m ok[0m
+[14:34] [0m[31;1m[Clan] Oscar :[0m which of you snitches wanna meet me at jags[0m
+[14:36] [0m[34;1mLeto shouts:[0m No, Oscar. No![0m
+[14:36] [0m[31;1m[Clan] Zik :[0m thats not jags![0m
+[14:37] [0m[31;1m[Clan] Oscar :[0m laf[0m
+[14:43] [0m[37;1mEnder flaps :[0m But, i'm still in here... i dont want to disappear![0m
+[14:52] [0m[31;1m[Clan] Timmy :[0m go dumbo![0m
+[14:59] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[15:01] [0m[31;1m[Clan] Toxin :[0m 16:01 [Politics:Toxin] Democrat Governors are Cucks[0m
+[15:02] [0m[37;1mCaeli flaps :[0m DM told me he's pretty muching looking to TPK us.[0m
+[15:02] [0m[31;1m[Clan] Prism :[0m Stop stirring up shit you troll![0m
+[15:02] [0m[31;1m[Clan] Toxin :[0m laf, execute em all[0m
+[15:02] [0m[37;1mJeraud flaps :[0m Well that's not a surprise.[0m
+[15:02] [0m[31;1m[Clan] Prism :[0m only dem governors? :P[0m
+[15:03] [0m[31;1m[Clan] Toxin :[0m no ALL[0m
+[15:03] [0m[31;1m[Clan] Toxin :[0m i just like shitting on caeli[0m
+[15:03] [0m[31;1m[Clan] Prism :[0m I like my governor :([0m
+[15:03] [0m[31;1m[Clan] Prism :[0m but if shes gotta go shes gotta go[0m
+[15:03] [0m[31;1m[Clan] Toxin :[0m i hate my governor fucking libtard[0m
+[15:03] [0m[31;1m[Clan] Prism :[0m who is yours[0m
+[15:03] [0m[31;1m[Clan] Toxin :[0m ... and i'm done[0m
+[15:03] [0m[31;1m[Clan] Toxin :[0m Philice Murphy[0m
+[15:03] [0m[31;1m[Clan] Toxin :[0m i mean Phillip Murphy[0m
+[15:03] [0m[37;1mCaeli flaps :[0m We can't even get close to the BBEG without being turned into ice carvings.[0m
+[15:04] [0m[37;1mCaeli flaps :[0m Like 100 miles close.[0m
+[15:04] [0m[37;1mAlassra flaps :[0m hooray for plot armor?[0m
+[15:05] [0m[37;1mCaeli flaps :[0m What plot armor?[0m
+[15:05] [0m[37;1mCaeli flaps :[0m I'm the DMs gf and he's still trying to kill my character.[0m
+[15:05] [0m[31;1m[Clan] Toxin :[0m i refuse to get vaccinated[0m
+[15:05] [0m[37;1mAlassra flaps :[0m no, the end boss having plot armor[0m
+[15:05] [0m[31;1m[Clan] Toxin :[0m and im throwing a rager for super bowl[0m
+[15:06] [0m[37;1mJeraud flaps :[0m It's a white dragon. No plot armor needed. Just usual dragon-y stuff.[0m
+[15:06] [0m[37;1mCaeli flaps :[0m Ah, yes. It's a god and let's not forget all the dragons.  Nope, the BEG is a Yeti[0m
+[15:06] [0m              god[0m
+[15:08] [0m[34;1mGilead shouts:[0m Last death, 17 hours, 13 min, 24 seconds[0m
+[15:09] [0m[34;1mJeraud shouts:[0m No it wasn't. 17 minutes ago, maybe.[0m
+[15:10] [0m[31;1m[Clan] Nameless :[0m goddamn bastard ass rogues playing scum, i hope they get castrated in their[0m
+[15:10] [0m                  sleep and someone shits in the hole where their tiny tiny nads used to be[0m
+[15:11] [0m[37;1mCaeli flaps :[0m The only way I can see the whole party surviving is if I can convince the god[0m
+[15:11] [0m              somehow to make our islands back into demiplanes. My character is True neutral so[0m
+[15:11] [0m              if the rest of the mains die, he'd be out.[0m
+[15:11] [0m[31;1m[Clan] Aka :[0m haha[0m
+[15:11] [0m[31;1m[Clan] Aka :[0m pew pew[0m
+[15:11] [0m[34;1mZiphe shouts:[0m there can only be 3 Moo![0m
+[15:16] [0m[34;1mGilead shouts:[0m ~5 min[0m
+[15:16] [0m[34;1mSissy shouts:[0m deathbot 9000 .. functioning perfectly[0m
+[15:22] [0m[37;1mJazz flaps :[0m what is the point of < operator in Reflexes? It makes sense if not using it makes[0m
+[15:22] [0m             it a one shot reflex when gp1 crosses, but < just seems redundant? Intentional?[0m
+[15:23] [0m[37;1mOscar flaps :[0m huh[0m
+[15:23] [0m[37;1mOscar flaps :[0m im not sure how reflexes would.work without < or >[0m
+[15:23] [0m[37;1mJazz flaps :[0m they do[0m
+[15:24] [0m[37;1mJazz flaps :[0m but < adds nothing[0m
+[15:24] [0m[37;1mJazz flaps :[0m > is quite useful[0m
+[15:24] [0m[37;1mOscar flaps :[0m so it defaults to < then[0m
+[15:24] [0m[37;1mJazz flaps :[0m yes, which just makes the operator redundant. It would be cool of no args just made[0m
+[15:24] [0m             it a one shot trigger[0m
+[15:25] [0m[37;1mAdalius flaps :[0m As comments in multiple code files around here attest, 'Explicity is nice'[0m
+[15:25] [0m[37;1mOscar flaps :[0m ya, agreed[0m
+[15:26] [0m[37;1mOscar flaps :[0m reflex add hp <2 flapchat a mend! i need a mend![0m
+[15:29] [0m[37;1mJazz flaps :[0m eg. reflex sp 50% poke priest, sp 40% wake priest, sp <30% kickd priest[0m
+[15:30] [0m[37;1mSquirrel flaps :[0m no heal for you die tmTwist[0m
+[15:30] [0m[37;1mJazz flaps :[0m bah, I dont even have sp[0m
+[15:31] [0m[37;1mJazz flaps :[0m just an eg[0m
+[15:32] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[15:39] [0m[37;1mCaeli flaps :[0m I mean, if Vox is sarcasm...[0m
+[15:47] [0m[34;1mRaest shouts:[0m Oscar should maybe stick to Alphabet?  think that'd be safe enough[0m
+[15:49] [0m[34;1mZiphe shouts:[0m woot[0m
+[15:53] [0m[37;1mCaeli flaps :[0m Tertiary syphilitic cockwomble.[0m
+[15:53] [0m[37;1mCaeli flaps :[0m WRONG LINE!!!![0m
+[15:56] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[16:22] [0m[37;1mVerminous flaps :[0m Death by pickling![0m
+[16:24] [0m[31;1m[Clan] Nameless :[0m meow[0m
+[16:24] [0m[31;1m[Clan] Nameless :[0m gonna do soem more wsea and another hotel clear, if anyone wants dragged[0m
+[16:24] [0m                  around for hotel[0m
+[16:25] [0m[31;1m[Clan] Nameless :[0m after i finish tacos, wsea then hotel, taht is[0m
+[16:25] [0m[31;1m[Clan] Oscar :[0m me[0m
+[16:25] [0m[31;1m[Clan] Nameless :[0m whee[0m
+[16:25] [0m[37;1mNauda flaps :[0m if you are brave enough[0m
+[16:25] [0m[31;1m[Clan] Oscar :[0m oh[0m
+[16:25] [0m[31;1m[Clan] Oscar :[0m so in like AGES[0m
+[16:25] [0m[31;1m[Clan] Nameless :[0m will you need corpses or can i gobble them all if you arent tanking?[0m
+[16:25] [0m[37;1mNauda flaps :[0m anything can be a pickling[0m
+[16:25] [0m[31;1m[Clan] Nameless :[0m :p[0m
+[16:25] [0m[31;1m[Clan] Oscar :[0m I got corpses[0m
+[16:26] [0m[31;1m[Clan] Nameless :[0m i just need shell, and making a singel dtaco, which if no guac ill abandon[0m
+[16:27] [0m[31;1m[Clan] Nameless :[0m spork, boo[0m
+[16:28] [0m[34;1mHarlequin shouts:[0m the metric system[0m
+[16:29] [0m[37;1mEnder flaps :[0m So, apparently my ISP is bombarding my house with "higher signals than they've[0m
+[16:29] [0m              ever seen" which is probably an exaggeration but kind of interesting. I have to[0m
+[16:29] [0m              restart my network like, every 30m or something.[0m
+[16:29] [0mDFd  Wm:g Wc: 49% Gx: 79.14% Fx: 78.42%[0m
+[16:29] [0m[37;1mSquirrel flaps :[0m adjust your fireall[0m
+[16:30] [0m[37;1mSquirrel flaps :[0m firewall[0m
+[16:30] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[16:30] [0m[37;1mEnder flaps :[0m "Picture it like a ferrarri is trying to go through the tunnel sir, but we only[0m
+[16:30] [0m              have space for a mini" was her words. She sounded super cute tho.[0m
+[16:30] [0m[37;1mSquirrel flaps :[0m turn on flood block[0m
+[16:30] [0m[31;1m[Clan] Nameless :[0m i kinda forgot how bs guac is on bard[0m
+[16:30] [0m[31;1m[Clan] Nameless :[0m its still running at moderate, heh[0m
+[16:31] [0m[37;1mSquirrel flaps :[0m well she likes pensive cars and tight places[0m
+[16:31] [0m[31;1m[Clan] Oscar :[0m guac is nice[0m
+[16:31] [0m[37;1mEnder flaps :[0m Thanks Squirrel will look at the firewall and never heard of floodblock before[0m
+[16:31] [0m              will check it out.[0m
+[16:31] [0m[31;1m[Clan] Oscar :[0m especially for a dodging guild[0m
+[16:31] [0m[31;1m[Clan] Nameless :[0m xnod[0m
+[16:31] [0m[37;1mSquirrel flaps :[0m yeah theres an optionto auto block high flood traffic[0m
+[16:31] [0m[31;1m[Clan] Nameless :[0m i decided to skip going to gfs tonight, so lots more gxp time![0m
+[16:31] [0m[37;1mSquirrel flaps :[0m if youre router has a built in firewall[0m
+[16:32] [0m[37;1mEnder flaps :[0m It's a bit annoying in Canada when 2 companies own like, the entire country's[0m
+[16:32] [0m              infrastructure, and then the ISPs that sell you the service are basically the[0m
+[16:32] [0m              middle-person.[0m
+[16:33] [0m[37;1mSimonz flaps :[0m that's better when the ISP owns the infrastructure.[0m
+[16:33] [0m[31;1m[Clan] Oscar :[0m i'm gonna give SZ a shot now that I got 160[0m
+[16:33] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[16:33] [0m[31;1m[Clan] Nameless :[0m for tanking or hitting?[0m
+[16:33] [0;48;5;9m[31;1m[Clan] Oscar :[0m both[0m
+[16:33] [0m[31;1m[Clan] Oscar :[0m solo'ing[0m
+[16:33] [0m[31;1m[Clan] Nameless :[0m ah nod[0m
+[16:34] [0m[37;1mEnder flaps :[0m Mudders of the world untie!?[0m
+[16:34] [0m[31;1m[Clan] Nameless :[0m i might try another solo go of it tonight, unless we have plans of doing[0m
+[16:34] [0m                  another group outing[0m
+[16:34] [0m[37;1mSquirrel flaps :[0m oh you have rogers ?[0m
+[16:34] [0m[37;1mEnder flaps :[0m heh yah Rogers[0m
+[16:35] [0m[37;1mSquirrel flaps :[0m 192.168.0.254?[0m
+[16:35] [0m[34;1mNightrider shouts:[0m Wait for it![0m
+[16:35] [0m[37;1mSquirrel flaps :[0m if you havent configured the router its admin password :D[0m
+[16:36] [0m[37;1mEnder flaps :[0m not my IP no:)[0m
+[16:36] [0m[34;1mNightrider shouts:[0m Wait for it![0m
+[16:36] [0m[34;1mNameless shouts:[0m kaboom[0m
+[16:36] [0m[34;1mNightrider shouts:[0m Section Z reset boyz and gals come on down[0m
+[16:36] [0m[37;1mEnder flaps :[0m but yay for tethering through another network so i can focus on making real life[0m
+[16:36] [0m              tacos.[0m
+[16:36] [0m[31;1m[Clan] Nameless :[0m all done with wsea[0m
+[16:36] [0m[34;1mSquirrel shouts:[0m he wants to let you know that he gets three cases of redbull a week[0m
+[16:37] [0m[31;1m[Clan] Prism :[0m noice![0m
+[16:37] [0m[37;1mGaidin flaps :[0m Still plenty of Superbowl squares left.  1mil coins each. [0m
+[16:37] [0m               https://www.gaidinbdj.com/3kSquares[0m
+[16:37] [0m[31;1m[Clan] Oscar :[0m got 100k reps?[0m
+[16:37] [0m[31;1m[Clan] Nameless :[0m this run at least heh[0m
+[16:37] [0m[31;1m[Clan] Nameless :[0m 81k :/[0m
+[16:37] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[16:37] [0m[31;1m[Clan] Oscar :[0m slum is decent reps[0m
+[16:37] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[16:38] [0m[31;1m[Clan] Nameless :[0m ill do more slum later, but its expee time[0m
+[16:39] [0m[37;1mNightrider flaps :[0m anyone else want a reset?[0m
+[16:39] [0m[37;1mNightrider flaps :[0m no ok[0m
+[16:40] [0m[31;1m[Clan] Nameless :[0m alrighty, hotel time, for whoever wants to leech[0m
+[16:40] [0m[37;1mSimonz flaps :[0m yeah, if you could reset zell for me that'd be awesome![0m
+[16:41] [0m[37;1mSquirrel flaps :[0m anyone ever replace the glass for their ipad?[0m
+[16:41] [0m[37;1mSimonz flaps :[0m with a surface pro[0m
+[16:41] [0m[37;1mRaest flaps :[0m imagine owning Apple products[0m
+[16:42] [0m[37;1mNightrider flaps :[0m 8inix: Inixs rocks doesnt he ?[0m
+[16:42] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : My sources say no[0m
+[16:42] [0m[37;1mSimonz flaps :[0m almost as bad as imagining paying for apple products[0m
+[16:42] [0m[37;1mNightrider flaps :[0m oh[0m
+[16:56] [0m[31;1m[Clan] Oscar :[0m ok, life is getting much better[0m
+[16:56] [0m[31;1m[Clan] Oscar :[0m i think i'll be living in SZ from now on[0m
+[16:57] [0m[31;1m[Clan] Meatloaf :[0m imma have to up my chess scaler, im clearing it :([0m
+[16:57] [0m[31;1m[Clan] Oscar :[0m that's always a sad time[0m
+[16:58] [0m[31;1m[Clan] Meatloaf :[0m nog sz was about 2x mob size but i wasnt killing fast enough[0m
+[16:58] [0m[31;1m[Clan] Meatloaf :[0m working on gxp for evo skills now[0m
+[17:00] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[17:00] [0m[31;1m[Clan] Oscar :[0m just get 160[0m
+[17:00] [0m[31;1m[Clan] Oscar :[0m :D[0m
+[17:00] [0m[31;1m[Clan] Oscar :[0m it's like 5% of the time it'll take your psicorp to glvl[0m
+[17:02] [0m[31;1m[Clan] Oscar :[0m i'm playing w/ all the spells now, mind warp and sunspear seem to be equal, kinda[0m
+[17:02] [0m               surprised sunspear doesnt hit harder[0m
+[17:04] [0m[31;1m[Clan] Meatloaf :[0m yah but my psicorps is better NOW[0m
+[17:04] [0m[31;1m[Clan] Oscar :[0m is he?[0m
+[17:04] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[17:28] [0m[31;1m[Clan] Nameless :[0m i succ[0m
+[17:28] [0m[31;1m[Clan] Nameless :[0m XP Gain for the last 30 minutes: 241,151,393[0m
+[17:29] [0m[31;1m[Clan] Nameless :[0m gonna take awhile to figure out how to double that heh[0m
+[17:32] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[17:33] [0m[31;1m[Clan] Toxin :[0m when you find out let me know[0m
+[17:39] [0m[31;1m[Clan] Nameless :[0m i wonder if anyone soloes that rate tbh[0m
+[17:39] [0m[31;1m[Clan] Nameless :[0m i think we made 500m/30 in secz with ideal distribution of hitters, but yeah,[0m
+[17:39] [0m                  unsure if thats "normal"[0m
+[17:50] [0m[31;1m[Clan] Xaryl :[0m 500/reset is actually kinda low[0m
+[17:50] [0m[31;1m[Clan] Xaryl :[0m but normally SZ parties will not let youjoin if you are not big damage[0m
+[17:53] [0m[31;1m[Clan] Oscar :[0m We were over 2bil/hr when I was in SZ with byron and hitters[0m
+[17:54] [0m[34;1mFluffy shouts:[0m seymore ?[0m
+[17:55] [0m[31;1m[Clan] Oscar :[0m our sz party had a mage doing 300 dmg a roud and zik doing a tad more prolly :D[0m
+[17:56] [0m[34;1mSimonz shouts:[0m seynomore[0m
+[17:57] [0m[34;1mTex shouts:[0m cackis?[0m
+[17:57] [0m[34;1mVerminous shouts:[0m Feed me Seymore![0m
+[17:59] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[18:06] [0m[34;1mTex shouts:[0m are we there yet are we are we moom simons pokd me ouchy[0m
+[18:08] [0m[37;1mOscar flaps :[0m All, I have a very important announcement.[0m
+[18:08] [0m[37;1mOscar flaps :[0m My xp debt has been paid[0m
+[18:08] [0m[37;1mFluffy flaps :[0m you're a bot[0m
+[18:08] [0m[37;1mZartan flaps :[0m  BOT![0m
+[18:11] [0m[34;1mZiphe shouts:[0m there can only be 4 Moo![0m
+[18:12] [0m[34;1mTex shouts:[0m ok but there can be only so 3 will have to be beheaded blame maverik[0m
+[18:17] [0m[31;1m[Clan] Nameless :[0m ah ok so i suck ass[0m
+[18:17] [0m[31;1m[Clan] Nameless :[0m i have no frame of reference for these numbers, i guess[0m
+[18:21] [0m[31;1m[Clan] Oscar :[0m you'll get a nice dmg bump at 85[0m
+[18:21] [0m[31;1m[Clan] Oscar :[0m dunno if you have #s[0m
+[18:21] [0m[35;1mSimonz [Jedi(Knight)]:[0m oops[0m
+[18:22] [0m[35;1mWert [Jedi(Master)]:[0m heh ill leave that alone til it resets[0m
+[18:22] [1;37;40m Auto Dissipate on Shield is [ON]
+[18:22] [1;37;40m Auto Dissipate on Shield is [ON]
+[18:22] [1;37;40m Auto Dissipate on Shield is [ON]
+[18:22] [1;37;40m Auto Dissipate on Shield is [ON]
+[18:22] [1;37;40m Auto Dissipate on Shield is [ON]
+[18:22] [1;37;40m Auto Dissipate on Shield is [ON]
+[18:23] [0m[37;1mCaeli flaps :[0m I just had burritos for dinner.[0m
+[18:27] [0m[31;1m[Clan] Nameless :[0m i dont[0m
+[18:27] [0m[31;1m[Clan] Nameless :[0m i thought about buying it, but so many things i dont have that i also need heh[0m
+[18:27] [0m[31;1m[Clan] Oscar :[0m i don't have numbers on byron, so I'm immune to downgrades[0m
+[18:27] [0m[31;1m[Clan] Oscar :[0m nix got nerfed a few months back[0m
+[18:28] [0m[31;1m[Clan] Oscar :[0m i'm still cruisin[0m
+[18:28] [0m[31;1m[Clan] Toxin :[0m laf[0m
+[18:28] [0m[31;1m[Clan] Toxin :[0m i got fucked because of bruce[0m
+[18:28] [0m[31;1m[Clan] Toxin :[0m 8 weeks making 800m/hr[0m
+[18:28] [0m[31;1m[Clan] Oscar :[0m well yeah, i told him to pump the brakes[0m
+[18:29] [0m[31;1m[Clan] Oscar :[0m but he hit the gas[0m
+[18:29] [0m[31;1m[Clan] Toxin :[0m but i still tank insane[0m
+[18:29] [0m[31;1m[Clan] Toxin :[0m and do pretty damn good dmg[0m
+[18:29] [0m[31;1m[Clan] Toxin :[0m so i can't complain[0m
+[18:29] [0m[31;1m[Clan] Oscar :[0m yeah, bards are still BS[0m
+[18:29] [0m[31;1m[Clan] Toxin :[0m need to get lvl 139 and max int/wis and then report back to TH[0m
+[18:29] [0m[31;1m[Clan] Oscar :[0m And hammer is next lvl[0m
+[18:30] [0m[31;1m[Clan] Oscar :[0m probably really BS in sector z since they dont dodge[0m
+[18:30] [0m[31;1m[Clan] Oscar :[0m if you're on my server and #var ham_bot 1[0m
+[18:31] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[18:31] [0m[31;1m[Clan] Oscar :[0m you'll run hammer[0m
+[18:31] [0m[31;1m[Clan] Oscar :[0m fyi[0m
+[18:33] [0m[34;1mNightrider shouts:[0m le moo?[0m
+[18:39] [0m[31;1m[Clan] Nameless :[0m heh[0m
+[18:42] [0m[34;1mFluffy shouts:[0m shank![0m
+[18:45] [0m[34;1mSarge shouts:[0m Well, some imply suicide may be painless, but i doubt the same can be said for[0m
+[18:45] [0m              being bored to death by gnome damage :P[0m
+[18:46] [0m[34;1mEcholoc shouts:[0m Gnomes![0m
+[18:54] [0m[34;1mTex shouts:[0m GNOMES we bore mobs to death![0m
+[18:58] [0m[37;1mGaidin flaps :[0m Superbowl squares are up for taking.  Still plenty left.  1 million gold per[0m
+[18:58] [0m               square.   https://www.gaidinbdj.com/3kSquares[0m
+[19:02] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[19:13] [0m[31;1m[Clan] Nameless :[0m is the flavor text for hammer smashed face accurate? like xmute redaxe into[0m
+[19:13] [0m                  hammer/mace or whatever?[0m
+[19:14] [0m[31;1m[Clan] Toxin :[0m no[0m
+[19:14] [0m[31;1m[Clan] Toxin :[0m you need a "hammer"[0m
+[19:14] [0m[31;1m[Clan] Toxin :[0m but there's no actual hammer weapon class[0m
+[19:14] [0m[31;1m[Clan] Nameless :[0m so terra item is the one that comes to mind[0m
+[19:14] [0m[31;1m[Clan] Toxin :[0m famerian or terra hammer work awesome[0m
+[19:14] [0m[31;1m[Clan] Nameless :[0m yea[0m
+[19:14] [0m[31;1m[Clan] Prism :[0m never heard of famerian[0m
+[19:14] [0m[31;1m[Clan] Nameless :[0m since famerian is heavy as hell iirc[0m
+[19:14] [0m[31;1m[Clan] Toxin :[0m never got dshell?[0m
+[19:14] [0m[31;1m[Clan] Prism :[0m nope :([0m
+[19:15] [0m[31;1m[Clan] Nameless :[0m rip[0m
+[19:15] [0m[31;1m[Clan] Toxin :[0m wahhhh[0m
+[19:15] [0m[31;1m[Clan] Oscar :[0m I think hammer = mace, and dmg = weight tbh[0m
+[19:15] [0m[31;1m[Clan] Toxin :[0m prism wtf[0m
+[19:15] [0m[31;1m[Clan] Prism :[0m maybe I'll do it soon![0m
+[19:15] [0m[31;1m[Clan] Oscar :[0m so, wc[0m
+[19:15] [0m[31;1m[Clan] Prism :[0m WHAT[0m
+[19:15] [0m[31;1m[Clan] Oscar :[0m and dmg[0m
+[19:15] [0m[31;1m[Clan] Toxin :[0m that's qps like bam![0m
+[19:15] [0m[31;1m[Clan] Oscar :[0m aka famerian[0m
+[19:15] [0m[31;1m[Clan] Nameless :[0m so girth = worth[0m
+[19:15] [0m[31;1m[Clan] Oscar :[0m fuckin right[0m
+[19:15] [0m[31;1m[Clan] Prism :[0m tell me how to solve it then you cutiepatootie[0m
+[19:15] [0m[31;1m[Clan] Toxin :[0m i'll tell you how to solve it right now for 2m coins[0m
+[19:15] [0m[31;1m[Clan] Nameless :[0m heheh[0m
+[19:15] [0m[31;1m[Clan] Oscar :[0m you bring all the coucil dragons to 5% and leave[0m
+[19:15] [0m[31;1m[Clan] Oscar :[0m to solve it[0m
+[19:15] [0m[31;1m[Clan] Prism :[0m pal I'm a Gentech, what makes you think I have 2 mil coins[0m
+[19:16] [0m[31;1m[Clan] Toxin :[0m i do that oscar[0m
+[19:16] [0m[31;1m[Clan] Toxin :[0m out of spite[0m
+[19:16] [0m[31;1m[Clan] Nameless :[0m 25 min match of mostly staring at each other, blue/black vs blue/red, the[0m
+[19:16] [0m                  forbidden love story of counterspell gaymers[0m
+[19:16] [0m[31;1m[Clan] Toxin :[0m because literally everyone else does it[0m
+[19:17] [0m[31;1m[Clan] Nameless :[0m i still need to do epic and... maybe one day ill try durskaen again[0m
+[19:18] [0m[31;1m[Clan] Prism :[0m I'm stuck on finding out where one item is and I really wanna know where it is, I[0m
+[19:18] [0m               dunno if it's even for Durskaen but I wanna know what it is anyway[0m
+[19:18] [0m[31;1m[Clan] Nameless :[0m grin[0m
+[19:18] [0m[31;1m[Clan] Toxin :[0m nod[0m
+[19:18] [0m[31;1m[Clan] Prism :[0m someone tell me where the chaos sinew is right NOW[0m
+[19:18] [0m[31;1m[Clan] Toxin :[0m i have scoured my notes man, nada[0m
+[19:18] [0m[31;1m[Clan] Nameless :[0m i think i found 2 pieces of it before, but its been a long time[0m
+[19:18] [0m[31;1m[Clan] Toxin :[0m we should solve this shit as a clan![0m
+[19:18] [0m[31;1m[Clan] Toxin :[0m Epic, Miritar, Durskaen[0m
+[19:18] [0m[31;1m[Clan] Prism :[0m wand and ring of wonder! theres a start![0m
+[19:19] [0m[31;1m[Clan] Nameless :[0m has anyone other than jay wrath solved it still?[0m
+[19:19] [0m[31;1m[Clan] Toxin :[0m you guys transfer me all your coins... BAILOUT[0m
+[19:19] [0m[31;1m[Clan] Prism :[0m I know miritar[0m
+[19:19] [0m[31;1m[Clan] Nameless :[0m miritar was "fun"[0m
+[19:19] [0m[31;1m[Clan] Toxin :[0m bailout is a party quest, i'll solve it for us[0m
+[19:19] [0m[31;1m[Clan] Nameless :[0m grin[0m
+[19:19] [0m[31;1m[Clan] Prism :[0m okay I'll transfer you all I have[0m
+[19:20] [0m[31;1m[Clan] Toxin :[0m i did balance a few years back with murmandus[0m
+[19:20] [0m[31;1m[Clan] Nameless :[0m im pretty sure i solved waldo before but maybe only over on 3s, huh[0m
+[19:20] [0m[31;1m[Clan] Nameless :[0m ahhh murmy[0m
+[19:20] [0m[31;1m[Clan] Toxin :[0m and ravenloft... and i know keylon but havent done it[0m
+[19:20] [0m[31;1m[Clan] Prism :[0m I did Balance on Prism a few weeks ago[0m
+[19:20] [0m[31;1m[Clan] Prism :[0m I had to do vole twice cuz the paper was wrong or it reset on me idk[0m
+[19:20] [0m[31;1m[Clan] Nameless :[0m merciful miller i understand but the damn machine[0m
+[19:20] [0m[31;1m[Clan] Toxin :[0m nod same name[0m
+[19:21] [0m[31;1m[Clan] Toxin :[0m pissed me off so much[0m
+[19:21] [0m[31;1m[Clan] Toxin :[0m i walked away and havent gone back to it[0m
+[19:21] [0m[31;1m[Clan] Prism :[0m I want to solve rloft but rloft castle scares me :([0m
+[19:21] [0m[31;1m[Clan] Nameless :[0m i think heart of the cosmos is the only easy one i havent done, and djinni[0m
+[19:21] [0m[31;1m[Clan] Prism :[0m djinni will take you like 2 mins :P[0m
+[19:21] [0m[31;1m[Clan] Toxin :[0m nod[0m
+[19:21] [0m[31;1m[Clan] Toxin :[0m i have 12 left[0m
+[19:21] [0m[31;1m[Clan] Nameless :[0m nod, i just couldnt find the area back when i mapped things[0m
+[19:21] [0m[31;1m[Clan] Prism :[0m I have 23 left :(((([0m
+[19:22] [0m[31;1m[Clan] Toxin :[0m 11 cause marbles is no solve ever[0m
+[19:22] [0m[31;1m[Clan] Nameless :[0m 18 :o[0m
+[19:22] [0m[31;1m[Clan] Toxin :[0m and i can solve 6 of em[0m
+[19:22] [0m[31;1m[Clan] Prism :[0m I think I have quite a few "easy" ones left, or what you guys would consider easy[0m
+[19:22] [0m               but that I've never done[0m
+[19:22] [0m[31;1m[Clan] Nameless :[0m vole is ez and i should do since ive done balance, heh[0m
+[19:22] [0m[31;1m[Clan] Prism :[0m how do you do balance without solving vole?[0m
+[19:23] [0m[31;1m[Clan] Nameless :[0m attrition which im surprised to see on here since im pretty sure i did that in[0m
+[19:23] [0m                  newbieland[0m
+[19:23] [0m[31;1m[Clan] Toxin :[0m durskaen, vole, kill bahamut are all mquests made for monks[0m
+[19:23] [0m[31;1m[Clan] Toxin :[0m ported over to regular quests for all[0m
+[19:23] [0m[31;1m[Clan] Toxin :[0m evil artifact too[0m
+[19:23] [0m[31;1m[Clan] Nameless :[0m i feel like i cheated evil art[0m
+[19:23] [0m[31;1m[Clan] Nameless :[0m somehow skipped a thing and got to the end[0m
+[19:23] [0m[31;1m[Clan] Prism :[0m I've never done it, I dunno where it even starts, I know nothing about it![0m
+[19:24] [0m[31;1m[Clan] Prism :[0m oh wait I was thinking of evil god, I know a little evil artifact[0m
+[19:24] [0m[31;1m[Clan] Nameless :[0m err evil god[0m
+[19:24] [0m[31;1m[Clan] Toxin :[0m maybe it was evil god[0m
+[19:25] [0m[31;1m[Clan] Nameless :[0m m o p[0m
+[19:25] [0m[31;1m[Clan] Oscar :[0m vole wasn't a quest again until reecntly, so solving it for balance didn't solve[0m
+[19:25] [0m               that quest[0m
+[19:25] [0m[31;1m[Clan] Oscar :[0m I had to resolve it too[0m
+[19:25] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[19:25] [0m[31;1m[Clan] Prism :[0m ohhhh[0m
+[19:25] [0m[31;1m[Clan] Toxin :[0m nod[0m
+[19:25] [0m[31;1m[Clan] Nameless :[0m i should do that really quickly since its an easy enough one[0m
+[19:25] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[19:26] [0m[31;1m[Clan] Oscar :[0m evil god is chaos[0m
+[19:26] [0m[31;1m[Clan] Oscar :[0m that's a cool quest[0m
+[19:26] [0m[31;1m[Clan] Nameless :[0m its a shame balance isnt a resolveable one since iirc that shield is decent if[0m
+[19:26] [0m                  you can stay neutral align[0m
+[19:26] [0m[31;1m[Clan] Nameless :[0m especially since i think its a magical slot and not a shield[0m
+[19:26] [0m[31;1m[Clan] Oscar :[0m that shield is nutzo[0m
+[19:27] [0m[31;1m[Clan] Toxin :[0m i thought it was resolvable[0m
+[19:27] [0m[31;1m[Clan] Nameless :[0m hmm maybe it is[0m
+[19:27] [0m[31;1m[Clan] Prism :[0m I'm not redoing hell, that was annoying af[0m
+[19:27] [0m[31;1m[Clan] Nameless :[0m agreed[0m
+[19:27] [0m[31;1m[Clan] Nameless :[0m mapping that was perhaps my biggest big brain moment[0m
+[19:28] [0m[31;1m[Clan] Prism :[0m I did the coin trick, wasn't too bad but it was very annoying haha[0m
+[19:28] [0m[31;1m[Clan] Nameless :[0m ah nod[0m
+[19:28] [0m[31;1m[Clan] Nameless :[0m also did the coins[0m
+[19:28] [0m[31;1m[Clan] Nameless :[0m navigating the first portion wasnt too bad, but that second half was[0m
+[19:28] [0m                  frustrating[0m
+[19:28] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[19:28] [0m[31;1m[Clan] Oscar :[0m he added a fun maze after it too[0m
+[19:29] [0m[31;1m[Clan] Oscar :[0m 25mil minotaurs[0m
+[19:29] [0m[31;1m[Clan] Oscar :[0m leads to his new area, that is pretty dissapointing tbh heh[0m
+[19:29] [0m[31;1m[Clan] Nameless :[0m oooo nifty[0m
+[19:29] [0m[31;1m[Clan] Prism :[0m I found whats its dick, I wanted to find the new hobbit pipe and I think its down[0m
+[19:29] [0m               there? but I got massively frustrated at having to redo vole so I just left :P[0m
+[19:29] [0m[31;1m[Clan] Oscar :[0m whats it dick?[0m
+[19:29] [0m[31;1m[Clan] Prism :[0m I forgot the name, not cerebrus.. or maybe it was?[0m
+[19:29] [0m[31;1m[Clan] Prism :[0m jst at the mountain or w/e[0m
+[19:30] [0m[31;1m[Clan] Oscar :[0m cerebrus is the dog w/ bell[0m
+[19:30] [0m[31;1m[Clan] Oscar :[0m blood beast?[0m
+[19:30] [0m[31;1m[Clan] Prism :[0m where you run away like a baby[0m
+[19:30] [0m[31;1m[Clan] Oscar :[0m oh, blood beast prolly[0m
+[19:30] [0m[31;1m[Clan] Prism :[0m yes blood beast![0m
+[19:30] [0m[31;1m[Clan] Prism :[0m and I killed it and then I should have explored but I was frustrated[0m
+[19:30] [0m[31;1m[Clan] Nameless :[0m i remember when i would have to port in dmg to kill him since my priest sucked[0m
+[19:30] [0m                  so much[0m
+[19:30] [0m[31;1m[Clan] Oscar :[0m heh nog[0m
+[19:30] [0m[31;1m[Clan] Oscar :[0m the maze/temple of the elements is even more-so[0m
+[19:30] [0m[31;1m[Clan] Nameless :[0m i could solo taramin but bbeast was a priest death sentence[0m
+[19:30] [0m[31;1m[Clan] Oscar :[0m the acid from those worms...[0m
+[19:30] [0m[31;1m[Clan] Oscar :[0m fuck it's hardcore[0m
+[19:30] [0m[31;1m[Clan] Toxin :[0m yea[0m
+[19:31] [0m[31;1m[Clan] Prism :[0m oh I heard stories of those things[0m
+[19:31] [0m[31;1m[Clan] Nameless :[0m hmmm[0m
+[19:31] [0m[31;1m[Clan] Nameless :[0m i remember temple of the elements but i dont think i rmeember worms[0m
+[19:32] [0m[31;1m[Clan] Oscar :[0m you'd rememebr the worms[0m
+[19:32] [0m[31;1m[Clan] Oscar :[0m you didnt find the temple :P[0m
+[19:32] [0m[31;1m[Clan] Prism :[0m is the new hobbit pipe down there?[0m
+[19:32] [0m[31;1m[Clan] Toxin :[0m hobbit pipe?[0m
+[19:32] [0m[31;1m[Clan] Toxin :[0m there's a pipe[0m
+[19:32] [0m[31;1m[Clan] Toxin :[0m byron and i had fun in there[0m
+[19:32] [0m[31;1m[Clan] Prism :[0m someone said there was a pipe 2.0 there[0m
+[19:32] [0m[31;1m[Clan] Oscar :[0m yeah, but not worth it[0m
+[19:32] [0m[31;1m[Clan] Nameless :[0m hrmmm[0m
+[19:33] [0m[31;1m[Clan] Nameless :[0m also very curious what that necklace does[0m
+[19:33] [0m[31;1m[Clan] Oscar :[0m necklace?[0m
+[19:33] [0m[31;1m[Clan] Prism :[0m is it a pearl necklace?[0m
+[19:33] [0m[31;1m[Clan] Nameless :[0m we talking hell adjacent things?[0m
+[19:33] [0m[31;1m[Clan] Oscar :[0m i guess[0m
+[19:33] [0m[31;1m[Clan] Oscar :[0m which necklace you mean?[0m
+[19:34] [0m[31;1m[Clan] Nameless :[0m nylea or whatever her name is will give you one and off herself[0m
+[19:34] [0m[31;1m[Clan] Oscar :[0m dont think i fucked w that[0m
+[19:34] [0m[31;1m[Clan] Oscar :[0m in hell?[0m
+[19:34] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[19:34] [0m[31;1m[Clan] Oscar :[0m interesting, i'll check it out[0m
+[19:35] [0m[31;1m[Clan] Oscar :[0m there's another puzzle in there I a) haven't figured out or b) rasta hasn't[0m
+[19:35] [0m               finished[0m
+[19:35] [0m[31;1m[Clan] Nameless :[0m cant recall getting her to say anything else so no clue how i found out about[0m
+[19:35] [0m                  the necklace[0m
+[19:35] [0m[31;1m[Clan] Oscar :[0m There's a changing word on a wall[0m
+[19:35] [0m[31;1m[Clan] Nameless :[0m i thought that was just a death trap[0m
+[19:35] [0m[31;1m[Clan] Oscar :[0m dont thinkk so[0m
+[19:35] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[19:35] [0m[31;1m[Clan] Oscar :[0m it co-incides with the maze of the altar of the elements changing[0m
+[19:35] [0m[31;1m[Clan] Oscar :[0m every time the maze changes[0m
+[19:35] [0m[31;1m[Clan] Oscar :[0m the word changes[0m
+[19:35] [0m[31;1m[Clan] Nameless :[0m oooo[0m
+[19:36] [0m[31;1m[Clan] Nameless :[0m no event, and my dungeons are cleared, aside from secz[0m
+[19:36] [0m[31;1m[Clan] Oscar :[0m I can do event again![0m
+[19:36] [0m[31;1m[Clan] Nameless :[0m whee[0m
+[19:37] [0m[31;1m[Clan] Toxin :[0m byron and i had fun in there[0m
+[19:37] [0m[31;1m[Clan] Oscar :[0m i dont know you[0m
+[19:38] [0m[31;1m[Clan] Nameless :[0m thats my purse[0m
+[19:38] [0m[31;1m[Clan] Toxin :[0m oh whoops[0m
+[19:38] [0m[31;1m[Clan] Toxin :[0m any messages you want me to pass along to your mom next weekend?[0m
+[19:38] [0m[31;1m[Clan] Toxin :[0m heading to lauderdale im sure i'll meet up with em[0m
+[19:39] [0m[31;1m[Clan] Oscar :[0m you haven't seen or heard from me since christmas[0m
+[19:39] [0m[31;1m[Clan] Oscar :[0m spice things up[0m
+[19:52] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[19:55] [0m[31;1m[Clan] Nameless :[0m alrighty, gonna do secz, anyone wanna do dmg?[0m
+[19:56] [0m[31;1m[Clan] Zik :[0m define dmg[0m
+[19:56] [0m[31;1m[Clan] Oscar :[0m laf[0m
+[19:56] [0m[31;1m[Clan] Nameless :[0m heheh[0m
+[19:56] [0m[31;1m[Clan] Oscar :[0m making 250/hr in here atm and still have quite a bit of offense to train[0m
+[19:57] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[19:57] [0m[31;1m[Clan] Oscar :[0m scaled a bit lower too[0m
+[19:57] [0m[31;1m[Clan] Nameless :[0m what scaler are you at?[0m
+[19:57] [0m[31;1m[Clan] Oscar :[0m scaler 100[0m
+[19:57] [0m[31;1m[Clan] Nameless :[0m ah nod[0m
+[19:57] [0m[31;1m[Clan] Oscar :[0m 12-14mil[0m
+[19:57] [0m[31;1m[Clan] Oscar :[0m wanted to see the gxp more than anything[0m
+[19:57] [0m[31;1m[Clan] Oscar :[0m gxp is nice[0m
+[19:57] [0m[31;1m[Clan] Nameless :[0m ill probably do 105-110 or so solo, although since im starting at 9p its not[0m
+[19:57] [0m                  like ill finish it regardless[0m
+[19:57] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[19:58] [0m[31;1m[Clan] Oscar :[0m cloud eyes fuck me up[0m
+[19:58] [0m[31;1m[Clan] Prism :[0m I hope I never solo again[0m
+[19:58] [0m[31;1m[Clan] Oscar :[0m wtf do they do[0m
+[19:58] [0m[31;1m[Clan] Nameless :[0m may as well do 120 ish and milk the exp[0m
+[19:58] [0m[31;1m[Clan] Nameless :[0m mind dmg?[0m
+[19:58] [0m[31;1m[Clan] Oscar :[0m I need bard or whatever eval[0m
+[19:58] [0m[31;1m[Clan] Oscar :[0m They have some other type of shit goin on[0m
+[19:58] [0m[31;1m[Clan] Oscar :[0m like addhp maybe[0m
+[19:58] [0m[31;1m[Clan] Prism :[0m I think their special is elec but maybe I'm wrong[0m
+[19:58] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[19:59] [0m[31;1m[Clan] Oscar :[0m maybe[0m
+[19:59] [0m[31;1m[Clan] Prism :[0m 0h[0m
+[19:59] [0m[31;1m[Clan] Oscar :[0m it shouldnt hurt me if it was electric[0m
+[19:59] [0m[31;1m[Clan] Prism :[0m derp[0m
+[19:59] [0m[31;1m[Clan] Oscar :[0m that's why i can't figure it out[0m
+[19:59] [0m[31;1m[Clan] Prism :[0m nod[0m
+[19:59] [0m[31;1m[Clan] Oscar :[0m they straight fuck me up[0m
+[19:59] [0m[31;1m[Clan] Oscar :[0m so, i'm led to believe it's something not normal[0m
+[20:00] [0m[31;1m[Clan] Nameless :[0m addhp maybe?[0m
+[20:00] [0m[31;1m[Clan] Nameless :[0m imagine mages are succeptible to that[0m
+[20:03] [0m[31;1m[Clan] Nameless :[0m god i love cmc overmax[0m
+[20:03] [0m[31;1m[Clan] Prism :[0m haha it rules[0m
+[20:03] [0m[31;1m[Clan] Nameless :[0m casually eternally at 10k hps like an ascended[0m
+[20:10] [0m[37;1mHeimdall flaps :[0m Crystls of Ao has been posted.  A big fat 90qps![0m
+[20:10] [0m[37;1mJeraud flaps :[0m I can't be arsed to do those. Heh.[0m
+[20:11] [0m[37;1mHeimdall flaps :[0m The walkthroughs are very thorough!  If it's not your thing, its the best way[0m
+[20:11] [0m                 to do it (IMO)[0m
+[20:11] [0m[37;1mHeimdall flaps :[0m True for everything but Merciful Miller which sucks even with a walkthrough[0m
+[20:12] [0m[37;1mGaidin flaps :[0m Am I the only one that kind of liked that quest?[0m
+[20:12] [0m[37;1mHeimdall flaps :[0m You sound like a miller.[0m
+[20:12] [0m[37;1mGaidin flaps :[0m Merciful Miller is in my top 5 favorite quests.  With Spire, the physics one in[0m
+[20:12] [0m               science, Perfection, and Waldo[0m
+[20:13] [0m[37;1mHeimdall flaps :[0m Maybe cooler if not for the issue of room resets being an issue[0m
+[20:13] [0m[37;1mVerminous flaps :[0m Blow up da school![0m
+[20:13] [0m[37;1mLocrian flaps :[0m that ones has been discontinued.[0m
+[20:14] [0m[37;1mHeimdall flaps :[0m a weird time of 3k sensitivity[0m
+[20:14] [0m[37;1mJeraud flaps :[0m Whodunit still annoys the hell out of me.[0m
+[20:15] [0m[37;1mGaidin flaps :[0m That one only annoys me because, I think, there's no way to get the right answer.[0m
+[20:15] [0m               It's just brute force.[0m
+[20:17] [0m[37;1mJeraud flaps :[0m I believe that one changes every time so there is no 'right answer'.[0m
+[20:18] [0m[37;1mGaidin flaps :[0m Not what I meant.  I meant there no waay to figure out the answer at all[0m
+[20:19] [0m[37;1mGaidin flaps :[0m I think you just have to keep trything things until each bit works.[0m
+[20:19] [0m[37;1mGaidin flaps :[0m Can't be more specific on public lines.[0m
+[20:19] [0m[37;1mJeraud flaps :[0m Just like the game it's based off of.[0m
+[20:19] [0m[37;1mOscar flaps :[0m Westersea is a really fun one imo[0m
+[20:19] [0m[37;1mOscar flaps :[0m err wayhaven laf[0m
+[20:20] [0m[37;1mMelly flaps :[0m yeah i think thats pretty thematic for whodunit[0m
+[20:20] [0m[37;1mGaidin flaps :[0m Quite the opposite.  In the game, you have to figure it out before tying your[0m
+[20:20] [0m               answer.[0m
+[20:20] [0m[37;1mSissy flaps :[0m 0h[0m
+[20:20] [0m[37;1mGaidin flaps :[0m If you try and get it wrong, you lose[0m
+[20:20] [0m[37;1mMelly flaps :[0m sure but you figure it out in the same way[0m
+[20:21] [0m[37;1mMelly flaps :[0m i mean, i get what youre saying[0m
+[20:21] [0m[31;1m[Clan] Nameless :[0m seems my solo sweet spot is secz scaler 115[0m
+[20:22] [0m[37;1mOscar flaps :[0m should be a deathtrap for wrong guesses[0m
+[20:22] [0m[31;1m[Clan] Nameless :[0m need to git guuder[0m
+[20:24] [0m[37;1mEcholoc flaps :[0m They see you as small and helpless[0m
+[20:25] [0m[31;1m[Clan] Xaryl :[0m You slam 707008 coins into the ATM.[0m
+[20:25] [0m[31;1m[Clan] Xaryl :[0m stupid abyss![0m
+[20:25] [0m[37;1mEcholoc flaps :[0m They see you as small and helpless/They see you as just a child/Surprise when[0m
+[20:25] [0m                they find out that a warrior will soon run wild[0m
+[20:28] [0m[31;1m[Clan] Nameless :[0m money is the root of all evil[0m
+[20:30] [0m[31;1m[Clan] Oscar :[0m transfer to cleanse yourself[0m
+[20:30] [0m[31;1m[Clan] Xaryl :[0m heh[0m
+[20:32] [0m[37;1mJeraud flaps :[0m Huh. So Whodunit is based off of Clue 'Master Detective'.[0m
+[20:33] [0m[31;1m[Clan] Nameless :[0m why cant i remember what the bard eval is[0m
+[20:33] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[20:33] [0m[37;1mAdalius flaps :[0m ... is....is that really news? did people...not know that?[0m
+[20:33] [0m[31;1m[Clan] Nameless :[0m i literally just used it a couple days ago, memory is stupid[0m
+[20:33] [0m[37;1mGaidin flaps :[0m QINFO![0m
+[20:34] [0m[37;1mJeraud flaps :[0m Well seeing as there's multiple editions of Clue I did not know it was based off[0m
+[20:34] [0m               that specific one, no.[0m
+[20:34] [0m[31;1m[Clan] Xaryl :[0m thought wave?[0m
+[20:34] [0m[37;1mSissy flaps :[0m that's my problem .. i thought it was based off of monopoly[0m
+[20:35] [0m[37;1mVerminous flaps :[0m I watched Secret of Nimh to do the quest with the same name. lol[0m
+[20:35] [0m[37;1mGaidin flaps :[0m It doesn't help.[0m
+[20:35] [0m[37;1mGaidin flaps :[0m That's one of the quests that got "revamped" a few times as qinfo leaked.[0m
+[20:35] [0m[37;1mJeraud flaps :[0m And honestly I figured liberties were taken so I didn't think it was based off[0m
+[20:35] [0m               any actual version.[0m
+[20:36] [0m[37;1mVerminous flaps :[0m It was loosely based on the movie when I did it.[0m
+[20:37] [0m[37;1mGaidin flaps :[0m Honestly, I haven't ever finished it.  I've taken a couple stabs but each time[0m
+[20:37] [0m               the old stuff I figured out was no good[0m
+[20:37] [0m[37;1mVerminous flaps :[0m I found the old waldo quest solution on my own and it said I was using qinfo.[0m
+[20:37] [0m                  -.-[0m
+[20:37] [0m[37;1mAdalius flaps :[0m Last time I talked about it with Samiel, he doesnt' even remember how to solve[0m
+[20:37] [0m                it and he wrote it :D[0m
+[20:38] [0m[37;1mJeraud flaps :[0m That's okay. I knew how to do the old one and when I tried to redo it with old[0m
+[20:38] [0m               info I got the same notice.[0m
+[20:38] [0m[37;1mGaidin flaps :[0m There's jsut lots of little stuff that *should* work but doesn't anymore because[0m
+[20:38] [0m               it was changed.[0m
+[20:39] [0m[37;1mVerminous flaps :[0m It was changed but the old, unused quest spots are still there.[0m
+[20:39] [0m[37;1mSquirrel flaps :[0m 76.  ( Complete ) [* 45*]  The Secret of Nimh    Not solved this reboot.[0m
+[20:39] [0m[37;1mGaidin flaps :[0m Like "You need to find the X-adjective thing"  Then you find something that says[0m
+[20:39] [0m               "Oh, I'm very X-like"  Then you give it and it's "Nope, that's not it"[0m
+[20:40] [0m[37;1mJeraud flaps :[0m Well that explains why the cold felt like it was seeping into my room.[0m
+[20:40] [0m[37;1mVerminous flaps :[0m Vague and no quest clues leading to how you are supposed to do something, then[0m
+[20:40] [0m                  making it so you have to do the quest in the exact order is super annoying and[0m
+[20:40] [0m                  why I gave up on quests years ago.[0m
+[20:41] [0m[37;1mGaidin flaps :[0m I think a lot of it really is changing stuff because of qinfo leaks.[0m
+[20:41] [0m[37;1mStasis flaps :[0m Nimh was my all time favourite quest i think[0m
+[20:42] [0m[37;1mVerminous flaps :[0m Browning Estates was pretty easy when it first came out.[0m
+[20:43] [0m[31;1m[Clan] Xaryl :[0m all the corpses in the E box have been Ftouch'd[0m
+[20:43] [0m[37;1mJeraud flaps :[0m 11.99 for Clue on Steam....[0m
+[20:43] [0m[37;1mSquirrel flaps :[0m bad syntaxes don't help quests[0m
+[20:43] [0m[37;1mVerminous flaps :[0m Ugh perfection[0m
+[20:44] [0m[37;1mGaidin flaps :[0m I'll also say that I'm not a fan of full quest solves being posted.  I like you[0m
+[20:44] [0m               can ask for help without penality, but the fact that the answer are on Google now[0m
+[20:44] [0m               seems.....wrong.[0m
+[20:44] [0m[37;1mSquirrel flaps :[0m you exa noun, noun is not found, you exa fluffaluffaluffagous -> it's a fluffy[0m
+[20:44] [0m                 animal that kills you if you stare it at to long. pet fluffaluffagous, you[0m
+[20:44] [0m                 can't pet here[0m
+[20:45] [0m[37;1mLocrian flaps :[0m sorry you don't approve.[0m
+[20:45] [0m[37;1mVerminous flaps :[0m I need up to date qinfo for tree. xD[0m
+[20:45] [0m[37;1mJeraud flaps :[0m *points some random direction* Check there.[0m
+[20:46] [0m[37;1mHeimdall flaps :[0m the way you have fun is not the same way everyone else has fun[0m
+[20:46] [0m[37;1mVerminous flaps :[0m Oh I forgot to do mugger.[0m
+[20:46] [0m[37;1mVerminous flaps :[0m Mug the mugger.[0m
+[20:47] [0m[37;1mJeraud flaps :[0m I still have yet to complete Bug.[0m
+[20:47] [0m[37;1mVerminous flaps :[0m Now I have Viva La Dirt League's muggers stuck in my head.[0m
+[20:47] [0m[37;1mVerminous flaps :[0m Lets go MUG IT![0m
+[20:49] [0m[37;1mSquirrel flaps :[0m anywho, Adalius any chance of a vaf raffle to take place, people vaf 20 bucks[0m
+[20:49] [0m                 and could get gswap etc?[0m
+[20:51] [0m[37;1mJeraud flaps :[0m How do you tell which quests you have actually solved on a certain characer?[0m
+[20:51] [0m[37;1mVerminous flaps :[0m questlist name of quest[0m
+[20:52] [0m[37;1mVerminous flaps :[0m or questlist should say[0m
+[20:52] [0m[37;1mWhoknows flaps :[0m but that doesn't differentiate which char did it will it?[0m
+[20:52] [0m[37;1mJeraud flaps :[0m Nope.[0m
+[20:52] [0m[37;1mSissy flaps :[0m can see qp earn but alt in sc ...[0m
+[20:53] [0m[37;1mVerminous flaps :[0m questlist barney[0m
+[20:55] [0m[37;1mNauda flaps :[0m 8inix, is ziphe a dog with a muzzle?[0m
+[20:55] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : Don't count on it[0m
+[20:55] [0m[37;1mZiphe flaps :[0m that's right, don't count on it[0m
+[20:56] [0m[31;1m[Clan] Mako leaves the game.[0m  [0m
+[20:56] [0m[37;1mNauda flaps :[0m 8inix, can I count on the nudes?[0m
+[20:56] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : Signs point to yes[0m
+[20:57] [0m[37;1mSissy flaps :[0m 8inix, can nauda actually count ;-)[0m
+[20:57] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : Cannot predict now[0m
+[20:57] [0m[37;1mJeraud flaps :[0m 8inix, do you like smoked gouda?[0m
+[20:57] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : As I see it, yes[0m
+[20:57] [0m[37;1mAdalius flaps :[0m 8inix, do I have diamond hands?[0m
+[20:57] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : It is certain[0m
+[20:57] [0m[37;1mAdalius flaps :[0m *flex*[0m
+[20:57] [0m[37;1mSissy flaps :[0m 8inix, stuff ?[0m
+[20:57] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : Don't count on it[0m
+[20:58] [0m[37;1mJeraud flaps :[0m Smoked gouda is good.[0m
+[20:58] [0m[37;1mJeraud flaps :[0m Also, smoked aged white cheddar.[0m
+[20:58] [0m[37;1mAdalius flaps :[0m From Wisconsin, can confirm.[0m
+[20:58] [0m[37;1mWhoknows flaps :[0m 8inix, will playing cult make you feel better?[0m
+[20:58] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : It is certain[0m
+[20:59] [0m[37;1mCaeli flaps :[0m Ipreer a 10 year aged WI cheddar.[0m
+[20:59] [0m[37;1mWhoknows flaps :[0m playcult and feel better,[0m
+[20:59] [0m[37;1mCaeli flaps :[0m Prefer.[0m
+[20:59] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[20:59] [0m[37;1mCaeli flaps :[0m I may be a bit spoiled though.[0m
+[20:59] [0m[37;1mOnodrim flaps :[0m 8inix, should I make more coffee[0m
+[21:00] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : It is certain[0m
+[21:00] [0m[37;1mWhoknows flaps :[0m 8inix, is cocaine a better choice?[0m
+[21:00] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : It is certain[0m
+[21:00] [0m[37;1mAdalius flaps :[0m I think the 8 ball got stuck[0m
+[21:00] [0m[37;1mJeraud flaps :[0m *Inix, what is NOT certain?[0m
+[21:00] [0m[37;1mNauda flaps :[0m 8inix, doing drugs is bad?[0m
+[21:00] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : You may rely on it[0m
+[21:01] [0m[37;1mAdalius flaps :[0m The MyPillow guy just said the algorithms prove it couldn't show 'It is certain'[0m
+[21:01] [0m                3 times in a row.[0m
+[21:01] [0m[37;1mSquirrel flaps :[0m 8inix: was fuzzy wuzzy a bear?[0m
+[21:01] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : Yes - definitely[0m
+[21:01] [0m[37;1mOnodrim flaps :[0m xD[0m
+[21:01] [0m[37;1mJeraud flaps :[0m 8Inix, what is NOT certain?[0m
+[21:01] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : Very doubtful[0m
+[21:02] [0m[37;1mSissy flaps :[0m 8inix, does someone with monikor mypillow guy have ANY credibility ?[0m
+[21:02] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : Most likely[0m
+[21:04] [0m[37;1mOnodrim flaps :[0m 8inix, can I have all your eq, qinfo and map?[0m
+[21:04] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : You may rely on it[0m
+[21:08] [0m[37;1mNauda flaps :[0m 8inix, got moo?[0m
+[21:08] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : Don't count on it[0m
+[21:26] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[21:32] [0m[Auction] Robert : Up for bids: Quesadilla Codpiece (massive) and Spork Lance (wicked) (citrusy)[0m
+[21:32] [0m                   (enchanted).[0m
+[21:32] [0m[Auction] Robert : Din has requested 2 as the opening offer.[0m
+[21:32] [0m[Auction] Robert : Got 69 from Sissy(knig).  Do I hear 119?[0m
+[21:32] [0m[Auction] Robert : 69 going once![0m
+[21:33] [0m[Auction] Robert : 69 going twice![0m
+[21:33] [0m[Auction] Robert : Sold to Sissy for 69 coins![0m
+[21:44] [0m[34;1mTex shouts:[0m GNOMES! ramen noodle blame maverik bore a mob to death time GNOMES![0m
+[21:51] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[21:52] [0mnewb Presmir [cyborg/9]: I can't seem to remember the syntax to enter the newbie academy test[0m
+[21:52] [0m                         room from the sewers. Can anyone help?[0m
+[21:53] [0mnewb Adalius [Admin]: you arent in the right room[0m
+[21:53] [0mnewb Wayne [elemental/76]: you should be able to enter newbieland still and not have to use the[0m
+[21:53] [0m                           sewers i believe[0m
+[21:54] [0mnewb Presmir [cyborg/9]: oh you can enter newbieland past level 5 now?[0m
+[21:54] [0mnewb Wiener [knight/134]: Yes, up to.. 49 I think[0m
+[21:54] [0mnewb Adalius [Admin]: help milestones[0m
+[21:55] [0mnewb Presmir [cyborg/9]: ok thanks :)[0m
+[21:57] [0m[37;1mWayne flaps :[0m man kills neighbors and then himself over shoveled snow?!?[0m
+[22:10] [0m[31;1m[Clan] Nameless :[0m ah yeah thought wave[0m
+[22:14] [0m[31;1m[Clan] Oscar :[0m any pots around?[0m
+[22:25] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[22:27] [0m[31;1m[Clan] Xaryl :[0m we can get you some if you want[0m
+[22:27] [0m[31;1m[Clan] Oscar :[0m oo[0m
+[22:27] [0m[31;1m[Clan] Oscar :[0m I'd like that[0m
+[22:27] [0m[31;1m[Clan] Oscar :[0m I can do w/ byron too[0m
+[22:27] [0m[31;1m[Clan] Oscar :[0m if ther arent enough refreshes[0m
+[22:28] [0m[31;1m[Clan] Oscar :[0m meet there?[0m
+[22:28] [0m[31;1m[Clan] Xaryl :[0m nod, on way[0m
+[22:28] [0m[31;1m[Clan] Oscar :[0m woot[0m
+[22:29] [0m[31;1m[Clan] Xaryl :[0m killing him now[0m
+[22:30] [0m[31;1m[Clan] Oscar :[0m once this SZ mob dies, brt[0m
+[22:30] [0m[31;1m[Clan] Oscar :[0m I wonder if there's any way I can ninja reset this dude's dungeon w/ byron's[0m
+[22:30] [0m               reset[0m
+[22:30] [0m[31;1m[Clan] Oscar :[0m think that's completely impossible w/o ldlogin[0m
+[22:30] [0m[31;1m[Clan] Xaryl :[0m nod :([0m
+[22:31] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Deserts of Fantasy![0m
+[22:31] [0m                          We are localizing it now - get ready![0m
+[22:37] [0m[31;1m[Clan] Oscar :[0m lol, megaphone?[0m
+[22:38] [0m[31;1m[Clan] Oscar :[0m hows that weap[0m
+[22:38] [0m[31;1m[Clan] Xaryl :[0m is a easy to get mental weapon[0m
+[22:38] [0m[31;1m[Clan] Oscar :[0m what's the wc?[0m
+[22:38] [0m[31;1m[Clan] Xaryl :[0m 50-ish WC[0m
+[22:38] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[22:43] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[22:43] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[22:44] [0m[31;1m[Clan] Byron :[0m defending so i can destroy[0m
+[22:45] [0m[31;1m[Clan] Xaryl :[0m nod, heh[0m
+[22:45] [0m[31;1m[Clan] Xaryl :[0m you only have to tank the round to use destroy :)[0m
+[22:45] [0m[31;1m[Clan] Xaryl :[0m last round***[0m
+[22:46] [0m[31;1m[Clan] Byron :[0m guess thats true too[0m
+[22:46] [0m[5m[1m[48;5;19mYour lightstaff begins to flicker and the handle warms![0m[0m                 [0m
+[22:50] [0m[34;1mFluffy shouts:[0m big letters[0m
+[22:50] [0m[34;1mTeerex shouts:[0m woot[0m
+[22:53] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[22:54] [0m[31;1m[Clan] Byron :[0m anyone need a dupe?[0m
+[22:55] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[22:56] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[23:14] [0m[31;1m[Clan] Roken :[0m hackathon next week with assinged roles[0m
+[23:14] [0m[32;1mFrom afar, you bow to Oscar.[0m[0m
+[23:14] [0m[32;1mFrom afar, Oscar tips his hat to you.[0m[0m
+[23:18] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[23:54] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m

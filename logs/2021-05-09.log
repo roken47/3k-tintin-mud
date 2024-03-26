@@ -1,0 +1,448 @@
+- = LOG STARTED [00:00] = -
+[01:59] [0mYou can currently reforge 8 items.[0m
+[01:59] [0mYou can currently reforge 5 items.[0m
+[01:59] [0mYou can currently reforge 0 items.[0m
+[02:37] [0mYou can currently reforge 4 items.[0m
+[03:00] [0m[34;1mJasmine shouts:[0m DIRTY FILTHY MEMORY![0m
+[03:37] [0mYou can currently reforge 8 items.[0m
+[04:23] [0m[37;1mLycanth flaps :[0m Man, windows services have really upped the RAM[0m
+[04:23] [0m                consumption...[0m
+[04:59] [0mValithan <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[05:01] [0mYou can currently reforge 12 items.[0m
+[05:12] [0mYou can currently reforge 0 items.[0m
+[05:49] [0m[34;1mNightrider shouts:[0m le moo?[0m
+[05:52] [0m[34;1mNauda shouts:[0m le moocarena[0m
+[05:53] [0m[37;1mVapor flaps :[0m any available priest to ftouch a cocoon for me please?[0m
+[06:15] [0m[34;1mNauda shouts:[0m I like to moo it, moo it[0m
+[06:21] [0mInix <.oO>: Is there an ansivar for eradication?[0m
+[06:23] [0mKillergate <.oO>: eternal_ansi is shared for them all, I think[0m
+[06:23] [0mKillergate <.oO>: so not specifically for erad[0m
+[06:23] [0mInix <.oO>: that helps though, thanks[0m
+[06:29] [0mVapor <.oO>: Congrats![0m
+[06:29] [0mKhan <.oO>: thanks![0m
+[06:29] [0mNauda <.oO>: the great Genghis Khan, conqueror of lands and kingdoms[0m
+[06:30] [0mInix <.oO>: Khannnnn[0m
+[07:06] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[07:06] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[07:06] [0m                          get ready![0m
+[10:09] [0mYou can currently reforge 0 items.[0m
+[10:13] [0m[31;1m[Clan] Oscar :[0m hmmmm kayos stepper doesnt work well for the boss mobs since[0m
+[10:13] [0m               their names are so fucking long they wrap lines[0m
+[10:17] [0m[31;1m[Clan] Nameless :[0m ah nod[0m
+[10:18] [0m[31;1m[Clan] Nameless :[0m i have like 3 captures for those things and sometimes it[0m
+[10:18] [0m                  still breaks[0m
+[10:18] [0m[31;1m[Clan] Nameless :[0m but usually my issue is the bunkers themselves sinc ei[0m
+[10:18] [0m                  have to write some fuckery to bypass trying to reenter the[0m
+[10:18] [0m                  bunker i just finished[0m
+[10:19] [0m[31;1m[Clan] Nameless :[0m but current cmud stepper is brokeded and is permastuck on[0m
+[10:19] [0m                  step 0 so likely will have to delete and reenter[0m
+[10:19] [0m                  everything again since its some unfixable error[0m
+[10:19] [0m[31;1m[Clan] Oscar :[0m lol[0m
+[10:20] [0m[34;1mWhoknows shouts:[0m strung cmc on AH is day5[0m
+[10:22] [0m[31;1m[Clan] Nix :[0m might idle for 5 mins adter this one gotta run out back real[0m
+[10:22] [0m             fast[0m
+[10:22] [0mYou can currently reforge 4 items.[0m
+[10:22] [0m[31;1m[Clan] Morion :[0m okiedokie[0m
+[10:24] [0m[31;1m[Clan] Elektra :[0m ok[0m
+[10:24] [0m[31;1m[Clan] Elektra :[0m event then FB[0m
+[10:24] [0m[31;1m[Clan] Elektra :[0m anyone want to lead or hit?[0m
+[10:31] [0m[31;1m[Clan] Nameless :[0m for day 6?[0m
+[10:31] [0m[31;1m[Clan] Elektra :[0m sure[0m
+[10:31] [0m[31;1m[Clan] Nameless :[0m meh[0m
+[10:31] [0m[31;1m[Clan] Elektra :[0m i like day 6[0m
+[10:35] [0m[31;1m[Clan] Nix :[0m was getting ready for lunch[0m
+[10:35] [0m[31;1m[Clan] Nix :[0m i gotta run out for like an hour[0m
+[10:35] [0m[31;1m[Clan] Elektra :[0m nod[0m
+[10:36] [0m[31;1m[Clan] Nix :[0m can jump on cell and follow in event, but probably beat on[0m
+[10:36] [0m             leading[0m
+[10:36] [0m[31;1m[Clan] Nix :[0m dont you have day6 tag from last boot?[0m
+[10:36] [0m[31;1m[Clan] Elektra :[0m i started a different instance[0m
+[10:36] [0m[31;1m[Clan] Nix :[0m if you have day7 .. you have day6[0m
+[10:52] [0m[31;1m[Clan] Deathduck enters the game.[0m  [0m
+[11:02] [0m[31;1m[Clan] Kansai enters the game.[0m  [0m
+[11:05] [0m[31;1m[Clan] Elektra :[0m for the record[0m
+[11:06] [0m[31;1m[Clan] Elektra :[0m scaler 141 event gives 250 reps per mob[0m
+[11:06] [0m[31;1m[Clan] Elektra :[0m scaler 142 gives 275[0m
+[11:06] [0m[31;1m[Clan] Elektra :[0m as does 143 and 144... so if in a hurry, do 142[0m
+[11:06] [0m[31;1m[Clan] Elektra :[0m not sure about 145+[0m
+[11:07] [0m[31;1m[Clan] Oscar :[0m good data[0m
+[11:08] [0m[31;1m[Clan] Elektra :[0m 140/141 both give 1000 reps for 3 mini-bosses[0m
+[11:08] [0m[31;1m[Clan] Elektra :[0m 142-144 give 1100[0m
+[11:10] [0m[37;1mElektra flaps :[0m no one for day6?[0m
+[11:11] [0m[37;1mNauda flaps :[0m solo it and cmc is yours, forver ![0m
+[11:15] [0m[31;1m[Clan] Elektra :[0m well[0m
+[11:15] [0m[31;1m[Clan] Elektra :[0m guess no  one wants day6[0m
+[11:15] [0m[31;1m[Clan] Elektra :[0m i'm ehre alone, heh[0m
+[11:15] [0m[31;1m[Clan] Prism :[0m day6 kinda too annoying[0m
+[11:15] [0m[31;1m[Clan] Prism :[0m no xp benefit and still hitsaround, most people skip it[0m
+[11:17] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[11:17] [0m[31;1m[Clan] Nameless :[0m i dont think having emblem is worth the hassle tbh[0m
+[11:17] [0m[31;1m[Clan] Elektra :[0m well there is an exp benefit in that you do more damage[0m
+[11:17] [0m                 with it[0m
+[11:17] [0m[31;1m[Clan] Elektra :[0m both from stats and from big reflects more often[0m
+[11:19] [0m[31;1m[Clan] Nameless :[0m i dont think most of us want to be doing excess work for[0m
+[11:19] [0m                  miniscule increases in power[0m
+[11:19] [0m[31;1m[Clan] Nameless :[0m gxp/xping scratches that itch enough[0m
+[11:22] [0m[37;1mAdalius flaps :[0m Just want to clear up some rumors and confusion, Jedi were[0m
+[11:22] [0m                not downgraded in any intentional sense. they had a bug that[0m
+[11:22] [0m                got caught, it has negative ramifications in fixing it, and[0m
+[11:22] [0m                I'm doing my due-dilligence before adjusting them again. It[0m
+[11:22] [0m                was *not* an intentional downgrade/nerf and I am spending[0m
+[11:22] [0m                the precious little freetime I have to readjust it now that[0m
+[11:22] [0m                the bug is fixed. Carry on.[0m
+[11:22] [0mYou can currently reforge 8 items.[0m
+[11:23] [0m[37;1mMurmandamus flaps :[0m thank you Adalius for your time/effort :)[0m
+[11:24] [0m[37;1mNauda flaps :[0m And Turnhold and Frank, and Flaxen, and Kikipopo, and even[0m
+[11:24] [0m              Crolack, thank you all[0m
+[11:25] [0m[37;1mZiphe flaps :[0m stompin bugs *stomp* *stomp* *stomp*[0m
+[11:25] [0m[37;1mVoodoo flaps :[0m and thankVoodoo too![0m
+[11:25] [0m[37;1mMurmandamus flaps :[0m no voodoo, only pants[0m
+[11:25] [0m[37;1mNauda flaps :[0m Thank God we have a voodoo[0m
+[11:51] [0m[37;1mWhoknows flaps :[0m fyi, one of the strings on AH is day5[0m
+[11:52] [0m[37;1mMurmandamus flaps :[0m WHERE IS DAY7?![0m
+[11:52] [0m[37;1mWhoknows flaps :[0m on day7 fb[0m
+[11:52] [0m[37;1mMurmandamus flaps :[0m summon the Gentech! We need it now![0m
+[11:53] [0m[37;1mWhoknows flaps :[0m dunno if they can move forward in time anymore, that last[0m
+[11:53] [0m                 recode wrecked havoc on their genome[0m
+[11:53] [0m[31;1m[Clan] Oscar :[0m anyone able to reforge for me[1[0m
+[11:53] [0m[31;1m[Clan] Oscar :[0m got 2 items[0m
+[11:53] [0m[31;1m[Clan] Ser :[0m sorry tryna finish event rf[0m
+[11:54] [0m[37;1mWhoknows flaps :[0m they're all squirreled away in their own corner of the[0m
+[11:54] [0m                 universe trying to recover[0m
+[11:54] [0m[31;1m[Clan] Oscar :[0m i believe in you[0m
+[11:55] [0m[37;1mWhoknows flaps :[0m just found out my pecan wood supplier died of covid, now i[0m
+[11:55] [0m                 won't have enough wood to smoke my meats for the summer :([0m
+[11:55] [0m[37;1mSer flaps :[0m better off than your wood supplier[0m
+[12:30] [0m[31;1m[Clan] Meatloaf leaves the game.[0m  [0m
+[12:30] [0m[31;1m[Clan] Decav leaves the game.[0m  [0m
+[12:32] [0m[31;1m[Clan] Ser :[0m vigilant reps are back up to 988k[0m
+[12:35] [0m[31;1m[Clan] Elektra :[0m god damn it[0m
+[12:35] [0m[31;1m[Clan] Elektra :[0m just blew my embig by mistake[0m
+[12:35] [0m[31;1m[Clan] Elektra :[0m and i'm a fucking cyborg[0m
+[12:35] [0m[31;1m[Clan] Elektra :[0m and can't switch back for 7[0m
+[12:35] [0m[31;1m[Clan] Elektra :[0m does that counter go if i'm ld?[0m
+[12:36] [0m[31;1m[Clan] Elektra :[0m oh it does[0m
+[12:36] [0m[31;1m[Clan] Ser :[0m day 7 is in like 20 hours[0m
+[12:36] [0m[31;1m[Clan] Ser :[0m what are you tripping about[0m
+[12:37] [0m[31;1m[Clan] Ser :[0m hello[0m
+[12:37] [0m[34;1mZiphe shouts:[0m my ana conda don't want none unless you got buns hun[0m
+[12:37] [0m[31;1m[Clan] Droptable :[0m hi[0m
+[12:38] [0m[31;1m[Clan] Ser :[0m hello[0m
+[12:38] [0m[31;1m[Clan] Droptable :[0m hi[0m
+[12:38] [0m[34;1mKenny shouts:[0m my ana can hit some sick sleep darts[0m
+[12:39] [0m[31;1m[Clan] Ser :[0m i need like 10 4TB hdds[0m
+[12:41] [0m[31;1m[Clan] Ser :[0m i could get a 32TB NAS for 1500$[0m
+[12:42] [0m[34;1mMurmandamus shouts:[0m kenny someone left some of your stuff in a box[0m
+[12:42] [0m[34;1mKenny shouts:[0m i know. it was to the left to the left. all of my stuff in a[0m
+[12:42] [0m              box to the left.[0m
+[12:43] [0m[31;1m[Clan] Ser :[0m i'm going to have to invest in drives, i have 2.5tb right now,[0m
+[12:43] [0m             i need like 20[0m
+[12:44] [0m[34;1mZiphe shouts:[0m now slide, slide, slide[0m
+[12:45] [0m[34;1mMurmandamus shouts:[0m ok BAE[0m
+[12:45] [0m[34;1mZiphe shouts:[0m ok moomer[0m
+[12:45] [0m[34;1mNightrider shouts:[0m le moo?[0m
+[12:47] [0m[31;1m[Clan] Oscar :[0m anyone able to reforge cmx?[0m
+[12:48] [0m[31;1m[Clan] Oscar :[0m o i need tag still fuck[0m
+[12:48] [0m[31;1m[Clan] Ser :[0m for?[0m
+[12:48] [0m[31;1m[Clan] Oscar :[0m hmmm day 6 now[0m
+[12:48] [0m[31;1m[Clan] Oscar :[0m day 5[0m
+[12:48] [0m[31;1m[Clan] Ser :[0m laf[0m
+[12:49] [0m[31;1m[Clan] Ser :[0m you too late[0m
+[12:49] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[12:49] [0m[31;1m[Clan] Oscar :[0m o well[0m
+[12:49] [0m[31;1m[Clan] Oscar :[0m day 5 in box[0m
+[12:49] [0m[31;1m[Clan] Oscar :[0m its greaves[0m
+[12:49] [0m[31;1m[Clan] Ser :[0m anyone for event?[0m
+[12:49] [0m[31;1m[Clan] Ser :[0m err sz[0m
+[12:49] [0m[31;1m[Clan] Ser :[0m i mean[0m
+[12:49] [0m[31;1m[Clan] Oscar :[0m ill sz[0m
+[12:49] [0m[31;1m[Clan] Morion :[0m i was just gonna be like..you start doing 50k?[0m
+[12:50] [0m[31;1m[Clan] Droptable :[0m ill join[0m
+[12:52] [0m[31;1m[Clan] Ser :[0m anyone else[0m
+[12:53] [0m[31;1m[Clan] Oscar :[0m actually ill be idle soon[0m
+[12:53] [0m[34;1mNauda shouts:[0m Everyone moo nightrider, let him know we all moo him.[0m
+[12:53] [0m[31;1m[Clan] Oscar :[0m so ill see myself to the cemetery[0m
+[12:57] [0m[31;1m[Clan] Ser :[0m or i could get 4 5tb drives and have 15tb, then 4 more drives[0m
+[12:57] [0m             later[0m
+[12:58] [0m[31;1m[Clan] Morion :[0m that just seems like so. fking. muhc.[0m
+[12:59] [0m[31;1m[Clan] Ser :[0m 5 tb ~$183 ea, 2 tb ~$72 ea[0m
+[13:00] [0m[31;1m[Clan] Ser :[0m 732 and i still have 6 bays open vs 720 and im using 10 bays[0m
+[13:01] [0m[31;1m[Clan] Oscar :[0m wtf are you storing[0m
+[13:01] [0m[31;1m[Clan] Ser :[0m tv shows/movies i'm pulling over the air[0m
+[13:02] [0m[31;1m[Clan] Oscar :[0m i cant fathom.how much time.it takes to watch 60tb of shows[0m
+[13:02] [0m[31;1m[Clan] Ser :[0m i just want 20tb[0m
+[13:03] [0m[31;1m[Clan] Droptable :[0m wouldn't it be cheaper just to pay for the content[0m
+[13:03] [0m                   somewhere else, or is it stuff that isn't available[0m
+[13:03] [0m[31;1m[Clan] Ser :[0m and 1080p anime is like 1.4gb / file for 20-25 mins of content[0m
+[13:03] [0m[31;1m[Clan] Ser :[0m both[0m
+[13:03] [0m[31;1m[Clan] Ser :[0m stuff i'm skimming because i want to watch at some point[0m
+[13:10] [0m[34;1mMurmandamus shouts:[0m How do you meet up with another mudder in a random state[0m
+[13:10] [0m                    20 years ago and not remember how or why?[0m
+[13:10] [0m[34;1mKenny shouts:[0m drugs[0m
+[13:10] [0m[34;1mGuru shouts:[0m a car[0m
+[13:14] [0m[34;1mVolt shouts:[0m it was me.  and you still owe me that hundo![0m
+[13:15] [0m[34;1mPrism shouts:[0m Mudders are scary[0m
+[13:15] [0m[34;1mTex shouts:[0m i must confess maverik did blame him points at maverik hides[0m
+[13:15] [0m            behind volt nodding and grinning[0m
+[13:17] [0m[34;1mNauda shouts:[0m do you know what kenny did last nivlght?[0m
+[13:17] [0m[34;1mPrism shouts:[0m Dropped his gear around the mud?[0m
+[13:18] [0m[34;1mNightbreed shouts:[0m got killed?        again[0m
+[13:18] [0m[34;1mTex shouts:[0m Im going to go out on a limb here say he died again and again[0m
+[13:18] [0m            and again and somemore[0m
+[13:18] [0m[34;1mKenny shouts:[0m who stole all my wine[0m
+[13:19] [0m[34;1mJeraud shouts:[0m Gonna guess Nauda with the way he brought you up.[0m
+[13:20] [0m[34;1mTex shouts:[0m kenny you're supposed to sell the wine not drink it after being[0m
+[13:20] [0m            made. monks drink it priest bless it bards pee  in the fountain[0m
+[13:20] [0m[34;1mKenny shouts:[0m its sunday, i had a master plan to sell a bunch before noon[0m
+[13:21] [0m[34;1mNauda shouts:[0m I just can't get you out of my head. Boy, your whin' is all I[0m
+[13:21] [0m              think about, I just can't get you out of my head. Boy, its[0m
+[13:21] [0m              more than I dare to think about[0m
+[13:21] [0m[34;1mTex shouts:[0m i dont want to know how freemen make there spices i really dont[0m
+[13:22] [0m[34;1mNauda shouts:[0m That suit seals in the flavor real well.[0m
+[13:22] [0m[34;1mKenny shouts:[0m they don't make the spice, but the water of life, that you[0m
+[13:22] [0m              don't wanna know about.[0m
+[13:25] [0m[34;1mZiphe shouts:[0m spice is made from fermented sandworm poop[0m
+[13:26] [0m[34;1mTex shouts:[0m lalala i said i dont wanna know dont tell me lalala[0m
+[13:30] [0m[34;1mMurmandamus shouts:[0m can I speak to the manager of you're party? I'm allergic[0m
+[13:30] [0m                    to resets.[0m
+[13:31] [0m[34;1mNauda shouts:[0m Join Jedi, I hear they can solo grin secz all day long. No[0m
+[13:31] [0m              need for no reset.[0m
+[13:32] [0m[34;1mKenny shouts:[0m no kapp[0m
+[13:34] [0m[34;1mKenny shouts:[0m If thats what you like tho, Fremen are probably better,[0m
+[13:34] [0m              eventually you get so tank heavy that you can probably get 3[0m
+[13:34] [0m              days of gxp per secz dungeon[0m
+[13:50] [0mYou can currently reforge 12 items.[0m
+[14:01] [0m[37;1mCaeli flaps :[0m Yay for mimosas![0m
+[14:34] [0m[34;1mNauda shouts:[0m Blame Kenny, it's Maverik's fault![0m
+[14:50] [0m[31;1m[Clan] Nameless :[0m nice, with day5 cmc i seem to be running corpse positive[0m
+[14:50] [0m                  in all my dungeons, aside from secz[0m
+[14:50] [0m[31;1m[Clan] Nameless :[0m in max scaler of course[0m
+[14:50] [0mYou can currently reforge 12 items.[0m
+[14:53] [0m[31;1m[Clan] Nameless :[0m what size secz are you guys runnin?[0m
+[14:53] [0m[31;1m[Clan] Morion :[0m 130[0m
+[14:53] [0m[31;1m[Clan] Nameless :[0m got room for me?[0m
+[14:54] [0m[31;1m[Clan] Droptable :[0m nod. poke ser to pick ya up[0m
+[14:54] [0m[31;1m[Clan] Morion :[0m lazy ass! :p[0m
+[14:54] [0m[31;1m[Clan] Aka :[0m oo i'd hop in too[0m
+[14:55] [0m[31;1m[Clan] Nameless :[0m i can just run to yall if i get rallied[0m
+[14:57] [0m[31;1m[Clan] Droptable :[0m k i can rally[0m
+[14:57] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[15:00] [0m[31;1m[Clan] Void leaves the game.[0m  [0m
+[15:06] [0m[31;1m[Clan] Elektra :[0m ya'll want some company[0m
+[15:10] [0mElektra <Craft>: You hear a small magical zot from your stone as 47 colours[0m
+[15:10] [0m                 are consumed.[0m
+[15:12] [0m[31;1m[Clan] Droptable :[0m yah, hmm, name you able to grab? I dunno how to walk back[0m
+[15:12] [0m                   here hehe[0m
+[15:13] [0m[31;1m[Clan] Elektra :[0m gimme a sec[0m
+[15:13] [0m[31;1m[Clan] Droptable :[0m i need the path i guess[0m
+[15:13] [0m[31;1m[Clan] Ser :[0m sure[0m
+[15:15] [0m[31;1m[Clan] Nix :[0m yo[0m
+[15:16] [0m[31;1m[Clan] Elektra :[0m ok[0m
+[16:24] [0m[34;1mRaest shouts:[0m Maverik dyin' to everything.  upgrade mages![0m
+[16:24] [0m[34;1mPrism shouts:[0m Cast more golems![0m
+[16:25] [0m[34;1mNauda shouts:[0m or blame Maverik![0m
+[16:25] [0m[34;1mMaverik shouts:[0m test fail.. it's not my fault dammit!![0m
+[16:25] [0m[34;1mRaest shouts:[0m more like bot fale[0m
+[16:41] [0m[34;1mElminster shouts:[0m so nasty[0m
+[16:45] [0m[31;1m[Clan] Nix :[0m just put a skirt steak on the smoker[0m
+[16:45] [0m[31;1m[Clan] Nix :[0m ran to acme to buy beer, ran into a buddy of mine got hooked up[0m
+[16:45] [0m             with 4 pounds of stone crab claws![0m
+[16:45] [0m[31;1m[Clan] Nix :[0m unexpected... i just won mother's day[0m
+[16:46] [0m[31;1m[Clan] Prism :[0m you're not even a mother!!!![0m
+[16:46] [0m[31;1m[Clan] Elektra :[0m nice[0m
+[16:46] [0m[31;1m[Clan] Nix :[0m yeah but the mother of my child is ecstatic[0m
+[16:46] [0m[31;1m[Clan] Prism :[0m wait, I didn't know you had a kid[0m
+[16:46] [0m[31;1m[Clan] Nix :[0m yeah 17 month old little girl[0m
+[16:46] [0m[31;1m[Clan] Prism :[0m aww, nice![0m
+[16:48] [0m[31;1m[Clan] Elektra :[0m woo![0m
+[16:48] [0m[31;1m[Clan] Prism :[0m :)[0m
+[16:48] [0m[34;1mPrism shouts:[0m Thanks everyone![0m
+[17:28] [0mYou can currently reforge 12 items.[0m
+[17:28] [0mYou can currently reforge 0 items.[0m
+[17:30] [0m[31;1m[Clan] Karvec leaves the game.[0m  [0m
+[17:44] [0m[31;1m[Clan] Oscar :[0m got room in sz?[0m
+[17:44] [0m[31;1m[Clan] Elektra :[0m i can rally you[0m
+[17:44] [0m[31;1m[Clan] Elektra :[0m i'm going to go for a bike ride I think[0m
+[17:44] [0m[31;1m[Clan] Oscar :[0m woot[0m
+[17:44] [0m[31;1m[Clan] Oscar :[0m at title[0m
+[17:45] [0m[31;1m[Clan] Elektra :[0m ok[0m
+[17:46] [0m[31;1m[Clan] Elektra :[0m well[0m
+[17:47] [0m[34;1mNightrider shouts:[0m To take over the world, 1 Moo at a Time[0m
+[18:00] [0mYou can currently reforge 4 items.[0m
+[18:17] [0m[31;1m[Clan] Nix :[0m who is tanking what scaler[0m
+[18:18] [0m[31;1m[Clan] Morion :[0m oscar 140[0m
+[18:18] [0m[31;1m[Clan] Nameless :[0m i wanted to tank but oscar til he dies[0m
+[18:24] [0m[31;1m[Clan] Oscar :[0m join?[0m
+[18:25] [0m[31;1m[Clan] Nameless :[0m come join the bardy party[0m
+[18:26] [0m[34;1mTychicus shouts:[0m Are you trying to get invited to his next BBQ?[0m
+[18:27] [0m[34;1mTychicus shouts:[0m Oh wait, you are his BBQ.[0m
+[18:27] [0m[34;1mSarge shouts:[0m well, you didn't specify what he was being invited AS...[0m
+[18:28] [0m[34;1mNauda shouts:[0m Looks like meat's back on the menu, boys! - Firebat[0m
+[18:31] [0m[34;1mMurmandamus shouts:[0m RUN[0m
+[18:45] [0m[36m<BS> Xiu :[0m must be that reflex stops working if you're idle[0m
+[19:00] [0mYou can currently reforge 8 items.[0m
+[19:03] [0m[34;1mGuru shouts:[0m woo![0m
+[19:03] [0m[34;1mSkyblade shouts:[0m wheeeee[0m
+[19:06] [0m[34;1mSkyblade shouts:[0m :D[0m
+[19:15] [0m[34;1mXiu shouts:[0m zombie adventure story; the real treasures were the friends we[0m
+[19:15] [0m            ate along the way.[0m
+[19:57] [0m[31;1m[Clan] Ser :[0m whoops,. dog[0m
+[20:00] [0m[31;1m[Clan] Morion :[0m not gloveeeeeee![0m
+[20:00] [0m[34;1mMurmandamus shouts:[0m Anderson .Paak sings and plays drums better than Phil[0m
+[20:00] [0m                    Collins. Prove me wrong.[0m
+[20:00] [0mYou can currently reforge 12 items.[0m
+[20:01] [0m[34;1mEcholoc shouts:[0m i cant dance[0m
+[20:01] [0m[34;1mEcholoc shouts:[0m i cant sing[0m
+[20:03] [0m[34;1mNauda shouts:[0m maybe he plats drums better, but he doesn't sing better than[0m
+[20:03] [0m              Luciano Pavarotti, prove me wrong.[0m
+[20:04] [0m[34;1mMurmandamus shouts:[0m I don't know... he's got some pipes... Never seen him[0m
+[20:04] [0m                    try to do Opera music[0m
+[20:04] [0m[34;1mPdog shouts:[0m phil collins is more of a rock feel, whereas anderson paak has[0m
+[20:04] [0m             a jazz feel, so inherently better at both singing and playing[0m
+[20:04] [0m             instruments :p[0m
+[20:06] [0m[34;1mPdog shouts:[0m actually rock is a terrible descriptor for pbil collins. more[0m
+[20:06] [0m             like adult contempory pop rock :p[0m
+[20:06] [0m[34;1mMurmandamus shouts:[0m true story, still a solid musician though![0m
+[20:07] [0m[34;1mInix shouts:[0m You just said rock was a terrible descriptor, then used it as a[0m
+[20:07] [0m             descriptor.[0m
+[20:07] [0m[34;1mPdog shouts:[0m rock is way more generalized and does not imo adequately[0m
+[20:07] [0m             describe phil collins, and is a detriment to describing other[0m
+[20:07] [0m             'rock' musci ians[0m
+[20:08] [0m[34;1mMurmandamus shouts:[0m rock BY ITSELF is a terrible descriptor[0m
+[20:09] [0m[34;1mPdog shouts:[0m its like saying tits. i mean there are lots of different tits.[0m
+[20:09] [0m[34;1mTchazzar shouts:[0m Rockin', Rockin' and Rollin'. Down to the beach, I'm[0m
+[20:09] [0m                 strollin'[0m
+[20:09] [0m[34;1mFujitsu shouts:[0m you mean other than the mouse?[0m
+[20:10] [0m[34;1mFujitsu shouts:[0m titmouse is my stage name[0m
+[20:10] [0m[34;1mWhoknows shouts:[0m wait, we can shout tits and not finished oak cabinets?[0m
+[20:10] [0m[34;1mFujitsu shouts:[0m but I only perform rock versions of phil collins covers[0m
+[20:12] [0m[34;1mMurmandamus shouts:[0m Dwayne Johnson sings Genesis songs?[0m
+[20:14] [0m[34;1mInix shouts:[0m His songs are already rock versions, we just covered that.[0m
+[20:14] [0m[34;1mNauda shouts:[0m Let's cover the paper versions too.[0m
+[20:16] [0m[31;1m[Clan] Meatloaf enters the game.[0m  [0m
+[20:16] [0m[34;1mSarge shouts:[0m I don't know, I've never really enjoyed listening to paper...[0m
+[20:16] [0m[34;1mInix shouts:[0m Paper gets cut[0m
+[20:16] [0m[34;1mMurmandamus shouts:[0m Scissors Sisters already did that[0m
+[20:26] [0m[34;1mNauda shouts:[0m Robertino Loreti, the teenager phenomenon singer that 50 year[0m
+[20:26] [0m              before him, and really good, then quit once he wasn't.[0m
+[20:30] [0m[31;1m[Clan] Xaryl leaves the game.[0m  [0m
+[21:00] [0mYou can currently reforge 12 items.[0m
+[21:06] [0mYou can currently reforge 0 items.[0m
+[21:11] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[21:11] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[21:11] [0m                          get ready![0m
+[21:30] [0m[37;1mTychicus flaps :[0m It is only 34c here. :O[0m
+[21:30] [0m[37;1mHooligan flaps :[0m 34 f here. haha[0m
+[21:31] [0m[37;1mNauda flaps :[0m only 300 k here[0m
+[21:31] [0m[37;1mTychicus flaps :[0m 307K here[0m
+[21:41] [0m[37;1mInix flaps :[0m -40F and -40C are the same![0m
+[21:56] [0m[34;1mWhoknows shouts:[0m zombie fries[0m
+[22:00] [0mYou can currently reforge 4 items.[0m
+[22:03] [0m[37;1mAdalius flaps :[0m Hrm. Well that can't be good. Mudlag jumps to 100% cpu and[0m
+[22:03] [0m                stays there, and I'm not even doing anything, and nobody[0m
+[22:03] [0m                else is unidle...[0m
+[22:03] [0m[37;1mSpace flaps :[0m my fault unintentional[0m
+[22:03] [0m[37;1mOscar flaps :[0m Space[0m
+[22:03] [0m[37;1mOscar flaps :[0m Ha!  called it[0m
+[22:03] [0m[37;1mZiphe flaps :[0m prepare for crash[0m
+[22:04] [0m[37;1mZiphe flaps :[0m heh[0m
+[22:04] [0m[37;1mAdalius flaps :[0m .... what'd you do[0m
+[22:04] [0m[37;1mSpace flaps :[0m well, i ran a macro to stack all pol3 wyverns, little did i[0m
+[22:04] [0m              know, there were 400+ guards there too, and....[0m
+[22:04] [0m[37;1mAdalius flaps :[0m ...[0m
+[22:04] [0m[37;1mAdalius flaps :[0m ...[0m
+[22:04] [0m[37;1mAdalius flaps :[0m ...[0m
+[22:05] [0m[37;1mDeln flaps :[0m you don't say.[0m
+[22:05] [0m[37;1mQuaver flaps :[0m dg space[0m
+[22:05] [0m[37;1mMurmandamus flaps :[0m ug bots[0m
+[22:05] [0m[34;1mMurmandamus shouts:[0m ever heard of DMT?[0m
+[22:05] [0m[37;1mZiphe flaps :[0m stack harder[0m
+[22:06] [0m[37;1mOscar flaps :[0m And then (fry'd all[0m
+[22:06] [0m[37;1mOscar flaps :[0m Is my guess :D[0m
+[22:06] [0m[37;1mSpace flaps :[0m yeah fry bugged out +pol3 so guards have too much hp to get[0m
+[22:06] [0m              blicked off fry[0m
+[22:06] [0m[37;1mZiphe flaps :[0m then mask takes like a minute lol[0m
+[22:07] [0m[37;1mOscar flaps :[0m IIrc, the punishment for doing that was being patched pk and[0m
+[22:07] [0m              made javelin's gimp[0m
+[22:07] [0m[37;1mAdalius flaps :[0m I'm honestly just amazed the mud didnt crash from that[0m
+[22:08] [0m[37;1mNightrider flaps :[0m you need more moo![0m
+[22:08] [0m[37;1mZiphe flaps :[0m that old gamedriver still has it[0m
+[22:08] [0m[37;1mNightrider flaps :[0m Crash the mud before day 7 tag[0m
+[22:10] [0m[37;1mMurmandamus flaps :[0m space trying to Azazel the mofos[0m
+[22:10] [0m[37;1mAdalius flaps :[0m Should be all gone. But jesus christ that is gonna need to[0m
+[22:10] [0m                be fixed.[0m
+[22:10] [0m[37;1mAlassra flaps :[0m 64 bit drivers time? :D[0m
+[22:11] [0m[37;1mMaverik flaps :[0m let the official record note that it was not my fault.[0m
+[22:11] [0m[37;1mKirin flaps :[0m I doubt seriously any driver could handle that many 'players'[0m
+[22:11] [0m              worth of fighting[0m
+[22:11] [0m[37;1mZiphe flaps :[0m I honestly can't remember the last time the mud actually[0m
+[22:11] [0m              crashed[0m
+[22:13] [0m[37;1mTychicus flaps :[0m https://www.youtube.com/watch?v=5MiEf7sCVpE&t Da dove![0m
+[22:15] [0m[37;1mAdalius flaps :[0m So, grand total: 597 Guards, 200 Leaders, 79 Captains, 22[0m
+[22:15] [0m                Wyverns, and 1 Guardswoman spread over 3 rooms. Yea, that's[0m
+[22:15] [0m                going to the top of the todo list for this week.[0m
+[22:15] [0m[37;1mTychicus flaps :[0m gxp![0m
+[22:15] [0m[37;1mTychicus flaps :[0m heh heh heh[0m
+[22:16] [0m[37;1mAlassra flaps :[0m I blame that 1 guardswoman.  It's always the woman's fault.[0m
+[22:16] [0m[37;1mZiphe flaps :[0m evasion for everyone and can't turn it off :P[0m
+[22:16] [0m[37;1mTychicus flaps :[0m PoL2 does that as well[0m
+[22:17] [0m[37;1mTychicus flaps :[0m Except the grounds don't merge like PoL3[0m
+[22:18] [0m[37;1mZiphe flaps :[0m oh, the problem is that mobs keep loading and stacking without[0m
+[22:18] [0m              limit causing giant packs late into boot, I see.[0m
+[22:18] [0m[37;1mTychicus flaps :[0m Yeah[0m
+[22:18] [0m[37;1mTychicus flaps :[0m Impossible groups.[0m
+[22:18] [0m[37;1mZiphe flaps :[0m always wondered why there were 30+ citizens some times[0m
+[22:19] [0m[37;1mTychicus flaps :[0m PoL2 does that in a lesser way. Most tanky gobj aren't good[0m
+[22:19] [0m                 beyond 16 hits.[0m
+[22:20] [0m[37;1mQuaver flaps :[0m just unload rooms on it[0m
+[22:20] [0m[37;1mZiphe flaps :[0m pol has to be at least a few hundred rooms.[0m
+[22:20] [0m[37;1mTychicus flaps :[0m Make it so they only assist with their groups rather than[0m
+[22:20] [0m                 all groups?[0m
+[22:21] [0m[37;1mKirin flaps :[0m it has more to do with the fact that if they wander out of[0m
+[22:21] [0m              their room when its time to spawn a new set, a new set spawns,[0m
+[22:21] [0m              than anything[0m
+[22:21] [0m[37;1mWhoknows flaps :[0m yeah i wish i got 500/corpse dafuq 1300-1800[0m
+[22:21] [0m[37;1mWhoknows flaps :[0m wl but yeah[0m
+[22:21] [0m[37;1mKirin flaps :[0m so if noone is killing them you can have dozens of each patrol[0m
+[22:21] [0m              group wandering around later into boot[0m
+[22:22] [0m[37;1mLeianne flaps :[0m is that the case too with queen of heart? Plenty to share[0m
+[22:22] [0m                then :p[0m
+[22:22] [0m[37;1mTychicus flaps :[0m So high level peoples are slacking off then?[0m
+[22:22] [0m[37;1mLeianne flaps :[0m or queen has newer code that pol should copy[0m
+[22:23] [0m[37;1mNightrider flaps :[0m MPGA![0m
+[22:23] [0m[37;1mNightrider flaps :[0m Make Pol great Again[0m
+[22:23] [0m[37;1mLeianne flaps :[0m err.. make pol a scaleable dungeon![0m
+[22:24] [0m[37;1mTychicus flaps :[0m Ugh no.[0m
+[22:24] [0m[37;1mSpace flaps :[0m leianne, why ? you actually find time in your day to have mobs[0m
+[22:24] [0m              other than secz to kill ?[0m
+[22:24] [0m[37;1mSpace flaps :[0m and if you do, dg you![0m
+[22:24] [0m[37;1mSpace flaps :[0m or up your secz scaler :p[0m
+[22:25] [0m[37;1mTychicus flaps :[0m I'd like them as a dungeon, but not a scaler.[0m
+[22:26] [0m[37;1mLeianne flaps :[0m I did kill somewhere else if I scaler secz too high to get[0m
+[22:26] [0m                equip. I used shortest path from section 40+. then won't be[0m
+[22:26] [0m                able to kill there for the rest of the 8 hours[0m
+[22:26] [0m[37;1mTychicus flaps :[0m The guard group spawning is pretty absurd though, probably[0m
+[22:26] [0m                 a ton in PoL2 ring now.[0m
+[22:27] [0m[37;1mTychicus flaps :[0m right*[0m
+[22:28] [0m[37;1mBertolf flaps :[0m free xp, just don't try 'em all at once...[0m
+[22:28] [0m[37;1mTychicus flaps :[0m 7 sergeants 49 guards xD[0m
+[22:29] [0m[37;1mTychicus flaps :[0m Hmm not so many right now.[0m
+[22:30] [0m[37;1mBertolf flaps :[0m perfect time to stack and fry?[0m
+[22:30] [0m[37;1mTychicus flaps :[0m 3 leader 12 guards[0m
+[22:31] [0m[37;1mTychicus flaps :[0m Not at this stage, but later maybe. :D[0m
+[22:32] [0m[37;1mTychicus flaps :[0m Jedis are super gimpy until fdef 1[0m
+[22:32] [0m[37;1mBertolf flaps :[0m Just use your HC for it[0m
+[22:32] [0m[37;1mTychicus flaps :[0m heh heh heh[0m
+[22:33] [0m[37;1mTychicus flaps :[0m Could take PoL3 on my hc[0m
+[22:33] [0m[37;1mBertolf flaps :[0m I just hide behind a Gnome and hope for the best[0m
+[22:49] [0m[34;1mMurmandamus shouts:[0m The Cranberries were extremely underated[0m
+[22:49] [0m[34;1mAlassra shouts:[0m RIP[0m
+[22:56] [0m[37;1mTychicus flaps :[0m *goes into a hibernation trance and forgets to leave it*[0m
+[23:07] [0m[34;1mSpace shouts:[0m In your head, in your head, Zombie, zombie, zombie-ie-ie,[0m
+[23:07] [0m              What's in your head? In your head?, Zombie, zombie,[0m
+[23:07] [0m              zombie-ie-ie-ie, oh[0m
+[23:15] [0m[31;1m[Clan] Xaryl enters the game.[0m  [0m
+[23:35] [0mYou can currently reforge 8 items.[0m
+[23:40] [0m[34;1mKenny shouts:[0m Excuuuuuuuuse me sonnny.... do you know where I can find some[0m
+[23:40] [0m              booty?[0m
+[23:42] [0m[34;1mSpace shouts:[0m 1-900-Pay2Cum[0m

@@ -1,0 +1,39 @@
+#class {alias} {kill}
+#class {alias} {open}
+
+/*	Combat Commands		*/
+#alias {tank} {
+	#var tank %1;
+	#switch {"%1"} {
+		#case {"on"} {#showme <170>Kill Trigger [ON];#alias {corpsetrig} {salute;bury;get coins;maintain armour;
+	             #if {$necur <= .7 * $nemax || $socur != $somax || $hpcur <= .7 * $hpmax || $spcur <= .8 * $spmax} {revalrie} {revalrie;.bot}};}
+		#case {"ga"} {#showme <170>Kill Trigger [LOOT];#alias {corpsetrig} {salute;bury;get all;maintain armour;
+		     #if {$necur <= .7 * $nemax || $socur != $somax || $hpcur <= .7 * $hpmax || $spcur <= .7 * $spmax} {revalrie} {.bot}};}
+		#case {"off"} {#showme <170>Kill Trigger [OFF];#alias {corpsetrig} {#nop}};
+		#default {#showme <170>Kill Trigger [Modes] |<169> on, ga, off};}}
+			#action {^Fully refreshed you end your revalrie.} {.bot};
+			#action {^You cannot enter revalrie while in combat.} {.bot};
+			#action {^You feel your spirits recharge.} {#if {$hpcur > .8 * $hpmax} {revalrie;.bot}};
+			#action {^You sit down and begin to relax, allowing your mind to drift off to the} {#nop};
+#alias {.cbot} {#act {dealt the killing blow to} {corpsetrig};}
+#alias {attempt_sweave} {spiritweave 250 sp};
+#var spweave off;
+#if {$socur <= .05 * $somax} {scall;revalrie};
+#alias {com} {bt};#NOP bladesingers main chatline;
+#alias {mwc} {maintain weapon};
+#alias {mac} {maintain armour};
+#alias {ma} {mastery};
+#alias {fl} {faerielight};
+#alias {pwrs} {bcmds all};
+#alias {pin} {pinscribe};
+#alias {pre} {prepare};
+#alias {do} {dodge};
+#alias {sh} {shadows};
+#alias {h} {rejuvenate};
+#alias {hh} {revalrie};
+#alias {adv} {rcost};
+#alias {gss} {skills}
+#alias {ps2} {reforger score};
+#alias {pf} {ws;#$pxp[reforger] buy sword;home;#$pxp[reforger] {reforge sword with little from edged to penetrate;pb sword};#$pxp[reforger] gb sword;can;#$pxp[reforger] sell sword;home;reforger};
+
+#class {alias} {close}

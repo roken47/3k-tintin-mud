@@ -1,0 +1,23 @@
+#class {alias} {kill}
+#class {alias} {open}
+
+/*	Combat Commands		*/
+#alias {tank} {
+	#var tank %1;
+	#switch {"%1"} {
+
+	#case {"on"} {#showme <170>Kill Trigger ENABLED;
+		#alias {corpsetrig} {
+        flush corpse;get coins;
+        .bot}};
+
+	#case {"ga"} {#showme <170>Loot Ktrig ENABLED;
+		#alias {corpsetrig} {
+	focus absorb energy;get all;#if {$forceper > 10 || $controlper < 70} {focus hibernation trance for on} {.bot}}};
+	#case {"off"} {#showme <110>Kill Trigger DISABLED;#alias {corpsetrig} {#nop}};
+	#case {"tol"} {#showme <169>Kill Trigger for Tree of Life Angels ON;#alias {corpsetrig} {focus absorb energy;get all;onward;doorway;k angel}};
+	#default {#showme <169>When in a Party turn 'tank' to 'off' position <170> otherwise keep 'on' to keep
+			triggering your 'corpsetrig' functions. Loot mode "ga".;}}}
+#alias {.cbot} {#act {dealt the killing blow to} {corpsetrig};}
+
+#class {alias} {close}

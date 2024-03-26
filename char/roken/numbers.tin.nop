@@ -1,0 +1,22 @@
+#NOP ---COMBAT STATISTICS
+
+#nop act {^You hit %1 %2 time for %3 damage.} {
+#nop var target %1;
+#nop var hits %2;
+#nop var dmg %3;
+#nop math {totalhits} {$hits
+#nop math {totaldmg} {$dmg
+#nop math {avgdmg} {$totaldmg / $totalhits};
+
+#nop format {numbersbar} {%s||The Damage||} {$hpbar_label};
+#nop format {targmsg} {%sE:%s%s%s%s} {<} {color} {$target} {>};
+#nop format {hitsmsg} {%sHits:%s%s%s%s} {[} {color} {$totalhits} {]};
+#nop format {missmsg} {%sMisses:%s%s%s%s} {[} {color} {$totalmisses} {]};
+#nop format {avgdmg} {%sAVG DMG:%s%s%s%s} {[} {color} {$avgdmg} {]};
+
+#nop format {prompt4} {%s %s %s %s} {$numbersbar} {$targmsg} {$hitsmsg} {$missmsg} {$avgdmg}
+#nop }
+#nop {2};
+
+#nop prompt {You hit %1 %2 time for %3 damage.} {${prompt4}} {row, change split}
+

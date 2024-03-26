@@ -1,0 +1,99 @@
+#split 0 2
+#class {hpbar} {kill}
+#class {hpbar} {open}
+#alias {hpconfig} {hpsetup HP:[$HP$] SP:[$SP$] NE:[$NE$] SO:[$SO$] $NL$ Combat:[$MO$] Spell:[$EFF$] GXP:[$PNL$] T:[$ENS$]}
+ 
+#function {colscale}
+{
+        #switch {10 * %1 / %2}
+        {
+                #case {0} {#return <FF00>};
+                #case {1} {#return <FF30>};
+                #case {2} {#return <FF60>};
+                #case {3} {#return <FF90>};
+                #case {4} {#return <FFC0>};
+                #case {5} {#return <FFF0>};
+                #case {6} {#return <FCF0>};
+                #case {7} {#return <F9F3>};
+                #case {8} {#return <F6F3>};
+                #case {9} {#return <F3F3>};
+                #default  {#return <F0F0>};
+        }
+}
+#function {toggle} {
+	#switch {$tank} {
+		#case {"on"} {#return <F0F0>};
+		#case {"off"} {#return <FF00>};
+		#case {"ga"} {#return <F0F0>};
+		#case {"tol"} {#return <FFF0>};
+		#default {#return <088>};
+	}
+}
+#function {prof} {
+	#math {pxpval} {%1 / 4}
+	#switch {$pxpval} {
+		#case {1} {#return <FF00>};
+		#case {2} {#return <FFC0>};
+		#case {3} {#return <F6F3>};
+		#default {#return <F0F0>};
+	}
+}
+#var hpbar_label <088>;
+#var hpbar_points_full <129>;
+#var hpbar_points_high <169>;
+#var hpbar_points_med <139>;
+#var hpbar_points_low <119>;
+
+#act {^HP:[%1/%2] SP:[%3/%4] NE:[%5/%6] SO:[%7/%8]} {
+
+	#var hpcol @colscale{%1;%2};
+	#var spcol @colscale{%3;%4};
+	#var necol @colscale{%5;%6};
+	#var socol @colscale{%7;%8};
+
+	#var hpcur %1;
+	#var hpmax %2;
+	#var spcur %3;
+	#var spmax %4;
+	#var necur %5;
+	#var nemax %6;
+	#var socur %7;
+	#var somax %8;
+		#if {$socur <= .8 * $somax && '$spweave' == 'off'} {attempt_sweave}
+
+	#format {hpmsg} {%sHP:[%s%s%s/%s%s]} {$hpbar_label} {$hpcol} {$hpcur} {$hpbar_label} {$hpbar_points_full} {$hpmax};
+	#format {spmsg} {%sSP:[%s%s%s/%s%s]} {$hpbar_label} {$spcol} {$spcur} {$hpbar_label} {$hpbar_points_full} {$spmax};
+	#format {nemsg} {%sNE:[%s%s%s/%s%s]} {$hpbar_label} {$necol} {$necur} {$hpbar_label} {$hpbar_points_full} {$nemax};
+	#format {somsg} {%sSO:[%s%s%s/%s%s]} {$hpbar_label} {$socol} {$socur} {$hpbar_label} {$hpbar_points_full} {$somax};
+
+	#format {prompt1} {%s %s %s %s} {$hpmsg} {$spmsg} {$nemsg} {$somsg}
+}
+{2};
+
+#prompt {HP:[%1/%2] SP:[%3/%4] NE:[%5/%6] SO:[%7/%8]} {${prompt1}} {-3}
+
+#act {^%1Combat:[%1] Spell:[%2] GXP:[%3] T:[%4]} {
+
+	#var combat %1;
+	#var spell %2;
+	#var gxp %3;
+	#var gxpcol @colscale{%3};
+	#var target %4;
+		#if {"$target" == "None"} {#var target {}};
+		#replace {target} {%} {};
+	#var targetcol @colscale{$target;100};
+	#var ktcol @toggle{$tank};
+	#var pxpc @prof{$pxp[reforger]};
+	#format {cmbtmsg} {%scStrat:[%s%s%s]} {$hpbar_label} {$combat};
+	#format {splmsg} {%scMagic:[%s%s%s]} {$hpbar_label} {$spell};
+	#format {gxpmsg} {%sgXP:[%s%s%s]} {$hpbar_label} {$gxpcol} {$gxp};
+	#format {tarmsg} {%smT:[%s%s%s%s]} {$hpbar_label} {$targetcol} {$target} {$hpbar_label} {%};
+	#format {ktmsg} {%skT:%s%u%u} {$hpbar_label} {$ktcol} {$tank} {$hpbar_label};
+	#format {pxpmsg} {%spXP:%s%s%s} {$hpbar_label} {$pxpc} {$pxp[reforger]} {$hpbar_label};
+	#format {prompt2} {%s %s %s %s %s %s} {$cmbtmsg} {$splmsg} {$gxpmsg} {$tarmsg} {$ktmsg} {$pxpmsg}
+}
+{2};
+
+#prompt {%1Combat:[%1] Spell:[%2] GXP:[%3] T:[%4]} {${prompt2}} {-2}
+
+#class {hpbar} {close}

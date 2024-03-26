@@ -1,0 +1,25 @@
+#ses {3k} {3k.org} {3000};roken;$rokenPass
+#split 0 1;
+#conf {repeat enter} {on};
+#conf {color patch} {on};
+#conf {packet patch} {1};
+#read $3KSRC/char/roken/actions.tin;
+#read $3KSRC/char/roken/alias.tin;
+#read $3KSRC/char/roken/jedihpbar2.tin;
+#read $3KSRC/char/roken/gags.tin
+#read $3KSRC/char/roken/highlight.tin
+#read $3KSRC/common/chatlog.tin;
+#read $3KSRC/common/directions.tin;
+#NOP read $3KSRC/common/mapper.tin;
+#read $3KSRC/common/craftpurge.tin;
+#read $3KSRC/char/roken/dmg_tracker.tin;
+#read $3KSRC/common/general_alias.tin;
+tank on
+exa transmuter's stone
+exa pack
+fdef_reset
+fdef off
+fdef
+cloak off
+adis off
+dmg n

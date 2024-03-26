@@ -1,0 +1,17 @@
+#class {bot} {open}
+#var {area} {hoteltrans}
+#var {botpath} {n;n;n;n;n;n;n;n;e;e;e;e;e;e;e;e;w;s;w;w;w;w;w;w;w;s;e;e;e;e;e;e;w;s;w;w;w;w;w;s;e;e;e;e;w;s;w;w;w;s;e;e;w;s;w;s}
+
+#act {^[MoNSTaR]{A zombie bell hop waiting to carry your things.|A zombie cook looking for something to chop.|A zombie waiter offering drinks.}} {
+	#if {"%1" == "A zombie bell hop waiting to carry your things."} {#var mobname zombie};
+	#if {"%1" == "A zombie cook looking for something to chop."} {#var mobname zombie};
+	#if {"%1" == "A zombie waiter offering drinks."} {#var mobname zombie};
+	_check_mob
+	}
+
+#class {bot} {close}
+
+#read bots/generic.tin
+
+
+

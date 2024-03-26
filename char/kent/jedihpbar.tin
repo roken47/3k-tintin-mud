@@ -1,0 +1,175 @@
+#NOP --- JEDI HP BAR, shared by ChaosOmen on 3k's Discord
+#NOP --- Amended by Karvec
+#NOP --- Amended by Roken with script found on Pladdy's github for 'dissipating attack' 'no weapon wielded'  *** CHANGE *** making it dissipate on shield
+#NOP --- Added XP (Gxp & Fxp) color scale with GREAT help from Thom // every 25% it changes color
+#NOP --- Added triggers for HP and SP regen "foreach" idea found on Pladdy's github
+#NOP --- Force Deflect Statistics algorithm written by Simonz
+#NOP --- WORK IN PROGRESS	*/ Auto toggle Enemy Status prompt
+#NOP ---			Combat Hit Bar (even tho on Current Features) */
+#NOP --- CURRENT FEATURES	*/ Reduce Injury + Clear Mind triggers &&
+#NOP ---			Notif for No Weapon Wielded + Colorized Full text wpmodes
+#NOP ---			Colorization scalings for all HP/SP/GP1/GP2/WEP/GXP/DXP/EHP/and more
+#NOP ---			Force Deflection Statistics prompts Average XP / Total Gained XP and Average Successful Proc rate from total rounds
+#NOP ---			Combat Hit Bar based off Numbers VAF /*   Condense this list somehow
+#NOP ---			Transmuter Charges status and Corpsetrig ON or OFF status for parties */
+#split 0 3
+#class {hpbar} {kill}
+#class {hpbar} {open}
+
+#function {colscale}
+{
+        #switch {10 * %1 / %2}
+        {
+                #case {0} {#return <FF00>};
+                #case {1} {#return <FF30>};
+                #case {2} {#return <FF60>};
+                #case {3} {#return <FF90>};
+                #case {4} {#return <FFC0>};
+                #case {5} {#return <FFF0>};
+                #case {6} {#return <FCF0>};
+                #case {7} {#return <F9F3>};
+                #case {8} {#return <F6F3>};
+                #case {9} {#return <F3F3>};
+                #default  {#return <F0F0>};
+        }
+}
+#function {revcolscale}
+{
+        #switch {10 * %1 / %2}
+        {
+                #case {0} {#return <F0F0>};
+                #case {1} {#return <F3F3>};
+                #case {2} {#return <F6F3>};
+                #case {3} {#return <F9F3>};
+                #case {4} {#return <FCF0>};
+                #case {5} {#return <FFF0>};
+                #case {6} {#return <FFC0>};
+                #case {7} {#return <FF90>};
+                #case {8} {#return <FF60>};
+                #case {9} {#return <FF30>};
+                #default  {#return <FF00>};
+        }
+}
+#function {xpcolscale}
+{
+	#math {xpval} {(%1/25) % 100};
+        #switch {$xpval}
+        {
+                #case {0} {#return <FF3F>};
+                #case {1} {#return <F03F>};
+                #case {2} {#return <FFF0>};
+                #case {3} {#return <F0FF>};
+                #default  {#return <F0FF>};
+        }
+}
+#function {prof}
+{
+	#math {pxpval} {(%1/24)};
+	#switch {$pxpval}
+	{
+		#case {1} {#return <FB900FF>};
+		#case {2} {#return <FFF9CFF>};
+		#case {3} {#return <FFFAD4A>};
+		#case {4} {#return <F00FF00>};
+		#default {#return <FFF0000>};
+	}
+}
+#function {toggle}
+{
+	#switch {"%1"}
+	{
+		#case {"on"} {#return <F0F0>};
+		#case {"ga"} {#return <F0F0>};
+		#case {"off"} {#return <FF00>};
+		#default {#return <088>};
+	}
+}
+#var hpbar_label <170>;
+#var hpbar_points_full <129>;
+#var hpbar_points_high <169>;
+#var hpbar_points_med <139>;
+#var hpbar_points_low <119>;
+
+
+#alias {hpbarconfigsplit} {focus hpconfigure /HP: #hp/#mhp SP: #sp/#msp C:#c F:#f D: #dn/#dm|#dr [#ng] E:#es #nlDef:#df Wm:#sm Ki:#kn Km:#km Gx:#gxp Fx:#fd}
+ 
+#action {^HP: %1/%2 SP: %3/%4 C:%s%5% F:%s%6% D: %7/%8|%9% [%10] E:%11}
+{
+
+   #var hpcolor @colscale{%1;%2};
+   #var spcolor @colscale{%3;%4};
+   #format {controlper} {%d} {%5};
+   #var controlcolor @colscale{$controlper;100};
+   #format {forceper} {%d} {%6};
+   #var forcecolor @revcolscale{$forceper;100};
+   #var disicolor @colscale{%7;%8};
+   #format {disiresetper} {%d} {%9};
+   #var disiresetcolor @colscale{$disiresetper;100};
+   #var hpcur %1;
+   #var hpmax %2;
+   #math {min_hp} {$hpmax*0.70};
+        #if {$hpcur <= $min_hp} {healup};
+   #var spcur %3;
+   #var spmax %4;
+   #var control %5;
+   #math force {(%6 - 100) * -1};
+   #var force_max {100};
+   #var disi %7;
+   #var disimax %8;
+   #var disireset %9;
+   #var stornrg %10;
+   #var enmystat %11;
+	#if {"$enmystat" == ""} {#var enmystat {}};
+	#replace {enmystat} {%} {};
+   #var mobhpcolor @colscale{$enmystat;100};
+
+   #format {hpmsg} {%sHP:%s%s%s/%s%s} {$hpbar_label} {$hpcolor} {$hpcur} {$hpbar_label} {$hpbar_points_full} {$hpmax};
+   #format {spmsg} {%sSP:%s%s%s/%s%s} {$hpbar_label} {$spcolor} {$spcur} {$hpbar_label} {$hpbar_points_full} {$spmax};
+   #format {consmsg} {%sC:%s%s%s%s} {$hpbar_label} {$controlcolor} {$control} {$hpbar_label} {%};
+   #format {forcemsg} {%sF:%s%s%s%s} {$hpbar_label} {$forcecolor} {$force} {$hpbar_label} {%};
+   #format {disimsg} {%sD:%s%s%s/%s%s%s|%s%s%s%s} {$hpbar_label} {$disicolor} {$disi} {$hpbar_label} {$hpbar_points_full} {$disimax}  {$hpbar_label}  {$disiresetcolor} {$disireset}  {$hpbar_label}  {%};
+   #format {stornrgmsg} {%s[%s]%s} {$hpbar_label} {$stornrg};
+   #format {enmystatmsg} {%sE:%s%s%s%s} {$hpbar_label} {$mobhpcolor} {$enmystat} {$hpbar_label} {%};
+   #format {prompt1} {%s %s %s %s %s %s %s} {$hpmsg} {$spmsg} {$consmsg} {$forcemsg} {$disimsg} {$stornrgmsg} {$enmystatmsg}
+}
+{2};
+
+
+#prompt {HP: %1/%2 SP: %3/%4 C:%s%5% F:%s%6% D: %7/%8|%9% [%10] E:%11} {${prompt1}} {-4}
+
+#nop ---HPBAR LINE2
+
+#action {^Def:%1  Wm:%2 Ki:%3 Km:%4 Gx:%s%5 Fx:%s%6} {
+
+ #var defflag %1;
+ #var dissipating false;
+   #regex {%1} %!{D|a|c|f|h|s)} {#var dissipating true};
+   #var wepmode %2;
+	#if {"%2" == "n"} {
+                #showme <110>Warning! In neutral mode, pick a combat mode!};
+	#if {"%2" == "h"} {#replace {wepmode} {h} {<F0C0>Hands<F0C0>}};
+   #var kib %3;
+   #var kim %4
+   #var gxnl %5;
+   #var gxpcolor @xpcolscale{$gxnl};
+	#if {$gxnl > "100.00" && $gxnl < "100.05"} {
+		#showme <F0F0>w00t WOOT -- You Reached NEW ASCENSION!<F0F0>};
+   #var fdper %6;
+   #var fdcolor @xpcolscale{$fdper};
+   #var togcolor @toggle{$tank};
+
+   #format {defflagmsg} {%sDef:%s%s} {$hpbar_label} <F1FF> {$defflag};
+   #format {wepmodemsg} {%sWm:%s%s}  {$hpbar_label} {$wepmode};
+   #format {kimsg}  {%sKi:%s%s%s%s%s%s}  {$hpbar_label} {$kib} {$hpbar_label} {|} {$kim};
+   #format {gxpmsg}  {%sGxp:%s%s%s%s} {$hpbar_label} {$gxpcolor} {$gxnl} {$hpbar_label} {%};
+   #format {fdpermsg}   {%sDxp:%s%s%s%s%s} {$hpbar_label} {$fdcolor} {$fdper} {$hpbar_label} {%};
+   #format {ktrigmsg} {%sKt:%s%s%s} {$hpbar_label} {$togcolor} {$tank};
+  
+   #format {prompt2} {%s %s %s %s %s %s} {$defflagmsg} {$wepmodemsg} {$kimsg} {$gxpmsg} {$fdpermsg} {$ktrigmsg}
+
+}
+{2};
+
+#prompt {Def:%1 Wm:%2 Ki:%3 Km:%4 Gx:%s%5% Fx:%s%6%} {${prompt2}} {-3}
+
+#class {hpbar} {close}

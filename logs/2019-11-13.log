@@ -1,0 +1,236 @@
+- = LOG STARTED [00:00] = -
+[00:00] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[00:14] [0m[34;1mFluffy shouts:[0m help bote[0m
+[00:34] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[01:04] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[18:38] [33;1m[Clan] Roken enters the game.[0m  [0m
+[18:42] [0m[33;1m[Clan] Rebar enters the game.[0m  [0m
+[18:42] [0m[33;1m[Clan] Ser enters the game.[0m  [0m
+[18:42] [0m[33;1m[Clan] Ser :[0m @ Mud, I think I worked out the problems[0m
+[18:46] [0m[33;1m[Clan] Roken :[0m forgot how to load chatlog[0m
+[18:46] [0m[33;1m[Clan] Ser :[0m tt++ common/follow_chatlog.tin[0m
+[18:46] [0m[33;1m[Clan] Roken :[0m thx[0m
+[18:47] [0m[33;1m[Clan] Ser :[0m i dont think i even reset your pw so maybe it all came back after reboot[0m
+[18:47] [0m[33;1m[Clan] Roken :[0m it was the syntax i forgot[0m
+[18:47] [0m[33;1m[Clan] Roken :[0m all good[0m
+[18:47] [0m[33;1m[Clan] Ser :[0m or you hacked in[0m
+[18:47] [0m[33;1m[Clan] Ser :[0m which was it be honest[0m
+[18:48] [0m[33;1m[Clan] Roken :[0m DDOS'ed[0m
+[18:49] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[18:49] [0mYour transmuter's stone bursts with 2 new colours![0m
+[18:49] [0m[32mYou tell Ser:[0m big oops... I lost about 200 mats. Just for transmuting[0m
+[18:49] [0m[32mSer tells you:[0m me too[0m
+[18:50] [0m[32mYou tell Ser:[0m busy at work?[0m
+[18:50] [0m[32;1mFrom afar, Ser nods to you.[0m[0m
+[18:56] [0m[32mSpun tells you:[0m can i get a pair of chaostone greaves?[0m
+[18:57] [0m[32mYou tell Spun:[0m I can't mine it yet[0m
+[18:57] [0m[32mSpun tells you:[0m can i get a pair of the best you can make?[0m
+[18:58] [0m[32mSpun tells you:[0m i can supply the hearts[0m
+[18:58] [0m[32mYou tell Spun:[0m what stat buff would you like?[0m
+[18:59] [0m[32mSpun tells you:[0m con/wis[0m
+[19:01] [0m[33;1m[Clan] Byron :[0m ok...beloch if we want[0m
+[19:01] [0m[33;1m[Clan] Byron :[0m dinner called earlier[0m
+[19:01] [0m[32mYou tell Spun:[0m ok, 1 essence of willy. Legendary is best[0m
+[19:02] [0m[32mYou tell Spun:[0m or if ya want gemchant.. 2x willy[0m
+[19:03] [0m[32mSpun tells you:[0m i have superior heart of illy[0m
+[19:04] [0m[32mSpun tells you:[0m for a lengendary[0m
+[19:04] [0m[32mSpun tells you:[0m found a lengendary[0m
+[19:04] [0m[32mYou tell Spun:[0m could transmute it into 1 ess[0m
+[19:05] [0m[32mSpun tells you:[0m i found a legendary heart if illy[0m
+[19:05] [0m[32mSpun tells you:[0m i found a legendary heart if willy[0m
+[19:05] [0m[32mYou tell Spun:[0m nice![0m
+[19:06] [0m[32mYou tell Spun:[0m i'm at the crafting guild.. where ya want to meet?[0m
+[19:06] [0m[33;1m[Clan] Ipsie :[0m anyone refresh my memory on nex commands ?[0m
+[19:06] [0m[33;1m[Clan] Byron :[0m ughhhhh[0m
+[19:06] [0m[32mSpun tells you:[0m i meet you there waiting for a train[0m
+[19:06] [0m[33;1m[Clan] Ipsie :[0m iknoright?[0m
+[19:07] [0m[33;1m[Clan] Byron :[0m ha. yeah. i got nothin[0m
+[19:07] [0m[32;1mFrom afar, you nod to Spun.[0m[0m
+[19:07] [0m[33;1m[Clan] Ipsie :[0m i can't even remember if i need two or three pieces[0m
+[19:07] [0m[33;1m[Clan] Byron :[0m 1 opens the status/xp screen[0m
+[19:09] [0m[Auction] Robert : Up for bids: Pitch Black Cloak.[0m
+[19:09] [0m[Auction] Robert : Byron has requested 7,591 as the opening offer.[0m
+[19:10] [0m[Auction] Robert : Got 8,000 from Roken(jedi).  Do I hear 8,400?[0m
+[19:10] [0m[Auction] Robert : 8,000 going once![0m
+[19:10] [0m[Auction] Robert : Got 8,400 from Hyperion(mage).  Do I hear 8,820?[0m
+[19:10] [0m[Auction] Robert : Got 999,999 from Tex(jugg).  Do I hear 1,049,998?[0m
+[19:10] [0m[Auction] Hyperion (mage) : um ok, out[0m
+[19:10] [0m[Auction] Robert : 999,999 going once![0m
+[19:10] [0m[Auction] Roken (jedi) : wtf[0m
+[19:10] [0m[Auction] Robert : 999,999 going twice![0m
+[19:11] [0m[Auction] Byron (bard) : woo[0m
+[19:11] [0m[Auction] Robert : Sold to Tex for 999,999 coins![0m
+[19:11] [0m[35;1mDy [Jedi(73)]:[0m Ferret screams at you "Get out of Wexsmuk that's MY CITY!!"[0m
+[19:11] [0m[Auction] Andeddu (gent) : dang[0m
+[19:11] [0m[Auction] Nauda (necr) : 1 million dollars[0m
+[19:11] [0m[Auction] Byron (bard) : tex numba 1[0m
+[19:11] [0m[32;1mFrom afar, you go 'Woo Woo!' at Byron.[0m[0m
+[19:14] [0m[33;1m[Clan] Byron :[0m nfi how this area is alternating between hating me and not[0m
+[19:14] [0m[33;1m[Clan] Byron :[0m (qoh)[0m
+[19:15] [0m[33;1m[Clan] Mud :[0m had that a few times, sucks donut[0m
+[19:15] [0m[33;1m[Clan] Byron :[0m not hating me currently[0m
+[19:15] [0m[33;1m[Clan] Mud :[0m not this boot (yet)[0m
+[19:16] [0m[33;1m[Clan] Byron :[0m anyone want to kill some belochs?[0m
+[19:16] [0m[33;1m[Clan] Mud :[0m i could burn a refresh[0m
+[19:18] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[19:18] [0m[33;1m[Clan] Byron :[0m if we get 1 more hitter[0m
+[19:18] [0m[33;1m[Clan] Mud :[0m ill head there now[0m
+[19:18] [0m[33;1m[Clan] Mud :[0m manually, lets see if i get it first try[0m
+[19:19] [0m[33;1m[Clan] Byron :[0m ok. brt after queen dies[0m
+[19:19] [0m[33;1m[Clan] Byron :[0m at emergency[0m
+[19:19] [0m[32mYou tell Spun:[0m done[0m
+[19:19] [0m[33;1m[Clan] Nik :[0m what we doin?[0m
+[19:19] [0m[33;1m[Clan] Nik :[0m oo, i can hit belochs[0m
+[19:20] [0m[33;1m[Clan] Mud :[0m im 1s of it atm[0m
+[19:20] [0m[33;1m[Clan] Byron :[0m yay. port me in in a min?[0m
+[19:20] [0m[33;1m[Clan] Nik :[0m just say when![0m
+[19:20] [0m[33;1m[Clan] Byron :[0m port when ready[0m
+[19:21] [0m[33;1m[Clan] Nik :[0m who else  wants a port?[0m
+[19:21] [0m[33;1m[Clan] Nik :[0m got 3 free this time![0m
+[19:21] [1;37;40m CURRENT MATS TO GAIN PXP
+[19:21] [1;36;49m heart of shadow/ess knowledge
+[19:21] [1;36;49m star of flame/neth shards/heart of light/heart of water
+[19:21] [1;35;49m nethernium/flame til 75 and [1;32;49mdiamond/hmight/void/sfrost/shan tears @ 73
+[19:24] [0m[33;1m[Clan] Roken :[0m yay me found sopem by memory[0m
+[19:25] [0m[32mWhoknows says:[0m it's a party![0m
+[19:25] [0m[32mYou say:[0m hi[0m
+[19:25] [0m[32mWhoknows says:[0m woot they here[0m
+[19:25] [0m[32mWhoknows says:[0m this might take me a minute[0m
+[19:27] [0m[33;1m[Clan] Mud :[0m yeah, i was kinda just messing around with it so far.  been more work than it[0m
+[19:27] [0m             shouldve been so far[0m
+[19:27] [0m[33;1m[Clan] Mud :[0m wl[0m
+[19:28] [0m[32mYou say:[0m ooo thundering[0m
+[19:28] [0m[32mWhoknows says:[0m boo no full set for me[0m
+[19:32] [0m[34;1mFirebird shouts:[0m Beloch, the ult Cultist[0m
+[19:34] [0m[34;1mFirebird shouts:[0m Rudoulph the red nore raindeer[0m
+[19:40] [0m[32mNooster says:[0m i'm hanging for a bit[0m
+[19:40] [0m[32mYou say:[0m i'll wait[0m
+[19:41] [0mLeianne flaps : wow.. helm of gama has pretty good resistance - global drop. too bad I can't[0m
+[19:41] [0m                wear :( Will drop at knight guild entrance once I am done here[0m
+[19:41] [0mNightrider flaps : oh gimme![0m
+[19:43] [0m[32mZor says:[0m Most powerful Galan... Grant our disciple, Nooster the power of[0m
+[19:43] [0m          your divine blessing, so we may destroy your enemies![0m
+[19:47] [0mNightrider flaps : anyone know where the tv is at[0m
+[19:47] [0mBabylon flaps : Turnhold was just watching it[0m
+[19:47] [0mNightrider flaps : dude TurnHold[0m
+[19:48] [0mParzival flaps : who lost the remote?[0m
+[19:48] [0mBabylon flaps : wtb 1 clicker[0m
+[19:48] [0mNauda flaps : who lost the tv?[0m
+[19:49] [0mYour transmuter's stone bursts with 2 new colours![0m
+[19:50] [0mParzival flaps : it's over yonder[0m
+[19:51] [0mZor flaps : with the Large Monster waiting got You to attack[0m
+[19:55] [0mNightrider flaps : is there any interest doing a Paul 2.0?[0m
+[19:55] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[20:15] [0mCaeli flaps : I think I saw a spark fly from one of our vents for the heater.....[0m
+[20:15] [0mNik flaps : toasty[0m
+[20:18] [0m[33;1m[Clan] Nik :[0m how do you do the not @ ansi stuff? ESC character?[0m
+[20:18] [0m[33;1m[Clan] Byron :[0m what acs are beans/paste smears?[0m
+[20:19] [0m[33;1m[Clan] Byron :[0m beans = poison, paste = nrg?[0m
+[20:19] [0m[33;1m[Clan] Nik :[0m yea[0m
+[20:20] [0mNauda flaps : look behind you! it's butthead[0m
+[20:21] [0m[32mYou say:[0m only a cloak!?[0m
+[20:21] [0m[32mNooster says:[0m Guess I'm waiting for another reset.[0m
+[20:22] [0m[32mNooster says:[0m I'm saving for 131, but I guess I should get reset room.  Lol[0m
+[20:22] [0m[32mNooster says:[0m I think that's the first time I have ever seen him drop only[0m
+[20:22] [0m              one item[0m
+[20:23] [0m[32mNooster says:[0m Like never seen that before.[0m
+[20:24] [0m[33;1m[Clan] Martyr :[0m is anyone able to reforge loads 3 items?[0m
+[20:27] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[20:32] [0m[33;1m[Clan] Byron :[0m grrr fuckin cmud commands couldn't parse reload/dupe creature on death demon[0m
+[20:33] [0m[32;1m <Congratulations!>[0m : Parzival has become a journeyman blacksmith![0m
+[20:38] [0m[34;1mKitt shouts:[0m Get Rekt'd (TH) (tm)[0m
+[20:39] [0m[34;1mParzival shouts:[0m a glitch in the matrix[0m
+[20:40] [0m[34;1mKitt shouts:[0m If you died once, why not try again[0m
+[20:40] [0m[34;1mSpace shouts:[0m or wrong def/att settings[0m
+[20:40] [0m[34;1mKitt shouts:[0m Or Control yo Botz better[0m
+[20:41] [0m[32mInago tells you:[0m you mind if I slide?[0m
+[20:41] [0mKitt flaps : OK Peeps! IM a Priest[0m
+[20:41] [0m[34;1mNik shouts:[0m dont listen to them Martyr, be free![0m
+[20:41] [0m[34;1mMartyr shouts:[0m meanies[0m
+[20:41] [0m[34;1mSpace shouts:[0m i dont think he is botting, apart from one mega bot i dont know anyone who had a[0m
+[20:41] [0m              routine to go from cemetary to the mob that killed them (with a detour to the[0m
+[20:41] [0m              house to pickup corpses/refill GPs[0m
+[20:42] [0m[32mYou tell Inago:[0m sure[0m
+[20:44] [0m[34;1mKitt shouts:[0m Ftouches At SS! @.@[0m
+[20:44] [0mKitt flaps : Free Eq Tony drops A sticky cocoon {unyielding}.[0m
+[20:47] [0m[34;1mKitt shouts:[0m Ftouches at ss!@ come get sum[0m
+[20:48] [0mKitt flaps : need to keep my peeps happy with ftouches[0m
+[20:52] [0mKitt flaps : WTF merrck[0m
+[20:52] [0mMerrick flaps : i r teh suck[0m
+[20:53] [0mKitt flaps : Crypt up 1 n of resid come play[0m
+[21:00] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[21:01] [0mYour transmuter's stone bursts with 4 new colours![0m
+[21:15] [0mMartyr flaps : do embalmed corpses from morgue rot?[0m
+[21:15] [0mKitt flaps : yes[0m
+[21:16] [0mMartyr flaps : wtf[0m
+[21:16] [0mKitt flaps : oh maybe not[0m
+[21:16] [0mDy flaps : Rot did you expect?[0m
+[21:16] [0mMartyr flaps : not a walmart embalmer[0m
+[21:24] [0m[32mYou say:[0m want helmet?[0m
+[21:25] [0m[32mYou tell Nooster:[0m leaving you helmet[0m
+[21:27] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[21:28] [0m[33;1m[Clan] Nix :[0m martyr log on byron and drag me all boot[0m
+[21:28] [0m[33;1m[Clan] Nix :[0m well meant to be a tell but end result is the same i suppose[0m
+[21:28] [0m[33;1m[Clan] Xaryl :[0m free GXP!! I will[0m
+[21:28] [0m[33;1m[Clan] Xaryl :[0m will br crap XP though :(  (for you)[0m
+[21:29] [0m[33;1m[Clan] Nix :[0m heh i meant on void[0m
+[21:29] [0m[33;1m[Clan] Xaryl :[0m heh[0m
+[21:29] [0m[33;1m[Clan] Xaryl :[0m he would not survive abyss :([0m
+[21:29] [0m[33;1m[Clan] Nix :[0m nog not yet[0m
+[21:31] [0mCandi says: You leave my corpse alone, you hear?[0m
+[21:31] [0m[32mNooster tells you:[0m Dammit[0m
+[21:32] [0mBertolo says: Y'know what we got here? Motherfuckin' Charlie Bronson!      [0m
+[21:34] [0m[32mNetta says: [0mI will please you.[0m
+[21:37] [0m[33;1m[Clan] Martyr :[0m woo, freezer real this time[0m
+[21:37] [0m[33;1m[Clan] Xaryl :[0m woot[0m
+[21:40] [0m[34;1mTex shouts:[0m off with his well you know how it goes[0m
+[21:42] [0m[32mZachary says: [0mI got tiger blood in my veins.  How 'bout you?[0m
+[21:42] [0m[32mZachary says: [0mHah, this is good training for my upcoming action flick.[0m
+[21:42] [0mZachary says: May your face melt off and your children weep over[0m
+[21:47] [0m[35;1mDy [Jedi(74)]:[0m There are three kinds of lies: lies, damned lies, and statistics.[0m
+[21:47] [0mDy flaps : Step right up ladies and gentlemen! Come and see things your eyes won't believe![0m
+[21:48] [0mDy flaps : Some say they are aliens, others say they are Strangers! Come one, come all,[0m
+[21:48] [0m           welcome..TO THE FREAKSHOW!!![0m
+[22:01] [0mYour transmuter's stone bursts with 3 new colours![0m
+[22:02] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[22:11] [0m[35;1mDy [Jedi(74)]:[0m Leave it to Adalius to come in and muck up everything.[0m
+[22:27] [0m[35;1mRoken [Jedi(70)]:[0m wth happened to my jedipack?[0m
+[22:27] [0m[35;1mDy [Jedi(74)]:[0m ninjas[0m
+[22:28] [0m[35;1mRoken [Jedi(70)]:[0m whorehouse or aegis steal it[0m
+[22:28] [0m[35;1mDy [Jedi(74)]:[0m bandits probably[0m
+[22:28] [0m[35;1mDy [Jedi(74)]:[0m or those[0m
+[22:29] [0m[35;1mRoken [Jedi(70)]:[0m bollucks[0m
+[22:32] [0mCaeli flaps : OH!  Dr. Strangelove or How I Learned to Love the Bomb is on![0m
+[22:40] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[22:43] [0m[33;1m[Clan] Martyr :[0m damn ran out of corpses[0m
+[22:43] [0m[33;1m[Clan] Xaryl :[0m eep![0m
+[22:47] [0mParzival flaps : what radio station?[0m
+[22:48] [0m[33;1m[Clan] Martyr :[0m current guild rankings:[0m
+[22:48] [0m[33;1m[Clan] Martyr :[0m You are   1 of  10 in Most Deaths[0m
+[22:48] [0m[33;1m[Clan] Martyr :[0m woo[0m
+[22:48] [0m[33;1m[Clan] Xaryl :[0m nice[0m
+[22:52] [0m[33;1m[Clan] Nix :[0m some pb in box[0m
+[22:54] [0m[37;1mFluffy <.oO>:[0m you go gurl![0m
+[22:55] [0mFluffy <C-Trade>: wtb 3 major endurance gems[0m
+[23:01] [0mYour transmuter's stone bursts with 3 new colours![0m
+[23:13] [0mCaeli flaps : Gentlemen! You can't fight here! This is the war room![0m
+[23:15] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[23:20] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Northern Hills of[0m
+[23:20] [0m                          Fantasy!  We are localizing it now - get ready![0m
+[23:30] [0m[33;1m[Clan] Byron :[0m might have just drug you away xaryl :P[0m
+[23:31] [0m[33;1m[Clan] Xaryl :[0m heh, yeah[0m
+[23:31] [0m[33;1m[Clan] Byron :[0m no lord. but martyr has slides. port him in?[0m
+[23:31] [0m[33;1m[Clan] Xaryl :[0m sorry[0m
+[23:31] [0m[33;1m[Clan] Byron :[0m brb[0m
+[23:31] [0m[33;1m[Clan] Xaryl :[0m I am at byrontic[0m
+[23:31] [0m[33;1m[Clan] Xaryl :[0m want me to go to PB lord?[0m
+[23:32] [0m[33;1m[Clan] Martyr :[0m nah. byron got it unless you want to dupe him for another pb set[0m
+[23:32] [0m[33;1m[Clan] Xaryl :[0m I can, for the clan[0m
+[23:34] [0m[33;1m[Clan] Byron :[0m I just want gloves/boots[0m
+[23:34] [0mCaeli flaps : Hidden Figures is on FXMHD[0m
+[23:37] [0mCaeli flaps : Katherine Johnson is 101 years old this year.[0m
+[23:37] [0m[33;1m[Clan] Byron :[0m any chance I can get a port out?[0m
+[23:38] [0m[33;1m[Clan] Xaryl :[0m more randome EQ in box[0m
+[23:38] [0m[33;1m[Clan] Byron :[0m actually just gonna ld[0m
+[23:39] [0m[33;1m[Clan] Byron :[0m gnight[0m
+[23:45] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m

@@ -1,0 +1,1376 @@
+- = LOG STARTED [00:00] = -
+[00:11] [0m[37;1m[4m[31m[JEDI]: Tobias Kel'ach'nar arrives at the Academy.[0m[0;1;37m[0m
+[00:13] [0m[32mYou tell Asp:[0m where shall i meet you?[0m
+[00:13] [0m[32mAsp tells you:[0m crafting box?[0m
+[00:15] [0m[32mYou say:[0m  get it?[0m
+[00:16] [0m[32mAsp tells you:[0m yip, thanks[0m
+[00:16] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[00:16] [0m[32;1mFrom afar, you bow to Asp.[0m[0m
+[00:27] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[00:27] [0mYou can currently reforge 12 items.[0m
+[00:28] [0m[32mYvon says: Sorry, but you must be blacksmith level 30 to specialize further.[0m
+[00:31] [0mSimonz <Craft>: umm, I just made an ebon codpiece, minimum level 65, and I'm[0m
+[00:31] [0m                level 65, and I got no cxp for it[0m
+[00:33] [0mSimonz <Craft>: aww, crap, I forgot to teachmenow, !@#$@%#[0m
+[00:33] [0m[32;1m <Congratulations!>[0m : Simonz has become a expert blacksmith![0m
+[00:33] [0mSimonz <Craft>: well that sucks[0m
+[00:33] [0mSimonz <Craft>: that really needs to happen automagically and not truncate[0m
+[00:33] [0m                whatever cxp you were earning[0m
+[00:34] [0mRoken <Craft>: teachmenow to upgrade to next tier of any trade?[0m
+[00:34] [0mSimonz <Craft>: ayup[0m
+[00:35] [0mSimonz <Craft>: anyone have a legendary pearl they can part with?[0m
+[00:37] [0mRoken <Craft>: i would if i had, no questions asked[0m
+[00:38] [0m[32mSimonz tells you:[0m do you have a house box yet?[0m
+[00:38] [0m[32mYou tell Simonz:[0m i have a medium box[0m
+[00:39] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[00:39] [0m[32mYou tell Simonz:[0m is there a donate box?[0m
+[00:39] [0m[32mSimonz tells you:[0m nod, 1e of chavee[0m
+[00:39] [0mAsp <C-Trade>: I don't want to craft... I want to TRADE![0m
+[00:40] [0m[32mYou tell Simonz:[0m i meant for houses[0m
+[00:40] [0m[32mSimonz tells you:[0m ? there aren't different kinds of boxes, just different[0m
+[00:40] [0m        sizes[0m
+[00:41] [0m[37;1m[4m[31m[JEDI]: Durnoth arrives at the Academy.[0m[0;1;37m[0m
+[00:42] [0m[32mYou tell Simonz:[0m too bad for the amount of players be cool to have[0m
+[00:42] [0m        minigames at other homes. something social[0m
+[00:44] [0m[32mSimonz tells you:[0m man, that manual advancement thing sucks.  not only did[0m
+[00:44] [0m        my cxp get truncated from the titanium boots I made, I just lost[0m
+[00:44] [0m        the cxp from that ebon codpiece.  That was a good gem I put in it[0m
+[00:44] [0m        too[0m
+[00:45] [0m[32mYou tell Simonz:[0m don't tell me, you're noticing now things aren't so[0m
+[00:45] [0m        automagic :wink:[0m
+[00:45] [0m[32mSimonz tells you:[0m lol[0m
+[00:45] [0m[32mSimonz tells you:[0m yeah, definitely gonna complain to flaxen about that one[0m
+[00:46] [0m[32mYou tell Simonz:[0m but really what's the point of tiers anyway? just have all[0m
+[00:46] [0m        levels displayed[0m
+[00:46] [0m[32;1mFrom afar, Simonz asks: Can ai-yah have an AMEN Bruthah Roken?![0m[0m
+[00:46] [0m[32mYou say:[0m AMEN Bruthah Simonz![0m
+[00:52] [0m[32mSimonz tells you:[0m at least I finally got 111 so I can start getting stats[0m
+[00:52] [0m        again lol[0m
+[00:53] [0m[32mYou tell Simonz:[0m what xp is spent to refresh rooms when you have eternal[0m
+[00:53] [0m        status[0m
+[00:53] [0m[32mSimonz tells you:[0m oh hey, you gl'd again since I saw it last, congrats![0m
+[00:54] [0m[32mYou tell Simonz:[0m yep half way to the next and gl 21 on monk[0m
+[00:56] [0m[32mSimonz tells you:[0m so, it looks like the way it works is that each power[0m
+[00:56] [0m        has a tier, you start off at tier 0, and they seem to range from[0m
+[00:56] [0m        2-7 for the max.  each tier costs an amount of xp that looks like[0m
+[00:56] [0m        it starts at 1b for a minimum, and then presumably the cost goes up[0m
+[00:56] [0m        for each tier[0m
+[00:56] [0m[32mSimonz tells you:[0m there are three refresh power, room, area, and dungeon[0m
+[00:57] [0m[32mSimonz tells you:[0m dungeon starts at 4.5b, area at 5.5, and room at 6[0m
+[00:57] [0m[32mYou tell Simonz:[0m wow uh you'd be level 1 character wise at those costs[0m
+[00:58] [0m[32mSimonz tells you:[0m ayup[0m
+[00:58] [0m[32mSimonz tells you:[0m so, that's powers, there are also eternal skills that[0m
+[00:58] [0m        you spend eternal gxp on, and that's basically based on rounds in[0m
+[00:58] [0m        combat[0m
+[00:58] [0m[32mYou tell Simonz:[0m wtf doesn't sound worthy of my time... i can just fight at[0m
+[00:58] [0m        different dungeon and by time im finished the other dungeon will[0m
+[00:58] [0m        reset[0m
+[00:59] [0m[32mSimonz tells you:[0m nod, it's really not atm for the powers, but there's the[0m
+[00:59] [0m        gxp side that takes time in combat, and there are skills there too[0m
+[01:00] [0mHadriene <Craft>: i finally got a fragment of light :) finally![0m
+[01:00] [0m[32mSimonz tells you:[0m puts you in a better place when you get to 130 or[0m
+[01:00] [0m        whatever and you're ready to start blowing that kind of xp[0m
+[01:00] [0mHyuga <Craft>: stop the presses![0m
+[01:01] [0m[32mSimonz tells you:[0m when I get to the point where I'm making a delta of say[0m
+[01:01] [0m        150m it'd make more sense, but until then I've got a lot of stats[0m
+[01:01] [0m        to catch up on[0m
+[01:02] [0m[32mSimonz tells you:[0m though I'm not going to raise con as much as I was now[0m
+[01:02] [0m        that I can make this crafted stuff[0m
+[01:03] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[01:03] [0m[32mSimonz tells you:[0m at this point, if I need more con I'll just add +con[0m
+[01:03] [0m        gemchants to whatever I'm wearing[0m
+[01:06] [0m[32mYou tell Simonz:[0m lucky you, imma continue to lag behind[0m
+[01:06] [0m[32mYou tell Simonz:[0m 21 mining 28 blacksmith[0m
+[01:12] [0m[32;1mBurnaby [Jedi(54)]:[0m can't sleep[0m
+[01:12] [0m[32mYou tell Simonz:[0m enchanters only prospect ores?[0m
+[01:12] [0m[32mSimonz tells you:[0m enchanters make gems and prospect ores[0m
+[01:17] [0m[32mYou tell Simonz:[0m oops pressed [end] key next to pgdn sooooo[0m
+[01:18] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[01:18] [0m[32mYou tell Simonz:[0m so make gems from prospected ores? then wranglers fill[0m
+[01:18] [0m        essence into gems[0m
+[01:19] [0m[32mSimonz tells you:[0m definitely get your enchanter level up to match your[0m
+[01:19] [0m        mining so you can prospect the stuff[0m
+[01:19] [0m[32mYou tell Simonz:[0m do i need to start at copper?[0m
+[01:19] [0m[32mSimonz tells you:[0m no, so, you prospect the ore, and that tears it apart[0m
+[01:19] [0m        and gives you a chance of finding whatever else you'd find with[0m
+[01:19] [0m        that ore when you're mining[0m
+[01:20] [0m[32mSimonz tells you:[0m you don't get cxp for prospecting, only for making gems[0m
+[01:20] [0m[32mYou tell Simonz:[0m prospect the nodes or ores after mining?[0m
+[01:20] [0m[32mSimonz tells you:[0m so, go to the shop right by the kiln and get a gem of[0m
+[01:20] [0m        minor might moulding[0m
+[01:20] [0m[32mSimonz tells you:[0m the ores[0m
+[01:21] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[01:21] [0m[32mSimonz tells you:[0m do you haev legendary on aqua and aqua dust and frag of[0m
+[01:21] [0m        light[0m
+[01:22] [0m[32mYou tell Simonz:[0m 1 aqua 2 aqua dust 0 light (ess,frag,heart)[0m
+[01:22] [0m[32mSimonz tells you:[0m ok, give me a sec, i'll transmute you a fragment of[0m
+[01:22] [0m        light[0m
+[01:22] [0m[32mYou tell Simonz:[0m have 1 ea of light when it is superior[0m
+[01:23] [0m[32mSimonz tells you:[0m meet at kiln[0m
+[01:24] [0m[32mYou say: [0mhi                                                                   [0m
+[01:24] [0;32mSebastian says:[0m Hi, Roken, do you seek to learn about enchanting?         [0m
+[01:24] [0m[32mSimonz tells you:[0m so the trick here is, don't bother crafting anything[0m
+[01:24] [0m        that isn't legendary[0m
+[01:24] [0m[32mSimonz tells you:[0m you get like 4x as much cxp[0m
+[01:25] [0m[32mSimonz tells you:[0m buy/trade/whatever for the legendary mats[0m
+[01:25] [0m[32mYou tell Simonz:[0m im still in training tho. prefer to save legendaries for[0m
+[01:25] [0m        things id use[0m
+[01:27] [0m[32mSimonz tells you:[0m nope[0m
+[01:27] [0m[32mYou tell Simonz:[0m is it possible to assemble to the opposite of shatter?[0m
+[01:27] [0m[32mSimonz tells you:[0m yes[0m
+[01:27] [0m[32mSimonz tells you:[0m but seriously, watch this[0m
+[01:27] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[01:27] [0mYou can currently reforge 12 items.[0m
+[01:28] [0m[32mSimonz says:[0m  go east[0m
+[01:28] [0m[32mSimonz says:[0m  'buy gem of minor might'[0m
+[01:28] [0m[32mSimonz says:[0m  you can list to see what you can buy, right now it's just 2[0m
+[01:28] [0m             things, i'm up to 105[0m
+[01:28] [0m[32mSimonz says:[0m  ok, w and kiln[0m
+[01:29] [0m[32mSimonz tells you:[0m ok, so the kiln is instanced like the mines, so I can't[0m
+[01:29] [0m        go in yours[0m
+[01:29] [0m[32mSimonz tells you:[0m but insert moulding, insert the mats, and fire[0m
+[01:29] [0m[32mSimonz tells you:[0m just like blacksmighting[0m
+[01:29] [0m[32mYou tell Simonz:[0m so waste a legendary?[0m
+[01:29] [0m[32mSimonz tells you:[0m not wasting, watch what happens[0m
+[01:31] [0m[32mSimonz tells you:[0m see ;)[0m
+[01:32] [0m[32mYou tell Simonz:[0m 19 enchanter lvls LMAO[0m
+[01:32] [0m[32mSimonz tells you:[0m if you had used poor or something you might have gotten[0m
+[01:32] [0m        1 level[0m
+[01:32] [0m[32mSimonz tells you:[0m it'll slow down, but I'm still getting like 4-5 levels[0m
+[01:32] [0m        per gem as long as I make the best thing I can[0m
+[01:33] [0m[32mYou tell Simonz:[0m so dump any fragment of light below superior?[0m
+[01:33] [0m[32mSimonz tells you:[0m but just like it takes 24 average to make one superior[0m
+[01:33] [0m        or whatever, you get more than that ratio in cxp comparatively for[0m
+[01:33] [0m        legendary[0m
+[01:33] [0m[32mYou tell Simonz:[0m per below good?[0m
+[01:33] [0m[32mSimonz tells you:[0m no[0m
+[01:33] [0m[32mSimonz tells you:[0m heck no[0m
+[01:33] [0m[32mSimonz tells you:[0m because transmuting[0m
+[01:33] [0m[32mSimonz tells you:[0m legendary frags/ess/heart are rarer[0m
+[01:34] [0m[32mYou tell Simonz:[0m i dont have that ability[0m
+[01:34] [0m[32mSimonz tells you:[0m but if you have the other stuff you can get someone to[0m
+[01:34] [0m        transmute for you[0m
+[01:34] [0m[32mYou tell Simonz:[0m are you limited on charges?[0m
+[01:34] [0m[32mSimonz tells you:[0m I'll be happy to do it any time, most transmuters would[0m
+[01:34] [0m[32mSimonz tells you:[0m a bit, but flaxen lowered the costs a lot as part of the[0m
+[01:34] [0m        changes[0m
+[01:34] [0m[32mSimonz tells you:[0m so it's relatively cheap[0m
+[01:35] [0m[32mSimonz tells you:[0m go kill brainy smurf and then one or two of the ninja[0m
+[01:35] [0m        turtles in the toy store[0m
+[01:37] [0m[32mYou tell Simonz:[0m what for?[0m
+[01:37] [0m[32mSimonz tells you:[0m that's how you wrangle[0m
+[01:37] [0m[32mSimonz tells you:[0m so, you go to the mob with the gem on top of any other[0m
+[01:37] [0m        gems in inv[0m
+[01:38] [0m[32mSimonz tells you:[0m then you 'entrap mob' and kill it[0m
+[01:38] [0m[32mSimonz tells you:[0m it'll leave a chaotic essence on the ground[0m
+[01:38] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[01:38] [0m[32mSimonz tells you:[0m get essence, wrangle essence, and that puts the energy[0m
+[01:38] [0m        in the gem[0m
+[01:38] [0m[32mYou tell Simonz:[0m copy[0m
+[01:38] [0m[32mSimonz tells you:[0m the amount of enervy you need is dependent on the level[0m
+[01:38] [0m        of the gem[0m
+[01:39] [0m[32mSimonz tells you:[0m and energy == class of mob[0m
+[01:39] [0m[32mSimonz tells you:[0m there's a list on the wiki of how much each size of gem[0m
+[01:39] [0m        needs[0m
+[01:39] [0m[32mSimonz tells you:[0m that one is 11,500 to 14,400[0m
+[01:39] [0m[32mSimonz tells you:[0m so usually you kill something that'll get you close, and[0m
+[01:39] [0m        then do a couple small things to finish it off[0m
+[01:40] [0m[32mSimonz tells you:[0m and I recommend getting the enchanter mskill if you can[0m
+[01:40] [0m[32mYou tell Simonz:[0m scaler 110 smurf[0m
+[01:40] [0m[32mSimonz tells you:[0m nonono[0m
+[01:40] [0m[32mSimonz tells you:[0m scaler 1[0m
+[01:40] [0m[32mSimonz tells you:[0m or that's what your saved to right now?[0m
+[01:40] [0m[32mYou tell Simonz:[0m saved to[0m
+[01:40] [0m[32mSimonz tells you:[0m do some hippies then[0m
+[01:41] [0m[32mSimonz tells you:[0m not roan[0m
+[01:41] [0m[32mYou tell Simonz:[0m entrap then kill?[0m
+[01:41] [0m[32mYou tell Simonz:[0m really thought kill would be auto after entrap monster[0m
+[01:41] [0m        sigh[0m
+[01:41] [0m[32mSimonz tells you:[0m so, the impression i got reading the stuff and listening[0m
+[01:41] [0m        to people was that the entrap only lasts a certain amount of time[0m
+[01:41] [0m[32mSimonz tells you:[0m so if it's small and you're gonna blick it, entrap first[0m
+[01:42] [0m[32mYou tell Simonz:[0m scaler 110 isnt much... roughly 20 rounds on brainy smurf[0m
+[01:43] [0m[32mSimonz tells you:[0m but scaler 110 brainy is not 11k-14k[0m
+[01:43] [0m[32mYou tell Simonz:[0m oh id risk exploding gem[0m
+[01:44] [0m[32mSimonz tells you:[0m you'd absolutely explode the gem[0m
+[01:44] [0m[32mSimonz tells you:[0m level 50+ you could use brainy[0m
+[01:44] [0m[32mSimonz tells you:[0m but not level 1[0m
+[01:45] [0m[32mSimonz tells you:[0m now that my level caught up to my alphabet scaler, I'm[0m
+[01:45] [0m        just using alphabet, as it's documented well and really fine-grain[0m
+[01:45] [0m[32mYou tell Simonz:[0m well blicking toy store[0m
+[01:45] [0m[32mSimonz tells you:[0m exa gem[0m
+[01:45] [0m[32mSimonz tells you:[0m each gem has a limited number of entrap attempts it[0m
+[01:45] [0m        allows[0m
+[01:45] [0m[32mYou tell Simonz:[0m 8 left[0m
+[01:45] [0m[32mYou tell Simonz:[0m no essence left behind[0m
+[01:46] [0m[32mSimonz tells you:[0m so check the wiki to figure out what size mob you need[0m
+[01:46] [0m        to kill, and start with something that gets you close[0m
+[01:46] [0m[32mSimonz tells you:[0m did you entrap first?[0m
+[01:46] [0m[32mYou tell Simonz:[0m yes, entrap, kill, wrangle[0m
+[01:50] [0m[32mYou tell Simonz:[0m mahjong maybe do the trick[0m
+[01:50] [0m[32mSimonz tells you:[0m should have given a message like you call upon the power[0m
+[01:50] [0m        of the gem or whatever[0m
+[01:51] [0m[32mSimonz tells you:[0m did you get the gem out of the kiln?  I've forgotten to[0m
+[01:51] [0m        do that before lol[0m
+[01:51] [0m[32mYou tell Simonz:[0m i got it with, first thing i did was exa kiln[0m
+[01:51] [0m[32mSimonz tells you:[0m if there's no essence the entrap didn't work right[0m
+[01:51] [0m[32mSimonz tells you:[0m ok[0m
+[01:52] [0m[32mYou tell Simonz:[0m i think ken and barbie were too easy, and i ran from smurf[0m
+[01:52] [0m        because he was 700K[0m
+[01:52] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[01:54] [0m[32mSimonz tells you:[0m should get mining up to 55 on this run, and then mine 6[0m
+[01:54] [0m        opens up and I can do adamantium[0m
+[01:55] [0m[32mSimonz tells you:[0m mining is the only real grind left, the others go up so[0m
+[01:55] [0m        fast[0m
+[01:55] [0m[32mSimonz tells you:[0m I made one titanium set and got from 56 to 66 on[0m
+[01:55] [0m        smithing[0m
+[01:55] [0m[35;1mHyuga [Jedi(90)]:[0m woo. i am finally going to pass wyvern in something[0m
+[01:56] [0m[35;1mHyuga [Jedi(90)]:[0m well, besides bk :p[0m
+[01:56] [0m[35;1mSimonz [Jedi(57)]:[0m what's that?[0m
+[01:56] [0m[35;1mHyuga [Jedi(90)]:[0m i am 8.5% from a glvl[0m
+[01:56] [0m[35;1mSimonz [Jedi(57)]:[0m nice!  tomorrow?[0m
+[01:56] [0m[35;1mHyuga [Jedi(90)]:[0m he started playing his jedi again recently so i thought it[0m
+[01:56] [0m                  wouldn't happen[0m
+[01:57] [0m[32mYou tell Simonz:[0m nice.. eh still stuck on wrangle. killed a 7k scholar at[0m
+[01:57] [0m        library is syntax just wrangle? thinking so cuz it say no chaos[0m
+[01:57] [0m        essence here. altho a fragment dropped[0m
+[01:57] [0m[35;1mHyuga [Jedi(90)]:[0m maybe.. gunna be pretty busy the next few days[0m
+[01:57] [0m[35;1mHyuga [Jedi(90)]:[0m realistically prolly be 2 more days[0m
+[01:57] [0m[32mSimonz tells you:[0m no, you just type entrap <mob name>[0m
+[01:57] [0m[32mSimonz tells you:[0m then kill it dead[0m
+[01:59] [0m[32mYou tell Simonz:[0m i see chaotic essence on ground. wrangle command doesnt[0m
+[01:59] [0m        see it[0m
+[01:59] [0m[32mSimonz tells you:[0m get it[0m
+[01:59] [0m[32;1mFrom afar, Simonz smirks at you.[0m[0m
+[01:59] [0m[32mYou tell Simonz:[0m ok sweet takes time for it to drop[0m
+[01:59] [0m[32mSimonz tells you:[0m shouldn't, it should drop immediately after you kill it[0m
+[02:00] [0m[32mSimonz tells you:[0m woot, miner 55[0m
+[02:00] [0m[32mYou tell Simonz:[0m lies[0m
+[02:00] [0m[32mYou tell Simonz:[0m his corpse needs to dissapear[0m
+[02:01] [0m[32mSimonz tells you:[0m oh, well, i guess, my kill trigger absorbs the corpse,[0m
+[02:01] [0m        so i never noticed that detail lol[0m
+[02:01] [0m[32mYou tell Simonz:[0m nice i learned something. search corpse oh man[0m
+[02:01] [0m[32;1mFrom afar, Simonz boggles at you.[0m[0m
+[02:02] [0m[32mSimonz tells you:[0m you don't absorb energy on your corpses?[0m
+[02:02] [0m[32mYou tell Simonz:[0m ya i only absorb the energy i dont carry a coffin[0m
+[02:02] [0m[32mSimonz tells you:[0m oh, ok, I was gonna say[0m
+[02:02] [0m[32mSimonz tells you:[0m i dont' have a coffin either[0m
+[02:02] [0m[32mYou tell Simonz:[0m i absorb and dissipate not release[0m
+[02:02] [0m[32mSimonz tells you:[0m so, release force is good when you're pushing yourself[0m
+[02:02] [0m        in a dungeon[0m
+[02:03] [0m[32mSimonz tells you:[0m because then it keeps force sat down and you don't have[0m
+[02:03] [0m        to stop and regen that, just meditate for conc[0m
+[02:03] [0m[32mYou tell Simonz:[0m well simonz i exploded gem[0m
+[02:03] [0m[32mSimonz tells you:[0m makes you a bit more efficient[0m
+[02:03] [0m[32mSimonz tells you:[0m oops[0m
+[02:03] [0m[32mYou tell Simonz:[0m ya loaded two 7k[0m
+[02:03] [0m[35;1mJasmine [Jedi(Knight)]:[0m Attachment leads to jealousy, the shadow of greed[0m
+[02:03] [0m                        that is. Train yourself to let go of everything you[0m
+[02:03] [0m                        fear to lose. --Master Yoda[0m
+[02:03] [0m[32mSimonz tells you:[0m yeah, so it should have told you the % of how full it[0m
+[02:03] [0m        was when you got the first scholar[0m
+[02:04] [0m[35;1mHyuga [Jedi(90)]:[0m Leave it to Adalius to come in and muck up everything.[0m
+[02:04] [0m[35;1mSimonz [Jedi(57)]:[0m Murphy's Fourth Law: If there is a possibility that[0m
+[02:04] [0m                   several things can go wrong, then the one that will cause[0m
+[02:04] [0m                   the greatest damage will be the one to go wrong.[0m
+[02:04] [0m[35;1mJasmine [Jedi(Knight)]:[0m The first sign of maturity is the discovery that the[0m
+[02:04] [0m                        volume knob also turns to the left.[0m
+[02:08] [0m[32;1mFrom afar, you laff at Jasmine.[0m[0m
+[02:09] [0m[32mYou tell Simonz:[0m imma fight now. wrangle 15 enchant 19 decent start[0m
+[02:09] [0m[32mYou tell Simonz:[0m love killing zombies[0m
+[02:09] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[02:10] [0m[32;1mFrom afar, Simonz grins at you.[0m[0m
+[02:11] [0m[32mSimonz tells you:[0m hang on, let me give you a gem to get your wrangle[0m
+[02:11] [0m        caught up to your enchater[0m
+[02:11] [0m[32mSimonz tells you:[0m I've got a bunch stashed[0m
+[02:12] [0m[32mYou tell Simonz:[0m im at hotel[0m
+[02:13] [0m[32mYou tell Simonz:[0m i can killbot and go to entrance[0m
+[02:13] [0m[32mSimonz tells you:[0m i'm at the entrance[0m
+[02:14] [0m[32mYou say:[0m yo[0m
+[02:15] [0m[35;1mUkyo [Jedi(76)]:[0m hrm. One isn't on. in my idle out, Inquisitor said a few[0m
+[02:15] [0m                 things i disagree with that need a bit of clarification.[0m
+[02:15] [0m                 namely, the worthlessnes of daggers. they aren't. they're[0m
+[02:15] [0m                 just 'special case' weapons.[0m
+[02:15] [0m[32mSimonz tells you:[0m class range on that is ~48k[0m
+[02:16] [0m[32mSimonz tells you:[0m if you go kill something in level 5 mines that'd be[0m
+[02:16] [0m        perfect lol[0m
+[02:17] [0m[32mYou tell Simonz:[0m idk exact ratings of scholar.. 7k on killed list *6 plus[0m
+[02:17] [0m        two students which is 3k[0m
+[02:18] [0m[32mYou tell Simonz:[0m er students 2k on killed list[0m
+[02:18] [0m[32mYou tell Simonz:[0m oh shit scholar 1 7k 2 9k[0m
+[02:18] [0m[32mSimonz tells you:[0m go kill a cow in cowville[0m
+[02:19] [0m[32mYou tell Simonz:[0m kill in mines 5 like you say[0m
+[02:19] [0m[32mSimonz tells you:[0m bleh, I went through mine 6 and got mostly obsidian,[0m
+[02:19] [0m        which I can't mine.  hate it when that happens[0m
+[02:19] [0m[32mSimonz tells you:[0m yeah, the mobs in mine 5 registered at 42k[0m
+[02:20] [0m[32mYou tell Simonz:[0m kill one then mines 1?[0m
+[02:20] [0m[32mSimonz tells you:[0m yeah, that's probably a good plan[0m
+[02:21] [0m[32mYou tell Simonz:[0m surely they designed crafter guild to the point you could[0m
+[02:21] [0m        stay there to do all you need[0m
+[02:21] [0m[32mSimonz tells you:[0m just watch the % it reports after you wrangle and you[0m
+[02:21] [0m        can get a sense for how much you need[0m
+[02:21] [0m[32mSimonz tells you:[0m laf, I hope not, I don't want to have to be killing 5m[0m
+[02:21] [0m        mobs on the last level of the mines[0m
+[02:22] [0m[32mYou tell Simonz:[0m such a party pooper[0m
+[02:25] [0m[32mYou tell Simonz:[0m there a list of wizards?[0m
+[02:25] [0m[32mSimonz tells you:[0m all wizards, or just online?  who wiz[0m
+[02:26] [0m[32mYou tell Simonz:[0m all[0m
+[02:26] [0m[32mSimonz tells you:[0m not that i know of[0m
+[02:27] [0m[32mSimonz tells you:[0m I'll gl tomorrow, 87% now[0m
+[02:27] [0m[32mYou tell Simonz:[0m frank botchecked me about 2 days after i used botcheck on[0m
+[02:27] [0m        myself[0m
+[02:27] [0m[32;1mFrom afar, Simonz laffs at you![0m[0m
+[02:27] [0m[32mSimonz tells you:[0m I don't think i've been botchecked yet[0m
+[02:28] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[02:28] [0mYou can currently reforge 4 items.[0m
+[02:28] [0m[32mYou tell Simonz:[0m want me to check you so youre not left out[0m
+[02:28] [0m[32mSimonz tells you:[0m I'm always chatting on lines though, and talking to ppl,[0m
+[02:28] [0m        so I'm probably not on anyone's radar[0m
+[02:28] [0m[32;1mFrom afar, Simonz smacks you upside the head with his broomstick![0m[0m
+[02:29] [0m[32;1mFrom afar, you ow at Simonz.[0m[0m
+[02:31] [0m[32;1mFrom afar, you smack Simonz upside the head![0m[0m
+[02:31] [0m[32mSimonz tells you:[0m 2 more con and I'll have 2k hp[0m
+[02:32] [0m[32mYou tell Simonz:[0m sorry which one is broomstick[0m
+[02:32] [0m[32mYou tell Simonz:[0m what levl is that?[0m
+[02:32] [0m[32mSimonz tells you:[0m that's my custom emote[0m
+[02:32] [0m[32mSimonz tells you:[0m emoteto, it's HM thing[0m
+[02:34] [0m[35;1mHyuga [Jedi(90)]:[0m why is one single piece of armour so much better than a[0m
+[02:34] [0m                  full set of really good ew[0m
+[02:34] [0m[32mSimonz tells you:[0m man, I just can't get a repair droid this boot[0m
+[02:35] [0m[35;1mHyuga [Jedi(90)]:[0m heh nice freudian slip[0m
+[02:35] [0m[32mYou tell Simonz:[0m possible to give droids?[0m
+[02:35] [0m[32mSimonz tells you:[0m nope[0m
+[02:35] [0m[32mYou tell Simonz:[0m had 1 but wanted a security type cuz i lvl faster[0m
+[02:35] [0m[35;1mUkyo [Jedi(76)]:[0m it's all dependant on what you think comprises 'good'ness.[0m
+[02:35] [0m[35;1mSimonz [Jedi(57)]:[0m you leave them ewe's alone[0m
+[02:36] [0m[35;1mRoken [Jedi(51)]:[0m hi ukyo! slumber well?[0m
+[02:36] [0m[32mSimonz tells you:[0m I'm not too worried about the leveling speed right now,[0m
+[02:36] [0m        I just like my staff never breaking lol[0m
+[02:36] [0m[35;1mUkyo [Jedi(76)]:[0m i'd like to think so. about to work on breakfast, now that[0m
+[02:36] [0m                 my mining run is complete[0m
+[02:36] [0m[32mSimonz tells you:[0m I don't think it broke once last boot[0m
+[02:37] [0m[32mYou tell Simonz:[0m well *clears throat* im lvl 1[0m
+[02:37] [0m[35;1mHyuga [Jedi(90)]:[0m i think good is being able to wear that one piece and go[0m
+[02:37] [0m                  from force satting after 2 mobs vs killing them[0m
+[02:37] [0m                  indefinitely with no resource cost[0m
+[02:37] [0m[32mYou tell Simonz:[0m 59% on security 66% on robotics[0m
+[02:37] [0m[35;1mJasmine [Jedi(Knight)]:[0m damnit, f'n nose bleed out of nowhere[0m
+[02:37] [0m[35;1mUkyo [Jedi(76)]:[0m echi[0m
+[02:38] [0m[35;1mAsp [Jedi(37)]:[0m anime girls![0m
+[02:38] [0m[35;1mHyuga [Jedi(90)]:[0m actually no good isn't even close to describing it[0m
+[02:38] [0m[35;1mHyuga [Jedi(90)]:[0m BONER[0m
+[02:39] [0m[35;1mRoken [Jedi(51)]:[0m this isn't the locker room hyuga[0m
+[02:39] [0m[35;1mUkyo [Jedi(76)]:[0m and, punctuation helps.[0m
+[02:40] [0mBoosh <Craft>: craftng cpx[0m
+[02:40] [0m[35;1mHyuga [Jedi(90)]:[0m nerds... in locker rooms?[0m
+[02:40] [0mBoosh <Craft>: cxp[0m
+[02:40] [0m[35;1mHyuga [Jedi(90)]:[0m i am confused[0m
+[02:41] [0m[35;1mRoken [Jedi(51)]:[0m just using context of "boner" and locker room talk[0m
+[02:41] [0m[35;1mHyuga [Jedi(90)]:[0m i am not grabbing anyone by the boner or anything[0m
+[02:41] [0m[35;1mRoken [Jedi(51)]:[0m bad joke? jasmine probably doesn't care[0m
+[02:42] [0m[35;1mHyuga [Jedi(90)]:[0m i was describing CMC[0m
+[02:42] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[02:42] [0m[32;1mFrom afar, you shrug at Hyuga.[0m[0m
+[02:42] [0m[35;1mHyuga [Jedi(90)]:[0m ukyo's joke was fine, i was completing my train of thought[0m
+[02:43] [0m[35;1mHyuga [Jedi(90)]:[0m bad timing on the nosebleed i guess[0m
+[02:43] [0m[35;1mUkyo [Jedi(76)]:[0m sorry, three things going on at once, can't keep up.[0m
+[02:43] [0m[32;1mFrom afar, you shrug at Hyuga.[0m[0m
+[02:43] [0m[35;1mHyuga [Jedi(90)]:[0m if you ever get a cmc you will understand :)[0m
+[02:43] [0m[35;1mAsp [Jedi(37)]:[0m ecchi anime girls -> nose-bleed -> BONER?[0m
+[02:44] [0m[35;1mHyuga [Jedi(90)]:[0m i can see where it might be confused, that is definitely a[0m
+[02:44] [0m                  thing[0m
+[02:46] [0m[35;1mHyuga [Jedi(90)]:[0m i have never heard anyone mention it but i am like 99%[0m
+[02:46] [0m                  sure that cmc has some sort of massive DR[0m
+[02:47] [0m[35;1mHyuga [Jedi(90)]:[0m or maybe it has no ac minimum? or maybe both?[0m
+[03:06] [0m[35;1mUkyo [Jedi(76)]:[0m deathport?[0m
+[03:06] [0m[35;1mAsp [Jedi(37)]:[0m he's trying to break the force sat record[0m
+[03:06] [0m[35;1mJasmine [Jedi(Knight)]:[0m that was a dismal death[0m
+[03:07] [0m[35;1mHyuga [Jedi(90)]:[0m HYUGAPORT[0m
+[03:07] [0m[35;1mSimonz [Jedi(57)]:[0m (tm)[0m
+[03:08] [0mSimonz flaps : Air conditioning is fixed!  YAY![0m
+[03:08] [0mGlowie flaps : woot[0m
+[03:14] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[03:22] [0m[35;1mHyuga [Jedi(90)]:[0m i should prolly embiggen[0m
+[03:22] [0m[35;1mHyuga [Jedi(90)]:[0m whee. 1 hr of no sat![0m
+[03:23] [0m[32mSimonz tells you:[0m I think what I'm going to do going forward for my[0m
+[03:23] [0m        crafted set is do 3 dex gems and 3 dex/con gems baked in, and then[0m
+[03:23] [0m        gemchant 3 wis and 2 wis/dex[0m
+[03:28] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[03:28] [0mYou can currently reforge 8 items.[0m
+[03:33] [0m[35;1mHyuga [Jedi(90)]:[0m i made a steak and a few eggs and i am still hungry :([0m
+[03:33] [0m[35;1mHyuga [Jedi(90)]:[0m blargh[0m
+[03:34] [0m[35;1mHyuga [Jedi(90)]:[0m likely really hungry[0m
+[03:34] [0m[35;1mUkyo [Jedi(76)]:[0m too much fructose in your diet screwing up your insulin[0m
+[03:34] [0m                 resistance[0m
+[03:34] [0m[35;1mAsp [Jedi(37)]:[0m need more fat[0m
+[03:34] [0m[35;1mHyuga [Jedi(90)]:[0m what type of sugar is in beer[0m
+[03:34] [0m[35;1mHyuga [Jedi(90)]:[0m i love fat too :([0m
+[03:34] [0m[35;1mUkyo [Jedi(76)]:[0m fat is good[0m
+[03:35] [0m[35;1mSimonz [Jedi(57)]:[0m dunno, I don't drink[0m
+[03:35] [0m[35;1mUkyo [Jedi(76)]:[0m beer, maybe not so much[0m
+[03:36] [0m[35;1mAsp [Jedi(37)]:[0m best thing about keto is it's all fat, all the time. No beer[0m
+[03:36] [0m                though[0m
+[03:36] [0m[35;1mSimonz [Jedi(57)]:[0m so, interesting factoid about me, I've never had an[0m
+[03:36] [0m                   alcoholic drink. ever.  No idea what it's like to be[0m
+[03:36] [0m                   drunk[0m
+[03:36] [0m[35;1mSimonz [Jedi(57)]:[0m keto is awesome[0m
+[03:36] [0m[35;1mUkyo [Jedi(76)]:[0m alcohol is over rated.[0m
+[03:36] [0m[35;1mHyuga [Jedi(90)]:[0m oh i guess most of the sugar is converted into alcohol[0m
+[03:36] [0m                  actually[0m
+[03:37] [0m[35;1mHyuga [Jedi(90)]:[0m and then your body converts the carbs in beer back into[0m
+[03:37] [0m                  sugar[0m
+[03:37] [0m[35;1mAsp [Jedi(37)]:[0m how did you avoid alcohol all your life?[0m
+[03:37] [0m[35;1mUkyo [Jedi(76)]:[0m not quite.[0m
+[03:37] [0m[35;1mSimonz [Jedi(57)]:[0m church[0m
+[03:38] [0m[35;1mHyuga [Jedi(90)]:[0m i used to drink a lot. i am starting to drink a lot less[0m
+[03:38] [0m                  in my older age[0m
+[03:38] [0m[35;1mSimonz [Jedi(57)]:[0m just not part of the culture, never had any interest in[0m
+[03:38] [0m                   trying it[0m
+[03:38] [0m[35;1mUkyo [Jedi(76)]:[0m Hyuga, watch thise>>[0m
+[03:38] [0m                 https://www.youtube.com/watch?v=dBnniua6-oM[0m
+[03:39] [0m[35;1mAsp [Jedi(37)]:[0m i don't drink at all these days, have a couple of mates that[0m
+[03:39] [0m                got hit by the alcohol demon and it took all the fun out of[0m
+[03:39] [0m                it[0m
+[03:39] [0m[35;1mHyuga [Jedi(90)]:[0m if thatblink is that 80085 song again i will smack you :)[0m
+[03:39] [0m[35;1mUkyo [Jedi(76)]:[0m it'll explain what's happening to you, biologically, that's[0m
+[03:39] [0m                 causing your hunger even though you just ate[0m
+[03:40] [0m[35;1mHyuga [Jedi(90)]:[0m i am guessing it is because i worked really hard today and[0m
+[03:40] [0m                  that steak and eggs is all i have eaten in like 24 hours[0m
+[03:40] [0m[35;1mSimonz [Jedi(57)]:[0m meh, details[0m
+[03:40] [0m[35;1mHyuga [Jedi(90)]:[0m i think my body was like.... FOOD i totally forgot about[0m
+[03:40] [0m                  that[0m
+[03:40] [0m[35;1mAsp [Jedi(37)]:[0m means you get to have a 2nd dinner![0m
+[03:40] [0m[35;1mAsp [Jedi(37)]:[0m or, extra dessert[0m
+[03:41] [0m[35;1mHyuga [Jedi(90)]:[0m well i am about to go to sleep and having a beer or two so[0m
+[03:41] [0m                  prolly best to wait till morning to eat again[0m
+[03:41] [0m[35;1mUkyo [Jedi(76)]:[0m take that link, and save that video to watch later, hyuga[0m
+[03:41] [0m[35;1mHyuga [Jedi(90)]:[0m prolly not smart to eat a ton of food and then go to sleep[0m
+[03:41] [0m[35;1mUkyo [Jedi(76)]:[0m it's fairly serious, and might save your life.[0m
+[03:41] [0m[35;1mHyuga [Jedi(90)]:[0m yeah i did, thanks.[0m
+[03:41] [0m[35;1mHyuga [Jedi(90)]:[0m i like dudes who talk about stuff[0m
+[03:42] [0m[35;1mSimonz [Jedi(57)]:[0m I need to start up on keto again[0m
+[03:42] [0m[35;1mSimonz [Jedi(57)]:[0m I was doing really well on it, and then the baby came and[0m
+[03:42] [0m                   the diet went right out the window[0m
+[03:43] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[03:43] [0m[35;1mAsp [Jedi(37)]:[0m me too, I started taking 'cheat days' over Christmas and[0m
+[03:43] [0m                still haven't gotten back on[0m
+[03:44] [0m[35;1mAsp [Jedi(37)]:[0m plus, quality beef over here is getting crazy expensive :([0m
+[03:44] [0m[35;1mSimonz [Jedi(57)]:[0m australia?[0m
+[03:44] [0m[35;1mAsp [Jedi(37)]:[0m new zealand[0m
+[03:44] [0m[35;1mSimonz [Jedi(57)]:[0m right[0m
+[03:45] [0m[35;1mHyuga [Jedi(90)]:[0m new zealand has got to be one of the most gorgeous places[0m
+[03:45] [0m                  in the world[0m
+[03:45] [0m[35;1mAsp [Jedi(37)]:[0m all our farmers are running dairy herds now[0m
+[03:45] [0m[35;1mAsp [Jedi(37)]:[0m and killing the rivers etc[0m
+[03:45] [0m[35;1mHyuga [Jedi(90)]:[0m lame[0m
+[03:46] [0m[35;1mRequiem [Jedi(73)]:[0m cows, possums and sheep[0m
+[03:46] [0m[35;1mRequiem [Jedi(73)]:[0m and a handful of humans[0m
+[03:48] [0mUkyo {Professions}: hrm. guess i'm sol for these transmutions. sapphire[0m
+[03:48] [0m                    requires 90, and diamond dust 73. *sniff* I've actually[0m
+[03:48] [0m                    outpaced my transmuters. How bizarre, only last week, i[0m
+[03:48] [0m                    was lamenting keeping up with them.[0m
+[03:48] [0mHyuga {Professions}: in the grand schemenofnthings transmuters got screwed[0m
+[03:48] [0m                     with this change imo[0m
+[03:49] [0mHyuga {Professions}: it takes 4x the mats now to pxp[0m
+[03:49] [0mNauda {Professions}: how did transmuters get screwed?[0m
+[03:49] [0mHyuga {Professions}: ^^[0m
+[03:49] [0m[35;1mAsp [Jedi(37)]:[0m i switched from reforger to xmuter last boot. Sick of my[0m
+[03:49] [0m                xmuter being a character that i never played[0m
+[03:50] [0mHyuga {Professions}: i had enough mats in my satchel to gain like 6 plvls[0m
+[03:50] [0m                     and i gained 2[0m
+[03:50] [0mSimonz {Professions}: true, but if you're just using crap mats it's not so[0m
+[03:50] [0m                      bad, you just run through the mine for your transmuter[0m
+[03:50] [0m                      level a couple times and prospect all the ore to[0m
+[03:50] [0m                      goodies, and then transmute it[0m
+[03:50] [0mSimonz {Professions}: you have to keep your mining and enchanter levels up[0m
+[03:50] [0m                      for it to be more efficient though[0m
+[03:50] [0mHyuga {Professions}: i suppose yes the rate of advancement is still the same[0m
+[03:50] [0m                     but you just need way more now[0m
+[03:51] [0mHyuga {Professions}: it takes like a full 24 hour day of being active to[0m
+[03:51] [0m                     refill a stone[0m
+[03:57] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[03:57] [0m[32mYou tell Simonz:[0m hold up forgot mines auto attack[0m
+[03:58] [0m[32mSimonz tells you:[0m you can entrap while you're in combat, but yeah, on the[0m
+[03:58] [0m        small ones you'd have to be quick[0m
+[03:59] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[04:00] [0m[34;1mJasmine shouts:[0m DIRTY FILTHY MEMORY![0m
+[04:00] [0m[34;1mUkyo shouts:[0m You know you like it.[0m
+[04:00] [0m[34;1mHyuga shouts:[0m I like dirty filthy things.[0m
+[04:00] [0m[34;1mVagrant shouts:[0m i am dad[0m
+[04:01] [0m[32mYou tell Simonz:[0m k gem says 100%[0m
+[04:02] [0m[32mSimonz tells you:[0m cool, you're set, now you can use it in smithing or just[0m
+[04:02] [0m        gemchant your eq, but with that one probably just smith with it[0m
+[04:09] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[04:09] [0m[32mSimonz tells you:[0m hmm, that didn't quite catch your wrangling up to your[0m
+[04:09] [0m        enchanter[0m
+[04:10] [0m[32mYou tell Simonz:[0m ya its trivial is 16[0m
+[04:10] [0m[32mSimonz tells you:[0m ok, I have the level 17 one in stash, where are you?[0m
+[04:10] [0m[32mYou tell Simonz:[0m basically 1 lvl off 17 (71%) and 19 (42%_[0m
+[04:11] [0m[32mYou tell Simonz:[0m landinb pad[0m
+[04:11] [0m[32mSimonz tells you:[0m brt[0m
+[04:12] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[04:12] [0m[32mYou tell Simonz:[0m now 23[0m
+[04:13] [0m[32mSimonz tells you:[0m ok, you should be good now, just make whatever your[0m
+[04:13] [0m        maximum gem is at legendary quality, and then wrangle that gem, and[0m
+[04:13] [0m        in an hour you could be caught up to me[0m
+[04:13] [0m[32mSimonz tells you:[0m provided you have the mats[0m
+[04:15] [0m[32mSimonz tells you:[0m if you ask ukyo he'd probably help you with mats.  I can[0m
+[04:15] [0m        help tomorrow too, but i have to go to bed 2 hours ago[0m
+[04:16] [0m[32mYou tell Simonz:[0m ya probably best 3 here and i guess 2 there?[0m
+[04:16] [0m[32mSimonz tells you:[0m 1:16am[0m
+[04:17] [0m[35;1mUkyo [Jedi(76)]:[0m Daggers are highly under-rated. 2 cents. Leaving that out[0m
+[04:17] [0m                 there.[0m
+[04:17] [0m[32mSimonz tells you:[0m AZ doesn't do DST, so we're the same as pacific time atm[0m
+[04:17] [0m[32mYou tell Simonz:[0m phoenix is on cali time[0m
+[04:17] [0m[32mYou tell Simonz:[0m roger[0m
+[04:18] [0m[35;1mUkyo [Jedi(76)]:[0m i'm out, catch ya'll on the flip[0m
+[04:18] [0m[35;1mHyuga [Jedi(90)]:[0m later dood[0m
+[04:18] [0m[35;1mRoken [Jedi(51)]:[0m May the Force be with You![0m
+[04:18] [0m[35;1mUkyo [Jedi(76)]:[0m i'll be in teh east wing if anybody needs any training.[0m
+[04:19] [0m[35;1mUkyo [Jedi(76)]:[0m and no, jasmine, culty and shout triggers won't work.[0m
+[04:19] [0m                 sorry.[0m
+[04:24] [0m[35;1mRoken [Jedi(51)]:[0m info stats says every stat is nuetral[0m
+[04:25] [0m[35;1mRoken [Jedi(51)]:[0m too many careers and subguilds to factor in i suppose[0m
+[04:27] [0m[35;1mHyuga [Jedi(90)]:[0m heh on 3s info stats says exactly what all the stats do[0m
+[04:30] [0m[35;1mRoken [Jedi(51)]:[0m monks help files are in abundance includes info newbie and[0m
+[04:30] [0m                  faq[0m
+[04:34] [0m[35;1mUkyo [Jedi(76)]:[0m hrm. i lied. second cup of coffee. might be enough for a[0m
+[04:34] [0m                 mining run, then work[0m
+[04:37] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[04:37] [0mYou can currently reforge 12 items.[0m
+[04:38] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[04:38] [0mKichi flaps : New feature: If you type "kill <mob>" but in caps, you do 10%[0m
+[04:38] [0m              more damage! If it doesn't work for you, contact your guild[0m
+[04:38] [0m              admin today.[0m
+[04:39] [0mUkyo flaps : *waits for obligatory wipeme pwd joke*[0m
+[04:44] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[04:45] [0m[35;1mRoken [Jedi(51)]:[0m wow im killing a 4m golem[0m
+[04:47] [0m[35;1mRoken [Jedi(51)]:[0m conc dipped to 38 will have down time eh well[0m
+[04:47] [0m[35;1mRoken [Jedi(51)]:[0m allura[0m
+[04:48] [0m[35;1mUkyo [Jedi(76)]:[0m hrm. ya know, it's gotten to the point where if i'm losing[0m
+[04:48] [0m                 concentration and saturating, i'm probably going to die.[0m
+[04:48] [0m[35;1mRoken [Jedi(51)]:[0m my sp isn't regen[0m
+[04:49] [0m[35;1mUkyo [Jedi(76)]:[0m yea, i'm not clearing mind much, and i don't even have the[0m
+[04:49] [0m                 focus mskill or whatever it is that helps regen sps[0m
+[04:49] [0m[35;1mUkyo [Jedi(76)]:[0m yea, focus.[0m
+[04:49] [0m[35;1mUkyo [Jedi(76)]:[0m just not worth it anymore.[0m
+[04:50] [0m[35;1mRoken [Jedi(51)]:[0m idk why i manually claer mind but wont when i have plenty[0m
+[04:50] [0m                  of conc and force because i htrance and med between kills[0m
+[04:50] [0m[35;1mHyuga [Jedi(90)]:[0m i never use clear mind. but without focus i would need[0m
+[04:50] [0m                  more than just a headband[0m
+[04:51] [0m[35;1mRoken [Jedi(51)]:[0m shucks not ready to autonomously conquer zel[0m
+[04:51] [0m[35;1mUkyo [Jedi(76)]:[0m apparently, mugen doesn't even have clear mind.[0m
+[04:51] [0m[35;1mHyuga [Jedi(90)]:[0m the thing is, clear mind really affects my efficiency[0m
+[04:51] [0m[35;1mHyuga [Jedi(90)]:[0m its pretty expensive[0m
+[04:51] [0m[35;1mRoken [Jedi(51)]:[0m but how don't you need it reduce injury requires sp[0m
+[04:51] [0m[35;1mUkyo [Jedi(76)]:[0m reduce injury does not. it's fdef that uses sps[0m
+[04:52] [0m[35;1mHyuga [Jedi(90)]:[0m nod[0m
+[04:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[04:52] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[04:52] [0m[35;1mAsp [Jedi(37)]:[0m powerstone seems to be keeping me maxed this boot. was[0m
+[04:52] [0m                draining sp like crazy last boot[0m
+[04:53] [0m[35;1mRoken [Jedi(51)]:[0m right right in that case i most definitely didnt fdef much[0m
+[04:53] [0m                  to realistically dip below 50 SP out of 400[0m
+[04:55] [0m[35;1mHyuga [Jedi(90)]:[0m fdef is either on or off. the sp cost is dependant on[0m
+[04:55] [0m                  skill level[0m
+[04:55] [0m[35;1mRoken [Jedi(51)]:[0m oh know what.. i gagged the partial deflects. those would[0m
+[04:55] [0m                  cost[0m
+[04:55] [0m[35;1mHyuga [Jedi(90)]:[0m mine costs 10 sp a round[0m
+[04:55] [0m[35;1mUkyo [Jedi(76)]:[0m i think that's about what mine costs too[0m
+[04:55] [0m[35;1mHyuga [Jedi(90)]:[0m fdef costs sp even if it doesnt fire[0m
+[04:56] [0m[35;1mHyuga [Jedi(90)]:[0m i think my fdef is 14. no way to know for sure[0m
+[04:56] [0m[35;1mHyuga [Jedi(90)]:[0m but 14 seems logical[0m
+[04:56] [0m[35;1mRoken [Jedi(51)]:[0m 14/2 +2 ... 9 per round for you[0m
+[04:56] [0m[35;1mHyuga [Jedi(90)]:[0m true but my ski is 16[0m
+[04:56] [0m[35;1mHyuga [Jedi(90)]:[0m skill*[0m
+[04:57] [0m[35;1mRoken [Jedi(51)]:[0m ?? fdef is 14[0m
+[04:57] [0m[35;1mHyuga [Jedi(90)]:[0m its complicated but adalius apparently didn't bother to[0m
+[04:57] [0m                  have actual skill level reflect the cost per round[0m
+[04:57] [0m[35;1mUkyo [Jedi(76)]:[0m info new.[0m
+[04:58] [0m[35;1mHyuga [Jedi(90)]:[0m fdef got bashed in the face. so my actual fdef is -150% of[0m
+[04:58] [0m                  what it should be[0m
+[04:58] [0m[35;1mHyuga [Jedi(90)]:[0m i was 75% to 17. then one day i was -288%[0m
+[04:58] [0m[35;1mHyuga [Jedi(90)]:[0m but its always cost 10 sp per round[0m
+[04:59] [0m[35;1mHyuga [Jedi(90)]:[0m well always after skill level 16 anyway[0m
+[04:59] [0m[35;1mHyuga [Jedi(90)]:[0m the extra sp i pay is the price of having more fdef for[0m
+[04:59] [0m                  sonlong i guess[0m
+[04:59] [0m[35;1mUkyo [Jedi(76)]:[0m mine is at -260%, and trained likewise to 16, but[0m
+[04:59] [0m                 effectively 13, so i'm even worse off.[0m
+[05:00] [0m[35;1mHyuga [Jedi(90)]:[0m nod[0m
+[05:00] [0m[35;1mUkyo [Jedi(76)]:[0m i did the math, and it'll be the mid to late 90's[0m
+[05:00] [0m                 ascensions before i even break even to 0, to say nothing of[0m
+[05:00] [0m                 getting to fdef 17[0m
+[05:01] [0m[35;1mRoken [Jedi(51)]:[0m larger int > 75 would do then but heard something about[0m
+[05:01] [0m                  int 75 is max for reduce injury. that's where the[0m
+[05:01] [0m                  confusion came from[0m
+[05:02] [0m[35;1mHyuga [Jedi(90)]:[0m nod. i did some rough math and i think i was[0m
+[05:02] [0m                  underestimating the time to break even[0m
+[05:04] [0m[35;1mHyuga [Jedi(90)]:[0m i only have 51 int. i don't see any reason to raise it atm[0m
+[05:05] [0m[35;1mHyuga [Jedi(90)]:[0m pretty easy to hit 75 with boosts[0m
+[05:06] [0m[35;1mRoken [Jedi(51)]:[0m but what's the relation to reduce injury?[0m
+[05:07] [0m[35;1mHyuga [Jedi(90)]:[0m vigilant boosts alone is an easy +15[0m
+[05:07] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[05:08] [0m[35;1mHyuga [Jedi(90)]:[0m add max headband, einsteins brain. boom 75[0m
+[05:08] [0m[35;1mHyuga [Jedi(90)]:[0m i personally need to do some more testing[0m
+[05:09] [0m[35;1mUkyo [Jedi(76)]:[0m not that kind of testing, though[0m
+[05:09] [0m[35;1mRoken [Jedi(51)]:[0m lol that mother effer tore his hear tout[0m
+[05:09] [0m[35;1mAsp [Jedi(37)]:[0m taking one for the team[0m
+[05:09] [0m[35;1mHyuga [Jedi(90)]:[0m wow i ran out of conc. thats a first[0m
+[05:10] [0m[35;1mHyuga [Jedi(90)]:[0m but yeah i don't really consider RI a super important[0m
+[05:10] [0m                  factor in my ability to tank[0m
+[05:12] [0m[35;1mRoken [Jedi(51)]:[0m for me it's about fighting naked. I only have high blunt[0m
+[05:12] [0m                  and edged resistances[0m
+[05:12] [0m[35;1mHyuga [Jedi(90)]:[0m i get a headband and go straight to max scaler zombies[0m
+[05:12] [0m[35;1mRoken [Jedi(51)]:[0m a jedi has robes thematically but here i am with armor of[0m
+[05:12] [0m                  a knight swinging a light saber[0m
+[05:14] [0m[35;1mHyuga [Jedi(90)]:[0m <--- purple speed, a headband, and a sexy black apron is[0m
+[05:14] [0m                  all i wear to do literally everything except silver/blue[0m
+[05:14] [0m[35;1mHyuga [Jedi(90)]:[0m speedo*[0m
+[05:14] [0m[35;1mHyuga [Jedi(90)]:[0m and i am not convinced that equipping for that is even[0m
+[05:14] [0m                  worth it[0m
+[05:15] [0m[35;1mHyuga [Jedi(90)]:[0m seriously considering just fighting with my autoloading[0m
+[05:15] [0m                  gear and headband from now on[0m
+[05:15] [0m[35;1mHyuga [Jedi(90)]:[0m maybe a cocoon.[0m
+[05:15] [0m[35;1mRoken [Jedi(51)]:[0m laughable sight[0m
+[05:15] [0m[35;1mHyuga [Jedi(90)]:[0m nod[0m
+[05:16] [0m[35;1mAsp [Jedi(37)]:[0m takes a lot of the hassle out of reboot i bet[0m
+[05:16] [0m[35;1mHyuga [Jedi(90)]:[0m then get cmcs on day 3, 5, and 7[0m
+[05:16] [0m[35;1mHyuga [Jedi(90)]:[0m yep[0m
+[05:16] [0m[35;1mRoken [Jedi(51)]:[0m mostly me with those chicken-thigh armor pieces[0m
+[05:16] [0m[35;1mRoken [Jedi(51)]:[0m what's that about[0m
+[05:16] [0m[35;1mHyuga [Jedi(90)]:[0m equipping definitely helps on zombies a bit. but is[0m
+[05:16] [0m                  itnworthbthe effort? not sure[0m
+[05:17] [0m[35;1mHyuga [Jedi(90)]:[0m i generally try to get aoe/goe but if it doesn't load for[0m
+[05:17] [0m                  me after 1 and an unload i don't bother[0m
+[05:17] [0m[35;1mRoken [Jedi(51)]:[0m where do you find the speedo and apron?[0m
+[05:18] [0m[35;1mHyuga [Jedi(90)]:[0m i dunno where the apron comes from. someone gave it to me.[0m
+[05:18] [0m[35;1mHyuga [Jedi(90)]:[0m the speedo is auctioned by turnhold[0m
+[05:18] [0m[35;1mHyuga [Jedi(90)]:[0m its got low ac in all cats.. and 1 notch of smd[0m
+[05:19] [0m[35;1mHyuga [Jedi(90)]:[0m i think there might be a 'real' apron. mine is just a[0m
+[05:19] [0m                  cosmetic one i think[0m
+[05:19] [0m[35;1mRoken [Jedi(51)]:[0m be nice to kevlar weave things liek in fallout 4[0m
+[05:20] [0m[35;1mHyuga [Jedi(90)]:[0m so... smd definitely helps. but i am wondering if it also[0m
+[05:20] [0m                  slows down fdef xp[0m
+[05:20] [0m[35;1mHyuga [Jedi(90)]:[0m the only eq i really farm are ring of hearts[0m
+[05:20] [0m[35;1mRoken [Jedi(51)]:[0m that a world drop[0m
+[05:21] [0m[35;1mHyuga [Jedi(90)]:[0m ring of hearts? no[0m
+[05:23] [0mnewb Roken [jedi/100]: where can i find molok the goblin king[0m
+[05:27] [0m[35;1mUkyo [Jedi(76)]:[0m if you can get me several rings of hearts and a few finger[0m
+[05:27] [0m                 potions, i can actually test it[0m
+[05:28] [0m[35;1mUkyo [Jedi(76)]:[0m i've got a script set up to monitor how many rounds it[0m
+[05:28] [0m                 takes to get a point of fdef now, since i was doing[0m
+[05:28] [0m                 calculations earlier today. wanted to know when i would get[0m
+[05:28] [0m                 out of this slump. better to bitter with the truth, than[0m
+[05:28] [0m                 happy with a deluded lie.[0m
+[05:29] [0m[35;1mUkyo [Jedi(76)]:[0m and it varies wildly, some times.[0m
+[05:29] [0m[35;1mUkyo [Jedi(76)]:[0m but with more defense, i'd guess you might be right, but i[0m
+[05:29] [0m                 won't know until i test it[0m
+[05:29] [0m[35;1mUkyo [Jedi(76)]:[0m i thought that fdef fired before everything else.[0m
+[05:29] [0m[35;1mUkyo [Jedi(76)]:[0m anyhow, i'm out. gotta get to work.[0m
+[05:29] [0m[35;1mHyuga [Jedi(90)]:[0m adios[0m
+[05:30] [0m[35;1mHyuga [Jedi(90)]:[0m i gave up caring about it tbh. i just turn everything on,[0m
+[05:30] [0m                  wear what i have and fight stuff[0m
+[05:30] [0m[35;1mHyuga [Jedi(90)]:[0m equipping for me is just a thing to do when my areas are[0m
+[05:30] [0m                  between resets[0m
+[05:31] [0m[35;1mUkyo [Jedi(76)]:[0m i'm all about statistics. i've even got a capture for how[0m
+[05:31] [0m                 many times i hit with each emote.[0m
+[05:31] [0m[35;1mHyuga [Jedi(90)]:[0m and once i get a cmc i just live in silver/blue heh[0m
+[05:31] [0m[35;1mHyuga [Jedi(90)]:[0m nice. thats cool actually[0m
+[05:31] [0m[35;1mUkyo [Jedi(76)]:[0m on each weapon, in each mode.[0m
+[05:32] [0m[35;1mUkyo [Jedi(76)]:[0m yea, little OCPD here. just a little.[0m
+[05:32] [0m[35;1mHyuga [Jedi(90)]:[0m if i was on a real client i would probably ask for your[0m
+[05:32] [0m                  scripts :)[0m
+[05:37] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[05:37] [0mYou can currently reforge 12 items.[0m
+[05:46] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[06:16] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[06:21] [0mKichi flaps : only 2 reasons my nips ever poke out from my fat man boobs; 1)[0m
+[06:21] [0m              ice cold water. 2) they know im wearing a thin shirt and im[0m
+[06:21] [0m              about to go out in public[0m
+[06:25] [0m[5m[1m[44mYour lightsaber begins to flicker and the handle warms![0m[0m                 [0m
+[06:37] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[06:37] [0mYou can currently reforge 4 items.[0m
+[06:50] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[07:08] [0mNauda <Craft>: 15m?[0m
+[07:08] [0mNauda <Craft>: mt[0m
+[07:16] [0m[35;1mMugen [Jedi(Knight)]:[0m i neee to do more eventa[0m
+[07:24] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[07:32] [0m[34;1mSpace shouts:[0m Pc attacking you!.[0m
+[07:32] [0m[34;1mHyuga shouts:[0m Sleep arrives hunting you.[0m
+[07:35] [0m[34;1mHyuga shouts:[0m I like dirty filthy things.[0m
+[07:52] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[08:23] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[14:10] [0mFlaxen <Craft>: so gemchanting seems to have more-than doubled[0m
+[14:10] [0mAsh <Craft>: wait, what?![0m
+[14:10] [0mAsh <Craft>: oh. You mean in usage[0m
+[14:10] [0mFlaxen <Craft>: 14 people with gemchants, 5 fully kitted[0m
+[14:10] [0mRictor <Craft>: Some of us have no option :P[0m
+[14:10] [0mRictor <Craft>: (if we want to use crafting)[0m
+[14:11] [0mZokko <Craft>: i like gemchanting :)[0m
+[14:11] [0mSimonz <Craft>: can we get rid of that teachmenow thing blocking[0m
+[14:11] [0m                advancement?[0m
+[14:11] [0mFlaxen <Craft>: no[0m
+[14:11] [0mFlaxen <Craft>: because that would require a lot of code changes[0m
+[14:11] [0mFlaxen <Craft>: that I don't have time to make[0m
+[14:11] [0mRoken <Craft>: denied[0m
+[14:11] [0mSimonz <Craft>: ok[0m
+[14:11] [0mFlaxen <Craft>: so yeah i'd love to[0m
+[14:12] [0mFlaxen <Craft>: but time says otherwise :([0m
+[14:12] [0mGaidin <Craft>: Could the trainers get tweaked so if you're at max for your[0m
+[14:12] [0m                rank, they outright say "Say 'teachmenow'" when you enter?[0m
+[14:12] [0mGaidin <Craft>: Unless that's already been changed from having to go through[0m
+[14:12] [0m                the conversation[0m
+[14:14] [0mAsh <Craft>: my wishlist would be a vault to store hearts/frags/ess or... an[0m
+[14:14] [0m             mskill that lets you try and favor a certain type of[0m
+[14:14] [0m             frag/ess/heart that would drop. Not -all- of us can be[0m
+[14:14] [0m             transmuters.[0m
+[14:14] [0mYik <Craft>: ooo or an mskill to increase satchel size[0m
+[14:14] [0mGaidin <Craft>: Your alts can.[0m
+[14:15] [0mGaidin <Craft>: Plus, it give you a good excuse to play them more.[0m
+[14:15] [0mRoken <Craft>: like store the stuff in your house box of an alt transmuter[0m
+[14:15] [0mFlaxen <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[14:16] [0mYik <Craft>: I don't want to jack lumbers... I want to be a CULTIST!![0m
+[14:17] [0mRoken <Craft>: id play alt more when i have ldlogin vaf perm[0m
+[14:20] [0m[34;1mMerrick shouts:[0m ewww, Flaxen slpooge[0m
+[14:20] [0m[34;1mLeto shouts:[0m wooo! er... I mean, no one told me what it was.[0m
+[14:21] [0m[34;1mYik shouts:[0m praise the Flaxen! \o/[0m
+[14:21] [0mDisruptor <Craft>: recover[0m
+[14:21] [0mDisruptor <Craft>: lol[0m
+[14:21] [0mRictor <Craft>: all one word[0m
+[14:21] [0m[34;1mHooligan shouts:[0m yum?[0m
+[14:22] [0mDisruptor {Professions}: peridot dust xmuter level requirement?[0m
+[14:22] [0mDisruptor {Professions}: says i'm not big enough to do it and im at 71[0m
+[14:22] [0mDisruptor {Professions}: says trivial 52, min 42 when you exa it[0m
+[14:22] [0mUkyo {Professions}: are yoiu sure peridot dust is all you have in your[0m
+[14:22] [0m                    inventory?[0m
+[14:22] [0mRictor {Professions}: http://wiki.maybeits.us/index.php/Transmuter_Info[0m
+[14:23] [0mDisruptor {Professions}: they are at the top of my inventory, but no i have[0m
+[14:23] [0m                         another dust in there[0m
+[14:23] [0mDisruptor {Professions}: odd, that was the issue...i had an emerald dust[0m
+[14:23] [0m                         lower in my inventory...[0m
+[14:23] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[14:24] [0mRoken <Craft>: 20 f of light who'd like to xmute?[0m
+[14:25] [0mYou can currently reforge 4 items.[0m
+[14:26] [0mUkyo <Craft>: profwho transmuter[0m
+[14:38] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[14:38] [0mYou can currently reforge 8 items.[0m
+[14:39] [0mFlaxen <Craft>: reduce[0m
+[14:39] [0mFlaxen <Craft>: delete[0m
+[14:39] [0mFlaxen <Craft>: remove[0m
+[14:39] [0mFlaxen <Craft>: whoops[0m
+[14:39] [0mFlaxen <Craft>: extra spaces[0m
+[14:40] [0mTurnhold <Craft>: pants[0m
+[14:41] [0mDisruptor <Craft>: could someone add a house item for storing craft stuff?[0m
+[14:41] [0mDisruptor <Craft>: like a special box that has huge capacity for boot[0m
+[14:41] [0m                   storage[0m
+[14:41] [0mDisruptor <Craft>: but can only hold craft items?[0m
+[14:42] [0mTurnhold <Craft>: I'd like a toilet made outta solid gold, but that aint[0m
+[14:42] [0m                  happening either:P[0m
+[14:42] [0mSimonz <Craft>: I actually don't like that idea, because it encourages[0m
+[14:42] [0m                hoarding instead of sharing[0m
+[14:42] [0mDisruptor <Craft>: i'd be afraid you'd bend it when you sat down on it[0m
+[14:42] [0mAsh <Craft>: guess I better return your christmas gift[0m
+[14:43] [0mDisruptor <Craft>: sharing?[0m
+[14:45] [0mDisruptor <Craft>: i just want to hold mats i can't xmute until i can swap[0m
+[14:45] [0m                   to another char and hoard them, without losing my login[0m
+[14:45] [0m                   stat boosts[0m
+[14:46] [0mFlaxen <Craft>: I just want my cake[0m
+[14:46] [0mFlaxen <Craft>: and to eat it[0m
+[14:46] [0mDisruptor <Craft>: i mean...yes that too[0m
+[14:46] [0mFlaxen <Craft>: mmmm cake[0m
+[14:46] [0mAsh <Craft>: sorry, but you don't have enough room in your satchel for cake[0m
+[14:46] [0mHadriene <Craft>: you can't have cake. now back to coding :P[0m
+[14:46] [0mUkyo <Craft>: Wait, isn't the cake an untruth?[0m
+[14:54] [0mKitt <Craft>: make a cake eh[0m
+[14:54] [0mDisruptor <Craft>: can you use WC gems in gear? like make my[0m
+[14:54] [0m                   breastplate...sharp?[0m
+[14:55] [0mFlaxen <Craft>: no[0m
+[14:55] [0mDisruptor <Craft>: will it let you craft it tho?[0m
+[14:55] [0mUkyo <Craft>: yes[0m
+[14:55] [0mDisruptor <Craft>: perfect![0m
+[14:55] [0mUkyo <Craft>: cxp, ftw[0m
+[14:56] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[14:56] [0mFlaxen <Craft>: I cannot help you if you are bad[0m
+[14:56] [0mFlaxen <Craft>: git gud[0m
+[14:56] [0mHadriene <Craft>: the coding bot is chatting again.[0m
+[14:57] [0mAsh <Craft>: don't listen to Flaxen. he doesn't even craft.[0m
+[14:58] [0mHadriene <Craft>: by the way thanks for increasing the drop rates for[0m
+[14:58] [0m                  fragments, essences, and hearts :)[0m
+[14:58] [0mFlaxen <Craft>: I don't even craft![0m
+[14:59] [0mUkyo <Craft>: and. . . your point is?[0m
+[15:00] [0mGaidin <Craft>: Yea, he wanted to a lumberjack.[0m
+[15:12] [0mKitt flaps : anyone have dundee reps and want to hit behind me[0m
+[15:13] [0mUkyo flaps : what kind of reps are we talking here?[0m
+[15:13] [0mUkyo flaps : like, respected, admired?[0m
+[15:15] [0mUkyo <Craft>: hrm. i think we've got another bug.[0m
+[15:15] [0mHadriene <Craft>: it's not a bug. it's a feature.[0m
+[15:15] [0mUkyo <Craft>: pretty sure i've hit another bug[0m
+[15:15] [0mAdalius <Craft>: can you reproduce it? if so it's intentional[0m
+[15:15] [0mWhisper <Craft>: lysol, clorox, and some raid dude...[0m
+[15:15] [0mUkyo <Craft>: i'll see what i can do[0m
+[15:16] [0mWhisper <Craft>: worst comes to worse, burn house down...[0m
+[15:16] [0mUkyo <Craft>: you mean worse comes to worst? yea, burn it with fire.[0m
+[15:16] [0m              legendary gem of major flames aggression.[0m
+[15:20] [0m[35;1mUkyo [Jedi(76)]:[0m just a heads up guys, i'm about to post a craft bug that is[0m
+[15:20] [0m                 going to bring into the equation a jedi skill that will[0m
+[15:20] [0m                 probably get it 'rescaled'(read: nerfed). I apologize in[0m
+[15:20] [0m                 advance, both to the general Jedi population, and to[0m
+[15:20] [0m                 Adalius, for having to deal with me breaking things and[0m
+[15:20] [0m                 making more work for him than he is able to keep up with.[0m
+[15:21] [0m[35;1mMugen [Jedi(Knight)]:[0m umm, get us rescaled... or crafting rescaled? how can[0m
+[15:21] [0m                      any of our powers be that good[0m
+[15:21] [0m[35;1mCall [Jedi(21)]:[0m hi[0m
+[15:22] [0m[35;1mAdalius [Jedi(WGM)]:[0m mv mugen.o ukyo.o    > rm ukyo.o   >echo Two birds, one[0m
+[15:22] [0m                     stone.[0m
+[15:22] [0m[35;1mUkyo [Jedi(76)]:[0m tell chaed to promote me to knight, and i'll explain on the[0m
+[15:22] [0m                 knight line. it's not something that i think is generally[0m
+[15:22] [0m                 known.[0m
+[15:22] [0m[35;1mMugen [Jedi(Knight)]:[0m if only i knew what a mv was[0m
+[15:22] [0m[35;1mMugen [Jedi(Knight)]:[0m laf, i forget ukyo cant send tells xD[0m
+[15:22] [0m[35;1mMugen [Jedi(Knight)]:[0m oh fine, ESP me[0m
+[15:22] [0m[35;1mAdalius [Jedi(WGM)]:[0m mv == rename[0m
+[15:22] [0m[35;1mMugen [Jedi(Knight)]:[0m now we just need to get ESP some MIPs[0m
+[15:23] [0m[35;1mMugen [Jedi(Knight)]:[0m so i can see when ukyo calls[0m
+[15:23] [0m[35;1mUkyo [Jedi(76)]:[0m yea, more work for adalius[0m
+[15:23] [0m[35;1mUkyo [Jedi(76)]:[0m like i haven't given him enough[0m
+[15:23] [0m[35;1mMugen [Jedi(Knight)]:[0m oh i dont care if it ever gets MIPs, eventually youll[0m
+[15:23] [0m                      get mad enough and send me a real tell[0m
+[15:23] [0m[35;1mAdalius [Jedi(WGM)]:[0m I'm leaving for Fremen. Not my problem.[0m
+[15:23] [0m[35;1mCall [Jedi(21)]:[0m huh[0m
+[15:24] [0m[35;1mMugen [Jedi(Knight)]:[0m he cant leave us, no one else knows how to turn the[0m
+[15:24] [0m                      lights on around here[0m
+[15:24] [0m[35;1mMugen [Jedi(Knight)]:[0m and all the wiring is pre soviet russian, written in[0m
+[15:24] [0m                      japanese, by a blind pigeon[0m
+[15:24] [0m[35;1mUkyo [Jedi(76)]:[0m maybe i'm aiming too low.[0m
+[15:25] [0m[35;1mAdalius [Jedi(WGM)]:[0m I'm still sitting here wondering when I'm going to find[0m
+[15:25] [0m                     out what this mysterious and game breaking issue is.[0m
+[15:26] [0m[35;1mMugen [Jedi(Knight)]:[0m me too[0m
+[15:26] [0m[35;1mSimonz [Jedi(57)]:[0m me three[0m
+[15:26] [0m[35;1mMugen [Jedi(Knight)]:[0m but sounds more important for you to know[0m
+[15:27] [0m[35;1mMugen [Jedi(Knight)]:[0m ooo[0m
+[15:27] [0m[35;1mRoken [Jedi(51)]:[0m or use tintin, capture esp in a chatlog[0m
+[15:27] [0m[35;1mUkyo [Jedi(76)]:[0m there, it's in[0m
+[15:27] [0m[35;1mMugen [Jedi(Knight)]:[0m ill say it again, idc to see what he says, he knows i[0m
+[15:27] [0m                      cant see it, he will send a real tell eventually[0m
+[15:28] [0m[35;1mMugen [Jedi(Knight)]:[0m ive told him a dozen times i cant see it[0m
+[15:28] [0m[35;1mUkyo [Jedi(76)]:[0m bug reproduced.[0m
+[15:28] [0mRictor <Craft>: Anybody but Ukyo using major gems this boot for[0m
+[15:28] [0m                blacksmithing pxp?[0m
+[15:28] [0m[35;1mUkyo [Jedi(76)]:[0m so, it's confirmed.[0m
+[15:28] [0mAsh <Craft>: yup[0m
+[15:29] [0m[32mYou tell Simonz:[0m like to xmute somethings?[0m
+[15:29] [0m[32mSimonz tells you:[0m sure[0m
+[15:29] [0mNauda <Craft>: maybe Assassin did some crafting too[0m
+[15:29] [0m[32mYou tell Simonz:[0m cog?[0m
+[15:29] [0mRictor <Craft>: I have 2 legendary wrangled gems you can have, Ash[0m
+[15:29] [0m[35;1mCall [Jedi(21)]:[0m it's always ukyo who finds the bugs[0m
+[15:29] [0mYou can currently reforge 8 items.[0m
+[15:29] [0m[35;1mSaim [Jedi(Master)]:[0m his room is filthy[0m
+[15:29] [0mAsh <Craft>: wow, thanks![0m
+[15:30] [0m[32;1mFrom afar, Simonz nods to you.[0m[0m
+[15:30] [0m[35;1mSaim [Jedi(Master)]:[0m adalius's mom told me[0m
+[15:30] [0mRictor <Craft>: Both dropped at Chavee :)[0m
+[15:31] [0m[35;1mUkyo [Jedi(76)]:[0m I hate that i can't send Adalius esp.[0m
+[15:31] [0m[32mSimonz says:[0m Brigga Bragga!  Hizzie wizzie snizzie lizzie!  CHOWDA CHOWDA[0m
+[15:31] [0m             CHOWDA!!!![0m
+[15:32] [0m[32mSimonz says:[0m  lol, how many do you have?[0m
+[15:32] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[15:33] [0m[35;1mCall [Jedi(21)]:[0m it feels so differently playing my main again instead of my[0m
+[15:33] [0m                 alt[0m
+[15:33] [0m[32mYou tell Simonz:[0m thats it[0m
+[15:33] [0m[32mYou tell Simonz:[0m have some hearts 1 poor 5 avg 1 supe[0m
+[15:34] [0m[32mSimonz says:[0m Brigga Bragga!  Hizzie wizzie snizzie lizzie!  CHOWDA CHOWDA[0m
+[15:34] [0m             CHOWDA!!!![0m
+[15:34] [0m[32mSimonz says:[0m Brigga Bragga!  Hizzie wizzie snizzie lizzie!  CHOWDA CHOWDA[0m
+[15:34] [0m             CHOWDA!!!![0m
+[15:34] [0m[32mYou say:[0m  anything you cant xmute, id trash?[0m
+[15:35] [0m[32mSimonz says:[0m  keep everything[0m
+[15:35] [0m[32mSimonz says:[0m  for frag/ess/heart[0m
+[15:35] [0m[32mSimonz says:[0m  you can always combine up qualities[0m
+[15:35] [0m[32mSimonz says:[0m  frag-> ess -> heart[0m
+[15:35] [0m[32mYou say:[0m  is it combine or assemble?[0m
+[15:35] [0m[35;1mCall [Jedi(21)]:[0m there is a bug that i reported that never got fixed[0m
+[15:36] [0m[32mSimonz tells you:[0m assemble i think, look at the fragment[0m
+[15:36] [0m[35;1mUkyo [Jedi(76)]:[0m What? you never seeing me watch  you carry out my plants?[0m
+[15:36] [0m                 I've got this nifty ring, ring of invisibility[0m
+[15:37] [0m[32mYou tell Simonz:[0m used all the fragments?[0m
+[15:37] [0m[32mYou tell Simonz:[0m nice[0m
+[15:39] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[15:39] [0mYou can currently reforge 12 items.[0m
+[15:39] [0m[35;1mAdalius [Jedi(WGM)]:[0m Issue is fixed. Nothing major.[0m
+[15:40] [0m[35;1mCall [Jedi(21)]:[0m what about the one i reported[0m
+[15:41] [0m[35;1mCall [Jedi(21)]:[0m the one that says the following "You pay 2000 coins and[0m
+[15:41] [0m                 receive a A diatium power cell"[0m
+[15:42] [0m[35;1mUkyo [Jedi(76)]:[0m oh my, might also be another bug with crafting. . . that's[0m
+[15:42] [0m                 going to be tough to reproduce. and i don't want to use[0m
+[15:42] [0m                 valueable mats doing that[0m
+[15:48] [0m[35;1mMugen [Jedi(Knight)]:[0m but my bug, my bug![0m
+[15:48] [0m[35;1mMugen [Jedi(Knight)]:[0m did i even report the gswap bug?![0m
+[15:48] [0m[35;1mMugen [Jedi(Knight)]:[0m i forget sometimes[0m
+[15:49] [0m[35;1mMugen [Jedi(Knight)]:[0m i wield my saber on my monk and pewpew the whole mud[0m
+[15:50] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[15:51] [0m[32mSimonz tells you:[0m woot, tanking 6.9m zombies[0m
+[15:53] [0m[32mYou tell Simonz:[0m thats the spirit![0m
+[15:54] [0m[35;1mChaed [Jedi(AGM)]:[0m so which power got dg'd because of Ukyo this time? ;)[0m
+[15:55] [0m[35;1mMugen [Jedi(Knight)]:[0m fdef again[0m
+[15:57] [0m[35;1mChaed [Jedi(AGM)]:[0m as long as it's not my drain crystals power[0m
+[15:57] [0m[35;1mMugen [Jedi(Knight)]:[0m is there an upside to that? ive never used it[0m
+[15:57] [0m[35;1mSaim [Jedi(Master)]:[0m drain crystals saves over boot now[0m
+[15:57] [0m[35;1mMugen [Jedi(Knight)]:[0m whaaaaa[0m
+[15:57] [0m[35;1mSaim [Jedi(Master)]:[0m or was that a dream i had?[0m
+[15:58] [0m[35;1mMugen [Jedi(Knight)]:[0m id love to start the boot with even 2500 energy[0m
+[16:00] [0m[35;1mCall [Jedi(21)]:[0m the time has come ukyo. execute order 66...[0m
+[16:00] [0m[35;1mSaim [Jedi(Master)]:[0m you said that on the public line Call...[0m
+[16:00] [0m[35;1mCall [Jedi(21)]:[0m opps[0m
+[16:00] [0m[35;1mUkyo [Jedi(76)]:[0m actually, drain crystals is broken[0m
+[16:01] [0m[35;1mUkyo [Jedi(76)]:[0m unless i'm mistaken in that we're supposed to get nrg back?[0m
+[16:01] [0m[35;1mSaim [Jedi(Master)]:[0m it is, its supposed to save over boot[0m
+[16:05] [0m[35;1mMugen [Jedi(Knight)]:[0m dont use if you have over 50 energy.... so like ever?[0m
+[16:06] [0m[35;1mSimonz [Jedi(58)]:[0m holy cow.  I'm doing a new scaler on zombies, 6.9m, 6.8,[0m
+[16:06] [0m                   etc, and then suddenly 7.4m[0m
+[16:06] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[16:07] [0m[35;1mSimonz [Jedi(58)]:[0m so that's a new bk[0m
+[16:07] [0m[35;1mCall [Jedi(21)]:[0m what did that zombie ever do to you? it was just offering[0m
+[16:07] [0m                 drinks...[0m
+[16:07] [0m[35;1mSimonz [Jedi(58)]:[0m zombie, i kill it on principle[0m
+[16:08] [0m[35;1mUkyo [Jedi(76)]:[0m are they evil?[0m
+[16:08] [0m[35;1mCall [Jedi(21)]:[0m zombies are not evil[0m
+[16:08] [0mAsh <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[16:10] [0m[35;1mCall [Jedi(21)]:[0m it's just like that zombie romance movie titled warm[0m
+[16:10] [0m                 bodies.[0m
+[16:19] [0mPrismal <Craft>: woo[0m
+[16:19] [0mPrismal {Professions}: Hi ho, hi ho ... it's off to work I go.[0m
+[16:19] [0mAsh {Professions}: Hi ho, hi ho ... it's off to work I go.[0m
+[16:20] [0mUkyo {Professions}: Hi ho, hi ho ... it's off to work I go.[0m
+[16:28] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:30] [0m[32mYou tell Simonz:[0m how'd i get divine blessed?[0m
+[16:31] [0m[32mYou tell Simonz:[0m +2 wis +6 con +7 int +3 str[0m
+[16:33] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:33] [0m[32mSimonz tells you:[0m flaxen did it[0m
+[16:36] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[16:39] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:39] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:39] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[16:39] [0mYou can currently reforge 4 items.[0m
+[16:43] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:44] [0m[34;1mUkyo shouts:[0m That was my fault. Blame me.[0m
+[16:44] [0m[34;1mUkyo shouts:[0m Definitely NOT Canadia, this time.[0m
+[16:45] [0m[34;1mBoosh shouts:[0m its always canadas fault[0m
+[16:48] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:53] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[16:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:01] [0m[35;1mMugen [Jedi(Knight)]:[0m laf, selling rictors weapons, how thievish[0m
+[17:01] [0m[35;1mUkyo [Jedi(76)]:[0m not selling if the bid is 0[0m
+[17:01] [0m[35;1mChaed [Jedi(AGM)]:[0m one person's junk...[0m
+[17:01] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:01] [0m[35;1mMugen [Jedi(Knight)]:[0m heh, til i bid 100k[0m
+[17:02] [0m[35;1mUkyo [Jedi(76)]:[0m no profit to be had[0m
+[17:07] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:08] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[17:11] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:16] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:19] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:23] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:28] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:28] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:33] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:38] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[17:38] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:40] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[17:40] [0mYou can currently reforge 8 items.[0m
+[17:43] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:48] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:48] [0mInix flaps : Tim Roth trying to do a southern accent is quite hillarious...[0m
+[17:48] [0mInix flaps : (FYI:  He's British and the southern accent is awful)[0m
+[17:53] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:57] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[17:58] [0mUkyo <Craft>: "The post office does not allow the transit of gem or other[0m
+[17:58] [0m              invisible gasses."[0m
+[18:02] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:03] [0m[32mSimonz tells you:[0m need stuff for reforging?[0m
+[18:07] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[18:13] [0m[35;1mHyuga [Jedi(90)]:[0m Rules of Acquisition #3 Never spend more for an[0m
+[18:13] [0m                  acquisition than you have to.[0m
+[18:13] [0m[35;1mUkyo [Jedi(76)]:[0m hopefully i don't get smote for yet another gbug, but i'm[0m
+[18:13] [0m                 too tired to think about the consequences, most likely[0m
+[18:13] [0m                 dire, but it's just not registering. sleep time.[0m
+[18:13] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:18] [0m[35;1mAsp [Jedi(38)]:[0m +12 per item, up to +54 for a main[0m
+[18:18] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:18] [0m[35;1mAsp [Jedi(38)]:[0m oops[0m
+[18:19] [0m[35;1mAsp [Jedi(38)]:[0m w/l, +36 for main, nothing to see here, move along move[0m
+[18:19] [0m                along[0m
+[18:20] [0m[35;1mHyuga [Jedi(90)]:[0m lol[0m
+[18:23] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:28] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:32] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:34] [0m[34;1mRoadblock shouts:[0m im robust[0m
+[18:36] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[18:37] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:41] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[18:41] [0mYou can currently reforge 12 items.[0m
+[18:42] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:45] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:50] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[18:55] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:00] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:05] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:05] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[19:10] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:15] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:20] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:24] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:30] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:32] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[19:35] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:38] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:42] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[19:42] [0mYou can currently reforge 12 items.[0m
+[19:42] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:46] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:51] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:51] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:55] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[19:59] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[20:00] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:06] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:10] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:15] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:20] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:23] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[20:25] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:28] [0mAdalius flaps : Sigh. TV broke. Ordered new TV. No where did it say[0m
+[20:28] [0m                signature required for delivery. Get a notification that[0m
+[20:28] [0m                they tried to deliver, no one was home to sign, so they[0m
+[20:28] [0m                didn't deliver. But then...[0m
+[20:28] [0mAdalius flaps : I come home and as I'm pulling in my subdivision the UPS guy[0m
+[20:28] [0m                is leaving, he came back for a 2nd attempt at the end of his[0m
+[20:28] [0m                day. I get him to turn around and come back with it. Get it[0m
+[20:28] [0m                unboxed. Entire front panel is smashed.[0m
+[20:28] [0mAdalius flaps : Just when I thought I was getting lucky by running into him[0m
+[20:28] [0m                too. Sigh.[0m
+[20:28] [0mSimonz flaps : =/[0m
+[20:29] [0mInix flaps : yeah, that's what you get for not being there to sign the first[0m
+[20:29] [0m             time[0m
+[20:29] [0mSimonz flaps : our tv broke too, but we decided not to replace it.  the[0m
+[20:29] [0m               results have been pretty awesome[0m
+[20:30] [0mElminster flaps : https://www.theonion.com/area-man-constantly-mentioning-he[0m
+[20:30] [0m                  -doesnt-own-a-televisi-1819565469[0m
+[20:30] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:30] [0mAdalius flaps : The UPS guy and I both looked at the box, it had a big tear[0m
+[20:30] [0m                in one side but it was on the back and there was styrofoam[0m
+[20:30] [0m                inside so we both went "Well... maybe it survived?" He goes[0m
+[20:30] [0m                "If not, I'm sure you'll ship it back and I'll be delivering[0m
+[20:30] [0m                a new one next week..." Yep buddy, yep. Tuesday I guess I[0m
+[20:30] [0m                better stay home to sign.[0m
+[20:31] [0mAdalius flaps : Shame it was wrecked... Samsung 55" 8K upscaling :([0m
+[20:31] [0mInix flaps : Shame on you, making that guy do the same work twice[0m
+[20:32] [0mNauda flaps : Adalius ready for Tokyo olympics 2020[0m
+[20:35] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:37] [0m[34;1mEllegon shouts:[0m pew pew[0m
+[20:37] [0m[34;1mYik shouts:[0m you put your left foote in[0m
+[20:38] [0m[34;1mInix shouts:[0m I do not.[0m
+[20:39] [0m[34;1mSimonz shouts:[0m nope nope, if I put my foot in you'll just stab me[0m
+[20:39] [0m[34;1mNauda shouts:[0m Got lag?[0m
+[20:40] [0m[34;1mTurnhold shouts:[0m not a bit, why?[0m
+[20:40] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[20:40] [0m[34;1mInix shouts:[0m Your FACE, that's why...[0m
+[20:43] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[20:43] [0mYou can currently reforge 12 items.[0m
+[20:50] [0m[35;1mHyuga [Jedi(90)]:[0m laf i never got a droid?[0m
+[20:50] [0m[35;1mHyuga [Jedi(90)]:[0m wtf is wrong with me[0m
+[20:50] [0mInix flaps : Newsflash, if you think you are an 'extroverted introvert', you[0m
+[20:50] [0m             are an 'extrovert'.  You like be alone 'sometimes', cool,[0m
+[20:50] [0m             welcome to being human, stop trying to redefine other people.[0m
+[20:54] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[21:20] [0mCaeli flaps : Apparently there is such a thing as an ambivert.[0m
+[21:21] [0mAsp flaps : and a verticopter[0m
+[21:21] [0mByron flaps : velociraptor*[0m
+[21:23] [0mCaeli flaps : I've gone from 2 weekends of dealing with people to not[0m
+[21:23] [0m              interacting with anyone unless I absolutely had to.[0m
+[21:29] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[21:32] [0m[34;1mFluffy shouts:[0m ha ha, bye byr burnaby![0m
+[21:32] [0m[34;1mHooligan shouts:[0m wooo![0m
+[21:33] [0m[35;1mRoken [Jedi(51)]:[0m Woo![0m
+[21:33] [0m[32;1mFrom afar, Burnaby thanks you.[0m[0m
+[21:36] [0m[35;1mCall [Jedi(22)]:[0m hi :)[0m
+[21:37] [0m[35;1mCall [Jedi(22)]:[0m this guild is so quiet compared to bladesingers chat line[0m
+[21:38] [0m[35;1mSimonz [Jedi(58)]:[0m it's peaceful =)[0m
+[21:38] [0m[35;1mCall [Jedi(22)]:[0m yes im not use to this :)[0m
+[21:39] [0m[32mSimonz tells you:[0m 68m delta with these zombies[0m
+[21:40] [0m[32mYou tell Simonz:[0m insane! why don't we party fight more? Or does it happen?[0m
+[21:41] [0m[35;1mAsp [Jedi(38)]:[0m 'cos chatting breaks htrance/med ;)  gotta keep hands off[0m
+[21:41] [0m                the wheel[0m
+[21:42] [0m[32mSimonz tells you:[0m are you saved to hotel right now?[0m
+[21:43] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[21:43] [0mYou can currently reforge 4 items.[0m
+[21:44] [0m[32mYou tell Simonz:[0m unfortunately yes. currently there[0m
+[21:45] [0m[32mSimonz tells you:[0m ok, let's coordinate a run next time[0m
+[21:45] [0m[32mSimonz tells you:[0m how much longer until you're done with yours?[0m
+[21:46] [0m[32mYou tell Simonz:[0m 3 hours until i leave[0m
+[21:46] [0m[32mSimonz tells you:[0m it takes you 3 hours to clear it?[0m
+[21:46] [0m[32mYou tell Simonz:[0m no reset timer[0m
+[21:47] [0m[32mSimonz tells you:[0m no, i mean, how much longer until you're done clearing[0m
+[21:47] [0m        the dungeon?[0m
+[21:47] [0m[32mYou tell Simonz:[0m idk[0m
+[21:48] [0m[32mSimonz tells you:[0m oh yeah, you don't have a map to watch, you just turn on[0m
+[21:48] [0m        the script and come out the other side when it's done[0m
+[21:49] [0m[32mYou tell Simonz:[0m correct.. i haven't studied mapping. Got some of it[0m
+[21:49] [0m        loaded, but it's not enabled[0m
+[21:49] [0m[32mSimonz tells you:[0m I'll be happy to party with you any time, I just haven't[0m
+[21:49] [0m        offered because if you're not tanking you're not getting fdef[0m
+[21:50] [0m[32mYou tell Simonz:[0m faster xp would be great to get con and dex up[0m
+[21:50] [0m[32mYou tell Simonz:[0m 6 more stats to allocate to reach a full lv100[0m
+[21:50] [0m[32mSimonz tells you:[0m seriously, spend a day and get your crafting levels up,[0m
+[21:50] [0m        and then you can make your own titanium set.  It's nuts[0m
+[21:51] [0m[32mSimonz tells you:[0m figure out that mining bot and run through the mines[0m
+[21:51] [0m        between every dungeon[0m
+[21:52] [0m[32mYou tell Simonz:[0m i dont mind manually mining. i know it's mundane but kinda[0m
+[21:52] [0m        feels like im doing something[0m
+[21:52] [0m[32mSimonz tells you:[0m I usually will stop halfway through a dungeon and go[0m
+[21:52] [0m        mine, because that's the only bottleneck in the system now, besides[0m
+[21:52] [0m        having whatever frags/essence/hearts you need[0m
+[21:52] [0m[32mYou tell Simonz:[0m right now i dont have some mats for lv 19 enchant[0m
+[21:52] [0m[32mYou tell Simonz:[0m legends status anyhow[0m
+[21:53] [0m[32mSimonz tells you:[0m oh man, I had to turn my bot off to go back and pick[0m
+[21:53] [0m        something up, and I was almost done, so I decided to just do it[0m
+[21:53] [0m        manually.  I kept getting distracted and the last 5 rooms took[0m
+[21:53] [0m        forever lol[0m
+[21:53] [0m[32mSimonz tells you:[0m what mats do you need?[0m
+[21:53] [0m[32mSimonz tells you:[0m oh, also, check out the satchel script on the necro wiki[0m
+[21:53] [0m        if you haven't already, it's amazing[0m
+[21:54] [0m[32mYou tell Simonz:[0m idk all.. eye of earth certainly only have 1avg 1poor[0m
+[21:55] [0m[32mSimonz tells you:[0m come to the entrance[0m
+[21:55] [0m[32mYou tell Simonz:[0m showitem gem of minor assault aggression[0m
+[21:56] [0m[32mFluffy says:[0m that looks liek fun[0m
+[21:56] [0m[32mFluffy says:[0m what we making ?[0m
+[21:57] [0m[32mSimonz says:[0m  level 19 gem[0m
+[21:57] [0m[32mYou say:[0m gem of minor assault[0m
+[21:57] [0m[32mSimonz says:[0m  power leveling[0m
+[21:57] [0m[32mFluffy says:[0m what hearts used ?[0m
+[21:57] [0m[32mYou say:[0m careful fluffy i may assault you[0m
+[21:57] [0m[32mSimonz says:[0m  frag of unseen[0m
+[21:57] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[21:57] [0m[32mSimonz says:[0m  ey of earth and silver shards[0m
+[21:58] [0m[32mFluffy says:[0m cxp grade hearts, enjoy[0m
+[21:58] [0m[32mYou say:[0m oh ya shards are lacking even after a few mine runs[0m
+[21:58] [0m[32mSimonz says:[0m  nah, for cxp now it doesn't make any sense to do anything[0m
+[21:58] [0m             besides legendary[0m
+[21:58] [0m[32mFluffy says:[0m essence/hearts are a joke for me ... im too lazy to go to upper levels to get[0m
+[21:58] [0m             shit/grind smith or enchanter[0m
+[21:59] [0m[32mFluffy says:[0m depends any heart vs no legendary[0m
+[21:59] [0m[32mSimonz says:[0m  because the cxp ratio increases with quality[0m
+[21:59] [0m[32mSimonz tells you:[0m so an average level 1 gem would have gotten like 1 level[0m
+[21:59] [0m[32mSimonz tells you:[0m oops[0m
+[21:59] [0m[32mYou say:[0m  ya first lvl 1 gem rocketed me to lv 19[0m
+[21:59] [0m[32mSimonz says:[0m so an average level 1 gem would have gotten like 1 level[0m
+[21:59] [0m[32mFluffy says:[0m but finding legendary shit isnt easy[0m
+[21:59] [0m[32mSimonz says:[0m  but he made a legendary one and got 19[0m
+[21:59] [0m[32mSimonz says:[0m true[0m
+[22:00] [0m[32mYou say:[0m friend a xmuter duh :)[0m
+[22:00] [0m[32mSimonz says:[0m  being a transmuter is helpful, and thenjust picking stuff up[0m
+[22:00] [0m             on auction or beg/mudsex/whatever[0m
+[22:00] [0m[32mFluffy says:[0m eek i only have 27 legendary hearts ... on this alt![0m
+[22:01] [0m[32mYou say:[0m hey im lvl 62 reforger, can i help, own forge in my house[0m
+[22:01] [0m[32mSimonz says:[0m  i'm still in the essence levels, so i can pick up one[0m
+[22:01] [0m             legendary heart from somewhere and that'll get me 5 things out[0m
+[22:01] [0m             of it[0m
+[22:01] [0m[32mFluffy says:[0m at least i can 'mine for <wtf>'[0m
+[22:01] [0m[32mSimonz says:[0m  jealous i am[0m
+[22:02] [0m[32mFluffy says:[0m been master miner for ages, had 5/5 in mskills for year or 4[0m
+[22:02] [0m[32mSimonz says:[0m  mining is the only real grind left[0m
+[22:02] [0m[32mSimonz says:[0m  and it's not even that bad now[0m
+[22:02] [0m[32mFluffy says:[0m yeah i tested on chaostone ... burn thru level fairly quick[0m
+[22:02] [0m[32mSimonz says:[0m  I'll be up to 60 tomorrow[0m
+[22:03] [0m[32mYou say:[0m mining has always been grind. Has anyone mined in runescape?[0m
+[22:03] [0m         Current changes made it so effortless[0m
+[22:03] [0m[32mSimonz says:[0m  eh, i picked up my satchel like 2 months ago, and just[0m
+[22:03] [0m             started crafting like 3weeks ago[0m
+[22:03] [0m[32mFluffy says:[0m mining was easy ... setup laptop ... play stuff on my xbox 360 ... every so often[0m
+[22:03] [0m             check mines[0m
+[22:03] [0m[32mSimonz says:[0m  and this titanium set is sweet for me, +54dex/18con[0m
+[22:04] [0m[32mSimonz says:[0m  nod, i've got a good mining bot I modified out of inix's bot[0m
+[22:04] [0m[32mVagrant says:[0m resetting who needs?[0m
+[22:04] [0m[32mFluffy says:[0m legendary weapons still have something like 5-7% penetration ?[0m
+[22:04] [0m[33;1m[PARTY][0m Roken joins the party.[0m
+[22:04] [0m[32mSimonz says:[0m  nfi, jedi, so i haven't even looked at weapons[0m
+[22:04] [0m[33;1m[PARTY][0m Infectious: reseting[0m
+[22:04] [0m[33;1m[PARTY][0m Fluffy: {Fur-Rug} hit it, disease boy[0m
+[22:04] [0m[33;1m[PARTY][0m Infectious: cheeers[0m
+[22:04] [0m[33;1m[PARTY][0m Infectious has quit the party.[0m
+[22:04] [0m[33;1m[PARTY][0m Roken is being booted from the party.[0m
+[22:04] [0m[32mYou say:[0m  im saved here[0m
+[22:05] [0m[32mFluffy says:[0m not anyomre[0m
+[22:05] [0m[32mSimonz says:[0m  you were[0m
+[22:05] [0m[32mYou say:[0m  oh nice[0m
+[22:05] [0m[33;1m[PARTY][0m Roken joins the party.[0m
+[22:05] [0m[32mFluffy says:[0m vaggy just reset everyone's hotel dungeon[0m
+[22:05] [0m[33;1m[PARTY][0m Simonz: follow me[0m
+[22:05] [0m[32mYou say:[0m thats too much power[0m
+[22:05] [0m[32mFluffy says:[0m nah, one of the tamer eternal powers[0m
+[22:06] [0m[32mSimonz says:[0m  thanks for the mats fluffy[0m
+[22:06] [0m[32mFluffy says:[0m laf i have my rest handy too[0m
+[22:06] [0m[32mFluffy says:[0m reset[0m
+[22:06] [0m[32mSimonz says:[0m  heh, holler on HM when you're gonna use it[0m
+[22:06] [0mCaeli flaps : So, the 1984 The Terminator has held up decently.[0m
+[22:06] [0mFluffy flaps : he'll be back![0m
+[22:07] [0m[33;1m[PARTY][0m Simonz: it's great when they all stack up.  one day I hit like 5[0m
+[22:07] [0m        dungeons in a row, had to keep jumping out 3/4 of the way[0m
+[22:07] [0m        through because someone was resetting lol[0m
+[22:07] [0m[33;1m[PARTY][0m Simonz: ok, here we go[0m
+[22:07] [0m[33;1m[PARTY][0m Simonz: ok, come 2n[0m
+[22:08] [0m[33;1m[PARTY][0m Simonz: cassist simonz[0m
+[22:08] [0m[33;1m[PARTY][0m Simonz: enjoy the ride =)[0m
+[22:09] [0m[33;1m[PARTY][0m Roken: i don't need passist?[0m
+[22:09] [0m[33;1m[PARTY][0m Simonz: either one works[0m
+[22:10] [0m[33;1m[PARTY][0m Simonz: turn off your corpse trigger[0m
+[22:11] [0m[33;1m[PARTY][0m Roken: ok done[0m
+[22:12] [0m[33;1m[PARTY][0m Simonz: cool, I need those to keep sat down so we don't have to[0m
+[22:12] [0m        waste time regening that[0m
+[22:12] [0m[33;1m[PARTY][0m Roken: im not draining anything[0m
+[22:13] [0m[33;1m[PARTY][0m Roken: guess lead takes all dmg[0m
+[22:13] [0m[33;1m[PARTY][0m Simonz: nod, all the powers that eat up stuff have to do with[0m
+[22:13] [0m        tanking[0m
+[22:14] [0m[33;1m[PARTY][0m Simonz: you're still getting the corpse[0m
+[22:15] [0m[33;1m[PARTY][0m Roken: how big are they?[0m
+[22:15] [0m[33;1m[PARTY][0m Simonz: that last one was 7m[0m
+[22:15] [0m[33;1m[PARTY][0m Simonz: this scaler is usually 6/8-7.0, but can go up to 7.6[0m
+[22:16] [0m[33;1m[PARTY][0m Simonz: got a new bk in here today[0m
+[22:17] [0m[33;1m[PARTY][0m Roken: nice maybe catch up in two weeks[0m
+[22:17] [0m[33;1m[PARTY][0m Roken: 75% remaining to fdef6[0m
+[22:17] [0m[35;1mSimonz [Jedi(58)]:[0m doh[0m
+[22:17] [0m[33;1m[PARTY][0m Simonz: nice[0m
+[22:18] [0m[33;1m[PARTY][0m Simonz: i'm at 49% and absolutely crawling because I've been xping[0m
+[22:18] [0m[33;1m[PARTY][0m Simonz: i think I'm goign to slow it back down[0m
+[22:18] [0mNightrider flaps : 5 peeps for paul 2[0m
+[22:19] [0mNightrider flaps : bring it[0m
+[22:20] [0m[33;1m[PARTY][0m Simonz: dude, the corpse trigger[0m
+[22:21] [0m[33;1m[PARTY][0m Roken: is mine still on?[0m
+[22:21] [0m[33;1m[PARTY][0m Simonz: yup[0m
+[22:21] [0m[33;1m[PARTY][0m Simonz: #var tank 1[0m
+[22:22] [0m[33;1m[PARTY][0m Simonz: #alias {tank} {#if {1 == 1} {#showme Not tanking;#var tank[0m
+[22:22] [0m        0;}{#showme Tanking;#var tank 1;}}[0m
+[22:22] [0m[33;1m[PARTY][0m Simonz: hrm, that's supposed to say #if {$tank == 1}[0m
+[22:23] [0m[33;1m[PARTY][0m Simonz: then everything in my corpse trigger is wrapped in #if {1[0m
+[22:23] [0m        == 1} { stuff happens here }[0m
+[22:23] [0m[33;1m[PARTY][0m Roken: #NOP 2 lines[0m
+[22:24] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[22:24] [0m[33;1m[PARTY][0m Simonz: so i type tank and that sets the var to 1 and my kill[0m
+[22:24] [0m        trigger does nothing[0m
+[22:24] [0m[33;1m[PARTY][0m Simonz: then I type tank again and it sets it back to 0, and my[0m
+[22:24] [0m        corpse trigger works again[0m
+[22:25] [0m[33;1m[PARTY][0m Simonz: I have a ton of aliases like that to toggle variables that[0m
+[22:25] [0m        do things[0m
+[22:25] [0m[33;1m[PARTY][0m Simonz: saves me from having to go edit a file and re-read it[0m
+[22:26] [0m[33;1m[PARTY][0m Simonz: do you have a ktrig vaf or something?  you're still[0m
+[22:26] [0m        getting the corpses[0m
+[22:27] [0m[33;1m[PARTY][0m Roken: honestly no clue... i only see the two corpsetrig alias[0m
+[22:27] [0m       and var.[0m
+[22:28] [0m[33;1m[PARTY][0m Roken: #kill and re-read see if that worked[0m
+[22:31] [0m[33;1m[PARTY][0m Roken: no absorb happened :thumbs-up:[0m
+[22:35] [0m[33;1m[PARTY][0m Simonz: 50m an hour, not bad[0m
+[22:36] [0m[33;1m[PARTY][0m Simonz: these were taking me high 70's for the number of rounds,[0m
+[22:36] [0m        now it's pretty consistent around 40[0m
+[22:36] [0m[33;1m[PARTY][0m Roken: last kill 60 rounds. do you check gs2 every kill?[0m
+[22:38] [0m[33;1m[PARTY][0m Roken: jumped to 56m[0m
+[22:41] [0m[34;1mNightrider shouts:[0m 7%![0m
+[22:42] [0m[33;1m[PARTY][0m Roken: think your bot stopped[0m
+[22:43] [0m[33;1m[PARTY][0m Simonz: i ..[0m
+[22:43] [0m[33;1m[PARTY][0m Simonz: yup[0m
+[22:44] [0m[33;1m[PARTY][0m Simonz: yeah, that happens sometimes when my meditation gets[0m
+[22:44] [0m        interrupted by a late heal or in this case the light going[0m
+[22:44] [0m        out and having to light up another one[0m
+[22:44] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[22:44] [0mYou can currently reforge 8 items.[0m
+[22:44] [0m[33;1m[PARTY][0m Simonz: anyways, about the rounds, MIP sends the round number[0m
+[22:44] [0m        every round of combat, so I just read that into a variable[0m
+[22:44] [0m        and spit it out as part of my kill trigger[0m
+[22:45] [0m[33;1m[PARTY][0m Simonz: then i can $grep for that in my buffer and it'll pull all[0m
+[22:45] [0m        the instances of it and i can do a quick eyeball[0m
+[22:45] [0m        comparison[0m
+[22:45] [0m[35;1mCall [Jedi(22)]:[0m Lightsaber      -     pink     -   Chg:   5%  Mast: 4 [G:[0m
+[22:45] [0m                 4][F: 1][0m
+[22:45] [0m[33;1m[PARTY][0m Simonz: #grep[0m
+[22:45] [0m[35;1mCall [Jedi(22)]:[0m mastery 4 now :)[0m
+[22:45] [0m[35;1mSimonz [Jedi(58)]:[0m nice![0m
+[22:46] [0m[35;1mSimonz [Jedi(58)]:[0m mastery 9, waiting for guide to catch up[0m
+[22:47] [0m[33;1m[PARTY][0m Simonz: we made good time, 6 more rooms to go[0m
+[22:52] [0m[33;1m[PARTY][0m Simonz: I wouldn't get much more con, maybe another 5 points? [0m
+[22:52] [0m        then once you get crafting up and can make your own eq you[0m
+[22:52] [0m        can put as much con in it as you want[0m
+[22:53] [0m[33;1m[PARTY][0m Simonz: focus on dex/wis[0m
+[22:53] [0m[33;1m[PARTY][0m Simonz: now that I'm up to 2k hp with my set, I'm not going to[0m
+[22:53] [0m        spend any more on it for a while.  Just focusing on[0m
+[22:53] [0m        catching wis up to dex a bit and then raising them[0m
+[22:53] [0m        together[0m
+[22:55] [0m[32mChavee says:[0m Welcome back, Simonz, and I wish you the best of luck![0m
+[22:55] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[22:55] [0m[33;1m[PARTY][0m Simonz has quit the party.[0m
+[22:55] [0m[33;1m[PARTY][0m The leader quit the party![0m
+[22:55] [0m[33;1m[PARTY][0m New leader for the party: roken.[0m
+[22:55] [0m[33;1m[PARTY][0m Roken has quit the party.[0m
+[22:57] [0mYou can currently reforge 8 items.[0m
+[23:02] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[23:03] [0mInix flaps : No, there isn't.  Moods,exist, they always have...[0m
+[23:04] [0mInix flaps : to be fair, that is a more accurate term[0m
+[23:05] [0mInix flaps : but an extrovert doesn't meant they're overtly social 100% of[0m
+[23:05] [0m             the time, and being a tired extrovert does not make one an[0m
+[23:05] [0m             i.trovert or ambivert[0m
+[23:28] [0m[35;1mMagneto [Jedi(62)]:[0m I've been in this stupid guild for over THREE WEEKS and[0m
+[23:28] [0m                    I *still* can't kill the undead knight![0m
+[23:28] [0m[35;1mAsp [Jedi(38)]:[0m i'm sure you could, might take a while though[0m
+[23:28] [0m[35;1mAsp [Jedi(38)]:[0m oh, default haha[0m
+[23:31] [0m[35;1mSimonz [Jedi(58)]:[0m i'm trying to decide what AT I should do next[0m
+[23:31] [0m[35;1mSimonz [Jedi(58)]:[0m already have cpain, gfs, lfs, and lsc[0m
+[23:31] [0m[35;1mHyuga [Jedi(90)]:[0m what are your choices[0m
+[23:31] [0m[35;1mHyuga [Jedi(90)]:[0m dodge or ri?[0m
+[23:32] [0m[35;1mHyuga [Jedi(90)]:[0m i would say dodge[0m
+[23:33] [0m[35;1mSimonz [Jedi(58)]:[0m k, that's what I was leaning towards, since it's the last[0m
+[23:33] [0m                   damage reduction/avoidance[0m
+[23:34] [0m[35;1mHyuga [Jedi(90)]:[0m nod so far you are following the same order i did[0m
+[23:34] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[23:35] [0m[35;1mSimonz [Jedi(58)]:[0m now I just have to wait for the teacher, heh[0m
+[23:43] [0mInix flaps : Apparently "martial arts" shows are now just gymnastic[0m
+[23:43] [0m             ccompetitions...[0m
+[23:43] [0mHyuga flaps : i am a master of all the martial artd[0m
+[23:44] [0mYou adjust your reforger's kit slightly, ready to do more business.[0m
+[23:44] [0mYou can currently reforge 12 items.[0m
+[23:47] [0mInix flaps : flips for show while holding a "staff" (baton) martial arts,[0m
+[23:47] [0m             got it[0m
+[23:48] [0mHyuga flaps : to be fair like 75% of martial arts is basically[0m
+[23:48] [0m              dancing/ballet[0m
+[23:49] [0mAsp flaps : that was basically the plot of the original Kickboxer movie[0m
+[23:50] [0mHyuga flaps : flashdance and kickboxer are basically the same movie just[0m
+[23:50] [0m              different gender roles[0m
+[23:50] [0mInix flaps : sure, for most cinematic.inclusion, but it's original premise[0m
+[23:50] [0m             and, until recently, apparently, competitvr compenet, was[0m
+[23:50] [0m             comnative[0m
+[23:50] [0mInix flaps : combative*[0m
+[23:51] [0mHyuga flaps : eh... very ritualistic when you get to most of the forms of[0m
+[23:51] [0m              the predominant martial arts styles[0m
+[23:51] [0mAsp flaps : What a Feeling! da da dadadah beings believing![0m
+[23:51] [0mInix flaps : also its*[0m
+[23:52] [0mHyuga flaps : they are decidely NOT very adept at teaching combat. its[0m
+[23:52] [0m              learning dance steps[0m
+[23:53] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:54] [0mHyuga flaps : i did taekwondo, karate, judo, kuk sul won. its not until[0m
+[23:54] [0m              basically master level that you really learn how to actually[0m
+[23:54] [0m              fight people who are standing therr knowing you are about to[0m
+[23:54] [0m              use x technique or form on them[0m
+[23:54] [0mHyuga flaps : aren't[0m
+[23:55] [0mHyuga flaps : also.. to anyone who isn't at that level, its probably not[0m
+[23:55] [0m              very exciting to watch because you won't understand the[0m
+[23:55] [0m              nuances of what is happening[0m
+[23:55] [0mInix flaps : ok, ypu did a lot of scams, cool[0m
+[23:57] [0mHyuga flaps : well yeah i didn't go to some monestary in the mountains[0m
+[23:58] [0mHyuga flaps : but the styles are what the styles are. they are traditional.[0m
+[23:58] [0m              and they are very ritualistic[0m
+[23:58] [0m[32mYou say:[0m I am not the aspiring jedi you are looking for.[0m
+[23:58] [0mInix flaps : no[0m
+[23:58] [0mByron flaps : Yeah...[0m
+[23:58] [0mByron flaps : But can you baet up Rictor[0m
+[23:58] [0mHyuga flaps : i can karate chop you from 400 yards[0m
+[23:59] [0mInix flaps : the actual fighting stylrs are fighting stylrs deviped from[0m
+[23:59] [0m             necessity.[0m
+[23:59] [0mInix flaps : a lot of modern "schools" are for money scams[0m
+[23:59] [0mInix flaps : and hollywood is dancing[0m

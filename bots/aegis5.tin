@@ -1,0 +1,25 @@
+#class {bot} {open}
+
+
+#var {botpath} {e;e;n;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;n;n;n;n;n;n;n;n;w;w}
+
+#act {[MoNSTaR]{Aegis Soldier Model 66-SO|Massive zombie|Ravaged zombie|Shuffling zombie}}
+	{
+	#if {"%1" == "Aegis Soldier Model 66-SO"} {#var mobname robot};
+	#if {"%1" == "Massive zombie"} {#var mobname zombie};
+	#if {"%1" == "Ravaged zombie"} {#var mobname zombie};
+	#if {"%1" == "Shuffling zombie"} {#var mobname zombie};
+	_check_mob
+	}                                                              
+                                                                       
+
+#act {#END OF PAT} {
+	killbot;
+	u;
+	aegis43;
+	aegis32;
+	aegis21
+	} {1}
+
+#class {bot} {close}
+#read bots/generic.tin

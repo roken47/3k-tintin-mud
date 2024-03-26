@@ -1,0 +1,587 @@
+- = LOG STARTED [00:00] = -
+[00:31] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[00:46] [0mnewb Miriandra [fighter/61]: Do different breeds of dogs have different[0m
+[00:46] [0m                             sorts of stats?[0m
+[00:47] [0mnewb Fluffy [changeling/134]: nope just cosmetic[0m
+[00:47] [0mnewb Miriandra [fighter/61]: thx[0m
+[00:51] [0m[34;1mHyuga shouts:[0m massxp 420[0m
+[00:55] [0m[34;1mHyuga shouts:[0m sweet[0m
+[00:57] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[00:58] [0m[34;1mSpace shouts:[0m its whats happens when you mess with the Guardian of the[0m
+[00:58] [0m              Future![0m
+[01:05] [0mYou can currently reforge 8 items.[0m
+[01:15] [0mUkyo <Craft>: is there some sort of problem with crafted gear not accepting[0m
+[01:15] [0m              dtaco smears?[0m
+[01:15] [0mStasis <Craft>: too much total ac[0m
+[01:15] [0mStasis <Craft>: hits the ac limit for the slot etc[0m
+[01:15] [0mUkyo <Craft>: so the crafted chaostone pieces are already at max ac?[0m
+[01:15] [0mStasis <Craft>: almost[0m
+[01:16] [0mUkyo <Craft>: hrm. interesting[0m
+[01:18] [0mSpace <Craft>: boots are 136 total ac[0m
+[01:18] [0mSpace <Craft>: and limit for boots is i think 150[0m
+[01:19] [0mSpace <Craft>: oh i know[0m
+[01:19] [0mSpace <Craft>: i dont thuink we can smear items already gemchanted[0m
+[01:20] [0mUkyo <Craft>: so that includes baked in gems[0m
+[01:20] [0mSpace <Craft>: so thats what is probably blocking smearing of chaosstone[0m
+[01:20] [0m               equip ?[0m
+[01:20] [0mStasis <Craft>: my chaostone helmet took 6 extra ac from a smear[0m
+[01:20] [0mUkyo <Craft>: ok, where's flaxen. time to give him another bug[0m
+[01:20] [0mStasis <Craft>: boots will take 14 i guess[0m
+[01:20] [0mStasis <Craft>: 7/7[0m
+[01:21] [0mSpace <Craft>: ok it did take +7 to mind and rad from foil so yeah they do[0m
+[01:21] [0m               get smeared[0m
+[01:21] [0mUkyo <Craft>: foil wrapper works on helmet, but nacho cheese didn't take to[0m
+[01:21] [0m              the greaves[0m
+[01:21] [0mSpace <Craft>: but the item name doesnt get taco smear name tagged to it[0m
+[01:22] [0mStasis <Craft>: greaves might be maxed[0m
+[01:22] [0mUkyo <Craft>: yea, that's the other part i'm talking about, is it doesn't[0m
+[01:22] [0m              show like on normal items[0m
+[01:22] [0mSpace <Craft>: greaves have a total of 138 ac[0m
+[01:23] [0mSpace <Craft>: and i think greaves have a limit of 125 ? not 100% sure tho[0m
+[01:26] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[01:29] [0mUkyo <Craft>: breastplate took the refried beans[0m
+[01:30] [0mUkyo <Craft>: and boots took foil. might just be the cheese, gonna try the[0m
+[01:30] [0m              gloves with my last nacho cheese[0m
+[01:31] [0mUkyo <Craft>: hrm. gloves took the cheese. was just the greaves that didn't[0m
+[01:31] [0m              get an ac boost[0m
+[01:31] [0mStasis <Craft>: cos they're ac maxed[0m
+[01:31] [0mStasis <Craft>: can't add more[0m
+[01:31] [0mUkyo <Craft>: makes sense.[0m
+[01:32] [0mStasis <Craft>: unless they're greaves i guess and flaxen didn't want 2[0m
+[01:32] [0m                smears instead of a main. But seems unlikely[0m
+[01:55] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[02:05] [0mYou can currently reforge 12 items.[0m
+[02:08] [0m[33;1m[Clan] Phenom :[0m morning all![0m
+[02:08] [0m[33;1m[Clan] Archimedes :[0m Hola[0m
+[02:25] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[02:26] [0mKitt flaps : Ftouches FTW yay[0m
+[02:42] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[02:42] [0m                          Northern Hills of Fantasy!  We are localizing it[0m
+[02:42] [0m                          now - get ready![0m
+[02:51] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[03:05] [0mYou can currently reforge 12 items.[0m
+[03:07] [0m[34;1mFluffy shouts:[0m road portal/2 south and theme is pounding-blunt[0m
+[03:14] [0m[34;1mFluffy shouts:[0m SW corner (1,1) ... NE corner (8,8) ...  Ukyo's favorite -->[0m
+[03:14] [0m               format (Row,Col) ... Beacon (4,3) ... Bunkers[0m
+[03:14] [0m               (1,7)(1,8)&(7,7) ... Pad (4,6)[0m
+[03:15] [0m[34;1mUkyo shouts:[0m I don't even know row col. i just use x,y for x axis and y[0m
+[03:15] [0m             axis. much easier than having to think about rows or columns[0m
+[03:16] [0m[34;1mUkyo shouts:[0m i'd put beacon at 2,3[0m
+[03:17] [0m[34;1mFluffy shouts:[0m it doesnt move ;p[0m
+[03:23] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[03:55] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[04:24] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[04:29] [0m[37;1mFluffy <.oO>:[0m bam![0m
+[04:29] [0m[37;1mSpace <.oO>:[0m BOOM!!![0m
+[04:29] [0m[37;1mStasis <.oO>:[0m BIFFO![0m
+[04:29] [0m[37;1mHavox <.oO>:[0m congrats[0m
+[04:54] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[05:05] [0m[34;1mFluffy shouts:[0m big letters![0m
+[05:30] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[08:47] You can currently reforge 12 items.[0m
+[08:48] [0mYou can currently reforge 12 items.[0m
+[09:10] [0m[35;1mBurnaby [Jedi(60)]:[0m yo![0m
+[09:12] [0m[35;1mSimple [Jedi(49)]:[0m oy[0m
+[09:14] [0m[35;1mSaim [Jedi(Elder)]:[0m morning[0m
+[09:15] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[09:15] [0m[33;1m[Clan] Saim :[0m anyone able to tank a beloch or 2 for me?[0m
+[09:17] [0mYou can currently reforge 0 items.[0m
+[09:17] [0m[33;1m[Clan] Saim :[0m anyone down to kill day 3?[0m
+[09:17] [0m[33;1m[Clan] Saim :[0m oh i missed a paul run this boot too, damn[0m
+[09:17] [0m[33;1m[Clan] Archimedes :[0m For sure[0m
+[09:40] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[09:48] [0mYou can currently reforge 4 items.[0m
+[09:58] [0m[34;1mZiphe shouts:[0m I need two necks so I can string mor things.. potion giving[0m
+[09:58] [0m              you the neck?[0m
+[09:59] [0m[34;1mWhoknows shouts:[0m i'll sacrifice my neck, you can string cocoon and i'll wear[0m
+[09:59] [0m                 it around my neck :D[0m
+[10:15] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[10:16] [0mWhoknows {Professions}: hrm, can you wrap a weapon/armor adding something[0m
+[10:16] [0m                        unwanted, then reforge?[0m
+[10:17] [0mNauda {Professions}: unless it's at max ac, then yes[0m
+[10:27] [0mThom <Craft>: help[0m
+[10:27] [0mThom <Craft>: bugger this line haha[0m
+[10:29] [0m[32;1m <Congratulations!>[0m : Thom has become a journeyman blacksmith![0m
+[10:41] [0mKitt flaps : running zombies now. will have a reset once im done[0m
+[10:44] [0m[37;1mKichi <.oO>:[0m woo[0m
+[10:45] [0m[37;1mHex <.oO>:[0m thanks :)[0m
+[10:47] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[11:16] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[11:47] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[12:10] [0mYou can currently reforge 8 items.[0m
+[12:11] [0m[32mZokko says:[0m rally?[0m
+[12:11] [0m[32mWhoknows says:[0m Most powerful Solaris... Grant our disciple, Nauda the power[0m
+[12:11] [0m               of your divine blessing, so we may destroy your enemies![0m
+[12:11] [0m[32mWhoknows says:[0m Most powerful Solaris... Grant our disciple, Zokko the power[0m
+[12:11] [0m               of your divine blessing, so we may destroy your enemies![0m
+[12:11] [0m[32mWhoknows says:[0m Most powerful Solaris... Grant our disciple, Havox the power[0m
+[12:11] [0m               of your divine blessing, so we may destroy your enemies![0m
+[12:11] [0m[32mWhoknows says:[0m Most powerful Solaris... Grant our disciple, Rictor the[0m
+[12:11] [0m               power of your divine blessing, so we may destroy your[0m
+[12:11] [0m               enemies![0m
+[12:11] [0m[32mWhoknows says:[0m Most powerful Solaris... Grant our disciple, Roken the power[0m
+[12:11] [0m               of your divine blessing, so we may destroy your enemies![0m
+[12:11] [0m[32mWhoknows says:[0m Most powerful Solaris... Grant our disciple, Hsima the power[0m
+[12:11] [0m               of your divine blessing, so we may destroy your enemies![0m
+[12:19] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[12:25] [0m[34;1mPsionic shouts:[0m MURDOCK! I 'm commin ta git you![0m
+[12:37] [0m[32mVoodoo tells you:[0m Hi Roken, It's Voodoo.  Remember me? I'm walking again.[0m
+[12:37] [0m        Call me.[0m
+[12:37] [0m[34;1mHooligan shouts:[0m ooh. voodoo sent me a tell. wild[0m
+[12:37] [0m[34;1mNauda shouts:[0m Who this? new number?[0m
+[12:37] [0m[34;1mRictor shouts:[0m Imagine that huh?[0m
+[12:38] [0m[34;1mHooligan shouts:[0m what a unique and uncommon occurance...[0m
+[12:38] [0m[34;1mSaim shouts:[0m where do i report voodoo for sensual harrassment? this is[0m
+[12:38] [0m             becoming a thing now...[0m
+[12:38] [0m[34;1mRaest shouts:[0m filling my tellhist with fake voodoo tells[0m
+[12:38] [0m[34;1mParzival shouts:[0m a fake voodoo tell is worth at least 5 regular tells[0m
+[12:39] [0m[34;1mHyuga shouts:[0m you may be walking but it still hurts me to sit down[0m
+[12:40] [0m[34;1mHooligan shouts:[0m was too busy on phone with voodoo...[0m
+[12:44] [0m[34;1mNightrider shouts:[0m Zombie reset come get some[0m
+[12:45] [0mNightrider flaps : zombie reset come get some[0m
+[12:46] [0mNightrider flaps : come one come all for this zombie party rest attack[0m
+[12:46] [0mNightrider flaps : you must pquit[0m
+[12:47] [0mBink flaps : to do that, you must quit first[0m
+[12:47] [0m[34;1mNightrider shouts:[0m ok pulling[0m
+[12:48] [0m[34;1mKitt shouts:[0m Zombies has been reseted have a nice day[0m
+[12:49] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[13:10] [0mYou can currently reforge 12 items.[0m
+[13:19] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[13:25] [0m[33;1m[Clan] Saim :[0m belochs anyone?[0m
+[13:25] [0m[33;1m[Clan] Saim :[0m i need 2 pots[0m
+[13:26] [0m[33;1m[Clan] Archangel :[0m Was just about to log off, but can stick around for that[0m
+[13:26] [0m                   if we have a tank.[0m
+[13:26] [0m[33;1m[Clan] Saim :[0m no worries - i found a queen, beating her to death first[0m
+[13:32] [0m[33;1m[Clan] Archangel :[0m Okay, laterz all[0m
+[13:37] [0m[34;1mKitt shouts:[0m Voodoo, Put down the pants and step away or the Rabbit Gets it[0m
+[13:52] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[14:12] [0mYou can currently reforge 12 items.[0m
+[14:14] [0msRPDFd  Wm:g Wc: 83% Gx:100.36% Fx: 65.40%[0m
+[14:24] [0m[32mSimonz tells you:[0m You need -427,367,808 experience to achieve your next[0m
+[14:24] [0m        level.  saving up for refresh room, I think I can get it today[0m
+[14:25] [0m[34;1mKitt shouts:[0m Poppa Dont Preach[0m
+[14:25] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[14:43] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m Good evening, jedis.[0m
+[14:45] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m been enjoying yourselves over here?[0m
+[14:45] [0m[35;1mHyuga [Jedi(92)]:[0m Meep its a TH.[0m
+[14:45] [0m          ----             ----[0m
+[14:45] [0m         |oooo|           |oooo|[0m
+[14:45] [0m         |oooo|           |oooo|[0m
+[14:45] [0m         |oooo| /-------\ |oooo|[0m
+[14:45] [0m        (|*ooo|/\  | |  /\|ooo*|)[0m
+[14:45] [0m          ----| /--TNS--\ |----[0m
+[14:45] [0m        /--\| |/  \ | /  \| |/--\[0m
+[14:45] [0m    ___/\  || ||  /---\  || ||  /\___[0m
+[14:45] [0m   /\\__/\-/|_|\--|\_/|--/|_|\-/\__//\[0m
+[14:45] [0m   | /         0=\o---o/=0         \ |[0m
+[14:45] [0m   |-|            \o_o/            |-|[0m
+[14:45] [0m   (=)           |=====|           (=)[0m
+[14:45] [0m   |-|       _ __ |---| __ _       |-|[0m
+[14:45] [0m  /---\    /| |||=======||| |\    /---\[0m
+[14:45] [0m  |<0>|    || |||=======||| ||    |<0>|[0m
+[14:45] [0m  \---/    \|_|--       --|_|/    \---/[0m
+[14:45] [0m   |o|      ||             ||      |o|[0m
+[14:45] [0m           /||             ||\[0m
+[14:45] [0m         /--||\           /||--\[0m
+[14:45] [0m         |====|           |====|[0m
+[14:45] [0m         \_||_/           \_||_/[0m
+[14:45] [0m          /||\             /||\[0m
+[14:45] [0m          ||||             ||||[0m
+[14:45] [0m         //--\\           //--\\[0m
+[14:45] [0m         ||  ||           ||  ||[0m
+[14:45] [0m         ||  ||           ||  ||[0m
+[14:45] [0m         \|  |/           \|  |/[0m
+[14:45] [0m         /\__/\           /\__/\[0m
+[14:45] [0m      __ /====\ __     __ /====\ __[0m
+[14:45] [0m     /_/==|__|==\_\   /_/==|__|==\_\[0m
+[14:46] [0m[35;1mHyuga [Jedi(92)]:[0m i think that seems to be the general consensus[0m
+[14:46] [0m[34;1mHex shouts:[0m mmm spammy[0m
+[14:46] [0m[34;1mNik shouts:[0m deploying AMS![0m
+[14:46] [0m[34;1mHex shouts:[0m I'll take some green eggs with that order please.[0m
+[14:47] [0m[35;1mSimonz [Jedi(67)]:[0m uh oh[0m
+[14:47] [0m[35;1mSimple [Jedi(49)]:[0m pretty much[0m
+[14:47] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m Well, I'm glad.[0m
+[14:47] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m You have Mugen to thank for me being here.[0m
+[14:47] [0m[35;1mSimonz [Jedi(67)]:[0m ?[0m
+[14:47] [0m[35;1mChaed [Jedi(AGM)]:[0m mcom hah, he's not on this channel yet Saim[0m
+[14:47] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m So make sure to thank him, lots :)[0m
+[14:47] [0m[35;1mHyuga [Jedi(92)]:[0m well as long as it isn't my fault[0m
+[14:48] [0m[35;1mChaed [Jedi(AGM)]:[0m w/l[0m
+[14:52] [0m[34;1mRoken shouts:[0m Spiced Ham nom nom[0m
+[14:52] [0m[35;1mSimonz [Jedi(67)]:[0m so, how's it going Turnhold?[0m
+[14:52] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m deciding on what to nerf first.[0m
+[14:53] [0m[35;1mSimonz [Jedi(67)]:[0m ....[0m
+[14:53] [0m[35;1mSimonz [Jedi(67)]:[0m force sight, way too bs[0m
+[14:53] [0m[35;1mChaed [Jedi(AGM)]:[0m is there any guild you're not in, Mugen? I do like the[0m
+[14:53] [0m                   status quo ;)[0m
+[14:53] [0m[35;1mMugen [Jedi(Knight)]:[0m god forbid anyone but bards and necros enioy this game[0m
+[14:53] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m rofl[0m
+[14:53] [0m[35;1mMugen [Jedi(Knight)]:[0m bards and necros...[0m
+[14:53] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m im actually just here to troll chaed[0m
+[14:53] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m and Mugen.[0m
+[14:54] [0m[35;1mMugen [Jedi(Knight)]:[0m i have a knight, waiting for that kiki upgrade![0m
+[14:54] [0m[35;1mMugen [Jedi(Knight)]:[0m been in testing for 2 years[0m
+[14:54] [0m[35;1mSimonz [Jedi(67)]:[0m darn, I was hoping you were bringing back deflect mode[0m
+[14:54] [0m                   for lightstaff[0m
+[14:54] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m it's being worked on[0m
+[14:54] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m that i know.[0m
+[14:54] [0m[35;1mMugen [Jedi(Knight)]:[0m nixe[0m
+[14:54] [0m[35;1mMugen [Jedi(Knight)]:[0m its a much loved but old guild[0m
+[14:55] [0m[35;1mMugen [Jedi(Knight)]:[0m jousts rock[0m
+[14:55] [0m[35;1mMugen [Jedi(Knight)]:[0m jedi duels! like knight joust. lets do it![0m
+[14:55] [0m[35;1mTurnhold [Jedi(Wiz)]:[0m Okay, Chaed didn't see the need for me to do anything[0m
+[14:55] [0m                      here, so I'm off.[0m
+[14:55] [0m[35;1mMugen [Jedi(Knight)]:[0m but set it for attack patterns[0m
+[14:56] [0m[35;1mMugen [Jedi(Knight)]:[0m both go left. its a block. etc. make it rock paper[0m
+[14:56] [0m                      acissor like[0m
+[14:56] [0m[35;1mMugen [Jedi(Knight)]:[0m nooooo code duels![0m
+[14:57] [0m[34;1mCrolack shouts:[0m The Spiced Ham must flow. Fremham.[0m
+[15:02] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[15:17] [0mYou can currently reforge 12 items.[0m
+[15:29] [0m[35;1mHyuga [Jedi(92)]:[0m i want to be on mcom :([0m
+[15:30] [0m[35;1mKortor [Jedi(65)]:[0m somedays  I miss kcom[0m
+[15:31] [0m[35;1mHyuga [Jedi(92)]:[0m in fremen ctp was the only line that mattered[0m
+[15:31] [0m[35;1mBurnaby [Jedi(60)]:[0m true[0m
+[15:31] [0m[35;1mHyuga [Jedi(92)]:[0m that was when you actually learned info about the gobj[0m
+[15:32] [0m[35;1mHyuga [Jedi(92)]:[0m oh, you aren't a newbie anymore? ok i GUESS we can tell[0m
+[15:32] [0m                  you stuff now[0m
+[15:36] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[15:42] [0mSharn flaps : would it be possible to get some help getting out of this[0m
+[15:42] [0m              mushroom area?[0m
+[15:42] [0mSharn flaps : ladder frizzle.[0m
+[15:44] [0mHex flaps : I think you clap at the ladder or something[0m
+[15:44] [0mSharn flaps : that was it, thanks![0m
+[15:44] [0mHex flaps : no problemo[0m
+[16:01] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[16:08] [0m[34;1mJoao shouts:[0m thanks[0m
+[16:31] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[17:02] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[17:02] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[17:02] [0m                          get ready![0m
+[17:03] [0m[35;1mWhisper [Jedi(29)]:[0m any reason why lightsaber/dagger/staff wouldnt always[0m
+[17:03] [0m                    show in gs?[0m
+[17:07] [0m[35;1mKortor [Jedi(65)]:[0m in shortform it only displays the active one, i think the[0m
+[17:07] [0m                   thought was to cut down on confusion[0m
+[17:07] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[17:10] [0m[35;1mWhisper [Jedi(29)]:[0m i blame everything but me[0m
+[17:10] [0m[35;1mWhisper [Jedi(29)]:[0m yeah i only use focus guild stats /long[0m
+[17:12] [0m[35;1mWhisper [Jedi(30)]:[0m anyone have a minute to train me please.[0m
+[17:14] [0m[34;1mLeto shouts:[0m after a good workout, I like the healthy gains and body[0m
+[17:14] [0m             replenishment I get from a healthy handful of ... Skittles.[0m
+[17:14] [0m             Grade A Skittles.[0m
+[17:15] [0m[35;1mWhisper [Jedi(30)]:[0m yewww hewww bottikins[0m
+[17:18] [0m[35;1mHyuga [Jedi(92)]:[0m sup nerd you need learnin?[0m
+[17:19] [0m[35;1mHyuga [Jedi(92)]:[0m cuz i am omw to town[0m
+[17:19] [0m[34;1mLeto shouts:[0m dirty sneaky snake[0m
+[17:19] [0m[34;1mDin shouts:[0m in soviet 3k, new york escapes from you[0m
+[17:20] [0m[34;1mLeto shouts:[0m 3kstan[0m
+[17:21] [0m[34;1mKitt shouts:[0m They are looking to Impeach the Don[0m
+[17:21] [0m[34;1mSaim shouts:[0m Don Flamingo is goin down - just need to alternate the hits[0m
+[17:22] [0m[34;1mMud shouts:[0m flamenco, but close enough :P  always thought he ate the rose[0m
+[17:22] [0m            before the match[0m
+[17:33] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[19:19] You can currently reforge 12 items.[0m
+[19:20] [0m[32;1mFrom afar, Simonz bows before you.[0m[0m
+[19:20] [0m[32mSimonz tells you:[0m you were right, I'm clearing almost 130m in the event[0m
+[19:22] [0mYou can currently reforge 12 items.[0m
+[19:29] [0m[35;1mSaim [Jedi(Elder)]:[0m this place is packed[0m
+[19:30] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Go hide in a dungeon.  Problem solved.[0m
+[19:31] [0m[35;1mSaim [Jedi(Elder)]:[0m its rude to call your mom's basement a "dungeon"[0m
+[19:32] [0m[35;1mLicklick [Jedi(39)]:[0m dang i wasted 200000 vcash on a lightstaff[0m
+[19:32] [0m[35;1mSimonz [Jedi(67)]:[0m wasted nothing[0m
+[19:32] [0m[35;1mSimonz [Jedi(67)]:[0m now you have a backup[0m
+[19:32] [0m[35;1mSaim [Jedi(Elder)]:[0m adalius gives refunds, but you have to text him[0m
+[19:33] [0m[35;1mLicklick [Jedi(39)]:[0m ill stick with saber for now but id rather not[0m
+[19:33] [0m[35;1mLicklick [Jedi(39)]:[0m too simple[0m
+[19:33] [0m[35;1mSaim [Jedi(Elder)]:[0m most people end up buying all 3 weapons, so dont worry[0m
+[19:33] [0m[35;1mHyuga [Jedi(92)]:[0m simple is probably better for you[0m
+[19:33] [0m[35;1mLicklick [Jedi(39)]:[0m i know im a simple boi[0m
+[19:34] [0m[35;1mLicklick [Jedi(39)]:[0m look at my name[0m
+[19:34] [0m[35;1mSimple [Jedi(49)]:[0m no i am Simple[0m
+[19:34] [0m[35;1mUkyo [Jedi(Knight)]:[0m in a few glvls, it'll be more than useful. you'll be[0m
+[19:34] [0m                     getting to a point where concentration/force issues[0m
+[19:34] [0m                     with high mastery levels will crop up and having a[0m
+[19:34] [0m                     lower trained weapon is actually a good thing, rather[0m
+[19:34] [0m                     than having to switch to normal mid way through the[0m
+[19:34] [0m                     fight.[0m
+[19:35] [0m[35;1mGilgalal [Jedi(68)]:[0m some mobs get angry if you hit them too hard as well[0m
+[19:35] [0m[35;1mLicklick [Jedi(39)]:[0m ive noticed when mastery 4 saber wont let me go more[0m
+[19:35] [0m                     than 400 rounds[0m
+[19:36] [0m[35;1mUkyo [Jedi(Knight)]:[0m speaking of which, i should really just donate that[0m
+[19:36] [0m                     full set i've collected. it's just going to rot in a[0m
+[19:36] [0m                     house box. . .[0m
+[19:36] [0m[35;1mLicklick [Jedi(39)]:[0m shoot i forget to donate my stuff[0m
+[19:36] [0m[35;1mSimple [Jedi(49)]:[0m what full set[0m
+[19:36] [0m[35;1mUkyo [Jedi(Knight)]:[0m full set of pedal gear[0m
+[19:37] [0m[35;1mSimple [Jedi(49)]:[0m nice[0m
+[19:37] [0m[35;1mHyuga [Jedi(92)]:[0m pede gear doesn't rot[0m
+[19:37] [0m[35;1mUkyo [Jedi(Knight)]:[0m plus a few extras.[0m
+[19:37] [0m[35;1mUkyo [Jedi(Knight)]:[0m hm. 'gather dust', in that case[0m
+[19:38] [0m[35;1mHyuga [Jedi(92)]:[0m that would be appropriate in the case of the gloves[0m
+[19:48] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[19:53] [0m[35;1mUkyo [Jedi(Knight)]:[0m bunch of pedal gear in box, if anybody's interested.[0m
+[19:53] [0m                     good mind/energy/radiation ac, depending on the piece.[0m
+[19:53] [0m                     good for filling slots[0m
+[19:56] [0m[34;1mTuba shouts:[0m Choose![0m
+[19:56] [0m[34;1mDin shouts:[0m woot[0m
+[19:56] [0m[34;1mNik shouts:[0m playchoose, free cult[0m
+[19:56] [0m[34;1mBahram shouts:[0m wooo![0m
+[19:56] [0mMud flaps : +3 max per stat?[0m
+[19:57] [0mSimonz flaps : looks like, depends on which wiz does it I think[0m
+[19:57] [0mThom flaps : bah i look away for a couple minutes. xd[0m
+[19:57] [0m[34;1mUkyo shouts:[0m Best botcheck there is.[0m
+[19:57] [0m[34;1mSharn shouts:[0m cheers, Too bad I couldn't get all :([0m
+[19:58] [0mSharn flaps : is that permanent?[0m
+[19:58] [0mSimonz flaps : 'stats'[0m
+[19:58] [0mThom flaps : it lasts for stats "indenfinite" means till boot[0m
+[19:58] [0mUkyo flaps : 3 is always max, iirc. it'll last until end of boot.[0m
+[19:58] [0mThom flaps : what was not the order i thought i typed that in[0m
+[19:59] [0mUkyo flaps : 3 in 3, and 2 in a final, or 11 total, i think[0m
+[20:01] [0m[35;1mUkyo [Jedi(Knight)]:[0m ok, back to bed with me.[0m
+[20:07] [0m[35;1mLicklick [Jedi(39)]:[0m The first sign of maturity is the discovery that the[0m
+[20:07] [0m                     volume knob also turns to the left.[0m
+[20:07] [0m[35;1mSimonz [Jedi(67)]:[0m RAGEQUIT[0m
+[20:19] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[20:21] [0m[33;1m[Clan] Ipsie :[0m anyone remember command to toggle login gear off ?[0m
+[20:21] [0m[33;1m[Clan] Nik :[0m gearup[0m
+[20:22] [0mnewb Thom [bard/76]: its knights that can fix magical weapons that are[0m
+[20:22] [0m                     broken yes? or can they only do with partially repaired[0m
+[20:22] [0m                     ones?[0m
+[20:22] [0m[33;1m[Clan] Nik :[0m err gearup off?[0m
+[20:22] [0m[33;1m[Clan] Ipsie :[0m gearup toggle, thank you :)[0m
+[20:22] [0m[33;1m[Clan] Nik :[0m laff ahh[0m
+[20:22] [0mnewb Kitt [priest/132]: no[0m
+[20:23] [0mnewb Kitt [priest/132]: if its not broken, knights can fix it[0m
+[20:25] [0mnewb Thom [bard/76]: bugger welp xd no more spork for me then for now.[0m
+[20:25] [0m                     thanks[0m
+[20:27] [0m[35;1mSimple [Jedi(49)]:[0m depends on what weapon is[0m
+[20:28] [0m[35;1mSimple [Jedi(49)]:[0m w/l[0m
+[20:28] [0mnewb Simple [jedi/105]: depends on what weapon is[0m
+[20:38] [0m[35;1mLicklick [Jedi(39)]:[0m dagger mastery was fast for flurry and i miss that[0m
+[20:39] [0m[35;1mInquisitor [Jedi(Knight)]:[0m As I understand it, dagger/flurry mastery goes up[0m
+[20:39] [0m                           faster because of the number of attacks.  By[0m
+[20:39] [0m                           default it's already +1 over anything else.[0m
+[20:41] [0m[35;1mSimonz [Jedi(67)]:[0m but you're also not hitting for much[0m
+[20:42] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Truth.[0m
+[20:42] [0m[35;1mLicklick [Jedi(39)]:[0m and[0m
+[20:44] [0m[35;1mInquisitor [Jedi(Knight)]:[0m And if you don't hit for much, stuff doesn't die,[0m
+[20:44] [0m                           and you don't get any xp.[0m
+[20:44] [0m[35;1mKortor [Jedi(65)]:[0m all the gxps[0m
+[20:45] [0m[35;1mSimonz [Jedi(67)]:[0m or you can master staff and see XP Gain for the last 30[0m
+[20:45] [0m                   minutes: 130,175,461[0m
+[20:45] [0m[35;1mSimonz [Jedi(67)]:[0m and I'm not even close to what mugen or hyuga pull[0m
+[20:45] [0m[35;1mLicklick [Jedi(39)]:[0m i might be down to lvl 58 but at least i get to keep my[0m
+[20:45] [0m                     armor over boots[0m
+[20:45] [0m[35;1mInquisitor [Jedi(Knight)]:[0m I don't follow.[0m
+[20:45] [0m[35;1mInquisitor [Jedi(Knight)]:[0m What do you mean you keep your armor over[0m
+[20:45] [0m                           reboots?[0m
+[20:45] [0m[35;1mSimonz [Jedi(67)]:[0m yeah, doesn't really matter.  most people can just get[0m
+[20:45] [0m                   their own armour[0m
+[20:46] [0m[35;1mSimonz [Jedi(67)]:[0m if you're under level 60 your armour stays with you over[0m
+[20:46] [0m                   boots[0m
+[20:47] [0m[35;1mLicklick [Jedi(39)]:[0m yeah i did have my own but ukyo hit me up and now i[0m
+[20:47] [0m                     dont have to worry for a bit[0m
+[20:47] [0m[35;1mLicklick [Jedi(39)]:[0m Resistances:   High  High    60   100    40    80   Low[0m
+[20:47] [0m                     80    40   Low[0m
+[20:48] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Oh yeah.[0m
+[20:48] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Forgot about that.[0m
+[20:49] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[20:49] [0m[35;1mHyuga [Jedi(92)]:[0m licklick is afraid of being bs. thats why he went sith and[0m
+[20:49] [0m                  wants to go teepo[0m
+[20:50] [0m[35;1mInquisitor [Jedi(Knight)]:[0m I thought he was going Shimura?[0m
+[20:50] [0m[35;1mKortor [Jedi(65)]:[0m indeed, true power is in freezing the winds[0m
+[20:50] [0m[35;1mHyuga [Jedi(92)]:[0m if it was break winds maybe[0m
+[20:53] [0m[35;1mHyuga [Jedi(92)]:[0m anyone have a round or broken orange holocron fragment? :)[0m
+[20:53] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Licklick, you'll be okay.  Maybe.  Even Zartan[0m
+[20:53] [0m                           kind of came around after about 10 years.[0m
+[20:54] [0m[35;1mSimonz [Jedi(67)]:[0m round and broken in[0m
+[20:54] [0m[35;1mSimonz [Jedi(67)]:[0m I just dumped 85 lol[0m
+[20:55] [0m[35;1mSimonz [Jedi(67)]:[0m doesn't look like they were mine though[0m
+[20:57] [0m[35;1mHyuga [Jedi(92)]:[0m sweeeet[0m
+[20:58] [0m[35;1mSimonz [Jedi(67)]:[0m now you just need reena to beat it and herah to show up[0m
+[20:59] [0m[35;1mHyuga [Jedi(92)]:[0m ya like last boot haha[0m
+[21:02] [0m[35;1mHyuga [Jedi(92)]:[0m You begin the painstaking working of assembling the[0m
+[21:02] [0m                  holocron![0m
+[21:02] [0m[35;1mKortor [Jedi(65)]:[0m whuut[0m
+[21:03] [0m[35;1mHyuga [Jedi(92)]:[0m yay medical droid finally[0m
+[21:04] [0m[35;1mSimonz [Jedi(67)]:[0m come on herah[0m
+[21:04] [0mScadar flaps : Nice soup you have there. Thanks, I call it bath water.[0m
+[21:06] [0mYou can currently reforge 12 items.[0m
+[21:07] [0mnewb Sharn [monk/40]: how does identify work? I have used the identify[0m
+[21:07] [0m                      service from the gypsy but it only said done, I don't[0m
+[21:07] [0m                      see a difference though.[0m
+[21:08] [0mnewb Simonz [jedi/127]: if you had anything that was unidentified it would[0m
+[21:08] [0m                        have listed what it actually was in the output from[0m
+[21:08] [0m                        the gypsy[0m
+[21:08] [0mHex flaps : the gypsy will tell you what item(s) she id'd[0m
+[21:08] [0mnewb Stasis [elemental/133]: did she say 'none of your items habour any[0m
+[21:08] [0m                             secrets'? or similar?[0m
+[21:10] [0mnewb Sharn [monk/40]: oh never mind, sounds like the identification gives[0m
+[21:10] [0m                      more details to the name of the item?[0m
+[21:10] [0mnewb Stasis [elemental/133]: i do 'identify all' in the room[0m
+[21:11] [0mnewb Stasis [elemental/133]: ids magical rings, and wands and various items[0m
+[21:11] [0m                             from around the realms[0m
+[21:12] [0mnewb Stasis [elemental/133]: item should something something about needing[0m
+[21:12] [0m                             an identify to reveal more in the description[0m
+[21:12] [0mnewb Simonz [jedi/127]: always a good idea to id rings you find before you[0m
+[21:12] [0m                        put them on so you don't get a cursed ring that you[0m
+[21:12] [0m                        can't take off[0m
+[21:12] [0mnewb Sharn [monk/40]: aha, thanks. I was used to the traditional identify on[0m
+[21:12] [0m                      other muds, giving numbers and such :P[0m
+[21:14] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[21:14] [0m[35;1mHyuga [Jedi(92)]:[0m sweet[0m
+[21:14] [0m[35;1mHyuga [Jedi(92)]:[0m lol[0m
+[21:15] [0m[35;1mHyuga [Jedi(92)]:[0m amazing timing[0m
+[21:15] [0m[35;1mSimonz [Jedi(67)]:[0m hahhaa, sweet![0m
+[21:15] [0m[35;1mHyuga [Jedi(92)]:[0m doh still need 1 more glvl i think[0m
+[21:16] [0m[35;1mSimonz [Jedi(67)]:[0m yup[0m
+[21:16] [0m[35;1mHyuga [Jedi(92)]:[0m luckily i am 82.669%[0m
+[21:16] [0m[35;1mSimonz [Jedi(67)]:[0m noice[0m
+[21:16] [0m[35;1mHyuga [Jedi(92)]:[0m i am at 31/31/30[0m
+[21:16] [0m[35;1mSimonz [Jedi(67)]:[0m yeah, I was doing the math on that skill the other day,[0m
+[21:16] [0m                   gl 93 to master it[0m
+[21:16] [0m[35;1mHyuga [Jedi(92)]:[0m nod[0m
+[21:16] [0m[35;1mHyuga [Jedi(92)]:[0m you are correct sir![0m
+[21:16] [0m[35;1mSimonz [Jedi(67)]:[0m too bad the averaging doesn't round up[0m
+[21:16] [0m[35;1mHyuga [Jedi(92)]:[0m i am terrible at thr maths[0m
+[21:17] [0m[35;1mHyuga [Jedi(92)]:[0m so i just try it and see heh[0m
+[21:17] [0m[35;1mSimonz [Jedi(67)]:[0m heh, that's what I've always done up to this point[0m
+[21:19] [0m[35;1mHyuga [Jedi(92)]:[0m The shadow of Licklick flashes in your mind! It appears to[0m
+[21:19] [0m                  be in the shadow of a dark underground passage.[0m
+[21:19] [0m[35;1mSimonz [Jedi(67)]:[0m must be doing zell[0m
+[21:20] [0mnewb Thom [bard/76]: numbers on items? what madness do you speak of? :P[0m
+[21:20] [0mnewb Stasis [elemental/133]: 'vaf showac'![0m
+[21:22] [0m[35;1mHyuga [Jedi(92)]:[0m tonight is going to be a good night[0m
+[21:23] [0m[34;1mSimonz shouts:[0m whoknows how big that croc was?[0m
+[21:23] [0m[34;1mHighjinx shouts:[0m It was uuuuuuugE![0m
+[21:23] [0m[34;1mScadar shouts:[0m That's what she said.[0m
+[21:23] [0mSharn <Craft>: damn looking at the donation box is spammy :([0m
+[21:24] [0mSimonz <Craft>: yes indeed[0m
+[21:24] [0mSharn <Craft>: would have been great if it could group same quality items[0m
+[21:24] [0m               together.[0m
+[21:24] [0mSimonz <Craft>: where's the fun in that?[0m
+[21:25] [0mSharn <Craft>: well, sacrifices have to be made for great things.[0m
+[21:26] [0m[34;1mHex shouts:[0m yuuuuge croc of whoknowswhat[0m
+[21:32] [0mYou can currently reforge 12 items.[0m
+[21:32] [0mYou can currently reforge 0 items.[0m
+[21:35] [0m[35;1mLicklick [Jedi(39)]:[0m i could honestly go through zelligars all day[0m
+[21:40] [0m[34;1mLeto shouts:[0m hello, friiiiieeeendssss 8D[0m
+[21:41] [0m[34;1mLeto shouts:[0m overly attached mudder[0m
+[21:45] [0m[35;1mSimonz [Jedi(67)]:[0m hey molideus[0m
+[21:45] [0m[35;1mMolideus [Jedi(53)]:[0m hi Simonz[0m
+[21:46] [0m[35;1mLicklick [Jedi(39)]:[0m hi fellow peoples[0m
+[21:48] [0m[35;1mLicklick [Jedi(39)]:[0m why should dsp effect saber combat?[0m
+[21:48] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[21:50] [0m[35;1mSimonz [Jedi(67)]:[0m jedi with dark side points, you're conflicted and can't[0m
+[21:50] [0m                   focus on the force so well?[0m
+[21:50] [0m[34;1mNik shouts:[0m the cake is a fake, playcult![0m
+[21:51] [0m[35;1mLicklick [Jedi(39)]:[0m well sidious was god like with a saber and he was full[0m
+[21:51] [0m                     of dsp[0m
+[21:52] [0m[35;1mSimonz [Jedi(67)]:[0m but he was committed to the dark side, you're still a[0m
+[21:52] [0m                   jedi[0m
+[21:52] [0m[35;1mLicklick [Jedi(39)]:[0m my character was as a dark sider[0m
+[21:53] [0m[35;1mSimonz [Jedi(67)]:[0m shrug[0m
+[21:53] [0m[35;1mSimonz [Jedi(67)]:[0m what do you get when you cross an elephant and a[0m
+[21:53] [0m                   rhinocerous?[0m
+[21:53] [0m[35;1mLicklick [Jedi(39)]:[0m a beariful sight[0m
+[21:53] [0m[35;1mSimonz [Jedi(67)]:[0m elephino[0m
+[21:54] [0mScadar flaps : We provide faster service, no matter how long it takes.[0m
+[21:55] [0m[35;1mLicklick [Jedi(39)]:[0m knock knock[0m
+[21:56] [0mLicklick flaps : knock knocj[0m
+[21:57] [0mLicklick flaps : knock knock[0m
+[21:57] [0mLeto flaps : who's there?[0m
+[21:57] [0mLicklick flaps : dwayne[0m
+[21:57] [0mLeto flaps : dwayne who?[0m
+[21:58] [0mLicklick flaps : Dwayne the bathtub, I?m dwowning[0m
+[22:01] [0mHex flaps : knock knock[0m
+[22:02] [0mLicklick flaps : whos there[0m
+[22:02] [0mDisruptor flaps : LANDSHARK![0m
+[22:02] [0mHex flaps : Shadda[0m
+[22:02] [0mAl flaps : didn't you see the no soliciting sign on the door![0m
+[22:02] [0mAl flaps : 'werenot soliticing, we're here for jesus'[0m
+[22:02] [0mLicklick flaps : hex say the joke[0m
+[22:03] [0mHex flaps : Shadda up with the bad jokes.[0m
+[22:03] [0mAl flaps : 'religious soliciting is soliciting nonetheless.  please dont[0m
+[22:03] [0m           have me call building management or the police.  have a great[0m
+[22:03] [0m           day!'[0m
+[22:03] [0mLicklick flaps : knock knock[0m
+[22:04] [0mHex flaps : <opens kennel crates and dog door> "Smithers, release the[0m
+[22:04] [0m            hounds."[0m
+[22:04] [0mAl flaps : knock knock.  "Sir, your doorbell's busted"[0m
+[22:05] [0mHex flaps : <opens the door to the Bate's Motel office> Hello there, c'mon[0m
+[22:05] [0m            in, we have a room just for you.[0m
+[22:06] [0mYou can currently reforge 4 items.[0m
+[22:09] [0mHex flaps : opens the door and says "You know the nearest neighbor is 3[0m
+[22:09] [0m            miles away." then points to the sign on the door "Trespassers[0m
+[22:09] [0m            will be shot on sight"[0m
+[22:09] [0mLicklick flaps : heh heh heh heh lol[0m
+[22:10] [0mCrolack flaps : opens the door, gets on the floor, everyone walk the[0m
+[22:10] [0m                dinosaur[0m
+[22:11] [0mHex flaps : dinosaur, just like climate change, have never existed.  The[0m
+[22:11] [0m            bible taught me creationism. You can't argue against facts like[0m
+[22:11] [0m            that.[0m
+[22:12] [0mLicklick flaps : words spoken like a god[0m
+[22:12] [0mHex flaps : sorry I'm still high on 5pm news[0m
+[22:13] [0mLicklick flaps : dang 5pm[0m
+[22:14] [0mLicklick flaps : like an asian who eats dog, thats wrong[0m
+[22:16] [0mWhoknows flaps : huh? wut? what's wrong with eating dogs?[0m
+[22:17] [0m[35;1mLicklick [Jedi(39)]:[0m dogs are a mans best friend, so eating cat would[0m
+[22:17] [0m                     suffice[0m
+[22:17] [0mLicklick flaps : dogs are a mans best friend, so eating cat would suffice[0m
+[22:17] [0mZiphe flaps : I mean cows are just giant dogs in a way.[0m
+[22:17] [0mScadar flaps : Dogs are tastier though.[0m
+[22:18] [0mWhoknows flaps : indeed[0m
+[22:21] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[22:23] [0m[35;1mLicklick [Jedi(39)]:[0m i wonder if being a wizard actually requires coding[0m
+[22:23] [0m                     anymore[0m
+[22:24] [0m[32mSer tells you:[0m pulling 200mil/half in event[0m
+[22:25] [0m[32;1mFrom afar, Ser pants at you.[0m[0m
+[22:28] [0m[35;1mHyuga [Jedi(92)]:[0m can anyone pleS[0m
+[22:36] [0m[35;1mLicklick [Jedi(39)]:[0m please what?[0m
+[22:46] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[22:47] [0m[35;1mHyuga [Jedi(92)]:[0m did i type that?[0m
+[22:47] [0m[35;1mHyuga [Jedi(92)]:[0m oh right i remember[0m
+[22:48] [0m[35;1mHyuga [Jedi(92)]:[0m i was gunna ask someone to bring me gems[0m
+[22:48] [0m[35;1mLicklick [Jedi(39)]:[0m does dodge give gxp?[0m
+[22:52] [0m[35;1mLicklick [Jedi(39)]:[0m would that no answer be a yes[0m
+[22:56] [0m[35;1mLicklick [Jedi(39)]:[0m guess so[0m
+[22:59] [0m[35;1mLicklick [Jedi(39)]:[0m oh wait no no it doesnt gou guys lie[0m
+[23:01] [0m[35;1mHyuga [Jedi(92)]:[0m lol[0m
+[23:01] [0m[35;1mHyuga [Jedi(92)]:[0m no gxp from dodge[0m
+[23:08] [0m[35;1mLicklick [Jedi(39)]:[0m yeah its pretty gay[0m
+[23:12] [0m[35;1mLicklick [Jedi(39)]:[0m no way i turned on lightning and got .005 per round[0m
+[23:12] [0m                     instead of .001 per round[0m
+[23:13] [0m[35;1mLicklick [Jedi(39)]:[0m some rounds .002[0m
+[23:14] [0m[35;1mLicklick [Jedi(39)]:[0m shoot but knocked me down 30 rounds[0m
+[23:16] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[23:22] [0m[35;1mRoken [Jedi(63)]:[0m get your orange holocron? chipped orange deposited[0m
+[23:23] [0m[32mYou say: [0mskills                                                               [0m
+[23:23] [0;32mYlenic says: [0mI have mastered lightsaber combat, control pain, resist[0m
+[23:23] [0m             poison, magnify senses, absorb energy, distract, alter[0m
+[23:23] [0m             technology, displace matter, lightsaber alteration, battle[0m
+[23:23] [0m             meditation, robotics.                                        [0m
+[23:23] [0;32mYlenic says: [0mI have become adept at detoxify poison, melee combat, hand to[0m
+[23:23] [0m             hand combat, cloud mind.                                     [0m
+[23:23] [0;32mYlenic says: [0mAnd I have gained an understanding of accelerated healing,[0m
+[23:23] [0m             reduce injury, soul siphon, force, concentration, hibernation[0m
+[23:23] [0m             trance, meditation, dodge, lesser force shield, greater force[0m
+[23:23] [0m             shield, resist stun, enhance metabolism, launch item, inflict[0m
+[23:23] [0m             pain, injure-kill, telekinetic kill, life sense, sense force,[0m
+[23:23] [0m             telepathy, animal affinity, disturbing aura, misdirect,[0m
+[23:23] [0m             enrage, confusion, mindblock, telekinesis, drain crystals,[0m
+[23:23] [0m             dissipate energy, release force, force storm.                [0m
+[23:23] [0m[32mYlenic says: [0mI can teach you any of those if you wish.                     [0m
+[23:25] [0mYou can currently reforge 0 items.[0m
+[23:27] [0mLeianne flaps : anyone wants to do abyss dive? It just resets[0m
+[23:40] [0mYou can currently reforge 4 items.[0m
+[23:48] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[23:48] [0m[34;1mLeto shouts:[0m glorious![0m
+[23:53] [0m[34;1mAdalius shouts:[0m Ser & Voodoo pushed it to the limit 6 times each. The rest[0m
+[23:53] [0m                of you are scrubs.[0m
+[23:55] [0m[34;1mUkyo shouts:[0m What'd I miss?[0m
+[23:55] [0m[34;1mHyuga shouts:[0m WOO THANKS[0m
+[23:55] [0m[34;1mCrolack shouts:[0m I needed beer money.[0m
+[23:55] [0m[34;1mSer shouts:[0m nothing go back to sleep[0m
+[23:56] [0m[34;1mScadar shouts:[0m Echoall moose Crolack[0m
+[23:56] [0m[34;1mUkyo shouts:[0m blast, I just woke up. haven't even had my first cup of coffee.[0m
+[23:56] [0m[34;1mHyuga shouts:[0m guess its time to switch to ehiskey[0m

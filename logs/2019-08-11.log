@@ -1,0 +1,475 @@
+- = LOG STARTED [00:00] = -
+[00:01] [0m[32mVagrant tells you:[0m nog[0m
+[00:05] [0mSkyblade flaps : Anyone know how to find heaven?[0m
+[00:05] [0mHooligan flaps : accept jesus?[0m
+[00:06] [0mHooligan flaps : technically just have to believe and be baltizef[0m
+[00:24] [0mYou can currently reforge 12 items.[0m
+[00:26] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[00:40] [0m[34;1mFluffy shouts:[0m Don't fear the  _ _ _ _ _ _ ![0m
+[00:40] [0m[34;1mIon shouts:[0m spanish inquisition?[0m
+[00:40] [0m[34;1mSkyblade shouts:[0m noone expects...[0m
+[00:54] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[00:58] [0m[34;1mWik shouts:[0m o i know, reefer[0m
+[00:58] [0m[34;1mBoosh shouts:[0m dont fear the trump he will build a wall to get you[0m
+[01:04] [0m[Clan] Martyr : for bards?[0m
+[01:04] [0m[Clan] Martyr : i know garnet/gold/sapphire[0m
+[01:04] [0m[Clan] Martyr : maybe mud can fill im before that[0m
+[01:04] [0m[Clan] Martyr : and we can toss it in the wiki or something[0m
+[01:19] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[01:22] [0mnewb Skyblade [sorcerer/56]: Can you get a critical hit but its a miss?[0m
+[01:22] [0mnewb Raest [cyborg/134]: i can't see how that's logical, but not saying no[0m
+[01:23] [0mnewb Skyblade [sorcerer/56]: I get this message, **THWACK** You critically[0m
+[01:23] [0m                             hit White King![0m
+[01:23] [0mnewb Skyblade [sorcerer/56]: but the next message should be the actual spell[0m
+[01:23] [0m                             or melee hit damage msg right?[0m
+[01:26] [0mnewb Skyblade [sorcerer/56]: yeah, sometimes there's no damage msg. [0m
+[01:26] [0m                             compared to the times where there's a THWACK[0m
+[01:26] [0m                             and then a melee msg, or for spells, its "spell[0m
+[01:26] [0m                             is cast message" THWACK then "Spell damage[0m
+[01:26] [0m                             message" <- usually no gap between.[0m
+[01:28] [0mnewb Ash [priest/113]: I actually think you have to hit for it to crit[0m
+[01:29] [0mnewb Ash [priest/113]: but i'm only 98% certain[0m
+[01:32] [0mnewb Skyblade [sorcerer/56]: I think I figured it out, I was getting[0m
+[01:32] [0m                             critical hits, but the damage was so low, it[0m
+[01:32] [0m                             was getting cbriefed.[0m
+[01:32] [0mnewb Skyblade [sorcerer/56]: I was testing different weapons, and forgot to[0m
+[01:32] [0m                             wield.[0m
+[01:32] [0mnewb Skyblade [sorcerer/56]: so my fists were getting crits for cbriefable[0m
+[01:32] [0m                             damage.[0m
+[01:36] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[01:36] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[01:36] [0m                          get ready![0m
+[01:36] [0m[34;1mNightrider shouts:[0m last event of boot get ready[0m
+[01:36] [0m[34;1mSkyblade shouts:[0m aww man, I'm gonna miss it.[0m
+[01:36] [0m[34;1mFluffy shouts:[0m simmer down knigget![0m
+[01:41] [0m[34;1mNightrider shouts:[0m 5Mins Fluffy 5 Minutes[0m
+[01:46] [0mVagrant flaps : Fluffy and I going to 2 man day 6 cmc, swing by if you want[0m
+[01:46] [0m                to make it 3 man or 4 man. Fluffy wants to kill so what[0m
+[01:46] [0m                Fluffy wants, we DO.[0m
+[01:46] [0mFluffy flaps : never heard of it ...[0m
+[01:47] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[01:47] [0m[34;1mIon shouts:[0m event is mind dmg[0m
+[01:48] [0m[34;1mVagrant shouts:[0m down with events...[0m
+[01:48] [0m[34;1mFluffy shouts:[0m down with pants![0m
+[01:48] [0m[34;1mVagrant shouts:[0m make zombies great again.[0m
+[01:52] [0m[34;1mVagrant shouts:[0m LONG LIVE FLFFY... not FLUFFY[0m
+[02:18] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[06:34] [0mUkyo <C-Trade>: i need chaostone bars. legendary, if at all possible, does[0m
+[06:34] [0m                anybody have some?[0m
+[06:35] [0m [1mCurrent Reboot : #1807 [1 week 2 hours 25 minutes]                    [0m[0m
+[06:35] [0m [1mCurrent Time   : (US EDT) Sun Aug 11, 2019 06:34:59 am                [0m[0m
+[06:35] [0m [32;1mReboot Started : Sun Aug 4 06:21 am [0m[0m
+[06:35] [0m [36;1mCurrent Uptime : 1 week 13 minutes 49 seconds (98%)                   [0m[0m
+[06:35] [0m [31;1mReboot Ends    : Sun Aug 11 08:46 am[0m[0m
+[06:35] [0m [33;1mNext Reboot in : 2 hours 11 minutes 22 seconds                        [0m[0m
+[06:35] [0m     [33mAfter That : [1809] Thu Aug 22 06:18 am[0m[0m
+[06:35] [0m     [33mAfter That : [1810] Mon Aug 26 06:42 am[0m[0m
+[06:35] [0m[Clan] Roken leaves the game.  [0m
+[07:15] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[07:40] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[07:41] [0mKichi flaps : ive always enjoyed the fact that reboot is just called reboot,[0m
+[07:41] [0m              not some over-the-top fantastical thematic explanation for why[0m
+[07:41] [0m              the realms reset[0m
+[07:42] [0mKichi flaps : just like, we're not gonna beat around the but, screw you[0m
+[07:42] [0m              guys, you're getting reset whether you like it or not[0m
+[07:42] [0mKichi flaps : bush*[0m
+[07:49] [0mArmy shouts: Game reboot in 56 minutes 57 seconds [0m
+[07:51] [0m[34;1mNightrider shouts:[0m the world is ending!!![0m
+[08:03] [0mArmy shouts: Game reboot in 42 minutes 32 seconds [0m
+[08:07] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[08:14] [0mArmy shouts: Game reboot in 31 minutes 44 seconds [0m
+[08:22] [0mArmy shouts: Game reboot in 23 minutes 38 seconds [0m
+[08:23] [0m[32;1mFrom afar, Chidori shoos you out the door.[0m[0m
+[08:28] [0mArmy shouts: Game reboot in 17 minutes 33 seconds [0m
+[08:29] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Somewhere there was a list of what color holocron[0m
+[08:29] [0m                           does what and who teaches what for ancient[0m
+[08:29] [0m                           teachings.  Anybody remember where that list is?[0m
+[08:29] [0m[35;1mMugen [Jedi(Knight)]:[0m yes, on the board in the library, is the link[0m
+[08:29] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Library.  You mean I gotta read?!?[0m
+[08:29] [0m[35;1mMugen [Jedi(Knight)]:[0m yes[0m
+[08:29] [0m[35;1mChidori [Jedi(17)]:[0m yes[0m
+[08:29] [0m[35;1mWilly [Jedi(31)]:[0m think there is a link off jedi part of wiki?[0m
+[08:29] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Man, I went to public schools.  Reading is hards.[0m
+[08:30] [0m[35;1mInquisitor [Jedi(Knight)]:[0m I didn't see a link on the wiki, went there[0m
+[08:30] [0m                           first.[0m
+[08:30] [0m[35;1mMugen [Jedi(Knight)]:[0m yes, i would check the board, its 100% on there[0m
+[08:31] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Aye, it's on the board.[0m
+[08:33] [0mArmy shouts: Game reboot in 12 minutes 59 seconds [0m
+[08:35] [0m[35;1mAlstor [Jedi(Staff)]:[0m I shall be selling the Armory off shortly. Please[0m
+[08:35] [0m                      return any borrowed equipment promptly.[0m
+[08:36] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 352540 coins and[0m
+[08:36] [0m                      credited your accounts with your share of the[0m
+[08:36] [0m                      proceeds.[0m
+[08:36] [0mArmy shouts: Game reboot in 9 minutes 34 seconds [0m
+[08:37] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 90628 coins and[0m
+[08:37] [0m                      credited your accounts with your share of the[0m
+[08:37] [0m                      proceeds.[0m
+[08:38] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 234664 coins and[0m
+[08:38] [0m                      credited your accounts with your share of the[0m
+[08:38] [0m                      proceeds.[0m
+[08:39] [0mArmy shouts: Game reboot in 7 minutes [0m
+[08:40] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[08:40] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 56824 coins and[0m
+[08:40] [0m                      credited your accounts with your share of the[0m
+[08:40] [0m                      proceeds.[0m
+[08:41] [0mArmy shouts: Game reboot in 5 minutes 5 seconds [0m
+[08:41] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 61383 coins and[0m
+[08:41] [0m                      credited your accounts with your share of the[0m
+[08:41] [0m                      proceeds.[0m
+[08:42] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 447548 coins and[0m
+[08:42] [0m                      credited your accounts with your share of the[0m
+[08:42] [0m                      proceeds.[0m
+[08:42] [0m[35;1mMugen [Jedi(Knight)]:[0m woah[0m
+[08:42] [0m[35;1mMagneto [Jedi(63)]:[0m BS![0m
+[08:42] [0m[35;1mMagneto [Jedi(63)]:[0m Ferret screams at you "Get out of Wexsmuk that's MY[0m
+[08:42] [0m                    CITY!!"[0m
+[08:42] [0mArmy shouts: TELL ARMY if you want a free transport![0m
+[08:42] [0mArmy shouts: Game reboot in 3 minutes 38 seconds [0m
+[08:42] [0m[35;1mUkyo [Jedi(77)]:[0m wasn't me[0m
+[08:42] [0m[35;1mUkyo [Jedi(77)]:[0m blame requiem[0m
+[08:42] [0m[35;1mMugen [Jedi(Knight)]:[0m ukyo must of emptied his crafting stash[0m
+[08:43] [0m[35;1mRequiem [Jedi(75)]:[0m I'm an expensive date[0m
+[08:43] [0m[35;1mMugen [Jedi(Knight)]:[0m 'escort'[0m
+[08:43] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 41199 coins and[0m
+[08:43] [0m                      credited your accounts with your share of the[0m
+[08:43] [0m                      proceeds.[0m
+[08:43] [0m[35;1mUkyo [Jedi(77)]:[0m was hoping for more for chidori, but oh well.[0m
+[08:43] [0m[35;1mRequiem [Jedi(75)]:[0m I prefer 'companion'[0m
+[08:43] [0mArmy shouts: Game reboot in 2 minutes 33 seconds [0m
+[08:44] [0m[35;1mMugen [Jedi(Knight)]:[0m 'non for profit whoreganization'[0m
+[08:44] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 27528 coins and[0m
+[08:44] [0m                      credited your accounts with your share of the[0m
+[08:44] [0m                      proceeds.[0m
+[08:44] [0mArmy shouts: Game reboot in 1 minute 44 seconds [0m
+[08:45] [0mArmy shouts: Game reboot in 1 minute 8 seconds [0m
+[08:45] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 7876 coins and[0m
+[08:45] [0m                      credited your accounts with your share of the[0m
+[08:45] [0m                      proceeds.[0m
+[08:45] [0mArmy shouts: Game reboot in 41 seconds [0m
+[08:46] [0mArmy shouts: Game reboot in 20 seconds [0m
+[08:46] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 2 coins and[0m
+[08:46] [0m                      credited your accounts with your share of the[0m
+[08:46] [0m                      proceeds.[0m
+[08:46] [0mArmy shouts: Game reboot in 5 seconds [0m
+[08:47] [0m[35;1mAlstor [Jedi(Staff)]:[0m I sold the contents of the Armory for 2827 coins and[0m
+[08:47] [0m                      credited your accounts with your share of the[0m
+[08:47] [0m                      proceeds.[0m
+[08:47] [0mArmy shouts: The sweltering heat of this arid desert is making your head ache[0m
+[18:11] [Clan] Roken enters the game.  [0m
+[18:11] [0m[35;1mRoken [Jedi(55)]:[0m Hi folks![0m
+[18:24] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[18:30] [0m[32;1mFrom afar, Ser waves in your direction.[0m[0m
+[18:31] [0m[32mSer tells you:[0m re-re-reboot[0m
+[18:31] [0m[32;1mFrom afar, you wave in greeting to Ser.[0m[0m
+[18:31] [0m[32;1mFrom afar, you tell Ser: What are you going to do with two chicks?[0m[0m
+[18:32] [0m[32mSer tells you:[0m Women are like Voltron, the more you hook up the better it[0m
+[18:32] [0m        gets![0m
+[18:32] [0m[32;1mFrom afar, you tell Ser: Simmons, get the Warthog.[0m[0m
+[18:32] [0m[32mSer tells you:[0m You mean the Puma?[0m
+[18:37] [0m[32;1mFrom afar, Ser downspout auntie faraday tippy burnout buddhism[0m
+[18:45] [0m[35;1mRoken [Jedi(55)]:[0m doh[0m
+[18:46] [0m[Clan] Roken : <fff> how's everybody!?<fff>[0m
+[18:47] [0m[Clan] Ser : that's a client side color code[0m
+[18:48] [0m[Clan] Ser : you need to use escape codes if you're trying to do that[0m
+[18:48] [0m[Clan] Ser : and it's unneccessary[0m
+[18:48] [0m[Clan] Ser : just like one of the letters in that word[0m
+[18:49] [0m[Clan] Roken : @hiwhite Hi[0m
+[18:49] [0m[Clan] Roken : @hicyan Hi[0m
+[18:49] [0m[Clan] Ser : escape codes[0m
+[18:49] [0m[32mYou think to Ser . o O ([0m [36;1m hi [0m [32m)[0m[0m
+[18:49] [0mYou can currently reforge 12 items.[0m
+[18:50] [0m[Clan] Roken : @hiwhite Hi - @[0m
+[18:50] [0m[32mYou think to Ser . o O ([0m [36;1m  esp $1 [0mhicyan: $2- @ @ [32m)[0m[0m
+[18:51] [0m[32mSer tells you:[0m thats nice[0m
+[18:51] [0m[32mSer tells you:[0m that's a jedi thing not a mud thing[0m
+[18:51] [0m[Clan] Ser : [31m duh[0m
+[18:51] [0m[32mYou think to Ser . o O ([0m [36;1m wait there's an extra [0m in there.. but[0m
+[18:51] [0m           ya hwat's the excape code @ [32m)[0m[0m
+[18:52] [0m[32mSer tells you:[0m example, red is \u001b[31m[0m
+[18:54] [0m[34;1mVox shouts:[0m I need a bath!![0m
+[18:56] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[18:57] [0mNightrider flaps : so who is up for paul 2.0[0m
+[19:23] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[19:41] [0m[Clan] Mud : 15 spiders[0m
+[19:44] [0mYou can currently reforge 12 items.[0m
+[19:44] [0mYou can currently reforge 12 items.[0m
+[19:50] [0mYou can currently reforge 4 items.[0m
+[19:53] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[20:05] [0mYou can currently reforge 4 items.[0m
+[20:06] [0m[Clan] Sock : Hyperion posted on the forums about you Archi[0m
+[20:06] [0m[Clan] Sock : oh he's off[0m
+[20:07] [0m[Clan] Sock : and yah, Nix, the 3kwiki site is fucked atm[0m
+[20:08] [0m[Clan] Byron : Sock is our new wiki overlorx[0m
+[20:08] [0m[Clan] Sock : can't even load the main page[0m
+[20:08] [0m[Clan] Sock : hostile takeover until the wizzes get their finger in the pie[0m
+[20:09] [0m[Clan] Roken : just be a wiz already sock[0m
+[20:10] [0m[Clan] Sock : nah i'd lose most of my characters[0m
+[20:10] [0m[Clan] Sock : and/or have to start over[0m
+[20:10] [0m[Clan] Sock : plus i don't have any fresh ideas for the mud[0m
+[20:12] [0m[Clan] Roken : i want a superhero themed guild[0m
+[20:13] [0m[Clan] Roken : with similar complexity like jedi where you can be a[0m
+[20:13] [0m               superhero or supervilian[0m
+[20:13] [0m[Clan] Sock : hmm, superhero...  but there's only one superman, only one[0m
+[20:13] [0m              batman, etc[0m
+[20:14] [0m[Clan] Sock : lame idea, next[0m
+[20:15] [0m[Clan] Roken : well mutations can be fun.. like X-men or like in fallout[0m
+[20:18] [0m[35;1mTrisky [Jedi(43)]:[0m -44mil, ouch.[0m
+[20:18] [0m[Clan] Sock : have you tried breed?[0m
+[20:18] [0m[Clan] Sock : wink wink[0m
+[20:18] [0m[Clan] Roken : no[0m
+[20:18] [0m[Clan] Sock : also good luck[0m
+[20:19] [0m[Clan] Sock : the entrance quest is shit, but the riddles are fun for the[0m
+[20:19] [0m              skills[0m
+[20:19] [0m[Clan] Byron : can you pick those up immediately? aka gl 1 solve riddles get[0m
+[20:19] [0m               powers?[0m
+[20:20] [0m[Clan] Byron : or is there a guild/combat age component as well[0m
+[20:20] [0m[Clan] Roken : ok, i really want to be batman/green arrow. equip a bow and[0m
+[20:20] [0m               various gadgets and have deep knowledge of martial arts to[0m
+[20:20] [0m               wreck havoc[0m
+[20:23] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[20:23] [0m[Clan] Sock : each riddle unlocks the trainer for 1 skill[0m
+[20:24] [0m[Clan] Sock : so before you can even go fight stuff you have to go find all[0m
+[20:24] [0m              the masters[0m
+[20:25] [0m[Clan] Roken : ok and the skills?[0m
+[20:26] [0m[Clan] Roken : a tease if ya will[0m
+[20:26] [0m[Clan] Sock : obscure[0m
+[20:27] [0m[Clan] Sock : 15 total, none of them tell you exactly what they do[0m
+[20:29] [0m[32mSock tells you:[0m hey[0m
+[20:29] [0m[32mSock tells you:[0m check your resistances[0m
+[20:29] [0m[32mSock tells you:[0m what are they[0m
+[20:29] [0m[32mYou tell Ser:[0m 20    20   Low   Low   Low    20   Low   Low   Low    20[0m
+[20:29] [0m[32mSock tells you:[0m now what are they[0m
+[20:30] [0m[32mYou tell Ser:[0m 60    60    40    40    40    40    40    40    40    40[0m
+[20:30] [0m[32;1mFrom afar, Sock winks at you suggestively.[0m[0m
+[20:30] [0m[32mSock tells you:[0m you're welcome[0m
+[20:30] [0m[32mSock tells you:[0m also, do you have any eq?[0m
+[20:30] [0m[32mSock tells you:[0m you know where SS is?[0m
+[20:31] [0m[32;1mFrom afar, you thank Sock.[0m[0m
+[20:31] [0m[32;1mFrom afar, you spoil Sock silly.[0m[0m
+[20:31] [0m[32mSock tells you:[0m SS/Surreal Spirits[0m
+[20:31] [0m[32mYou tell Sock:[0m no eq[0m
+[20:31] [0m[32mSock tells you:[0m nothing?[0m
+[20:31] [0m[32mYou tell Sock:[0m just login stuck and thundering[0m
+[20:31] [0m[32;1mFrom afar, Sock nods to you.[0m[0m
+[20:31] [0m[32mYou tell Sock:[0m stuff i cant type[0m
+[20:33] [0m[32mSer tells you:[0m someone is camping pitch black but i'll snag some for you--[0m
+[20:33] [0m        there's a pitch black main in the clan box, but i dont think you[0m
+[20:33] [0m        have access.  running zelligar's now, so i'll be in here for[0m
+[20:33] [0m        awhile.[0m
+[20:34] [0m[32mYou tell Sock:[0m same running zell but just for fun. not a low scale for the[0m
+[20:34] [0m        man himself[0m
+[20:34] [0m[32mSer tells you:[0m i clear all the golems first[0m
+[20:34] [0m[32mSer tells you:[0m then kill zelligar for headband[0m
+[20:35] [0m[32mYou tell Sock:[0m he's 20M at scaler 85[0m
+[20:36] [0m[32mYou tell Sock:[0m im pussy[0m
+[20:37] [0m[32mSer tells you:[0m and he summons golems[0m
+[20:38] [0m[32mYou tell Sock:[0m i can peace the golems[0m
+[20:38] [0m[32mYou tell Sock:[0m but a 3M zell hit hard last i tried[0m
+[20:42] [0m[32;1mFrom afar, Ser nods to you.[0m[0m
+[20:42] [0m[32mSer tells you:[0m i'll run you one tomorrow if i get one tonight[0m
+[20:42] [0m[32mYou tell Ser:[0m can't keep up... are you playing sock and ser?[0m
+[20:43] [0m[32mSer tells you:[0m i run on sock to let my superpowers/reforges reset for the[0m
+[20:43] [0m        most part[0m
+[20:43] [0m[32mSer tells you:[0m then run on ser the rest of the time[0m
+[20:44] [0m[32mYou tell Ser:[0m too bad you can't bless yourself[0m
+[20:44] [0m[Clan] Nix : anyone active?[0m
+[20:44] [0m[Clan] Mud : yah[0m
+[20:44] [0m[Clan] Roken : ser and i[0m
+[20:44] [0m[Clan] Mud : just did couple conglomerations and was gonna go do dshell[0m
+[20:45] [0m[Clan] Byron : conglom drop?[0m
+[20:45] [0m[Clan] Nix : you guys see hyperion's post?[0m
+[20:46] [0m[Clan] Mud : main on one and greaves on the next.  got lucky.  hate when he[0m
+[20:46] [0m             doesnt drop any[0m
+[20:46] [0m[Clan] Ser : yah i saw[0m
+[20:46] [0m[32mYou tell Ser:[0m inet died[0m
+[20:46] [0m[32;1mFrom afar, Ser screams Doooohhhhhhhh!!! at you.[0m[0m
+[20:46] [0m[Clan] Nix : i don't really care if people camp rooms[0m
+[20:47] [0m[Clan] Nix : sure the huri situation drives me nuts, but whatever i do the[0m
+[20:47] [0m             same shit if i can get in there and idle on him[0m
+[20:48] [0m[Clan] Mud : i voted other[0m
+[20:51] [0mYou can currently reforge 4 items.[0m
+[20:53] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[20:57] [0m[34;1mBoosh shouts:[0m i type foul foul creatures and sky dies whoknew?[0m
+[21:02] [0m[Clan] Ser : i voted other and also replied.[0m
+[21:03] [0m[Clan] Xaryl : will have to read post after QoH[0m
+[21:14] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[21:16] [0m[Clan] Pol enters the game.  [0m
+[21:17] [0m[Clan] Xaryl : where is Hyperion's post at?[0m
+[21:21] [0m[34;1mRoken shouts:[0m how many play D&D here?[0m
+[21:22] [0m[34;1mInfectious shouts:[0m not i[0m
+[21:22] [0m[34;1mSquirrel shouts:[0m voodoo plays d&d in his pants.[0m
+[21:23] [0m[34;1mDin shouts:[0m i would but every group i try with around here is a bunch of[0m
+[21:23] [0m            edgelord min/maxers who don't want any rp at all[0m
+[21:26] [0m[Clan] Ser : under general[0m
+[21:34] [0m[Clan] Xaryl : that post is funny.....he left out the part where he was[0m
+[21:34] [0m               going to pull oput the spiders & attack right away[0m
+[21:34] [0m[Clan] Ser : of course[0m
+[21:34] [0m[Clan] Xaryl : and if archi toook the coon he would be mob stealing[0m
+[21:34] [0m[Clan] Ser : if you have that logged i would post it back[0m
+[21:35] [0m[Clan] Archangel : I don't log sayhist to my chat history.[0m
+[21:35] [0m[Clan] Archangel : Err chat monitor.[0m
+[21:36] [0m[35;1mPol [Jedi(Knight)]:[0m damn, Ukyo?[0m
+[21:36] [0m[35;1mPol [Jedi(Knight)]:[0m blast from the past[0m
+[21:37] [0m[35;1mUkyo [Jedi(77)]:[0m from phone[0m
+[21:37] [0m[35;1mPol [Jedi(Knight)]:[0m that counts[0m
+[21:44] [0m[Clan] Byron : anyone camping auro?[0m
+[21:44] [0m[Clan] Mud : i could go check. im working on scales and taking forever[0m
+[21:44] [0m[Clan] Nix : i don't i'll do dshell[0m
+[21:44] [0m[Clan] Xaryl : nod, I remember it being much easier to collect scales :([0m
+[21:44] [0m[Clan] Nix : i didn't last boot and didn't notice a difference[0m
+[21:45] [0m[Clan] Xaryl : 25 minutes earlier and got 3 :)[0m
+[21:45] [0m[Clan] Xaryl : :([0m
+[21:45] [0m[Clan] Byron : gore there[0m
+[21:45] [0m[Clan] Byron : guess ill go for conglom[0m
+[21:46] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[21:47] [0m[35;1mUkyo [Jedi(77)]:[0m came back a few months ago.  after a long hiatus.[0m
+[21:48] [0m[Clan] Nix : gore ld if you want to run there =P[0m
+[21:48] [0m[Clan] Nix : too late[0m
+[21:49] [0m[35;1mUkyo [Jedi(77)]:[0m gone so long i don't even know when they pulled me off of[0m
+[21:49] [0m                 master admin. life happens.[0m
+[21:49] [0m[Clan] Byron : hea refrahing im sure[0m
+[21:49] [0m[Clan] Byron : refreshing[0m
+[21:49] [0m[Clan] Byron : hes got like 9 bt all his chars[0m
+[21:50] [0m[35;1mUkyo [Jedi(77)]:[0m at least, i seem to have some recollection of bingeing[0m
+[21:50] [0m[35;1mUkyo [Jedi(77)]:[0m grr. tiny keyboard[0m
+[21:50] [0m[35;1mPol [Jedi(Knight)]:[0m you're one of the OG[0m
+[21:51] [0m[Clan] Byron : run some belochs?[0m
+[21:51] [0m[Clan] Nix : i will as soon as i'm done event, on ship now[0m
+[21:52] [0m[Clan] Pol : need hitters?[0m
+[21:52] [0m[35;1mUkyo [Jedi(77)]:[0m at least i seem to have some recollection of being a master[0m
+[21:52] [0m                 for a while before i was forced to stop logging in for a[0m
+[21:52] [0m                 while. laptop crashed on me and it was years before i could[0m
+[21:52] [0m                 afford to build a tower.[0m
+[21:52] [0m[Clan] Byron : perfect im running co glom[0m
+[21:53] [0m[Clan] Byron : if someone wants to pull[0m
+[21:53] [0mYou can currently reforge 8 items.[0m
+[21:53] [0m[35;1mUkyo [Jedi(77)]:[0m I'm not even sure if that was it.  all kind of hazy.[0m
+[21:54] [0m[Clan] Pol : just doing some tacos. let me know when i should be there[0m
+[21:54] [0m[Clan] Byron : damnit, empty[0m
+[21:55] [0m[Clan] Mud : yah, that shouldnt be a thing[0m
+[21:55] [0m[Clan] Mud : hassle killing/clearing it for nadda[0m
+[21:57] [0m[Clan] Byron : eh it seems to load a lot[0m
+[21:58] [0m[Clan] Pol : conglom or beloch?[0m
+[21:58] [0m[Clan] Byron : conglom[0m
+[21:59] [0m[Clan] Byron : auro is ready to pop i think[0m
+[21:59] [0m[Clan] Byron : got a diff message on the (faraifht check[0m
+[21:59] [0m[Clan] Xaryl : his room is a no-reset, right?[0m
+[21:59] [0m[Clan] Byron : (farsight[0m
+[21:59] [0m[Clan] Nix : well.. it's not a normal reset[0m
+[21:59] [0m[Clan] Byron : you can reset it[0m
+[22:00] [0m[Clan] Byron : its like 12-18 resets and he loads[0m
+[22:00] [0m[Clan] Xaryl : nod[0m
+[22:01] [0m[Clan] Byron : A Conglomeration of Energies has reset[0m
+[22:01] [0m[Clan] Byron : tagged conglom too.[0m
+[22:01] [0m[Clan] Byron : fuck empty[0m
+[22:02] [0m[Clan] Nix : im at ghoti[0m
+[22:03] [0m[Clan] Byron : BS[0m
+[22:03] [0m[Clan] Byron : brt[0m
+[22:08] [0m[Clan] Byron : A Conglomeration of Energies has reset[0m
+[22:08] [0m[Clan] Nix : again?[0m
+[22:08] [0m[Clan] Byron : wok nat[0m
+[22:08] [0m[Clan] Byron : noni left[0m
+[22:09] [0m[Clan] Byron : fucm yeah[0m
+[22:09] [0m[Clan] Byron : both pieces[0m
+[22:09] [0m[Clan] Byron : god damn im butchering this spanish keyboard tonight[0m
+[22:10] [0m[Clan] Nix : yea slightly[0m
+[22:14] [0m[Clan] Archangel : Doh![0m
+[22:14] [0m[Clan] Nix : And another one gone, and another one gone ... and another one[0m
+[22:14] [0m             bites the dust[0m
+[22:15] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[22:31] [0m[Clan] Xaryl : I think the bard needs to remove some EQ.....I am barely[0m
+[22:31] [0m               healing[0m
+[22:32] [0m[Clan] Pol : they don't know how to get hit[0m
+[22:32] [0m[Clan] Xaryl : I have a huri scroll also[0m
+[22:32] [0m[Clan] Nix : nimble on my toes[0m
+[22:33] [0m[Clan] Nix : if you want to use it go ahead[0m
+[22:33] [0mYou can currently reforge 8 items.[0m
+[22:36] [0mYou can currently reforge 8 items.[0m
+[22:44] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[22:44] [0m[Clan] Byron : we all out of refreshes? or can i get a donate for auro? gore[0m
+[22:44] [0m               ditched it[0m
+[22:46] [0m[Clan] Xaryl : I am all out, killing huri (maybe will have scroll)[0m
+[22:46] [0m[Clan] Byron : nog. its in his inv always[0m
+[22:46] [0m[Clan] Xaryl : had scroll[0m
+[22:50] [0m[Clan] Byron : woo[0m
+[22:50] [0m[Clan] Archimedes : What'd I miss?[0m
+[22:50] [0m[Clan] Byron : huri has scroll and gore abandoned auro camp[0m
+[22:50] [0m[Clan] Byron : and i picked up[0m
+[22:51] [0m[Clan] Archimedes : Nice![0m
+[22:51] [0m[Clan] Byron : maybe get something better and ill toss old one to someone[0m
+[22:51] [0m[Clan] Byron : Ser is the real winner w shard[0m
+[22:51] [0m[Clan] Xaryl : will run to Auro as soon as finished here[0m
+[22:52] [0m[Clan] Byron : no rush[0m
+[22:52] [0m[Clan] Byron : im not goin anywhere[0m
+[22:54] [0mYou can currently reforge 4 items.[0m
+[22:55] [0m[Clan] Xaryl : QoH here with 2 rings![0m
+[22:56] [0m[Clan] Archimedes : brt[0m
+[22:56] [0m[Clan] Pol : i want to hit[0m
+[22:56] [0m[Clan] Archimedes : You can tank if you want. ;)[0m
+[22:56] [0m[Clan] Archimedes : Probably tank better than I do.[0m
+[22:56] [0m[Clan] Pol : oh i'll die[0m
+[23:05] [0m[Clan] Byron : nix. did you grab the box w auro?[0m
+[23:05] [0m[Clan] Nix : i did noy[0m
+[23:06] [0m[Clan] Nix : why[0m
+[23:06] [0m[Clan] Byron : Gore thinks the room unloaded and timer reset[0m
+[23:06] [0m[Clan] Byron : I'm inclined to agree since requiem has nothing (even your[0m
+[23:06] [0m               kill) on it[0m
+[23:10] [0m[Clan] Byron : can you ftouch some gear xaryl?[0m
+[23:10] [0m[Clan] Xaryl : sure, you still there?[0m
+[23:11] [0m[Clan] Xaryl : let me know when in town, and I will run there[0m
+[23:11] [0m[Clan] Xaryl : just scale collecting[0m
+[23:12] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[23:13] [0m[Clan] Byron : SS?[0m
+[23:13] [0m[34;1mWhoknows shouts:[0m Run Away!!![0m
+[23:13] [0m[Clan] Xaryl : brt[0m
+[23:14] [0m[34;1mBoosh shouts:[0m never[0m
+[23:15] [0m[Clan] Xaryl : Byron takes panties.[0m
+[23:15] [0m[Clan] Xaryl : not on the 1st date![0m
+[23:15] [0m[Clan] Byron : my girls dont wear any[0m
+[23:16] [0m[Clan] Xaryl : anyone else want Ftouches?[0m
+[23:16] [0m[Clan] Byron : gonna pop martyr on to check sliding auro[0m
+[23:16] [0m[Clan] Byron : figure why not[0m
+[23:17] [0m[Clan] Byron leaves the game.  [0m
+[23:18] [0m[Clan] Martyr enters the game.  [0m
+[23:18] [0m[Clan] Martyr : someone fly me at auro?[0m
+[23:18] [0m[Clan] Martyr : fuck mob on me[0m
+[23:19] [0m[Clan] Martyr : Mud? Nix?[0m
+[23:21] [0m[Clan] Martyr : can you cast fly on others xaryl?[0m
+[23:21] [0m[Clan] Xaryl : no[0m
+[23:21] [0m[Clan] Xaryl : just me[0m
+[23:21] [0m[Clan] Martyr : grr fuck[0m
+[23:22] [0m[Clan] Archimedes : No ring of flying available?[0m
+[23:22] [0m[Clan] Martyr : nfi where tk find kne[0m
+[23:22] [0m[Clan] Archimedes : On island of Ao[0m
+[23:22] [0m[Clan] Archimedes : On the east side is a goblin named Zauberness(sp?) that[0m
+[23:22] [0m                    always has a ring of flying un-identified.[0m
+[23:22] [0m[Clan] Archimedes : 70k mob[0m
+[23:22] [0m[Clan] Archimedes : I think[0m
+[23:23] [0m[Clan] Archimedes : Small enough area that it won't be hard to find.[0m
+[23:23] [0m[Clan] Martyr : got ring of swimming[0m
+[23:24] [0m[Clan] Martyr : then im back xaryl[0m
+[23:24] [0m[Clan] Xaryl : nod[0m
+[23:24] [0m[Clan] Archimedes : Even when not identified, still gives you flying.  So[0m
+[23:24] [0m                    once you get it and wear it, you can overboard off the[0m
+[23:24] [0m                    ferry and get back to town instantly.[0m
+[23:24] [0m[Clan] Martyr : ah nice[0m
+[23:24] [0m[Clan] Xaryl : sorry! i turn off triggers when I fotuch[0m
+[23:25] [0m[Clan] Xaryl : any spells knocks me out of Ftouch[0m
+[23:25] [0m[Clan] Martyr leaves the game.  [0m
+[23:25] [0m[Clan] Martyr leaves the game.  [0m
+[23:25] [0m[Clan] Martyr leaves the game.  [0m
+[23:25] [0m[Clan] Byron enters the game.  [0m
+[23:27] [0m[Clan] Archimedes : Anyone need a spork?[0m
+[23:41] [0m[34;1mHyuga shouts:[0m hi i am vagrant and i can kill anything except zelligar[0m
+[23:49] [0m[Clan] Byron : hmm had 2 rohs dafuq they go[0m
+[23:49] [0m[34;1mVagrant shouts:[0m he's the hardest mob in the game![0m
+[23:49] [0m[34;1mCaboose shouts:[0m that's funny[0m
+[23:50] [0m[34;1mVagrant shouts:[0m I didn't die to zelligar though, it was first mob at[0m
+[23:50] [0m                entrance, they rough mang![0m
+[23:50] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[23:51] [0m[Clan] Xaryl : donates in[0m
+[23:53] [0m[Clan] Byron : ty[0m
+[23:55] [0mYou can currently reforge 8 items.[0m
+[23:58] [0m[Clan] Archimedes : Eep![0m
+[23:58] [0m[Clan] Xaryl : oops[0m
+[23:58] [0m[Clan] Xaryl : did not know bards could die?![0m

@@ -1,0 +1,8 @@
+#class {bard_alias} {kill}
+#class {bard_alias} {open}
+
+#alias {corpsetrig} {.bot}
+
+#alias {.cbot} {#act {dealt the killing blow to} {corpsetrig};}
+
+#class {bard_alias} {close}

@@ -1,0 +1,16 @@
+#class {highlight} {kill}
+#class {highlight} {open}
+
+#substitute {^-R-_} {}
+#highlight {Your lightsaber begins to flicker and the handle warms!} {blink bold b red}
+#highlight {Your lightstaff begins to flicker and the handle warms!} {blink bold b blue}
+#highlight {Your lightdaggers begins to flicker and the handle warms!} {blink bold b green}
+#highlight {^{You reach out with the Force and deflect}%*} {\e[38;2;255;255;20m}
+#NOP #highlight {^[JEDI]:%*} {underscore red}
+#highlight {^You need %1 experience to achieve your next level.$} {bold red}
+#highlight {^You have %1 to spend.$} {bold white}
+#highlight {^XP Gain for the last 30 minutes: %1$} {bold white}
+#highlight {^At this rate you level in %1} {bold white}
+#highlight {^A bolt of pure energy flies out of the sky striking} {bold cyan}
+
+#class {highlight} {close}

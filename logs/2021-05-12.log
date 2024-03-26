@@ -1,0 +1,786 @@
+- = LOG STARTED [00:00] = -
+[05:59] [0mYou can currently reforge 8 items.[0m
+[06:25] [0mYou can currently reforge 12 items.[0m
+[07:09] [0m[32;1mFrom afar, Metaljaz waves in your direction.[0m[0m
+[07:27] [0m[34;1mMerrick shouts:[0m booty booty booty booty, rockin everywhere![0m
+[07:28] [0m[34;1mNightrider shouts:[0m le moo?[0m
+[07:42] [0m[31;1m[Clan] Droptable :[0m anyone able to help me transfer a banner?[0m
+[07:43] [0m[31;1m[Clan] Oscar :[0m sure[0m
+[07:43] [0m[31;1m[Clan] Droptable :[0m these scaler 83 chess mobs dodging is nerfing my gxp :p[0m
+[07:43] [0m[31;1m[Clan] Oscar :[0m magic[0m
+[07:44] [0m[31;1m[Clan] Sonaten enters the game.[0m  [0m
+[07:47] [0m[31;1m[Clan] Decav enters the game.[0m  [0m
+[07:53] [0mnewb Luramal [Newbie]: hi all[0m
+[07:54] [0mnewb Luramal [Newbie]: is there a help file that shows the levels of[0m
+[07:54] [0m                       resistances? like in order from least to best?[0m
+[07:54] [0m[37;1mSquirrel flaps :[0m I has hackz you, all your base are belong to us[0m
+[07:55] [0mnewb Squirrel [mage/133]: not sure if it exists but try the 3kwiki.com[0m
+[07:55] [0mnewb Squirrel [mage/133]: but it goes by numbers then it's[0m
+[07:55] [0m                          high->buff->immune[0m
+[07:56] [0mnewb Luramal [Newbie]: ahh ok ty, was trying to figure out which was better,[0m
+[07:56] [0m                       high or buff[0m
+[07:57] [0mnewb Killergate [bard/140]: 3kwiki.com might not be a good site atm, it[0m
+[07:57] [0m                            hasnt been up for weeks[0m
+[07:57] [0mnewb Simonz [jedi/134]: wiki.maybeits.us[0m
+[07:57] [0mnewb Killergate [bard/140]: ^^[0m
+[07:57] [0mnewb Simonz [jedi/134]: that's the mirror[0m
+[07:57] [0mnewb Simonz [jedi/134]: you can also check out wemudtogether.com[0m
+[07:58] [0mnewb Luramal [Newbie]: how do i get rid of starting "thick leather[0m
+[07:58] [0m                       breastplate" and wooden sword?? apparently they[0m
+[07:58] [0m                       cannot be dropped.....[0m
+[07:58] [0mnewb Simonz [jedi/134]: gearup[0m
+[07:58] [0mnewb Simonz [jedi/134]: gearup toggle actually[0m
+[07:58] [0mnewb Din [jedi/135]: crumble breastplate, crumble sword, or gearup toggle to[0m
+[07:58] [0m                     stop getting them[0m
+[07:58] [0mnewb Luramal [Newbie]: tyvm[0m
+[07:58] [0mnewb Simonz [jedi/134]: oh yeah, din's right.  to get rid of the ones you[0m
+[07:58] [0m                        have, crumble.  to stop them from coming back,[0m
+[07:58] [0m                        gearup toggle[0m
+[07:59] [0mnewb Simonz [jedi/134]: otherwise they'll continue coming back every time to[0m
+[07:59] [0m                        log back in after a quit out[0m
+[08:00] [0mnewb Luramal [Newbie]: so i am getting the hang of the system to tell which[0m
+[08:00] [0m                       armor is better, using resistances... how do i tell[0m
+[08:00] [0m                       weapons which is better? i dont see a "compare"[0m
+[08:00] [0m                       command like im used to[0m
+[08:00] [0mnewb Simonz [jedi/134]: 'exa weapon'[0m
+[08:01] [0mnewb Simonz [jedi/134]: 'This weapon is class <whatever>'[0m
+[08:02] [0m[34;1mFlaxen shouts:[0m imma kiss you[0m
+[08:02] [0m[34;1mFlaxen shouts:[0m *kill[0m
+[08:02] [0m[34;1mMental shouts:[0m on the lips?[0m
+[08:02] [0mnewb Nameless [bard/134]: there are some guilds with more detailed info as[0m
+[08:02] [0m                          well if you eventually get to a point where you[0m
+[08:02] [0m                          want that[0m
+[08:02] [0mnewb Nameless [bard/134]: and a vaf, but thats another story[0m
+[08:02] [0mnewb Luramal [Newbie]: ok ty for the help guys. i gotta get off and go to[0m
+[08:02] [0m                       work but im really enjoying this MUD already and look[0m
+[08:02] [0m                       forward to diving deeper. ty for being welcoming to[0m
+[08:02] [0m                       me[0m
+[08:03] [0mnewb Simonz [jedi/134]: you're welcome[0m
+[08:03] [0mnewb Chili [mage/110]: have a nice day![0m
+[08:03] [0mnewb Simonz [jedi/134]: fyi, the game will be rebooting in 8 hours.  your[0m
+[08:03] [0m                        char info will save, but eq will not[0m
+[08:03] [0mnewb Luramal [Newbie]: any specific logging out template for this game? or[0m
+[08:03] [0m                       just save and close?[0m
+[08:03] [0mnewb Simonz [jedi/134]: that works[0m
+[08:03] [0mnewb Simonz [jedi/134]: you don't have to quit[0m
+[08:04] [0mnewb Simonz [jedi/134]: it'll let you stay 'linkdead' for 24 hours[0m
+[08:04] [0mnewb Luramal [Newbie]: wont lose inventory if i just close?[0m
+[08:04] [0mnewb Simonz [jedi/134]: before it auto logs you out[0m
+[08:04] [0mnewb Simonz [jedi/134]: nope[0m
+[08:04] [0mnewb Luramal [Newbie]: ok ty[0m
+[08:04] [0mnewb Leianne [elemental/140]: thought newbie won't lose equip[0m
+[08:04] [0mnewb Simonz [jedi/134]: but when it does log you out or the game reboots[0m
+[08:04] [0m                        you'll lose inv[0m
+[08:04] [0mnewb Echoloc [juggernaut/134]: if you just close and come back within 24[0m
+[08:04] [0m                               hours you wont lose eq[0m
+[08:04] [0mnewb Whoknows [priest/136]: you'll start with basic gear[0m
+[08:05] [0mnewb Echoloc [juggernaut/134]: but you also have the bonus of being lower[0m
+[08:05] [0m                               level and gear saves if you pick it up first[0m
+[08:05] [0mnewb Luramal [Newbie]: is there not a way to save inventory for longer[0m
+[08:05] [0m                       logouts? like at an inn or something?[0m
+[08:05] [0mnewb Simonz [jedi/134]: you can put it in a guild or house box eventually[0m
+[08:05] [0mnewb Simonz [jedi/134]: but nothing eq-wise saves over reboot[0m
+[08:05] [0mnewb Chili [mage/110]: not really over reboots[0m
+[08:05] [0mnewb Mental [elemental/132]: under level 60, any gear you found/picked up[0m
+[08:05] [0m                             yourself will stay with you for a long time, it[0m
+[08:05] [0m                             autoloads[0m
+[08:05] [0mnewb Whoknows [priest/136]: during boot cycles, newbie bin or a house box[0m
+[08:05] [0mnewb Simonz [jedi/134]: with that caveat heh[0m
+[08:06] [0mnewb Whoknows [priest/136]: most guilds also have an equipment box[0m
+[08:07] [0mnewb Whoknows [priest/136]: u can disconnect, and remain linkdead with gear[0m
+[08:07] [0m                            for up to 24hrs[0m
+[08:07] [0m[34;1mNauda shouts:[0m he is gonna kill you with a kiss[0m
+[09:03] [0mYou can currently reforge 12 items.[0m
+[09:23] [0m[37;1mEphemeral flaps :[0m any artists/drawers that might be able to design/sketch an[0m
+[09:23] [0m                  engagement ring?[0m
+[09:23] [0m[37;1mEnder flaps :[0m (*)[0m
+[09:24] [0m[37;1mEphemeral flaps :[0m not your starfish ender[0m
+[09:25] [0m[37;1mNauda flaps :[0m I went to bed late at night, dreaming of a ring on my finger,[0m
+[09:25] [0m              but when I woke up I found the finger, but...[0m
+[09:25] [0m[37;1mFujitsu flaps :[0m it wasn't attached?[0m
+[09:25] [0m[37;1mSaim flaps :[0m better than having a dream about chocolate pudding and waking[0m
+[09:25] [0m             up with a dirty spoon but no pudding[0m
+[09:25] [0m[37;1mNauda flaps :[0m +t[0m
+[09:26] [0m[34;1mNauda shouts:[0m there is no spoon[0m
+[09:30] [0m[31;1m[Clan] Ser :[0m just caught a pigeon that was in the radio room on top of Stone[0m
+[09:30] [0m             Mountain and put him outside[0m
+[09:31] [0m[31;1m[Clan] Ser :[0m dude was dehydrated and probably almost dead, i set him outside[0m
+[09:31] [0m             and he just hangin out drinking water for like 5-10 min[0m
+[09:31] [0m[31;1m[Clan] Morion :[0m poor thing[0m
+[09:32] [0m[37;1mWhoknows flaps :[0m f'n windows update of death, been going for an hr[0m
+[09:33] [0m[31;1m[Clan] Nix :[0m sounds like you let lunch go[0m
+[09:33] [0m[37;1mTychicus flaps :[0m This one will make you have to reinstall windows.[0m
+[09:33] [0m[37;1mUq flaps :[0m its no joke dude...[0m
+[09:39] [0m[37;1mSaim flaps :[0m uh oh, sounds like windows 11 is around the corner[0m
+[09:41] [0m[37;1mNauda flaps :[0m fix windows 10 and sell it as window 11[0m
+[09:42] [0m[37;1mNauda flaps :[0m that said windows 10 has poor support for ssd[0m
+[09:43] [0m[37;1mNauda flaps :[0m and ssd have been around for ages[0m
+[09:44] [0m[37;1mDin flaps :[0m i thought they already confirmed they're not doing windows 11? [0m
+[09:44] [0m            just keep updating win10[0m
+[09:50] [0m[34;1mFluffy shouts:[0m omg kenny killed kenny![0m
+[09:50] [0m[34;1mFujitsu shouts:[0m don't be tempted by my nether realms[0m
+[09:56] [0m[31;1m[Clan] Elektra :[0m at the gate[0m
+[09:56] [0m[31;1m[Clan] Elektra :[0m boarding in 45m[0m
+[09:56] [0m[31;1m[Clan] Nix :[0m mask up![0m
+[09:56] [0m[31;1m[Clan] Elektra :[0m yeah already bugging me[0m
+[09:57] [0m[31;1m[Clan] Elektra :[0m pick me up?[0m
+[09:57] [0m[31;1m[Clan] Elektra :[0m your dog is here[0m
+[09:57] [0m[31;1m[Clan] Elektra :[0m fyi[0m
+[09:58] [0m[31;1m[Clan] Nix :[0m yea he's still in timeout[0m
+[09:58] [0m[31;1m[Clan] Elektra :[0m ??[0m
+[09:58] [0m[31;1m[Clan] Oscar :[0m he shit on the floor[0m
+[10:00] [0m[31;1m[Clan] Nix :[0m i don't have a setup to monitor him on this server[0m
+[10:00] [0m[31;1m[Clan] Nix :[0m auto feed and shit like that[0m
+[10:13] [0m[31;1m[Clan] Oscar :[0m man cmc is fucking dangerous lol[0m
+[10:13] [0m[31;1m[Clan] Morion :[0m what why[0m
+[10:14] [0m[31;1m[Clan] Oscar :[0m Because con increases my sat pool[0m
+[10:14] [0m[31;1m[Clan] Morion :[0m ooooh[0m
+[10:14] [0m[31;1m[Clan] Oscar :[0m So when my sat is like 70% with +46 con or whatever[0m
+[10:14] [0m[31;1m[Clan] Oscar :[0m And it drops off[0m
+[10:14] [0m[31;1m[Clan] Oscar :[0m My sat spikes to 100+ sometimes[0m
+[10:15] [0m[31;1m[Clan] Morion :[0m nods yeah that sounds dangerous[0m
+[10:29] [0m[31;1m[Clan] Droptable :[0m what is your capacitance at[0m
+[10:29] [0m[31;1m[Clan] Droptable :[0m feel like that only happens at low cap perhaps? I have[0m
+[10:29] [0m                   140ish i think, use cmc all the time[0m
+[10:29] [0m[31;1m[Clan] Droptable :[0m i blast at 80 sat[0m
+[10:30] [0m[31;1m[Clan] Oscar :[0m my con is 50[0m
+[10:30] [0m[31;1m[Clan] Oscar :[0m thats why i explode[0m
+[10:30] [0m[31;1m[Clan] Droptable :[0m same[0m
+[10:30] [0m[31;1m[Clan] Oscar :[0m capac 94[0m
+[10:30] [0m[31;1m[Clan] Droptable :[0m ah nod[0m
+[10:30] [0m[31;1m[Clan] Droptable :[0m i have a lot more[0m
+[10:30] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[10:31] [0m[31;1m[Clan] Oscar :[0m June 1 i'll be good[0m
+[10:31] [0m[31;1m[Clan] Droptable :[0m man where phoenix at, i want more mage recodes :O[0m
+[10:31] [0m[31;1m[Clan] Oscar :[0m burned out lol[0m
+[10:32] [0m[31;1m[Clan] Droptable :[0m the ebb and flow of 3k wizards, le sigh[0m
+[10:34] [0m[31;1m[Clan] Elektra :[0m should be boarding in 1 min and no one even at the desk[0m
+[10:34] [0m[31;1m[Clan] Elektra :[0m says on time[0m
+[10:34] [0m[31;1m[Clan] Elektra :[0m maybe they walked up the jetway[0m
+[10:34] [0m[31;1m[Clan] Oscar :[0m i'd say you have a gate change[0m
+[10:34] [0m[31;1m[Clan] Oscar :[0m check it[0m
+[10:34] [0m[31;1m[Clan] Elektra :[0m nah[0m
+[10:34] [0m[31;1m[Clan] Elektra :[0m doesn't say so[0m
+[10:35] [0m[31;1m[Clan] Elektra :[0m all the gates are within 200 feet of me anyway[0m
+[10:35] [0m[31;1m[Clan] Elektra :[0m oh there is a plane sitting there[0m
+[10:35] [0m[31;1m[Clan] Elektra :[0m that is a good sign[0m
+[10:35] [0m[31;1m[Clan] Elektra :[0m woo, engouh for teleport 7/7[0m
+[10:44] [0mYou can currently reforge 12 items.[0m
+[10:45] [0mElektra <.oO>: You haven't enough XP to learn that ability.[0m
+[10:45] [0mElektra <.oO>: You need 14.5B xp but only have 0.3B[0m
+[10:45] [0mElektra <.oO>: that is for teleport, which is 7/7... is there a secret level[0m
+[10:45] [0m               8?[0m
+[10:45] [0mElektra <.oO>: hmm they all do it[0m
+[10:46] [0mElektra <.oO>: funny that there is a defined amount of required exp for a[0m
+[10:46] [0m               skill level that doesn't exist.[0m
+[10:47] [0m[31;1m[Clan] Saim :[0m kiki said yesterday that there are things left undiscovered in[0m
+[10:47] [0m              section z[0m
+[10:47] [0m[31;1m[Clan] Saim :[0m just FYI[0m
+[10:48] [0m[31;1m[Clan] Saim :[0m also saw someone mention that section z map spells out[0m
+[10:48] [0m              something[0m
+[10:48] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[10:48] [0m[31;1m[Clan] Oscar :[0m it does[0m
+[10:48] [0m[31;1m[Clan] Oscar :[0m its like help im trapped or something like that[0m
+[10:49] [0m[31;1m[Clan] Oscar :[0m wemudtogether has it[0m
+[10:49] [0mEcholoc <.oO>: try it when you have 14.5b to spend :)[0m
+[10:50] [0m[31;1m[Clan] Saim :[0m still some undiscovered stuff left to find[0m
+[10:59] [0m[31;1m[Clan] Droptable :[0m yeah the sz map is dope. it says "help i am trying to[0m
+[10:59] [0m                   reach anyone outside the game . ive been held hostage"[0m
+[11:00] [0m[31;1m[Clan] Morion :[0m oooh thats how you get the keyword[0m
+[11:00] [0m[31;1m[Clan] Morion :[0m dope[0m
+[11:10] [0m[31;1m[Clan] Timmy :[0m https://wemudtogether.com/images/maps/sectionz.png[0m
+[11:38] [0m[34;1mFluffy shouts:[0m big letters[0m
+[11:38] [0m[34;1mNameless shouts:[0m batman![0m
+[11:38] [0m[34;1mKenny shouts:[0m Party on Wayne.[0m
+[11:38] [0m[34;1mWayne shouts:[0m Thanks![0m
+[11:39] [0m[34;1mKenny shouts:[0m Wayne's 105! Party time! Excellent! Woo woo woo![0m
+[11:42] [0m[34;1mFlaxen shouts:[0m It's Wednesday, Wednesday, gotta get down on Wednesday[0m
+[11:42] [0m[34;1mMurmandamus shouts:[0m rrrrrrremix!![0m
+[11:59] [0m[34;1mSimonz shouts:[0m with much thanks to the priests guild for all the mends ;)[0m
+[11:59] [0m[34;1mFluffy shouts:[0m simonz says : level up![0m
+[11:59] [0m[34;1mEcholoc shouts:[0m Simonz Says Time for Level UP![0m
+[12:11] [0m[34;1mNauda shouts:[0m no u[0m
+[12:11] [0m[34;1mNightrider shouts:[0m Last Room Of Da Moo Xp[0m
+[12:13] [0m[34;1mHealme shouts:[0m did they get rid of massxp?[0m
+[12:14] [0m[34;1mTychicus shouts:[0m yes[0m
+[12:14] [0m[34;1mNightrider shouts:[0m No[0m
+[12:14] [0m[34;1mRaest shouts:[0m a long time ago[0m
+[12:14] [0m[34;1mMepnificent shouts:[0m yeah :([0m
+[12:14] [0m[34;1mTychicus shouts:[0m At least our access.[0m
+[12:14] [0m[34;1mMental shouts:[0m now its just a personal xp gage[0m
+[12:15] [0m[34;1mNauda shouts:[0m Moo won, go home.[0m
+[12:15] [0m[34;1mKikipopo shouts:[0m If by "they" you mean "constant complaining about other[0m
+[12:15] [0m                 people" then yes, they got rid of massxp.[0m
+[12:16] [0m[34;1mFluffy shouts:[0m but how will we know which gobj is the flavour of the[0m
+[12:16] [0m               week/one to hop to ??![0m
+[12:16] [0m[34;1mKikipopo shouts:[0m I mean.. a dartboard?[0m
+[12:17] [0m[34;1mHealme shouts:[0m I ghopped a *ton* to my own detriment, but I just liked to[0m
+[12:17] [0m               look at numbers, nolife is the better thing to compete over[0m
+[12:17] [0m               anyways.[0m
+[12:17] [0m[34;1mMental shouts:[0m now they are going to get rid of that healme =/[0m
+[12:18] [0m[34;1mRaest shouts:[0m luckily Aa can top nolife and still have 0 xp gain so there's[0m
+[12:18] [0m              little to whine about[0m
+[12:18] [0m[34;1mFlaxen shouts:[0m Better yet, we're just getting rid of players[0m
+[12:18] [0m[34;1mTchazzar shouts:[0m I like that. All bot all the tme.[0m
+[12:19] [0m[34;1mHealme shouts:[0m I was actually kind of surprised, it's been 2 years and I[0m
+[12:19] [0m               feel like there are more people online now than there were[0m
+[12:19] [0m               back then.[0m
+[12:19] [0m[34;1mRaest shouts:[0m 'scripting' has actually helped the comminuty[0m
+[12:20] [0m[34;1mKikipopo shouts:[0m It's all Turnhold's fault.  Not sure how, but it's my[0m
+[12:20] [0m                 default go-to.[0m
+[12:20] [0m[34;1mFluffy shouts:[0m that bastard![0m
+[12:20] [0m[34;1mHealme shouts:[0m also, did I just forget all the commands or can we still have[0m
+[12:20] [0m               dogs?[0m
+[12:20] [0m[34;1mSimonz shouts:[0m Turnhold is Maverik???[0m
+[12:20] [0m[34;1mKikipopo shouts:[0m Is he not?[0m
+[12:20] [0m[34;1mMental shouts:[0m to find your dog you need to 'moose turn' it lets it know its[0m
+[12:20] [0m               no longer the mooses turn[0m
+[12:22] [0m[34;1mHealme shouts:[0m I member dolores, but they got rid of him before I left :-([0m
+[12:45] [0mnewb Arxin [changeling/6]: I seem to have gotten myself trapped in a[0m
+[12:45] [0m                           death-loop[0m
+[12:46] [0mnewb Raest [cyborg/136]: how do you mean?[0m
+[12:46] [0mnewb Arxin [changeling/6]: I attacked this one guy, he killed me in like 2[0m
+[12:46] [0m                           hits, and now he's insta-killing me the second I[0m
+[12:46] [0m                           step out of the graveyars[0m
+[12:46] [0mnewb Arxin [changeling/6]: *graveyard[0m
+[12:46] [0mnewb Din [jedi/135]: who?[0m
+[12:47] [0mnewb Arxin [changeling/6]: Cold Tiro has a Halibut by the tail! is his name[0m
+[12:47] [0mnewb Ziphe [priest/139]: don't attack npcs in town[0m
+[12:47] [0mnewb Din [jedi/135]: he won't be bothering you anymore[0m
+[12:47] [0mnewb Ziphe [priest/139]: it's gonna be a bad time[0m
+[12:48] [0mnewb Arxin [changeling/6]: Aight, got it, thank you[0m
+[12:49] [0mnewb Dathon [monk/89]: help areadirections has some good starting places, if[0m
+[12:49] [0m                       you are in need of places to go[0m
+[12:51] [0mnewb Dathon [monk/89]: but I dont think the file warns you about the scaling[0m
+[12:51] [0m                       chess board dungeon, so be careful with that one. It[0m
+[12:51] [0m                       will turn into a better experience when you learn how[0m
+[12:51] [0m                       to set your scaler[0m
+[19:16] [0m[31;1m[Clan] Dangerzone enters the game.[0m  [0m
+[19:16] [0mYou can currently reforge 12 items.[0m
+[19:17] [0m[31;1m[Clan] Roken wisps into existence.[0m  [0m
+[19:21] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[19:21] [0m[31;1m[Clan] Saim :[0m dont think thats right[0m
+[19:21] [0m[31;1m[Clan] Saim :[0m You hit Paul Mccartney 2 times for 1156828 damage.[0m
+[19:21] [0m[31;1m[Clan] Prism :[0m wow dg Jedi damage[0m
+[19:21] [0m[31;1m[Clan] Archimedes :[0m Damn![0m
+[19:21] [0m[31;1m[Clan] Saim :[0m laf that isnt right[0m
+[19:21] [0m[31;1m[Clan] Morion :[0m jedi op[0m
+[19:21] [0m[31;1m[Clan] Archimedes :[0m Lightweapons maxed out?[0m
+[19:21] [0m[31;1m[Clan] Saim :[0m i used (fry and something went nutso[0m
+[19:21] [0m[31;1m[Clan] Prism :[0m why did I hop Akir?! nooo![0m
+[19:22] [0m[31;1m[Clan] Archimedes :[0m Maybe I will stick this jedi gig out.[0m
+[19:22] [0m[31;1m[Clan] Saim :[0m also remember to get (fry - that part is important[0m
+[19:23] [0m[31;1m[Clan] Archimedes :[0m I'm just dreading the road to effective fdef 20.[0m
+[19:27] [0m[37;1mSimonz flaps :[0m button run from 40+, who wants in?[0m
+[19:30] [0m[34;1mFujitsu shouts:[0m yoko is coming!![0m
+[19:31] [0m[34;1mSpace shouts:[0m that dog left in a rush it needed to pee[0m
+[19:40] [0m[31;1m[Clan] Xaryl :[0m has AoE always been no-taco smear?[0m
+[19:40] [0m[31;1m[Clan] Byron :[0m think so[0m
+[19:40] [0m[31;1m[Clan] Xaryl :[0m ah![0m
+[19:41] [0mYour transmuter's stone bursts with 4 new colours![0m
+[19:41] [0m[37;1mSimonz flaps :[0m anyone else want to join button run?[0m
+[19:42] [0m[31;1m[Clan] Xaryl :[0m you have any spare enhances Ser?[0m
+[19:43] [0m[31;1m[Clan] Ser :[0m anyone available to come help me clear wights/kill kath[0m
+[19:43] [0m[31;1m[Clan] Ser :[0m and yes[0m
+[19:43] [0m[31;1m[Clan] Ser :[0m heads up morion has just as many and they're just as good as mine iirc[0m
+[19:43] [0m[31;1m[Clan] Archimedes :[0m Where they at?  Let me at them!  I can shine this flashlight with the best[0m
+[19:43] [0m                    of them.[0m
+[19:43] [0m[31;1m[Clan] Ser :[0m actually his were better than mine 1st[0m
+[19:44] [0m[31;1m[Clan] Ser :[0m #var {isleth-fan} {w;out;w;u;w;w;w;w;u;out;s;e;e;n;ne;e;e;e;e;e;e;e;e;e;e;e;e;e;se;[0m
+[19:44] [0m             s;s;s;se;se;ne;e;e;e;e;se;e;se;ne;portal}[0m
+[19:44] [0m[31;1m[Clan] Ser :[0m sorry wrong one[0m
+[19:44] [0m[31;1m[Clan] Ser :[0m #var {fan-isleth2} {portal;n;n;n;n;n;n;n;n;n;n;n;n;leave;n;n;n;n;n;n;n;n;n;n;w;w;w;[0m
+[19:44] [0m             w;w;w;w;w;w;w;s;w;sw;w;nw;w;nw;w;w;w;w;sw;nw;nw;n;n;n;nw;w;w;w;w;w;w;w;w;w;w;w;w;w;[0m
+[19:44] [0m             sw;s;w;w;n;enter;d;d;d;search debris;e;toss rock;e;jump across;e;e;d;d;d;e;search[0m
+[19:44] [0m             basin;get dagger;cut hand;enter}[0m
+[19:44] [0m[31;1m[Clan] Prism :[0m brb gunna steal symbol[0m
+[19:44] [0m[31;1m[Clan] Ser :[0m damn you prism[0m
+[19:45] [0m[31;1m[Clan] Ser :[0m #var {isleth-fan} {w;out;w;u;w;w;w;w;u;out;s;e;e;n;ne;e;e;e;e;e;e;e;e;e;e;e;e;e;se;[0m
+[19:45] [0m             s;s;s;se;se;ne;e;e;e;e;se;e;se;ne;portal}[0m
+[19:45] [0m[31;1m[Clan] Ser :[0m #var {isleth-fan} {w;out;w;u;w;w;w;w;u;out;s;e;e;n;ne;e;e;e;e;e;e;e;e;e;e;e;e;e;se;[0m
+[19:45] [0m             s;s;s;se;se;ne;e;e;e;e;se;e;se;ne;portal}[0m
+[19:45] [0m[31;1m[Clan] Ser :[0m oops[0m
+[19:45] [0m[31;1m[Clan] Ser :[0m wtf[0m
+[19:45] [0m[31;1m[Clan] Ser :[0m that's not what i pasted[0m
+[19:45] [0m[31;1m[Clan] Ser :[0m #var {fan-isleth2} {portal;n;n;n;n;n;n;n;n;n;n;n;n;leave;n;n;n;n;n;n;n;n;n;n;w;w;w;[0m
+[19:45] [0m             w;w;w;w;w;w;w;s;w;sw;w;nw;w;nw;w;w;w;w;sw;nw;nw;n;n;n;nw;w;w;w;w;w;w;w;w;w;w;w;w;w;[0m
+[19:45] [0m             sw;s;w;w;n;enter;d;d;d;search debris;e;toss rock;e;jump across;e;e;d;d;d;e;search[0m
+[19:45] [0m             basin;get dagger;cut hand;enter}[0m
+[19:45] [0m[31;1m[Clan] Archimedes :[0m Would it be easier to pick me up?[0m
+[19:45] [0m[31;1m[Clan] Ser :[0m i dunno[0m
+[19:46] [0m[31;1m[Clan] Archimedes :[0m ruh-roh[0m
+[19:47] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[19:47] [0m[31;1m[Clan] Xaryl :[0m I am coming[0m
+[19:50] [0m[31;1m[Clan] Ser :[0m you really did steal it[0m
+[19:50] [0m[31;1m[Clan] Prism :[0m lol no I didn't :P[0m
+[19:50] [0m[31;1m[Clan] Byron :[0m high5[0m
+[19:51] [0m[31;1m[Clan] Ser :[0m :([0m
+[19:55] [0m[31;1m[Clan] Byron :[0m you sitting on a pile of ruby dust or star of earths?[0m
+[19:55] [0m[31;1m[Clan] Byron :[0m im getting close to chaosstone[0m
+[19:55] [0m[31;1m[Clan] Byron :[0m but still not there. fucking bullshit mining[0m
+[19:55] [0m[31;1m[Clan] Prism :[0m I have TONS but they're no Byrons only :([0m
+[19:55] [0m[31;1m[Clan] Byron :[0m laf[0m
+[19:55] [0m[31;1m[Clan] Prism :[0m jk I think I have zero[0m
+[19:56] [0m[31;1m[Clan] Byron :[0m prolly. need 90+ miner[0m
+[19:56] [0m[31;1m[Clan] Byron :[0m which is fucking misery[0m
+[19:56] [0m[31;1m[Clan] Byron :[0m ill get it this boot[0m
+[19:56] [0m[31;1m[Clan] Byron :[0m if i make major elephants theyll sell for a fuckton[0m
+[19:56] [0m[31;1m[Clan] Ser :[0m i have 12 L ruby dust[0m
+[19:56] [0m[31;1m[Clan] Byron :[0m 12 day boot wis/con gems[0m
+[19:57] [0m[31;1m[Clan] Ser :[0m and 25 L star of earth[0m
+[19:58] [0m[31;1m[Clan] Ser :[0m pretty sure i mined 3k+ phasemetal while leveling transmuter[0m
+[19:58] [0m[31;1m[Clan] Byron :[0m why not make gems/auction?[0m
+[19:58] [0m[31;1m[Clan] Byron :[0m lol nog[0m
+[19:58] [0m[31;1m[Clan] Byron :[0m its miserable[0m
+[19:58] [0m[31;1m[Clan] Byron :[0m flaxen expert in misery[0m
+[19:58] [0m[31;1m[Clan] Byron :[0m sii and crafting[0m
+[19:58] [0m[31;1m[Clan] Ser :[0m wasn't too bad when i was running a list of areas[0m
+[19:58] [0m[31;1m[Clan] Ser :[0m i'd just throw miner in there every few areas[0m
+[19:59] [0m[31;1m[Clan] Byron :[0m nog, wo this script id be fucked[0m
+[19:59] [0m[34;1mOgotaz shouts:[0m Thanks to Wert for a tight-fisted donation to Bless.[0m
+[19:59] [0m[34;1mWert shouts:[0m screw you ogotaz[0m
+[19:59] [0m[34;1mArchimedes shouts:[0m Tax the Poor![0m
+[19:59] [0m[34;1mWert shouts:[0m burn the rich![0m
+[20:00] [0m[34;1mGuru shouts:[0m squeeze the middle![0m
+[20:00] [0m[34;1mSimonz shouts:[0m Double the taxes!  Triple the taxes!  SQUEEEZE every last drop out of those[0m
+[20:00] [0m               insolent, musical peasants![0m
+[20:00] [0m[34;1mArchimedes shouts:[0m I prefer to fondle the middle[0m
+[20:00] [0m[31;1m[Clan] Ser :[0m now it's section z 24/7[0m
+[20:01] [0m[Auction] Robert : Up for bids: The Aurothon Shield.[0m
+[20:01] [0m[Auction] Robert : Aka has requested 12,345 as the opening offer.[0m
+[20:01] [0m[Auction] Aka (gent) : 5%[0m
+[20:01] [0m[Auction] Robert : Got 12,345 from Murmandamus(necr).  Do I hear 13,579?[0m
+[20:01] [0m[Auction] Robert : 12,345 going once![0m
+[20:01] [0m[Auction] Robert : 12,345 going twice![0m
+[20:01] [0m[Auction] Robert : Sold to Murmandamus for 12,345 coins![0m
+[20:01] [0m[31;1m[Clan] Byron :[0m damn...this roh is sick[0m
+[20:02] [0m[31;1m[Clan] Byron :[0m w pen/crit/cloak[0m
+[20:02] [0m[31;1m[Clan] Byron :[0m 2[0m
+[20:05] [0m[37;1mFujitsu flaps :[0m who stole tv?[0m
+[20:07] [0m[34;1mNightrider shouts:[0m I WANT ALL WPNS OF BSNESS[0m
+[20:07] [0m[34;1mLance shouts:[0m you can do eeet![0m
+[20:07] [0m[34;1mFluffy shouts:[0m first you need armour of keeping your scrawny butt alive, son[0m
+[20:07] [0m[34;1mArchimedes shouts:[0m I'm wearing your thong.  Does that count?[0m
+[20:07] [0m[34;1mKenny shouts:[0m got to wiz and code that first[0m
+[20:09] [0m[35;1mAurian [Jedi(21)]:[0m As the new guy on the block I find glvls about twice as difficult to get as[0m
+[20:09] [0m                   normal lvls and it is messing with my sensibilities to see Archimedes not[0m
+[20:09] [0m                   reigning supreme above us all. I just thought I'd mention that, I'll go back[0m
+[20:09] [0m                   to my help files now.[0m
+[20:11] [0m[Auction] Prism (gent) : Who has a spork laying around? Sell it to me for monies[0m
+[20:12] [0m[34;1mOgotaz shouts:[0m Thanks to Xiu for a generous donation to Bless.[0m
+[20:12] [0m[Auction] Simonz (jedi) : sorry, scored a guac on my first run heh[0m
+[20:18] [0m[34;1mKyoujin shouts:[0m I choose you, NR![0m
+[20:19] [0m[31;1m[Clan] Byron :[0m woo im coprse neutral solo in 140[0m
+[20:19] [0m[31;1m[Clan] Xaryl :[0m nice[0m
+[20:19] [0m[31;1m[Clan] Byron :[0m sz[0m
+[20:19] [0m[31;1m[Clan] Archimedes :[0m Nice[0m
+[20:19] [0m[34;1mNightbreed shouts:[0m computers says nooooo[0m
+[20:21] [0m[34;1mSquirrel shouts:[0m oh he went to bed[0m
+[20:21] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[20:29] [0m[31;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[20:29] [0m[37;1mByron <.oO>:[0m an anchor location for teleport would be amazing[0m
+[20:30] [0m[37;1mSimonz <.oO>:[0m multiple locations you can set, and a 5min cooldown[0m
+[20:30] [0m[37;1mByron <.oO>:[0m i support this[0m
+[20:31] [0m[37;1mSpace <.oO>:[0m 5min cooldown for a power with 4h cooldown?[0m
+[20:31] [0m[37;1mEcholoc <.oO>:[0m with a chance to "miss" and end up someplace else, or dead :)[0m
+[20:31] [0m[37;1mSimonz <.oO>:[0m heh, missed the ;) at the end of that[0m
+[20:32] [0m[37;1mEcholoc <.oO>:[0m has to have a downside :)[0m
+[20:32] [0m[31;1m[Clan] Xaryl :[0m BBB, will you check the reload time for Beloch?[0m
+[20:32] [0m[37;1mEcholoc <.oO>:[0m never heard of anybody teleporting into a wall?[0m
+[20:33] [0m[37;1mEcholoc <.oO>:[0m or a monster *splorch*[0m
+[20:33] [0m[34;1mSimonz shouts:[0m if you don't get help at charter, get help somewhere[0m
+[20:34] [0m[37;1mEcholoc <.oO>:[0m and if the dm ask you if you are sure about your location.... you might want to[0m
+[20:34] [0m               rethink your action :)[0m
+[20:34] [0m[31;1m[Clan] Byron :[0m i dont have ot[0m
+[20:34] [0m[31;1m[Clan] Byron :[0m ld login that is[0m
+[20:34] [0m[31;1m[Clan] Xaryl :[0m if anyone is able to hit, please come kill Beloch[0m
+[20:34] [0m[31;1m[Clan] Xaryl :[0m nod[0m
+[20:37] [0m[37;1mSarge <.oO>:[0m any time the DM start with 'Are you sure...' the immediate answer is no, even if[0m
+[20:37] [0m             you decide afterwards to press on with whatever it was, you need to think about it![0m
+[20:37] [0m[37;1mEcholoc <.oO>:[0m and if they are really mean, you could lose your foot below the ankle because you[0m
+[20:37] [0m               didn't have the height right... :)[0m
+[20:37] [0m[31;1m[Clan] Byron :[0m i have bot running to kill on beloch pulls[0m
+[20:37] [0m[31;1m[Clan] Byron :[0m ill give pots but eating atm too[0m
+[20:39] [0m[37;1mXiu <.oO>:[0m embiggen tier 7: target any player(from afar). no player may have more than 1[0m
+[20:39] [0m           embiggen active at one time. superior embiggen will displace existing effect.[0m
+[20:40] [0m[37;1mSimonz flaps :[0m secz reset, holler if you're coming[0m
+[20:41] [0mYour transmuter's stone bursts with 5 new colours![0m
+[20:42] [0m[37;1mEcholoc flaps :[0m i always wanted to play a halfling thrower... but i am not sure of the mechanics[0m
+[20:43] [0m[37;1mEcholoc flaps :[0m have to train them to assume a good throwing position... and i wonder what kind[0m
+[20:43] [0m                of range i could get[0m
+[20:44] [0m[34;1mEcholoc shouts:[0m CoE 2 players 9999[0m
+[20:44] [0m[37;1mSimonz flaps :[0m last call[0m
+[20:44] [0m[37;1mDin flaps :[0m my first thought was 'just google impchucker', but while the term is predictably in[0m
+[20:44] [0m            use, it's not being used by/for anything interesting[0m
+[20:45] [0m[37;1mSimonz flaps :[0m gone[0m
+[20:45] [0m[37;1mEcholoc flaps :[0m would probably need to play the ammmmo and the chucker... would probably need to[0m
+[20:45] [0m                be large for good range[0m
+[20:48] [0m[37;1mEcholoc flaps :[0m probably would need some improvised weapon feats[0m
+[20:49] [0m[34;1mFluffy shouts:[0m ug golems![0m
+[20:50] [0m[34;1mVagrant shouts:[0m it stole monies[0m
+[20:50] [0m[37;1mNauda flaps :[0m Byron takes: Alien Queen's skin (caustic).[0m
+[20:51] [0m[37;1mNauda flaps :[0m byron stole my alien skin, damn that thieving sticky fingered bard[0m
+[20:52] [0m[37;1mWhoknows flaps :[0m he thought it was a gift for his (ahem) amazing (ahem) voice?[0m
+[20:52] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[20:53] [0m[35;1mKsemia [Jedi(Master)]:[0m a week and 5 days...holey moley[0m
+[20:53] [0m[35;1mSimonz [Jedi(Master)]:[0m ya[0m
+[20:55] [0m[37;1mSpace flaps :[0m his deeeeeeep throat voice[0m
+[21:04] [0m[31;1m[Clan] Archimedes :[0m Guess you need to get them a green card first.[0m
+[21:04] [0m[31;1m[Clan] Byron :[0m laf[0m
+[21:05] [0m[31;1m[Clan] Byron :[0m 11 there[0m
+[21:05] [0m[31;1m[Clan] Byron :[0m lol[0m
+[21:05] [0m[31;1m[Clan] Byron :[0m will try hmshield[0m
+[21:07] [0m[31;1m[Clan] Archimedes :[0m :([0m
+[21:07] [0m[34;1mVagrant shouts:[0m UG BARDS[0m
+[21:07] [0m[31;1m[Clan] Byron :[0m killed me through protection + hmshield[0m
+[21:07] [0m[31;1m[Clan] Archimedes :[0m Oof[0m
+[21:07] [0m[31;1m[Clan] Archimedes :[0m Whose trap was that?[0m
+[21:07] [0m[31;1m[Clan] Byron :[0m mine[0m
+[21:07] [0m[31;1m[Clan] Saim :[0m necro trap[0m
+[21:07] [0m[31;1m[Clan] Saim :[0m haha[0m
+[21:08] [0m[31;1m[Clan] Archimedes :[0m Was there a discussion earlier about Karma?[0m
+[21:08] [0m[31;1m[Clan] Byron :[0m hmm?[0m
+[21:08] [0m[31;1m[Clan] Byron :[0m as in i deserve this? :D[0m
+[21:09] [0m[31;1m[Clan] Byron :[0m popped immort lol[0m
+[21:10] [0m[31;1m[Clan] Archimedes :[0m Do Ascended still technically exist in the game?[0m
+[21:10] [0m[31;1m[Clan] Byron :[0m ya[0m
+[21:10] [0m[31;1m[Clan] Saim :[0m im gonna play ascended next boot[0m
+[21:10] [0m[31;1m[Clan] Saim :[0m yall are gonna drag me around[0m
+[21:12] [0m[31;1m[Clan] Archimedes :[0m Curious, how big is your ascended?[0m
+[21:12] [0m[31;1m[Clan] Saim :[0m me like lvl 1[0m
+[21:13] [0m[31;1m[Clan] Saim :[0m i joined like a year ago only[0m
+[21:13] [0m[31;1m[Clan] Saim :[0m just for shits[0m
+[21:14] [0m[31;1m[Clan] Archimedes :[0m Oof[0m
+[21:14] [0m[31;1m[Clan] Archimedes :[0m You're gonna need some levling.[0m
+[21:14] [0m[31;1m[Clan] Saim :[0m def[0m
+[21:14] [0m[31;1m[Clan] Saim :[0m i tried to choose a dmg character[0m
+[21:15] [0m[31;1m[Clan] Byron :[0m 1b xp right[0m
+[21:15] [0m[31;1m[Clan] Byron :[0m or w[0m
+[21:15] [0m[31;1m[Clan] Byron :[0m 2[0m
+[21:15] [0m[31;1m[Clan] Saim :[0m 2 maybe?[0m
+[21:15] [0m[31;1m[Clan] Saim :[0m like nothing[0m
+[21:15] [0m[35;1mSaim [Jedi(Elder)]:[0m oof[0m
+[21:16] [0m[35;1mRoken [Jedi(94)]:[0m uffda[0m
+[21:16] [0m[35;1mRoken [Jedi(94)]:[0m lasted awhile too, no gear[0m
+[21:16] [0m[35;1mArchimedes [Jedi(Legend)]:[0m Rookie.. I mean Roken, ya gotta pump those numbers up.[0m
+[21:17] [0m[35;1mSally [Jedi(Knight)]:[0m ugg[0m
+[21:17] [0m[35;1mWert [Jedi(Knight)]:[0m archi burns, i love it[0m
+[21:17] [0m[35;1mWert [Jedi(Knight)]:[0m i could stay for those[0m
+[21:18] [0mMaverik <Craft>: hmm anyone have stuff of damnation they wanna part with?[0m
+[21:19] [0mRoken <Craft>: damn i'm low stock, all your fault surely[0m
+[21:20] [0m[34;1mVoodoo shouts:[0m downgrade Byrons[0m
+[21:20] [0m[35;1mRoken [Jedi(94)]:[0m is there a L4 repair droid? so far encountered Labor and Interrogation ones[0m
+[21:20] [0m[34;1mFluffy shouts:[0m i bid $20 on bryon, so i won![0m
+[21:20] [0m[35;1mSaim [Jedi(Elder)]:[0m astro[0m
+[21:20] [0m[35;1mRoken [Jedi(94)]:[0m thank you[0m
+[21:21] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[21:21] [0m[31;1m[Clan] Roken :[0m can i grab a rally at fantasy, please?[0m
+[21:22] [0m[33;1m[PARTY][0m Byron: done[0m
+[21:22] [0mYou can currently reforge 12 items.[0m
+[21:22] [0m[31;1m[Clan] Dangerzone :[0m ok byron[0m
+[21:22] [0m[33;1m[PARTY][0m Dangerzone joins the party.[0m
+[21:22] [0m[33;1m[PARTY][0m Byron has quit the party.[0m
+[21:22] [0m[33;1m[PARTY][0m The leader quit the party![0m
+[21:22] [0m[33;1m[PARTY][0m New leader for the party: roken.[0m
+[21:24] [0mMaverik <Craft>: is there a way to get better luck when prospecting?[0m
+[21:24] [0mArchimedes <Craft>: mskills?[0m
+[21:24] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[21:25] [0mWiener <Craft>: mskill, I want to say enchanter, but it's been forever since I read up[0m
+[21:25] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[21:25] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[21:25] [0mMaverik <Craft>: i have 4/5 in enchanting and mining but I'm having terrible prospecting rates[0m
+[21:25] [0m[31;1m[Clan] Toren enters the game.[0m  [0m
+[21:25] [0m[31;1m[Clan] Toren leaves the game.[0m  [0m
+[21:26] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[21:27] [0mStasis <Craft>: blood sacrifice?[0m
+[21:29] [0mKsemia <Craft>: prospecting doesn't yield much for me ever, in general[0m
+[21:29] [0mMaverik <Craft>: so how does one acquire hearts and essences and stuff? just mining?[0m
+[21:29] [0mKsemia <Craft>: they drop from mobs[0m
+[21:29] [0mSpace <Craft>: hearts and ess ? kill mobs[0m
+[21:29] [0m[32;1mFrom afar, Archangel screams Doooohhhhhhhh!!! at you.[0m[0m
+[21:29] [0mWiener <Craft>: frag/ess/heart drop from kills, randomlike[0m
+[21:30] [0m[35;1mSaim [Jedi(Elder)]:[0m oof x2[0m
+[21:30] [0mMaverik <Craft>: ohhh[0m
+[21:30] [0m[35;1mSally [Jedi(Knight)]:[0m tanking = crap[0m
+[21:30] [0mSpace <Craft>: is this a new maverik ?[0m
+[21:30] [0m[35;1mRoken [Jedi(94)]:[0m im a bot duh[0m
+[21:31] [0mMaverik <Craft>: the evergreen maverik[0m
+[21:31] [0mSpace <Craft>: no way you didnt know u get ess/hearts from mobs[0m
+[21:31] [0mGuru <Craft>: Heart Of Shadow           | 124 |   Yeah must just be from kills. I just collect[0m
+[21:31] [0m              stuff[0m
+[21:32] [0m[31;1m[Clan] Oscar :[0m hmmm what should i xmute[0m
+[21:32] [0m[35;1mSally [Jedi(Knight)]:[0m he was at 1%[0m
+[21:32] [0mMaverik <Craft>: i think i forgot, kind of assumed i had come across them mining or prospecting[0m
+[21:32] [0m                 or something.. makes sense that theres a constraint with killing mobs tho[0m
+[21:32] [0m[31;1m[Clan] Prism :[0m your gobj into a better one! hah get it?[0m
+[21:32] [0mGuru <Craft>: mav hired a third party to gxp/exp his char. He's still in training[0m
+[21:32] [0mInix <Craft>: I so feel like that when playing an alt I haven't in a while[0m
+[21:32] [0m[31;1m[Clan] Oscar :[0m :([0m
+[21:32] [0m[35;1mSally [Jedi(Knight)]:[0m 44,068,528 : Zelligar the Supreme Golem Master *wink* Roken[0m
+[21:32] [0mSpace <Craft>: the chinese game grinders![0m
+[21:32] [0mMaverik <Craft>: haha[0m
+[21:32] [0m[31;1m[Clan] Oscar :[0m NO[0m
+[21:33] [0m[31;1m[Clan] Prism :[0m do I play Kansai as a bladesinger or vidae as a bard once Prism is done (soon)?[0m
+[21:33] [0m[35;1mRoken [Jedi(94)]:[0m how you know[0m
+[21:33] [0m[35;1mRoken [Jedi(94)]:[0m oh deathhist?[0m
+[21:33] [0m[31;1m[Clan] Oscar :[0m bard[0m
+[21:33] [0m[35;1mRoken [Jedi(94)]:[0m wait how[0m
+[21:33] [0m[31;1m[Clan] Oscar :[0m bard gang[0m
+[21:41] [0m[31;1m[Clan] Archimedes :[0m Anyone know if Queen is there?[0m
+[21:43] [0m[31;1m[Clan] Oscar :[0m which queen[0m
+[21:44] [0m[31;1m[Clan] Archimedes :[0m No worries, queen of hearts was here.[0m
+[21:45] [0mYour transmuter's stone bursts with 4 new colours![0m
+[21:46] [0m[31;1m[Clan] Droptable :[0m anyone around town for a sec to help me banner?[0m
+[21:46] [0m[37;1mAdalius flaps :[0m Ugh. Evening from hell. Did some yard work, grandkids got dropped off (we watch[0m
+[21:46] [0m                them 3 days/2 nights every week), went in the house, wife is next to my 175[0m
+[21:46] [0m                gallon saltwater fishtank "Why is the floor wet......"[0m
+[21:46] [0m[37;1mVoodoo flaps :[0m her water broke! congrats[0m
+[21:46] [0m[34;1mTex shouts:[0m no one out pizzas the hut pizza hut[0m
+[21:47] [0m[31;1m[Clan] Oscar :[0m god i love voodoo[0m
+[21:47] [0m[31;1m[Clan] Archimedes :[0m Santaria?[0m
+[21:47] [0m[37;1mAdalius flaps :[0m Luckily not a leak. My skimmer (basically makes a foam that separates waste from[0m
+[21:47] [0m                water and overflows the foam into a cup) started shooting foam out the top of[0m
+[21:47] [0m                its lid (has holes so air pressure doesnt push it off), the foam flowed over the[0m
+[21:47] [0m                side of the sump tank and as the bubbles burst the water ran down inside the[0m
+[21:47] [0m                stand.[0m
+[21:47] [0mYou can currently reforge 12 items.[0m
+[21:48] [0m[37;1mAdalius flaps :[0m Probably over several days (I've been busy, especially[0m
+[21:48] [0m                around here, so not paying it a ton of attention this week).[0m
+[21:48] [0m                Ended up soaking the carpet 2' out from the tank in every[0m
+[21:48] [0m                direction[0m
+[21:48] [0m[37;1mCaeli flaps :[0m I've got flex seal and a ladder to borrow on Friday to fix my[0m
+[21:48] [0m              roof leak.[0m
+[21:49] [0m[37;1mStasis flaps :[0m fish are slowly converting your house into an expanded[0m
+[21:49] [0m               habitat[0m
+[21:49] [0m[37;1mAdalius flaps :[0m Just glad it didn't soak through the subfloor and drip in[0m
+[21:49] [0m                the basement. Fishtank is over my movie theater and arcade[0m
+[21:49] [0m                cabinet.[0m
+[21:49] [0m[37;1mCaeli flaps :[0m EEK![0m
+[21:50] [0m[37;1mCrolack flaps :[0m white people problems[0m
+[21:50] [0m[37;1mNightrider flaps :[0m why does it have to be a white thing?[0m
+[21:51] [0m[37;1mCaeli flaps :[0m I had to give one of my dogs a good dose of melatonin yesterday because of the[0m
+[21:51] [0m              storms coming through.[0m
+[21:51] [0m[37;1mVoodoo flaps :[0m because if it was a minority people problem the grandkids would be there 24/7[0m
+[21:51] [0m[31;1m[Clan] Archimedes :[0m how big are section z mobs at 111 scaler?[0m
+[21:52] [0m[31;1m[Clan] Archimedes :[0m I know we did a scaler that ended in 4.[0m
+[21:52] [0m[31;1m[Clan] Archimedes :[0m oops[0m
+[21:52] [0m[31;1m[Clan] Droptable :[0m 20-25m[0m
+[21:52] [0m[31;1m[Clan] Archimedes :[0m Ahh, ok, thanks.[0m
+[21:59] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[22:01] [0mKsemia <Craft>: can crafted gear be reforged?[0m
+[22:01] [0mInix <Craft>: yes[0m
+[22:01] [0mSimonz <Craft>: yes[0m
+[22:01] [0mKsemia <Craft>: thanks[0m
+[22:01] [0mLeibniz <Craft>: yep, and smeared iirc[0m
+[22:01] [0mSimonz <Craft>: nod[0m
+[22:01] [0mSimonz <Craft>: smear first so you can reforge for more[0m
+[22:01] [0mNauda <Craft>: 8inix, is crafted gear viable?[0m
+[22:01] [0mInix <Craft>: [30;1m([34;1m8[30;1m)[0mInix : You may rely on it[0m
+[22:02] [0mSimonz <Craft>: truth[0m
+[22:02] [0m #  Item                 : How long?    CurBid BuyNow High Bidder Seller[0m
+[22:02] [0mSimonz <Craft>: I'm running a legendary chaostone set[0m
+[22:02] [0mMaverik <Craft>: dooope[0m
+[22:02] [0mYou can currently reforge 12 items.[0m
+[22:18] [0mYou can currently reforge 9 items.[0m
+[22:25] [0m[37;1mNauda flaps :[0m byron you on?[0m
+[22:25] [0m[37;1mWhoknows flaps :[0m secz reset incoming[0m
+[22:25] [0mYou can currently reforge 12 items.[0m
+[22:27] [0m[37;1mWhoknows flaps :[0m secz resetting in 10s[0m
+[22:29] [0m[34;1mOgotaz shouts:[0m Thanks to Stasis for a tight-fisted donation to Bless.[0m
+[22:37] [0m[37;1mNightrider flaps :[0m you know if all of us just donate 1m coisn to statis[0m
+[22:37] [0m                   blass cause we get a bless[0m
+[22:37] [0m[37;1mMurmandamus flaps :[0m I don't even have 1mil coins[0m
+[22:38] [0m[37;1mHsima flaps :[0m I don't even know how to do that[0m
+[22:38] [0m[37;1mStasis flaps :[0m 12 day boot, be sad not to get the Bless firing[0m
+[22:38] [0m[37;1mStasis flaps :[0m magic, w, n, e, bdeposit 1000000 bless[0m
+[22:38] [0m[37;1mSpace flaps :[0m pfft, stats, just gring out exp and get stats, simple, all[0m
+[22:38] [0m              these temp shortcuts which only benefit some guilds are meh[0m
+[22:39] [0m[37;1mScaf flaps :[0m I'm poor.[0m
+[22:39] [0m[37;1mSpace flaps :[0m *grind[0m
+[22:40] [0m[37;1mStasis flaps :[0m something like +20-+30 all stats? for 12 days.[0m
+[22:40] [0m[37;1mHsima flaps :[0m done[0m
+[22:40] [0m[37;1mHsima flaps :[0m it doesn't especially benefit me :P[0m
+[22:41] [0m[34;1mOgotaz shouts:[0m Thanks to Hsima for a reasonable donation to Bless.[0m
+[22:42] [0m[31;1m[Clan] Oscar :[0m got 2 more wrappers[0m
+[22:42] [0m[31;1m[Clan] Oscar :[0m anyone need?[0m
+[22:46] [0m[37;1mAdalius flaps :[0m 8 people are logged in who, individually, could get you to[0m
+[22:46] [0m                bless with less than 20% of their bank account. Just sayin[0m
+[22:47] [0m[37;1mWert flaps :[0m tax the rich or burn em[0m
+[22:47] [0m[37;1mWert flaps :[0m adalius plz make it happen[0m
+[22:47] [0m[37;1mNightrider flaps :[0m im broke you see[0m
+[22:47] [0m[37;1mInix flaps :[0m Adalius is one[0m
+[22:47] [0m[37;1mWert flaps :[0m dest or donate[0m
+[22:47] [0m[37;1mWert flaps :[0m dest or donate[0m
+[22:47] [0m[37;1mStasis flaps :[0m i think i'm 40% of my bank account into it atm[0m
+[22:47] [0m[37;1mAlassra flaps :[0m dest the poors![0m
+[22:48] [0m[37;1mMurmandamus flaps :[0m i'm rich in spirit?[0m
+[22:48] [0m[37;1mStasis flaps :[0m need to tax the rich and fund community projects like Bless[0m
+[22:48] [0m[37;1mWert flaps :[0m another 500k in[0m
+[22:48] [0m[37;1mSimonz flaps :[0m same[0m
+[22:49] [0m[34;1mOgotaz shouts:[0m Thanks to Simonz and Wert for a reasonable donation to Bless.[0m
+[22:49] [0m[34;1mMurmandamus shouts:[0m tag teammmmmm[0m
+[22:49] [0m[34;1mStasis shouts:[0m jedi representing![0m
+[22:50] [0m[34;1mOgotaz shouts:[0m Thanks to Whoknows for a generous donation to Bless.[0m
+[22:51] [0m[37;1mLeianne flaps :[0m can you change it so that only those who donate will get the[0m
+[22:51] [0m                bless? so that I wont feel guilty not donating :p[0m
+[22:51] [0m[37;1mWert flaps :[0m just donate[0m
+[22:51] [0m[34;1mOgotaz shouts:[0m Thanks to Pdog and Stasis for a generous donation to Bless.[0m
+[22:51] [0m[37;1mWert flaps :[0m you got plenty of coins[0m
+[22:51] [0m[37;1mWhoknows flaps :[0m gotta do something with all dem coins from abyss[0m
+[22:51] [0m[37;1mLeianne flaps :[0m as soon as I hit dtaco later today, I will end up with -ve[0m
+[22:51] [0m                stats anyway with the sensitive mind senses wrongness in[0m
+[22:51] [0m                space.. will lose all boosts[0m
+[22:51] [0m[31;1m[Clan] Archimedes :[0m Worth donating for the boon?[0m
+[22:51] [0m[37;1mWert flaps :[0m its odd your soo wanting to hold them[0m
+[22:52] [0m[31;1m[Clan] Oscar :[0m it's a nice boon[0m
+[22:52] [0m[31;1m[Clan] Archimedes :[0m Like... how nice?[0m
+[22:52] [0m[31;1m[Clan] Archimedes :[0m T-Boon?[0m
+[22:52] [0m[31;1m[Clan] Archimedes :[0m If that's considered nice.[0m
+[22:52] [0m[31;1m[Clan] Oscar :[0m I think its random[0m
+[22:52] [0m[37;1mStasis flaps :[0m fire off that bless and maybe Adalius will fix you![0m
+[22:52] [0m[34;1mOgotaz shouts:[0m Thanks to Simonz, Voodoo, and Inix for a reasonable donation[0m
+[22:52] [0m               to Bless.[0m
+[22:52] [0m[31;1m[Clan] Oscar :[0m But the last one was pretty close[0m
+[22:53] [0m[31;1m[Clan] Nix :[0m i just donated 1 coin towards it![0m
+[22:53] [0m[31;1m[Clan] Oscar :[0m laf[0m
+[22:53] [0m[34;1mOgotaz shouts:[0m Thanks to Nix for a miserly donation to Bless.[0m
+[22:53] [0m[31;1m[Clan] Archimedes :[0m Y'all some broke muthas.[0m
+[22:53] [0m[31;1m[Clan] Nik leaves the game.[0m  [0m
+[22:53] [0m[31;1m[Clan] Oscar :[0m laf[0m
+[22:53] [0m[31;1m[Clan] Nix :[0m xaro you playing xaryl at all?[0m
+[22:53] [0m[31;1m[Clan] Nix :[0m laf[0m
+[22:53] [0m[31;1m[Clan] Gik enters the game.[0m  [0m
+[22:53] [0m[31;1m[Clan] Xaro :[0m only when needed[0m
+[22:53] [0m[31;1m[Clan] Nix :[0m nod nod, let me know i bootran vorpal[0m
+[22:53] [0m[31;1m[Clan] Xaro :[0m for this boot at least[0m
+[22:54] [0m[34;1mWhoknows shouts:[0m OMG! They killed Kenny![0m
+[22:54] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[22:54] [0m[31;1m[Clan] Xaro :[0m I got a dup from Murmandamus[0m
+[22:54] [0m[34;1mOgotaz shouts:[0m Thanks to Fluffy for a miserly donation to Bless.[0m
+[22:54] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[22:54] [0m[37;1mCaeli flaps :[0m How much is a decent donation?[0m
+[22:54] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[22:54] [0m[37;1mSimonz flaps :[0m reasonable was 500k[0m
+[22:54] [0m[37;1mSimonz flaps :[0m generous was 2m[0m
+[22:54] [0m[34;1mKenny shouts:[0m f u spirit realm[0m
+[22:54] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[22:54] [0m[37;1mCaeli flaps :[0m And how do you donate?[0m
+[22:54] [0m[37;1mSimonz flaps :[0m up to 58%[0m
+[22:54] [0m[31;1m[Clan] Martyr :[0m any stud reforgers able to hit my cloak and shield?[0m
+[22:54] [0m[37;1mWhoknows flaps :[0m transfer all to whoknows[0m
+[22:55] [0m[37;1mNix flaps :[0m bdeposit <coins <boon>[0m
+[22:55] [0m[37;1mSimonz flaps :[0m w/n/e from fantasy entrance[0m
+[22:55] [0m[31;1m[Clan] Xaro :[0m I can[0m
+[22:55] [0m[31;1m[Clan] Martyr :[0m woo[0m
+[22:55] [0m[37;1mSpace flaps :[0m so total cost? approx ?[0m
+[22:55] [0m[31;1m[Clan] Martyr :[0m brt[0m
+[22:55] [0m[37;1mSimonz flaps :[0m there's an atm there, withdraw, then bdeposit # bless[0m
+[22:55] [0m[37;1mStasis flaps :[0m sad thing, if this was a wiz auction for an individual buff[0m
+[22:55] [0m               it would go through the roof[0m
+[22:55] [0m[31;1m[Clan] Xaryl :[0m want Ftouch also?[0m
+[22:55] [0m[31;1m[Clan] Martyr :[0m woot[0m
+[22:55] [0m[37;1mNix flaps :[0m bdeposit <coins <boon>[0m
+[22:55] [0m[31;1m[Clan] Martyr :[0m yes![0m
+[22:56] [0m[31;1m[Clan] Nix :[0m just got done a 16 hour work day and poured myself a big old[0m
+[22:56] [0m             glass of scotch[0m
+[22:57] [0m[31;1m[Clan] Nix :[0m new bottle on the porch and this shit is fairly good[0m
+[22:57] [0m[31;1m[Clan] Xaryl :[0m yum![0m
+[22:57] [0m[31;1m[Clan] Archimedes :[0m Mmmmmmmm *smack lips*[0m
+[22:57] [0m[31;1m[Clan] Xaryl :[0m which type?[0m
+[22:57] [0m[31;1m[Clan] Nix :[0m Benromach .. single malt[0m
+[22:58] [0m[31;1m[Clan] Martyr :[0m anyone need slides[0m
+[22:58] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[22:58] [0m[31;1m[Clan] Xaryl :[0m has to be single malt![0m
+[22:58] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[22:58] [0m[31;1m[Clan] Oscar :[0m martyr 2% til reset[0m
+[22:58] [0m[31;1m[Clan] Oscar :[0m if you want something slid[0m
+[22:59] [0m[31;1m[Clan] Oscar :[0m I can also xmute cocoons to ring if you need it[0m
+[22:59] [0m[31;1m[Clan] Nix :[0m oo[0m
+[23:00] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[23:00] [0m[31;1m[Clan] Xaryl :[0m anyone else need Ftouches?[0m
+[23:00] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[23:00] [0m[31;1m[Clan] Byron :[0m ahnks x :)[0m
+[23:00] [0m[31;1m[Clan] Byron :[0m thanks*[0m
+[23:01] [0m[31;1m[Clan] Xaro :[0m welcome :)[0m
+[23:08] [0m[31;1m[Clan] Nix :[0m you guys down for a button run in the morning?[0m
+[23:08] [0m[34;1mNightrider shouts:[0m Opps she did it again![0m
+[23:08] [0m[34;1mEllegon shouts:[0m The heart wants what the heart wants.[0m
+[23:09] [0m[34;1mVolt shouts:[0m The joker is the only foooool[0m
+[23:09] [0m[34;1mBenek shouts:[0m culvers cheddar burger single, fries, and a single scoop fudge[0m
+[23:09] [0m              sunday.[0m
+[23:11] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[23:11] [0m                          Northern Hills of Fantasy!  We are localizing it[0m
+[23:11] [0m                          now - get ready![0m
+[23:11] [0m[Auction] Robert : Up for bids: Adalius's Sunglasses.[0m
+[23:11] [0m[Auction] Robert : Adalius has requested 250,000 as the opening offer.[0m
+[23:11] [0m[Auction] Robert : Got 250,000 from Elminster(mage).  Do I hear 275,000?[0m
+[23:11] [0m[Auction] Robert : Got 275,000 from Byron(bard).  Do I hear 302,500?[0m
+[23:12] [0m[Auction] Robert : Got 650,000 from Din(blad).  Do I hear 715,000?[0m
+[23:12] [0m[Auction] Robert : Got 1,000,000 from Inix(jugg).  Do I hear 1,100,000?[0m
+[23:12] [0m[Auction] Robert : 1,000,000 going once![0m
+[23:12] [0m[Auction] Robert : Got 1,100,000 from Wert(jedi).  Do I hear 1,210,000?[0m
+[23:12] [0m[Auction] Robert : Got 2,000,000 from Elminster(mage).  Do I hear 2,200,000?[0m
+[23:12] [0m[Auction] Robert : Got 2,200,000 from Inix(jugg).  Do I hear 2,420,000?[0m
+[23:12] [0m[Auction] Adalius (viki) : If you can afford this, you can afford to donate[0m
+[23:12] [0m                           to Ogataz.[0m
+[23:12] [0m[Auction] Simonz (jedi) : srsly[0m
+[23:12] [0m[Auction] Robert : 2,200,000 going once![0m
+[23:12] [0m[Auction] Robert : Got 2,420,000 from Volt(jedi).  Do I hear 2,662,000?[0m
+[23:12] [0m[Auction] Wert (jedi) : alrwady did[0m
+[23:12] [0m[Auction] Robert : Got 10,000,000 from Kenny(prie).  Do I hear 11,000,000?[0m
+[23:12] [0m[Auction] Inix (jugg) : zomg viking guild[0m
+[23:12] [0m[Auction] Robert : Got 11,000,000 from Inix(jugg).  Do I hear 12,100,000?[0m
+[23:13] [0m[Auction] Prism (gent) : what[0m
+[23:13] [0m[Auction] Adalius (viki) : THEN DO IT AGAIN YOU WORTHLESS COMMUNIST[0m
+[23:13] [0m[Auction] Rhyson (prie) : holy moneybags[0m
+[23:13] [0m[Auction] Volt (jedi) : viki![0m
+[23:13] [0m[Auction] Robert : 11,000,000 going once![0m
+[23:13] [0m[Auction] Hsima ( sii) : I'm not sure I want to support adalius' dirty[0m
+[23:13] [0m                         habits[0m
+[23:13] [0m[Auction] Robert : 11,000,000 going twice![0m
+[23:13] [0m[Auction] Prism (gent) : Adalius, invite me to Vikings![0m
+[23:13] [0m[Auction] Kenny (prie) : dang i cant bid anymore[0m
+[23:13] [0m[Auction] Volt (jedi) : somebody's bright[0m
+[23:13] [0m[31;1m[Clan] Byron :[0m lol inix wants the skillpoint[0m
+[23:13] [0m[Auction] Robert : Sold to Inix for 11,000,000 coins![0m
+[23:13] [0m[Auction] Nightrider (knig) : 8inix : are you hoarding coinz?[0m
+[23:13] [0m[Auction] Inix (jugg) : [30;1m([34;1m8[30;1m)[0mInix : Yes[0m
+[23:13] [0m[Auction] Adalius (viki) : My next guild creation will be highlander. You[0m
+[23:13] [0m                           have to kill the only person in the guild to[0m
+[23:13] [0m                           join, and if someone kills you, you're out.[0m
+[23:13] [0m[Auction] Benek (prie) : viki is a guild?[0m
+[23:13] [0m[31;1m[Clan] Prism :[0m hes prob got like 500m[0m
+[23:13] [0m[Auction] Kenny (prie) : <---- pissed rn[0m
+[23:14] [0m[Auction] Stasis (elem) : is that a 'woah viki' guild?[0m
+[23:14] [0m[Auction] Adalius (viki) : Destructing A so-big-you'd-better-tell-a-wizard[0m
+[23:14] [0m                           pile of gold coins[0m
+[23:14] [0m[Auction] Xiu (blad) : there can be only one[0m
+[23:14] [0m[Auction] Din (blad) : i'm hoping vikings have a strong spam theme[0m
+[23:14] [0m[Auction] Hsima ( sii) : did you tell a wizard?[0m
+[23:14] [0m[Auction] Adalius (viki) : Nobody on but me :([0m
+[23:15] [0m[Auction] Adalius (viki) : And I guess I talk to myself when I need to speak[0m
+[23:15] [0m                           to someone smart. So...[0m
+[23:15] [0m[Auction] Raest (cybo) : and you're still not getting expert advice[0m
+[23:15] [0m[Auction] Byron (bard) : what's the guild chat?[0m
+[23:17] [0m[37;1mBenek flaps :[0m Skyfall was possibly the best James Bond movie intro song, or[0m
+[23:17] [0m              possibly The World is Not Enough. Undecided.[0m
+[23:18] [0m[37;1mSpace flaps :[0m not you know my name ?[0m
+[23:18] [0m[34;1mKenny shouts:[0m :([0m
+[23:18] [0m[37;1mVolt flaps :[0m live and let die[0m
+[23:18] [0m[37;1mBenek flaps :[0m hmmm... I just heard that, but it didn't stick in my head,[0m
+[23:18] [0m              like the other two.[0m
+[23:25] [0mYou can currently reforge 12 items.[0m
+[23:35] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[23:35] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[23:35] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[23:35] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[23:39] [0m[34;1mLiskerlol shouts:[0m triple kill[0m
+[23:40] [0m[34;1mVolt shouts:[0m C-c-combo!!![0m
+[23:42] [0m[31;1m[Clan] Nix :[0m you cant unload ned's room?[0m
+[23:42] [0m[31;1m[Clan] Byron :[0m you cant?[0m
+[23:42] [0m[31;1m[Clan] Archimedes :[0m Isn't it still being watched by a knigget?[0m
+[23:43] [0m[31;1m[Clan] Nix :[0m maybe room watch?[0m
+[23:43] [0m[31;1m[Clan] Nix :[0m oh well, im going to bed, dog will have me up in 4 hours[0m
+[23:43] [0m[31;1m[Clan] Nix :[0m night yall[0m
+[23:43] [0m[31;1m[Clan] Prism :[0m later buddy[0m
+[23:43] [0m[31;1m[Clan] Archimedes :[0m Night Nix[0m

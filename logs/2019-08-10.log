@@ -1,0 +1,533 @@
+- = LOG STARTED [00:00] = -
+[00:02] [0mYou can currently reforge 12 items.[0m
+[00:10] [0mYou can currently reforge 12 items.[0m
+[00:14] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[00:17] [0m[35;1mAnd [Jedi(34)]:[0m Hi[0m
+[00:18] [0m[35;1mAsp [Jedi(42)]:[0m hiya[0m
+[00:18] [0mChidori [Light(14)]: yo.[0m
+[00:26] [0m[34;1mArchangel shouts:[0m Woo!![0m
+[00:26] [0m[34;1mSpace shouts:[0m woo[0m
+[00:26] [0m[34;1mRomulus shouts:[0m thanks[0m
+[00:26] [0m[34;1mHooligan shouts:[0m woot![0m
+[00:42] [0m[35;1mAnd [Jedi(34)]:[0m night all[0m
+[00:46] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[00:52] [0m[34;1mBoosh shouts:[0m moo've it on over[0m
+[01:03] [0mYou can currently reforge 4 items.[0m
+[01:23] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[01:32] [0m[34;1mSpace shouts:[0m woo![0m
+[01:32] [0m[34;1mHooligan shouts:[0m woooo![0m
+[01:33] [0m[34;1mRaest shouts:[0m haxxorz[0m
+[01:37] [0m[34;1mBoosh shouts:[0m well that level only too 20 years[0m
+[01:53] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[01:55] [0m[32mXaryl says:[0m Most powerful Selene... Grant our disciple, Roken the power of[0m
+[01:55] [0m            your divine blessing, so we may destroy your enemies![0m
+[02:13] [0mYou can currently reforge 4 items.[0m
+[02:13] [0mYou can currently reforge 4 items.[0m
+[02:13] [0mYou can currently reforge 4 items.[0m
+[02:16] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[02:17] [0m[34;1mBoosh shouts:[0m nice[0m
+[02:17] [0m[34;1mSpace shouts:[0m woo! only 1 more to go![0m
+[02:31] [0m[34;1mHavox shouts:[0m woo![0m
+[02:32] [0m[34;1mBoosh shouts:[0m nah da[0m
+[02:32] [0m[34;1mSpace shouts:[0m OOoOooO cheers![0m
+[02:47] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[02:50] [0mYou can currently reforge 4 items.[0m
+[03:03] [0m[34;1mKichi shouts:[0m woo[0m
+[03:03] [0m[32;1mFrom afar, you go 'Woo Woo!' at Hooligan.[0m[0m
+[03:03] [0m[34;1mHooligan shouts:[0m woo.  Look what I started.  :P[0m
+[03:03] [0m[34;1mAsp shouts:[0m moar![0m
+[03:03] [0m[34;1mHooligan shouts:[0m You get a level and you get a level and you get a level...[0m
+[03:16] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[03:49] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[03:51] [0mYou can currently reforge 8 items.[0m
+[04:26] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[04:51] [0mYou can currently reforge 12 items.[0m
+[04:54] [0mYou can currently reforge 12 items.[0m
+[04:57] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[05:24] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[05:52] [0mYou can currently reforge 4 items.[0m
+[05:58] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[06:28] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[06:57] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[07:29] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[07:52] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[09:43] [0mYou can currently reforge 4 items.[0m
+[09:51] [0m[35;1mBurnaby [Jedi(55)]:[0m yo![0m
+[09:54] [0mYou can currently reforge 8 items.[0m
+[10:04] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[10:30] [0mnewb Roken [jedi/104]: I'm trying to @colorscale to apply to my GXP and[0m
+[10:30] [0m                       Force Deflection[0m
+[10:32] [0mnewb Roken [jedi/104]: 100.000 for gxp and 100.00000 for fxp... does the[0m
+[10:32] [0m                       colscale switch need to calculate for the many[0m
+[10:32] [0m                       decimal places?[0m
+[10:35] [0mnewb Burnaby [jedi/110]: no. at most you're talking about a range of 6[0m
+[10:35] [0m                         colors. trying to apply that to decimals is useless[0m
+[10:35] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[10:35] [0mnewb Burnaby [jedi/110]: and since those tend to move so slowly, trying to[0m
+[10:35] [0m                         color it all seems superfluous[0m
+[10:37] [0mnewb Roken [jedi/104]: color me superficial[0m
+[10:38] [0mnewb Burnaby [jedi/110]: sleep near a toddler with markers...done.[0m
+[10:39] [0m[35;1mRoken [Jedi(55)]:[0m the love is real[0m
+[10:40] [0m[35;1mBurnaby [Jedi(55)]:[0m if you're wanting to color them anyway, I'd suggest[0m
+[10:40] [0m                    duplicating the colorscale function to color 99.00 -[0m
+[10:40] [0m                    100+ maybe with increments of .20[0m
+[10:41] [0m[35;1mBurnaby [Jedi(55)]:[0m and for fdef.......[0m
+[10:42] [0m[35;1mBurnaby [Jedi(55)]:[0m maybe just change colors  on the .1[0m
+[10:42] [0m[35;1mBurnaby [Jedi(55)]:[0m 99.1, 99.2[0m
+[10:44] [0m[35;1mRoken [Jedi(55)]:[0m so for hp sp and force it's #switch {10 * %1 / %2}  change[0m
+[10:44] [0m                  that to the decimals?[0m
+[10:46] [0m[35;1mBurnaby [Jedi(55)]:[0m ok the function is using a scale of 1-10[0m
+[10:47] [0m[35;1mBurnaby [Jedi(55)]:[0m lemme come up with a formula[0m
+[10:57] [0m[35;1mBurnaby [Jedi(55)]:[0m this is from excel but you should be able to create a[0m
+[10:57] [0m                    new colscale function that has this logic. this is for[0m
+[10:57] [0m                    gxp[0m
+[10:58] [0m[35;1mBurnaby [Jedi(55)]:[0m =IF(A4<99.01,1,IF(A4>100,10,(A4-99)*10))[0m
+[10:58] [0m[35;1mBurnaby [Jedi(55)]:[0m A4 is $1[0m
+[10:58] [0m[35;1mBurnaby [Jedi(55)]:[0m some nested if thens[0m
+[10:59] [0m[35;1mBurnaby [Jedi(55)]:[0m that will go from 1-10. 100.01%+ = 10[0m
+[11:04] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[11:05] [0mYou can currently reforge 12 items.[0m
+[11:05] [0m[35;1mRoken [Jedi(55)]:[0m if statement is embedded into switch, correct?[0m
+[11:23] [0m[35;1mRoken [Jedi(55)]:[0m fxp probably same if both variables output ##.## while[0m
+[11:23] [0m                  guild stats and check /def output differently[0m
+[11:24] [0m[35;1mBurnaby [Jedi(55)]:[0m right. same function for fdef since only 2 decimals[0m
+[11:27] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[11:30] [0m[34;1mVat shouts:[0m who can fix a spork since sithy cant?[0m
+[11:30] [0m[34;1mVat shouts:[0m smithy[0m
+[11:30] [0m[34;1mGlowie shouts:[0m Knight, but if it's completely broken it's trash[0m
+[11:31] [0m[34;1mGlowie shouts:[0m it also costs knights money to fix, so be sure to tip your[0m
+[11:31] [0m               knight nicely.[0m
+[11:31] [0m[34;1mVat shouts:[0m thanks! no knights on right now so it will have to wait i guess[0m
+[11:32] [0m[34;1mRoadblock shouts:[0m I remember being a knight, I hated it[0m
+[11:33] [0m[35;1mRoken [Jedi(55)]:[0m #function {#if $gxper < 99.01}#ifelse{$gxper > 100} [0m
+[11:33] [0m                  #switch {($gxper - 99) * 10} {#case ..[0m
+[11:33] [0m[34;1mVagrant shouts:[0m I enjoyed it! last time I was a knight there was that[0m
+[11:33] [0m                Anti-Paladin, Paladin subclasses you picked, fun times[0m
+[11:33] [0m[34;1mRoadblock shouts:[0m do knights become necromancers or vicey versey?[0m
+[11:34] [0m[34;1mRoadblock shouts:[0m i May make my second an elemental[0m
+[11:35] [0m[35;1mBurnaby [Jedi(55)]:[0m I guess??? haha.[0m
+[11:35] [0m[35;1mBurnaby [Jedi(55)]:[0m dont know the syntax of your client[0m
+[11:36] [0m[34;1mRoadblock shouts:[0m yep i remember I think I was a falcon knight I believe if[0m
+[11:36] [0m                  memoery serves[0m
+[11:37] [0m[35;1mRoken [Jedi(55)]:[0m what were the 1s in your formula? like 99.01,1?[0m
+[11:37] [0m[34;1mRoadblock shouts:[0m gosh you had death, falcon, and a few others I can[0m
+[11:37] [0m                  remember it was back in like 2004 I think when I first[0m
+[11:37] [0m                  logged on.[0m
+[11:37] [0m[35;1mBurnaby [Jedi(55)]:[0m that way, 0-99.01 defaulted to the first color, which I[0m
+[11:37] [0m                    believe is 1[0m
+[11:38] [0m[35;1mBurnaby [Jedi(55)]:[0m basically you want to ignore trying to color anything[0m
+[11:38] [0m                    other than 99.01 - 100[0m
+[11:38] [0m[35;1mBurnaby [Jedi(55)]:[0m anything over 100 is 100 or 10 rather[0m
+[11:39] [0m[35;1mBurnaby [Jedi(55)]:[0m i mean color it, just eveything up to 99.01 is the first[0m
+[11:39] [0m                    color[0m
+[11:39] [0m[35;1mBurnaby [Jedi(55)]:[0m everything over 100 is the same as 100[0m
+[11:41] [0m[35;1mRoken [Jedi(55)]:[0m alright thank you[0m
+[11:42] [0m[34;1mDin shouts:[0m so's your face![0m
+[11:42] [0m[34;1mBurnaby shouts:[0m you were saying?[0m
+[11:43] [0m[34;1mDin shouts:[0m he started it[0m
+[11:49] [0m[34;1mDyne shouts:[0m Is that equipment or something[0m
+[12:00] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[12:06] [0mYou can currently reforge 12 items.[0m
+[12:21] [0mKitt gshouts: Got MOO? Got MOO? Got Moo?[0m
+[12:21] [0mWiscul@3s gshouts: no i dont[0m
+[12:25] [0mCaeli flaps : I wonder what the differnce between Black 3.0 and Vanta[0m
+[12:25] [0m              Black.....[0m
+[12:25] [0mGaidin flaps : They're different substances.[0m
+[12:26] [0mGaidin flaps : With different manufacturing processes[0m
+[12:26] [0mGaidin flaps : Although, they rely on the same underlying principle.[0m
+[12:26] [0mCaeli flaps : I mean I know Vanta is toxic. I just want to know how[0m
+[12:26] [0m              different in appearnace they are.[0m
+[12:28] [0mGaidin flaps : To the naked eye, they look the same.  Human eyes aren't[0m
+[12:28] [0m               sensitive enough to see the difference.  Given the nature of[0m
+[12:28] [0m               the process, it would probably take specialized equipment to[0m
+[12:28] [0m               meanfully compare the difference.[0m
+[12:29] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[12:30] [0mCaeli flaps : Vanta is made of nanotubes and needs special equipment to[0m
+[12:30] [0m              apply. Black 3.0 is paint and needs nothing special.[0m
+[12:33] [0mGaidin flaps : Oh, I misunderstood.  The process used for Vantablack is also[0m
+[12:33] [0m               on its third iteration and is being referred to as 3.0, as[0m
+[12:33] [0m               well[0m
+[12:34] [0mCaeli flaps : Yeah, and used by two artists who are snubbing each other.[0m
+[12:34] [0mCaeli flaps : Semple has Black 3.o. Kapoor has Vantablack 3.0[0m
+[12:34] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Bugger.  Been days, still haven't caught up with[0m
+[12:34] [0m                           the NPC that trains the dodge ancient teaching. [0m
+[12:34] [0m                           Sneaky bugger.[0m
+[12:35] [0m[35;1mInquisitor [Jedi(Knight)]:[0m Knows dodge so well that he's evasive.  Had to[0m
+[12:35] [0m                           be.[0m
+[12:36] [0mCaeli flaps : Semple also has Pinkest Pink which he will not let Kapoor use[0m
+[12:36] [0mGaidin flaps : ALl the engineering has been published, so it's largely just[0m
+[12:36] [0m               mastubatory bullshit.  Like the original vantablack which was[0m
+[12:36] [0m               licensed is two versions obsolete, now.[0m
+[12:54] [0mCaeli flaps : I think I'm going to order some paints from Semple for my[0m
+[12:54] [0m              jewelry work.[0m
+[12:58] [0mSquirrel flaps : voodoo ordered pants from amazon.[0m
+[12:58] [0mGaidin flaps : Well, duh.  You need to have pants in order to not wear them.[0m
+[12:58] [0m               Otherwise, the wearing_pants flag is undefined.[0m
+[12:59] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[13:00] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[13:00] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[13:00] [0m                          get ready![0m
+[13:06] [0mCaeli flaps : That means I probably can't get the paints from her.[0m
+[13:06] [0mCaeli flaps : w/l[0m
+[13:06] [0mWhoknows flaps : about to ask why you were wanting her pants?[0m
+[13:06] [0mWhoknows flaps : then i re-read and it was paints[0m
+[13:06] [0mYou can currently reforge 12 items.[0m
+[13:08] [0mCaeli flaps : Heh[0m
+[13:16] [0m[32mYou tell Ser:[0m yo[0m
+[13:18] [0m[32mYou tell Ser:[0m help a retard out[0m
+[13:19] [0m[32mYou tell Ser:[0m how was your birthday? feel old yet?[0m
+[13:29] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[14:02] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[14:07] [0mYou can currently reforge 12 items.[0m
+[14:13] [0mKrom <Craft>: gem[0m
+[14:14] [0mKrom <Craft>: gemcraft is done how?[0m
+[14:14] [0mGaidin <Craft>: Enchanting[0m
+[14:14] [0mGaidin <Craft>: Or gemchant?[0m
+[14:14] [0mKrom <Craft>: ah! that's it. thank you.[0m
+[14:14] [0mGaidin <Craft>: If you have a filled gem, it's "gemchant gem into armor"[0m
+[14:15] [0mGaidin <Craft>: There's a max of three gemchant effects[0m
+[14:16] [0mInquisitor <Craft>: There's a max of 3 of a single type of gem effect.  You[0m
+[14:16] [0m                    can have tons of gemchants though.[0m
+[14:16] [0mGaidin <Craft>: What?  I thought only the first three gemchants applied[0m
+[14:16] [0m                effects?[0m
+[14:17] [0mInquisitor <Craft>: Three of a specific type, either gemchanted or crafted[0m
+[14:17] [0m                    into an item.  But no limit otherwise.[0m
+[14:17] [0mGaidin <Craft>: Hunh.  Cool to know[0m
+[14:18] [0mInquisitor <Craft>: Now, that "type" is what it's a gem of, not[0m
+[14:18] [0m                    minor/standard/major.[0m
+[14:18] [0mGaidin <Craft>: Now I really gotta get my ass into the mines more.[0m
+[14:18] [0mInquisitor <Craft>: So you can't do 3 minor endurance, 3 major endurance...[0m
+[14:18] [0mGaidin <Craft>: Or write a minebot.[0m
+[14:18] [0mInquisitor <Craft>: But you can do any 3 endurance, and then throw some[0m
+[14:18] [0m                    lion, and some jackal, or whatever[0m
+[14:23] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[14:36] [0m[34;1mWhoknows shouts:[0m woo woo?[0m
+[14:37] [0m[34;1mNooster shouts:[0m Yes.  "Woo Woo," to be precise.[0m
+[14:54] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[14:55] [0mnewb Thom [bard/48]: how does one fix a "partially repaired" weapon?[0m
+[14:57] [0mnewb Gaidin [elemental/131]: Does it actually say "partially repaired"?[0m
+[14:57] [0mnewb Gaidin [elemental/131]: Or is it just general damage?[0m
+[14:57] [0mnewb Thom [bard/48]: it says that[0m
+[14:58] [0mnewb Gaidin [elemental/131]: That sounds item-specific.  Which weapon is it?[0m
+[14:58] [0mnewb Vat [juggernaut/97]: probably needs magical repair not just physical[0m
+[14:58] [0m                          repair[0m
+[14:58] [0mnewb Thom [bard/48]: marge's carving knife. i got it repaired at the[0m
+[14:58] [0m                     blacksmith and now its like this. i vaguly recall[0m
+[14:58] [0m                     somewhere that there is something i most likely need to[0m
+[14:58] [0m                     do to get it fully repiared[0m
+[14:59] [0mnewb Vat [juggernaut/97]: try going to the gypsy maybe?[0m
+[14:59] [0mnewb Inix [juggernaut/138]: need a knight[0m
+[15:00] [0mnewb Din [bladesinger/108]: or a bladesinger[0m
+[15:00] [0mnewb Din [bladesinger/108]: unless it's bound, then you need a knight[0m
+[15:01] [0mnewb Thom [bard/48]: its bound but *noted*[0m
+[15:06] [0m[34;1mRoadblock shouts:[0m if anyone uses cmud please send me a tell I got a client[0m
+[15:06] [0m                  question[0m
+[15:08] [0mYou can currently reforge 12 items.[0m
+[15:10] [0mKitt gshouts: Got MOO? Got MOO? Got Moo?[0m
+[15:24] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[15:30] [0m[5m[1m[41mYour lightsaber begins to flicker and the handle warms![0m[0m                 [0m
+[15:38] [0m[32;1mFrom afar, Wik goes 'Woo Woo!' at you.[0m[0m
+[15:38] [0m[34;1mRoken shouts:[0m boom[0m
+[15:38] [0m[32;1mFrom afar, Vasha goes 'Woo Woo!' at you.[0m[0m
+[15:38] [0m[32;1mFrom afar, Gandalf goes 'Woo Woo!' at you.[0m[0m
+[15:39] [0m[34;1mGaidin shouts:[0m boon?[0m
+[15:54] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[16:04] [0m[32mYou say: [0mskills                                                               [0m
+[16:04] [0;32mAlyssa says: [0mI have mastered inflict pain, injure-kill, telekinetic kill,[0m
+[16:04] [0m             force lightning, magnify senses, mind trick, telepathy, cloud[0m
+[16:04] [0m             mind, disturbing aura, misdirect, enrage, confusion,[0m
+[16:04] [0m             mindblock, drain crystals, distract, displace matter, dark[0m
+[16:04] [0m             suggestion, lightsaber alteration, freeze winds, dominate[0m
+[16:04] [0m             mind.                                                        [0m
+[16:04] [0;32mAlyssa says: [0mI have become adept at soul siphon, force, meditation, dodge,[0m
+[16:04] [0m             launch item, animal affinity.                                [0m
+[16:04] [0;32mAlyssa says: [0mAnd I have gained an understanding of accelerated healing,[0m
+[16:04] [0m             reduce injury, clear mind, concentration, hibernation trance,[0m
+[16:04] [0m             melee combat, lesser force shield, resist stun, sense force,[0m
+[16:04] [0m             transfer force, alter technology, force storm.               [0m
+[16:04] [0m[32mAlyssa says: [0mI can teach you any of those if you wish.                     [0m
+[16:06] [0mYou can currently reforge 12 items.[0m
+[16:07] [0mYou can currently reforge 12 items.[0m
+[16:08] [0mYou can currently reforge 4 items.[0m
+[16:08] [0mYou can currently reforge 4 items.[0m
+[16:10] [0m[32mChavee says:[0m Welcome back, Roken, and I wish you the best of luck![0m
+[16:11] [0m[32mYou say: [0mhi                                                                   [0m
+[16:11] [0m[32mPaul says:[0m Hi, Roken, do you seek to learn about farming?                  [0m
+[16:11] [0m[32mYou say: [0mjoin                                                                 [0m
+[16:11] [0;32mPaul says: [0mJoining is the easy part and the beginning of your learning. [0m
+[16:11] [0m           Simply say 'farmmenow' and we'll get you started.              [0m
+[16:11] [0m[32mYou say: [0mfarmmenow                                                            [0m
+[16:11] [0;32mPaul says: [0mCongratulations!  You are ready to begin farming!  Remember to[0m
+[16:11] [0m           come back for training once you have learned everything you[0m
+[16:11] [0m           can.                                                           [0m
+[16:13] [0mRoken <C-Trade>: *FREE* A Tome of 'A Farmer's Journey', Vol III[0m
+[16:14] [0m[32mYou say: [0mhi                                                                   [0m
+[16:14] [0;32mFritz says:[0m Hi, Roken, have you come to learn "cooking" to be a "chef"??? [0m
+[16:15] [0m[32mYou say: [0mjoin                                                                 [0m
+[16:15] [0;32mFritz says: [0mYes, we are a very select group.  VERY SELECT.  We only let[0m
+[16:15] [0m            EVERYONE in, but don't let that make you think that it's[0m
+[16:15] [0m            easy!!  Simply say 'chefmenow' and we'll get you started.     [0m
+[16:15] [0m[32mYou say: [0mchefmenow                                                            [0m
+[16:15] [0;32mFritz says: [0mCongratulations!  You are ready to begin cooking!  Remember to[0m
+[16:15] [0m            come back for training once you have learned everything you[0m
+[16:15] [0m            can.                                                          [0m
+[16:29] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[16:33] [0mThom <Craft>: can you keep cooking ingredients in your satchel?[0m
+[16:51] [0mnewb Fargo [Newbie]: are there any Marbles in NewbieLand that I need to[0m
+[16:51] [0m                     finish up before I level up?  or is that Qinfo and[0m
+[16:51] [0m                     restricted?[0m
+[16:51] [0mnewb Gaidin [elemental/131]: you will be able to return to newbieland until[0m
+[16:51] [0m                             you're level 50[0m
+[16:52] [0mnewb Gaidin [elemental/131]: But you should make sure you do the newbie[0m
+[16:52] [0m                             quests (questlist newbie) before you leave. [0m
+[16:52] [0m                             Some are newbieland only, and all are easier as[0m
+[16:52] [0m                             a newbie.[0m
+[16:53] [0mnewb Gaidin [elemental/131]: It's very much worth doing them in newbieland[0m
+[16:53] [0m                             now[0m
+[16:54] [0mnewb Gaidin [elemental/131]: But, if your anxious to move on, there's no[0m
+[16:54] [0m                             permanant harm in passing up those quests for[0m
+[16:54] [0m                             now and jumping into the big, bad world :)[0m
+[16:55] [0mnewb Fargo [Newbie]: <-- Completist.  Working on finishing up the newbie[0m
+[16:55] [0m                     quests before I move on.  Just wanted to make sure I[0m
+[16:55] [0m                     wasn't going to miss out on any Marbles.  Thank you.[0m
+[16:56] [0mnewb Lickloick [juggernaut/49]: yep anytime[0m
+[16:57] [0mnewb Gaidin [elemental/131]: Finding marbles are a special subset of[0m
+[16:57] [0m                             madness.[0m
+[16:58] [0mnewb Thom [bard/48]: espeicially since the list is technically ever growing[0m
+[16:58] [0m                     XD iirc there is a vat to get one, and i think it[0m
+[16:58] [0m                     counts for the quest[0m
+[16:58] [0mnewb Gaidin [elemental/131]: They're fun, happy little accidents.[0m
+[16:58] [0mnewb Thom [bard/48]: as you say gaidin ross :P[0m
+[17:00] [0mnewb Gaidin [elemental/131]: The named quests are the more important bit. [0m
+[17:00] [0m                             But if you've done those, well on you.  That's[0m
+[17:00] [0m                             legimately impressive.  Most people go back to[0m
+[17:00] [0m                             complete them later.[0m
+[17:00] [0mnewb Gaidin [elemental/131]: At this point, you're up for picking a guild.[0m
+[17:01] [0mnewb Fargo [Newbie]: I spent many days search Fantasy in the 90's and only[0m
+[17:01] [0m                     found 2 I think...[0m
+[17:01] [0mnewb Gaidin [elemental/131]: I think the current count is north of 200.[0m
+[17:02] [0mnewb Gaidin [elemental/131]: Have you given thought to a guild?[0m
+[17:03] [0mnewb Fargo [Newbie]: Not yet.  I was a Knight before which was fun, but I've[0m
+[17:03] [0m                     read of a couple new guilds worth checking out. [0m
+[17:03] [0m                     Focusing on finishing newbie quests at the moment. [0m
+[17:03] [0m                     Recommendations?[0m
+[17:03] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[17:03] [0mnewb Gaidin [elemental/131]: I reccomend you find a guild you like.[0m
+[17:04] [0mnewb Skyblade [sorcerer/55]: unless you like Fremen.[0m
+[17:04] [0mnewb Gaidin [elemental/131]: Liking the overall theme is probably the most[0m
+[17:04] [0m                             important part.[0m
+[17:05] [0mnewb Gaidin [elemental/131]: Some guilds get powerful faster than others,[0m
+[17:05] [0m                             but if your'e the type that did all the newbie[0m
+[17:05] [0m                             quests at level 4, you're probably one to like[0m
+[17:05] [0m                             the theme more than anything else[0m
+[17:05] [0mnewb Lickloick [juggernaut/49]: if he wants power then go with what you *qnt[0m
+[17:06] [0mnewb Lickloick [juggernaut/49]: want*[0m
+[17:06] [0mnewb Fargo [Newbie]: I see several new guilds that I'm not familiar with.  I[0m
+[17:06] [0m                     will have to spend some time reading.  Thanks![0m
+[17:06] [0mnewb Roadblock [changeling/72]: Changelings are a good place to start good[0m
+[17:06] [0m                                progression and the intrinsic's are quite[0m
+[17:06] [0m                                nice[0m
+[17:07] [0mnewb Roadblock [changeling/72]: but to each his or her own[0m
+[17:07] [0mnewb Gaidin [elemental/131]: Feel free to ask any questions about guilds[0m
+[17:07] [0m                             here.  Most people will give you fair and[0m
+[17:07] [0m                             honest answers about how that guild works.[0m
+[17:08] [0mnewb Gaidin [elemental/131]: But don't get too wrapped up in the choice.  If[0m
+[17:08] [0m                             you join a guild and don't like it, you lose[0m
+[17:08] [0m                             nothing except progess in that specific guild[0m
+[17:08] [0m                             by leaving.[0m
+[17:08] [0mnewb Fargo [Newbie]: Good to know![0m
+[17:09] [0mYou can currently reforge 4 items.[0m
+[17:11] [0mnewb Gaidin [elemental/131]: There's also "core" guilds.  They're designed[0m
+[17:11] [0m                             to be simple to play and fairly quick to[0m
+[17:11] [0m                             advance.  Those guilds are android, fighter,[0m
+[17:11] [0m                             sorcerer, and cleric.[0m
+[17:11] [0mnewb Thom [bard/48]: yup! you get a pretty good view of a guild by the time[0m
+[17:11] [0m                     you get a few guild levels and the initial ones usually[0m
+[17:11] [0m                     dont take very long to get. but yes. ;3 (psstt join[0m
+[17:11] [0m                     bards :P)[0m
+[17:11] [0mnewb Gaidin [elemental/131]: You're limited at the top end, but they're[0m
+[17:11] [0m                             designed to be easy to play so you can get your[0m
+[17:11] [0m                             feet wet.[0m
+[17:12] [0mnewb Thom [bard/48]: yup the core guilds are useful, but there are a lot of[0m
+[17:12] [0m                     intersting guilds to choose from. one of these days[0m
+[17:12] [0m                     i'll have to figure out breeders[0m
+[17:12] [0mnewb Skyblade [sorcerer/55]: Basically, its a way to become obsurdly[0m
+[17:12] [0m                             powerful without alot of time invested, I'm[0m
+[17:12] [0m                             nearing my maximum power (which is very[0m
+[17:12] [0m                             powerful, but also nowhere near as powerful as[0m
+[17:12] [0m                             I could be with a real Guild).[0m
+[17:13] [0mnewb Thom [bard/48]: mmhmm i find such guilds useful if you just want the HC[0m
+[17:13] [0m                     skill points XD[0m
+[17:14] [0mnewb Gaidin [elemental/131]: Farming HC skill points is a bit beyond newbie[0m
+[17:14] [0m                             chat.[0m
+[17:16] [0mnewb Gaidin [elemental/131]: The short answer is still pick a guild based on[0m
+[17:16] [0m                             theme.  All the power on the MUD won't help if[0m
+[17:16] [0m                             you don't like your guild.[0m
+[17:19] [0m[34;1mWik shouts:[0m playcrack for free cult[0m
+[17:28] [0m[32;1mFrom afar, you poke Ser in the ribs.[0m[0m
+[17:28] [0mRPDFd  Wm:g Wc: 31% Gx: 34.13% Fx: 10.05%[0m
+[17:29] [0mnewb Thom [bard/48]: true true xd it is far past this line but xd yeah. read[0m
+[17:29] [0m                     up and have fun ;3 that is the name of the game ;3[0m
+[17:33] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[17:43] [0m[35;1mRoken [Jedi(55)]:[0m whatever[0m
+[17:43] [0m[34;1mRoken shouts:[0m whatever[0m
+[17:52] [0mYou can currently reforge 4 items.[0m
+[17:52] [0mYou can currently reforge 4 items.[0m
+[18:11] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[18:11] [0mYou can currently reforge 4 items.[0m
+[18:13] [0mRoken flaps : percents be used in tintin? like 70% hp[0m
+[18:14] [0mRoken flaps : theory is %x is dynamic value and x% is static[0m
+[18:15] [0mGaidin flaps : % is usually used to indicate an argument to an action or[0m
+[18:15] [0m               alias[0m
+[18:15] [0mSkyblade flaps : how to termux > tintin++ on android phone? is there a how[0m
+[18:15] [0m                 to doc? or do I have to learn this os simulator with my own[0m
+[18:15] [0m                 brain.[0m
+[18:15] [0mRoken flaps : static static.. but not a wildcard when % symbol is a suffix[0m
+[18:16] [0mThom flaps : xd all i can think of is just take a look at the docs on the[0m
+[18:16] [0m             tin tin website. they're decently detailed[0m
+[18:17] [0mRoken flaps : trial and error is fun too.. it is so quiet here on a[0m
+[18:17] [0m              saturday. Right so #LOCAL minhp 50%   is what im going for[0m
+[18:19] [0mGaidin flaps : Skyblade: It's much easier to install tintin remotely and[0m
+[18:19] [0m               just use a regular SSH client[0m
+[18:20] [0mGaidin flaps : And Roken, I've not used a percentage symbol in that way in[0m
+[18:20] [0m               tintin.   I usually grab values like that as decimals (so 50%[0m
+[18:20] [0m               hp = .5)[0m
+[18:21] [0mTurnhold flaps : #act {HP: %1\%} {#var hp %1}[0m
+[18:22] [0mThom flaps : if you want % then you can just take the fraction and *100 xd[0m
+[18:22] [0m             and you'll get your % xd. thats short of what the hp bar scritp[0m
+[18:22] [0m             i have from some jedi that colors every 10% XD[0m
+[18:23] [0mThom flaps : though what i need to find is a good chat monitor for tin tin[0m
+[18:23] [0m             xd[0m
+[18:25] [0mRoken flaps : .5 * $hp for example? Ser has been quiet. He has a wonderful[0m
+[18:25] [0m              chat monitor that i have the pleasure of using[0m
+[18:28] [0m[32mThom tells you:[0m so what exactly are you trying to do persay. like just[0m
+[18:28] [0m        color the hp of something based on percentage or?[0m
+[18:28] [0mRoken flaps : done if statments enclosed in case without success believe[0m
+[18:28] [0m              tt++ is based loosely javascript and c[0m
+[18:30] [0m[32mYou tell Thom:[0m two things 1) to colorize more! gxp/deflect xp. 2) i want to[0m
+[18:30] [0m        spam attempts of reduce injury and clear mind. reflex impulse[0m
+[18:30] [0m        sometimes conflict[0m
+[18:32] [0mGaidin flaps : Heh, tintin predates javascript[0m
+[18:32] [0m[32mThom tells you:[0m the colorize is easy enough, i have a color function where[0m
+[18:32] [0m        you give it top and bottom (not written by me) and it'll color the[0m
+[18:32] [0m        text based on that.  i just grabbed someone's jedi health bar from[0m
+[18:32] [0m        the 3k discord and the funciton was in it. that would sole that[0m
+[18:32] [0m        part[0m
+[18:32] [0mGaidin flaps : It's just weird, kind of C, syntax[0m
+[18:33] [0m[32mThom tells you:[0m the latter you may be able to make a function that[0m
+[18:33] [0m        triggers based on your hp, by grabbing it in the same way maybe and[0m
+[18:33] [0m        calculating. xd[0m
+[18:33] [0m[32mThom tells you:[0m i only just got tin tin so xd, but i do program for a[0m
+[18:33] [0m        living XD[0m
+[18:36] [0m[32mYou tell Thom:[0m i have chaosomen's hpbar from discord but since changed.[0m
+[18:36] [0m        colscale needs to be different for gxp dxp. control and force grab[0m
+[18:36] [0m        like 76 but outputs 86.23 while gxp captures and outputs with[0m
+[18:36] [0m        decimals like 36.27 -- typed var[0m
+[18:40] [0m[32mYou tell Thom:[0m ive messed around a few different formulas that calculate[0m
+[18:40] [0m        but confident i miss something. new to programming. originally[0m
+[18:40] [0m        wanted different color every 25% but been attempting same color[0m
+[18:40] [0m        until 99% eh rather do fourths[0m
+[18:41] [0m[32mYou tell Thom:[0m i can post on tintin forum or discord[0m
+[18:43] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[18:44] [0m[32mThom tells you:[0m you could dm me, i'm on there as Matrim/Thom i do believe.[0m
+[18:44] [0m[32mThom tells you:[0m you may be able to get rid of decimal places with #math[0m
+[18:44] [0m        and %100 the value since it should be a percentage less than 100%[0m
+[19:12] [0mYou can currently reforge 8 items.[0m
+[19:13] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[19:31] [0m[34;1mWhoknows shouts:[0m Run away!!![0m
+[19:31] [0m[34;1mNauda shouts:[0m No, stay and fight till the end[0m
+[19:40] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[20:08] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[20:13] [0mYou can currently reforge 12 items.[0m
+[20:40] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[20:55] [0m[34;1mKitt shouts:[0m Just another day for you and me, in Paradise[0m
+[21:00] [0m[34;1mRoadblock shouts:[0m takme me down to the Paradise City where the grass is[0m
+[21:00] [0m                  green and girls are pretty[0m
+[21:00] [0m[34;1mMartyr shouts:[0m No.[0m
+[21:00] [0m[34;1mRoadblock shouts:[0m why not?[0m
+[21:03] [0mYou can currently reforge 12 items.[0m
+[21:03] [0mYou can currently reforge 12 items.[0m
+[21:04] [0m[34;1mMartyr shouts:[0m triceratops or gtfo[0m
+[21:04] [0m[34;1mRoadblock shouts:[0m but I unlearned it sniff sniff[0m
+[21:09] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[21:17] [0m[34;1mMud shouts:[0m not da momma[0m
+[21:18] [0m[34;1mZor shouts:[0m She said to come in, It's late[0m
+[21:21] [0mYou can currently reforge 4 items.[0m
+[21:24] [0m[34;1mArchangel shouts:[0m Woo!![0m
+[21:24] [0m[34;1mNooster shouts:[0m WOO!!![0m
+[21:31] [0mSer <Craft>: wooooo[0m
+[21:32] [0m[32;1m <Congratulations!>[0m : Martyr has become a chaos wrangler![0m
+[21:32] [0mSer <Craft>: wooooo[0m
+[21:39] [0m[32mSer tells you:[0m did you cquit?[0m
+[21:40] [0m[32mYou tell Ser:[0m no[0m
+[21:40] [0m[32mYou tell Ser:[0m finger dangerzone[0m
+[21:40] [0m[32mSer tells you:[0m also sorry i missed your tells earlier been putting up[0m
+[21:40] [0m        insulation all day/busy helping zach w house[0m
+[21:40] [0m[32mYou tell Ser:[0m no worries. How was turning 30?[0m
+[21:41] [0m[32mSer tells you:[0m uneventful[0m
+[21:41] [0m[Clan] Roken enters the game.  [0m
+[21:41] [0m[Clan] Archangel : Welcome Roken[0m
+[21:41] [0m[32;1mFrom afar, Pol goes 'Woo Woo!' at you.[0m[0m
+[21:41] [0m[Clan] Ser : oh hai[0m
+[21:41] [0m[Clan] Ser : again[0m
+[21:42] [0m[Clan] Ser : on your "main"[0m
+[21:42] [0m[Clan] Roken : yes my main[0m
+[21:43] [0m[Clan] Roken : got sweet sweet color to the jedi gxp dxp %[0m
+[21:43] [0m[Clan] Pol : what color[0m
+[21:43] [0m[Clan] Ser : yah you used multiplication i can read[0m
+[21:43] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[21:43] [0m[32;1mFrom afar, Ser winks at you suggestively.[0m[0m
+[21:45] [0m[Clan] Roken : when did you hack me ser?[0m
+[21:45] [0m[Clan] Roken : uh struggling with color. Red and orange look the same[0m
+[21:45] [0m[Clan] Roken : should be red, orange, yellow, green  every 25%[0m
+[21:47] [0m[32mYou tell Ser:[0m it's been changed since you last looked.. now xpcolscale has[0m
+[21:47] [0m        cases 0-3 supported by #math {xpval} {(%1/25) % 100}[0m
+[21:55] [0m[34;1mSquirrel shouts:[0m all your base are belong to us.[0m
+[21:56] [0m[34;1mWik shouts:[0m tree court![0m
+[21:56] [0m[34;1mXiu shouts:[0m sorry, i had 0 base to start with so you didn't really gain much[0m
+[21:56] [0m            for your efforts[0m
+[21:59] [0mYou can currently reforge 4 items.[0m
+[21:59] [0mYou can currently reforge 4 items.[0m
+[22:19] [0m[32;1mFrom afar, Ser shrugs at you.[0m[0m
+[22:20] [0m[Clan] Ser : depends on your client, may need to use putty-256color or[0m
+[22:20] [0m             something in your XTERM environment variable[0m
+[22:20] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[22:21] [0mYou can currently reforge 4 items.[0m
+[22:39] [0mSsRPDFd  Wm:g Wc: 88% Gx: 41.33% Fx: 11.53%[0m
+[22:43] [0m[35;1mRoken [Jedi(55)]:[0m low sp killinf me[0m
+[22:49] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[23:23] [0mYou can currently reforge 8 items.[0m
+[23:24] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[23:26] [0mInfectious flaps : resetting zaambies swing by entrance[0m
+[23:26] [0m[34;1mInfectious shouts:[0m resetting zaambies swing by entrance[0m
+[23:38] [0m[Clan] Aka enters the game.  [0m
+[23:39] [0mCaeli flaps : HAHA! Because I go so much work done around the house today,[0m
+[23:39] [0m              my SO got me a couple of beers![0m
+[23:39] [0mRoken flaps : ok be there asap[0m
+[23:40] [0mWhoknows flaps : wut? you gotta do work for a couple of beers?[0m
+[23:41] [0mCaeli flaps : Considering 90% ofit was in my studio, I consider it a deal.[0m
+[23:41] [0m[32mYou tell Infectious:[0m am i late for a reset?[0m
+[23:44] [0m[35;1mRoken [Jedi(55)]:[0m got colorized gxp dxp! #function #math {var} {(%1/25) %[0m
+[23:44] [0m                  100} #switch + 4 cases[0m
+[23:45] [0m[35;1mRoken [Jedi(55)]:[0m good night[0m
+[23:47] [0m[Clan] Xaryl : more donates going in[0m
+[23:49] [0m[Clan] Roken : how does one donate?[0m
+[23:49] [0m[Clan] Archangel : Some guilds have to donate junk for status.[0m
+[23:50] [0m[Clan] Roken : is there house portals to clan house?[0m
+[23:50] [0m[Clan] Archangel : Nope[0m
+[23:51] [0m[Clan] Roken : so not a clan donate? i have to for guild to get credits for[0m
+[23:51] [0m               supply[0m
+[23:51] [0m[Clan] Archangel : Correct[0m
+[23:52] [0m[Clan] Archangel : We are using clan boxes to dump junk we're collecting for[0m
+[23:52] [0m                   other members to donate for their status.[0m
+[23:52] [0m[Clan] Roken : copy[0m
+[23:52] [0m[Clan] Archangel : It's mainly the bards.[0m
+[23:53] [0m[Clan] Mud : fuckin bard[0m
+[23:53] [0m[Clan] Mud : +s[0m
+[23:54] [0m[Clan] Mud : went from onyx to amethyst[0m
+[23:54] [0m[Clan] Archangel : Nice![0m
+[23:54] [0m[Clan] Archangel : Anyone figured out the color order?[0m
+[23:54] [0m[Clan] Mud : not sure, wish it was somewhere though[0m
+[23:55] [0mCaeli flaps : WHat?  College Humor has a trailer for a Daria movie. But, her[0m
+[23:55] [0m              shirt is purple instead of orange >:([0m
+[23:55] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m

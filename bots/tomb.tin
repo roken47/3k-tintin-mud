@@ -1,0 +1,14 @@
+#class {bot} {open}
+#var {areaname} {Smurfs}
+#var {botpath} {e;e;e;e;e;e;e;e;e;s;s;s;{push lid;glance};n;n;n;e;e;e;{push lid;glance};w;w;w;n;n;n;{push lid;glance};s;s;s;w;w;w;w;w;w;w;w;w}
+
+
+#act {[MoNSTaR]A Captain of the Arovian Honor Guard} {#var mobname hengst;_check_mob}
+#act {[MoNSTaR]An Arovian honor guard} {#var mobname guard;_check_mob}
+#act {[MoNSTaR]Harakir, Champion of King Alaren} {#var mobname harakir;_check_mob}
+#act {[MoNSTaR]Mircarla, High priestess to King Alaren} {#var mobname mircarla;#delay {2} {k mircarla};_check_mob}
+#act {[MoNSTaR]Sumaren, Vizier to King Alaren} {#var mobname sumaren;_check_mob}
+#act {[MoNSTaR]Harakir, Champion of King Alaren} {#var mobname harakir;_check_mob}
+
+#class {bot} {close}
+#read bots/generic.tin

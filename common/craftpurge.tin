@@ -1,0 +1,59 @@
+#VAR {crafting[quality][specific]} {{1}{legendary}{2}{superior}{3}{good}{4}{average}{5}{poor}{6}{crude}{7}{worthless}};
+#VAR {crafting[quality][all]} {{best}{worst}{all}{any}${crafting[quality][specific]}};
+#VAR {crafting[limit][default]} {70};
+
+#ALIAS {sl}
+{
+    #ACTION {^%%*%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|} 
+    {
+        #FORMAT {crafting[ingredient]} {%l} {%%1};
+        #VAR {satchel[$crafting[ingredient]][total]} {%%4};
+        #VAR {satchel[$crafting[ingredient]][subtotal][1]} {%%7};
+        #VAR {satchel[$crafting[ingredient]][subtotal][2]} {%%10};
+        #VAR {satchel[$crafting[ingredient]][subtotal][3]} {%%13};
+        #VAR {satchel[$crafting[ingredient]][subtotal][4]} {%%16};
+        #VAR {satchel[$crafting[ingredient]][subtotal][5]} {%%19};
+        #VAR {satchel[$crafting[ingredient]][subtotal][6]} {%%22};
+        #VAR {satchel[$crafting[ingredient]][subtotal][7]} {%%25};
+        .CleanIngredient $crafting[ingredient];
+    };
+
+    #ACTION {You have %%d/%%d items in your satchel.}
+    {
+        #UNACTION {^%%*%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|%%s%%d%%s|};
+        #UNACTION {You have %%d/%%d items in your satchel.};
+    };
+
+    #SEND {!stashlist %0};
+};
+
+#ALIAS {.CleanIngredient}
+{
+    #REGEX {%0} {{fragment|essence}}
+    {
+        #FOREACH {$crafting[quality][specific][]} {i}
+        {
+            #IF {$satchel[%0][subtotal][$i] >= 5}
+            {
+                #SEND {!unstash2 5 $crafting[quality][specific][$i] %0};
+                #SEND {!assemble %0};
+                #SEND {!stash all};
+            };
+        };
+    }
+    {
+        #IF {$crafting[limit][%0] > 0}
+        {
+            #VAR {crafting[limit][current]} {$crafting[limit][%0]};
+        }
+        {
+            #VAR {crafting[limit][current]} {$crafting[limit][default]};
+        }
+        #MATH {crafting[delta]} {$satchel[%0][total] - $crafting[limit][current]};
+        #IF {$crafting[delta] > 0} 
+        {
+            #$crafting[delta] {!unstash2 worst %0};
+            #VAR {satchel[%0][total]} {$crafting[limit][current]};
+        };
+    };
+};

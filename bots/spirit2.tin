@@ -1,0 +1,21 @@
+#class {bot} {open};
+#var {area} {spirit_2};
+#var {botpath} {doorway;onward;doorway;onward;doorway;onward;doorway;onward;doorway;onward;doorway;onward;doorway;onward;doorway;onward;doorway;onward;doorway;light;will};
+tank ga;
+
+#act {^[MoNSTaR]{Sandalphon, archangel of Malkuth|Gabriel, archangel of Yesod|Michael, archangel of Hod|Haniel, archangel of Netzach|Raphael, archangel of Tipharet|Khamael, archangel of Geburah|Tzadkiel, archangel of Chesed|Tzaphkiel, archangel of Binah|Ratziel, archangel of Chockmah|Metatron, archangel of Keter}} {
+#if {"%1" == "Sandalphon, archangel of Malkuth"} {#var mobname angel};
+#if {"%1" == "Gabriel, archangel of Yesod"} {#var mobname angel};
+#if {"%1" == "Michael, archangel of Hod"} {#var mobname angel};
+#if {"%1" == "Haniel, archangel of Netzach" {#var mobname angel};
+#if {"%1" == "Raphael, archangel of Tipharet"} {#var mobname angel};
+#if {"%1" == "Khamael, archangel of Geburah"} {#var mobname angel};
+#if {"%1" == "Tzadkiel, archangel of Chesed"} {#var mobname angel};
+#if {"%1" == "Tzaphkiel, archangel of Binah"} {#var mobname angel};
+#if {"%1" == "Ratziel, archangel of Chockmah"} {#var mobname angel};
+#if {"%1" == "Metatron, archangel of Keter"} {#var mobname angel};
+_checkmob;
+};
+#act {^Scroll of the Universe} {get scroll};
+#class {bot} {close};
+#read bots/generic.tin;

@@ -1,0 +1,895 @@
+- = LOG STARTED [00:00] = -
+[00:07] [0m[31;1m[Clan] Nine :[0m i have a cmud script for sec z[0m
+[00:07] [0m[31;1m[Clan] Nine :[0m assuming thats what was being talked about heh, too late![0m
+[00:19] [0m[34;1mCrolack shouts:[0m Microsoft Queen v2.0[0m
+[00:39] [0m[Auction] Robert : Up for bids: Ring of Hearts and Ring of Hearts.[0m
+[00:39] [0m[Auction] Robert : Xiu has requested 0 as the opening offer.[0m
+[00:39] [0m[Auction] Xiu (blad) : both have gemology... bidding war 2021, epic numbers[0m
+[00:39] [0m                       incoming. i apologize in advance for this crashing[0m
+[00:39] [0m                       the mud.[0m
+[00:39] [0m[Auction] Robert : Got 0 from Skyblade(knig).  Do I hear 50?[0m
+[00:39] [0m[Auction] Robert : Got 50 from Sky(jugg).  Do I hear 100?[0m
+[00:39] [0m[Auction] Robert : Got 5,000 from Volt(jedi).  Do I hear 5,100?[0m
+[00:40] [0m[Auction] Robert : Got 5,100 from Sky(jugg).  Do I hear 5,355?[0m
+[00:40] [0m[Auction] Robert : 5,100 going once![0m
+[00:40] [0m[Auction] Robert : 5,100 going twice![0m
+[00:40] [0m[Auction] Robert : Got 5,355 from Skyblade(knig).  Do I hear 5,622?[0m
+[00:40] [0m[Auction] Robert : 5,355 going once![0m
+[00:40] [0m[Auction] Robert : 5,355 going twice![0m
+[00:41] [0m[Auction] Robert : Sold to Skyblade for 5,355 coins![0m
+[00:47] [0m[37;1mSky flaps :[0m beloch, come one come all - im tanking, voodoo is blicking![0m
+[01:05] [0mnewb Godric [adventurer/5]: I'd like to try to join the Necromancer Guild[0m
+[01:05] [0m                            but I don't have the foggiest clue where to find[0m
+[01:05] [0m                            it.[0m
+[01:06] [0mnewb Volt [jedi/133]: your best bet is to use 'players necro' and ask one of[0m
+[01:06] [0m                      them for directions and a recruit[0m
+[01:07] [0mnewb Volt [jedi/133]: there will be quite a bit to learn at first and a[0m
+[01:07] [0m                      recruiter will help you sift through all of the new[0m
+[01:07] [0m                      info[0m
+[01:07] [0mnewb Godric [adventurer/5]: Should I wait until I finish running around the[0m
+[01:07] [0m                            newbie area before really thinking about doing a[0m
+[01:07] [0m                            guild?[0m
+[01:07] [0mnewb Whoknows [priest/135]: no[0m
+[01:08] [0mnewb Sky [juggernaut/133]: you can still go to newbie land until you are lvl[0m
+[01:08] [0m                           50[0m
+[01:08] [0mnewb Sky [juggernaut/133]: so after joining a guild you can do the newbie[0m
+[01:08] [0m                           quests if you want to, for a short time[0m
+[01:08] [0mnewb Volt [jedi/133]: i did, but it's not necessary.  it'll help you if[0m
+[01:08] [0m                      you're new to muds in general and it's a tame version[0m
+[01:08] [0m                      of 3k[0m
+[01:08] [0mnewb Godric [adventurer/5]: Thanks[0m
+[01:09] [0mnewb Skyblade [knight/111]: agree with Volt, there's a jillion low xp areas[0m
+[01:09] [0m                            in the rest of the mud, newbie area is like[0m
+[01:09] [0m                            bowling with rail guards.[0m
+[01:09] [0mnewb Skyblade [knight/111]: low xp = low class.[0m
+[01:18] [0mnewb Vagrant [necromancer/140]: Godric and Lanatin chat here[0m
+[01:19] [0mnewb Lanatin [adventurer/5]: ah ok[0m
+[06:53] [0mYou can currently reforge 8 items.[0m
+[06:54] [0mYou can currently reforge 8 items.[0m
+[06:59] [0m[Auction] Robert : Up for bids: A strangely dense, very blue wooden ring[0m
+[06:59] [0m                   {radiant} [<*/*(O)*\*>].[0m
+[06:59] [0m[Auction] Robert : Xiu has requested 0 as the opening offer.[0m
+[06:59] [0m[Auction] Robert : Got 0 from Al(chan).  Do I hear 50?[0m
+[06:59] [0m[Auction] Robert : Got 50 from Gamst(elem).  Do I hear 100?[0m
+[06:59] [0m[Auction] Robert : Got 100 from Schlaus(chan).  Do I hear 150?[0m
+[06:59] [0m[Auction] Robert : Got 558 from Inquisitor(jedi).  Do I hear 608?[0m
+[06:59] [0m[Auction] Inquisitor (jedi) : Wait, this is the SP regen one?[0m
+[06:59] [0m[Auction] Robert : Got 20,000 from Gamst(elem).  Do I hear 20,400?[0m
+[07:00] [0m[Auction] Xiu (blad) : yes, sp[0m
+[07:00] [0m[Auction] Inquisitor (jedi) : Mah, I don't usse SP.  :P[0m
+[07:00] [0m[Auction] Robert : 20,000 going once![0m
+[07:00] [0m[Auction] Al (chan) : you need to fdef more[0m
+[07:00] [0m[Auction] Inquisitor (jedi) : Not in any meaningful quantity anyway[0m
+[07:00] [0m[Auction] Robert : 20,000 going twice![0m
+[07:00] [0m[Auction] Robert : Got 35,000 from Javelin(chan).  Do I hear 38,500?[0m
+[07:00] [0m[Auction] Robert : 35,000 going once![0m
+[07:00] [0m[Auction] Al (chan) : one meeelion deflects/round![0m
+[07:00] [0m[Auction] Robert : 35,000 going twice![0m
+[07:00] [0m[Auction] Robert : Got 38,500 from Gamst(elem).  Do I hear 42,350?[0m
+[07:00] [0m[Auction] Robert : Got 50,000 from Javelin(chan).  Do I hear 55,000?[0m
+[07:01] [0m[Auction] Xiu (blad) : yeah this would just cost you whatever gxp clear mind[0m
+[07:01] [0m                       is worth[0m
+[07:01] [0m[Auction] Robert : Got 100,000 from Caboose(cybo).  Do I hear 110,000?[0m
+[07:01] [0m[Auction] Robert : 100,000 going once![0m
+[07:01] [0m[Auction] Robert : 100,000 going twice![0m
+[07:01] [0m[Auction] Inquisitor (jedi) : In the grand scheme of all that is shields,[0m
+[07:01] [0m                              control pain, and heals?  Functionally[0m
+[07:01] [0m                              nothing.[0m
+[07:01] [0m[Auction] Robert : Sold to Caboose for 100,000 coins![0m
+[07:15] [0mnewb Sena [Newbie]: I've got some weird ascii symbols popping up at the end[0m
+[07:15] [0m                    of room names and exits. I tried installing the mudlet[0m
+[07:15] [0m                    mapper yesterday, so I think that's why, but having[0m
+[07:15] [0m                    removed it and started a whole new profile, they're[0m
+[07:15] [0m                    still there. Is there an in-game setting I might have[0m
+[07:15] [0m                    messed up that could cause it?[0m
+[07:16] [0mnewb Stasis [elemental/135]: 'ansi fix'?[0m
+[07:17] [0mnewb Sena [Newbie]: Hrmm. No luck.[0m
+[07:17] [0mnewb Echoloc [juggernaut/134]: aset would show what may be doing it[0m
+[07:17] [0mnewb Stasis [elemental/135]: client settings probably added suffixes to the[0m
+[07:17] [0m                             exits for it's mapping triggers[0m
+[07:18] [0mnewb Stasis [elemental/135]: ansi wipe should clear them?[0m
+[07:18] [0mnewb Echoloc [juggernaut/134]: or ansi default[0m
+[07:18] [0mnewb Sena [Newbie]: Ansi default got rid of the one after exits. Lets see[0m
+[07:18] [0m                    here...[0m
+[07:23] [0mnewb Sena [Newbie]: Last question and I'll quit pestering! How do you set a[0m
+[07:23] [0m                    bold color with setcolor? Or the lighter version of a[0m
+[07:23] [0m                    color? Instead of the dark green, the light green.[0m
+[07:25] [0mnewb Stasis [elemental/135]: ansi colors shows all the codes[0m
+[07:25] [0mnewb Sena [Newbie]: Thanks a ton guys. All fixed.[0m
+[07:32] [0m[36m<BS> Xiu :[0m yo[0m
+[07:35] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[07:36] [0m[31;1m[Clan] Boscar enters the game.[0m  [0m
+[07:38] [0m[31;1m[Clan] Boscar leaves the game.[0m  [0m
+[07:39] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[07:39] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[07:39] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[07:42] [0mYou can currently reforge 11 items.[0m
+[07:59] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[07:59] [0m[31;1m[Clan] Boscar enters the game.[0m  [0m
+[08:00] [0m[31;1m[Clan] Boscar leaves the game.[0m  [0m
+[08:01] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[08:04] [0mYou can currently reforge 0 items.[0m
+[08:04] [0m[36m<BS> Dangerzone :[0m yo fam[0m
+[08:05] [0m[36m<BS> Din :[0m heya[0m
+[08:05] [0m[36m<BS> Metaljaz :[0m hiya[0m
+[08:08] [0m[31;1m[Clan] Oscar :[0m door1: enter a white, b blue, c yellow, d blue[0m
+[08:08] [0m[31;1m[Clan] Oscar :[0m door2: enter a black, b yellow, c blue, d white[0m
+[08:08] [0m[31;1m[Clan] Oscar :[0m if anyone wants to enter fallout[0m
+[08:30] [0m[Auction] Murmandamus (necr) : anyone have string 2.0 I can dup?[0m
+[08:33] [0m[37;1mHooligan flaps :[0m anyone for a quick paul run?[0m
+[08:37] [0m[31;1m[Clan] Saim :[0m any help for beloch?[0m
+[08:39] [0m[31;1m[Clan] Oscar :[0m omw[0m
+[08:40] [0m[31;1m[Clan] Oscar :[0m saim, any chance you got extra reforges?[0m
+[08:40] [0m[31;1m[Clan] Saim :[0m i do after beloch[0m
+[08:42] [0m[31;1m[Clan] Oscar :[0m awesome[0m
+[08:42] [0mYou can currently reforge 4 items.[0m
+[08:42] [0m[31;1m[Clan] Oscar :[0m im gonna go try paul quick[0m
+[08:42] [0m[31;1m[Clan] Oscar :[0m and when i die[0m
+[08:42] [0m[31;1m[Clan] Oscar :[0m ill come back to beloch[0m
+[08:43] [0m[31;1m[Clan] Saim :[0m kk[0m
+[08:52] [0m[34;1mNauda shouts:[0m that mud was fleeting[0m
+[08:52] [0m[31;1m[Clan] Oscar :[0m i'm somehow living this time[0m
+[08:54] [0m[31;1m[Clan] Oscar :[0m omg i got tag[0m
+[08:54] [0m[31;1m[Clan] Droptable :[0m sick[0m
+[08:55] [0m[31;1m[Clan] Oscar :[0m fuckin dual vamp blades in here almost blew me up[0m
+[08:57] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[08:57] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[08:59] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[08:59] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[08:59] [0m[37;1mHooligan flaps :[0m sorry for the debacle folks. string back on ah[0m
+[08:59] [0m[37;1mNauda flaps :[0m you hhooligan, you[0m
+[09:00] [0m[31;1m[Clan] Nix :[0m got a tag?[0m
+[09:14] [0m[31;1m[Clan] Nameless :[0m slurp[0m
+[09:15] [0m[34;1mFrank shouts:[0m everyone have their right alt on?[0m
+[09:15] [0m[31;1m[Clan] Timmy :[0m richard branson is my companies keynote speaker today - he's[0m
+[09:15] [0m               busy showing us around necker island atm - he wins at pretty[0m
+[09:15] [0m               much everything[0m
+[09:15] [0m[34;1mFrank shouts:[0m or left alt :P[0m
+[09:16] [0m[34;1mCaboose shouts:[0m no, how long we got?[0m
+[09:16] [0m[34;1mMurmandamus shouts:[0m what's an alt?[0m
+[09:16] [0m[34;1mAl shouts:[0m alt right?  no thanks[0m
+[09:16] [0m[34;1mNauda shouts:[0m middle alt[0m
+[09:16] [0m[34;1mFrank shouts:[0m   1 min[0m
+[09:16] [0m[34;1mXiu shouts:[0m alt right? no way man not me i can't stand those guys.[0m
+[09:16] [0m[34;1mCaboose shouts:[0m ld ok, or active?[0m
+[09:16] [0m[34;1mWhoknows shouts:[0m in a bit[0m
+[09:17] [0m[34;1mSimonz shouts:[0m alt right, far left, all stupid[0m
+[09:17] [0m[31;1m[Clan] Nix :[0m need 2 more int![0m
+[09:17] [0m[34;1mSaim shouts:[0m bewns?[0m
+[09:17] [0m[31;1m[Clan] Nix :[0m let's sectionz[0m
+[09:17] [0m[31;1m[Clan] Nameless :[0m yes pls[0m
+[09:17] [0m[31;1m[Clan] Saim :[0m im down after tacos[0m
+[09:17] [0m[31;1m[Clan] Nameless :[0m oh right i should taco[0m
+[09:17] [0m[34;1mMurmandamus shouts:[0m 1 sec let me log in Grinch[0m
+[09:17] [0m[31;1m[Clan] Saim :[0m shouldonly take 5-10min[0m
+[09:17] [0m[31;1m[Clan] Saim :[0m i didnt get a button last night either[0m
+[09:17] [0m[31;1m[Clan] Timmy :[0m choouchoose con[0m
+[09:18] [0m[31;1m[Clan] Timmy :[0m haha wtfs[0m
+[09:18] [0m[34;1mWhoknows shouts:[0m woot[0m
+[09:18] [0m[31;1m[Clan] Nix :[0m laf[0m
+[09:18] [0m[37;1mOscar flaps :[0m i ch-ch-choooose frank[0m
+[09:18] [0m[31;1m[Clan] Nix :[0m it keeps coming up nobot?[0m
+[09:18] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[09:18] [0m[34;1mNameless shouts:[0m woo[0m
+[09:18] [0m[34;1mHooligan shouts:[0m woooo![0m
+[09:18] [0m[34;1mWhoknows shouts:[0m and go boom[0m
+[09:18] [0m[34;1mNauda shouts:[0m I choose you frankachoo[0m
+[09:18] [0m[31;1m[Clan] Nix :[0m wtf is up with that[0m
+[09:18] [0m[34;1mHavox shouts:[0m thank you[0m
+[09:18] [0m[31;1m[Clan] Nix :[0m anyone else getting that?[0m
+[09:18] [0m[34;1mFrank shouts:[0m what timing oscar[0m
+[09:18] [0m[31;1m[Clan] Nameless :[0m no[0m
+[09:18] [0m[31;1m[Clan] Oscar :[0m huh[0m
+[09:18] [0m[34;1mMurmandamus shouts:[0m happy cinco de franko[0m
+[09:19] [0m[34;1mThom shouts:[0m bah xd i didnt even notice till the last message out of combat[0m
+[09:19] [0m             XD lol[0m
+[09:19] [0m[31;1m[Clan] Nameless :[0m choose bone[0m
+[09:21] [0m[31;1m[Clan] Aka :[0m lol watch crypt and porting into zelligars get nerfed now that[0m
+[09:21] [0m             they are discussing it[0m
+[09:22] [0m[31;1m[Clan] Aka :[0m n00bs[0m
+[09:22] [0m[31;1m[Clan] Nameless :[0m rip[0m
+[09:23] [0m[31;1m[Clan] Nameless :[0m crypt shenanigans seems a lil hacky but i would just put[0m
+[09:23] [0m                  crypt in my house unless thats not allowed?[0m
+[09:27] [0m[34;1mNauda shouts:[0m These bloody bastards killed kenny, again[0m
+[09:27] [0m[34;1mSpace shouts:[0m i thought rage did that[0m
+[09:27] [0m[34;1mNauda shouts:[0m rage against machine[0m
+[09:28] [0m[34;1mSpace shouts:[0m rage against non understanding of syntax and (summon[0m
+[09:31] [0m[31;1m[Clan] Oscar :[0m Oooo I found a way to actually get credit against NJ Taxes[0m
+[09:31] [0m[31;1m[Clan] Oscar :[0m just need to donate an organ![0m
+[09:36] [0m[Auction] Robert : Up for bids: Powerstone.[0m
+[09:36] [0m[Auction] Robert : Tchazzar has requested 420 as the opening offer.[0m
+[09:36] [0m[Auction] Robert : Got 420 from Mugen(jedi).  Do I hear 470?[0m
+[09:36] [0m[Auction] Robert : 420 going once![0m
+[09:36] [0m[Auction] Robert : 420 going twice![0m
+[09:37] [0m[Auction] Robert : Sold to Mugen for 420 coins![0m
+[09:40] [0m[31;1m[Clan] Nameless :[0m did you ever get fam ham nix?[0m
+[09:40] [0m[31;1m[Clan] Aka :[0m boo 5x nacho chese that i dont need, anyone have a spare meat[0m
+[09:40] [0m             paste?[0m
+[09:40] [0m[31;1m[Clan] Nameless :[0m or whatever hammer you wanted to use[0m
+[09:41] [0m[31;1m[Clan] Nix :[0m ok im ready when you guys are[0m
+[09:41] [0m[31;1m[Clan] Nameless :[0m doing my veg tacos so almost done[0m
+[09:41] [0m[31;1m[Clan] Nameless :[0m got a lettuce leaf if anyone needs[0m
+[09:43] [0m[31;1m[Clan] Oscar :[0m i need a reset for sz[0m
+[09:43] [0m[31;1m[Clan] Saim :[0m im almost done too[0m
+[09:43] [0m[31;1m[Clan] Saim :[0m i got us for secz reset[0m
+[09:43] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[09:43] [0m[31;1m[Clan] Nix :[0m going to do scaler 141[0m
+[09:43] [0m[31;1m[Clan] Nameless :[0m who wants to drive full path today?[0m
+[09:43] [0m[31;1m[Clan] Nix :[0m i will[0m
+[09:43] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[09:43] [0m[31;1m[Clan] Oscar :[0m sweet[0m
+[09:44] [0m[31;1m[Clan] Nameless :[0m anyone need lettuce leaf btw? i guess i could smuggle it[0m
+[09:44] [0m[31;1m[Clan] Nameless :[0m but probably will just leaf it on the ground[0m
+[09:44] [0m[31;1m[Clan] Oscar :[0m oh, anyone here ascended?[0m
+[09:44] [0m[31;1m[Clan] Timmy :[0m i can tank 130 now, i'm nearly there![0m
+[09:44] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[09:44] [0m[31;1m[Clan] Oscar :[0m what order are you timmy?[0m
+[09:44] [0m[31;1m[Clan] Saim :[0m im ascended[0m
+[09:44] [0m[31;1m[Clan] Timmy :[0m 6 now[0m
+[09:45] [0m[31;1m[Clan] Oscar :[0m any chance you could un-giant 2 items?[0m
+[09:45] [0m[31;1m[Clan] Saim :[0m i dont think i have any powers yet[0m
+[09:45] [0m[31;1m[Clan] Aka :[0m why is Ascended listed under the place profs are listed and now[0m
+[09:45] [0m             guild kinships?[0m
+[09:45] [0m[31;1m[Clan] Saim :[0m think i just joined[0m
+[09:45] [0m[31;1m[Clan] Aka :[0m now = not[0m
+[09:45] [0m[31;1m[Clan] Oscar :[0m I dont think you need any special powers/etc for it. it's how[0m
+[09:45] [0m               you wear gear[0m
+[09:45] [0m[31;1m[Clan] Saim :[0m agree aka, no idea[0m
+[09:46] [0m[31;1m[Clan] Oscar :[0m but i have no idea[0m
+[09:46] [0m[31;1m[Clan] Oscar :[0m how to do it[0m
+[09:46] [0m[31;1m[Clan] Nameless :[0m what was i going to do before sec z[0m
+[09:46] [0m[31;1m[Clan] Saim :[0m maybe after these long boots, ill check out ascended...i was[0m
+[09:46] [0m              looking at them for dmg not tank[0m
+[09:46] [0m[31;1m[Clan] Saim :[0m think i went cylops[0m
+[09:46] [0m[31;1m[Clan] Saim :[0m maybe clud giant, i forget[0m
+[09:46] [0m[31;1m[Clan] Nameless :[0m 3 skill points, do i max out fleecing, survival, or maybe[0m
+[09:46] [0m                  some free cast?[0m
+[09:46] [0m[31;1m[Clan] Saim :[0m cloud*[0m
+[09:47] [0m[31;1m[Clan] Oscar :[0m fleecing[0m
+[09:47] [0m[31;1m[Clan] Aka :[0m man 2b entrance cost seems so easy nowadays[0m
+[09:47] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[09:47] [0m[31;1m[Clan] Nameless :[0m im also cyclops[0m
+[09:47] [0m[31;1m[Clan] Nix :[0m you dont need survival[0m
+[09:47] [0m[31;1m[Clan] Nameless :[0m glvl 12 one eyes monster![0m
+[09:48] [0m[31;1m[Clan] Nameless :[0m 1 point left[0m
+[09:49] [0m[31;1m[Clan] Nameless :[0m free cast worth it or since all sp issues go away post cmc[0m
+[09:49] [0m                  just leave it[0m
+[09:49] [0m[31;1m[Clan] Nix :[0m i don't have sp issues even without cmc[0m
+[09:49] [0m[31;1m[Clan] Nix :[0m what is your focus?[0m
+[09:49] [0m[31;1m[Clan] Nameless :[0m i wish i didnt :([0m
+[09:49] [0m[31;1m[Clan] Nameless :[0m 10/10[0m
+[09:50] [0m[31;1m[Clan] Nix :[0m you need more mana i guess[0m
+[09:50] [0m[31;1m[Clan] Aka :[0m You are not yet experienced enough to visit the inner sanctum[0m
+[09:50] [0m             Aka...[0m
+[09:50] [0m[31;1m[Clan] Nameless :[0m oh[0m
+[09:50] [0m[31;1m[Clan] Aka :[0m this tier message is killing me haha[0m
+[09:50] [0m[31;1m[Clan] Saim :[0m laf damn[0m
+[09:50] [0m[31;1m[Clan] Saim :[0m one more secz run[0m
+[09:50] [0m[31;1m[Clan] Aka :[0m this one has to be intentionally brutal[0m
+[09:50] [0m[31;1m[Clan] Aka :[0m ala tensor[0m
+[09:50] [0m[31;1m[Clan] Nameless :[0m bugged gxp! real file will be something like NaN%![0m
+[09:52] [0m[31;1m[Clan] Nameless :[0m maybe ill take a break from rhythm and handle mana[0m
+[09:52] [0m[31;1m[Clan] Nameless :[0m nahhhh[0m
+[09:59] [0m[31;1m[Clan] Nix :[0m ready to rock ya'll?[0m
+[09:59] [0m[31;1m[Clan] Nix :[0m just in time Sir[0m
+[09:59] [0m[31;1m[Clan] Ser :[0m turn down for what[0m
+[09:59] [0m[31;1m[Clan] Nix :[0m Sir Ser Sars[0m
+[09:59] [0m[31;1m[Clan] Nix :[0m sectionz[0m
+[10:01] [0m[31;1m[Clan] Ser :[0m boutta drive[0m
+[10:01] [0m[31;1m[Clan] Saim :[0m we doin secz?[0m
+[10:01] [0m[31;1m[Clan] Saim :[0m now[0m
+[10:01] [0m[31;1m[Clan] Nix :[0m hey[0m
+[10:04] [0m[31;1m[Clan] Nix :[0m sigh[0m
+[10:04] [0m[31;1m[Clan] Nix :[0m we're saved to his shitty dungeon[0m
+[10:04] [0m[31;1m[Clan] Nix :[0m even tho he was pbooted[0m
+[10:04] [0m[31;1m[Clan] Timmy :[0m i got a spare reset if you guys need one[0m
+[10:04] [0m[31;1m[Clan] Nix :[0m wake up oscar[0m
+[10:04] [0m[31;1m[Clan] Nameless :[0m you KILLED us[0m
+[10:06] [0m[31;1m[Clan] Nix :[0m you have 2 minutes oscar or you're beat[0m
+[10:06] [0m[31;1m[Clan] Aka :[0m oscar you're killen us haha[0m
+[10:07] [0m[31;1m[Clan] Oscar :[0m im here[0m
+[10:07] [0m[31;1m[Clan] Aka :[0m he's prob surfing in mexico while eating a banana and we're all[0m
+[10:07] [0m             lik where are you oscaaaar[0m
+[10:07] [0m[31;1m[Clan] Nix :[0m ffs[0m
+[10:07] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[10:07] [0m[31;1m[Clan] Nameless :[0m come on in[0m
+[10:07] [0m[31;1m[Clan] Timmy :[0m i still think he's working in a sweatshop[0m
+[10:07] [0m[31;1m[Clan] Nix :[0m he's a skimboarder[0m
+[10:07] [0m[31;1m[Clan] Oscar :[0m wtf you boot me for[0m
+[10:07] [0m[31;1m[Clan] Nix :[0m cause you idled you fucking stooge[0m
+[10:07] [0m[31;1m[Clan] Oscar :[0m i was buying a quesadilla[0m
+[10:07] [0m[31;1m[Clan] Oscar :[0m get off me[0m
+[10:07] [0m[31;1m[Clan] Timmy :[0m sweatshop, or he's been enslaved and he's making cocaine for[0m
+[10:07] [0m               a gang[0m
+[10:07] [0m[31;1m[Clan] Nix :[0m horse meat quesadilla[0m
+[10:07] [0m[31;1m[Clan] Oscar :[0m laf[0m
+[10:08] [0mYou can currently reforge 8 items.[0m
+[10:09] [0m[31;1m[Clan] Saim :[0m sounds like she was in your ass[0m
+[10:31] [0mnewb Godric [adventurer/7]: What does the red - mean next to someone's name[0m
+[10:31] [0m                            when you do players <guild>?[0m
+[10:31] [0mnewb Guru [mage/134]: Linkdead I think[0m
+[10:31] [0mnewb Mugen [jedi/136]: that they are idle[0m
+[10:31] [0mnewb Kagour [juggernaut/126]: inactive[0m
+[10:31] [0mnewb Tychicus [jedi/60]: It's a vaf perk I believe.[0m
+[10:31] [0mnewb Guru [mage/134]: ahh idle[0m
+[10:32] [0mnewb Tychicus [jedi/60]: Oh the red -[0m
+[10:32] [0mnewb Mugen [jedi/136]: its greater than 5 or 10 mins idle, i forget which[0m
+[10:32] [0mnewb Guru [mage/134]: like "players nec" and look at Tuba.  Then finger Tuba[0m
+[10:32] [0m                      and it shows him idle for 17 mins[0m
+[10:33] [0mnewb Godric [adventurer/7]: Thanks. Was hoping a necro recruiter might be[0m
+[10:33] [0m                            around but doesn't look like it.[0m
+[10:33] [0mnewb Mugen [jedi/136]: there is 12 necros around, 1 is idle[0m
+[10:33] [0mnewb Guru [mage/134]: there are a lot of necs online[0m
+[10:33] [0mnewb Locrian [bard/131]: they're all dead, so probably super slow to[0m
+[10:33] [0m                         respond.[0m
+[10:33] [0mnewb Godric [adventurer/7]: Oh, any can recruit, they don't have to have[0m
+[10:33] [0m                            'Recruiter' as the subguild?[0m
+[10:33] [0mnewb Kagour [juggernaut/126]: some even hiding as mages :p[0m
+[10:34] [0mnewb Oscar [mage/131]: correct godric[0m
+[10:34] [0mnewb Bliss [necromancer/133]: I answered heh[0m
+[10:34] [0mnewb Guru [mage/134]: no. ANyone can recruit[0m
+[10:34] [0mnewb Locrian [bard/131]: just teasing, bliss.[0m
+[10:34] [0mnewb Stormer [necromancer/130]: lol[0m
+[10:34] [0mnewb Bliss [necromancer/133]: yeah yeah, everybody picks on necros, tsk tsk[0m
+[10:34] [0mnewb Kyoujin [knight/133]: as you'll soon learn, some DO have fleas[0m
+[10:35] [0mnewb Nightbreed [necromancer/93]: locrian we like the dead[0m
+[10:35] [0mnewb Tychicus [jedi/60]: Necros stink like dead things. :O[0m
+[10:35] [0mnewb Godric [adventurer/7]: Now that's just racist.[0m
+[10:35] [0mnewb Stormer [necromancer/130]: we are old as the sun[0m
+[10:36] [0mnewb Tychicus [jedi/60]: Oh wait, they are dead. xD[0m
+[10:36] [0mnewb Nightbreed [necromancer/93]: and just as powerful (flexes muscles)[0m
+[10:36] [0mnewb Kagour [juggernaut/126]: i thought just their followers were dead?[0m
+[10:36] [0mnewb Tychicus [jedi/60]: Nope, the ritual sacrifice kills you.[0m
+[10:37] [0mnewb Echoloc [juggernaut/134]: if you watch the recruitment process there is[0m
+[10:37] [0m                               a death involved.[0m
+[10:37] [0mnewb Tychicus [jedi/60]: It's not a real death though.[0m
+[10:37] [0mnewb Echoloc [juggernaut/134]: flavor text :)[0m
+[10:37] [0mnewb Kyoujin [knight/133]: no chance for shifty bards to steal your corpse[0m
+[10:38] [0mnewb Kagour [juggernaut/126]: death is meaningless on 3k now anyway[0m
+[10:38] [0mnewb Oscar [mage/131]: It is very thematic all the necros waiting outside of[0m
+[10:38] [0m                       UK to collect bard corpses[0m
+[10:38] [0mnewb Whoknows [priest/135]: lol[0m
+[10:38] [0mnewb Whoknows [priest/135]: let me burn them with the powre of a 1000 suns[0m
+[10:39] [0mnewb Stormer [necromancer/130]: only bards?EVERYONE![0m
+[10:39] [0mnewb Nightbreed [necromancer/93]: indeed[0m
+[10:40] [0mnewb Stormer [necromancer/130]: necros is not a guild to take lightly we are[0m
+[10:40] [0m                                strong and proud[0m
+[10:41] [0mnewb Din [bladesinger/134]: and pretentious[0m
+[10:41] [0mnewb Whoknows [priest/135]: a necro's true strength, spam, and not the good[0m
+[10:41] [0m                            kind[0m
+[10:42] [0mnewb Bliss [necromancer/133]: laf[0m
+[10:42] [0mnewb Whoknows [priest/135]: but i think mages are creeping up there to that[0m
+[10:42] [0m                            level of spammage[0m
+[10:42] [0mnewb Whoknows [priest/135]: 2 of them actually gave space some troubles with[0m
+[10:42] [0m                            his client[0m
+[10:42] [0mnewb Bliss [necromancer/133]: we have this superpower that crashes other[0m
+[10:42] [0m                              player's client with HUUUGE spam[0m
+[10:42] [0mnewb Nightbreed [necromancer/93]: and that liches rock![0m
+[10:43] [0mnewb Nightbreed [necromancer/93]: very important to remember[0m
+[10:43] [0mnewb Godric [adventurer/7]: Look, if it isn't spammy enough to break[0m
+[10:43] [0m                            clients, you aren't doing it right.[0m
+[10:43] [0mnewb Stormer [necromancer/130]: Pure > Lich xD[0m
+[10:44] [0mnewb Nightbreed [necromancer/93]: you just go with that Stormer xD[0m
+[10:45] [0mnewb Guru [mage/134]: The Necromancer Guild boasts the oldest, richest, and[0m
+[10:45] [0m                      largest codebase in 3k.  It is filled with rich flavor[0m
+[10:45] [0m                      and theme and interesting powers.  And it has a[0m
+[10:45] [0m                      detailed history.[0m
+[10:45] [0mnewb Nightbreed [necromancer/93]: im supposed to be working, no more[0m
+[10:45] [0m                                  shenanigans for me[0m
+[10:46] [0mnewb Nameless [bard/134]: bards have some pretty good spam generation, but[0m
+[10:46] [0m                          its more of a sustain than a spike[0m
+[10:47] [0mnewb Godric [adventurer/7]: So assuming Necro sort've needs some basic[0m
+[10:47] [0m                            scripting ability?[0m
+[10:47] [0mnewb Godric [adventurer/7]: Or is the spam just inherent to the abilities[0m
+[10:47] [0mnewb Guru [mage/134]: My gswap is a necro. I don't use many scripts at all[0m
+[10:47] [0mnewb Oscar [mage/131]: Actually less I would say[0m
+[10:47] [0mnewb Oscar [mage/131]: Necros have a lot of guildside powers that people use[0m
+[10:47] [0m                       clients for[0m
+[10:47] [0mnewb Volt [jedi/133]: inherent[0m
+[10:47] [0mnewb Godric [adventurer/7]: Neato[0m
+[10:48] [0mnewb Guru [mage/134]: the guild has many "trances" you can set up to respond[0m
+[10:48] [0m                      to hp/sp/guild points, etc.[0m
+[10:48] [0mnewb Oscar [mage/131]: Like performing actinos at certain hit point levels,[0m
+[10:48] [0m                       and even chaining long chains of directions[0m
+[10:48] [0mnewb Volt [jedi/133]: if you join necros, you can also spam up newb line[0m
+[10:48] [0m                      with how amazing your guild is[0m
+[10:48] [0mnewb Godric [adventurer/7]: Oh I'm gonna join so you can hear me spam all[0m
+[10:48] [0m                            day every day.[0m
+[10:49] [0mnewb Volt [jedi/133]: one of their lesser known abilities[0m
+[10:49] [0mnewb Godric [adventurer/7]: It's them or Jedi.[0m
+[10:49] [0mnewb Kyoujin [knight/133]: the force is weak on this mud[0m
+[10:50] [0mnewb Simonz [jedi/134]: the dark side of the force is weak.  The light side[0m
+[10:50] [0m                        is not, heh[0m
+[10:50] [0mnewb Godric [adventurer/7]: I heard it was last night for Sith :([0m
+[10:50] [0m[34;1mWhoknows shouts:[0m make priests great again, rm (resurrect :D[0m
+[10:50] [0m[34;1mLiskerlol shouts:[0m arent deaths free anyway?[0m
+[10:50] [0m[34;1mMental shouts:[0m sure, if priests can ressurect from afar and instantly[0m
+[10:51] [0mnewb Guru [mage/134]: while scripting is not necessary much for necs, there[0m
+[10:51] [0m                      probably will be the need to capture values in  your[0m
+[10:51] [0m                      hpbar to do stuff. Because of the richness,[0m
+[10:51] [0m                      complexity, and dynamic nature that is the necromancer[0m
+[10:51] [0m                      hpbar, you will need to be a master of regex[0m
+[10:51] [0mnewb Mental [elemental/132]: or just use portal[0m
+[10:51] [0mnewb Godric [adventurer/7]: I play with Mudlet so that wouldn't be hard.[0m
+[10:51] [0mnewb Whoknows [priest/135]: flowers you bots chatbots are pretty good[0m
+[10:52] [0mnewb Whoknows [priest/135]: dang is bad?[0m
+[10:52] [0mnewb Whoknows [priest/135]: sheesh ok, flowers you all[0m
+[10:55] [0mnewb Volt [jedi/133]: is anyone available to kill -i mean "recruit" godric[0m
+[10:55] [0m                      to Necros?[0m
+[10:55] [0mnewb Godric [adventurer/7]: Bliss already asked on their guild lines.[0m
+[10:56] [0mnewb Simonz [jedi/134]: you can always go to the jedi guild and the bot at[0m
+[10:56] [0m                        the entrance can recruit you =)[0m
+[10:56] [0mnewb Simonz [jedi/134]: or ask volt ;)[0m
+[10:56] [0mnewb Godric [adventurer/7]: The temptation is strong.[0m
+[10:57] [0mnewb Guru [mage/134]: if no Necromancers are available because of work etc,[0m
+[10:57] [0m                      I can recruit you into the Necromancy this evening at[0m
+[10:57] [0m                      5:30 PM Central time.[0m
+[10:59] [0mnewb Godric [adventurer/7]: Cool cool. I've got someone who might in half an[0m
+[10:59] [0m                            hour now.[0m
+[10:59] [0mnewb Nightbreed [necromancer/93]: im just coming back off a 4 yr break.  Im[0m
+[10:59] [0m                                  still relearning everything[0m
+[10:59] [0mnewb Locrian [bard/131]: learn together, build a forever bond of knowledge![0m
+[11:01] [0mnewb Guru [mage/134]: you'll love the Necromancer guild.  A couple of tips:[0m
+[11:01] [0m                      1. Joining a form will also require a specific person[0m
+[11:01] [0m                      to sponsor you.  You may have challenges finding[0m
+[11:01] [0m                      someone available.  Be patient. 2. The Necromancy is[0m
+[11:01] [0m                      rich and complex. It's a huge step-change from being[0m
+[11:01] [0m                      an Adventurer. This complexity is what makes the guild[0m
+[11:01] [0m                      absurdly fun to play.  Take it in chunks and read the[0m
+[11:01] [0m                      detailed help files.  It will become second nature[0m
+[11:01] [0m                      after a while.[0m
+[11:06] [0mnewb Godric [adventurer/7]: Thanks for the info Guru[0m
+[11:10] [0mYou can currently reforge 12 items.[0m
+[11:44] [0m[34;1mNauda shouts:[0m Mission accomplished, we won![0m
+[11:50] [0m[34;1mTychicus shouts:[0m Pickles![0m
+[11:52] [0m[37;1mGamst flaps :[0m anyone for cmc day2 dupes? send tell[0m
+[12:38] [0mYou can currently reforge 12 items.[0m
+[12:47] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[12:48] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[12:50] [0m[31;1m[Clan] Byron :[0m i thought viggens room was no unload[0m
+[12:50] [0m[31;1m[Clan] Byron :[0m motherfucker[0m
+[12:50] [0m[31;1m[Clan] Byron :[0m 2nd time ive lost gear[0m
+[12:50] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[12:50] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[12:51] [0m[31;1m[Clan] Oscar :[0m lol it was frirar tuck[0m
+[12:51] [0m[31;1m[Clan] Oscar :[0m what a thief[0m
+[12:52] [0m[31;1m[Clan] Saim :[0m scumabg[0m
+[12:53] [0m[31;1m[Clan] Oscar :[0m someone rally me?[0m
+[12:55] [0m[31;1m[Clan] Timmy :[0m no thanks[0m
+[12:55] [0m[31;1m[Clan] Oscar :[0m die[0m
+[13:15] [0m[34;1mFlaxen shouts:[0m today is a good day for pie[0m
+[13:17] [0m[34;1mAl shouts:[0m pi(e) = 8.53973422267[0m
+[13:19] [0m[Auction] Robert : Up for bids: The Glass Boots.[0m
+[13:19] [0m[Auction] Robert : Ziphe has requested 5,000 as the opening offer.[0m
+[13:20] [0m[Auction] Robert : Got 5,000 from Timmy(gent).  Do I hear 5,250?[0m
+[13:20] [0m[Auction] Robert : 5,000 going once![0m
+[13:20] [0m[Auction] Robert : 5,000 going twice![0m
+[13:20] [0m[Auction] Nix (bard) : how does one walk in these without breaking the[0m
+[13:20] [0m                       glass!?!?!?[0m
+[13:20] [0m[Auction] Robert : Sold to Timmy for 5,000 coins![0m
+[13:20] [0m[Auction] Mental (elem) : wrap them in kevlar boots, got any?[0m
+[13:27] [0m[34;1mFlaxen shouts:[0m hoober[0m
+[13:30] [0m[37;1mSimonz flaps :[0m secz reset in a few minutes, holler if you're coming[0m
+[13:44] [0m[31;1m[Clan] Nix :[0m remind me to never eat at any restaurant which you open up[0m
+[13:44] [0m             nameless[0m
+[13:46] [0m[37;1mOscar flaps :[0m I think i've spent more time trying to understand htf to use[0m
+[13:46] [0m              tt lists than any other programming concept[0m
+[13:47] [0m[Auction] Robert : Up for bids: A strangely dense, very blue wooden ring[0m
+[13:47] [0m                   {radiant} [<*/*(O)*\*>].[0m
+[13:47] [0m[Auction] Robert : Xiu has requested 0 as the opening offer.[0m
+[13:47] [0m[Auction] Robert : Got 558 from Nauda(necr).  Do I hear 608?[0m
+[13:47] [0m[Auction] Xiu (blad) : this time again[0m
+[13:47] [0m[37;1mOscar flaps :[0m And I still have nfi what is going on or how to use them[0m
+[13:47] [0m[Auction] Robert : 558 going once![0m
+[13:47] [0m[Auction] Robert : Got 800 from Quaver(jedi).  Do I hear 850?[0m
+[13:47] [0m[Auction] Robert : Got 1,000 from Oscar(mage).  Do I hear 1,050?[0m
+[13:47] [0m[Auction] Robert : Got 1,050 from Saim(jedi).  Do I hear 1,100?[0m
+[13:47] [0m[Auction] Robert : Got 25,000 from Mental(elem).  Do I hear 25,500?[0m
+[13:47] [0m[Auction] Quaver (jedi) : out[0m
+[13:47] [0m[Auction] Robert : 25,000 going once![0m
+[13:47] [0m[Auction] Robert : Got 35,000 from Oscar(mage).  Do I hear 38,500?[0m
+[13:47] [0m[Auction] Robert : Got 50,000 from Mental(elem).  Do I hear 55,000?[0m
+[13:48] [0m[Auction] Robert : Got 55,000 from Nauda(necr).  Do I hear 60,500?[0m
+[13:48] [0m[Auction] Robert : Got 65,000 from Mental(elem).  Do I hear 71,500?[0m
+[13:48] [0m[Auction] Robert : 65,000 going once![0m
+[13:48] [0m[Auction] Robert : 65,000 going twice![0m
+[13:48] [0m[Auction] Robert : Got 71,500 from Saim(jedi).  Do I hear 78,650?[0m
+[13:48] [0m[Auction] Robert : Got 78,650 from Nauda(necr).  Do I hear 86,515?[0m
+[13:49] [0m[Auction] Robert : Got 90,000 from Saim(jedi).  Do I hear 99,000?[0m
+[13:49] [0m[Auction] Robert : 90,000 going once![0m
+[13:49] [0m[Auction] Robert : 90,000 going twice![0m
+[13:49] [0m[Auction] Robert : Got 100,000 from Mental(elem).  Do I hear 110,000?[0m
+[13:49] [0m[Auction] Robert : Got 110,000 from Nauda(necr).  Do I hear 121,000?[0m
+[13:49] [0m[Auction] Saim (jedi) : out[0m
+[13:49] [0m[Auction] Robert : 110,000 going once![0m
+[13:49] [0m[Auction] Robert : 110,000 going twice![0m
+[13:50] [0m[Auction] Robert : Sold to Nauda for 110,000 coins![0m
+[13:54] [0m[34;1mPrettypony shouts:[0m noooooooooooooooooooo pony[0m
+[13:54] [0m[34;1mSer shouts:[0m @ElbowDeepInAHorse[0m
+[13:54] [0m[34;1mMental shouts:[0m youve been outed[0m
+[13:58] [0mYou can currently reforge 4 items.[0m
+[13:58] [0mYou can currently reforge 0 items.[0m
+[14:37] [0m[31;1m[Clan] Nix :[0m i could use one =)[0m
+[14:37] [0m[31;1m[Clan] Morion :[0m kk come get it[0m
+[14:37] [0m[31;1m[Clan] Morion :[0m dead in a few rounds[0m
+[14:37] [0m[31;1m[Clan] Nix :[0m wanna just toss it in box? or do you want me to pick you up?[0m
+[14:37] [0m[31;1m[Clan] Nix :[0m were in secz[0m
+[14:38] [0mYou can currently reforge 4 items.[0m
+[14:38] [0m[31;1m[Clan] Morion :[0m i dont have keys[0m
+[14:38] [0m[31;1m[Clan] Morion :[0m no archi, forgot to mail again[0m
+[16:01] [0mColson <Craft>: blacksmith 3 tome on fantasy if anyone is interested.[0m
+[16:14] [0m[32mKerym says: [0mWell met, Swordbrother Dangerzone, May the Seldarine's Blessings be upon you.[0m
+[16:23] [0m[31;1m[Clan] Ser :[0m how was i stealing capsules[0m
+[16:26] [0m[31;1m[Clan] Nameless :[0m impressive[0m
+[16:26] [0m[31;1m[Clan] Nameless :[0m yeah i need to make a begbot that is smarter so i remember[0m
+[16:26] [0m                  to set up for different leaders[0m
+[16:27] [0m[31;1m[Clan] Nameless :[0m like a partybot catchall that figures out who plead is and[0m
+[16:27] [0m                  then changes the beg recipient to match[0m
+[16:29] [0m[31;1m[Clan] Ser :[0m plead might not be the tank tho[0m
+[16:29] [0m[31;1m[Clan] Saim :[0m can someone make the alien skin into a ring for me?[0m
+[16:29] [0mYou can currently reforge 8 items.[0m
+[16:34] [0m[37;1mGamst flaps :[0m secz reset incoming[0m
+[16:35] [0m[31;1m[Clan] Aka :[0m anybody got a zelligars open and would want to kill him for me?[0m
+[16:35] [0m[37;1mInix flaps :[0m Run for the hillz![0m
+[16:35] [0m[31;1m[Clan] Nameless :[0m i can[0m
+[16:35] [0m[31;1m[Clan] Nameless :[0m clear the way and then ill beat him up?[0m
+[16:36] [0m[31;1m[Clan] Aka :[0m sounds good to me![0m
+[16:36] [0m[31;1m[Clan] Nameless :[0m i dont think you can do skin to ring, unless you have[0m
+[16:36] [0m                  xmuter since its bop yeah?[0m
+[16:36] [0m[31;1m[Clan] Aka :[0m want me to tank? or stay necro and just hit behind you?[0m
+[16:37] [0m[31;1m[Clan] Aka :[0m i'll gswap to gontok if you want me to tank[0m
+[16:37] [0m[31;1m[Clan] Nameless :[0m stay necro is fine[0m
+[16:37] [0m[31;1m[Clan] Aka :[0m noggle[0m
+[16:37] [0m[31;1m[Clan] Morion :[0m first 2 are unbound afaik or dupe[0m
+[16:37] [0m[31;1m[Clan] Nameless :[0m ahh[0m
+[16:37] [0m[31;1m[Clan] Morion :[0m but yeah i think usually its bop[0m
+[16:47] [0m[31;1m[Clan] Nameless :[0m almost ready?[0m
+[16:48] [0m[31;1m[Clan] Aka :[0m yessir[0m
+[16:48] [0m[31;1m[Clan] Aka :[0m just sitting at funeral pyre 1 s of him[0m
+[16:48] [0m[31;1m[Clan] Aka :[0m you rady for tp?[0m
+[16:48] [0m[31;1m[Clan] Nameless :[0m alrighty, come rally me at entrance[0m
+[16:48] [0m[31;1m[Clan] Aka :[0m i can port you right to me[0m
+[16:48] [0m[31;1m[Clan] Nameless :[0m oh ok[0m
+[16:48] [0m[31;1m[Clan] Aka :[0m that and cryptwalks work up in here[0m
+[17:00] [0m[31;1m[Clan] Dangerzone :[0m moscow mule on Cinco de Mayo, Feliz![0m
+[17:04] [0m[31;1m[Clan] Dangerzone :[0m Mule Monster (Ginger Beer) + Tito's vodka + Lemon juice[0m
+[17:07] [0m[31;1m[Clan] Oscar :[0m Ok, rewrote some of the bot[0m
+[17:07] [0m[31;1m[Clan] Oscar :[0m and it's working[0m
+[17:08] [0m[37;1mDangerzone flaps :[0m Notice me! I haven't had a bot check in foreva!![0m
+[17:08] [0m[32;1mFrom afar, Simonz accuses you of being a bot.[0m[0m
+[17:08] [0m[37;1mDangerzone flaps :[0m roflmao[0m
+[17:10] [0m[37;1mTychicus flaps :[0m Still a lot of games on Kongregate that are playable. :O[0m
+[17:12] [0m[37;1mDangerzone flaps :[0m sounds like congregation.. what's this service? I'm not[0m
+[17:12] [0m                   that old or just under a rock.[0m
+[17:18] [0m[34;1mBahram shouts:[0m starship SN-15 launch in ~10 minutes[0m
+[17:20] [0m[34;1mWhoknows shouts:[0m we're going to Mars!?[0m
+[17:20] [0m[34;1mTychicus shouts:[0m Nah, it's just Uranus.[0m
+[17:29] [0mYou can currently reforge 12 items.[0m
+[17:30] [0m[34;1mBahram shouts:[0m STUCK THE LANDING[0m
+[17:31] [0m[34;1mTurnhold shouts:[0m TO THE MOOOOOON![0m
+[17:31] [0m[34;1mAliona shouts:[0m Hodor?[0m
+[17:31] [0m[34;1mTychicus shouts:[0m HOOGI?[0m
+[17:32] [0m[34;1mVolt shouts:[0m What is that sound you make after you done thrown it up[0m
+[17:32] [0m             already, Alex?[0m
+[17:33] [0m[34;1mSquirrel shouts:[0m i'll take let tits now for 800 alex[0m
+[17:33] [0m[37;1mSquirrel flaps :[0m this friday is no pants day.[0m
+[17:33] [0m[37;1mSquirrel flaps :[0m Voodoo has his own celebration day[0m
+[17:34] [0m[34;1mHooligan shouts:[0m I'll take the penis mightier Trebek![0m
+[17:34] [0m[34;1mLykan shouts:[0m okay, that was confusing. i was fighting a squirrel and[0m
+[17:34] [0m              thought it shouted that.[0m
+[17:35] [0m[31;1m[Clan] Morion :[0m any idea how much dmg is needed for alien queen?[0m
+[17:35] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[17:35] [0m[31;1m[Clan] Nameless :[0m like numerically?[0m
+[17:35] [0m[34;1mHooligan shouts:[0m we need an snl area for jeopardy and the super fans. :P[0m
+[17:35] [0m[31;1m[Clan] Morion :[0m roundabout would be ok[0m
+[17:36] [0m[31;1m[Clan] Morion :[0m she was at 98 for only an instant[0m
+[17:36] [0m[31;1m[Clan] Nameless :[0m no idea, i kill her relatively easily[0m
+[17:36] [0m[31;1m[Clan] Nameless :[0m imagine she does have some regen though based on that[0m
+[17:36] [0m[34;1mSarge shouts:[0m ok, but burt reynolds has to drop his overly large hat![0m
+[17:37] [0m[31;1m[Clan] Morion :[0m ug breed :p[0m
+[17:48] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[17:48] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[17:48] [0m                          get ready![0m
+[17:51] [0m[31;1m[Clan] Ser :[0m oo[0m
+[17:51] [0m[31;1m[Clan] Ser :[0m imma do that[0m
+[17:51] [0m[31;1m[Clan] Ser :[0m need halp[0m
+[17:51] [0m[31;1m[Clan] Ser :[0m i have nfi where alien queen is[0m
+[17:51] [0m[31;1m[Clan] Ser :[0m BUT I HAP[0m
+[17:51] [0m[31;1m[Clan] Ser :[0m HALP[0m
+[17:51] [0m[31;1m[Clan] Morion :[0m lol shes dead murmandamus came, i slid another[0m
+[17:52] [0m[31;1m[Clan] Ser :[0m o tay[0m
+[17:52] [0m[31;1m[Clan] Ser :[0m what am i doing[0m
+[17:52] [0m[31;1m[Clan] Morion :[0m thank you though![0m
+[17:52] [0m[31;1m[Clan] Morion :[0m idk what are you doing[0m
+[17:52] [0m[31;1m[Clan] Ser :[0m i am duping string x2[0m
+[17:52] [0m[31;1m[Clan] Ser :[0m and testing another shield[0m
+[17:52] [0m[31;1m[Clan] Morion :[0m woot[0m
+[17:55] [0mYou can currently reforge 0 items.[0m
+[17:55] [0m[31;1m[Clan] Sock :[0m hi frans[0m
+[17:55] [0m[31;1m[Clan] Dangerzone :[0m i love you so much sock[0m
+[17:56] [0m[32mSock tells you:[0m lmao hyd bud[0m
+[17:56] [0m[32mSock tells you:[0m when are you getting married again?[0m
+[17:57] [0m[32mSock tells you:[0m or did you already[0m
+[17:57] [0m[32mYou tell Sock:[0m aiming for 11-11-22[0m
+[17:57] [0m[32mSock tells you:[0m aww[0m
+[17:57] [0m[32mSock tells you:[0m should gone for 12/12/22[0m
+[17:57] [0m[32mSock tells you:[0m i got out of the marine corpse 12/12/12[0m
+[17:57] [0m[32mSock tells you:[0m but yours will be easy to remember[0m
+[17:57] [0m[32mYou tell Sock:[0m she'd like an elope and wedding reception with friends and[0m
+[17:57] [0m        family.... sounds like your marriage[0m
+[17:57] [0m[32;1mFrom afar, Sock grins at you.[0m[0m
+[17:57] [0m[32mSock tells you:[0m 'cept i didn't knock anyone up[0m
+[17:58] [0m[32mYou tell Sock:[0m true[0m
+[17:58] [0m[32;1mFrom afar, Sock hugs you.[0m[0m
+[17:58] [0m[32mSock tells you:[0m how's the stress levels?[0m
+[17:58] [0m[32mSock tells you:[0m brb on uhh karvec[0m
+[17:58] [0m[32mYou tell Sock:[0m she's great despite most of our relationship was pregancy[0m
+[17:58] [0m[32;1mFrom afar, Karvec grins at you.[0m[0m
+[17:59] [0m[32mYou tell Karvec:[0m which is a test especially early terms[0m
+[17:59] [0m[32mYou tell Sock:[0m in 12 days or less it will be a new chapter (scheduled c[0m
+[17:59] [0m        section 5-17-21)[0m
+[18:00] [0m[32mYou tell Karvec:[0m in 12 days or less it will be a new chapter (scheduled c[0m
+[18:00] [0m        section 5-17-21)[0m
+[18:00] [0m[32mSer tells you:[0m damn bro[0m
+[18:00] [0m[37;1mStasis flaps :[0m desert, w, 3n, electric[0m
+[18:00] [0m[32mSer tells you:[0m hope you're stocked up on diapers and shit[0m
+[18:00] [0m[32mYou tell Ser:[0m yep and two trash cans to cover it[0m
+[18:00] [0m[32mSer tells you:[0m bro you're gonna be so busy[0m
+[18:01] [0m[32mSer tells you:[0m i'll talk to you in 10 years[0m
+[18:01] [0m[32mYou tell Ser:[0m plenty of walmart pick ups to stockpile plastic bags (err[0m
+[18:01] [0m        gawd damnn wally putting one item per bag)[0m
+[18:01] [0m[32mYou tell Ser:[0m for poop[0m
+[18:01] [0m[32mYou tell Ser:[0m yes well, i do suck at keeping up with you[0m
+[18:02] [0m[32mYou tell Ser:[0m im an idiot for feeling discouraged to hang with you while[0m
+[18:02] [0m        you were in MN until you had to move.[0m
+[18:03] [0m[37;1mTychicus flaps :[0m Someone left a couple wyverns near PoL2 entrance, a bit too[0m
+[18:03] [0m                 much for me quite yet.[0m
+[18:05] [0m[37;1mKirin flaps :[0m dead.[0m
+[18:13] [0m[31;1m[Clan] Ser :[0m Smuggling : 5/5[0m
+[18:15] [0m[Auction] Robert : Up for bids: Ring of Hearts and Ring of Hearts.[0m
+[18:15] [0m[Auction] Robert : Ser has requested 420 as the opening offer.[0m
+[18:15] [0m[Auction] Robert : Got 10,000 from Morion(bree).  Do I hear 10,200?[0m
+[18:15] [0m[Auction] Robert : 10,000 going once![0m
+[18:15] [0m[Auction] Robert : 10,000 going twice![0m
+[18:16] [0m[Auction] Ser (psic) : for all you gun totin plate wearin fallout 4 *samuel[0m
+[18:16] [0m                       l jackson words*[0m
+[18:16] [0m[Auction] Robert : Sold to Morion for 10,000 coins![0m
+[18:17] [0m[31;1m[Clan] Ser :[0m anyone got +sword rings[0m
+[18:17] [0m[31;1m[Clan] Ser :[0m i'll trade a smuggling/light/lance[0m
+[18:17] [0m[31;1m[Clan] Ser :[0m we got anyone who even uses spork :P[0m
+[18:18] [0m[Auction] Robert : Up for bids: a pair of chaos dice.[0m
+[18:18] [0m[Auction] Robert : Adalius has requested 25,000 as the opening offer.[0m
+[18:18] [0m[Auction] Robert : Got 25,000 from Ser(psic).  Do I hear 27,500?[0m
+[18:18] [0m[Auction] Robert : Got 27,500 from Murmandamus(necr).  Do I hear 30,250?[0m
+[18:18] [0m[Auction] Robert : Got 30,250 from Ser(psic).  Do I hear 33,275?[0m
+[18:18] [0m[Auction] Robert : Got 50,000 from Rhyson(prie).  Do I hear 55,000?[0m
+[18:18] [0m[Auction] Robert : Got 55,000 from Ser(psic).  Do I hear 60,500?[0m
+[18:18] [0m[Auction] Robert : 55,000 going once![0m
+[18:18] [0m[Auction] Robert : Got 60,500 from Murmandamus(necr).  Do I hear 66,550?[0m
+[18:18] [0m[Auction] Robert : Got 100,000 from Quaver(jedi).  Do I hear 110,000?[0m
+[18:18] [0m[Auction] Ser (psic) : you can eat these right?[0m
+[18:18] [0m[Auction] Robert : Got 110,000 from Ser(psic).  Do I hear 121,000?[0m
+[18:18] [0m[Auction] Robert : Got 558,558 from Squirrel(mage).  Do I hear 614,413?[0m
+[18:19] [0m[Auction] Squirrel (mage) : 558![0m
+[18:19] [0m[Auction] Ser (psic) : i bet they don't hold a candle on a grilled pbj tho[0m
+[18:19] [0m[Auction] Robert : Got 614,413 from Ser(psic).  Do I hear 675,854?[0m
+[18:19] [0m[Auction] Robert : 614,413 going once![0m
+[18:19] [0m[Auction] Robert : 614,413 going twice![0m
+[18:19] [0m[Auction] Robert : Got 675,854 from Nauda(necr).  Do I hear 743,439?[0m
+[18:19] [0m[Auction] Robert : Got 777,777 from Ser(psic).  Do I hear 855,554?[0m
+[18:19] [0m[Auction] Quaver (jedi) : what do they do again?[0m
+[18:19] [0m[Auction] Ser (psic) : no idea[0m
+[18:20] [0m[Auction] Robert : 777,777 going once![0m
+[18:20] [0m[Auction] Melly (elem) : its an other? i think, gives +some odd to a random[0m
+[18:20] [0m                         stat[0m
+[18:20] [0m[Auction] Nauda (necr) : out[0m
+[18:20] [0m[Auction] Robert : 777,777 going twice![0m
+[18:20] [0m[Auction] Robert : Sold to Ser for 777,777 coins![0m
+[18:21] [0m[31;1m[Clan] Ser :[0m neat[0m
+[18:22] [0m[Auction] Ser (psic) : heckin neato[0m
+[18:27] [0m[31;1m[Clan] Oscar :[0m ya, this new setup is nice. closer to the dream[0m
+[18:27] [0m[31;1m[Clan] Ser :[0m anyone wanna do event w/ me[0m
+[18:27] [0m[31;1m[Clan] Morion :[0m what type?[0m
+[18:27] [0m[34;1mNauda shouts:[0m Murm is ready![0m
+[18:27] [0m[31;1m[Clan] Ser :[0m erectric[0m
+[18:27] [0m[31;1m[Clan] Morion :[0m gross, no[0m
+[18:27] [0m[31;1m[Clan] Oscar :[0m i'll run w you[0m
+[18:28] [0m[31;1m[Clan] Ser :[0m aight[0m
+[18:28] [0m[31;1m[Clan] Oscar :[0m anyone w/ a dupe and skin want to trade for a dupe?[0m
+[18:28] [0m[31;1m[Clan] Ser :[0m oh[0m
+[18:28] [0m[31;1m[Clan] Oscar :[0m alien skin[0m
+[18:28] [0m[31;1m[Clan] Meatloaf :[0m i dont think my characters all have the same password[0m
+[18:29] [0m[31;1m[Clan] Oscar :[0m laf[0m
+[18:29] [0m[31;1m[Clan] Oscar :[0m oh youre on meatloaf?[0m
+[18:29] [0m[31;1m[Clan] Meatloaf :[0m is there something in mip that does fast character[0m
+[18:29] [0m                  switching?[0m
+[18:29] [0m[31;1m[Clan] Meatloaf :[0m no just duping shield[0m
+[18:29] [0mYou can currently reforge 4 items.[0m
+[18:30] [0m[31;1m[Clan] Meatloaf :[0m woo 15%[0m
+[18:30] [0m[31;1m[Clan] Morion :[0m woot![0m
+[18:30] [0m[31;1m[Clan] Sock :[0m uhh i need to burn 15 mins on sock[0m
+[18:31] [0m[31;1m[Clan] Oscar :[0m ok, forget about me then. i'm gonna test this new bot setup[0m
+[18:31] [0m               in dundee[0m
+[18:31] [0m[31;1m[Clan] Sock :[0m you sure[0m
+[18:31] [0m[31;1m[Clan] Oscar :[0m ya[0m
+[18:32] [0m[31;1m[Clan] Sock :[0m actually i'm good[0m
+[18:32] [0m[Auction] Robert : Up for bids: Adalius's Amazing Meatloaf.[0m
+[18:32] [0m[Auction] Robert : Adalius has requested 5,000 as the opening offer.[0m
+[18:32] [0m[Auction] Robert : Got 5,000 from Stasis(elem).  Do I hear 5,250?[0m
+[18:32] [0m[Auction] Vagrant (necr) : hell yah boi[0m
+[18:33] [0m[Auction] Robert : Got 5,250 from Oscar(mage).  Do I hear 5,512?[0m
+[18:33] [0m[Auction] Adalius (viki) : I figure if meatloaf is gonna auction stuff, I[0m
+[18:33] [0m                           should auction meatloaf[0m
+[18:33] [0m[Auction] Robert : Got 5,558 from Squirrel(mage).  Do I hear 5,835?[0m
+[18:33] [0m[Auction] Squirrel (mage) : 558![0m
+[18:33] [0m[Auction] Robert : Got 6,969 from Nauda(necr).  Do I hear 7,317?[0m
+[18:33] [0m[Auction] Robert : Got 99,999 from Stasis(elem).  Do I hear 104,998?[0m
+[18:33] [0m[Auction] Robert : Got 104,998 from Quaver(jedi).  Do I hear 115,497?[0m
+[18:33] [0m[Auction] Robert : Got 1,000,000 from Echoloc(jugg).  Do I hear 1,100,000?[0m
+[18:33] [0m[Auction] Whoknows (prie) : last time i ate that it didn't go over well[0m
+[18:33] [0m[Auction] Quaver (jedi) : bidding on Ada's meat :P[0m
+[18:33] [0m[Auction] Robert : Got 1,100,000 from Simonz(jedi).  Do I hear 1,210,000?[0m
+[18:33] [0m[Auction] Echoloc (jugg) : just getting this up where it usually goes[0m
+[18:33] [0m[Auction] Robert : 1,100,000 going once![0m
+[18:33] [0m[Auction] Inquisitor (knig) : Take beano before, there will be-no gas![0m
+[18:33] [0m[Auction] Robert : Got 2,200,000 from Oscar(mage).  Do I hear 2,420,000?[0m
+[18:34] [0m[Auction] Robert : 2,200,000 going once![0m
+[18:34] [0m[Auction] Quaver (jedi) : assuming it's a consumable[0m
+[18:34] [0m[Auction] Robert : 2,200,000 going twice![0m
+[18:34] [0m[Auction] Nauda (necr) : explosive diarrhea botting excuse[0m
+[18:34] [0m[Auction] Robert : Got 2,420,000 from Simonz(jedi).  Do I hear 2,662,000?[0m
+[18:34] [0m[Auction] Simonz (jedi) : =P[0m
+[18:34] [0m[Auction] Robert : 2,420,000 going once![0m
+[18:34] [0m[Auction] Quaver (jedi) : you sure want the meat spin[0m
+[18:34] [0m[Auction] Robert : 2,420,000 going twice![0m
+[18:34] [0m[Auction] Robert : Sold to Simonz for 2,420,000 coins![0m
+[18:36] [0m[31;1m[Clan] Elektra :[0m know who has cmc?[0m
+[18:36] [0m[31;1m[Clan] Ser :[0m day 2?[0m
+[18:36] [0m[31;1m[Clan] Elektra :[0m nod[0m
+[18:36] [0m[Auction] Murmandamus (necr) : Adalius doesn't like doing the lottery[0m
+[18:36] [0m                               anymore[0m
+[18:36] [0m[Auction] Murmandamus (necr) : straight to auction![0m
+[18:36] [0m[31;1m[Clan] Ser :[0m probably firebat, i dunno[0m
+[18:37] [0m[Auction] Nauda (necr) : easy money, need more capital for more doge coins[0m
+[18:41] [0m[31;1m[Clan] Elektra :[0m not on bat, and requiem blank - room unloaded[0m
+[18:41] [0m[31;1m[Clan] Elektra :[0m oh i'm out of dupes anyway[0m
+[18:43] [0m[31;1m[Clan] Dangerzone :[0m can i dupe it without it binding? tier 1 dupe[0m
+[18:44] [0m[31;1m[Clan] Oscar :[0m yes yes yes yes[0m
+[18:45] [0m[31;1m[Clan] Oscar :[0m it works[0m
+[18:45] [0m[31;1m[Clan] Oscar :[0m fuck yes[0m
+[18:45] [0m[31;1m[Clan] Morion :[0m dundeebot?[0m
+[18:45] [0m[31;1m[Clan] Oscar :[0m all my new bots[0m
+[18:45] [0m[31;1m[Clan] Oscar :[0m so much easier ot extend[0m
+[18:45] [0m[31;1m[Clan] Oscar :[0m to*[0m
+[18:45] [0m[31;1m[Clan] Dangerzone :[0m ahh yea give it to me daddy bbb[0m
+[18:45] [0m[31;1m[Clan] Morion :[0m all!? sick![0m
+[18:47] [0m[31;1m[Clan] Oscar :[0m Just made so much more sense to not have any actions in each[0m
+[18:47] [0m               botfile[0m
+[18:47] [0m[34;1mNightbreed shouts:[0m bad Zombie[0m
+[18:47] [0m[31;1m[Clan] Oscar :[0m All you have to do is declare variables there[0m
+[18:47] [0m[31;1m[Clan] Oscar :[0m And off you go[0m
+[18:51] [0m[34;1mEcholoc shouts:[0m no cookies[0m
+[18:51] [0m[34;1mMuzicchik shouts:[0m O.O[0m
+[18:52] [0m[31;1m[Clan] Ser :[0m did you write any nice for loops?[0m
+[18:52] [0m[31;1m[Clan] Elektra :[0m wert has cmc, fyi[0m
+[18:52] [0m[31;1m[Clan] Oscar :[0m its 1 foreach[0m
+[18:53] [0m[31;1m[Clan] Ser :[0m nog, perfect[0m
+[18:54] [0m[31;1m[Clan] Ser :[0m i'd like to see how kayos goes too haha[0m
+[18:54] [0m[31;1m[Clan] Oscar :[0m i also found the object type workaround im looking for[0m
+[18:54] [0m[31;1m[Clan] Oscar :[0m its running fine, the weird bit (names) passed[0m
+[18:59] [0m[31;1m[Clan] Reacher enters the game.[0m  [0m
+[18:59] [0m[31;1m[Clan] Turin enters the game.[0m  [0m
+[19:06] [0m[31;1m[Clan] Nix :[0m yo[0m
+[19:06] [0m[31;1m[Clan] Morion :[0m yo[0m
+[19:06] [0m[31;1m[Clan] Nix :[0m just got home from emeting[0m
+[19:06] [0m[31;1m[Clan] Morion :[0m go well?[0m
+[19:07] [0m[31;1m[Clan] Nix :[0m yeah longer then i thought... planning board[0m
+[19:07] [0m[31;1m[Clan] Morion :[0m nods[0m
+[19:12] [0m[31;1m[Clan] Nix :[0m resetting secz[0m
+[19:12] [0m[31;1m[Clan] Nix :[0m anyone need?[0m
+[19:13] [0m[31;1m[Clan] Morion :[0m im good but ty[0m
+[19:13] [0m[31;1m[Clan] Elektra :[0m oh morion[0m
+[19:13] [0m[31;1m[Clan] Morion :[0m wassup[0m
+[19:13] [0m[31;1m[Clan] Elektra :[0m got an enhance?[0m
+[19:13] [0m[31;1m[Clan] Morion :[0m several[0m
+[19:37] [0m[37;1mKirwan flaps :[0m Resetting SZ in 4 or 5 minutes at the title screen!  Lemme[0m
+[19:37] [0m               know if you're interested.[0m
+[19:37] [0m[37;1mWhoknows flaps :[0m woo[0m
+[19:40] [0m[34;1mSquirrel shouts:[0m QUAD KILL[0m
+[19:41] [0m[34;1mTychicus shouts:[0m Ripped![0m
+[19:41] [0m[31;1m[Clan] Oscar :[0m sz resetz[0m
+[19:42] [0m[31;1m[Clan] Nix :[0m we did we're on 41/521[0m
+[19:42] [0m[37;1mKirwan flaps :[0m anyone still on their way?[0m
+[19:44] [0m[37;1mTychicus flaps :[0m Carne asada fries would be so easy to make. :O[0m
+[19:44] [0m[37;1mWhoknows flaps :[0m u can put dez nevermind[0m
+[19:48] [0m[37;1mTychicus flaps :[0m I would like to order a pina colada..but can you hold the[0m
+[19:48] [0m                 pina and the colada.[0m
+[19:49] [0m[37;1mCaeli flaps :[0m SpaceX finally landed a BFR?[0m
+[19:49] [0m[37;1mWhoknows flaps :[0m today's launch/landing was a success[0m
+[19:49] [0m[37;1mTychicus flaps :[0m We landed on Uranus?[0m
+[19:49] [0m[37;1mAliona flaps :[0m This is a triumph?  I made a note here: HUGE SUCCESS.[0m
+[19:51] [0m[37;1mStasis flaps :[0m YUGE![0m
+[19:52] [0m[37;1mStasis flaps :[0m @Erdayastronaut got VR180 footage today, so looking forward[0m
+[19:52] [0m               to checking that out in vr[0m
+[19:52] [0m[37;1mElektra flaps :[0m love everyday astronaut[0m
+[19:53] [0m[34;1mMurmandamus shouts:[0m on this page you see a little girl giggling at a[0m
+[19:53] [0m                    hippopotamus...[0m
+[19:53] [0m[37;1mCaeli flaps :[0m My SO watches his feeds pretty exclusively.[0m
+[19:54] [0m[37;1mLeianne flaps :[0m I saw video of the astranauts hugging others on the space[0m
+[19:54] [0m                station. No social distance. Hopefully they didn't bring the[0m
+[19:54] [0m                virus up to the space station![0m
+[19:58] [0m[37;1mNauda flaps :[0m astranauts are not in risk group for covid, even if all 11 get[0m
+[19:58] [0m              infected[0m
+[20:02] [0m[31;1m[Clan] Ser :[0m is there an aset for "Tiger deftly slips away from your[0m
+[20:02] [0m             attack!"[0m
+[20:02] [0m[37;1mSer flaps :[0m is there an aset for "Tiger deftly slips away from your attack!"[0m
+[20:03] [0m[31;1m[Clan] Morion :[0m sub? worst case mayve[0m
+[20:03] [0m[31;1m[Clan] Elektra :[0m aset sexy_tiger_rawr_hide?[0m
+[20:03] [0m[31;1m[Clan] Elektra :[0m i could be wrong... i like my sexy tiger spam[0m
+[20:03] [0m[31;1m[Clan] Morion :[0m gag? haha[0m
+[20:03] [0m[31;1m[Clan] Elektra :[0m but i'm a necro... what do i know[0m
+[20:04] [0m[31;1m[Clan] Ser :[0m i sometimes get 8 msgs/round[0m
+[20:04] [0m[31;1m[Clan] Ser :[0m i'd rather gag it mudside since that's bandwidth[0m
+[20:04] [0m[31;1m[Clan] Ser :[0m less shit the server has to do too[0m
+[20:04] [0m[31;1m[Clan] Morion :[0m nods i get that[0m
+[20:04] [0m[31;1m[Clan] Elektra :[0m eek[0m
+[20:04] [0m[37;1mTychicus flaps :[0m Toight like a tiga![0m
+[20:04] [0m[31;1m[Clan] Ser :[0m i've seen a few times where the MIP gets lagged out[0m
+[20:04] [0m[37;1mFujitsu flaps :[0m i looooove goooold![0m
+[20:04] [0m[31;1m[Clan] Ser :[0m in large fights etc[0m
+[20:04] [0m[31;1m[Clan] Ser :[0m so trying to gag as much as i can[0m
+[20:05] [0m[31;1m[Clan] Ser :[0m mud-side[0m
+[20:05] [0m[37;1mTychicus flaps :[0m Can I paint his dingy goooooold, it's sort of my thing you[0m
+[20:05] [0m                 know.[0m
+[20:05] [0m[37;1mSer flaps :[0m also is there an aset for energy well[0m
+[20:08] [0m[37;1mStasis flaps :[0m eternal_ansi i guess[0m
+[20:13] [0m[37;1mTychicus flaps :[0m Mac & cheese, ya![0m
+[20:45] [0m[34;1mNauda shouts:[0m Do you think it's air you are breating?[0m
+[20:46] [0m[34;1mMental shouts:[0m i hope so?[0m
+[20:46] [0m[34;1mSer shouts:[0m wake up sheeple![0m
+[20:46] [0m[34;1mSpace shouts:[0m I can feel it, coming in the air tonight, oh lord[0m
+[20:47] [0m[31;1m[Clan] Nix :[0m laf, i just opend today's mail... my fucking homeowner's[0m
+[20:47] [0m             insurance company is trying to increase their annual rate by[0m
+[20:47] [0m             29.6%[0m
+[20:47] [0m[31;1m[Clan] Nix :[0m that's never getting approved by the division of banking and[0m
+[20:47] [0m             insurance[0m
+[20:48] [0m[31;1m[Clan] Elektra :[0m mine just dropped me[0m
+[20:48] [0m[31;1m[Clan] Elektra :[0m and my agent hasn't found me a new carrier yet[0m
+[20:48] [0m[31;1m[Clan] Ser :[0m what why[0m
+[20:49] [0m[31;1m[Clan] Ser :[0m i guess FL is going to be underwater in 20 years[0m
+[20:49] [0m[31;1m[Clan] Ser :[0m sorry, 30[0m
+[20:49] [0m[31;1m[Clan] Elektra :[0m it's already 60-70% underwater since the last ice age.[0m
+[20:50] [0m[31;1m[Clan] Ser :[0m yeah why'd you move there[0m
+[20:50] [0m[37;1mAdalius flaps :[0m I'm so proud of you guys.[0m
+[20:50] [0m[31;1m[Clan] Nix :[0m shit i if i wasnt' married i'd move to florida[0m
+[20:50] [0m[31;1m[Clan] Ser :[0m i whirlwinded 3x and spiff dodged all 3[0m
+[20:50] [0m[31;1m[Clan] Nix :[0m bag me some rich 80 year old[0m
+[20:51] [0m[37;1mWhoknows flaps :[0m ummm ok[0m
+[20:51] [0m[37;1mSimonz flaps :[0m uh oh[0m
+[20:51] [0m[37;1mAdalius flaps :[0m I ran those auctions, didn't realize I forgot to go back[0m
+[20:51] [0m                'home', so I was still at the auction room, then I went to[0m
+[20:51] [0m                dinner.[0m
+[20:51] [0m[37;1mAdalius flaps :[0m ~600k coins spilled over my arms onto the floor and not a[0m
+[20:51] [0m                single one of you that came and left took a single penny off[0m
+[20:51] [0m                the ground.[0m
+[20:51] [0m[37;1mSimonz flaps :[0m nod, saw you there heh[0m
+[20:51] [0m[37;1mSimonz flaps :[0m never touch a wizard's ....hoard[0m
+[20:51] [0m[37;1mNix flaps :[0m we should all get 600k coins as a reward![0m
+[20:51] [0m[37;1mDin flaps :[0m no one drew a mustache on you?[0m
+[20:51] [0m[37;1mStasis flaps :[0m we love you too, daddy[0m
+[20:52] [0m[37;1mSer flaps :[0m if !$foundplayer get coins[0m
+[20:52] [0m[37;1mAlassra flaps :[0m the question we should be asking is... why does Adalius have[0m
+[20:52] [0m                such low strength that he can't carry all those coins?!?[0m
+[20:52] [0m[34;1mMurmandamus shouts:[0m woot![0m
+[20:52] [0m[34;1mSkyblade shouts:[0m woot[0m
+[20:52] [0m[34;1mSpace shouts:[0m thanks You're done.[0m
+[20:52] [0m[34;1mGrot shouts:[0m thanks[0m
+[20:52] [0m[34;1mNauda shouts:[0m I choose bigger pecks for ada.[0m
+[20:53] [0m[31;1m[Clan] Decav leaves the game.[0m  [0m
+[20:53] [0m[34;1mPrism shouts:[0m Thank you![0m
+[20:53] [0m[34;1mMuzicchik shouts:[0m wooooo[0m
+[20:53] [0m[34;1mMurmandamus shouts:[0m thanks Adalius :)[0m
+[20:53] [0m[37;1mAlassra flaps :[0m Thanks, Adalius![0m
+[20:53] [0m[34;1mWhoknows shouts:[0m did you look in the mirror yet? :D[0m
+[20:54] [0m[34;1mZiphe shouts:[0m danks[0m
+[20:54] [0m[34;1mTex shouts:[0m thank you[0m

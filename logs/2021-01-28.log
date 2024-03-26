@@ -1,0 +1,1163 @@
+- = LOG STARTED [00:00] = -
+[00:01] [0m[Auction] Nameless (bard) : a gentleman and a scholar[0m
+[08:29] [0m[Auction] Tuba (necr) : what happened to the auro shield?[0m
+[08:30] [0m[Auction] Din (blad) : working on it, just a sec[0m
+[08:30] [0m[Auction] Whoknows (prie) : i ate it[0m
+[08:30] [0m[Auction] Wert (jedi) : heh din screwed up and put wrong shield back up[0m
+[08:30] [0m[Auction] Draven (frem) : laf[0m
+[08:30] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[08:31] [0m[Auction] Din (blad) : i'm an idiot.  Last night I bought auro, did (duplicate item[0m
+[08:31] [0m                       shield/auction shield, then realized I forgot to collect the auro and[0m
+[08:31] [0m                       decided I was obviously too tired for this.  Didn't think about auro[0m
+[08:31] [0m                       being still waiting for me to collect[0m
+[08:31] [0m[Auction] Wert (jedi) : haha nice, duped that spirit shield[0m
+[08:31] [0m[Auction] Whoknows (prie) : hehe i did that and thought i poof'd cmc once[0m
+[08:32] [0m[Auction] Robert : Up for bids: The Aurothon Shield.[0m
+[08:32] [0m[Auction] Robert : Squirrel has requested 558 as the opening offer.[0m
+[08:32] [0m[Auction] Din (blad) : at least it happened on a wasted short boot[0m
+[08:32] [0m[Auction] Robert : Got 6,969 from Al(chan).  Do I hear 7,108?[0m
+[08:32] [0m[Auction] Robert : 6,969 going once![0m
+[08:32] [0m[Auction] Robert : 6,969 going twice![0m
+[08:33] [0m[Auction] Robert : Sold to Al for 6,969 coins![0m
+[08:44] [0m[34;1mFlaxen shouts:[0m whosit[0m
+[08:44] [0m[34;1mWhoknows shouts:[0m whatshisname[0m
+[08:56] [0mWhoknows <Craft>: since xmuter costs more now, can we get some consistent color resets?[0m
+[08:56] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Deserts of Fantasy![0m
+[08:56] [0m                          We are localizing it now - get ready![0m
+[08:57] [0mFlaxen <Craft>: how are they inconsistent ?[0m
+[08:57] [0mWhoknows <Craft>: i'll get like 2 or 3 messages before even getting any colors..[0m
+[08:58] [0mFlaxen <Craft>: ... that seems unlikely.  this is the first I've heard of this report[0m
+[08:58] [0mWhoknows <Craft>: seems to be 3 times longer reset than reforger[0m
+[08:58] [0mNauda <Craft>: sometimes you get 2 colours somtimes 6 or what not[0m
+[08:58] [0mWhoknows <Craft>: then random colors[0m
+[08:58] [0mFlaxen <Craft>: oh, yeah the color recharge is random, not flat[0m
+[08:58] [0mFlaxen <Craft>: if that's what you mean by consistency[0m
+[08:58] [0m[34;1mHooligan shouts:[0m whooooo[0m
+[08:58] [0mFlaxen <Craft>: I don't think it's possible to get 0 colours though[0m
+[08:59] [0mWhoknows <Craft>: i've expressed my frustration and others confirmed.. so i'm just asking..[0m
+[08:59] [0mInquisitor <Craft>: I don't think I've ever seen even 1 color, it's always been (to the best of[0m
+[08:59] [0m                    my admittedly flawed memory) 2 to 6[0m
+[08:59] [0m[34;1mOlorin shouts:[0m thanks all:)[0m
+[08:59] [0mFlaxen <Craft>: well if anyone has seen ZERO colours, please let me know[0m
+[09:00] [0mFlaxen <Craft>: I still am not clear, whoknows, if you mean that you've gotten zero colours or[0m
+[09:00] [0m                you mean you've gotten few colors on a recharge.[0m
+[09:00] [0mWhoknows <Craft>: so is it meant to have some type of warmup time after logging in before[0m
+[09:00] [0m                  actually getting colors?[0m
+[09:01] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[09:01] [0mFlaxen <Craft>: it is a flat # of hbs while active[0m
+[09:01] [0mAl <Craft>: hbs?[0m
+[09:01] [0mWhoknows <Craft>: heartbeats[0m
+[09:01] [0mFlaxen <Craft>: if you go ld, counter doesn't increment.  if you go idle and for some reason[0m
+[09:01] [0m                your hb shuts off, counter doesn't increment[0m
+[09:01] [0mAl <Craft>: ah, gotcha[0m
+[09:01] [0mFlaxen <Craft>: all professions are driven off your player heartbeat[0m
+[09:02] [0mWhoknows <Craft>: guess i idle too much then[0m
+[09:02] [0mEphemeral <Craft>: if we're afflicted with some sort of hyperarrythmia, do we get colors faster?[0m
+[09:02] [0mFlaxen <Craft>: yes, but there's a 10% chance that your heart explodes[0m
+[09:02] [0mEphemeral <Craft>: worth it[0m
+[09:03] [0mWhoknows <Craft>: only 10%?[0m
+[09:03] [0mFlaxen <Craft>: for people who were doing transmuter-on-alt-to-transmute-that-one-piece-of-gear,[0m
+[09:03] [0m                yes, this new setup is worse[0m
+[09:03] [0mFlaxen <Craft>: because it costs more, so you need to keep your alt logged in more[0m
+[09:03] [0mFlaxen <Craft>: I'm not motivated to change that though.[0m
+[09:04] [0mNauda <Craft>: maybe the point is that you get random number of colours each time, so sometimes[0m
+[09:04] [0m               you get a lot quickly, sometimes you have to wait long time to refill 64 colours[0m
+[09:04] [0mWhoknows <Craft>: alot more colors now[0m
+[09:04] [0mWhoknows <Craft>: not 64 max[0m
+[09:05] [0mFlaxen <Craft>: yeah.  You should always be getting more than 0 though.  (I don't think it's[0m
+[09:05] [0m                possible to get 0, i just looked at the code)[0m
+[09:05] [0mFlaxen <Craft>: it's reset_number/2 + random(reset_number/2+1)[0m
+[09:05] [0mTurak <Craft>: it's 2-6 on the hour (with a blurb shortly before the burst (that reforge does[0m
+[09:05] [0m               not have) far as long as I can remember[0m
+[09:05] [0mFlaxen <Craft>: so you'r ealways getting half of your colors flat, the second half is the[0m
+[09:05] [0m                randomized thing[0m
+[09:06] [0mGaidin <Craft>: It averages out to almost exsctly 32 colors on 8 hours[0m
+[09:06] [0mWhoknows <Craft>: k so anti-idle bot to not idle over 30mins :D[0m
+[09:06] [0mEphemeral <Craft>: so you're saying we can get zero! ah HAH! I knew it. (if colors are already[0m
+[09:06] [0m                   full)[0m
+[09:07] [0mNeworder <Craft>: just run faster and get your heatbeat up[0m
+[09:07] [0mNauda <Craft>: heartbeat is lost after 39min and not 20min?[0m
+[09:07] [0mWhoknows <Craft>: ooh ok 20mins[0m
+[09:07] [0mWhoknows <Craft>: i was taking a stab in the dark on time[0m
+[09:08] [0mFlaxen <Craft>: yeah, anti-idle bots are illegal, just a reminder[0m
+[09:08] [0mWhoknows <Craft>: hence :D[0m
+[09:08] [0mWhoknows <Craft>: was j/k[0m
+[09:08] [0mFlaxen <Craft>: ephemeral: Very clever!  now die.[0m
+[09:09] [0mFlaxen <Craft>: that's it, I'm wiping everyone[0m
+[09:09] [0mWhoknows <Craft>: woohoo[0m
+[09:09] [0mEphemeral <Craft>: *hurk*[0m
+[09:09] [0mFlaxen <Craft>: :D[0m
+[09:09] [0mWhoknows <Craft>: level'd playing field![0m
+[09:20] [0m[31;1m[Clan] Toren :[0m oh, can i kill balangools with someone?[0m
+[09:20] [0m[31;1m[Clan] Toxin :[0m no[0m
+[09:20] [0m[31;1m[Clan] Toxin :[0m you smell like death[0m
+[09:20] [0m[31;1m[Clan] Saim :[0m i dont have a bot so i already have gimped xp[0m
+[09:20] [0m[31;1m[Clan] Toren :[0m new guy is toxic[0m
+[09:21] [0m[31;1m[Clan] Toren :[0m well, the reset is now 12 hrs[0m
+[09:21] [0m[34;1mVilgan shouts: [0mArgh, I'm dying!  Maceface is a meany![0m
+[09:21] [0m[31;1m[Clan] Toren :[0m so i'm stuck w nameless[0m
+[09:21] [0m[31;1m[Clan] Toren :[0m which is nice :D[0m
+[09:21] [0m[31;1m[Clan] Toren :[0m We lived in there yesterday and only did like 175 rooms?[0m
+[09:21] [0m[31;1m[Clan] Toren :[0m scaler 110[0m
+[09:22] [0m[31;1m[Clan] Toren :[0m what one do you do saim?[0m
+[09:23] [0m[31;1m[Clan] Saim :[0m im in 130 atm[0m
+[09:23] [0m[31;1m[Clan] Saim :[0m i usually just do NOC2[0m
+[09:23] [0m[31;1m[Clan] Saim :[0m if i had a bot or someone to bot me around, i would not mind tanking really[0m
+[09:24] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[09:26] [0m[31;1m[Clan] Toren :[0m ah fuck arhna is awake[0m
+[09:26] [0m[31;1m[Clan] Toren :[0m say goodbye to my whores[0m
+[09:26] [0m[31;1m[Clan] Aka :[0m lol[0m
+[09:26] [0m[31;1m[Clan] Aka :[0m and aegis, both gone in minutes[0m
+[09:26] [0m[31;1m[Clan] Saim :[0m yea but at least his butthole is prob clenched a bit tighter now[0m
+[09:48] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[10:05] [0m[31;1m[Clan] Toren :[0m throw some coins into the super bowl squares[0m
+[10:05] [0m[31;1m[Clan] Toren :[0m get it up[0m
+[10:05] [0m[31;1m[Clan] Toxin :[0m i just got 5[0m
+[10:05] [0m[31;1m[Clan] Toren :[0m YOU FUCKING CUNT NIX[0m
+[10:05] [0m[31;1m[Clan] Toren :[0m You beat my shitty mexican internet to the square i wanted[0m
+[10:06] [0m[31;1m[Clan] Toxin :[0m prod the hamster[0m
+[10:06] [0m[31;1m[Clan] Timmy :[0m you should should naked wrestle for supreme dominance[0m
+[10:11] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[10:17] [0m[31;1m[Clan] Toren :[0m gonna try der'thalas i guess[0m
+[10:17] [0m[31;1m[Clan] Toren :[0m need a undead area that isnt hotel heh[0m
+[10:18] [0m[31;1m[Clan] Aka :[0m info new, veil got ug'd[0m
+[10:18] [0m[31;1m[Clan] Toren :[0m oh, cool[0m
+[10:18] [0m[31;1m[Clan] Toren :[0m any feedback on it?[0m
+[10:18] [0m[31;1m[Clan] Toren :[0m i still cant tank :D[0m
+[10:18] [0m[31;1m[Clan] Aka :[0m i didn't do any testing or anything, been playing gentech too much haha[0m
+[10:18] [0m[31;1m[Clan] Toren :[0m i know dex = veil, and my dex is 75[0m
+[10:18] [0m[31;1m[Clan] Aka :[0m maybe Nik knows something more than i do[0m
+[10:19] [0m[31;1m[Clan] Aka :[0m aegis zombies...but arahn clears them too lol[0m
+[10:20] [0m[31;1m[Clan] Aka :[0m i wonder what he corpses up for lol[0m
+[10:20] [0m[31;1m[Clan] Toren :[0m in DT. its nice for combat but garbage gxp[0m
+[10:20] [0m[31;1m[Clan] Toren :[0m errr xp[0m
+[10:21] [0m[31;1m[Clan] Toren :[0m stupid good corpses too for some reason[0m
+[10:21] [0m[31;1m[Clan] Toren :[0m (--***) a preserved, sliced up corpse of Undead elf: Ok.[0m
+[10:21] [0m[31;1m[Clan] Toren :[0m that was a 61k mob[0m
+[10:26] [0m[31;1m[Clan] Nameless :[0m isnt that the norm for most t mobs?[0m
+[10:27] [0m[31;1m[Clan] Nameless :[0m i remember when bigpedes was the dream xp area, though, so i guess exceptions[0m
+[10:27] [0m                  apply[0m
+[10:29] [0m[31;1m[Clan] Toren :[0m dunno, that's just shockingly good for any mob that class[0m
+[10:30] [0m[31;1m[Clan] Nameless :[0m yeah the corpse bit is interesting[0m
+[10:30] [0m[37;1mCrolack flaps :[0m flap[0m
+[10:30] [0m[37;1mVortex flaps :[0m flap flap[0m
+[10:30] [0m[31;1m[Clan] Nameless :[0m i guess explains maybe why back in my necro days i had a path to run there[0m
+[10:30] [0m[37;1mVortex flaps :[0m How's it going ?[0m
+[10:30] [0m[37;1mDerfus flaps :[0m *pow*[0m
+[10:30] [0m[37;1mCrolack flaps :[0m Heavy Cloud No Rain[0m
+[10:31] [0m[35;1mDrax [Jedi(31)]:[0m Eep[0m
+[10:31] [0m[37;1mDerfus flaps :[0m Duck seaons![0m
+[10:31] [0m[31;1m[Clan] Nameless :[0m im gonna grab guac today hopefully, and see how long that lasts in sz[0m
+[10:31] [0m[31;1m[Clan] Nameless :[0m or i guess i can go to an even lower scaler for sake of constant combat[0m
+[10:32] [0m[31;1m[Clan] Nameless :[0m actually unsure if taking less dmg means less karma spent per round[0m
+[10:32] [0m[35;1mWert [Jedi(Master)]:[0m bah forgot to take off mask, helmets kill, remember that and dont use em[0m
+[10:33] [0m[37;1mEcholoc flaps :[0m wabbit season![0m
+[10:33] [0m[37;1mVortex flaps :[0m Rabbit season![0m
+[10:33] [0m[37;1mDerfus flaps :[0m Ball season![0m
+[10:34] [0m[34;1mBespoke shouts:[0m duck season--FIRE![0m
+[10:34] [0m[37;1mVortex flaps :[0m as in bugs uses reverse psychology powers[0m
+[10:34] [0m[34;1mVortex shouts:[0m be vewy vewy quiet[0m
+[10:34] [0m[31;1m[Clan] Nameless :[0m i would imagine in broad terms it would, but am maybe doubtful that avoid blow[0m
+[10:34] [0m                  or... whatever is costing me so much would change much with guac since its not[0m
+[10:34] [0m                  like theyre hard[0m
+[10:34] [0m[34;1mMetalhead shouts:[0m nop try again taco season[0m
+[10:34] [0m[34;1mDerfus shouts:[0m I am hunting dag nabbits.[0m
+[10:35] [0m[31;1m[Clan] Nameless :[0m althogh im guessing that since running corpse pos vs neg currentlyfor me is[0m
+[10:35] [0m                  just whether or not i have the capsules going makes that more likely. idk.[0m
+[10:35] [0m                  havent slept well so dumber than usual[0m
+[10:36] [0m[34;1mMetalhead shouts:[0m its blame maverik season[0m
+[10:39] [0m[31;1m[Clan] Toren :[0m laf[0m
+[10:39] [0m[34;1mEnder shouts:[0m pink![0m
+[10:39] [0m[34;1mVortex shouts:[0m its my new obsession[0m
+[10:39] [0m[31;1m[Clan] Toren :[0m another hitter is really what we need[0m
+[10:39] [0m[34;1mDerfus shouts:[0m Obsession for mudders.[0m
+[10:39] [0m[34;1mVortex shouts:[0m Pink![0m
+[10:40] [0m[34;1mVortex shouts:[0m come on guys you must know the words..... ... .. ... it's a classic[0m
+[10:40] [0m[34;1mNameless shouts:[0m taaaake on meeeeee[0m
+[10:40] [0m[34;1mVortex shouts:[0m It has nothing to do with pink... unless.... hehee[0m
+[10:44] [0m[35;1mSaim [Jedi(Elder)]:[0m and sps etc[0m
+[10:44] [0m[31;1m[Clan] Nameless :[0m probably heh[0m
+[10:44] [0m[34;1mDerfus shouts:[0m Take on pink[0m
+[10:45] [0m[31;1m[Clan] Nameless :[0m 57k wsea reps, ekeps being clear when i check[0m
+[10:46] [0m[34;1mGaidin shouts:[0m I see a pink door and I want to paint it grey.[0m
+[10:46] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[10:52] [0m[37;1mAdalius flaps :[0m Anybody get in the Gamestop blitzkreig before todays short ladder attack[0m
+[10:52] [0m                pummeled it?[0m
+[10:53] [0m[37;1mDerfus flaps :[0m I was thinking of adopting a baby and naming him Smeagle.[0m
+[10:53] [0m[37;1mAka flaps :[0m beautiful name for a child[0m
+[10:53] [0m[37;1mNauda flaps :[0m Smeagle Baggins, the love child[0m
+[10:53] [0m[37;1mDerfus flaps :[0m Smeagle, why does it cries Smeagle.[0m
+[10:54] [0m[34;1mBespoke shouts:[0m Deagle me love, can you feed the baby?[0m
+[10:54] [0m[37;1mAka flaps :[0m that kid will have a purpose in life[0m
+[10:54] [0m[37;1mEnder flaps :[0m No Adalius, but it made me happy to see fund managers crying over people not them[0m
+[10:54] [0m              manipulating the market.[0m
+[10:55] [0m[31;1m[Clan] Roken :[0m girl name: Zorah. What y'all think?[0m
+[10:56] [0m[31;1m[Clan] Nameless :[0m not bad[0m
+[10:56] [0m[37;1mTuba flaps :[0m I told you they was tricksy[0m
+[10:57] [0m[31;1m[Clan] Nameless :[0m course im not great at names, so...[0m
+[10:57] [0m[31;1m[Clan] Aka :[0m i like it, but i'm biased. my daugther's name is Norah[0m
+[10:58] [0m[31;1m[Clan] Roken :[0m ah nice Aka[0m
+[10:58] [0m[31;1m[Clan] Saim :[0m zorah is cool, but for some reason i think Zelda games[0m
+[10:58] [0m[31;1m[Clan] Toxin :[0m i like Zorah[0m
+[10:58] [0m[31;1m[Clan] Nameless :[0m oh right, i forgot you adn jess had a kiddo[0m
+[10:58] [0m[31;1m[Clan] Toxin :[0m my daughter's name is Piper[0m
+[10:58] [0m[31;1m[Clan] Roken :[0m firstly it was Zora.. girlfriend had no idea it was a race in Zelda games[0m
+[10:58] [0m[31;1m[Clan] Nameless :[0m perri?[0m
+[10:58] [0m[31;1m[Clan] Saim :[0m i have 3 lizards[0m
+[10:59] [0m[31;1m[Clan] Nameless :[0m i had a cat named oprah[0m
+[10:59] [0m[31;1m[Clan] Aka :[0m yeeeEEEEE name, she's 5 now, sitting here playing with her toys pretending she's[0m
+[10:59] [0m             fighting Grubbins (from costume quest) haha[0m
+[10:59] [0m[31;1m[Clan] Nameless :[0m hahaha nice[0m
+[11:00] [0m[31;1m[Clan] Aka :[0m we beat costume quest 1 together, but stalled out on costume quest 2[0m
+[11:00] [0m[31;1m[Clan] Aka :[0m great games if you haven't played em, easy rpgs[0m
+[11:00] [0m[31;1m[Clan] Nameless :[0m oo[0m
+[11:00] [0m[37;1mAdalius flaps :[0m There is now talk of a class action lawsuit against Robinhood because it blocked[0m
+[11:00] [0m                GME/AMC/BB/NOK/EXP from its stock search bar this morning, claiming market[0m
+[11:00] [0m                manipulation since one of the largest providers for Robinhood has short[0m
+[11:00] [0m                positions in many of those stocks.[0m
+[11:01] [0m[31;1m[Clan] Nameless :[0m i havent played any sort of non card game (aside from this) in a few years i[0m
+[11:01] [0m                  think[0m
+[11:02] [0m[31;1m[Clan] Nameless :[0m considered picking up league but i know that game would just tilt me[0m
+[11:02] [0m[37;1mToren flaps :[0m not sure what else you'd call it tbh[0m
+[11:03] [0m[37;1mGaidin flaps :[0m There's talk, but brokerages aren't generally obligated to honor transactions if[0m
+[11:03] [0m               there's a bona fide belief the price is manipulated.[0m
+[11:03] [0m[37;1mAdalius flaps :[0m Its not that they aren't honoring transactions, its that they arent even letting[0m
+[11:03] [0m                you look the stocks up[0m
+[11:03] [0m[37;1mToren flaps :[0m if it didnt trigger a market circuit breaker, no reason a market shouldn't exist[0m
+[11:03] [0m[37;1mGaidin flaps :[0m Bet the users consented to that when they signed up.[0m
+[11:04] [0m[37;1mDin flaps :[0m they're not preventing you from looking stocks up either, just not providing that[0m
+[11:04] [0m            service on their site[0m
+[11:04] [0m[37;1mCrolack flaps :[0m The billionaires got mad that poor people were making money.[0m
+[11:04] [0m[37;1mToren flaps :[0m it's a real good thing robinhood fixed their infinite money cheat code[0m
+[11:05] [0m[37;1mTuba flaps :[0m even if they are the ones doign the manipulating?[0m
+[11:05] [0m[37;1mToren flaps :[0m or this would have been...bonkers[0m
+[11:05] [0m[31;1m[Clan] Toxin :[0m hmmm... digital or blue-ray ps5[0m
+[11:05] [0m[31;1m[Clan] Toxin :[0m im leaning towards Blu-ray since i own like 1000 Dvd's[0m
+[11:06] [0m[31;1m[Clan] Nameless :[0m ooo[0m
+[11:06] [0m[31;1m[Clan] Toren :[0m both[0m
+[11:06] [0m[31;1m[Clan] Toxin :[0m go slip and fall at a gamestop toren[0m
+[11:06] [0m[37;1mAdalius flaps :[0m Din: The article I was just reading said users couldn't look up those 5 stocks[0m
+[11:06] [0m                and only those 5 stocks, searching for other stocks worked fine, so it does[0m
+[11:06] [0m                sound like they weren't letting them look up the stock.[0m
+[11:08] [0m[37;1mDin flaps :[0m there are loads of ways to look up the stock price[0m
+[11:09] [0m[37;1mDin flaps :[0m i guarantee there's nothing in their terms of service that says they'll always have[0m
+[11:09] [0m            stock price lookup available[0m
+[11:11] [0m[34;1mNameless shouts:[0m gracious, ashen one.[0m
+[11:11] [0m[34;1mLiskerlol shouts:[0m go BoTs go![0m
+[11:12] [0m[31;1m[Clan] Aka :[0m i've been playing Halo and Rainbow 6 Siege as my shooters, Dead by Daylight to[0m
+[11:12] [0m             chase people around and put them on hooks, Blackout Club for my coop experience,[0m
+[11:12] [0m             and got back into Hitman games for single player enjoyment[0m
+[11:14] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[11:20] [0m[31;1m[Clan] Aka :[0m i tried that league of legends, but couldn't get into it, i play heroes of the[0m
+[11:20] [0m             storm for casual moba experience[0m
+[11:20] [0m[31;1m[Clan] Nameless :[0m ive heard heroes is more fun[0m
+[11:20] [0m[31;1m[Clan] Prism :[0m people on league are so toxic lol[0m
+[11:20] [0m[31;1m[Clan] Nameless :[0m i can only imagine haha[0m
+[11:20] [0m[31;1m[Clan] Nameless :[0m esports stuff is a cesspool[0m
+[11:21] [0m[31;1m[Clan] Prism :[0m A few days ago someone on WoW said I should drink bleach and kill myself, that[0m
+[11:21] [0m               was fun![0m
+[11:21] [0m[31;1m[Clan] Nameless :[0m overwatch was a bad time and i bailed out of there fast, and i think league is[0m
+[11:21] [0m                  infinitely worse from waht ive heard[0m
+[11:21] [0m[31;1m[Clan] Nameless :[0m on mtg i think that a lot, but mostly when i play against a douchebag deck[0m
+[11:21] [0m                  that spams emotes[0m
+[11:21] [0m[34;1mOrthas shouts:[0m bad wyvern?[0m
+[11:22] [0m[31;1m[Clan] Nameless :[0m course i double down on toxic when i beat them, so im part of the problem i[0m
+[11:22] [0m                  suppose[0m
+[11:22] [0m[34;1mMetalhead shouts:[0m dont scare me like that i thought that was me that died[0m
+[11:25] [0m[31;1m[Clan] Nameless :[0m played a few turbomill decks earlier that kept spamming "oops" and "good game"[0m
+[11:25] [0m                  and on the final turn when i had lethal i just spammed nice a bunch of times[0m
+[11:25] [0m                  before killing them[0m
+[11:25] [0m[31;1m[Clan] Aka :[0m haha[0m
+[11:25] [0m[31;1m[Clan] Prism :[0m people used to do stuff like that on Hearthstone all the time lol[0m
+[11:25] [0m[37;1mAdalius flaps :[0m I don't think you understand what I[0m
+[11:25] [0m[31;1m[Clan] Aka :[0m i would have too[0m
+[11:25] [0m[31;1m[Clan] Nameless :[0m oh god, hearthstone[0m
+[11:25] [0m[31;1m[Clan] Aka :[0m like it's cool you have a nifty trick in your deck and it worked for you this[0m
+[11:25] [0m             match, but let's go quit spamming emotes haha[0m
+[11:25] [0m[37;1mAdalius flaps :[0m am saying. Its not just the ability to see the price. Many of those trading apps[0m
+[11:25] [0m                you have to type in the stock ticker to see the page with the price but that[0m
+[11:25] [0m                page also has the trade button to execute any trades against it.[0m
+[11:26] [0m[37;1mAdalius flaps :[0m Like on my Schwab app there isn't a generic 'trade' page where I type in the[0m
+[11:26] [0m                ticker symbol. I have to search the ticker, then hit trade from the page.[0m
+[11:26] [0m[31;1m[Clan] Nameless :[0m nod, i mean i suppose its an archetype that hasnt been viable more or less[0m
+[11:26] [0m                  ever but running into that deck or a variation of it every few matches is[0m
+[11:26] [0m                  furstrating[0m
+[11:26] [0m[37;1mAdalius flaps :[0m So by blocking it from search they didn't just disable the ability to search it,[0m
+[11:26] [0m                they disabled the ability to do anything with it. And they were only allowing[0m
+[11:26] [0m                sales not purchases before that.[0m
+[11:26] [0m[31;1m[Clan] Nameless :[0m especially when theres not exactly a good counter to mill[0m
+[11:27] [0m[37;1mMelly flaps :[0m welp, hopefully anything comes from that lawsuit[0m
+[11:27] [0m[37;1mAdalius flaps :[0m (but, to be fair, that was the old Schwab app, the new one I can enter ticker[0m
+[11:27] [0m                symbols, but that wasn't the case for ~2+ years that I used it)[0m
+[11:28] [0m[37;1mKremlin flaps :[0m yep. you are able to sell because you sell from your portfolio. but you cant buy[0m
+[11:28] [0m                because you cant search it[0m
+[11:28] [0m[31;1m[Clan] Nameless :[0m no standard legal cards that actually undo it aside from... midnight clock i[0m
+[11:28] [0m                  guess[0m
+[11:28] [0m[37;1mDin flaps :[0m so it goes back to what Gaidin said, they don't have to provide the ability to do[0m
+[11:28] [0m            transactions on a stock that's being manipulated that overtly[0m
+[11:28] [0m[37;1mPrismal flaps :[0m no one would care about the mge stuff if it was normal people losing their ass[0m
+[11:28] [0m                and not hedge funds[0m
+[11:29] [0m[37;1mPrismal flaps :[0m gme I mean[0m
+[11:29] [0m[37;1mKremlin flaps :[0m it is ALL hedge funds. some have a long position on GME and are making out like[0m
+[11:29] [0m                bandits. those that arent are blaming Reddit[0m
+[11:31] [0m[37;1mPrismal flaps :[0m I looked earlier this morning and it looked like the stock was nose diving[0m
+[11:31] [0m                pretty hard, but I haven't looked in a couple hours[0m
+[11:32] [0m[37;1mDin flaps :[0m currently at 274.73[0m
+[11:32] [0m[37;1mDin flaps :[0m got as low as 126 this morning[0m
+[11:32] [0m[37;1mTuba flaps :[0m yes, it dove, then went back up[0m
+[11:33] [0m[37;1mPrismal flaps :[0m apparently I need to sub to wallstreetbets so I can get in these get rich quick[0m
+[11:33] [0m                schemes[0m
+[11:33] [0m[37;1mTuba flaps :[0m hard to know which one will work beforehand though[0m
+[11:33] [0m[37;1mDin flaps :[0m isn't it more of a get poor quick scheme?  buying at 275 to piss of short sellers[0m
+[11:33] [0m            when it's going to tank out eventually?[0m
+[11:34] [0m[37;1mPrismal flaps :[0m well there were people that got it back when it was like 40 bucks, or so I read[0m
+[11:34] [0m[37;1mMalfean flaps :[0m not for the folks who bought at $20, or even $100[0m
+[11:34] [0m[37;1mNameless flaps :[0m kamikaze to take out the ruling class, there are worse ways to go[0m
+[11:34] [0m[37;1mGaidin flaps :[0m Yea, the people who started this last year and bought at $5 are the ones that got[0m
+[11:34] [0m               rich(er).[0m
+[11:35] [0m[37;1mPrismal flaps :[0m honestly if I bought a stock at 5 and it hit a 100 I'd have sold then, I just[0m
+[11:35] [0m                don't think I have the cajones for that kind of risk[0m
+[11:36] [0m[37;1mDin flaps :[0m i've only messed around with stocks once, outside of 401k type investments.  Bought[0m
+[11:36] [0m            sirius when it was down to $2, knowing they were about to announce howard stern's[0m
+[11:36] [0m            contract renewal.  Subscribers had been growing super fast.  Then it tanked all the[0m
+[11:36] [0m            way down to like 8 cents[0m
+[11:36] [0m[37;1mGaidin flaps :[0m The people that really made money here bought at 5, sold at 10, and doubled their[0m
+[11:36] [0m               money.[0m
+[11:36] [0m[37;1mAdalius flaps :[0m The premise is that the short sellers are going to have to buy at some point to[0m
+[11:36] [0m                cover their shorts, and when they do the price is going to top out, so they're[0m
+[11:36] [0m                trying to time the market (horrible idea generally) so that they sell at or[0m
+[11:36] [0m                around when the short sellers have made their purchases to close out the open[0m
+[11:36] [0m                contracts.[0m
+[11:36] [0m[37;1mPrismal flaps :[0m unless I bought a single share, but I'm assuming if you are going in on[0m
+[11:36] [0m                something like this you are putting real money behind it[0m
+[11:36] [0m[37;1mAdalius flaps :[0m So yes it will eventually tank but it wont peak until those contracts close.[0m
+[11:37] [0m[37;1mAdalius flaps :[0m And some of the larger investors on the thread are also buying options chains to[0m
+[11:37] [0m                try and scaffold the price and keep it up until that point.[0m
+[11:37] [0m[37;1mWhoknows flaps :[0m most the shorters already lost their shorts :D[0m
+[11:37] [0m[37;1mDin flaps :[0m i held on as long as i could, eventually sold for like 1.56[0m
+[11:37] [0m[35;1mEnder [Jedi(Knight)]:[0m Who be stealin my pine holocrons![0m
+[11:38] [0m[37;1mKremlin flaps :[0m its way too kind to characterize a short as a bet that the price will go down.[0m
+[11:38] [0m                hedge funds trade in volume, which means a short is an attempt to PUSH a stock[0m
+[11:38] [0m                down[0m
+[11:38] [0m[37;1mPrismal flaps :[0m I've only got my 401k, and then I put money into an index fund that is basically[0m
+[11:38] [0m                the whole nasdaq[0m
+[11:39] [0m[37;1mTuba flaps :[0m so, it's a game of musical chairs more or less? or maybe hot potato?[0m
+[11:39] [0m[37;1mGaidin flaps :[0m Yep, not many true get-rich-quick-schemes in the stock market.[0m
+[11:39] [0m[35;1mSaim [Jedi(Elder)]:[0m you need a flat?[0m
+[11:39] [0m[37;1mPrismal flaps :[0m I don't know a lot about stocks and trading, but from the little I do know[0m
+[11:39] [0m                shorting stocks seems ethically dubious to me[0m
+[11:39] [0m[37;1mKremlin flaps :[0m means its worth less than Redditors value it, but more than the shortsellers[0m
+[11:39] [0m                value it[0m
+[11:39] [0m[37;1mPrismal flaps :[0m but maybe that's just because I don't know squat about trading[0m
+[11:39] [0m[37;1mGaidin flaps :[0m I did okay shorting some casino stocks last January when the COVID news it.[0m
+[11:39] [0m[35;1mEnder [Jedi(Knight)]:[0m there was one missing, i do need to AT release force in a few days but no[0m
+[11:39] [0m                      biggie:)[0m
+[11:39] [0m[37;1mVortex flaps :[0m actually...............................[0m
+[11:39] [0m[35;1mEnder [Jedi(Knight)]:[0m well, there are none now so Im assuming someone else is doing the same[0m
+[11:39] [0m                      thing:)[0m
+[11:39] [0m[37;1mVortex flaps :[0m I'm an active advisor[0m
+[11:40] [0m[37;1mGaidin flaps :[0m THen bought some outright when prices bottomed out in March.[0m
+[11:40] [0m[35;1mWert [Jedi(Master)]:[0m why are you grabbing the frags before your rdy to use[0m
+[11:40] [0m[35;1mWert [Jedi(Master)]:[0m save your own sure, but leave the ones in the box til you need[0m
+[11:40] [0m[37;1mVortex flaps :[0m which is the same license as inv managment[0m
+[11:40] [0m[35;1mEnder [Jedi(Knight)]:[0m Im not. thats why i was joking when I said who is taking them, cause they[0m
+[11:40] [0m                      are all gone now.[0m
+[11:40] [0m[37;1mTuba flaps :[0m some of my friends at work bought cruise line stocks last march[0m
+[11:40] [0m[37;1mVortex flaps :[0m and shorting stocks... is kinda essential[0m
+[11:40] [0m[37;1mGaidin flaps :[0m I thought about cruises, but I figured casinos would bounce back quicker.[0m
+[11:40] [0m[37;1mVortex flaps :[0m well not essential but many strategies rely on atleast one short[0m
+[11:40] [0m[37;1mGaidin flaps :[0m Which they did.[0m
+[11:41] [0m[37;1mAdalius flaps :[0m I got into Royal Caribbean at ~20, its at ~68 now, was at 143 pre-covid.[0m
+[11:41] [0m[37;1mVortex flaps :[0m Time to get out Ada[0m
+[11:41] [0m[31;1m[Clan] Nameless :[0m scaler 105 secz, seems like an eztime solo[0m
+[11:41] [0m[35;1mEnder [Jedi(Knight)]:[0m getting the set has never seemed to be an issue. One boot I was short one[0m
+[11:41] [0m                      when the teacher showed up like 10m before reboot.[0m
+[11:41] [0m[37;1mVortex flaps :[0m Look around and tell me that you think their economic activity is back to normal[0m
+[11:41] [0m[37;1mGaidin flaps :[0m I got MGM at 5.  It was up around 30 when I unloaded it before the election.[0m
+[11:42] [0m[37;1mAdalius flaps :[0m They haven't offloaded any boats and their reservations are still through the[0m
+[11:42] [0m                roof. Mine included.[0m
+[11:42] [0m[34;1mBespoke shouts:[0m I don't think global capital economics has been normal since, maybe, 1996[0m
+[11:42] [0m[37;1mVortex flaps :[0m check the reports[0m
+[11:42] [0m[37;1mVortex flaps :[0m Bespoke use FChat :)[0m
+[11:43] [0m[37;1mVortex flaps :[0m also define normal[0m
+[11:43] [0m[31;1m[Clan] Toren :[0m wanta  friend? :)[0m
+[11:43] [0m[37;1mAdalius flaps :[0m Which reports specifically am I supposed to look at? Plus don't you know reports[0m
+[11:43] [0m                are for hedge funds, feelings are for personal investors :D[0m
+[11:43] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[11:43] [0m[37;1mVortex flaps :[0m hehe[0m
+[11:44] [0m[37;1mVortex flaps :[0m a stock is nothing but a paper of ownership[0m
+[11:44] [0m[37;1mVortex flaps :[0m if you rely on gut feelings and not pure info, you are not investing[0m
+[11:44] [0m[37;1mAdalius flaps :[0m I'd expect their P&Ls to take a hit, so that doesn't surprise me. I just have[0m
+[11:44] [0m                tremendous confidence that if they can weather this out a little longer until[0m
+[11:44] [0m                the vaccinations take hold that they're going to be slammed with customers who[0m
+[11:44] [0m                want to get out after being cooped up at home for the last 1+ years.[0m
+[11:44] [0m[37;1mVortex flaps :[0m During the corona I have made one huge mistake[0m
+[11:44] [0m[37;1mVortex flaps :[0m didnt take a loan to invest more[0m
+[11:45] [0m[37;1mAdalius flaps :[0m Because studies have continued to show that the middle and upper class have[0m
+[11:45] [0m                actually been saving more money during this pandemic, meaning they're going to[0m
+[11:45] [0m                have a wad to blow when it lets loose.[0m
+[11:45] [0m[37;1mVortex flaps :[0m P&L worth absolutely nothing but the toilet paper its printed upon[0m
+[11:45] [0m[37;1mVortex flaps :[0m saving money that worth nothign[0m
+[11:45] [0m[37;1mVortex flaps :[0m sounds cool[0m
+[11:46] [0m[37;1mAdalius flaps :[0m *shrug* I guess we'll see who wins out in the end. I'm holding.[0m
+[11:46] [0m[37;1mVortex flaps :[0m if u hold like 100$ and then the bank produces another 100$ from thin air, what[0m
+[11:46] [0m               does your 100$ worth now?[0m
+[11:46] [0m[37;1mVortex flaps :[0m That's fine mate :) nobody actually knows the future[0m
+[11:46] [0m[31;1m[Clan] Nameless :[0m sure![0m
+[11:46] [0m[37;1mSaim flaps :[0m 1 - 100$ hooker, or 20 $5 hookers?[0m
+[11:47] [0m[37;1mVortex flaps :[0m hehee[0m
+[11:47] [0m[31;1m[Clan] Nameless :[0m lemme finish this one then meet you at entrance[0m
+[11:47] [0m[37;1mZartan flaps :[0m 20![0m
+[11:47] [0m[37;1mVortex flaps :[0m people, money is nothing but paper[0m
+[11:47] [0m[37;1mGaidin flaps :[0m No, no, I buy you a $100 hooker now, then you buy me a $5 hooker in a month.[0m
+[11:47] [0m[37;1mSaim flaps :[0m gaidin gets it[0m
+[11:47] [0m[37;1mGaidin flaps :[0m That's, by the way, shorting in a nutshell.[0m
+[11:47] [0m[37;1mKremlin flaps :[0m i bought all the airlines halfway through last year[0m
+[11:48] [0m[37;1mDin flaps :[0m I own 0.0000008% of colgate  :)[0m
+[11:48] [0m[37;1mNameless flaps :[0m the only stock im after is ligma[0m
+[11:48] [0m[37;1mAdalius flaps :[0m I have trailing stops on all my big gambles anyway so I don't get too worried.[0m
+[11:48] [0m[37;1mGaidin flaps :[0m Now, there's an idea.  Anybody wanna go in with me on a Vegas HOokers futures[0m
+[11:48] [0m               market?[0m
+[11:48] [0m[37;1mKremlin flaps :[0m all my airlines are up 50-100% now[0m
+[11:48] [0m[37;1mGaidin flaps :[0m Get in on the ground floor, then we take the diea to reddit in 6 months.[0m
+[11:49] [0m[37;1mVortex flaps :[0m reddit shmeddit[0m
+[11:49] [0m[37;1mVortex flaps :[0m im still holding to my Put Gme 200$ :)[0m
+[11:49] [0m[37;1mSaim flaps :[0m im mean it actually could be genius if done. if sex work is legalized like weed is[0m
+[11:49] [0m             atm[0m
+[11:49] [0m[37;1mVortex flaps :[0m its finally in profit[0m
+[11:50] [0m[37;1mGaidin flaps :[0m Except current pandering laws make it illegal.[0m
+[11:50] [0m[37;1mSaim flaps :[0m well its better than this Heroin stock i have...[0m
+[11:50] [0m[37;1mVolt flaps :[0m will legalizing it bring the price down and the quality up?[0m
+[11:50] [0m[37;1mGaidin flaps :[0m So this would have to be a cash-only thing for now.[0m
+[11:50] [0m[31;1m[Clan] Nameless :[0m waiting here til vamp finishes then going back in :p[0m
+[11:50] [0m[37;1mGaidin flaps :[0m You can trust me.[0m
+[11:50] [0m[37;1mVortex flaps :[0m lol[0m
+[11:50] [0m[37;1mDin flaps :[0m y'all gonna get me busted for googling hookers and blow.  "I'm looking for[0m
+[11:50] [0m            investment opportunities!"[0m
+[11:50] [0m[37;1mVortex flaps :[0m wat stock?[0m
+[11:51] [0m[37;1mVolt flaps :[0m ipt laf[0m
+[11:52] [0m[37;1mAdalius flaps :[0m So both AOC and Trump Jr are calling for crap against Robinhood now... when[0m
+[11:52] [0m                those two are on the same side, you dun f'ed up.[0m
+[11:52] [0m[31;1m[Clan] Nameless :[0m also question, can i use capsules from another instance for the thing at the[0m
+[11:52] [0m                  end?[0m
+[11:52] [0m[37;1mKremlin flaps :[0m i know someone who made a good amount of money on meth futures a while ago.[0m
+[11:52] [0m[31;1m[Clan] Nameless :[0m unsure if i should unsmuggle my greens and eat them if i cant use last nights[0m
+[11:53] [0m[37;1mDraven flaps :[0m then get in on ground floor of dental futures too![0m
+[11:53] [0m[31;1m[Clan] Toren :[0m sorry[0m
+[11:53] [0m[31;1m[Clan] Toren :[0m def didnt see that[0m
+[11:53] [0m[31;1m[Clan] Toren :[0m are we still in the same dungeon?[0m
+[11:53] [0m[31;1m[Clan] Nameless :[0m oops[0m
+[11:53] [0m[31;1m[Clan] Toren :[0m or did yours reset[0m
+[11:53] [0m[31;1m[Clan] Nameless :[0m nope, mine reset[0m
+[11:54] [0m[31;1m[Clan] Toren :[0m oh[0m
+[11:54] [0m[31;1m[Clan] Toren :[0m i'm in your old dungeon[0m
+[11:54] [0m[31;1m[Clan] Nameless :[0m oof[0m
+[11:54] [0m[31;1m[Clan] Toren :[0m I could reset w/ byron and we could bring saim in if he wants[0m
+[11:54] [0m[31;1m[Clan] Toren :[0m at a better caler[0m
+[11:55] [0m[31;1m[Clan] Nameless :[0m that could work, yeah[0m
+[11:55] [0m[31;1m[Clan] Saim :[0m id come along for some dmg if u want[0m
+[11:55] [0m[37;1mSpace flaps :[0m what do both have to save about nakid shorting? why are hedge funds able to do[0m
+[11:55] [0m              that when its illegal ? robinhood/reddit bros just caused the short squeeze cos[0m
+[11:55] [0m              the hedefunds were nakid shorting[0m
+[11:55] [0m[31;1m[Clan] Saim :[0m ive only made it to floor 11[0m
+[11:55] [0m[31;1m[Clan] Saim :[0m thats why i dont lead parties at work[0m
+[11:55] [0m[31;1m[Clan] Nameless :[0m hehe[0m
+[11:56] [0m[31;1m[Clan] Nameless :[0m well i can drive, no idea what scaler i can do that is worth dragging people[0m
+[11:56] [0m                  through[0m
+[11:56] [0m[31;1m[Clan] Nameless :[0m i think with 3 people i could do 110 and probably stay corpse positive[0m
+[11:56] [0m[31;1m[Clan] Nameless :[0m maybe 115 but thats likely pushing it[0m
+[11:56] [0m[31;1m[Clan] Saim :[0m 110 is pretty low, not sure it would work out xp wise[0m
+[11:56] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[11:58] [0m[31;1m[Clan] Nameless :[0m i probably can kill larger for sure but would need pauses which could suck[0m
+[11:58] [0m[31;1m[Clan] Nameless :[0m none of these are hard tanking wise, just a slow drain on karma[0m
+[12:00] [0m[31;1m[Clan] Toren :[0m oh[0m
+[12:00] [0m[31;1m[Clan] Toren :[0m well I cant reset this guy[0m
+[12:01] [0m[31;1m[Clan] Toren :[0m I realized w/o ld login[0m
+[12:01] [0m[31;1m[Clan] Toren :[0m sorry, shitty mexican internet nameless[0m
+[12:01] [0m[31;1m[Clan] Saim :[0m its cool. im busy today anyway[0m
+[12:02] [0m[31;1m[Clan] Nameless :[0m its all good :)[0m
+[12:02] [0m[31;1m[Clan] Nameless :[0m hopefully after today i can figure out how to not suck and tomorrow will be a[0m
+[12:02] [0m                  full run of decent xp/gxp[0m
+[12:02] [0m[31;1m[Clan] Toren :[0m nog[0m
+[12:05] [0m[37;1mVortex flaps :[0m keeeeep on falling![0m
+[12:06] [0m[37;1mVortex flaps :[0m shorting is legal[0m
+[12:07] [0m[37;1mZartan flaps :[0m robin hood any good?[0m
+[12:07] [0m[37;1mSpace flaps :[0m shorting is, nakid shorting is not[0m
+[12:07] [0m[37;1mZartan flaps :[0m i started an account and stoped at adding my banking info[0m
+[12:07] [0m[37;1mZartan flaps :[0m got cold feet.[0m
+[12:07] [0m[37;1mVortex flaps :[0m ow naked shorting[0m
+[12:07] [0m[37;1mSpace flaps :[0m shorting is 'borrowing' a stock, and selling it, to buy back later and 'pay it' to[0m
+[12:07] [0m              the lender[0m
+[12:07] [0m[37;1mVortex flaps :[0m yes its improbable[0m
+[12:07] [0m[37;1mAka flaps :[0m hold the line![0m
+[12:07] [0m[37;1mSpace flaps :[0m nakid shorting is selling without borrowing[0m
+[12:07] [0m[37;1mSpace flaps :[0m that is illegal[0m
+[12:08] [0m[37;1mZartan flaps :[0m the line is "held"[0m
+[12:08] [0m[37;1mVortex flaps :[0m robinhood is ok[0m
+[12:08] [0m[37;1mZartan flaps :[0m E-trade is betteR/[0m
+[12:08] [0m[37;1mNauda flaps :[0m Hi Robin Hood, I am Sorry[0m
+[12:08] [0m[37;1mVortex flaps :[0m etrade has higher cap[0m
+[12:09] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[12:09] [0m[31;1m[Clan] Nameless :[0m XP Gain for the last 30 minutes: 141,483,064[0m
+[12:10] [0m[31;1m[Clan] Nameless :[0m not horrible, not great, yet[0m
+[12:16] [0m[31;1m[Clan] Cambiador leaves the game.[0m  [0m
+[12:16] [0m[31;1m[Clan] Archimedes leaves the game.[0m  [0m
+[12:17] [0m[37;1mVortex flaps :[0m woop woop already almost 40% down :)[0m
+[12:18] [0m[37;1mAdalius flaps :[0m Royal's up 4.5% today ;D[0m
+[12:18] [0m[37;1mVara flaps :[0m Does everyone hate you if you leave their guild like some muds do?[0m
+[12:18] [0m[37;1mAdalius flaps :[0m No.[0m
+[12:19] [0m[37;1mWhoknows flaps :[0m only i will[0m
+[12:19] [0m[37;1mGaidin flaps :[0m The people in your new guild probably will like you.[0m
+[12:19] [0m[37;1mAdalius flaps :[0m Guild hopping is quite frequent and many have toons in multiple guilds anyway.[0m
+[12:19] [0m[37;1mVara flaps :[0m Just making sure. That guild leave message was very ominous.[0m
+[12:19] [0m[37;1mDin flaps :[0m toons.. *cringe*[0m
+[12:19] [0m[37;1mGaidin flaps :[0m But, nah, people expect some guild hopping.[0m
+[12:20] [0m[37;1mVara flaps :[0m I mostly see that in rp mus for cities/guilds/etc but just making sure[0m
+[12:20] [0m[37;1mSpace flaps :[0m those who pretend to be dedicated and make me waste tine on gxping them and[0m
+[12:20] [0m              getting em donates and exp, and then guild hop, I just put them on my perma ignore[0m
+[12:20] [0m              list, hate no, but consequences? sure[0m
+[12:20] [0m[37;1mKremlin flaps :[0m what guild did you leave?[0m
+[12:20] [0m[34;1mRheiu shouts:[0m no!!!![0m
+[12:20] [0m[34;1mOrthas shouts:[0m sparkly[0m
+[12:20] [0m[34;1mNameless shouts:[0m who framed roger rabbit[0m
+[12:20] [0m[34;1mAka shouts:[0m neat[0m
+[12:20] [0m[37;1mVara flaps :[0m changeling[0m
+[12:20] [0m[37;1mDin flaps :[0m because everyone measures their worth on 3k by how much space likes them[0m
+[12:20] [0m[37;1mWhoknows flaps :[0m thats a tough first guild[0m
+[12:20] [0m[37;1mVara flaps :[0m Yeah I learned that[0m
+[12:21] [0m[37;1mKremlin flaps :[0m oh yeah youre hated for life now[0m
+[12:21] [0m[37;1mJavelin flaps :[0m I can confirm that we all do not hate you[0m
+[12:21] [0m[37;1mKremlin flaps :[0m :p[0m
+[12:21] [0m[37;1mJavelin flaps :[0m Al might, but nobody likes him either[0m
+[12:21] [0m[37;1mDerfus flaps :[0m Changelings aren't that bad, try psicorps...[0m
+[12:21] [0m[37;1mVara flaps :[0m Is it the mage guild on here or is it 3s that has the really nice magic system? Or[0m
+[12:21] [0m             did I just screw myself over mensioning that spinoff?[0m
+[12:21] [0m[37;1mNameless flaps :[0m i liked 3s mages[0m
+[12:21] [0m[34;1mPantalones shouts:[0m All I got was this lousy t-shirt![0m
+[12:21] [0m[37;1mAdalius flaps :[0m Leaving a guild, no hate. Mentioning 3s? HAAAATTTTTE[0m
+[12:22] [0m[37;1mNameless flaps :[0m the flavor of math wizards really was nice[0m
+[12:22] [0m[37;1mKremlin flaps :[0m ive hopped through that guild 400x and every changeling fights to be president[0m
+[12:22] [0m                of my fan club[0m
+[12:22] [0m[37;1mAdalius flaps :[0m </sarcasm>[0m
+[12:22] [0m[37;1mVara flaps :[0m Seriously? ell thatt's fucking toxic[0m
+[12:22] [0m[37;1mVara flaps :[0m oh oops[0m
+[12:22] [0m[37;1mKremlin flaps :[0m :p[0m
+[12:22] [0m[34;1mWhoknows shouts:[0m does it say im with stupid and an arrow pointing up?[0m
+[12:22] [0m[37;1mVara flaps :[0m didn't see your message until after sorry[0m
+[12:22] [0m[34;1mVara shouts:[0m ouch[0m
+[12:22] [0m[37;1mJavelin flaps :[0m we're a pretty chilled out bunch generally[0m
+[12:23] [0m[37;1mAdalius flaps :[0m Best laugh I've had today.[0m
+[12:23] [0m[34;1mPantalones shouts:[0m Hey we know who wears the pantalones around here.[0m
+[12:23] [0m[34;1mWhoknows shouts:[0m who.[0m
+[12:23] [0m[34;1mDerfus shouts:[0m No mas pantelones.[0m
+[12:23] [0m[37;1mRhyson flaps :[0m space is secretly michael jordan[0m
+[12:24] [0m[37;1mVortex flaps :[0m time to wl?[0m
+[12:24] [0m[37;1mWhoknows flaps :[0m and im bill gates[0m
+[12:24] [0m[37;1mVara flaps :[0m Would rather not lose an entire game I like. On Christmas someone literally ruined[0m
+[12:24] [0m             my entire enjoyment or a game by mensioning previous ban evasion on something[0m
+[12:24] [0m             completely different, painting me in the absolute worst light possible an then[0m
+[12:24] [0m             refrencing it for weeks on end until I finally just couldn't take it[0m
+[12:24] [0m[37;1mVara flaps :[0m Oh, shit. Here we goooooo.[0m
+[12:24] [0m[37;1mRheiu flaps :[0m Hey bill! You still owe me money from that email[0m
+[12:25] [0m[37;1mHsima flaps :[0m duuuck[0m
+[12:25] [0m[37;1mVortex flaps :[0m test[0m
+[12:25] [0m[37;1mDraven flaps :[0m fail[0m
+[12:25] [0m[37;1mVara flaps :[0m I'm srry.[0m
+[12:25] [0m[37;1mVara flaps :[0m sorry uh this computer sucks[0m
+[12:26] [0m[37;1mWhoknows flaps :[0m new phone, who dis?[0m
+[12:26] [0m[37;1mVara flaps :[0m And so do I, aparently[0m
+[12:26] [0m[37;1mVortex flaps :[0m Any of you guys have / had Z900 ?[0m
+[12:26] [0m[37;1mWhoknows flaps :[0m i had a 280z[0m
+[12:26] [0m[37;1mVortex flaps :[0m the who?[0m
+[12:27] [0m[37;1mVortex flaps :[0m its 2 too many wheels on that one[0m
+[12:27] [0m[37;1mDraven flaps :[0m I used to mud with dirt and water[0m
+[12:28] [0m[37;1mWhoknows flaps :[0m had a ninja 600, now a '96 Sportster 1200HD[0m
+[12:28] [0m[37;1mVortex flaps :[0m ooo a sportster <3<3[0m
+[12:29] [0m[37;1mVortex flaps :[0m my problem with them is the H and the DA[0m
+[12:29] [0m[37;1mVara flaps :[0m Where do I find the mage guild?[0m
+[12:29] [0m[37;1mGaidin flaps :[0m West side of Pinnacle[0m
+[12:29] [0m[37;1mZartan flaps :[0m in the witches guild[0m
+[12:29] [0m[37;1mDerfus flaps :[0m It's d sw from Honorable Knight.[0m
+[12:29] [0m[37;1mSky flaps :[0m dmap pinc[0m
+[12:29] [0m[37;1mGaidin flaps :[0m dmap pinc for a map[0m
+[12:29] [0m[37;1mWhoknows flaps :[0m dmap oinc[0m
+[12:29] [0m[37;1mWhoknows flaps :[0m pinc[0m
+[12:30] [0m[37;1mKichi flaps :[0m dpinc map[0m
+[12:30] [0m[37;1mVara flaps :[0m screenr eaer user[0m
+[12:30] [0m[37;1mVortex flaps :[0m The big ting about the HD is that they survive for so looooong[0m
+[12:30] [0m[37;1mVara flaps :[0m screen reader user[0m
+[12:30] [0m[37;1mVortex flaps :[0m I mean, look at your bike. 96'[0m
+[12:30] [0m[37;1mGaidin flaps :[0m Ooh.  It's exactly west from the center of town, just need to go around a[0m
+[12:30] [0m               building in your way.[0m
+[12:30] [0m[37;1mWhoknows flaps :[0m best thing about HD is you dont need special stupid tools to work on them[0m
+[12:31] [0m[37;1mVortex flaps :[0m hey hey hey I currently have an MT and I also dont need special tools[0m
+[12:31] [0m[34;1mVortex shouts:[0m Woot wooty woot[0m
+[12:31] [0m[37;1mPantalones flaps :[0m mages: n/w/w/s/w/w/w/w from COT[0m
+[12:32] [0m[37;1mVortex flaps :[0m You are probably referring to all the Rossi wannabe super sport super charged[0m
+[12:32] [0m               full fairing plasting grinding bikes[0m
+[12:32] [0m[37;1mVortex flaps :[0m I had 1 minor incident on my former YZF and the damn plastic went to hell[0m
+[12:33] [0m[37;1mWhoknows flaps :[0m pro tip, dont polish your seat[0m
+[12:33] [0m[37;1mSaim flaps :[0m if you polish your seat, youll wax your back[0m
+[12:33] [0m[37;1mVortex flaps :[0m lol[0m
+[12:34] [0m[37;1mVortex flaps :[0m meh the cats ruin the seat anyways[0m
+[12:34] [0m[37;1mVortex flaps :[0m I still dont understand how exactly they manage to get to the damn seat[0m
+[12:35] [0m[37;1mVortex flaps :[0m oh shit[0m
+[12:35] [0m[37;1mWhoknows flaps :[0m crap[0m
+[12:35] [0m[37;1mVortex flaps :[0m my little one pooped on the floor[0m
+[12:35] [0m[37;1mVortex flaps :[0m damnit[0m
+[12:35] [0m[37;1mVortex flaps :[0m memories of owning a dog floating[0m
+[12:36] [0m[37;1mSaim flaps :[0m floating dogs would be a nightmare of falling poop[0m
+[12:37] [0m[37;1mVortex flaps :[0m floating toddlers too[0m
+[12:37] [0m[37;1mVara flaps :[0m I'm in the clearing, where's the mages guildd?[0m
+[12:38] [0m[37;1mVortex flaps :[0m watch out from the poop![0m
+[12:38] [0m[37;1mZartan flaps :[0m too late,[0m
+[12:38] [0m[37;1mZartan flaps :[0m awwwww man[0m
+[12:38] [0m[37;1mVortex flaps :[0m shit![0m
+[12:38] [0m[37;1mNauda flaps :[0m don't eat the yellow snow[0m
+[12:38] [0m[37;1mVortex flaps :[0m it is shit![0m
+[12:38] [0m[37;1mZartan flaps :[0m to late[0m
+[12:38] [0m[37;1mZartan flaps :[0m EWWWW[0m
+[12:39] [0m[37;1mZartan flaps :[0m sour grass[0m
+[12:39] [0m[37;1mVortex flaps :[0m you guys know how to say shit in chinese?![0m
+[12:39] [0m[37;1mZartan flaps :[0m is sour becaus dogs piss on it[0m
+[12:39] [0m[37;1mVortex flaps :[0m shi[0m
+[12:39] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[12:39] [0m[37;1mAdalius flaps :[0m Coulda sworn we talked about profanity on public lines before...hrm[0m
+[12:39] [0m[37;1mNameless flaps :[0m i used to eat a lot of sour clovers as a kid. woops.[0m
+[12:39] [0m[37;1mZartan flaps :[0m PRO fanity[0m
+[12:39] [0m[37;1mVortex flaps :[0m oh[0m
+[12:39] [0m[37;1mVara flaps :[0m It's against the rules?[0m
+[12:40] [0m[37;1mVortex flaps :[0m it makes us all outlaws[0m
+[12:40] [0m[37;1mSaim flaps :[0m moar chatlines - 'aflap' adult flap[0m
+[12:40] [0m[37;1mCrolack flaps :[0m Is Turnhold a swear word?[0m
+[12:41] [0m[37;1mNameless flaps :[0m adflap for car insurance[0m
+[12:41] [0m[37;1mVortex flaps :[0m well my bad. Or. My toddler's bad. he brought up the subject. Or is it brought[0m
+[12:41] [0m               down...[0m
+[12:41] [0m[37;1mSaim flaps :[0m take that to aflap![0m
+[12:41] [0m[37;1mVortex flaps :[0m flapchat.......... is already almost profanity[0m
+[12:42] [0m[37;1mAdalius flaps :[0m If people wanna tempt fate, I can get Bernie out here. We know what his mittens[0m
+[12:42] [0m                are called.[0m
+[12:42] [0m[37;1mVortex flaps :[0m awww dont bring Bernie out.... he is cute[0m
+[12:42] [0m[37;1mVortex flaps :[0m I saw him doing an armbar with dem mittens[0m
+[12:43] [0m[37;1mDraven flaps :[0m bernie?[0m
+[12:43] [0m[37;1mAdalius flaps :[0m I have the armbar meme with Rogan & the rest at the bottom in shock on Facebook[0m
+[12:43] [0m                as my 'favorite Bernie meme' from the whole collection[0m
+[12:43] [0m[37;1mNauda flaps :[0m what are the mittens called? Freedom and Oil?[0m
+[12:43] [0m[37;1mVortex flaps :[0m Not Barney mind you[0m
+[12:43] [0m[37;1mVortex flaps :[0m indeed[0m
+[12:43] [0m[37;1mVortex flaps :[0m we have something in common hehehehe[0m
+[12:44] [0m[37;1mVortex flaps :[0m what are your thoughts about Mcgregors last performance?[0m
+[12:44] [0m[37;1mVortex flaps :[0m Porrry dunked his head with his fists :P[0m
+[12:44] [0m[37;1mAdalius flaps :[0m Last McGregor fight I actually watched was vs Khabib.[0m
+[12:45] [0m[37;1mVortex flaps :[0m That was a no brainer. I think.[0m
+[12:45] [0m[37;1mVortex flaps :[0m Khabib had this like nothing[0m
+[12:45] [0m[37;1mNauda flaps :[0m what happened in his last fight, McGregor seemed to be outclassed?[0m
+[12:45] [0m[37;1mVortex flaps :[0m OF course, in a fight anything can happen, But once he kissed the mat, its bye[0m
+[12:45] [0m               bye team mmac[0m
+[12:45] [0m[37;1mCrolack flaps :[0m Subway being sued for their tuna "not being tuna or even fish"[0m
+[12:46] [0m[37;1mVortex flaps :[0m last fight he got TKOs[0m
+[12:46] [0m[37;1mVortex flaps :[0m TKOd**[0m
+[12:46] [0m[37;1mVortex flaps :[0m Porrier smacked him godd[0m
+[12:46] [0m[37;1mVortex flaps :[0m but it was kinda close[0m
+[12:46] [0m[37;1mAdalius flaps :[0m Once he got that kick to the nerve behind the knee it was over.[0m
+[12:46] [0m[37;1mVortex flaps :[0m yea[0m
+[12:46] [0m[37;1mVortex flaps :[0m he began thinking more about his legs than his face[0m
+[12:46] [0m[37;1mAdalius flaps :[0m He said he didn't 'compensate fast enough' or whatever, but dude... you knee is[0m
+[12:46] [0m                numb and swelled up to the size of a cantalope. It was done.[0m
+[12:46] [0m[37;1mVortex flaps :[0m you dont really feel too much during the fight[0m
+[12:47] [0m[37;1mMetalhead flaps :[0m its in the bone its in the bone vry[0m
+[12:47] [0m[37;1mSaim flaps :[0m @cro - i noped out of Subaway the first time i saw a sickly teenage hunched over[0m
+[12:47] [0m             not just my meat/toppings...but everyone's. So that was like in the 90's[0m
+[12:47] [0m[37;1mVortex flaps :[0m hehehe[0m
+[12:47] [0m[37;1mSaim flaps :[0m and Subway has a stink to it, no other restaurant has[0m
+[12:47] [0m[37;1mVortex flaps :[0m Auda Throw me a spear![0m
+[12:47] [0m[Auction] Al (chan) : what a coincidence, that's what i call voodoo[0m
+[12:48] [0m[37;1mVortex flaps :[0m I am waiting for more Maia fights[0m
+[12:48] [0m[37;1mVortex flaps :[0m Khabib gone[0m
+[12:48] [0m[37;1mMetalhead flaps :[0m i  agree with part the stink no clue what it could be looks at socks socks[0m
+[12:49] [0m[37;1mAdalius flaps :[0m I dont mean it so much as in 'feeling his knee' I mean numb as in, no nerve[0m
+[12:49] [0m                signals == limited ability to use it.[0m
+[12:49] [0m[37;1mZartan flaps :[0m Ever think[0m
+[12:49] [0m[37;1mAdalius flaps :[0m Hard to balance and gauge things if you can't really even feel how much weight[0m
+[12:49] [0m                you have on the leg.[0m
+[12:49] [0m[37;1mZartan flaps :[0m Me neither.[0m
+[12:49] [0m[37;1mVortex flaps :[0m I had my share of beatings , especially from tai kickers. Never had any nerve[0m
+[12:49] [0m               damage from strikes. But it does get numb after it cools[0m
+[12:49] [0m[37;1mVortex flaps :[0m numb and painful[0m
+[12:50] [0m[37;1mVortex flaps :[0m If not the corona lockdowns for a freaking year, I shouldve received my purple[0m
+[12:50] [0m               belt this year but... :([0m
+[12:50] [0m[37;1mSquirrel flaps :[0m alcohol makes everything numb[0m
+[12:51] [0m[37;1mZartan flaps :[0m Drunken a[0m
+[12:52] [0m[35;1mZartan [Jedi(113)]:[0m Attachment leads to jealousy, the shadow of greed that is. Train yourself to[0m
+[12:52] [0m                    let go of everything you fear to lose. --Master Yoda[0m
+[12:52] [0m[37;1mVortex flaps :[0m dmnit guys, sell gme comeon[0m
+[12:52] [0m[37;1mVortex flaps :[0m I need more profit than this[0m
+[12:55] [0m[37;1mVortex flaps :[0m next put .... tsla[0m
+[12:55] [0m[37;1mVortex flaps :[0m hehe[0m
+[13:02] [0m[37;1mCrolack flaps :[0m I have a variety of local sandwich shops that I go to instead of chains.[0m
+[13:02] [0m[37;1mGaidin flaps :[0m Sandwiches are tastier than chains.[0m
+[13:07] [0m[37;1mNameless flaps :[0m chains i find are very crunchy and dont satisfy hunger at all[0m
+[13:07] [0m[37;1mGaidin flaps :[0m High in iron, though.[0m
+[13:08] [0m[37;1mJeraud flaps :[0m For when you need roughage.[0m
+[13:09] [0m[31;1m[Clan] Toren :[0m so, i figured out what we could do nameless btw[0m
+[13:09] [0m[Auction] Aka (gent) : woo 185 con, finally over 2k base hp[0m
+[13:10] [0m[31;1m[Clan] Toren :[0m i reset yours w/ byron. i open up w/ toren and we're back in the dungeon at room[0m
+[13:10] [0m               200 or whatever[0m
+[13:10] [0m[Auction] Aka (gent) : wl but you guys can know it![0m
+[13:10] [0m[31;1m[Clan] Aka :[0m is it possible to reset gswap stats? or is that not a thing[0m
+[13:11] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[13:11] [0m[31;1m[Clan] Toren :[0m who knows[0m
+[13:11] [0m[37;1mCrolack flaps :[0m #EatTheRich trending, heh.[0m
+[13:12] [0m[31;1m[Clan] Nameless :[0m you have to pay them![0m
+[13:13] [0m[31;1m[Clan] Toren :[0m gotta get back there before arahna avenges me[0m
+[13:13] [0m[31;1m[Clan] Toren :[0m gotta get back there before arahna avenges me[0m
+[13:13] [0m[31;1m[Clan] Nameless :[0m hehehe[0m
+[13:13] [0m[31;1m[Clan] Nameless :[0m at least thankfully gear isnt dropped on corpses anymore[0m
+[13:13] [0m[31;1m[Clan] Nameless :[0m i remember certain bots nabbing corpse contents[0m
+[13:13] [0m[37;1mSaim flaps :[0m i think people at the top need a reminder that all these rules and laws we have are[0m
+[13:13] [0m             to keep the massess from literally cutting the heads off the elite class - so maybe[0m
+[13:13] [0m             throw us a bone, and stop bleeding us like the red cross[0m
+[13:14] [0m[37;1mNameless flaps :[0m xnod[0m
+[13:14] [0m[37;1mGaidin flaps :[0m Well, I have that whole "don't want to murder people because I don't like them"[0m
+[13:14] [0m               thing that figures in too.[0m
+[13:14] [0m[37;1mAlassra flaps :[0m That's Nick Hanauer's argument - that if the rich (himself included) don't keep[0m
+[13:14] [0m                everyone else happy, well... the pitchforks will be coming.[0m
+[13:14] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[13:15] [0m[31;1m[Clan] Aka :[0m i've been playing it careful as if it's not possible to reset gswap stats, which is[0m
+[13:15] [0m             stressful lol[0m
+[13:15] [0m[31;1m[Clan] Aka :[0m the syntax in the adventurer's stat room doesn't do it[0m
+[13:15] [0m[31;1m[Clan] Aka :[0m but thinking about it, why wouldn't you be able to reset stats? lol same reason you[0m
+[13:15] [0m             can't leave guild i suppose[0m
+[13:16] [0m[31;1m[Clan] Nameless :[0m i thought you had to do the reset in the guild hall of choice?[0m
+[13:16] [0m[37;1mSaim flaps :[0m i dont like the homeless guy that throws old french fries at passing cars in my[0m
+[13:16] [0m             town, but i dont want to kill him. the guy that uses his money and re-writes laws[0m
+[13:16] [0m             in his favor that screws over massive amouints of people like me....he might need[0m
+[13:16] [0m             to die, or rethink his position[0m
+[13:16] [0m[37;1mNauda flaps :[0m Al Gore for president[0m
+[13:17] [0m[37;1mSaim flaps :[0m totally prefer he rethink his positon[0m
+[13:17] [0m[37;1mAka flaps :[0m we can't kill anyone, but we should be able to re-think people like that's[0m
+[13:17] [0m            positions. but we also can't seem to do that[0m
+[13:18] [0m[37;1mAka flaps :[0m i'll re-think your position, pal[0m
+[13:29] [0mcart saying "You must purify your mind and body before attempting this[0m
+[13:29] [0m[31;1m[Clan] Nameless :[0m hyperion dies a lot[0m
+[13:29] [0m[31;1m[Clan] Nameless :[0m i was gonna make a mage joke but gues hes monk obj[0m
+[13:31] [0m[31;1m[Clan] Toren :[0m laf[0m
+[13:38] [0m[37;1mVara flaps :[0m yo[0m
+[13:38] [0m[Auction] Robert : Up for bids: Balangool Boots (Bright Green Aura).[0m
+[13:38] [0m[Auction] Robert : Decav has requested 2,000 as the opening offer.[0m
+[13:38] [0m[Auction] Decav (mage) : 14ish wis/dex[0m
+[13:38] [0m[Auction] Robert : Got 2,000 from Javelin(chan).  Do I hear 2,040?[0m
+[13:38] [0m[Auction] Robert : Got 2,040 from Toren(necr).  Do I hear 2,142?[0m
+[13:38] [0m[Auction] Robert : Got 10,000 from Javelin(chan).  Do I hear 10,500?[0m
+[13:39] [0m[Auction] Robert : 10,000 going once![0m
+[13:39] [0m[Auction] Robert : 10,000 going twice![0m
+[13:39] [0m[Auction] Robert : Sold to Javelin for 10,000 coins![0m
+[13:42] [0m[31;1m[Clan] Nameless :[0m every time i eat one of the blue capsules i think of that dumb crow meme video[0m
+[13:42] [0m[31;1m[Clan] Nameless :[0m i got becky blue, bitches love blue[0m
+[13:52] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[14:07] [0m[34;1mSpace shouts:[0m cheers[0m
+[14:16] [0m[34;1mSaim shouts:[0m family matters[0m
+[14:16] [0m[34;1mEphemeral shouts:[0m Automan[0m
+[14:18] [0m[31;1m[Clan] Toren :[0m jesus, up to 150mil debt now[0m
+[14:18] [0m[31;1m[Clan] Nameless :[0m oooof[0m
+[14:18] [0m[34;1mGaidin shouts:[0m Cursor was the real hero.[0m
+[14:19] [0m[31;1m[Clan] Toren leaves the game.[0m  [0m
+[14:20] [0m[31;1m[Clan] Nameless :[0m trying to figure out why my vampire milking doesnt work[0m
+[14:20] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[14:20] [0m[31;1m[Clan] Nameless :[0m which is a very loaded sentence[0m
+[14:20] [0m[31;1m[Clan] Martyr :[0m laf[0m
+[14:20] [0m[31;1m[Clan] Roken :[0m import Martyr from './3k/modules'[0m
+[14:21] [0m[31;1m[Clan] Roken :[0m Martyr is an unused var[0m
+[14:21] [0m[31;1m[Clan] Roken :[0m shame[0m
+[14:21] [0m[31;1m[Clan] Martyr :[0m tired of sucking[0m
+[14:21] [0m[31;1m[Clan] Nameless :[0m almost got up to 200m/30[0m
+[14:21] [0m[31;1m[Clan] Martyr :[0m hrmmm want me hitting behind you?[0m
+[14:21] [0m[31;1m[Clan] Martyr :[0m I actually do good dmg[0m
+[14:22] [0m[31;1m[Clan] Martyr :[0m I can bias all offense[0m
+[14:22] [0m[31;1m[Clan] Nameless :[0m not horrible at all, looking forward to what i can do with wearing coon in the[0m
+[14:22] [0m                  hopefully new future[0m
+[14:22] [0m[31;1m[Clan] Nameless :[0m oh sure[0m
+[14:22] [0m[31;1m[Clan] Martyr :[0m I could probably tank it too[0m
+[14:22] [0m[31;1m[Clan] Martyr :[0m tbh[0m
+[14:22] [0m[31;1m[Clan] Martyr :[0m biasing offense[0m
+[14:22] [0m[31;1m[Clan] Nameless :[0m finishing this gun then meet at entrance[0m
+[14:22] [0m[31;1m[Clan] Martyr :[0m ok[0m
+[14:22] [0m[31;1m[Clan] Martyr :[0m i'll go rip some corpses off in land or something[0m
+[14:23] [0m[31;1m[Clan] Nameless :[0m i have mask and have been running corpse possibly positive so unless gen is[0m
+[14:23] [0m                  HONGRY you should be ok to eat a few of mine that havent been split yet[0m
+[14:23] [0mnewb Aemic [Newbie]: anyone there?[0m
+[14:23] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[14:23] [0mnewb Rheiu [fremen/114]: shshshshshsh hahahahahahaha[0m
+[14:23] [0mnewb Echoloc [juggernaut/130]: just us :)[0m
+[14:24] [0mnewb Heimdall [juggernaut/111]: we is here[0m
+[14:24] [0mnewb Rhyson [juggernaut/115]: the truth is out there....[0m
+[14:24] [0mnewb Stormer [necromancer/111]: SHHH dont let them see us![0m
+[14:24] [0mnewb Echoloc [juggernaut/130]: never fear, Heimdall is watching.[0m
+[14:24] [0m[31;1m[Clan] Nameless :[0m quick wsea reps run[0m
+[14:24] [0mnewb Aemic [Newbie]: oh okay. I just sign up, can't figure out how to finish the tutorial, i[0m
+[14:24] [0m                     killed the orc and stuck in room with mirror shard[0m
+[14:24] [0mnewb Stormer [necromancer/111]: he is actually busy babysitting thor[0m
+[14:25] [0m[31;1m[Clan] Martyr :[0m oh, figured i'd just grab a coffin worth[0m
+[14:25] [0mnewb Rhyson [juggernaut/115]: well done![0m
+[14:25] [0m[31;1m[Clan] Nameless :[0m whichever works, killing 10 mobs in tomb then be back out, not bothering with[0m
+[14:25] [0m                  slums right now[0m
+[14:25] [0mnewb Stormer [necromancer/111]: you must take the .... PAM PAM PAM .... NEWBIE TEST! :p[0m
+[14:25] [0m[31;1m[Clan] Martyr :[0m ok[0m
+[14:25] [0mnewb Aemic [Newbie]: thanks but i don't know what to do from here?[0m
+[14:25] [0mnewb Wayne [elemental/70]: lol.. I believe there is a portal you should enter[0m
+[14:26] [0mnewb Wayne [elemental/70]: if you already took the shard[0m
+[14:26] [0mInquisitor <Craft>: Wheeeee!  Phasemetal.[0m
+[14:27] [0mnewb Aemic [Newbie]: okay got through the portal now[0m
+[14:27] [0mFlaxen <Craft>: I don't want to craft ... I want to be a LUMBERJACK!![0m
+[14:27] [0m[31;1m[Clan] Martyr :[0m got a freezer too[0m
+[14:27] [0m[37;1mStormer flaps :[0m never tought you can take prison architect and turn it in to a farming[0m
+[14:27] [0m                simulator...[0m
+[14:27] [0mnewb Locrian [bard/111]: awesome! give the shard to buford and he'll give you tips on what to do[0m
+[14:27] [0m                         next.[0m
+[14:28] [0mnewb Wayne [elemental/70]: dmap newb will give you a map of where you are at the moment[0m
+[14:28] [0mnewb Locrian [bard/111]: also help newbieland[0m
+[14:29] [0mnewb Stormer [necromancer/111]: also... Welcome to 3K![0m
+[14:29] [0mnewb Aemic [Newbie]: thanks[0m
+[14:30] [0mnewb Jeraud [android/60]: off[0m
+[14:30] [0mnewb Stormer [necromancer/111]: and remember... no matter what happens blame maverick :)[0m
+[14:31] [0mnewb Aemic [Newbie]: what wrong with maverick?[0m
+[14:31] [0mnewb Terran [gentech/133]: he's the habitual scapegoat[0m
+[14:31] [0mnewb Jeraud [android/60]: He's where mav comes from. XD[0m
+[14:31] [0mnewb Inquisitor [psicorps/113]: Nothing.  Except that it's his fault.[0m
+[14:31] [0mnewb Locrian [bard/111]: it's always his fault.[0m
+[14:31] [0mnewb Ulrich [fremen/34]: a loy I thint[0m
+[14:31] [0mnewb Ulrich [fremen/34]: lot[0m
+[14:31] [0mnewb Aemic [Newbie]: do you need a guild in this game?[0m
+[14:31] [0mnewb Terran [gentech/133]: eventually[0m
+[14:31] [0mnewb Stormer [necromancer/111]: eventually you will want one[0m
+[14:31] [0mnewb Terran [gentech/133]: post newbieland[0m
+[14:31] [0mnewb Ulrich [fremen/34]: and I blame those typos on maverik also[0m
+[14:31] [0mnewb Jeraud [android/60]: Need, no. But it helps A LOT.[0m
+[14:32] [0mnewb Terran [gentech/133]: you technically are in the adventurer guild at the moment[0m
+[14:32] [0mnewb Stormer [necromancer/111]: you wont be able to enjoy content without a guild[0m
+[14:32] [0mnewb Wayne [elemental/70]: UG Adventurers![0m
+[14:32] [0mnewb Aemic [Newbie]: okay i didnt notice that[0m
+[14:33] [0mnewb Stormer [necromancer/111]: type 'score[0m
+[14:33] [0mnewb Stormer [necromancer/111]: type 'score'[0m
+[14:33] [0mnewb Saim [jedi/137]: guild determines what kind of powers you have[0m
+[14:33] [0mnewb Gaidin [changeling/135]: A guild here is like a class in other places.[0m
+[14:33] [0mnewb Kikipopo [Admin]: The Adventurer guild is basically a placeholder until you join an actual[0m
+[14:33] [0m                       guild.  Unlike the concept of "guilds" in most games, in this one it's[0m
+[14:33] [0m                       more like your class - it's where your powers, features, etc come rom.[0m
+[14:33] [0mnewb Kikipopo [Admin]: *from[0m
+[14:33] [0mnewb Kikipopo [Admin]: Yeah, what everyone else said more succinctly. ;)[0m
+[14:33] [0mnewb Aemic [Newbie]: oh i see, so if I wanted to be mage i'll have to join thart guidl?[0m
+[14:34] [0mnewb Kikipopo [Admin]: Exactly, yes[0m
+[14:34] [0m[34;1mHooligan shouts:[0m wooooo[0m
+[14:34] [0mnewb Kikipopo [Admin]: "help guilds" shows you a list of which ones are available to choose from[0m
+[14:34] [0m                       once you reach level 5.[0m
+[14:34] [0mnewb Aemic [Newbie]: and what's the procedure for doing that?[0m
+[14:34] [0mnewb Stormer [necromancer/111]: and pass the newbie test[0m
+[14:35] [0mnewb Kikipopo [Admin]: Once you reach level 5, type "players <guild>" to see a list of who is[0m
+[14:35] [0m                       online from that guild, and reach out to them for help joining / being[0m
+[14:35] [0m                       recruited.[0m
+[14:35] [0mnewb Aemic [Newbie]: okat thanks. guess ill have to find the newbie test then[0m
+[14:35] [0mnewb Saim [jedi/137]: also know that android, fighter, sorcerer, and cleric are core guilds, and[0m
+[14:35] [0m                      can are capped at 100[0m
+[14:35] [0mnewb Saim [jedi/137]: those 4 are like lite versions of other guilds[0m
+[14:36] [0mnewb Aemic [Newbie]: okay got that[0m
+[14:37] [0mnewb Kikipopo [Admin]: Yeah, if you want to try out different basic themed guilds, those are the[0m
+[14:37] [0m                       "starter" guilds where you can toy around with fairly quick advancement.[0m
+[14:37] [0mnewb Stormer [necromancer/111]: you will need 200 coins to pay for the test each time you take[0m
+[14:37] [0m                                it in case you fail the first time[0m
+[14:37] [0mnewb Kikipopo [Admin]: But they pale in comparison to what the others have to offer, once you[0m
+[14:37] [0m                       feel comfortable.[0m
+[14:39] [0mnewb Aemic [Newbie]: and where is this test thing?[0m
+[14:39] [0mnewb Wayne [elemental/70]: in the basement where it belongs[0m
+[14:39] [0mnewb Stormer [necromancer/111]: dmap newb in the center S, go down than n iirc[0m
+[14:39] [0mnewb Aemic [Newbie]: thanks[0m
+[14:40] [0m[37;1mNauda flaps :[0m I am a genie and I will grant 3 of your wishes, what is the first?[0m
+[14:40] [0m[37;1mNauda flaps :[0m I want to be Rich![0m
+[14:41] [0m[37;1mNauda flaps :[0m Ok Rich, what is your sencond wish?[0m
+[14:41] [0m[31;1m[Clan] Martyr :[0m wtf, you're huge prism[0m
+[14:42] [0m[32mAlassra tells you:[0m Hey there - I think you might've just run across a necro artifact?[0m
+[14:43] [0m[32mYou tell Alassra:[0m did I now?[0m
+[14:43] [0mnewb Aemic [Newbie]: i got the exam, but how do i use it?[0m
+[14:43] [0m[37;1mGaidin flaps :[0m I wish that this wish and all subsequent wishes be granted in accordance with my[0m
+[14:43] [0m               intentions.[0m
+[14:43] [0m[32mAlassra tells you:[0m yup, about 1-2 min ago[0m
+[14:43] [0mnewb Ephemeral [jedi/78]: look at exam[0m
+[14:43] [0mnewb Mythicrain [gentech/74]: 'read <number> , answer <number>[0m
+[14:43] [0m[37;1mWert flaps :[0m just wish better, 3 word wishes arent the way to go, paragraphs of exactness[0m
+[14:43] [0mnewb Aemic [Newbie]: thanks[0m
+[14:43] [0m[32mYou tell Alassra:[0m dark leather strap[0m
+[14:43] [0m[32mYou tell Alassra:[0m dark leather strap[0m
+[14:44] [0m[32mAlassra tells you:[0m Yup, that's one of ours![0m
+[14:44] [0m[37;1mGaidin flaps :[0m Better to use mine and take no chances[0m
+[14:44] [1;37;40m set to 1 hour Idle Timeout
+[14:44] [0m[32mAlassra tells you:[0m Let me know when it's convenient for you and I can pick it up from you and[0m
+[14:44] [0m        drop it off at the guild?[0m
+[14:45] [0m[32;1mFrom afar, you nog at Alassra.[0m[0m
+[14:45] [0m[32;1mFrom afar, Alassra thanks you.[0m[0m
+[14:48] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[14:48] [0m[37;1mCaeli flaps :[0m Yeah, wisheshaev to e VERY precise or the person/djinn/genie granting it gets to[0m
+[14:48] [0m              fark around with you.[0m
+[14:51] [0m[37;1mGik flaps :[0m dgenies tend to be predisposed, not all sources have to screw with it[0m
+[14:53] [0m[37;1mCaeli flaps :[0m Our D&D group has had many wishes get twisted because we weren't specific enough.[0m
+[14:54] [0m[37;1mKikipopo flaps :[0m Twisted Wishes is my new band name.[0m
+[14:55] [0m[37;1mHooligan flaps :[0m we're not gonna wish it...no we're not gonna wish it...we're not gonna wish it[0m
+[14:55] [0m                 anymore[0m
+[14:57] [0m[37;1mLocrian flaps :[0m i like that band name.[0m
+[15:09] [0m[37;1mJeraud flaps :[0m Yeah they tend to get twisted by malevolent genies/djinn.[0m
+[15:09] [0m[37;1mCaeli flaps :[0m And DMs who like to make their players think twice aout thinsg.[0m
+[15:11] [0m[37;1mGik flaps :[0m to me it comes down to did the wish come from some guy in a bottle whos likely a[0m
+[15:11] [0m            cultist or your god after doing something it asked you to do in the name of a cult[0m
+[15:11] [0m[37;1mJeraud flaps :[0m Congratulations, you're part of a cult.[0m
+[15:12] [0m[37;1mSaim flaps :[0m or like a mud-wish where we used to complete a difficult task, so the wish was as[0m
+[15:12] [0m             advertised[0m
+[15:12] [0m[37;1mCaeli flaps :[0m Hey DM, we wish this metal ore vein was an astral diamond vein instead.[0m
+[15:13] [0m[37;1mCaeli flaps :[0m It gets turned, but as we go to grab a diamond we get planeshifted to the Lesser[0m
+[15:13] [0m              Delves and can't get out[0m
+[15:15] [0m[37;1mCaeli flaps :[0m At least until we meet an avatar of the god that has that area as a divine domain.[0m
+[15:17] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[15:18] [0m[37;1mWert flaps :[0m anyone wanna dupe day2 cmc?[0m
+[15:21] [0m[32mYou tell Alassra:[0m ss[0m
+[15:21] [0m[32;1mFrom afar, Alassra tells you that she'll be right there![0m[0m
+[15:22] [0m[32;1mFrom afar, Alassra worships you.[0m[0m
+[15:22] [0m[32;1mFrom afar, Alassra thanks you.[0m[0m
+[15:45] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[15:46] [0m[31;1m[Clan] Dangerzone leaves the game.[0m  [0m
+[16:14] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[16:38] [0m[31;1m[Clan] Toxin :[0m bring back hm invis![0m
+[16:39] [0m[31;1m[Clan] Saim :[0m i dont think anyone here can help with that ;P[0m
+[16:44] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[17:11] [0m[37;1mDerfus flaps :[0m Bewbagram.[0m
+[17:14] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[17:18] [0m[31;1m[Clan] Nameless :[0m gasp i lost my genbot[0m
+[17:22] [0m[31;1m[Clan] Gik :[0m that or it went rogue[0m
+[17:27] [0m[31;1m[Clan] Nameless :[0m grin[0m
+[17:28] [0m[34;1mMeatloaf shouts:[0m so this morning, Turnhold sent an echoall, and then i hugged him, and then[0m
+[17:28] [0m                 ya'all sent me some tells[0m
+[17:28] [0m[34;1mMeatloaf shouts:[0m WHAT DID I SAY[0m
+[17:29] [0m[34;1mFlaxen shouts:[0m your ssn[0m
+[17:29] [0m[34;1mMeatloaf shouts:[0m to think someone got 420-69-1337 and i was just one number off[0m
+[17:32] [0m[37;1mMeatloaf flaps :[0m bbq pork plate (sweet & tangy bbq, homemade) w texas toast, baked beans,[0m
+[17:32] [0m                 mustard potato salad[0m
+[17:32] [0m[37;1mDaeth flaps :[0m meanie[0m
+[17:33] [0m[37;1mMeatloaf flaps :[0m i'll mail you some[0m
+[17:35] [0m[37;1mMeatloaf flaps :[0m it's from Cowboy's BBQ off Dixie Rd in Covington, GA...  God I might be in the[0m
+[17:35] [0m                 South[0m
+[17:36] [0m[37;1mPantalones flaps :[0m more of a porkboy from the sounds of it[0m
+[17:41] [0m[37;1mCaeli flaps :[0m That does sound Yummy.[0m
+[17:42] [0m[37;1mCaeli flaps :[0m There's a BBQ place about half a mile from me.[0m
+[17:44] [0m[37;1mMeatloaf flaps :[0m it's funny because 10 minutes from me Dr MLK Jr Ave and Jackson Highway[0m
+[17:44] [0m                 intersect[0m
+[17:50] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[18:07] [0mnewb Ellegon [juggernaut/130]: how do you go "center" as a not obvious room exit, if <center> is[0m
+[18:07] [0m                               your clan entrance message syntax?[0m
+[18:07] [0mnewb Meatloaf [mage/136]: iirc that means its not the exit[0m
+[18:07] [0mnewb Meatloaf [mage/136]: or cquit and LOSE YOUR PLACE FOREVER[0m
+[18:07] [0mnewb Inix [juggernaut/139]: nod, c-enter <clan entrance message>[0m
+[18:08] [0mnewb Ellegon [juggernaut/130]: it is the exit. so the answer is you have to quit your clan?[0m
+[18:08] [0m                               seems harsh.[0m
+[18:09] [0mnewb Kagour [juggernaut/78]: usually if its an exit, it works though[0m
+[18:09] [0mnewb Kagour [juggernaut/78]: you have to center on the way to pb[0m
+[18:09] [0mnewb Ellegon [juggernaut/130]: xnod, and if it had worked, I wouldn't have asked.[0m
+[18:09] [0mnewb Meatloaf [mage/136]: did you just join the clan this boot?[0m
+[18:10] [0mnewb Ellegon [juggernaut/130]: nope. joined years ago[0m
+[18:11] [0mnewb Inix [juggernaut/139]: you try crecover and center again?  although putting the obj on top[0m
+[18:11] [0m                            will probably not help, it's something to try[0m
+[18:11] [0mnewb Meatloaf [mage/136]: are you in the right room :P[0m
+[18:11] [0mnewb Ellegon [juggernaut/130]: cool thanks.[0m
+[18:16] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[18:23] [0m[Auction] Leianne (elem) : you people who think up this idea of using auction house to share[0m
+[18:23] [0m                           duppable are genius :) Logs of it in auction line as opposed to a[0m
+[18:23] [0m                           global box :)[0m
+[18:24] [0m[Auction] Al (chan) : voodoo did it[0m
+[18:24] [0m[Auction] Ellegon (jugg) : his pants did it[0m
+[18:24] [0m[Auction] Pantalones (ange) : what?[0m
+[18:24] [0m[Auction] Meatloaf (mage) : i still like the idea of a 'trinket shop' but i  guess it also keeps[0m
+[18:24] [0m                            this line open for barter[0m
+[18:25] [0m[Auction] Leianne (elem) : hehe.. I don't have to keep bothering Space for the shield :) Thanks![0m
+[18:28] [0m[34;1mMeatloaf shouts:[0m aaaaa[0m
+[18:44] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[18:45] [0m[31;1m[Clan] Meatloaf :[0m old man stop talking, i know i know[0m
+[18:45] [0m[31;1m[Clan] Archangel :[0m Tell me about it.[0m
+[18:46] [0m[31;1m[Clan] Nameless :[0m whoozat[0m
+[18:46] [0m[31;1m[Clan] Meatloaf :[0m death[0m
+[18:46] [0m[31;1m[Clan] Nameless :[0m oh laf, yeah the graveyard[0m
+[18:46] [0m[31;1m[Clan] Meatloaf :[0m and all the brainless politicians on both sides[0m
+[18:47] [0m[31;1m[Clan] Nameless :[0m :D[0m
+[18:47] [0m[31;1m[Clan] Nameless :[0m 1.5mil gxp to glvl![0m
+[19:10] [0m[37;1mHeimdall flaps :[0m this gamestop drama has been delightful[0m
+[19:11] [0m[37;1mRaest flaps :[0m the memes about the hedgefund managers crying has been delightful[0m
+[19:11] [0m[37;1mHooligan flaps :[0m gamestop is still around?  figured game stores closed decades ago[0m
+[19:11] [0m[37;1mRaest flaps :[0m that's "Blockbusters"[0m
+[19:12] [0m[37;1mHeimdall flaps :[0m sounds like you closed yourself well before covid[0m
+[19:13] [0m[37;1mDerfus flaps :[0m There was one in Chico Mall when I left in April 2019.[0m
+[19:13] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[19:13] [0m[37;1mCaeli flaps :[0m One dude lost something like 3 BILLION![0m
+[19:14] [0m[37;1mRaest flaps :[0m that he had 3 bil to lose and i have -120,000 to lose.  i'm not feeling sorry[0m
+[19:14] [0m[37;1mCaeli flaps :[0m Neither am I.[0m
+[19:14] [0m[37;1mRaest flaps :[0m yes, i have debt to lose :P[0m
+[19:14] [0m[37;1mMagnificent flaps :[0m So he was just down to *checks notes*, many billions?[0m
+[19:15] [0m[37;1mMeatloaf flaps :[0m it was an investment firm, Melvin Capital[0m
+[19:15] [0m[37;1mMeatloaf flaps :[0m 2.75bil[0m
+[19:16] [0m[37;1mCaeli flaps :[0m Of course Robin Hood has disabled individual trading of it and AMC[0m
+[19:16] [0m[37;1mMeatloaf flaps :[0m i got the same notes *points to monitor*[0m
+[19:19] [0m[37;1mStasis flaps :[0m it'[0m
+[19:20] [0m[37;1mStasis flaps :[0m it's a little puff of smoke atm. kinda hoping it catches and burns everything[0m
+[19:20] [0m               down haha[0m
+[19:20] [0m[37;1mMeatloaf flaps :[0m POWER TO THE PEOPLE[0m
+[19:21] [0m[37;1mHooligan flaps :[0m hmm. well my portfolio grew by 22%+ per year over last 4 years. i will just[0m
+[19:21] [0m                 stick with good old fashioned mutuals. :)[0m
+[19:21] [0m[37;1mDaeth flaps :[0m are the people androids, cause I mean, wouldn't that kill non-androids?[0m
+[19:21] [0m[Auction] Longfellow (gent) : anyone have OG auro?[0m
+[19:21] [0m[Auction] Meatloaf (mage) : auction house[0m
+[19:21] [0m[37;1mHooligan flaps :[0m too much heartburn in trying to predict market trends for my taste. heh[0m
+[19:22] [0m[Auction] Longfellow (gent) : oh, there it is:) sorry!:) thanks[0m
+[19:42] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[19:46] [0m[31;1m[Clan] Ser leaves the game.[0m  [0m
+[19:57] [0m[32mErig says: [0mThere is a key to his room on my desk![0m
+[20:05] [0m[37;1mAdalius flaps :[0m GME back up to 312 after hours[0m
+[20:06] [0m[37;1mMelly flaps :[0m is that like cinemax after dark?[0m
+[20:06] [0m[37;1mAdalius flaps :[0m Gamestop stock :P[0m
+[20:06] [0m[37;1mMelly flaps :[0m sure i meant the after hours part[0m
+[20:07] [0m[37;1mAdalius flaps :[0m Its more like USA Up All Night with Rhonda Shear[0m
+[20:17] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[20:45] [0m[34;1mHooligan shouts:[0m wooo[0m
+[20:46] [0m[34;1mSpace shouts:[0m stop spending xp on levels! pour it all into eternals! (jk congrats)[0m
+[20:48] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[20:48] [0m[34;1mLocrian shouts:[0m YAY!!!!!!! Heimdall![0m
+[20:49] [0m[34;1mDerfus shouts:[0m Who is this "Space" case person.[0m
+[20:49] [0m[34;1mSpace shouts:[0m There can be only one! me who else![0m
+[20:52] [0m[37;1mCaeli flaps :[0m Strike first! Strike hard! No mercy![0m
+[20:53] [0m[37;1mMagnificent flaps :[0m Sweep the leg![0m
+[20:53] [0m[37;1mDerfus flaps :[0m Keel stuuuuuuff![0m
+[20:53] [0m[37;1mCaeli flaps :[0m SO, is it too soon for season 2 convos?[0m
+[20:54] [0m[37;1mMagnificent flaps :[0m S3 has been out for over a month, so I'd say no.[0m
+[20:55] [0m[37;1mCaeli flaps :[0m I cringed when Glory of Love came on.[0m
+[20:56] [0m[37;1mCaeli flaps :[0m I get they were trying to call back to the movies but...Yeesh[0m
+[20:56] [0m[37;1mMagnificent flaps :[0m Psh, the original soundtrack was amazing and I love every reference to it.[0m
+[20:57] [0m[37;1mCaeli flaps :[0m That's the ONLY song I remember.[0m
+[21:00] [0m[37;1mCaeli flaps :[0m And it wasn't even in the original!  Glory of love was Karate Kid 2[0m
+[21:00] [0m[37;1mRaest flaps :[0m usually 'Glory' and 'Love' are 2 seperate issues[0m
+[21:01] [0m[34;1mDerfus shouts:[0m Make love to war.[0m
+[21:01] [0m[37;1mMagnificent flaps :[0m if you liked KK2, then you'll like S3...[0m
+[21:01] [0m[37;1mEllegon flaps :[0m lol, I did not math that out right. 804 qps.[0m
+[21:03] [0m[37;1mCaeli flaps :[0m We've been sorta keeping up with Cobra Kai.[0m
+[21:03] [0m[37;1mCaeli flaps :[0m Gonna finish what we haven't seen on Saturday.[0m
+[21:20] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[21:21] [0m[37;1mDerfus flaps :[0m Wagstaff at Dolores.[0m
+[21:21] [0m[37;1mEllegon flaps :[0m help files says I have to "relog" to get my highmortal powers. for real, no j/k?[0m
+[21:21] [0m                there's no other way?[0m
+[21:22] [0m[37;1mTurak flaps :[0m commands new[0m
+[21:22] [0m[37;1mHeimdall flaps :[0m commands new, type questlist to update qps[0m
+[21:22] [0m[37;1mTurak flaps :[0m you also have to do hm on I think it is to enable the line[0m
+[21:28] [0m[37;1mInix flaps :[0m hm on, iirc[0m
+[21:29] [0m[37;1mDerfus flaps :[0m Hurricanes blow.[0m
+[21:30] [0m[37;1mAdalius flaps :[0m ... helpfile seems pretty straight forward to me[0m
+[21:31] [0m[37;1mCaeli flaps :[0m We are well out of hurricane season atm.[0m
+[21:31] [0m[37;1mDerfus flaps :[0m They still blow.[0m
+[21:31] [0m[37;1mCaeli flaps :[0m Literally[0m
+[21:31] [0m[37;1mDerfus flaps :[0m heh heh[0m
+[21:32] [0m[37;1mCaeli flaps :[0m But yeah, I've lived along the Gulf Coast most of my life. Well familiar with[0m
+[21:32] [0m              them.[0m
+[21:36] [0m[37;1mPantalones <.oO>:[0m no me[0m
+[21:36] [0m[37;1mCaeli flaps :[0m I'm going to assume most people here have seen the original Fantasia?[0m
+[21:36] [0m[34;1mMagnificent shouts:[0m I'm a freaking loser and I eat maggots[0m
+[21:36] [0m[37;1mNameless flaps :[0m perhaps[0m
+[21:37] [0m[37;1mNameless flaps :[0m with chernabog and all?[0m
+[21:37] [0m[34;1mDerfus shouts:[0m Yes yes you are, I hear they are rich in protein.[0m
+[21:37] [0m[37;1mVagrant <.oO>:[0m YAY[0m
+[21:37] [0m[37;1mAl <.oO>:[0m he doesn't mean it[0m
+[21:37] [0m[37;1mCaeli flaps :[0m Was Anyone else's favorites scene Night on Bald Mountain with Chernabog?[0m
+[21:38] [0m[37;1mCaeli flaps :[0m Or am I just a really weird and disturbed individual?[0m
+[21:38] [0m[37;1mDerfus flaps :[0m I haven't watched Fantasia for many moons.[0m
+[21:38] [0m[37;1mNameless flaps :[0m i was a big fan[0m
+[21:39] [0m[37;1mJeraud flaps :[0m Cicely Tyson died.[0m
+[21:39] [0m[37;1mRaest flaps :[0m who's that[0m
+[21:39] [0m[37;1mCaeli flaps :[0m Yeah, I saw.[0m
+[21:39] [0m[37;1mJeraud flaps :[0m Actress.[0m
+[21:40] [0m[37;1mCaeli flaps :[0m SHe was an actress that played in The Color Purple[0m
+[21:40] [0m[31;1m[Clan] Nameless :[0m oof, was tanking double mobs, they do get a lil hurty when 2 are hitting[0m
+[21:40] [0m[37;1mDerfus flaps :[0m One little post I posted has gotten 17 reactions and 16 comments in less than an[0m
+[21:40] [0m               hour, wow.[0m
+[21:40] [0m[37;1mCaeli flaps :[0m And apparently was married to Miles Davis[0m
+[21:40] [0m[37;1mDerfus flaps :[0m Who did this for a long while after the fire?[0m
+[21:40] [0m[37;1mDerfus flaps :[0m I have one of those at home...oh wait...[0m
+[21:41] [0m[37;1mDerfus flaps :[0m lol[0m
+[21:41] [0m[37;1mDerfus flaps :[0m For some reason blowtorch didn't want me to write the whole thing at once so[0m
+[21:41] [0m               broke it up. lol[0m
+[21:42] [0m[37;1mDerfus flaps :[0m The struggle is real...[0m
+[21:47] [0m[37;1mDerfus flaps :[0m rude guards barging in when I'm fighting another guard group[0m
+[21:52] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[21:53] [0m[37;1mInix flaps :[0m Who's littering the sectionz title room?[0m
+[21:53] [0m[37;1mInix flaps :[0m nm[0m
+[21:54] [0m[37;1mStasis flaps :[0m [narrator: it was Inix][0m
+[21:55] [0m[37;1mDerfus flaps :[0m 8inix, was it you?[0m
+[21:55] [0m[37;1mInix flaps :[0m nah, someone was just ftouching[0m
+[21:55] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : Most likely[0m
+[21:55] [0m[37;1mLeianne flaps :[0m littering with capsules?[0m
+[21:55] [0m[37;1mMeatloaf flaps :[0m free drugs[0m
+[21:55] [0m[37;1mMeatloaf flaps :[0m never say no to free drugs[0m
+[21:55] [0m[37;1mAka flaps :[0m are you guys using Inix's stonks tool to stick it to the man?[0m
+[21:56] [0m[37;1mDerfus flaps :[0m heh heh[0m
+[22:03] [0m[31;1m[Clan] Ser enters the game.[0m  [0m
+[22:14] [0m[37;1mCaeli flaps :[0m So, has anyone here played a Tasha's subclass?[0m
+[22:14] [0m[37;1mJeraud flaps :[0m A who what now?[0m
+[22:15] [0m[37;1mCaeli flaps :[0m Tasha's Cauldron of Everything. Newest book in 5E D&D[0m
+[22:16] [0m[37;1mJeraud flaps :[0m Well that would be a negatory.[0m
+[22:16] [0m[37;1mCaeli flaps :[0m Has new subclasses and spells.[0m
+[22:17] [0m[37;1mNameless flaps :[0m think i got that for my kid for christmas but havent pored through it myself[0m
+[22:18] [0m[37;1mGik flaps :[0m i sure havent, but that wildfire druid looks nice[0m
+[22:18] [0m[37;1mDin flaps :[0m i was about to get started with a weekly playgroup when covid hit, haven't touched[0m
+[22:18] [0m            it since.  So I'm still looking forward to playing the characters I made from[0m
+[22:18] [0m            Xanathar's[0m
+[22:18] [0m[37;1mCaeli flaps :[0m 9th level bonus action spell called Blade of Disaster. It goes through walls of[0m
+[22:18] [0m              force and crits on an 18-20[0m
+[22:19] [0m[37;1mCaeli flaps :[0m I kinda want to make a wild magic barbarian.[0m
+[22:23] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[22:24] [0m[37;1mSky flaps :[0m anyone want section z reset?[0m
+[22:25] [0m[37;1mDerfus flaps :[0m Do you have covid tongue?[0m
+[22:26] [0m[37;1mCaeli flaps :[0m covid tongue?[0m
+[22:27] [0m[37;1mDerfus flaps :[0m It's all over the news right now, new syptoms of the new covid strand.[0m
+[22:27] [0m[37;1mCaeli flaps :[0m I mean, I still can taste things, and when I brushed my teeth earlier my tongue[0m
+[22:27] [0m              looked normal...[0m
+[22:29] [0m[37;1mCaeli flaps :[0m "Strange mouth ulcers". What?[0m
+[22:30] [0m[37;1mDerfus flaps :[0m yeah weird[0m
+[22:30] [0m[37;1mWert flaps :[0m the disease that just keeps giving[0m
+[22:30] [0m[35;1mVolt [Jedi(63)]:[0m somebody is going to have to ravel that back up[0m
+[22:30] [0m[37;1mCaeli flaps :[0m So like one of the pics they show is just how my tongue is all the time....[0m
+[22:31] [0m[37;1mDerfus flaps :[0m My brother is lucking out with covid, he's supposed to be in prison but is only[0m
+[22:31] [0m               in county lockup[0m
+[22:32] [0m[37;1mDerfus flaps :[0m They won't transport him because of covid.[0m
+[22:32] [0m[37;1mCaeli flaps :[0m Kinda excited Biden said no more private prisons in federal cases.[0m
+[22:33] [0m[37;1mDerfus flaps :[0m So he wants to mingle foreign with domestic terrorists?[0m
+[22:34] [0m[31;1m[Clan] Meatloaf :[0m let em duke it out[0m
+[22:34] [0m[37;1mMeatloaf flaps :[0m let em duke it out[0m
+[22:34] [0m[37;1mCaeli flaps :[0m What? No.[0m
+[22:34] [0m[37;1mMeatloaf flaps :[0m on the next:  Prison Break[0m
+[22:34] [0m[37;1mSky flaps :[0m i loved that show[0m
+[22:35] [0m[37;1mCaeli flaps :[0m More that people shouldn't profit off the misery of others.[0m
+[22:35] [0m[37;1mSky flaps :[0m sad it eneded, but like, how many times can you actually break out of prison - but[0m
+[22:35] [0m            they should have generated a spinoff or made a movie or something.[0m
+[22:35] [0m[37;1mCaeli flaps :[0m Really hope the no for profit prison things gains traction[0m
+[22:36] [0m[37;1mDerfus flaps :[0m bunch of wyverns were left at pol3 entrance[0m
+[22:36] [0m[37;1mDerfus flaps :[0m Just slightly too much for me.[0m
+[22:38] [0m[37;1mDerfus flaps :[0m Looks like someone bit off more than they can chew[0m
+[22:38] [0m[37;1mDerfus flaps :[0m lots of guards and 6 wyverns lol[0m
+[22:40] [0m[37;1mDerfus flaps :[0m All cleaned up[0m
+[22:41] [0m[37;1mDerfus flaps :[0m It's all cleaned up thanks to Ser and Din.[0m
+[22:42] [0m[37;1mCaeli flaps :[0m Listening to a short biography of Carl Sagan[0m
+[22:42] [0m[37;1mCaeli flaps :[0m w/l[0m
+[22:43] [0m[37;1mAdalius flaps :[0m Short? "He was born of star dust. He died and returned to star dust."[0m
+[22:43] [0m[37;1mDin flaps :[0m in between he was kindof a bore[0m
+[22:43] [0m[37;1mCaeli flaps :[0m I'd say 27 minutes is pretty short[0m
+[22:44] [0m[37;1mCaeli flaps :[0m There's a channel on Youtube called Biographics. It's one of like 6 channels this[0m
+[22:44] [0m              one guy does.[0m
+[22:47] [0m[37;1mCaeli flaps :[0m A mote of dust in a sunbeam.....[0m
+[22:49] [0m[37;1mAdalius flaps :[0m I'd call 2 sentences shorter than 27 minutes. *shrug* But I'm just star dust.[0m
+[22:50] [0m[37;1mCaeli flaps :[0m Yes, well, doesn't tell you much about him. Just all of humankind in those two[0m
+[22:50] [0m              sentences.[0m
+[22:50] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[22:53] [0m[37;1mAdalius flaps :[0m He'd probably say that's the point ;D[0m
+[22:59] [0m[37;1mCaeli flaps :[0m Heh[0m
+[23:00] [0m[31;1m[Clan] Nameless :[0m 40 rooms to go![0m
+[23:22] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[23:45] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m

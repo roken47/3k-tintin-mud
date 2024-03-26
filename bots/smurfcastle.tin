@@ -1,0 +1,15 @@
+#class {bot} {open}
+#var {areaname} {smurfcastle}
+#var {botpath} 
+{w;e;e;w;s;w;e;e;w;s;w;e;e;w;s;w;e;e;w;s;w;e;e;w;s;w;e;s;w;e;e;w;n;n;n;n;n;n}
+
+#act {^[MoNSTaR]{Azreal|A very large rat|A large furry spider}} {
+	#if {"%1" == "Azreal"}           {#var mobname cat};
+	#if {"%1" == "A very large rat"} {#var mobname rat};
+	#if {"%1" == "A large furry spider"} {#var mobname spider};
+	_check_mob}
+
+#act {Your bite crushed} {#nop} {1}
+#class {bot} {close}
+
+#read bots/generic.tin

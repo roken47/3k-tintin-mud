@@ -1,0 +1,94 @@
+#class {common_chatlog} {kill}
+#class {common_chatlog} {open}
+
+#alias {-cl} {
+	#format {datestamp} {%t} {%Y-%m-%d.log};
+	#format {timestamp} {%t} {[%H:%M] };
+	#line log /home/tintin/3k/logs/$datestamp {$timestamp\};
+	#line log /home/tintin/3k/logs/$datestamp;
+	-xchatlog;
+	#bell
+	}
+#alias {-xchatlog} 
+	{
+	#class {xchatlog} {open};
+	#act {^{\S}} {#class {xchatlog} {kill}} {9};
+	#act {{^(\s)*$}} {#class {xchatlog} {kill}} {9};
+	#act {^{\s{1,40}\S}} {-cl};
+	#class {xchatlog} {close}
+	}
+
+/* TELLS LINKTELLS AUCTION HM SHOUTS GSHOUTS CLAN PROFESSIONS CRAFTING*/
+#act {{^((A ghostly form of )?[A-z0-9@]+ (<HM-[A-z ]+>:|-=\(OMP\)=-|LTs? \([\[\]0-9A-z\[\], ]+\)|says?|whispers?|( you)? \(?[A-z0-9,@]+\)?:|g?shouts:|flaps :)|\[(Clan|PARTY|Auction)\] [A-z\(\) ]+:?)}} {-cl}
+#act {{^(A ghostly form of )?[A-z0-9@]+ (tells?( you)? \(?[A-z0-9,@]+\)?:)}} {-cl}
+#act {{^[A-z ]+(<Craft>|\{Professions\}):}} {-cl}
+#act {{^[A-z ]+<C-Trade>:}} {-cl}
+#act {{^[A-z ]+<cgame>:}} {-cl}
+#act {<- ! The Vigilant ! -> :  A destabilization Kayos} {-cl}
+/* Ignore auction and spam from other mobs*/
+#act {{^(\[Auction\] )?(Girl|Valerie|Angel|Child|Smurfette|Vilgan|Bodyguard|Graktah|Benny|Robert|Gargamel|Brainy|Smelly|Crafty|Gart|Tracker|Guardswoman|Warrior|Garth|Wes|Champ|Arturo|Ed|Brian|Veronica|Smithy|Pope|Cancer|Garath|CK30|Zelligar) (tells you:|says:)}} {#nop} {4}
+
+
+/* PARTY (Until they add timestamps) */
+#act {~^\e[0m\e[33;1m[PARTY]\e[0m} {-cl} {4}
+#act {^[PARTY] {GOLD divvy called by|All gold divvied}} {#nop} {3}
+#act {~^\e[0m[PARTY]} {#nop} {3}
+
+#act {Solaris tells} {#nop} {1}
+
+/* GUILD SPECIFIC */
+/* BARD */
+#act {{^[A-z]+ \[(HighBard|Fifty|Seventy|Gallant|[0-9]+)\]: }} {-cl}
+#act {{^(You send a message to \w+ on a whispering wind:|A slight breeze floats by and in it you hear \w+'s voice say:)$}} {-cl}
+
+/* BREED */
+#act {{^[A-z]+ projects? to [A-z]+:|^<(Breed( OOC)?|Watcher|Scholar|Announce|HighBreed|Elder|GM)> [A-z]+:}} {-cl}
+
+/* KNIGHT */
+#act {{^\((Vassal|Retainer|Page|Squire|Knight|Cavalier|Companion|Paladin|Defender|Guardian|Vindicator|Champion+) ([0-9]+)\) ([A-z]+):}} {-cl}
+
+/* FREMEN */
+#act {{^([A-z]+-)?TP \[[A-z]+\]:}} {-cl}
+
+/* JEDI */
+#act {{^[A-z]+ \[[A-z]+\([A-z0-9]+\)\]:}} {-cl}
+#act {^{[A-z]+ thinks . o O \( }} {-cl}
+#act {{^You think to [A-z]+ . o O \( }} {-cl}
+#act {Your lightsaber begins to flicker and the handle warms!} {-cl;w2}
+#act {Your lightstaff begins to flicker and the handle warms!} {-cl;.stop}
+#act {Your lightdaggers begins to flicker and the handle warms!} {-cl;.stop}
+#act {^The droid repair shop is rotating their offerings shortly.$} {-cl}
+#act {^[JEDI]: %* arrives at the Academy.} {-cl}
+#act {^You say: I am not the aspiring jedi you are looking for.$} {#bell;#NOP}
+
+/* MONK */
+#act {^[MONK]%*} {-cl}
+
+/* CYBORGS */
+#act {^::COM::%*} {-cl}
+
+/* BLADESINGERS */
+#act {^<BS>} {-cl}
+
+/* SII */
+#act {^. o O ( %*:} {-cl};
+
+/* PROFESSIONS */
+#act {^You adjust your reforger's kit slightly, ready to do more business.$} {reforger}
+#act {^You can currently reforge %d items.} {-cl;#var {pxp[reforger]} {%1}};
+#act {^Your transmuter's stone bursts with %d new colours!} {-cl;exa transmuter's stone};
+#act {^You say: Brigga Bragga!  Hizzie wizzie snizzie lizzie!  CHOWDA CHOWDA} {#NOP}
+#act {^Chavee says: Welcome back, Roken, and I wish you the best of luck!} {#NOP}
+/* ETERNALS */
+#act {{^[A-z]+ <.oO>:}} {-cl}
+
+
+/* NEWB */
+
+#act {{^newb [A-z]+ \[[A-z]+(\/\d+)?\]\:}} {-cl}
+#alias {.stop} {#nop}
+
+/* EMOTES */
+#act {^From afar,} {-cl}
+
+#class {common_chatlog} {close}

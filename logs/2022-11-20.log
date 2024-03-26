@@ -1,0 +1,274 @@
+[11:02] [0m[34;1mRoken shouts:[0m can a failed volume seen in Win10 Disk Management be reversed? Somehow... my[0m
+[11:02] [0m              daughter when she was with her mom *so Idk what happened*.. failed my linux[0m
+[11:02] [0m              partition.[0m
+[11:02] [0m[31;1m[Clan] Cable :[0m bs![0m
+[11:03] [0m[34;1mRoken shouts:[0m best I found is data recovery. Any way to get grub back and make it bootable[0m
+[11:03] [0m              again? I'm not finding it corrupt[0m
+[11:03] [0m[34;1mTurnhold shouts:[0m remove the drive, get you a driver reader, hook it into another computer,[0m
+[11:03] [0m                 rescue disk it[0m
+[11:04] [0m[37;1mRoken flaps :[0m @turnhold does this other computer need to be the same system ext4?[0m
+[11:05] [0m[37;1mTurnhold flaps :[0m theres software that will read all, lemme see if i can find it[0m
+[11:07] [0m[37;1mRoken flaps :[0m and I know I'm going to need an external power + reset button or other solution to[0m
+[11:07] [0m              prevent her messing with these buttons. A shared office disadvantage.[0m
+[11:10] [0m[37;1mRoken flaps :[0m what does this mean overall? A failed partition can be caused by power failure...[0m
+[11:10] [0m              Win10 have a stronger resistance or is this isolated to the drive? Maybe lucky[0m
+[11:10] [0m              that linux is on a separate drive.[0m
+[11:13] [0m[37;1mRoken flaps :[0m reinstalling linux and reinstating dual boot status doable without affecting[0m
+[11:13] [0m              Windows?[0m
+[11:14] [0m[37;1mTaleast flaps :[0m linux will update the boot sectors, linux is more dependable in that aspact[0m
+[11:14] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[11:15] [0m[37;1mRoken flaps :[0m how come gparted didnt do a thing to help? User error? I tried a live boot of it[0m
+[11:15] [0m              and did "check" on the boot part of the linux volume.[0m
+[11:17] [0m[37;1mRoken flaps :[0m confirmed the boot flag was checked. Idea forming now... maybe grub was affected.[0m
+[11:17] [0m              Win10 is limited on ext4 status? I haven't tried booting from the Bios to said[0m
+[11:17] [0m              drive.[0m
+[11:18] [0m[37;1mRaest flaps :[0m has anything you've said been english yet?[0m
+[11:18] [0m[32;1mFrom afar, Raest winks at you suggestively.[0m[0m
+[11:18] [0m[37;1mRoken flaps :[0m I don't speak good English :)[0m
+[11:19] [0m[37;1mRoken flaps :[0m i dont speak good tech speak either[0m
+[11:22] [0m[37;1mRoken flaps :[0m omg turnhold thank you and 3k for hearing me out... i think i figured it out after[0m
+[11:22] [0m              seemingly wasting time last night and feeling frustrated. Talking it thru helped[0m
+[11:23] [0m[32mRaest tells you:[0m sometimes that's all it takes is talking it out.  but on here you get 90%[0m
+[11:23] [0m        inane answers and dumb comments.  glad to help[0m
+[11:23] [0m[37;1mRoken flaps :[0m boot priority maybe wack. I got into linux from bios boot manager and grub[0m
+[11:23] [0m              displayed first too[0m
+[11:27] [0m[37;1mRoken flaps :[0m woo! love you guys[0m
+[11:30] [0m[32mSer tells you:[0m damn i rpobably couldve helped but im idle as shit[0m
+[11:31] [0m[32mSer tells you:[0m whyncha ever call me </3[0m
+[11:36] [0m[32mSer tells you:[0m or even respond on 3k :([0m
+[11:38] [0m[37;1mZethrak flaps :[0m <3[0m
+[11:41] [0m[32mYou tell Ser:[0m id feel bad i called for help. im glad i talked to myself majority of the time in[0m
+[11:41] [0m        public to fix this[0m
+[11:42] [0m[32;1mFrom afar, Ser laffs at you![0m[0m
+[11:42] [0m[32mYou tell Ser:[0m was going to share more too[0m
+[11:42] [0m[32mSer tells you:[0m hmu on discord whenever, i was up til 3 and then Mili made me go to bed[0m
+[11:43] [0m[32mYou tell Ser:[0m no idea how playing with the pwr button reset bios settings and OC settings too[0m
+[11:45] [0m[32mSer tells you:[0m you have a bad cmos battery[0m
+[11:45] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[11:45] [0m[32mSer tells you:[0m sent you some pics on discord of my new power plant[0m
+[11:50] [0m[37;1mToren flaps :[0m can you ansify a say?[0m
+[11:52] [0m[32mYou tell Ser:[0m oh asked and commented on discord[0m
+[11:53] [0m[32mYou tell Ser:[0m cmos ok gotcha 7, almost 8 years old maybe its time[0m
+[11:55] [0m[37;1mTurnhold flaps :[0m you cant.[0m
+[11:55] [0m[37;1mTurnhold flaps :[0m i can.[0m
+[11:56] [0m[37;1mBrasky flaps :[0m power move[0m
+[11:56] [0m[31;1m[Clan] Maximon enters the game.[0m  [0m
+[12:11] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[12:22] [0m[31;1m[Clan] Toren :[0m anyone got fire/elec taco smear?[0m
+[12:31] [0m[31;1m[Clan] Cable :[0m nope sorry[0m
+[12:32] [0m[31;1m[Clan] Xarin :[0m I can check priest, but I think I have a meat[0m
+[12:32] [0m[31;1m[Clan] Xaryl :[0m nod, meat paste[0m
+[12:34] [0m[31;1m[Clan] Toren :[0m boo[0m
+[12:34] [0m[31;1m[Clan] Toren :[0m maybe i should try for salsa[0m
+[12:34] [0m[31;1m[Clan] Toren :[0m since i got everything else[0m
+[12:34] [0m[31;1m[Clan] Toren :[0m banu would be BS[0m
+[12:34] [0m[31;1m[Clan] Toren :[0m you guys do that this boot?[0m
+[12:34] [0m[31;1m[Clan] Xarin :[0m yes![0m
+[12:34] [0m[31;1m[Clan] Xarin :[0m we did not :([0m
+[12:35] [0m[31;1m[Clan] Toren :[0m want to run it if we can get nik to cdefend? :D[0m
+[12:35] [0m[31;1m[Clan] Xarin :[0m would have to be able to keep all the mobs grapple'd[0m
+[12:35] [0m[31;1m[Clan] Toren :[0m i can prolly survive 1 w protection[0m
+[12:35] [0m[31;1m[Clan] Xarin :[0m I do not think I could tank them yet[0m
+[12:36] [0m[31;1m[Clan] Toren :[0m maybe suv or another gnome would stand in front of them all[0m
+[12:36] [0m[31;1m[Clan] Cable :[0m my link is crap and already got one, but can try to help later[0m
+[12:36] [0m[31;1m[Clan] Cable :[0m hmm i should try to reset my router. but i think this zoom meet is doing a lot of[0m
+[12:36] [0m               dsamage[0m
+[12:37] [0m[31;1m[Clan] Toren :[0m asking badget[0m
+[12:42] [0m[31;1m[Clan] Cable :[0m ah thats better[0m
+[12:43] [0m[31;1m[Clan] Toren :[0m woot[0m
+[12:45] [0m[31;1m[Clan] Cable :[0m oh i see why these mobs are beating me up... scaler 150 not 120 aegis :P[0m
+[12:45] [0m[31;1m[Clan] Xarin :[0m oops?[0m
+[12:45] [0m[31;1m[Clan] Xarin :[0m how did you get into a 150 aegis?[0m
+[12:45] [0m[31;1m[Clan] Cable :[0m ya a bit painful will have to reset between them a bit, and spend coins to keep[0m
+[12:45] [0m               stam up[0m
+[12:46] [0m[31;1m[Clan] Cable :[0m old party[0m
+[12:46] [0m[31;1m[Clan] Cable :[0m with morion[0m
+[12:46] [0m[31;1m[Clan] Xarin :[0m ah![0m
+[12:46] [0m[31;1m[Clan] Cable :[0m *rest between them[0m
+[12:47] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[12:48] [0m[31;1m[Clan] Toren :[0m anyone w extra gool figs yet?[0m
+[12:48] [0m[31;1m[Clan] Xarin :[0m no :( but will starting today[0m
+[12:48] [0m[31;1m[Clan] Cable :[0m probably going to replace my spirit boots with some balangool at some point heh[0m
+[12:48] [0m[31;1m[Clan] Toren :[0m ooo could i come into erag knights?  im close to reps on shield[0m
+[12:48] [0m[31;1m[Clan] Toren :[0m nod but long boot[0m
+[12:48] [0m[31;1m[Clan] Xarin :[0m yes sir!! less SMD....but yummy +stats[0m
+[12:48] [0m[31;1m[Clan] Xarin :[0m sure[0m
+[12:48] [0m[31;1m[Clan] Toren :[0m so figure there will be lots of everything in a few days[0m
+[12:49] [0m[31;1m[Clan] Xarin :[0m as soon as this room is cleared[0m
+[12:49] [0m[31;1m[Clan] Toren :[0m brt entrance[0m
+[12:49] [0m[31;1m[Clan] Cable :[0m doing a knights run? heh[0m
+[12:49] [0m[31;1m[Clan] Cable :[0m oh i c already in there grin[0m
+[12:49] [0m[31;1m[Clan] Nameless :[0m oo[0m
+[12:54] [0m[31;1m[Clan] Xarin :[0m at larry now[0m
+[13:10] [0m[31;1m[Clan] Toren :[0m badger said hed do it[0m
+[13:11] [0m[31;1m[Clan] Toren :[0m who wants to do banu?[0m
+[13:11] [0m[31;1m[Clan] Xarin :[0m who will lead?[0m
+[13:11] [0m[31;1m[Clan] Cable :[0m if you get enough people, i will come help hit/soak hits.[0m
+[13:12] [0m[31;1m[Clan] Cable :[0m need a few min warning when almost ready heh[0m
+[13:12] [0m[31;1m[Clan] Xarin :[0m finally a sword![0m
+[13:12] [0m[31;1m[Clan] Taleast :[0m I'd do Banu[0m
+[13:12] [0m[31;1m[Clan] Xarin :[0m I can lead if needed[0m
+[13:13] [0m[31;1m[Clan] Taleast :[0m I can be the leading body if you give instructions[0m
+[13:13] [0m[31;1m[Clan] Toren :[0m i dont know the way[0m
+[13:13] [0m[31;1m[Clan] Taleast :[0m or I can just soak hits[0m
+[13:13] [0m[31;1m[Clan] Taleast :[0m there's steps on wmt[0m
+[13:13] [0m[31;1m[Clan] Toren :[0m badger and UT at cot[0m
+[13:13] [0m[31;1m[Clan] Cable :[0m okie swaping to tank[0m
+[13:14] [0m[31;1m[Clan] Xarin :[0m adding runes to sword, then ready[0m
+[13:14] [0m[31;1m[Clan] Toren :[0m should i reset my banshees? scaler 100[0m
+[13:14] [0m[31;1m[Clan] Xarin :[0m how long to reset?[0m
+[13:14] [0m[31;1m[Clan] Toren :[0m 20mins[0m
+[13:15] [0m[31;1m[Clan] Xarin :[0m will take like 45=60 minutes to get to hert[0m
+[13:15] [0m[31;1m[Clan] Toren :[0m 25[0m
+[13:15] [0m[31;1m[Clan] Toren :[0m ok[0m
+[13:15] [0m[31;1m[Clan] Toren :[0m perfect[0m
+[13:15] [0m[31;1m[Clan] Taleast :[0m where should I meet, did I miss?[0m
+[13:15] [0m[31;1m[Clan] Xarin :[0m brt[0m
+[13:15] [0m[31;1m[Clan] Cable :[0m swaping powers[0m
+[13:17] [0m[31;1m[Clan] Xarin :[0m at magic Tal[0m
+[13:17] [0m[31;1m[Clan] Xarin :[0m cable also?[0m
+[13:22] [0m[31;1m[Clan] Taleast :[0m I think I'm gonna swap Vegor over to juggs next boot and run him[0m
+[13:22] [0m[31;1m[Clan] Xarin :[0m a baby HC[0m
+[13:22] [0m[31;1m[Clan] Taleast :[0m yeah, I've been wanting to give jugs another shot since their upgrade like[0m
+[13:22] [0m                 what, 2 years ago? and mentals are too slow early on[0m
+[13:22] [0m[31;1m[Clan] Cable :[0m you want Ix to tank for you?[0m
+[13:22] [0m[31;1m[Clan] Taleast :[0m plus juggs with good gear are much safer for hc[0m
+[13:23] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[13:23] [0m[31;1m[Clan] Taleast :[0m I don't think so, he's been logged out nearly 53 years, probably pretty rusty[0m
+[13:23] [0m[31;1m[Clan] Taleast :[0m er she[0m
+[13:25] [0m[31;1m[Clan] Nine :[0m slurp[0m
+[13:26] [0m[31;1m[Clan] Taleast :[0m you want in on cloak on Namey?[0m
+[13:26] [0m[31;1m[Clan] Taleast :[0m we just started[0m
+[13:26] [0m[31;1m[Clan] Nine :[0m o sure[0m
+[13:26] [0m[31;1m[Clan] Taleast :[0m we're still headed to the first stop killing agros[0m
+[13:26] [0m[31;1m[Clan] Nameless :[0m brt[0m
+[13:26] [0m[31;1m[Clan] Xarin :[0m we are ne/3n/3e from entrance of Necropolis[0m
+[13:26] [0m[31;1m[Clan] Xarin :[0m and way is clear[0m
+[13:37] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Northern Hills of[0m
+[13:37] [0m                          Fantasy!  We are localizing it now - get ready![0m
+[13:47] [0m[31;1m[Clan] Xarin :[0m cloak is BoP, right?[0m
+[13:47] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[13:50] [0m[34;1mSeoman shouts:[0m Upgrade Bladesingers![0m
+[13:56] [0m[34;1mZethrak shouts:[0m thanks![0m
+[14:23] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[14:48] [0m[31;1m[Clan] Nine :[0m whee[0m
+[14:52] [0m[31;1m[Clan] Taleast :[0m uh, a formsmith work order?[0m
+[14:52] [0m[31;1m[Clan] Taleast :[0m I have no idea how this got on me[0m
+[14:57] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[14:58] [0m[31;1m[Clan] Taleast :[0m thanks again for the party, gentlemen[0m
+[14:58] [0m[31;1m[Clan] Cable :[0m was fun![0m
+[14:59] [0m[37;1mTedious flaps :[0m Ragged Peasant (cOvErEd In WhItE FuZz) [dying][0m
+[15:00] [0m[37;1mTedious flaps :[0m fuzzy fuzzy fuzzy![0m
+[15:00] [0m[37;1mCable flaps :[0m Leprosy! or maybe some sort of hybrid cordycepts infection[0m
+[15:01] [0m[31;1m[Clan] Byron :[0m lettuce leaf anyone?[0m
+[15:01] [0m[31;1m[Clan] Cable :[0m every try it on razor of sythicus?[0m
+[15:01] [0m[31;1m[Clan] Cable :[0m after a hone[0m
+[15:01] [0m[31;1m[Clan] Cable :[0m can you max wc that bad boy?[0m
+[15:01] [0m[31;1m[Clan] Xarin :[0m cannot re-sharpen razor if you do that[0m
+[15:02] [0m[31;1m[Clan] Cable :[0m Oh, that makes sense[0m
+[15:02] [0m[31;1m[Clan] Byron :[0m you could try enhanced impact then wrap[0m
+[15:07] [0m[37;1mTedious flaps :[0m Banu is tanking for dummies?[0m
+[15:07] [0m[37;1mTedious flaps :[0m wl lol[0m
+[15:10] [0m[37;1mTedious flaps :[0m I borrowed too much time without returning it and now it's overdue.[0m
+[15:13] [0m[37;1mTedious flaps :[0m I am still wondering if filling my ebike tubes with helium would make it[0m
+[15:13] [0m                lighter.[0m
+[15:18] [0m[31;1m[Clan] Xarin :[0m I got 2x leaf & 1 packet, if anyone wants[0m
+[15:19] [0m[31;1m[Clan] Xaro arrives!.[0m  [0m
+[15:20] [0m[37;1mTedious flaps :[0m Brumate[0m
+[15:27] [0m[31;1m[Clan] Xarin :[0m I was hoping Banu cloak would allow me to tank 140 Mahjongg :([0m
+[15:28] [0m[31;1m[Clan] Untouchable :[0m I don't know who does the recruiting but badger looking for a clan.[0m
+[15:28] [0m[31;1m[Clan] Cable :[0m ah, he isn't on enough, only 4 on nolife...[0m
+[15:28] [0m[31;1m[Clan] Seoman :[0m If no one objects, we can bring him in[0m
+[15:28] [0m[31;1m[Clan] Cable :[0m grin[0m
+[15:28] [0m[31;1m[Clan] Xarin :[0m laugh![0m
+[15:30] [0m[31;1m[Clan] Toren :[0m anyone able to smear cloak?[0m
+[15:30] [0m[31;1m[Clan] Toren :[0m /reforge maybe[0m
+[15:30] [0m[31;1m[Clan] Xarin :[0m no extra smears, but I think my priest has 1 reforge left[0m
+[15:31] [0m[31;1m[Clan] Xarin :[0m if you smear I can pull lots[0m
+[15:31] [0m[31;1m[Clan] Xarin :[0m if smear + breed enchance _may_ be able to do loads[0m
+[15:31] [0m[31;1m[Clan] Cable :[0m oh ya i need to do that too![0m
+[15:32] [0m[31;1m[Clan] Toren :[0m smear = 20 enhance = max 8[0m
+[15:32] [0m[31;1m[Clan] Toren :[0m isthere a 4 nat on it?[0m
+[15:32] [0m[31;1m[Clan] Xarin :[0m my smear added 23/23[0m
+[15:32] [0m[31;1m[Clan] Toren :[0m bs[0m
+[15:32] [0m[31;1m[Clan] Xarin :[0m 1 e/b/f/i[0m
+[15:33] [0m[31;1m[Clan] Toren :[0m ooo[0m
+[15:33] [0m[31;1m[Clan] Xarin :[0m not sure why it randomly does that[0m
+[15:33] [0m[31;1m[Clan] Xarin :[0m I thought maybe it was scaler....but I always do max (145) scaler tacos[0m
+[15:34] [0m[31;1m[Clan] Cable :[0m i thought 91 was max... maybe i got some learning to do[0m
+[15:34] [0m[31;1m[Clan] Xarin :[0m it is![0m
+[15:34] [0m[31;1m[Clan] Xarin :[0m but randomly I will get more than 20/20 from a smear[0m
+[15:34] [0m[31;1m[Clan] Cable :[0m you thikn from higher scaler?[0m
+[15:35] [0m[31;1m[Clan] Xarin :[0m have no idea :( is never consistent[0m
+[15:35] [0m[31;1m[Clan] Cable :[0m heh[0m
+[15:35] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[15:36] [0m[31;1m[Clan] Cable :[0m ooo i just found a new way i could scan armour ac lol[0m
+[15:36] [0m[31;1m[Clan] Cable :[0m i can wear it then scan me[0m
+[15:36] [0m[31;1m[Clan] Xarin :[0m heh[0m
+[15:37] [0m[31;1m[Clan] Cable :[0m so i can use a sour cream on this cloak and get a good fire reforge?[0m
+[15:37] [0m[31;1m[Clan] Cable :[0m for example.[0m
+[15:37] [0m[31;1m[Clan] Xarin :[0m at least lots[0m
+[15:38] [0m[31;1m[Clan] Cable :[0m here i go! grin[0m
+[15:39] [0m[31;1m[Clan] Badger enters the game.[0m  [0m
+[15:39] [0m[31;1m[Clan] Cable :[0m woot[0m
+[15:39] [0m[31;1m[Clan] Cable :[0m mooor tanky[0m
+[15:39] [0m[31;1m[Clan] Archangel :[0m Welcome, Badger. :D[0m
+[15:39] [0m[31;1m[Clan] Badger :[0m hello everyone :)[0m
+[15:39] [0m[31;1m[Clan] Xarin :[0m clan house id == 227[0m
+[15:39] [0m[31;1m[Clan] Cable :[0m Welcome, Badger. But we are going to need to have you work on your nolife... you[0m
+[15:39] [0m               have been slacking a bit[0m
+[15:39] [0m[31;1m[Clan] Xarin :[0m s box is "every one EQ"[0m
+[15:39] [0m[31;1m[Clan] Badger :[0m lately yes :P[0m
+[15:39] [0m[31;1m[Clan] Xarin :[0m s/u is 'holding for a specific person[0m
+[15:39] [0m[31;1m[Clan] Xarin :[0m s/w is crafting[0m
+[15:40] [0m[31;1m[Clan] Xarin :[0m s/e is junk for anyone to donate[0m
+[15:40] [0m[31;1m[Clan] Badger :[0m ok[0m
+[15:40] [0m[31;1m[Clan] Xarin :[0m s/e/d is corpse for anyone to use[0m
+[15:40] [0m[31;1m[Clan] Badger :[0m thanks for having everyone[0m
+[15:41] [0m[31;1m[Clan] Untouchable :[0m what the lol even i don't have house keys for 227[0m
+[15:41] [0m[31;1m[Clan] Xarin :[0m our pleasure![0m
+[15:41] [0m[31;1m[Clan] Seoman :[0m You don't?!?[0m
+[15:41] [0m[31;1m[Clan] Badger :[0m lol[0m
+[15:41] [0m[31;1m[Clan] Untouchable :[0m Nope i don't just tryed lol[0m
+[15:41] [0m[31;1m[Clan] Xarin :[0m you will have to forgive the bards.....they can be rowdy!   ![0m
+[15:41] [0m[31;1m[Clan] Taleast :[0m hey, it's Badger![0m
+[15:41] [0m[31;1m[Clan] Taleast :[0m welcome to the clan, meatshield![0m
+[15:41] [0m[31;1m[Clan] Taleast :[0m er Badger[0m
+[15:41] [0m[31;1m[Clan] Xarin :[0m laugh![0m
+[15:42] [0m[31;1m[Clan] Badger :[0m lol thanks[0m
+[15:42] [0m[31;1m[Clan] Seoman :[0m Badger badger badger badger mushroom mushroom![0m
+[15:42] [0m[31;1m[Clan] Taleast :[0m you generally have a party running or do you need to get hooked up into some?[0m
+[15:42] [0m[31;1m[Clan] Badger :[0m im always running a party if anyone wants to ever join me[0m
+[15:43] [0m[31;1m[Clan] Taleast :[0m what I failed to say properly is, do you have a normal crew?[0m
+[15:43] [0m[31;1m[Clan] Toren :[0m can i join?[0m
+[15:43] [0m[31;1m[Clan] Badger :[0m kim and untouchable, yup[0m
+[15:43] [0m[31;1m[Clan] Toren :[0m welcome![0m
+[15:43] [0m[31;1m[Clan] Badger :[0m cot[0m
+[15:43] [0m[31;1m[Clan] Taleast :[0m gotcha[0m
+[15:44] [0m[31;1m[Clan] Seoman :[0m In case you're not in the know:[0m
+[15:44] [0m                https://www.youtube.com/watch?v=EIyixC9NsLI&ab_channel=WeeblsStuff[0m
+[15:44] [0m[31;1m[Clan] Taleast :[0m it's been a little quieter on ctell lately because of various folks with[0m
+[15:44] [0m                 different or busy jobs, but we keep it real[0m
+[15:44] [0m[31;1m[Clan] Taleast :[0m dave chappelle real[0m
+[15:44] [0m[31;1m[Clan] Badger :[0m dare i click on that link? :P[0m
+[15:45] [0m[31;1m[Clan] Seoman :[0m It's SFW[0m
+[15:45] [0m[31;1m[Clan] Taleast :[0m censor bars over everything[0m
+[15:45] [0m[31;1m[Clan] Xarin :[0m any link from archi is safe[0m
+[15:45] [0m[31;1m[Clan] Taleast :[0m joking[0m
+[15:45] [0m[31;1m[Clan] Xarin :[0m any link from anyone else is suspect[0m
+[15:45] [0m[31;1m[Clan] Seoman :[0m It's a catchy tune.[0m
+[15:46] [0m[31;1m[Clan] Taleast :[0m double bagged?[0m
+[15:46] [0m[31;1m[Clan] Cable :[0m if you are xtc[0m
+[15:48] [0m[31;1m[Clan] Badger :[0m good to know lol, been gettig a high number of spam text messages with links[0m
+[15:48] [0m                lately[0m
+[15:55] [0m[31;1m[Clan] Toren :[0m https://discord.gg/TQsbYc3G[0m
+[15:55] [0m[31;1m[Clan] Toren :[0m clan discord[0m
+[15:56] [0m[31;1m[Clan] Void :[0m oh welcome badger[0m
+[15:56] [0m[31;1m[Clan] Badger :[0m thanks void[0m
+[15:57] [0m[31;1m[Clan] Void :[0m void = nix[0m
+[15:57] [0m[31;1m[Clan] Badger :[0m oh nice ;)[0m
+[15:59] [0m[31;1m[Clan] Untouchable :[0m I've been clan deprived lol no house keys didn't know we had a discord like[0m
+[15:59] [0m                     man alive lol[0m
+[16:01] [0m[31;1m[Clan] Cable :[0m heh[0m
+[16:02] [0m[37;1mGuest1 flaps :[0m Anyone know how long a vaf restore takes?[0m
+[16:04] [0m[31;1m[Clan] Nine :[0m void = what i do when i wake up in the morning with a full bladder[0m

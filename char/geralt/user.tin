@@ -1,0 +1,16 @@
+#ses {3k} {3k.org} {3000};geralt;$geraltPass
+#split 0 1;
+#conf {repeat enter} {on};
+#conf {color patch} {on};
+#conf {packet patch} {1};
+#NOP read $3KSRC/char/geralt/actions.tin;
+#NOP read $3KSRC/char/geralt/alias.tin;
+#NOP read $3KSRC/char/geralt/bardhpbar.tin;
+#NOP read $3KSRC/char/roken/gags.tin
+#NOP read $3KSRC/char/roken/highlight.tin
+#read $3KSRC/common/chatlog.tin;
+#read $3KSRC/common/directions.tin;
+#NOP read $3KSRC/common/mapper.tin;
+#read $3KSRC/common/craftpurge.tin;
+#read $3KSRC/common/general_alias.tin;
+#substitute {^-R-_} {}

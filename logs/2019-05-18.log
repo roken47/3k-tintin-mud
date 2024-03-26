@@ -1,0 +1,625 @@
+- = LOG STARTED [00:00] = -
+[00:04] [0m[32mCK30 says: [0mHello Ser!                                                      [0m
+[00:10] [0m[32mCK30 says: [0mHello Roken!                                                    [0m
+[00:10] [0m[32mAntonio says: [0mSorry, only house owners may go in there.[0m
+[00:14] [0mBurnaby [Jedi(43)]: yo![0m
+[00:24] [0m[33;1m[PARTY][0m Ser: "members"[0m
+[00:27] [0mRoken [Jedi(7)]: I checked info stats, it is useless. What is your suggested[0m
+[00:27] [0m                 distribution?[0m
+[00:27] [0mUkyo [Jedi(73)]: con, con, con, more con, and then some dex and wis[0m
+[00:27] [0mGunman [Jedi(66)]: ^^[0m
+[00:28] [0mBurnaby [Jedi(43)]: con 130[0m
+[00:28] [0mUkyo [Jedi(73)]: maybe a tad of str if you want to carry stuff, like gear,[0m
+[00:28] [0m                 and still be able to dodge, focus check /weight, staying in[0m
+[00:28] [0m                 the green helps with dodge. uhm. you won't need int until[0m
+[00:28] [0m                 you pick up force deflection at ascension 30.[0m
+[00:29] [0mUkyo [Jedi(73)]: and even then, you won't need a lot of int.[0m
+[00:29] [0mUkyo [Jedi(73)]: charisma, well, that's a fuzzy one.[0m
+[00:32] [0mJasmine [Jedi(Knight)]: too many aspiring jedi not enough sith aspirant[0m
+[00:35] [0mMaul [Jedi(23)]: The Darkside calls...[0m
+[00:36] [0mJasmine [Jedi(Knight)]: all of you should do your part to help rid us of the[0m
+[00:36] [0m                        lighties[0m
+[00:38] [0mUkyo [Jedi(73)]: Too many Aspirants, not enough Emergents.[0m
+[00:38] [0mJasmine [Jedi(Knight)]: too many ukyo not enough stabbity[0m
+[00:39] [0m[33;1m[PARTY][0m Ser: "joinprof assassin"[0m
+[00:39] [0m[33;1m[PARTY][0m Ser: or "joinprof tactician"[0m
+[00:39] [0m[33;1m[PARTY][0m Ser: assassin makes you crit more[0m
+[00:39] [0m[33;1m[PARTY][0m Ser: tactician makes your attacks penetrate more[0m
+[00:41] [0m[33;1m[PARTY][0m Ser: "help milestons"[0m
+[00:41] [0m[33;1m[PARTY][0m Ser: help milestones[0m
+[00:47] [0m[32mCK30 says: [0mHello Ser!                                                      [0m
+[00:47] [0m[32mCK30 says: [0mHello Ser!                                                      [0m
+[00:52] [0m[33;1m[PARTY][0m Ser: control pain, dodge, hand to hand combat[0m
+[01:15] [0m[32mUkyo thinks . o O ([0m [32;1m btw, gxp stops if you're idling more than[0m
+[01:15] [0;1;32m           150 rounds. [0m [32m)[0m[0m
+[01:16] [0m[32mUkyo thinks . o O ([0m [32;1m info rounds can be handy [0m [32m)[0m[0m
+[01:16] [0m[32mUkyo thinks . o O ([0m [32;1m also, at 400 rounds, you'll get a bright[0m
+[01:16] [0;1;32m           red ansi message telling you to finish up soon, and at 500,[0m
+[01:16] [0;1;32m           gxp shuts off for that particular mob. [0m [32m)[0m[0m
+[01:17] [0m[32mUkyo thinks . o O ([0m [32;1m hrm. also, info hpconfigure, info hpbar. [0m [32m)[0m[0m
+[01:22] [0m[32mYou tell Ser:[0m see your stats[0m
+[01:22] [0m[33;1m[PARTY][0m Ser: Str: 314    Dex: 243    Wis: 102    Int: 56     Con: 380  [0m
+[01:22] [0m     Cha: 68[0m
+[01:23] [0m[33;1m[PARTY][0m Ser: Str 242, Dex 150, Wis 54, Int 100, Con 225, Cha 50[0m
+[01:28] [0m[33;1m[PARTY][0m Ser: help areadirections[0m
+[01:30] [0m[33;1m[PARTY][0m Ser: 'massxp 50'[0m
+[01:40] [0m[33;1m[PARTY][0m Ser: http://3kwiki.com/wiki/index.php/An_Open_3k_Wiki[0m
+[02:13] [0m[33;1m[PARTY][0m Roken is being booted from the party.[0m
+[02:17] [0m[32mCK30 says: [0mHello Roken!                                                    [0m
+[02:18] [0m[32;1mFrom afar, Maul goes 'Woo Woo!' at you.[0m[0m
+[02:32] [0m[32mCK30 says: [0mHello Roken!                                                    [0m
+[04:01] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[04:01] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[04:01] [0m                          get ready![0m
+[10:14] Ukyo [Jedi(73)]: heh.[0m
+[10:14] Mugen [Jedi(Knight)]: lets yout set your title to anything you want[0m
+[10:14] Volagas [Jedi(35)]: Ah Neato. Good to know.[0m
+[10:14] Ukyo [Jedi(73)]: hence my title.[0m
+[10:14] Javneh [Jedi(44)]: or you can get hm and title was Kung Fu Fighting (hiyah!)[0m
+[10:14] Mugen [Jedi(Knight)]: and mine! and simonz weird one...[0m
+[10:15] Simonz [Jedi(34)]: hmm, i thought mine switched to jedi already....isn't[0m
+[10:15]                    there a command to reset the gtitle?[0m
+[10:15] Mugen [Jedi(Knight)]: its highly stupid[0m
+[10:15] Mugen [Jedi(Knight)]: like gtitle[0m
+[10:15] Mugen [Jedi(Knight)]: but focus gtitle[0m
+[10:16] Simonz [Jedi(34)]: duh, i keep forgetting about putting focus in front of[0m
+[10:16]                    everything[0m
+[10:16] Mugen [Jedi(Knight)]: it is.... annoying[0m
+[10:16] Javneh [Jedi(44)]: your focus needs more focus?[0m
+[10:16] Volagas [Jedi(35)]: TRied again same thing. XP[0m
+[10:16] Mugen [Jedi(Knight)]: i have to 'focus wear all'   'focus wield saber'[0m
+[10:16] Mugen [Jedi(Knight)]: focus deposit coins in bank[0m
+[10:17] Mugen [Jedi(Knight)]: focus info focus[0m
+[10:17] Mugen [Jedi(Knight)]: i heard new jedi wont have focus in it[0m
+[10:17] Javneh [Jedi(44)]: focus drink coffee[0m
+[10:17] Simonz [Jedi(34)]: so, my gtitle is already just jedi[0m
+[10:18] Javneh [Jedi(44)]: new jedi he says hmm[0m
+[10:21] [0m[32mYou tell Ser:[0m my phone made the screen smaller[0m
+[10:21] [0m[32mSer tells you:[0m now it's big[0m
+[10:21] [0m                         First Floor[0m
+[10:21] [0m     1   2   S J T   3   4       S: Lightsaber Workshop[0m
+[10:21] [0m      \ /     \|/     \ /        T: Ability Skill Training room[0m
+[10:21] [0m     5-o - o - + - o - o-6       A: Force Skill Training room[0m
+[10:21] [0m      / \     /|\     / \        M: Meditation Chambers[0m
+[10:21] [0m     7   8   A o M   R   9       +: Stairs down to board room, [0m
+[10:21] [0m               |                    up to 2nd floor[0m
+[10:21] [0m               o                 P: Landing Pad[0m
+[10:21] [0m               |                 J: Jungle Exit[0m
+[10:21] [0m               P                  R: Recruiting Office[0m
+[10:21] [0m                              1-9: Tradition Rooms [0m
+[10:22] [0m[32mSer tells you:[0m try dmap pinc[0m
+[10:22] [0m[32mSer tells you:[0m because you're not at jedi[0m
+[10:24] [0m[32mAntonio says: [0mSorry, only house owners may go in there.[0m
+[10:26] [0m[32mSer tells you:[0m if you "background" the task (by pressing ctl+d or[0m
+[10:26] [0m        pause/break) you need to type "fg" to bring it back to foreground[0m
+[10:26] [0m[32mSer tells you:[0m i am redoing my coil so unresponsiveish[0m
+[10:28] [0mSimonz [Jedi(34)]: doh[0m
+[10:28] [0mJavneh [Jedi(44)]: really?[0m
+[10:33] [0mArmy shouts: Game reboot in 55 minutes 35 seconds [0m
+[10:33] [0m[32mYou say:[0m  im on the map at JEDI guild[0m
+[10:33] [0m[32mYou say:[0m  no entrance[0m
+[10:35] [0m[32mCK30 says: [0mHello Roken!                                                    [0m
+[10:39] [0m[32mYou tell Ser:[0m how do i heal? salve doesn't work[0m
+[10:40] [0m[32mSer tells you:[0m your only two options are accelerated healing (alias aheal[0m
+[10:40] [0m        focus accelerated healing) and it only works out of combat, other[0m
+[10:40] [0m        option is reduce injury[0m
+[10:40] [0m[32mSer tells you:[0m test fire #1[0m
+[10:40] [0m[32mYou tell Ser:[0m i can only learn aheal atm[0m
+[10:41] [0m[32mSer tells you:[0m right i warned you about that last night[0m
+[10:41] [0m[32mSer tells you:[0m again it only works out of combat[0m
+[10:44] [0m[32mCK30 says: [0mHello Roken!                                                    [0m
+[10:47] [0mArmy shouts: Game reboot in 41 minutes 31 seconds [0m
+[10:47] [0mVolagas [Jedi(35)]: Crap that sneaky reboot.[0m
+[10:48] [0m[32mSer tells you:[0m "help areadirections" will have good starter areas for you[0m
+[10:48] [0m[32mSer tells you:[0m also did you get your glevels?[0m
+[10:57] [0mArmy shouts: Game reboot in 30 minutes 58 seconds [0m
+[10:58] [0m[32mSer tells you:[0m i'm gonna get you some gear real quick for reboot[0m
+[10:58] [0m[32mSer tells you:[0m it will stay on you[0m
+[10:58] [0m[32mSer tells you:[0m see FANTASY in big red letters[0m
+[10:58] [0m[32mSer tells you:[0m that's where you need to start if you're trying to get to[0m
+[10:58] [0m        that place[0m
+[10:58] [0mMellaous [Jedi(75)]: sups[0m
+[10:59] [0m[32mSer tells you:[0m i.e. dmap pinc, navigate to fantasy, then[0m
+[10:59] [0m[32mSer tells you:[0m you can follow those dirs[0m
+[10:59] [0mMugen [Jedi(Knight)]: hiii[0m
+[10:59] [0m[32mSer tells you:[0m get other from bag[0m
+[10:59] [0m[32mSer tells you:[0m remove other/wear other[0m
+[11:00] [0m[32mSer tells you:[0m also new coil works great[0m
+[11:00] [0m[34;1m ****** **   **   ****   ****** **   **  ****** **   **   ****     **   [0m
+[11:00] [0;1;34m   **   ***  **  **  **  **  ** *** ***    **   ***  **  **  **    **   [0m
+[11:00] [0;1;34m   **   ** * **  **      **  ** ** * **    **   ** * **  **        **   [0m
+[11:00] [0;1;34m   **   **  ***  **      **  ** ** * **    **   **  ***  **        **   [0m
+[11:00] [0;1;34m   **   **   **  **      **  ** **   **    **   **   **  ** ***         [0m
+[11:00] [0;1;34m   **   **   **  **  **  **  ** **   **    **   **   **  **  **    **   [0m
+[11:00] [0;1;34m ****** **   **   ****   ****** **   **  ****** **   **   ****     **   [0m
+[11:01] [0m[32mSer tells you:[0m fantasy is on the west side (denoted by <), chaos is[0m
+[11:01] [0m        denoted by ^, and science is >[0m
+[11:02] [0m[32mSer tells you:[0m stay at magic tho for a sec getting you more gear[0m
+[11:02] [0m[32mSer tells you:[0m stay there[0m
+[11:02] [0m[32;1mFrom afar, Ser sighs deeply at you.[0m[0m
+[11:03] [0m[32mSer tells you:[0m had to trim coil, got a good one now[0m
+[11:04] [0m[32mSer tells you:[0m did 9 wraps instead of 10/11, about .05 ohm diff[0m
+[11:04] [0m[32mSer tells you:[0m ok i got you a main, gloves, boots, cloak[0m
+[11:04] [0m[32mSer tells you:[0m and since you're staying at level 60 it should last over[0m
+[11:04] [0m        reboot[0m
+[11:05] [0m[32;1mFrom afar, Ser winks at you suggestively.[0m[0m
+[11:05] [0m[32mSer tells you:[0m or level 58 whatever you are[0m
+[11:05] [0m[32;1mFrom afar, Ser nods to you.[0m[0m
+[11:05] [0m[32mYou tell Ser:[0m im staying at fantasy entrance[0m
+[11:05] [0m[32mSer tells you:[0m i'll be right there, mob is almost dead[0m
+[11:05] [0mArmy shouts: Game reboot in 23 minutes 3 seconds [0m
+[11:05] [0m[32mYou tell Ser:[0m im browsing tpb[0m
+[11:05] [0m[32;1mFrom afar, Ser grins at you.[0m[0m
+[11:06] [0m[32mSer tells you:[0m how's that vpn treating ya[0m
+[11:06] [0m[32mSer tells you:[0m i pay 60$/yr if you wanna gimme some kickback on paypal or[0m
+[11:06] [0m        something[0m
+[11:06] [0m[32;1mFrom afar, Ser goes "Heh heh heh" at you.[0m[0m
+[11:06] [0m[32mYou tell Ser:[0m good my ip changed again since last refresh[0m
+[11:06] [0m[32mSer tells you:[0m ok omw[0m
+[11:07] [0m[32mSer tells you:[0m i'm on a boat motherfucker[0m
+[11:09] [0m[32mSer tells you:[0m that should help you stay alive a little better[0m
+[11:10] [0m[32mSer tells you:[0m and now you are overweight again but you can get rid of[0m
+[11:10] [0m        rifle/pistol[0m
+[11:11] [0m[32mYou tell Ser:[0m sword too[0m
+[11:11] [0m[32mSer tells you:[0m blah[0m
+[11:11] [0m[32mSer tells you:[0m w/e[0m
+[11:11] [0m[32mYou tell Ser:[0m take sword[0m
+[11:11] [0mArmy shouts: Game reboot in 17 minutes 7 seconds [0m
+[11:13] [0m[32mSer tells you:[0m should fix lines acting funny[0m
+[11:13] [0m[32mSer tells you:[0m go fight something while you got time[0m
+[11:13] [0m[32mSer tells you:[0m for the next 15 minutes[0m
+[11:14] [0m[32mSer tells you:[0m you can also do "#12 w"[0m
+[11:15] [0m[32mSer tells you:[0m instead of typing "w;w;w;w;w;w etc" 12x[0m
+[11:16] [0mArmy shouts: Game reboot in 12 minutes 40 seconds [0m
+[11:17] [0mAlstor [Jedi(Staff)]: I shall be selling the Armory off shortly. Please[0m
+[11:17] [0m                      return any borrowed equipment promptly.[0m
+[11:17] [0m[32mSer tells you:[0m ...[0m
+[11:17] [0m[32mSer tells you:[0m you gotta wait for the boat to get to land[0m
+[11:17] [0m[32mYou say:[0m  ao my ass[0m
+[11:17] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 1417770 coins[0m
+[11:17] [0m                      and credited your accounts with your share of the[0m
+[11:17] [0m                      proceeds.[0m
+[11:18] [0m[32mSer tells you:[0m jumping off the boat in the middle of the ocean isn't gonna[0m
+[11:18] [0m        get you there[0m
+[11:18] [0m[32mSer tells you:[0m at least they removed the part where you drop all your gear[0m
+[11:18] [0m        when you die[0m
+[11:18] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 52674 coins and[0m
+[11:18] [0m                      credited your accounts with your share of the[0m
+[11:18] [0m                      proceeds.[0m
+[11:19] [0mArmy shouts: Game reboot in 9 minutes 20 seconds [0m
+[11:19] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 284643 coins and[0m
+[11:19] [0m                      credited your accounts with your share of the[0m
+[11:19] [0m                      proceeds.[0m
+[11:20] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 61086 coins and[0m
+[11:20] [0m                      credited your accounts with your share of the[0m
+[11:20] [0m                      proceeds.[0m
+[11:21] [0m[32mSer tells you:[0m go up[0m
+[11:21] [0m[32mSer tells you:[0m now go west[0m
+[11:21] [0m[32mSer tells you:[0m now you can aheal[0m
+[11:21] [0m[32mSer tells you:[0m type "xp"[0m
+[11:21] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 450666 coins and[0m
+[11:21] [0m                      credited your accounts with your share of the[0m
+[11:21] [0m                      proceeds.[0m
+[11:22] [0mArmy shouts: Game reboot in 6 minutes 50 seconds [0m
+[11:22] [0m[32mYou tell Ser:[0m lost xp from dieing?[0m
+[11:22] [0m[32mSer tells you:[0m yeah + you get the death xp debt[0m
+[11:22] [0m[32mSer tells you:[0m i would check out smurfs[0m
+[11:22] [0m[32mSer tells you:[0m you're back in town now since you died[0m
+[11:22] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 328005 coins and[0m
+[11:22] [0m                      credited your accounts with your share of the[0m
+[11:22] [0m                      proceeds.[0m
+[11:23] [0m[32mSer tells you:[0m so if you navigate to chaos, smurfs are e/s from there[0m
+[11:23] [0m[32mYou tell Ser:[0m reboot soon[0m
+[11:23] [0m[32;1mFrom afar, Ser nods to you.[0m[0m
+[11:23] [0m  _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _   _[0m
+[11:23] [0m | |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |_| |[0m
+[11:23] [0m |                                                                         |[0m
+[11:23] [0m |  [1mCurrent Reboot : #1797 [1 week 2 days 5 hours 46 minutes]             [0m |[0m
+[11:23] [0m |  [1mCurrent Time   : (US EDT) Sat May 18, 2019 12:23:44 am                [0m |[0m
+[11:23] [0m |  [36;1mCurrent Uptime : 1 week 2 days 5 hours 41 minutes 22 seconds (99%)    [0m |[0m
+[11:23] [0m |  [33;1mNext Reboot in : 5 minutes 9 seconds                                  [0m |[0m
+[11:23] [0m |                                                                         |[0m
+[11:23] [0m |  [32m(Started)[0m [32;1mThu May 9 06:42 am [0m              [31;1mSat May 18 12:28 pm[0m [31m(Ends)[0m  |[0m
+[11:23] [0m |  [32;1m(>[0m[32;1m===============================================================[0m[1m>[0m[31;1m-[0m[31;1m<)[0m  |[0m
+[11:23] [0m (_________________________________________________________________________)[0m
+[11:23] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 24026 coins and[0m
+[11:23] [0m                      credited your accounts with your share of the[0m
+[11:23] [0m                      proceeds.[0m
+[11:23] [0mArmy shouts: TELL ARMY if you want a free transport![0m
+[11:23] [0mArmy shouts: Game reboot in 4 minutes 57 seconds [0m
+[11:23] [0m[32mSer tells you:[0m you're in good shape tho, you have gear now and a[0m
+[11:23] [0m        lightsaber at boot[0m
+[11:24] [0m[32mSer tells you:[0m just don't forget to grab new cells at reboot (i'd grab a[0m
+[11:24] [0m        backpack too)[0m
+[11:24] [0m[32mSer tells you:[0m i can also finish coding my jedi hpbar for you so it stays[0m
+[11:24] [0m        on the bottom of your screen[0m
+[11:24] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 12782 coins and[0m
+[11:24] [0m                      credited your accounts with your share of the[0m
+[11:24] [0m                      proceeds.[0m
+[11:25] [0m[32mYou tell Ser:[0m 'emote' grateful[0m
+[11:25] [0mArmy shouts: Game reboot in 3 minutes 32 seconds [0m
+[11:25] [0m[32mSer tells you:[0m thank works[0m
+[11:25] [0m[32;1mFrom afar, Ser sticks his thumb up at you and says 'No problemo'.[0m[0m
+[11:25] [0m[32mSer tells you:[0m np is no problem[0m
+[11:25] [0m[32;1mFrom afar, Ser nudges you.[0m[0m
+[11:25] [0m[32;1mFrom afar, Ser nudges you.[0m[0m
+[11:25] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 1394 coins and[0m
+[11:25] [0m                      credited your accounts with your share of the[0m
+[11:25] [0m                      proceeds.[0m
+[11:25] [0m[32mSer tells you:[0m can i go kill a smurf[0m
+[11:26] [0m[32mSer tells you:[0m on your char[0m
+[11:26] [0mArmy shouts: Game reboot in 2 minutes 29 seconds [0m
+[11:26] [0m[32mSer tells you:[0m beautiful, you're barely doing damage and you're killing it[0m
+[11:26] [0m[32mSer tells you:[0m vpn doesn't help either[0m
+[11:26] [0mAlstor [Jedi(Staff)]: I sold the contents of the Armory for 440 coins and[0m
+[11:26] [0m                      credited your accounts with your share of the[0m
+[11:26] [0m                      proceeds.[0m
+[11:27] [0m[32mSer tells you:[0m and i think whispers only work in same room[0m
+[11:27] [0mArmy shouts: Game reboot in 1 minute 41 seconds [0m
+[11:27] [0mArmy shouts: Game reboot in 1 minute 5 seconds [0m
+[11:28] [0mArmy shouts: Game reboot in 38 seconds [0m
+[11:28] [0m[32mSer tells you:[0m lol you're not even going to get that smurf dead by the[0m
+[11:28] [0m        time reboot happens[0m
+[11:28] [0mArmy shouts: Game reboot in 18 seconds [0m
+[11:28] [0m[32mSer tells you:[0m probably a good gxp area for you[0m
+[11:28] [0mSer flaps : last![0m
+[11:28] [0mArmy shouts: Game reboot in 3 seconds [0m
+[11:29] [0mArmy shouts: You are walking when suddenly you hear the blaring of a great horn[0m
+[11:30] [0m[34;1mParisienne shouts:[0m boot definitely got more laggy recently[0m
+[11:31] [0m[34;1mTex shouts:[0m i blame canada blame canada[0m
+[11:31] [0m[32mSer tells you:[0m check "eq"[0m
+[11:32] [0m[32mSer tells you:[0m so now you have gear[0m
+[11:32] [0m[32mSer tells you:[0m and i have to go run it[0m
+[11:32] [0m[32mSer tells you:[0m cuz mine doesn't stick[0m
+[11:33] [0m[32mCK30 says: [0mHello Roken!                                                    [0m
+[11:34] [0m[32mSer tells you:[0m try "buy 3"[0m
+[11:35] [0m[32;1mFrom afar, Ser grins at you.[0m[0m
+[11:35] [0m[34;1mTex shouts:[0m lag monster dead[0m
+[11:37] [0m[34;1mCrolack shouts:[0m lemme clone 15 more[0m
+[11:37] [0m[34;1mTex shouts:[0m Lag Average:    0.00   0.00   0.00   0.00   0.00  Peak:   1.95[0m
+[11:37] [0m            CPU usage:       24%    26%    20%    22%    15%[0m
+[11:39] [0m[32mSer tells you:[0m i would keep one out[0m
+[11:40] [0m[32mYou tell Ser:[0m backpack autoquip?[0m
+[11:40] [0m[32mSer tells you:[0m it's just a bag[0m
+[11:40] [0m[32mYou tell Ser:[0m no auto use from bag?[0m
+[11:41] [0m[32;1mFrom afar, Ser shakes his head no to you.[0m[0m
+[11:41] [0m[32;1mFrom afar, Ser shakes his head no to you.[0m[0m
+[11:41] [0m[32;1mFrom afar, Ser shakes his head no to you.[0m[0m
+[11:41] [0m[32mYou tell Ser:[0m how to retrieve items from bag[0m
+[11:41] [0m[32mSer tells you:[0m get blah from bag[0m
+[11:42] [0m[32mYou tell Ser:[0m 6 skill points 6... that mean i can learn 6 more focus[0m
+[11:42] [0m        skills?[0m
+[11:42] [0m[32mSer tells you:[0m nod[0m
+[11:42] [0m[34;1mShaidar shouts:[0m people all over the world, come on, and join hands, form a[0m
+[11:42] [0m                death train - a death train[0m
+[11:42] [0m[32mSer tells you:[0m you're also at 140% gxp so you can learn sense/control[0m
+[11:43] [0m[34;1mUkyo shouts:[0m been there, done that. even got a t-shirt for it.[0m
+[11:44] [0;1;34mRikken shouts: [0mPolls are now open![0m
+[11:49] [0m[34;1mSpace shouts:[0m You dispose of A Death Cow. You feel refreshed after your good[0m
+[11:49] [0m              deed.[0m
+[11:49] [0m[32mYou tell Ser:[0m absorb sounds awesome[0m
+[11:49] [0m[34;1mHealbot shouts:[0m 60 seconds, at ss for ftouching[0m
+[11:49] [0m[32;1mFrom afar, Ser nods to you.[0m[0m
+[11:49] [0m[32mYou tell Ser:[0m in combat right?[0m
+[11:49] [0m[32;1mFrom afar, Ser nods to you.[0m[0m
+[11:49] [0m[32mYou tell Ser:[0m activation once?[0m
+[11:49] [0m[32mYou tell Ser:[0m per session?[0m
+[11:49] [0m[32mSer tells you:[0m absorb corpses, dissipate in combat[0m
+[11:50] [0m[32mSer tells you:[0m it'll last as long as you stay in combat/have absorbed[0m
+[11:50] [0m        energy to use[0m
+[11:50] [0m[32mYou tell Ser:[0m like bury corpse?[0m
+[11:50] [0m[32;1mFrom afar, Ser nods to you.[0m[0m
+[11:50] [0m[32mYou tell Ser:[0m how to make action for this?[0m
+[11:50] [0m[32mSer tells you:[0m but it doesnt give you xp[0m
+[11:51] [0m[32mSer tells you:[0m ok so long and short answer...  you can make temporary[0m
+[11:51] [0m        triggers by typing them in tintin, but for persistent triggers i[0m
+[11:51] [0m        recommend putting them in a file[0m
+[11:51] [0m[32mYou tell Ser:[0m should recharge my concentration[0m
+[11:52] [0mNightrider flaps : hsword on ground[0m
+[11:52] [0m[32mSer tells you:[0m boom action added[0m
+[11:52] [0m[32mYou tell Ser:[0m thank you[0m
+[11:52] [0m[32mSer tells you:[0m np[0m
+[11:53] [0m[32mYou tell Ser:[0m im fab[0m
+[11:53] [0m[32;1mFrom afar, Ser laffs at you![0m[0m
+[11:53] [0m[32mSer tells you:[0m so you remember how to switch screens?[0m
+[11:53] [0m[32mSer tells you:[0m should i just voice call you?[0m
+[11:53] [0m[32mSer tells you:[0m you got it, nano is a text editor[0m
+[11:58] [0m[34;1mShaidar shouts:[0m we could really use an all-star concert event to taise money[0m
+[11:58] [0m                to move the jugger guild back to town jugg-aid[0m
+[12:06] [0mMugen [Jedi(Knight)]: RAGEQUIT[0m
+[12:06] [0mUkyo [Jedi(73)]: wait, what?[0m
+[12:06] [0mMugen [Jedi(Knight)]: auto chat, accidentaly hit my c button =P[0m
+[12:07] [0mMugen [Jedi(Knight)]: hit c for coms, meant to hit v for vortex![0m
+[12:07] [0mUkyo [Light(73)]: wait, what?[0m
+[12:08] [0mUkyo [Jedi(73)]: yea, gathered that when i did a -h. forgot that the[0m
+[12:08] [0m                 ragequit was an autocomm[0m
+[12:09] [0m[34;1mBarian shouts:[0m hammer time![0m
+[12:17] [0mBones [Jedi(37)]: doh[0m
+[12:17] [0mArchimedes [Jedi(Legend)]: :([0m
+[12:17] [0mMugen [Jedi(Knight)]: UG jedi![0m
+[12:18] [0mGunman [Jedi(66)]: If you can't convince them, confuse them.[0m
+[12:18] [0mGunman [Jedi(66)]: ^^[0m
+[12:21] [0m[33;1m[PARTY][0m Roken joins the party.[0m
+[12:34] [0mMugen [Jedi(Knight)]: no kink shaming from us[0m
+[12:34] [0mMugen [Jedi(Knight)]: wl[0m
+[12:34] [0mMugen [Jedi(Knight)]: wow[0m
+[12:34] [0mSimonz [Jedi(34)]: is there a timer limit on how often I can use clear mind?[0m
+[12:34] [0mUkyo [Jedi(73)]: once per round?[0m
+[12:34] [0mUkyo [Jedi(73)]: assuming ri doesn't trigger first from ... reflex[0m
+[12:34] [0mMugen [Jedi(Knight)]: can only heal once, either hp or sp[0m
+[12:34] [0mMugen [Jedi(Knight)]: per round[0m
+[12:35] [0mMugen [Jedi(Knight)]: so set panic to go first for RI, at beginning of[0m
+[12:35] [0m                      round, then clear mind can fire without getting you[0m
+[12:35] [0m                      killed[0m
+[12:35] [0mSimonz [Jedi(34)]: ahh, ok[0m
+[12:35] [0mMugen [Jedi(Knight)]: is my thought, on setup[0m
+[12:39] [0mnewb Whoknows [priest/50]: is there a different cmd to look/examine stuff[0m
+[12:39] [0m                           that's on the ground, instead of it defaulting to[0m
+[12:39] [0m                           your inventory?[0m
+[12:39] [0mnewb Raest [cyborg/134]: exa [item] on ground[0m
+[12:39] [0mnewb Gore [necromancer/134]: you can try 'look <blah> in room' or 'look[0m
+[12:39] [0m                             <blah> on ground'[0m
+[12:39] [0mnewb Ukyo [jedi/100]: on ground[0m
+[12:39] [0mnewb Whoknows [priest/50]: thanks![0m
+[12:39] [0mnewb Ukyo [jedi/100]: common problem with jedi and crystals[0m
+[12:39] [0mnewb Raest [cyborg/134]: or invest in mskill smuggle.  then you put your[0m
+[12:39] [0m                         item away and then it'll default to ground[0m
+[12:40] [0mnewb Ukyo [jedi/100]: can't smuggle the gobj, unfortunately[0m
+[12:52] [0m[33;1m[PARTY][0m Roken is being booted from the party.[0m
+[12:54] [0m[32mSer tells you:[0m go kill stuff[0m
+[13:02] [0m[32mYou tell Ser:[0m tact adv ended. what that mean?[0m
+[13:02] [0m[32;1mFrom afar, you nudge Ser.[0m[0m
+[13:02] [0m[32mSer tells you:[0m your "Tactician" profession "procs"[0m
+[13:03] [0m[32mSer tells you:[0m try profhelp[0m
+[13:25] [0m[32mSer tells you:[0m ezekiel 4:9[0m
+[13:25] [0m[32mSer tells you:[0m "sprouted grain" cereal[0m
+[13:36] [0mScadar flaps : Everyone's has to get a piece of the pie.[0m
+[14:26] [0m[32mSer tells you:[0m yo[0m
+[14:26] [0m[32mSer tells you:[0m just got back[0m
+[14:31] [0m[32mYou tell Ser:[0m you just get back?[0m
+[14:31] [0m[32mSer tells you:[0m yah 5 mins ago (see the timestamp)[0m
+[14:32] [0m[32mYou tell Ser:[0m out at the garage it is 420 time[0m
+[14:32] [0m[32;1mFrom afar, Ser laffs at you![0m[0m
+[14:32] [0m[32mYou tell Ser:[0m not partaking[0m
+[14:32] [0m[32;1mFrom afar, Ser nods to you.[0m[0m
+[14:33] [0m[32mSer tells you:[0m you should go to smurfs[0m
+[14:33] [0m[32mSer tells you:[0m plus it's a lot closer to your guild[0m
+[14:33] [0m[32;1mFrom afar, Ser goes "Heh heh heh" at you.[0m[0m
+[14:39] [0m[32mMerribeth says: [0mIf you have any questions, please 'inquire'.[0m
+[14:39] [0m                I am here to answer all of your questions[0m
+[14:41] [0m[32mMerribeth says: [0mIf you have any questions, please 'inquire'.[0m
+[14:41] [0m                I am here to answer all of your questions[0m
+[14:45] [0mJenna says: Welcome to my shop, Roken.[0m
+[15:00] [0mUkyo [Jedi(73)]: wow. gear makes a world of difference...[0m
+[15:05] [0mUkyo [Jedi(73)]: Oyasuminasai[0m
+[15:25] [0m[34;1mBarian shouts:[0m Moo[0m
+[15:25] [0m[34;1mKrom shouts:[0m Oprah?[0m
+[15:27] [0m[34;1mTex shouts:[0m NO[0m
+[15:28] [0m[34;1mBarian shouts:[0m have you tried turning it off and back on again?[0m
+[15:36] [0m[34;1mCrolack shouts:[0m some of you never played in the street before and it shows.[0m
+[15:37] [0m[34;1mNightrider shouts:[0m Ive played stepball[0m
+[15:37] [0m[34;1mTex shouts:[0m downgraded[0m
+[15:37] [0m[34;1mBarian shouts:[0m you mean kill the guy, tackle football on cement. sure have[0m
+[15:39] [0m[34;1mScadar shouts:[0m Beware the human apocalypse![0m
+[15:39] [0m[34;1mEli shouts:[0m the humans are coming! the humans are coming![0m
+[15:39] [0m[34;1mTex shouts:[0m demons are not the apocalypse cause we are![0m
+[15:40] [0m[34;1mNik shouts:[0m huemons?[0m
+[15:40] [0m[34;1mScadar shouts:[0m Umies.[0m
+[15:45] [0m[32mYou tell Ser:[0m hi[0m
+[15:46] [0m[32mYou tell Ser:[0m yay for lte[0m
+[15:47] [0m[32mYou tell Ser:[0m hello?[0m
+[15:50] [0m[32;1mFrom afar, Sock nods to you.[0m[0m
+[15:50] [0m[32mSock tells you:[0m what isp[0m
+[15:51] [0m[32mYou tell Sock:[0m comcaat[0m
+[15:51] [0m[32;1mFrom afar, Sock nods to you.[0m[0m
+[16:05] [0m[32mYou tell Sock:[0m afk?[0m
+[16:05] [0m[32mSock tells you:[0m no?[0m
+[16:05] [0m[32mYou tell Sock:[0m calling on steam[0m
+[16:06] [0m[32mSock tells you:[0m watching one punch man[0m
+[16:06] [0m[32mYou tell Sock:[0m youtube brian quinn when a man loves a woman[0m
+[16:08] [0m[32mSer tells you:[0m go fight shit[0m
+[16:15] [0m[34;1mXiu shouts:[0m when i was a kid the best online games were all text and no[0m
+[16:15] [0m            graphics. now that i'm an old man... 3k is still the best.[0m
+[16:16] [0m[34;1mRaest shouts:[0m and that your isp restrictions have no part of your decision?[0m
+[16:17] [0m[34;1mXiu shouts:[0m yeah i wouldn't really even want to try a higher bandwidth game[0m
+[16:19] [0m[34;1mTex shouts:[0m so when he was a baby dino it was ms dos and text based games[0m
+[16:19] [0m            now hes full grown raptor and its windows 10 graphics and text[0m
+[16:19] [0m            based games still in mommas basements[0m
+[16:21] [0m[32mSlimy says: [0mYou have any Kleenex? I ran out a few years ago.[0m
+[16:21] [0m[32mYou tell Sock:[0m htf i get out of this forest[0m
+[16:21] [0m[32mSlimy says: [0mWatch your step, I wouldn't want you to slip.[0m
+[16:22] [0m[32mSock tells you:[0m go the way you came[0m
+[16:26] [0m[34;1mTex shouts:[0m who knew the moron who knows did[0m
+[16:28] [0m[32mSer tells you:[0m kill the stuff in here[0m
+[16:28] [0m[32mYou tell Ser:[0m my saber broke[0m
+[16:30] [0m[34;1mXiu shouts:[0m it's best to kill monsters, rather than yourself.[0m
+[16:32] [0mRoken [Jedi(13)]: I'm lost in the chaos/forest/smurf village. I need back to[0m
+[16:32] [0m                  Jedi guild to repair saber, please[0m
+[16:33] [0m[32mSer tells you:[0m go fix it[0m
+[16:33] [0mSaim [Jedi(Master)]: try to go as north as you can[0m
+[16:35] [0m[32mElf says: [0mErnie loves stripes on his cookies.[0m
+[16:37] [0m[32mKid says: [0mMmmm Mmmm... GOOD![0m
+[16:37] [0mLicklick [Jedi(33)]: i kill a 86k in 213 rounds right but i kill a 85k in 71[0m
+[16:37] [0m                     rounds, im confused[0m
+[16:37] [0m[32mKid says: [0mMmmm Mmmm... GOOD![0m
+[16:37] [0m[32mKid says: [0mMmmm Mmmm... GOOD![0m
+[16:38] [0m[32mSprout says: [0mI am going to grow up and be the next Jolly Green Giant.[0m
+[16:39] [0m[32mSprout says: [0mI love green beans.[0m
+[16:39] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:39] [0m[32mCow says: [0mPsst! Pass it on![0m
+[16:40] [0m[32mSnuggles says: [0mSnuggley soft! Snuggley soft![0m
+[16:41] [0m[34;1mCrolack shouts:[0m When a problem comes along, you must fluffy it. Fluffy it,[0m
+[16:41] [0m                fluffy it good.[0m
+[16:41] [0m[34;1mFluffy shouts:[0m damn you, you sissies![0m
+[16:41] [0mFluffy flaps : i mean damn right, you sissies![0m
+[16:41] [0mRoken [Jedi(13)]: went north a bunch and found a grocery store[0m
+[16:42] [0m[32mRabbit says: [0mThis disguise will fool them.[0m
+[16:42] [0mArchimedes [Jedi(Legend)]: Go back south until you find the vortex.[0m
+[16:43] [0mRoken [Jedi(13)]: funny to see bill cosby[0m
+[16:44] [0mLicklick [Jedi(33)]: ikr[0m
+[16:44] [0m[32mBlonde says: [0mHow do you get your hair to... go like that?[0m
+[16:44] [0m[32mBrunette says: [0mSuave shampoo![0m
+[16:44] [0mRoken [Jedi(13)]: jay leno srsly[0m
+[16:44] [0m[32mBrunette says: [0mSuave shampoo![0m
+[16:44] [0m[32mSprout says: [0mI love green beans.[0m
+[16:45] [0m[32mRabbit says: [0mThis disguise will fool them.[0m
+[16:45] [0m[32mRabbit says: [0mRaspberry red, lemon yellow, orange orange![0m
+[16:45] [0mLicklick [Jedi(33)]: heh heh[0m
+[16:45] [0m[32mGirl says: [0mSilly rabbit, Trix are for kids![0m
+[16:45] [0m[32mGirl says: [0mSilly rabbit, Trix are for kids![0m
+[16:45] [0m[34;1mNightrider shouts:[0m That got Nixed, back to the drawing board[0m
+[16:51] [0m[32mCow says: [0mPsst! Pass it on![0m
+[16:51] [0;33mpeople saying that Ray Charles is supposed to be here.  You[0m
+[16:52] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:52] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:52] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:52] [0m[32mYou tell Ser:[0m this is painful to my ability to navigate[0m
+[16:52] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:52] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:53] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:53] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:53] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:54] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:54] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:54] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:56] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:56] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:56] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:57] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:58] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:58] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:59] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:59] [0m[32;1mFrom afar, Ser pats you on the head.[0m[0m
+[16:59] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:59] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[16:59] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:00] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:00] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:01] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:02] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:02] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:02] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:03] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:04] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:04] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:04] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:04] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:05] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:05] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:06] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:06] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:06] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:06] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:07] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:07] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:07] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:08] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:08] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:08] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:08] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:09] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:09] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:09] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:10] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:10] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:10] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:11] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:11] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:11] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:12] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:12] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:12] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:13] [0m[32mSer tells you:[0m fkin love one punch man[0m
+[17:13] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:13] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:13] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:14] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:15] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:15] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:15] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:16] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:17] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:17] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:17] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:19] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:19] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:20] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:20] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:20] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:20] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:20] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:22] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:22] [0m[34;1mTurnhold shouts:[0m Taco flavored kisses for my bots.[0m
+[17:22] [0m[34;1mNauda shouts:[0m Ser, you have been Ser-ved[0m
+[17:22] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:22] [0m[34;1mNik shouts:[0m playcult or tacos will eat you, along side j lo[0m
+[17:22] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:22] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:22] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:22] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:23] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:23] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:23] [0m[32mJay says: [0mCrunch all you want. We'll make more.[0m
+[17:24] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:24] [0m[32mVoice says: [0mNo more tears![0m
+[17:24] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:24] [0m[32mVoice says: [0mWhy would you use an adult shampoo on a baby?[0m
+[17:24] [0m[32mVoice says: [0mWhy would you use an adult shampoo on a baby?[0m
+[17:24] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:24] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:24] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:24] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:25] [0m[32mVoice says: [0mNo more tears![0m
+[17:25] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:25] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:26] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:26] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:27] [0m[32mVoice says: [0mNo more tears![0m
+[17:27] [0m[32mVoice says: [0mNo more tears![0m
+[17:27] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:28] [0m[32mVoice says: [0mNo more tears![0m
+[17:28] [0m[32mVoice says: [0mNo more tears![0m
+[17:28] [0m[32mVoice says: [0mWhy would you use an adult shampoo on a baby?[0m
+[17:28] [0m[32mVoice says: [0mWhy would you use an adult shampoo on a baby?[0m
+[17:28] [0m[32mVoice says: [0mNo more tears![0m
+[17:29] [0m[32mVoice says: [0mWhy would you use an adult shampoo on a baby?[0m
+[17:29] [0m[32mVoice says: [0mA child needs Johnson and Johnson's Baby Shampoo.[0m
+[17:29] [0m[32mVoice says: [0mNo more tears![0m
+[17:29] [0m[32mLady says: [0mCash, check, or charge, honey?[0m
+[17:31] [0m[32mYou tell Ser:[0m please guide me out of this hell[0m
+[17:35] [0m[32mSer tells you:[0m sigh that means i need to get up[0m
+[18:00] [0m[34;1mNauda shouts:[0m Help me, I need a Lamborghini![0m
+[18:00] [0m[34;1mRaest shouts:[0m a Labourgotti Fasterosa![0m
+[18:00] [0m[34;1mRaest shouts:[0m or a domestic muscle card, like a ThunderCougerFalconBird![0m
+[18:01] [0m[34;1mFluffy shouts:[0m i want a chevelephant![0m
+[18:03] [0m[32mSer tells you:[0m fuck next episode isn't out until the 22nd[0m
+[18:03] [0m[32mSer tells you:[0m any suggestions on good anime[0m
+[18:04] [0m[34;1mTex shouts:[0m bacon cheese burger home made  nom nom nom[0m
+[18:05] [0m[34;1mTex shouts:[0m bacon cheese burger home made  nom nom nom[0m
+[18:06] [0m[34;1mDin shouts:[0m i've got five guys on the way.    hope they bring burgers[0m
+[18:06] [0m[32mSer tells you:[0m http://duroyprofundo.com/3k/Maps.html[0m
+[18:12] [0m[34;1mTex shouts:[0m someone send me a mountain dew red so i can get this grease[0m
+[18:12] [0m            taste out of my mouth. I'm drooling for more bacon![0m
+[18:14] [0m[32mCK30 says: [0mHello Roken!                                                    [0m
+[18:18] [0mSquirrel flaps : whoever gave a contract to keith sweat should be drawn and[0m
+[18:18] [0m                 quartered[0m
+[18:22] [0m[34;1mXiu shouts:[0m that's... not very helpful[0m
+[18:46] [0mWhoknows {Professions}: anyone a have trapper as a major?[0m
+[19:39] [0m[32mYou say:[0m hi smurf[0m
+[19:45] [0m[32;1mFrom afar, Ser goes 'Woo Woo!' at you.[0m[0m
+[19:53] [0mSquirrel flaps : if anyone is looking for an ssq, there are two of them on[0m
+[19:53] [0m                 the ground[0m
+[19:53] [0mSquirrel flaps : bindy[0m
+[19:54] [0m[32mYou say:[0m  you are bleeding asshole[0m
+[19:55] [0mMugen [Jedi(Knight)]: shortsword of quickness[0m
+[19:55] [0mMugen [Jedi(Knight)]: wl[0m
+[19:59] [0m[32mSer tells you:[0m i had salad in the fridge[0m
+[19:59] [0m[32mSer tells you:[0m so salad + chicken breast + bacon + cheese[0m
+[19:59] [0m[32mYou tell Ser:[0m lol great meal right there! you order a pizza?[0m
+[20:00] [0m[32mSer tells you:[0m nah[0m
+[20:00] [0m[32mYou say:[0m  ser order out?[0m
+[20:00] [0m[32mSer tells you:[0m ' = say[0m
+[20:01] [0m[32mYou tell Ser:[0m order out? what id do then realize i have food[0m
+[20:01] [0m[32mSer tells you:[0m yeah if i stare in the fridge long enough i realize i[0m
+[20:01] [0m        bought groceries[0m
+[20:02] [0m[32mSer tells you:[0m not all signs identify as plaques and vice versa[0m

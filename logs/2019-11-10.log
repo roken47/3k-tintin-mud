@@ -1,0 +1,440 @@
+- = LOG STARTED [00:00] = -
+[06:49] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[07:25] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[07:48] [0mNightrider flaps : Vagrant, if you wanted Chiniese, you dont have to go all the way to China for[0m
+[07:48] [0m                   it[0m
+[07:48] [0mNauda flaps : in soviet 3k, Chinese comes to you[0m
+[07:58] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[08:00] [0mYour transmuter's stone bursts with 5 new colours![0m
+[08:12] [0m[33;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[08:18] [0m[32mTurnhold tells you:[0m morning[0m
+[08:19] [0m[32mTurnhold tells you:[0m this is your Sunday morning botcheck.[0m
+[08:22] [0m[33;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[08:22] [0m[32mYou tell Turnhold:[0m mornign[0m
+[08:22] [0m[32;1mFrom afar, Turnhold happyclaps at you! *clapclappityclap*[0m[0m
+[08:22] [0m[32mYou tell Turnhold:[0m sunday funday![0m
+[08:34] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[08:48] [0m[34;1mTony shouts:[0m stats are ueless!![0m
+[08:48] [0m[34;1mSpun shouts:[0m i'll take yours[0m
+[09:00] [0mYour transmuter's stone bursts with 5 new colours![0m
+[09:02] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[09:07] [0mLeianne flaps : I was bogged from 'wrongness in fabric space' error this morning when no wiz was[0m
+[09:07] [0m                around and had to relogin. then I discovered that the 2 legendary potion of[0m
+[09:07] [0m                experience were refilled from the relogin. Is that considered a bug or it's[0m
+[09:07] [0m                designed to be that way to offer consulation from lost stats boost?[0m
+[09:08] [0mLeianne flaps : both potions are world drop and will last for another 6 and 8 boots[0m
+[09:08] [0mNauda flaps : did you check if potions lost 1 boot charge?[0m
+[09:08] [0mLeianne flaps : still have them in my inventory if any wiz want to take a look.. no didn't check[0m
+[09:09] [0mLeianne flaps : it just said Iwill have it till boot #1824 and #1826[0m
+[09:09] [0mParzival flaps : want me to drink them and let you know what happens?[0m
+[09:09] [0mNauda flaps : I noticed that too, but didn't have time to check, since it was 20 seconds before[0m
+[09:09] [0m              reboot, I went ld, and was force logout[0m
+[09:10] [0mLeianne flaps : didn't want to drink it as Ialready drank earlier this boot.. and Frank will[0m
+[09:10] [0m                most probably kill me if that's a bug[0m
+[09:10] [0mNauda flaps : also when I accidentally dropped 2 world drop potions I had then did get all, 2nd[0m
+[09:10] [0m              dested, and didn't load after that, maybe you are not expected to be able to have[0m
+[09:10] [0m              2[0m
+[09:11] [0mLeianne flaps : they are different color and type[0m
+[09:11] [0mNauda flaps : if frank killed everyone for every bug, we'd be permanently dead[0m
+[09:11] [0mNauda flaps : mine were different colors too[0m
+[09:11] [0mLeianne flaps : one tin flask and one brass flask. so they don't blow up another[0m
+[09:11] [0mNauda flaps : what do you mean type?[0m
+[09:11] [0mNauda flaps : drop them and pick up if you want to find out[0m
+[09:12] [0mLeianne flaps : heh. I just heard Frank killing people for abusing bugs just a few days ago[0m
+[09:15] [0mLeianne flaps : nope. tin flask not blowing up brass flask. just dropped and picked. still[0m
+[09:15] [0m                there.[0m
+[09:16] [0mKitt flaps : they will help you out lei,[0m
+[09:16] [0mKitt flaps : abusing bugs and trying to get one fixed are 2 different things[0m
+[09:18] [0mLeianne flaps : would be a consulation if they are designed this way. lost stats boost from[0m
+[09:18] [0m                double kayos but then exp boost for 2 hours..[0m
+[09:18] [0mLeianne flaps : maybe tripple. I empowered then ld, came back and there were another one.. all[0m
+[09:18] [0m                stacked up[0m
+[09:20] [0m[34;1mKitt shouts:[0m WOOO KENNY GLVLED![0m
+[09:20] [0m[34;1mTony shouts:[0m they didn't kill kenny??[0m
+[09:20] [0m[34;1mKenny shouts:[0m best glvl evar[0m
+[09:27] [0mByron flaps : Did that death taco bug prevent you from doing something or interacting w/[0m
+[09:27] [0m              anything in your inventory?  Or just annoying?[0m
+[09:27] [0mLeianne flaps : all armour removed and cannot wear[0m
+[09:27] [0m[34;1mTex shouts:[0m 99 hits on a golem take one a away pass it along 98 hits on a golem[0m
+[09:28] [0mLeianne flaps : basically forced to fight naked, which will have me killed[0m
+[09:28] [0mByron flaps : I see.  Sounds like an issue w/ the guacamole?[0m
+[09:28] [0mLeianne flaps : well, guacamole bug rather than dtaco[0m
+[09:29] [0mLeianne flaps : last boot was from death taco, this boot is actuall from guacamole[0m
+[09:29] [0mByron flaps : Lime will get to it after he fixed knights :P[0m
+[09:29] [0mByron flaps : It's definitely tied to the special then.  Since dtaco has that special as well[0m
+[09:30] [0mLeianne flaps : just have to remember to not have any aura, or generated force field I guess[0m
+[09:30] [0mByron flaps : Just an idea...maybe re-sacrifice something and see if you can wear it again?[0m
+[09:30] [0mTurnhold flaps : check yer sac, bro.[0m
+[09:30] [0mKitt flaps : I did, they full haning low[0m
+[09:30] [0mKenny flaps : can i? thanks TH[0m
+[09:31] [0mNauda flaps : I haven't stopped checking[0m
+[09:31] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[09:32] [0mLeianne flaps : yes. I had treatment effect still but I killed dtaco with that and didn't cause[0m
+[09:32] [0m                any issue. think is the aura[0m
+[09:33] [0mLeianne flaps : I relogin, still the same items in the sack, still kill 2 more dtaco without[0m
+[09:33] [0m                wrongness of fabric space error. maybe just coincident[0m
+[09:34] [0m[34;1mTex shouts:[0m The Golem SMASHES you so hard your whole family hurts!! reminds of a fat mamma joke[0m
+[09:46] [0m[34;1mKitt shouts:[0m Ok who's Da Botz?[0m
+[09:47] [0m[34;1mKitt shouts:[0m You Da Bot?[0m
+[09:47] [0m[34;1mByron shouts:[0m beep[0m
+[09:59] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[10:00] [0mYour transmuter's stone bursts with 6 new colours![0m
+[10:25] [0m[37;1mMartyr <.oO>:[0m anyone have a res left?[0m
+[10:38] [0mnewb Sandon [changeling/9]: it keeps thinking I typed me. Can someone help?[0m
+[10:38] [0mnewb Krataok [gentech/59]: What are you trying to do[0m
+[10:38] [0mnewb Vang [cleric/33]: What seems to be the problem?[0m
+[10:39] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[10:39] [0mnewb Sandon [changeling/9]: it keeps saying there is no reason to me here, but I'm not typing[0m
+[10:39] [0m                            that.[0m
+[10:39] [0mnewb Vang [cleric/33]: what client are you using?[0m
+[10:39] [0mnewb Vang [cleric/33]: and check your aliases[0m
+[10:39] [0mnewb Stormy [changeling/82]: did you accidentally set up some alias[0m
+[10:39] [0mnewb Sandon [changeling/9]: still happening, no idea what to do it's spamming up my window.[0m
+[10:39] [0mnewb Destructor [cyborg/60]: and have you made any aliases[0m
+[10:40] [0mnewb Krataok [gentech/59]: Maybe a trigger?[0m
+[10:40] [0mnewb Sandon [changeling/9]: only one, somehow the command l was changed to me.[0m
+[10:40] [0mnewb Martyr [gentech/115]: look at me look at me[0m
+[10:40] [0mnewb Sandon [changeling/9]: why would I use a trigger? Those are elegal![0m
+[10:41] [0mnewb Martyr [gentech/115]: triggers are allowed on 3k[0m
+[10:41] [0mnewb Sandon [changeling/9]: nothing works. I'm screwed.[0m
+[10:41] [0mnewb Al [changeling/135]: not quite.  where are you[0m
+[10:42] [0mnewb Kitt [priest/132]: your wifes house Al[0m
+[10:42] [0mnewb Sandon [changeling/9]: worst part is last time I played on here, it was fixed, it'd been[0m
+[10:42] [0m                            happening before. Now I come on and it's happening again. What on[0m
+[10:42] [0m                            earth?[0m
+[10:45] [0mnewb Sandon [changeling/9]: Aaarrgh! This is endless! Arrggh![0m
+[10:45] [0mnewb Inix [juggernaut/138]: remove the alias that has l send me...[0m
+[10:46] [0mnewb Sandon [changeling/9]: what the frig? I typed alias and it vanished[0m
+[10:47] [0mnewb Sandon [changeling/9]: finally[0m
+[10:47] [0mnewb Sandon [changeling/9]: yeah. Really weird though.[0m
+[10:50] [0mnewb Al [changeling/135]: i'm sure there's a good reason for it[0m
+[11:01] [0mYour transmuter's stone bursts with 5 new colours![0m
+[11:04] [0mnewb Sandon [changeling/9]: me's back, how do I remove aliases?[0m
+[11:04] [0mnewb Quaritch [juggernaut/95]: ralia[0m
+[11:04] [0mnewb Al [changeling/135]: ralias[0m
+[11:04] [0mnewb Quaritch [juggernaut/95]: ralias[0m
+[11:05] [0mnewb Sandon [changeling/9]: ralias all doesn't work[0m
+[11:05] [0mnewb Stormy [changeling/82]: ya have to do each individually[0m
+[11:05] [0mnewb Al [changeling/135]: nod, you have to do each one[0m
+[11:05] [0mnewb Sandon [changeling/9]: I got rid've all've em, and it still does it.[0m
+[11:06] [0mnewb Kombat [android/47]: repeat? guild repeat?[0m
+[11:06] [0mnewb Al [changeling/135]: yup.  what's your instinct say in gs[0m
+[11:06] [0mnewb Al [changeling/135]: 'gs'[0m
+[11:06] [0mnewb Sandon [changeling/9]: nothing set up[0m
+[11:06] [0mnewb Al [changeling/135]: you'll see instinct perform and instinct2[0m
+[11:06] [0mnewb Al [changeling/135]: reflex stop[0m
+[11:06] [0mnewb Al [changeling/135]: try that[0m
+[11:07] [0mnewb Sandon [changeling/9]: nothing works[0m
+[11:07] [0mnewb Al [changeling/135]: what do you see?[0m
+[11:07] [0mnewb Sandon [changeling/9]: there is no reason to me here[0m
+[11:07] [0mnewb Gaidin [gentech/131]: "repeat off"[0m
+[11:08] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[11:08] [0mnewb Sandon [changeling/9]: didn't help[0m
+[11:08] [0mnewb Al [changeling/135]: where are you?[0m
+[11:09] [0mnewb Sandon [changeling/9]: outside the united nations building in manhattan[0m
+[11:09] [0mnewb Sandon [changeling/9]: it stopped now, somehow[0m
+[11:09] [0mnewb Al [changeling/135]: come to town[0m
+[11:09] [0mnewb Sandon [changeling/9]: it's fine now[0m
+[11:10] [0mnewb Al [changeling/135]: yeah, but if you're having continual problems, lets pinpoint those[0m
+[11:10] [0m                          problems[0m
+[11:10] [0mnewb Al [changeling/135]: so you're not spamming the line about how nothing works[0m
+[11:10] [0mnewb Sandon [changeling/9]: let's see if they come back, first.[0m
+[11:10] [0mnewb Sandon [changeling/9]: I've gotta go, anyway.[0m
+[11:10] [0mnewb Al [changeling/135]: welp, i tried.  good luck homey[0m
+[11:11] [0mnewb Sandon [changeling/9]: next time I come on I'll figure this out[0m
+[11:11] [0mnewb Al [changeling/135]: gluck w/that[0m
+[11:11] [0mnewb Sandon [changeling/9]: I really do have to go. I just thought about it.[0m
+[11:12] [0mnewb Al [changeling/135]: nod, i have to get to the gym in 26 minutes, myself[0m
+[11:36] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[11:58] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[12:01] [0mYour transmuter's stone bursts with 6 new colours![0m
+[12:21] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Deserts of Fantasy![0m
+[12:21] [0m                          We are localizing it now - get ready![0m
+[12:23] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[12:28] [0m[34;1mKitt shouts:[0m event time you Botz[0m
+[12:29] [0m[34;1mWilhelm shouts:[0m I thought I was going to have an event this morning but I mostly just broke wind[0m
+[12:29] [0m                loudly into the porcelain amplifier.  My wife was less amused than I.[0m
+[12:34] [0m[34;1mWilhelm shouts:[0m It appears that they're radioactive.  It's a good thing I turned my scaler down.[0m
+[12:34] [0m[34;1mInago shouts:[0m Gross[0m
+[12:34] [0m[34;1mKitt shouts:[0m event portal 5 w 1 s[0m
+[12:36] [0mKitt flaps : event portal desert portal 5 w 1 s radioactive dng[0m
+[12:49] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[13:01] [0mYour transmuter's stone bursts with 3 new colours![0m
+[13:22] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[13:29] [0m[34;1mKitt shouts:[0m Frustrated Dies, and youre next[0m
+[13:33] [0m[34;1mNauda shouts:[0m Can I just die and skip the Frustrating part?[0m
+[13:55] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[14:00] [0m[34;1mChidori shouts:[0m This is a test of the shout ansi system. if this had been an actual ansi alert,[0m
+[14:00] [0m                it would have been *beep*[0m
+[14:01] [0mYour transmuter's stone bursts with 5 new colours![0m
+[14:19] [0mNauda flaps : this what the cause you can't wear anything after death tacos[0m
+[14:19] [0m              https://tinyurl.com/death-tacos[0m
+[14:23] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[14:47] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[14:51] [0m[35;1mOlorin [Jedi(28)]:[0m could somebody teach me a few pls?[0m
+[14:52] [0m[35;1mOlorin [Jedi(28)]:[0m anyone?[0m
+[14:53] [0m[35;1mGilgalal [Jedi(71)]:[0m I can in a few mins[0m
+[14:53] [0m[35;1mOlorin [Jedi(28)]:[0m thanks[0m
+[15:01] [0mYour transmuter's stone bursts with 6 new colours![0m
+[15:06] [0m[35;1mLicklick [Jedi(44)]:[0m im not used to pulling this much xp, im always in debt[0m
+[15:07] [0m[35;1mRoken [Jedi(70)]:[0m tried to kill fondon have ya?[0m
+[15:08] [0m[35;1mLicklick [Jedi(44)]:[0m not on purpose[0m
+[15:08] [0m[35;1mOlorin [Jedi(28)]:[0m time to playanother char for the rest of the boot :P[0m
+[15:10] [0m[33;1m[Clan] Archangel :[0m crypt north of resid[0m
+[15:10] [0m[33;1m[Clan] Mud :[0m oo, just got on[0m
+[15:14] [0m[33;1m[Clan] Mud :[0m hopefully doesnt bard break[0m
+[15:16] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[15:18] [0m[33;1m[Clan] Xaryl :[0m yeah?[0m
+[15:19] [0m[33;1m[Clan] Xaryl :[0m yeah?[0m
+[15:19] [0m[33;1m[Clan] Phenom :[0m yeah nah![0m
+[15:20] [0m[34;1mKitt shouts:[0m wasnt me[0m
+[15:23] [0m[33;1m[Clan] Mud :[0m you didnt get tag nix?[0m
+[15:23] [0m[33;1m[Clan] Nix :[0m nope[0m
+[15:23] [0m[33;1m[Clan] Mud :[0m i can go another round, lemme dupe this quick[0m
+[15:23] [0m[33;1m[Clan] Mud :[0m i can go another round, lemme dupe this quick[0m
+[15:23] [0m[33;1m[Clan] Byron :[0m i can do again[0m
+[15:23] [0m[33;1m[Clan] Xaryl :[0m I can do again also[0m
+[15:23] [0m[33;1m[Clan] Nix :[0m i'll ewell it[0m
+[15:24] [0m[33;1m[Clan] Mud :[0m omw[0m
+[15:25] [0m[34;1mSpace shouts:[0m last chance to dup day 7 wont be around for the next few hours[0m
+[15:26] [0m[33;1m[Clan] Mud :[0m byron, you here?[0m
+[15:29] [0m[33;1m[Clan] Xaryl :[0m ya'll want Ftouches?[0m
+[15:29] [0m[33;1m[Clan] Mud :[0m sure, why not[0m
+[15:30] [0m[33;1m[Clan] Xaryl :[0m anyone else?[0m
+[15:41] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[16:02] [0m[34;1mPypo shouts:[0m by chance, if anyone has time, can they train me in some dodging mskills?[0m
+[16:03] [0mYour transmuter's stone bursts with 2 new colours![0m
+[16:07] [0m[33;1m[Clan] Xaryl :[0m the special the cmc has to heal liek 20k HP overmax is just a GXP stealer[0m
+[16:07] [0m[33;1m[Clan] Nix :[0m laf[0m
+[16:07] [0m[33;1m[Clan] Xaryl :[0m I still have not used up all the overmax from doing the 2nd day 7[0m
+[16:09] [0m[33;1m[Clan] Mud :[0m heh, nice[0m
+[16:09] [0m[33;1m[Clan] Mud :[0m i had 700m'ish listed on '[0m
+[16:09] [0m[33;1m[Clan] Mud :[0m xp for awhile[0m
+[16:09] [0m[33;1m[Clan] Mud :[0m still at 450m[0m
+[16:09] [0m[33;1m[Clan] Xaryl :[0m a 30min reset?[0m
+[16:10] [0m[33;1m[Clan] Mud :[0m hmm, its been longer than 30m.  i went straight to zombies, so must be keeping the[0m
+[16:10] [0m             rate up[0m
+[16:10] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[16:10] [0m[33;1m[Clan] Phenom :[0m 21.1M, watch out world![0m
+[16:10] [0m[33;1m[Clan] Mud :[0m and embiggen/guac/etc prolly chewing through mobs[0m
+[16:10] [0m[33;1m[Clan] Xaryl :[0m nod[0m
+[16:11] [0m[33;1m[Clan] Mud :[0m 20m isnt too bad.   i remember thinking id never hit lvl 50 to create an alt[0m
+[16:14] [0m[34;1mNauda shouts:[0m Special needs party![0m
+[16:15] [0m[34;1mSpace shouts:[0m or specially needy party ? ;p[0m
+[16:15] [0mNauda flaps : voodoo should just remove firebat's pants[0m
+[16:20] [0m[33;1m[Clan] Ser :[0m did i miss firebat[0m
+[16:21] [0m[33;1m[Clan] Ser :[0m yah by an hr[0m
+[16:45] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[16:50] [0m[33;1m[Clan] Xaryl :[0m more corpses in[0m
+[16:56] [0m[33;1m[Clan] Byron :[0m woo[0m
+[17:03] [0mYour transmuter's stone bursts with 3 new colours![0m
+[17:15] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[17:22] [0m[5m[1m[48;5;124mYour lightsaber begins to flicker and the handle warms![0m[0m                 [0m
+[17:45] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[18:03] [0mYour transmuter's stone bursts with 2 new colours![0m
+[18:14] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[18:32] [0m[35;1mDy [Jedi(73)]:[0m Ferret screams at you "Get out of Wexsmuk that's MY CITY!!"[0m
+[18:42] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[18:56] [0mKitt flaps : 91 An intricate digital key.[0m
+[18:56] [0mNauda flaps :  1 million dollars[0m
+[18:57] [0mStasis flaps : I am Kitt, KittClortho, Keymaster of Gozer...Volguus Zildrohoar, Lord of the[0m
+[18:57] [0m               Seboullia. are you the Gatekeeper?[0m
+[19:04] [0mYour transmuter's stone bursts with 3 new colours![0m
+[19:12] [0m[35;1mLicklick [Jedi(44)]:[0m now i get it when u say when the saber mastery gets too high and consumes[0m
+[19:12] [0m                     too much[0m
+[19:13] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[19:13] [0m[35;1mLicklick [Jedi(44)]:[0m i use a fourth per round of concentration than what i used too[0m
+[19:18] [0mDy flaps : I'm replacing you all with popcorn. Start popping![0m
+[19:19] [0mNauda flaps : pop harder![0m
+[19:20] [0mDy flaps : My grandma can pop better than that![0m
+[19:26] [0mNik flaps : pop like you mean it[0m
+[19:33] [0m[33;1m[Clan] Ser :[0m anyone need day 7?[0m
+[19:35] [0m[33;1m[Clan] Ser :[0m or willing to help me[0m
+[19:36] [0m[33;1m[Clan] Xaryl :[0m do not need, but willing to help[0m
+[19:37] [0m[33;1m[Clan] Ser :[0m cool[0m
+[19:37] [0m[33;1m[Clan] Xaryl :[0m never tried w/out embiggen.....will be fun[0m
+[19:38] [0m[33;1m[Clan] Ser :[0m anyone else willing to help[0m
+[19:40] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[19:43] [0m[33;1m[Clan] Ser :[0m nik if there was a jawbone involved would you come[0m
+[19:44] [0m[34;1mKitt shouts:[0m All Hail MegaTron[0m
+[19:44] [0m[33;1m[Clan] Ser :[0m buncha idlers[0m
+[19:45] [0m[33;1m[Clan] Roken :[0m yep[0m
+[19:45] [0m[33;1m[Clan] Ser :[0m you'd join roken?[0m
+[19:45] [0m[33;1m[Clan] Roken :[0m hell why not[0m
+[19:46] [0m[33;1m[Clan] Roken :[0m going to repair saber and meet at ss?[0m
+[19:46] [0m[33;1m[Clan] Ser :[0m it's gonna be a bit before i round up enough people[0m
+[19:46] [0m[33;1m[Clan] Roken :[0m ok i'll mine[0m
+[19:46] [0m[33;1m[Clan] Ser :[0m need 6+, and i'm not sure if 2 people will survive, so we need like 8+[0m
+[19:47] [0m[33;1m[Clan] Nik :[0m haha that might help a lil, but i imagine itll kill me[0m
+[19:47] [0m[33;1m[Clan] Ser :[0m at 4 right now, with 2 unsure of survival..  if i get nix & nik we'll be 3/6, if[0m
+[19:47] [0m             voodoo comes 4/7[0m
+[19:47] [0m[33;1m[Clan] Ser :[0m it'll be undead[0m
+[19:47] [0m[33;1m[Clan] Ser :[0m if that counts @nik[0m
+[19:47] [0m[33;1m[Clan] Nik :[0m haha, a 200m undead?[0m
+[19:48] [0m[33;1m[Clan] Ser :[0m prolly like 1.5bil[0m
+[19:48] [0m[33;1m[Clan] Nik :[0m lafff[0m
+[19:48] [0m[33;1m[Clan] Ser :[0m c'mooon[0m
+[19:48] [0m[33;1m[Clan] Nik :[0m ill try, but it aint gonna last long![0m
+[19:49] [0m[33;1m[Clan] Ser :[0m steal some corpses from crypt, i'll start stocking it[0m
+[19:54] [0m[33;1m[Clan] Xaryl :[0m there are corpses in the Chouse[0m
+[19:54] [0m[33;1m[Clan] Nik :[0m loaded to the gill with max corpses![0m
+[19:55] [0m[33;1m[Clan] Nix :[0m hmm[0m
+[19:55] [0m[33;1m[Clan] Nix :[0m can't seem to log on through shell[0m
+[19:55] [0m[33;1m[Clan] Nix :[0m just got booted[0m
+[19:56] [0m[33;1m[Clan] Ser :[0m from parimd?[0m
+[19:56] [0m[33;1m[Clan] Nix :[0m yeah[0m
+[19:56] [0m[33;1m[Clan] Nix :[0m i just got on with yours[0m
+[19:57] [0m[33;1m[Clan] Ser :[0m sorry the beta kinda fucks w/ things[0m
+[19:57] [0m[33;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[19:57] [0m[33;1m[Clan] Ser :[0m i should make the new version named[0m
+[19:57] [0m[33;1m[Clan] Ser :[0m and leave the old one alone[0m
+[19:58] [0m[33;1m[Clan] Void :[0m that was strange, back on now[0m
+[19:58] [0m[33;1m[Clan] Void :[0m i should really just switch over to yours permanently[0m
+[20:04] [0mYour transmuter's stone bursts with 4 new colours![0m
+[20:04] [0m[35;1mDy [Jedi(73)]:[0m Murphy's Fourth Law: If there is a possibility that several things can go wrong,[0m
+[20:04] [0m               then the one that will cause the greatest damage will be the one to go wrong.[0m
+[20:06] [0m[33;1m[Clan] Ser :[0m ok nauda had jawbone and is going to sleep[0m
+[20:07] [0m[33;1m[Clan] Ser :[0m so blah on both accounts[0m
+[20:07] [0m[35;1mDy [Jedi(73)]:[0m h[0m
+[20:07] [0m[33;1m[Clan] Xaryl :[0m jawbone is a unique item?[0m
+[20:08] [0m[33;1m[Clan] Xaryl :[0m I saw space with one when we did day 7 earlier[0m
+[20:08] [0m[33;1m[Clan] Ser :[0m i dont even know if i'm naming it right[0m
+[20:08] [0m[33;1m[Clan] Ser :[0m makes enemy undead[0m
+[20:09] [0m[33;1m[Clan] Ser :[0m and yah pretty sure space gave it to nauda[0m
+[20:09] [0m[33;1m[Clan] Xaryl :[0m how do you get? or just a BIG necro thing?[0m
+[20:09] [0m[33;1m[Clan] Ipsie :[0m guild artifact[0m
+[20:10] [0m[33;1m[Clan] Xaryl :[0m oh![0m
+[20:10] [0m[33;1m[Clan] Ipsie :[0m so, im assuming space does something with deca to always have it ?[0m
+[20:11] [0m[33;1m[Clan] Ser :[0m deca?[0m
+[20:11] [0m[33;1m[Clan] Ipsie :[0m hrm, icr how to spell it. decarabia .[0m
+[20:11] [0m[33;1m[Clan] Void :[0m drops world drops?[0m
+[20:11] [0m[33;1m[Clan] Pol :[0m never heard of it[0m
+[20:11] [0m[33;1m[Clan] Ipsie :[0m drops a rock a stone or something you break to get a guild artifact.[0m
+[20:11] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[20:14] [0m[33;1m[Clan] Nik :[0m first deca kill always drops a guild artifact, then later ones have some chance and[0m
+[20:14] [0m             jaw bone is the undead makin 1[0m
+[20:14] [0m[33;1m[Clan] Ser :[0m can you refresh[0m
+[20:14] [0m[33;1m[Clan] Ipsie :[0m it used to be nice with eternals powers, but they reworked it[0m
+[20:15] [0m[33;1m[Clan] Ser :[0m what about scroll[0m
+[20:15] [0m[33;1m[Clan] Ipsie :[0m i don't know anymore[0m
+[20:17] [0m[33;1m[Clan] Nik :[0m shooey, i forgot all bout the jawbone, thatd be nice to have every boot![0m
+[20:17] [0m[33;1m[Clan] Ipsie :[0m so deca drops the stone randomly now ?[0m
+[20:18] [0m[33;1m[Clan] Nik :[0m i think he can drop any guild artifacts[0m
+[20:18] [0m[33;1m[Clan] Mud :[0m thats probably the only useful one :P[0m
+[20:18] [0m[33;1m[Clan] Ipsie :[0m oh cool[0m
+[20:18] [0m[33;1m[Clan] Ipsie :[0m coin is great to for necros :P[0m
+[20:19] [0m[33;1m[Clan] Nik :[0m haha coin and jawbone are bout the only useful ones[0m
+[20:25] [0m[32mYou tell Ser:[0m dis happening?[0m
+[20:29] [0m[32mSer tells you:[0m doesnt seem to[0m
+[20:31] [0m[32;1mFrom afar, you moo at Ser.[0m[0m
+[20:32] [0m[33;1m[Clan] Byron :[0m jawbone is crazy bs[0m
+[20:34] [0m[33;1m[Clan] Ipsie :[0m lets a necro tank anything heh[0m
+[20:37] [0m[33;1m[Clan] Xaryl :[0m if there is anything I can do to get/prevent a certain necro from getting I will[0m
+[20:37] [0m               do[0m
+[20:40] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[20:41] [0m[33;1m[Clan] Ser :[0m boxed[0m
+[20:48] [0m[35;1mDy [Jedi(73)]:[0m Happiness is having a large, loving, caring, close-knit family in another city.[0m
+[20:48] [0m[35;1mDy [Jedi(73)]:[0m The spiciest of spices, pure Cinnamon (sizzle).[0m
+[20:48] [0m[35;1mDy [Jedi(73)]:[0m Those who cannot remember the past will spend a lot of time looking for their[0m
+[20:48] [0m               cars in mall parking lots.[0m
+[21:04] [0mYour transmuter's stone bursts with 6 new colours![0m
+[21:08] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[21:20] [0m[33;1m[Clan] Xaryl :[0m that mob must be the reason space has Nauda sit/farm huri for most of the 1st day[0m
+[21:20] [0m               of boot[0m
+[21:21] [0m[33;1m[Clan] Nix :[0m laf[0m
+[21:29] [0m[33;1m[Clan] Pol :[0m massxp really beefed up[0m
+[21:29] [0m[33;1m[Clan] Nix :[0m everyones got cmc[0m
+[21:29] [0m[33;1m[Clan] Mud :[0m day7 goodness[0m
+[21:34] [0m[34;1mTony shouts:[0m idea for help file...  "help real life"  ->  "This doesn't exist, don't ask[0m
+[21:34] [0m             questions"[0m
+[21:34] [0m[34;1mKitt shouts:[0m Wipe me : Password. Help File Created[0m
+[21:38] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[21:40] [0m[33;1m[Clan] Ser :[0m i need cmc[0m
+[21:40] [0m[33;1m[Clan] Ser :[0m well i need tag[0m
+[21:40] [0m[33;1m[Clan] Mud :[0m you have one last boot?[0m
+[21:40] [0m[33;1m[Clan] Ser :[0m nah[0m
+[21:40] [0m[33;1m[Clan] Mud :[0m bummah, wouldve been coool if ya did![0m
+[21:40] [0m[33;1m[Clan] Ser :[0m yah[0m
+[21:41] [0m[33;1m[Clan] Mud :[0m if you get some others scrounged up i can chip in[0m
+[21:41] [0m[33;1m[Clan] Ser :[0m apparently i need to get on the same schedule[0m
+[21:41] [0m[33;1m[Clan] Ser :[0m got voodoo[0m
+[21:41] [0m[33;1m[Clan] Mud :[0m i just happened to log in as it was starting[0m
+[21:41] [0m[33;1m[Clan] Ser :[0m xaryl said maybe[0m
+[21:41] [0m[33;1m[Clan] Pol :[0m need hitters?[0m
+[21:41] [0m[33;1m[Clan] Ser :[0m it hits around[0m
+[21:41] [0m[33;1m[Clan] Pol :[0m i am unhittable[0m
+[21:41] [0m[33;1m[Clan] Pol :[0m not....[0m
+[21:41] [0m[33;1m[Clan] Ser :[0m hehe[0m
+[21:42] [0m[33;1m[Clan] Mud :[0m speaking of hits[0m
+[21:42] [0m[33;1m[Clan] Pol :[0m speaking of hits, I may be getting banned from the casino[0m
+[21:42] [0m[33;1m[Clan] Pol :[0m i kinda sorta went on a streak.  won enough to buy a new car in cash[0m
+[21:43] [0m[33;1m[Clan] Mud :[0m neverlucky[0m
+[21:43] [0m[33;1m[Clan] Mud :[0m congrats[0m
+[21:43] [0m[33;1m[Clan] Pol :[0m i use a modified system from Basic BJ Strategy[0m
+[21:43] [0m[33;1m[Clan] Pol :[0m thanks. never done this well before. ever[0m
+[21:44] [0m[33;1m[Clan] Pol :[0m and you really do get offered hookers and drugs. i thought that was just in the[0m
+[21:44] [0m             movies[0m
+[21:44] [0m[33;1m[Clan] Nix :[0m i can help[0m
+[21:44] [0m[33;1m[Clan] Mud :[0m same[0m
+[21:44] [0m[33;1m[Clan] Nik :[0m dont take the brown acid[0m
+[21:44] [0m[33;1m[Clan] Nix :[0m BJ strategy...[0m
+[21:44] [0m[33;1m[Clan] Pol :[0m haha nix[0m
+[21:45] [0m[33;1m[Clan] Pol :[0m speaking of BJ's, anyone attending AVN's in January? I'll be there..[0m
+[21:45] [0m[33;1m[Clan] Pol :[0m ok i'm too wired right now. what did they give me?[0m
+[21:45] [0m[33;1m[Clan] Nix :[0m i'd end up divorced if i went to that[0m
+[21:45] [0m[33;1m[Clan] Pol :[0m i've been twice[0m
+[21:47] [0m[33;1m[Clan] Pol :[0m you actually get to meet the girls and talk to them. it's pretty cool[0m
+[21:50] [0mDy flaps : Foive foive ayt![0m
+[21:52] [0m[33;1m[Clan] Ser :[0m hmm[0m
+[21:55] [0mDy flaps : This is not the force you are looking for, move along.[0m
+[21:59] [0m[33;1m[Clan] Ser :[0m soo[0m
+[22:03] [0mSer flaps : firebat?[0m
+[22:03] [0mZor flaps : kills![0m
+[22:04] [0mSer flaps : otw beddy bye[0m
+[22:04] [0mYour transmuter's stone bursts with 4 new colours![0m
+[22:06] [0mSer flaps : mechlar's eye?[0m
+[22:08] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[22:25] [0m[33;1m[Clan] Archangel :[0m You guys want X and me to help with this upcoming Firebat?[0m
+[22:25] [0m[33;1m[Clan] Nix :[0m ser needs to wake up[0m
+[22:29] [0m[33;1m[Clan] Archangel :[0m Is it time for a mud-wide 'moose ser'?[0m
+[22:29] [0m[33;1m[Clan] Nix :[0m i shot him a text too[0m
+[22:30] [0m[33;1m[Clan] Nik :[0m moose harder[0m
+[22:32] [0mDy flaps : Pigs, evil pigs![0m
+[22:33] [0mDy flaps : That was totally Rictor dude![0m
+[22:39] [0mDy flaps : You get fed up and blow away Barney![0m
+[22:40] [0mDy flaps : Barney must die.[0m
+[22:40] [0mCrolack flaps : Moo.[0m
+[22:45] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[22:52] [0mXiu flaps : can we de-random health.focus so that ppl can tell when other stuff is giving them[0m
+[22:52] [0m            regen? the average regen over 100 rnds can stay the same but just make it X per tic[0m
+[22:52] [0m            static so it can be calculated for when testing stuff out. there's a whole "try it[0m
+[22:52] [0m            and see" attitude about gear and whatnot but at the same time stuff like this gets[0m
+[22:52] [0m            in the way of even doing that.[0m
+[22:52] [0m[33;1m[Clan] Xaryl :[0m some donates in[0m
+[22:53] [0mDy flaps : no static regen for you![0m
+[22:54] [0mXiu flaps : or, ya know, maybe have stuff say in the long desc that it heals/regens hp and/or[0m
+[22:54] [0m            sp. but i know that's information and that would give the baby Jesus face cancer so[0m
+[22:54] [0m            i should probably be dested for suggesting it.[0m
+[22:55] [0mDy flaps : Can they just dest you for nothing instead?[0m
+[22:55] [0mXiu flaps : i'm going to guess they can probably dest any or all of us at any time for any[0m
+[22:55] [0m            reason or none.[0m
+[22:56] [0mDy flaps : heh heh yes they can[0m
+[22:57] [0mDy flaps : That's dest up![0m
+[22:58] [0mDy flaps : h[0m
+[23:01] [0mNik flaps : the end is nigh, repent![0m
+[23:04] [0mYour transmuter's stone bursts with 4 new colours![0m
+[23:06] [0m[34;1mKenny shouts:[0m Only took 15 years and 8 months.[0m
+[23:06] [0m[34;1mSpace shouts:[0m woo! 11 mo![0m
+[23:06] [0m[34;1mEnemy shouts:[0m your family's still poor![0m
+[23:06] [0m[34;1mFluffy shouts:[0m you leveled kenny ... you bastard![0m
+[23:07] [0m[34;1mZor shouts:[0m sweet! bout time![0m
+[23:07] [0m[34;1mNik shouts:[0m dont forget to bring a towel![0m
+[23:07] [0m[34;1mKenny shouts:[0m Thanks all. *mumble mumble*[0m
+[23:11] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[23:31] [0mCaeli flaps : Y'all[0m
+[23:31] [0mCaeli flaps : Y'all miss me?[0m
+[23:38] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[23:42] [0mKitt flaps : with every hot so far[0m
+[23:43] [0mKitt flaps : i know the necros did[0m
+[23:43] [0mKitt flaps : give them a chatter up[0m
+[23:46] [0mCaeli flaps : Already did.[0m

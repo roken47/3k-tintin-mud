@@ -1,0 +1,1650 @@
+- = LOG STARTED [00:00] = -
+[00:02] [0mnewb Insectorx [Newbie]: I accidentially piced up a corpse by typing "get all" instead of typing[0m
+[00:02] [0m                         "bury corpse".  Now I want to drop it so I can bury it.  I've tried[0m
+[00:02] [0m                         'drop orc' and 'drop the sliced up, maggot-infested remains of orc' and[0m
+[00:02] [0m                         other combos of that.  It keeps saying[0m
+[00:02] [0mnewb Sissy [knight/60]: drop corpse[0m
+[00:02] [0mnewb Prism [gentech/136]: Drop corpse[0m
+[00:02] [0mnewb Tchazzar [elemental/126]: dropo corpse[0m
+[00:02] [0mnewb Tchazzar [elemental/126]: drop corpse[0m
+[00:02] [0mnewb Insectorx [Newbie]: thanks[0m
+[00:03] [0mnewb Inix [juggernaut/139]: 'drop remains' would also work.  Most items id to the main noun in[0m
+[00:03] [0m                            the short title (not all though, but most)[0m
+[00:03] [0mnewb Iluri [mage/26]: in case no one else responded try drop corpse[0m
+[00:12] [0mnewb Insectorx [Newbie]: I'm in this tutorial area, and it told me a few rooms ago to bury[0m
+[00:12] [0m                         corpses for experience, but I'm now in a room fully of corpses and it[0m
+[00:12] [0m                         says this when I type 'bury corpse':[0m
+[00:12] [0mnewb Insectorx [Newbie]: Bury what? (try: bury corpse)[0m
+[00:13] [0mnewb Locrian [bard/111]: what's the name of the room you're in?[0m
+[00:13] [0mnewb Tchazzar [elemental/126]: is there a corpse in the room?[0m
+[00:13] [0mnewb Insectorx [Newbie]: "A Devastated Clearing"[0m
+[00:14] [0mnewb Thom [bard/116]: corpses also rot fairly fast, is the corpse item still in the room?[0m
+[00:14] [0mnewb Tchazzar [elemental/126]: bury corpse[0m
+[00:14] [0mnewb Locrian [bard/111]: if it's a corpse in the room that you didn't put there, it's likely a[0m
+[00:14] [0m                         corpse you're meant to search[0m
+[00:14] [0mnewb Insectorx [Newbie]: it says: "Server mangled corpses are sprawled from one edge of the[0m
+[00:14] [0m                         clearing to the other... one of the orcs, whose corpse now lies[0m
+[00:14] [0m                         stinking and rotting...[0m
+[00:14] [0mnewb Inix [juggernaut/139]: That's a room description.  You need to have an actual corpse item[0m
+[00:14] [0m                            on the ground.[0m
+[00:14] [0mnewb Insectorx [Newbie]: oh ok i'll try that, thanks.  I'm just trying to get the hang of the[0m
+[00:14] [0m                         syntax[0m
+[00:15] [0mnewb Tchazzar [elemental/126]: I think that is just a room description.[0m
+[00:15] [0mnewb Tchazzar [elemental/126]: bury corpse would be after you kill a mob[0m
+[00:15] [0mnewb Guru [mage/133]: what happens when you type: "look at corpse"?[0m
+[00:15] [0mnewb Skyblade [knight/111]: Ah, what Inix said, a corpse that can be buried is the object corpse[0m
+[00:15] [0m                            that remains after you kill a monster (mob).[0m
+[00:16] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[00:17] [0mnewb Thom [bard/116]: yeah look at. examine, and search/search [name of thing] (aka search wall)[0m
+[00:17] [0m                      will be your friends exploring areas[0m
+[00:17] [0m[31;1m[Clan] Nameless :[0m cant sleep, guess im gonna gxp lolol[0m
+[00:18] [0m[31;1m[Clan] Michael :[0m The gxp must flow[0m
+[00:19] [0mnewb Insectorx [Newbie]: ok cool. It's good to know that there's 2 different "types" of corpses.[0m
+[00:19] [0m                         Ones you kill, that show up as an item on the ground, and ones that are[0m
+[00:19] [0m                         just part of the room that are searchable.  Thanks[0m
+[00:20] [0mnewb Din [bladesinger/134]: basically anything can be part of the room and searchable[0m
+[00:34] [0mnewb Insectorx [Newbie]: does the 'bury corpse' command work the same as looting?  This tutorial[0m
+[00:34] [0m                         told me to quickly "loot" the corpse, but had only taught me to bury so[0m
+[00:34] [0m                         far.[0m
+[00:35] [0mnewb Kirin [jedi/123]: 'bury corpse' is a guild command (which you are currently an adventurer)[0m
+[00:35] [0m                       which destroys the corpse (anything inside it, coins, items, drops to the[0m
+[00:35] [0m                       ground)[0m
+[00:36] [0mnewb Skyblade [knight/111]: if you wanted to loot the corpse first "get all from corpse" then[0m
+[00:36] [0m                            "bury corpse"[0m
+[00:36] [0mnewb Kirin [jedi/123]: you can also 'take all from corpse', if wish to do that first, that is[0m
+[00:36] [0m                       generally not nessicary[0m
+[00:36] [0mnewb Skyblade [knight/111]: otherwise, bury corpse, then "get all".[0m
+[00:36] [0mnewb Kirin [jedi/123]: most cases you use your guild command (which will vary once you join a[0m
+[00:36] [0m                       different guild) and then take all to pick up items[0m
+[00:38] [0mnewb Insectorx [Newbie]: ok, got it.[0m
+[00:38] [0mnewb Guru [mage/133]: you notice some flexibility in getting stuff. "get all" is the same as[0m
+[00:38] [0m                      "take all". Both will get everything from the ground.  "take all from[0m
+[00:38] [0m                      corpse" or "take all from bag" will get everything from that container. I[0m
+[00:38] [0m                      prefer to use "take all" because it makes me feel more authoritative as[0m
+[00:38] [0m                      opposed to "get all"[0m
+[00:39] [0mnewb Kirin [jedi/123]: you will run into very rare corner cases in quests where it only works[0m
+[00:39] [0m                       with one or the other though[0m
+[00:39] [0mnewb Elminster [mage/139]: i prefer the more submissive "get"[0m
+[00:40] [0mnewb Insectorx [Newbie]: I was getting stuff, but I think I'm going to start taking it.[0m
+[00:41] [0m[31;1m[Clan] Nameless leaves the game.[0m  [0m
+[00:41] [0m[31;1m[Clan] Nine enters the game.[0m  [0m
+[00:43] [0m[34;1mBenek shouts:[0m woowoooooo![0m
+[00:43] [0m[34;1mSissy shouts:[0m big letters![0m
+[00:43] [0m[34;1mTchazzar shouts:[0m Thanks to the Moo Train for your leveling spam.[0m
+[00:44] [0mnewb Guru [mage/133]: not sure if the newbie academy stuff teaches you about aliases, but "help[0m
+[00:44] [0m                      alias".  It enables you to set a shortcut of sorts for your commands.  so[0m
+[00:44] [0m                      "alias ta take all" will make "ta" be take all.  So for me I "ta" to grab[0m
+[00:44] [0m                      everything in the room or "ta from bag" to take all from bag, etc.[0m
+[00:45] [0m[31;1m[Clan] Nine leaves the game.[0m  [0m
+[00:50] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[00:57] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Northern Hills of[0m
+[00:57] [0m                          Fantasy!  We are localizing it now - get ready![0m
+[01:21] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[01:23] [0m[Auction] Fluffy (chan) : stuff![0m
+[01:23] [0m[Auction] Robert : Up for bids: Carmine ring, Ring of Hearts, Ring of Hearts, Spork Lance[0m
+[01:23] [0m                   (wicked) (enchanted) and Shield of the Spirit {radiant}.[0m
+[01:23] [0m[Auction] Robert : Fluffy has requested 420 as the opening offer.[0m
+[01:23] [0m[Auction] Robert : Got 420 from Nauda(necr).  Do I hear 470?[0m
+[01:24] [0m[Auction] Robert : 420 going once![0m
+[01:24] [0m[Auction] Nauda (necr) : i love me some fluffy stuff[0m
+[01:24] [0m[Auction] Robert : 420 going twice![0m
+[01:24] [0m[Auction] Robert : Sold to Nauda for 420 coins![0m
+[01:43] [0mnewb Insectorx [Newbie]: how do i find out which item (out of 2) is stronger/better in my[0m
+[01:43] [0m                         inventory[0m
+[01:44] [0m[32mVoodoo tells you:[0m Roken darling, I don't have any pants on.[0m
+[01:44] [0m[34;1mSissy shouts:[0m well duh .. .that is the natural state of voodude[0m
+[01:44] [0m[34;1mOrthas shouts:[0m I know..[0m
+[01:44] [0m[34;1mInfects shouts:[0m STOP SHOUTING i want to fool myself it was a real tell from him so I can start a[0m
+[01:44] [0m                convo :([0m
+[01:45] [0m[34;1mNauda shouts:[0m just high boots[0m
+[01:45] [0m[34;1mLeianne shouts:[0m the usual harrassment from pervert of 3k :p[0m
+[01:45] [0m[34;1mInfects shouts:[0m laugh![0m
+[01:45] [0mnewb Stasis [jedi/135]: there's an mskill that shows an items protective qualities: 'help[0m
+[01:45] [0m                        combat.armor.appraisal'[0m
+[01:46] [0mnewb Sissy [knight/60]: if you check 'sc' you can see level/number representation of your total[0m
+[01:46] [0m                        acs vs your lvl[0m
+[01:46] [0m[37;1mNauda flaps :[0m 8inix are you dead yet?[0m
+[01:46] [0mnewb Stasis [jedi/135]: 'help mskills' check out the cartography skill too. it's pretty nifty[0m
+[01:46] [0mnewb Sissy [knight/60]: Resistances:   Buff  Buff  High  High    60   100  High  High   100 [0m
+[01:46] [0m                        High[0m
+[01:46] [0m[37;1mCaeli flaps :[0m So, I think that any detectives who regularly show up at murder scenes before the[0m
+[01:46] [0m              murders are actually the killers themself.[0m
+[01:46] [0m[37;1mSissy flaps :[0m the butler did it ... everyone knows THAT[0m
+[01:48] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : It is certain[0m
+[01:50] [0m[37;1mCaeli flaps :[0m Come on. Poirot was almost always at a crime scene before the crime.[0m
+[01:53] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[01:56] [0mnewb Insectorx [Newbie]: what's the deal with the gossip channel?  Disabled?[0m
+[01:57] [0mnewb Sissy [knight/60]: interesting ... gossip is actually 3s not 3k comline ... we use[0m
+[01:57] [0m                        'flapchat' here[0m
+[01:58] [0mnewb Raest [cyborg/135]: because we're above 'gossiping', we just 'flap'[0m
+[01:58] [0mnewb Sissy [knight/60]: ah i see it in help files --> NOTE:  This command has been temporarily[0m
+[01:58] [0m                        disabled.[0m
+[01:58] [0mnewb Insectorx [Newbie]: my bad,  it was in a help file.  I was reading through them.  Ill check[0m
+[01:58] [0m                         flapchat's help file[0m
+[01:58] [0mnewb Sissy [knight/60]: and get caeli to scare you with her flap level rating[0m
+[08:11] [31;1m[Clan] Roken wisps into existence.[0m  [0m
+[08:16] [0m[5m[1m[48;5;124mYour lightsaber begins to flicker and the handle warms![0m[0m                 [0m
+[08:23] [0m[31;1m[Clan] Byron :[0m justice league was fuckin rad[0m
+[08:25] [0m[31;1m[Clan] Byron :[0m jfc lag so bad i hmfled from simpsons[0m
+[08:25] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[08:28] [0m[31;1m[Clan] Saim climbs out of your ass, and into the game.[0m  [0m
+[08:28] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[08:28] [0m[31;1m[Clan] Byron :[0m its somethin else today[0m
+[08:28] [0m[31;1m[Clan] Byron :[0m fuckin bad[0m
+[08:29] [0m[34;1mBenek shouts:[0m nuuuuuu[0m
+[08:30] [0m[31;1m[Clan] Nameless :[0m guess its a bad day for hcboxcar[0m
+[08:31] [0m[34;1mNameless shouts:[0m kuzco's poison, the poison for kuzco, right[0m
+[08:31] [0m[34;1mSimonz shouts:[0m that poison?[0m
+[08:32] [0m[37;1mBliss flaps :[0m who has mask ?[0m
+[08:32] [0m[37;1mSpace flaps :[0m as on your clanline[0m
+[08:32] [0m[37;1mSpace flaps :[0m *ask on your clanline[0m
+[08:32] [0m[37;1mSimonz flaps :[0m ooh, I know this one, it's Xeno right?[0m
+[08:32] [0m[37;1mSpace flaps :[0m if nauda is xeno sure[0m
+[08:33] [0m[37;1mSpace flaps :[0m or if xeno is on your clanline sure[0m
+[08:33] [0m[37;1mSimonz flaps :[0m ...he isn't on yours too?[0m
+[08:33] [0m[37;1mSpace flaps :[0m no we dont misers in SA[0m
+[08:33] [0m[37;1mSpace flaps :[0m with a 12.5% drop rate we spit on xeno[0m
+[08:34] [0m[37;1mByron flaps :[0m how bout grifters?[0m
+[08:35] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[08:35] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[08:39] [0m[37;1mNauda flaps :[0m og mask was at ss last I checked[0m
+[08:39] [0m[37;1mAlassra flaps :[0m it still is[0m
+[08:43] [0m[31;1m[Clan] Nameless :[0m gonna tos string in cbox[0m
+[08:43] [0m[31;1m[Clan] Nameless :[0m maybe[0m
+[08:43] [0m[31;1m[Clan] Nameless :[0m maybe itll stay in my butt[0m
+[08:46] [0m[37;1mNightrider flaps :[0m gtfo bro[0m
+[08:47] [0m[31;1m[Clan] Nameless :[0m string, cloak, greaves, bracers sord of spiritn in box[0m
+[08:47] [0m[34;1mWhoknows shouts:[0m lies[0m
+[08:47] [0m[34;1mSpace shouts:[0m UG necs![0m
+[08:47] [0m[31;1m[Clan] Timmy :[0m MINE GIMME[0m
+[08:47] [0m[31;1m[Clan] Nameless :[0m oh and taco cod[0m
+[08:47] [0m[34;1mVagrant shouts:[0m UG UG UG UG UGUG[0m
+[08:47] [0m[31;1m[Clan] Nameless leaves the game.[0m  [0m
+[08:48] [0m[31;1m[Clan] Landshark enters the game.[0m  [0m
+[08:48] [0m[34;1mTex shouts:[0m down with the vagrant[0m
+[08:49] [0m[31;1m[Clan] Landshark leaves the game.[0m  [0m
+[08:49] [0m[31;1m[Clan] Nameless enters the game.[0m  [0m
+[08:50] [0m[31;1m[Clan] Nameless :[0m and spirit hat in box[0m
+[08:50] [0m[31;1m[Clan] Nameless :[0m (rip spirit hat, you are far inferior to mask[0m
+[08:51] [0m[31;1m[Clan] Martyr :[0m where is this stupid vorpal blade[0m
+[08:51] [0m[31;1m[Clan] Martyr :[0m i wanna dupe it[0m
+[08:51] [0m[35;1mEphemeral [Jedi(44)]:[0m yo![0m
+[08:52] [0m[31;1m[Clan] Ser enters the game.[0m  [0m
+[08:52] [0m[31;1m[Clan] Martyr :[0m ayo ser[0m
+[08:52] [0m[31;1m[Clan] Ser :[0m hey[0m
+[08:53] [0m[31;1m[Clan] Nameless :[0m hi[0m
+[08:54] [0m[31;1m[Clan] Nameless :[0m got some goodies for ya in cbox[0m
+[08:54] [0m[31;1m[Clan] Nameless :[0m no weapons but still[0m
+[08:54] [0m[31;1m[Clan] Ser :[0m got a cocoon :D[0m
+[08:54] [0m[31;1m[Clan] Nameless :[0m oo[0m
+[08:54] [0m[31;1m[Clan] Saim :[0m did you guys all do paul already?[0m
+[08:54] [0m[31;1m[Clan] Nameless :[0m can you ringify mine :D[0m
+[08:55] [0m[31;1m[Clan] Nameless :[0m nod, 3x[0m
+[08:55] [0m[31;1m[Clan] Ser :[0m laf[0m
+[08:55] [0m[31;1m[Clan] Saim :[0m 4 hours into boot all the big mobs are ded - damn[0m
+[08:55] [0m[31;1m[Clan] Martyr :[0m i'm gonna craft some gems this boot[0m
+[08:55] [0m[31;1m[Clan] Martyr :[0m so i'll be begging for jewels maybe ser[0m
+[08:55] [0m[31;1m[Clan] Nameless :[0m :D[0m
+[08:55] [0m[31;1m[Clan] Nameless :[0m got an og string in box tho for later if we wanna have a clan run at him[0m
+[08:55] [0m[31;1m[Clan] Martyr :[0m byron is almost at chaos stone for mining[0m
+[08:56] [0m[31;1m[Clan] Ser :[0m at box[0m
+[08:56] [0m[31;1m[Clan] Ser :[0m i have 30 legendary chaostone bars on me[0m
+[08:56] [0m[31;1m[Clan] Sock wiggles on your foot.[0m  [0m
+[08:56] [0m[31;1m[Clan] Martyr :[0m toss them in crafting box?[0m
+[08:56] [0m[31;1m[Clan] Sock :[0m all 30???[0m
+[08:56] [0m[31;1m[Clan] Martyr :[0m whatever you dont want[0m
+[08:57] [0m[31;1m[Clan] Martyr :[0m i have nfi how many you're haording :P[0m
+[08:57] [0m[31;1m[Clan] Martyr :[0m any guesses on who could have vorpal?[0m
+[08:58] [0m[31;1m[Clan] Martyr :[0m or who runs tiamat?[0m
+[08:59] [0m[31;1m[Clan] Martyr :[0m got another spirit cloak, will box it[0m
+[08:59] [0m[31;1m[Clan] Nameless :[0m after i clear this wave of angels im gonna go reset tacos, unless anyone else[0m
+[08:59] [0m                  wants to runt heirs first[0m
+[08:59] [0m[31;1m[Clan] Elektra enters the game.[0m  [0m
+[09:00] [0m[31;1m[Clan] Saim :[0m the dealership i bought my car from sent me 2 coupons, one for april and one for[0m
+[09:00] [0m              may...they both came to my mailbox at the exact same time[0m
+[09:00] [0m[31;1m[Clan] Saim :[0m one is for a $50 oil change/tire rotation, the other is for a free oil change/tire[0m
+[09:00] [0m              rotation[0m
+[09:01] [0m[31;1m[Clan] Saim :[0m wonder which one i should use[0m
+[09:01] [0m[31;1m[Clan] Ser :[0m the free one, then never go back to the dealership cuz even 50$ is a ripoff[0m
+[09:01] [0m[31;1m[Clan] Elektra :[0m anyone have mask or shard to dupe?[0m
+[09:01] [0m[31;1m[Clan] Martyr :[0m mask is at ass[0m
+[09:01] [0m[31;1m[Clan] Martyr :[0m laf[0m
+[09:01] [0m[31;1m[Clan] Martyr :[0m ss[0m
+[09:01] [0m[31;1m[Clan] Saim :[0m it almost feels scummy[0m
+[09:02] [0m[31;1m[Clan] Saim :[0m the april one is 50 and the may one is free[0m
+[09:02] [0m[31;1m[Clan] Ser :[0m fuck dealerships and their exorbitant pricing[0m
+[09:02] [0m[37;1mApocalypse flaps :[0m auro shield avail for duppy duppy?[0m
+[09:02] [0m[37;1mElektra flaps :[0m and/or shard?[0m
+[09:02] [0m[37;1mSer flaps :[0m other inquiring minds would like to know as well[0m
+[09:02] [0m[37;1mAlassra flaps :[0m same![0m
+[09:03] [0m[37;1mSpace flaps :[0m sure gimme a few min to get out of tacos[0m
+[09:03] [0m[31;1m[Clan] Void enters the game.[0m  [0m
+[09:03] [0m[31;1m[Clan] Martyr :[0m will have slides again soon too[0m
+[09:03] [0m[31;1m[Clan] Martyr :[0m if you guys wanna beloch[0m
+[09:03] [0m[37;1mNooster flaps :[0m How do you do that, anyway?  I bought level 2 of dupe but haven't used it yet.[0m
+[09:04] [0m[31;1m[Clan] Martyr :[0m i put a spork in cbox, but leave that for tyrant in case his didnt autoload[0m
+[09:04] [0m[31;1m[Clan] Nameless :[0m damn, aside from waiting on dupes and cmc and roh farming etc i think im done[0m
+[09:04] [0m                  on gear[0m
+[09:04] [0m[31;1m[Clan] Martyr :[0m nog, easy to gear up[0m
+[09:05] [0m[31;1m[Clan] Nameless :[0m well and chaging gloves/boots to gabagool[0m
+[09:05] [0m[31;1m[Clan] Martyr :[0m well, my slides are gonna reset - you beefy enough for beloch?[0m
+[09:05] [0m[31;1m[Clan] Martyr :[0m could start that[0m
+[09:05] [0m[31;1m[Clan] Nameless :[0m true[0m
+[09:06] [0m[31;1m[Clan] Nameless :[0m i could do a few belochs[0m
+[09:06] [0m[31;1m[Clan] Martyr :[0m im at arena[0m
+[09:06] [0m[31;1m[Clan] Martyr :[0m hes there[0m
+[09:06] [0m[31;1m[Clan] Martyr :[0m nat[0m
+[09:06] [0m[31;1m[Clan] Nameless :[0m brt[0m
+[09:06] [0m[31;1m[Clan] Martyr :[0m people will show up[0m
+[09:06] [0m[31;1m[Clan] Martyr :[0m til then lets just gxp on it[0m
+[09:06] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[09:06] [0m[31;1m[Clan] Nameless :[0m vampin up[0m
+[09:07] [0m[31;1m[Clan] Martyr :[0m im getting clone[0m
+[09:07] [0m[37;1mNameless flaps :[0m belochs? i can tank a few with some pew pew[0m
+[09:07] [0m[35;1mEphemeral [Jedi(45)]:[0m woot fdef 4[0m
+[09:08] [0m[35;1mHyuga [Jedi(98)]:[0m whee[0m
+[09:09] [0m[35;1mEphemeral [Jedi(45)]:[0m Current Droid Offerings: 1. protocol, 2. heavy industry, 3. household, 4.[0m
+[09:09] [0m                      astromech, 5. military[0m
+[09:09] [0m[35;1mSimonz [Jedi(Knight)]:[0m ooh, gotta get me that heavy industry, forgot to snag one[0m
+[09:10] [0m[35;1mEnder [Jedi(Knight)]:[0m im like, half a droid level away from robotics 4[0m
+[09:10] [0m[35;1mSimonz [Jedi(Knight)]:[0m nice![0m
+[09:10] [0m[35;1mEnder [Jedi(Knight)]:[0m looking forward to that[0m
+[09:10] [0m[35;1mSimonz [Jedi(Knight)]:[0m I'm 1 droid away from being halfway to 4 heh[0m
+[09:10] [0m[31;1m[Clan] Nameless :[0m oh right, still need to farm up skin and aoe[0m
+[09:10] [0m[31;1m[Clan] Nameless :[0m so not quite done[0m
+[09:11] [0m[35;1mEnder [Jedi(Knight)]:[0m yah i spread the dxp around, seems to help things go a bit faster[0m
+[09:11] [0m[35;1mSimonz [Jedi(Knight)]:[0m sure, I just don't have much interest in non-repair droids[0m
+[09:11] [0m[35;1mSimonz [Jedi(Knight)]:[0m heavy industry is up to 8 heh[0m
+[09:14] [0m[31;1m[Clan] Wasp enters the game.[0m  [0m
+[09:14] [0m[31;1m[Clan] Karvec enters the game.[0m  [0m
+[09:14] [0m[31;1m[Clan] Martyr :[0m we're at beloch btw[0m
+[09:15] [0m[31;1m[Clan] Nameless :[0m nod, i am sad bard tank[0m
+[09:15] [0m[31;1m[Clan] Meatloaf enters the game.[0m  [0m
+[09:17] [0m[31;1m[Clan] Karvec :[0m 10% shield, 2 shard dupes + og[0m
+[09:17] [0m[31;1m[Clan] Karvec :[0m mmmmm[0m
+[09:17] [0m[31;1m[Clan] Nameless :[0m nice[0m
+[09:17] [0m[31;1m[Clan] Martyr :[0m sexy[0m
+[09:18] [0m[31;1m[Clan] Karvec :[0m almost weaponed up!  this is hard to do from phone[0m
+[09:18] [0m[31;1m[Clan] Nameless :[0m can run through terra if you want hammer[0m
+[09:18] [0m[31;1m[Clan] Nameless :[0m or i guess isleth, whichever[0m
+[09:18] [0m[31;1m[Clan] Martyr :[0m hammer is sick cause of that defense thing[0m
+[09:18] [0m[31;1m[Clan] Martyr :[0m more blunt ac[0m
+[09:18] [0m[31;1m[Clan] Ser :[0m prolly do isleth, i can always lettuce wrap a shard[0m
+[09:19] [0m[31;1m[Clan] Martyr :[0m nog, got yikkers too[0m
+[09:19] [0m[31;1m[Clan] Ser :[0m i use isleth for the heals anyways[0m
+[09:19] [0m[35;1mVolt [Jedi(68)]:[0m 1.protocol, 2.8d8 heavy industry, 3.household, 4.astromech, 5. sd-10 military[0m
+[09:19] [0m[31;1m[Clan] Timmy :[0m how big is that isleth 2.0 mob on 3k again?[0m
+[09:20] [0m[31;1m[Clan] Ser :[0m 70m[0m
+[09:20] [0m[31;1m[Clan] Nameless :[0m lil bebby[0m
+[09:20] [0m[31;1m[Clan] Timmy :[0m ah, i'm a while from idling on him then[0m
+[09:20] [0m[31;1m[Clan] Nameless :[0m i havent tried soloing him yet, im a slacker[0m
+[09:20] [0m[31;1m[Clan] Nameless :[0m i need the proper -path to want to run there without an escort, my current one[0m
+[09:20] [0m                  puts me somewhere weird[0m
+[09:29] [0m[31;1m[Clan] Elektra :[0m willie's kilt in[0m
+[09:29] [0m[31;1m[Clan] Nameless :[0m i havent worn that yet, is it greves?[0m
+[09:29] [0m[31;1m[Clan] Elektra :[0m max ac cloak[0m
+[09:29] [0m[31;1m[Clan] Nameless :[0m o[0m
+[09:30] [0m[31;1m[Clan] Ser :[0m ive been meaning it mess w/ it & aura vs spirit[0m
+[09:30] [0m[31;1m[Clan] Ser :[0m *to[0m
+[09:30] [0m[31;1m[Clan] Elektra :[0m 40 e/b/fire/mind/energy[0m
+[09:30] [0m[31;1m[Clan] Nameless :[0m nod, curious how it compares[0m
+[09:30] [0m[31;1m[Clan] Nameless :[0m i like the omax regen on spirit[0m
+[09:30] [0m[31;1m[Clan] Ser :[0m yeah me too not that i ever hit overmax[0m
+[09:30] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[09:32] [0m[31;1m[Clan] Elektra :[0m rally[0m
+[09:34] [0m[31;1m[Clan] Michael enters the game.[0m  [0m
+[09:35] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[09:40] [0m[31;1m[Clan] Nix :[0m what's the policy on players idling in rooms these days?[0m
+[09:40] [0m[31;1m[Clan] Nix :[0m sent a tell 10 minutes ago[0m
+[09:40] [0m[31;1m[Clan] Nix :[0m woke emote and players been idle for 40minutes[0m
+[09:41] [0m[35;1mSimonz [Jedi(Knight)]:[0m 1 protocol, 2 8d8 heave industry, 3 repair[0m
+[09:41] [0m[35;1mMichael [Jedi(67)]:[0m nice heavy industry in da house[0m
+[09:42] [0m[35;1mSaim [Jedi(Elder)]:[0m what about the 4th droid? ;)[0m
+[09:42] [0m[35;1mSimonz [Jedi(Knight)]:[0m interrogator[0m
+[09:42] [0m[35;1mSaim [Jedi(Elder)]:[0m id say 5th, but that one prob doesnt matter[0m
+[09:42] [0m[35;1mSaim [Jedi(Elder)]:[0m Ooooooo[0m
+[09:43] [0m[35;1mSaim [Jedi(Elder)]:[0m thanks[0m
+[09:43] [0m[31;1m[Clan] Decav :[0m if theyre unresponsive and the mob is in the room i think its fair game[0m
+[09:43] [0m[31;1m[Clan] Saim :[0m idle for 40min, fair game[0m
+[09:43] [0m[31;1m[Clan] Decav :[0m depends mostly how much i like them :)[0m
+[09:43] [0m[31;1m[Clan] Saim :[0m yea that too[0m
+[09:44] [0m[31;1m[Clan] Saim :[0m going for dshell?[0m
+[09:44] [0m[31;1m[Clan] Nix :[0m nah pb gear[0m
+[09:44] [0m[31;1m[Clan] Saim :[0m ah[0m
+[09:45] [0m[31;1m[Clan] Saim :[0m other throne[0m
+[09:45] [0m[31;1m[Clan] Decav :[0m heh yeah 40min is like, hey i was idling here and now my boss pulled me into a[0m
+[09:45] [0m               meeting. no way i'd expect someone to leave the mob alone if i were in the room[0m
+[09:45] [0m[31;1m[Clan] Saim :[0m pb lord resets quick too[0m
+[09:47] [0m[31;1m[Clan] Decav :[0m anyone get og axe?[0m
+[09:47] [0m[31;1m[Clan] Ser :[0m auction[0m
+[09:47] [0m[31;1m[Clan] Elektra :[0m on auction[0m
+[09:47] [0m[31;1m[Clan] Decav :[0m sweet[0m
+[09:50] [0m[31;1m[Clan] Ser :[0m who dat is[0m
+[09:50] [0m[31;1m[Clan] Elektra :[0m mine[0m
+[09:53] [0m[37;1mNightrider flaps :[0m if you want a lvl 140 button run, ill be dping that after 5pm est today[0m
+[09:56] [0m[37;1mNightrider flaps :[0m ill reset for button run later on today[0m
+[09:57] [0m[37;1mSpace flaps :[0m why do you have to reset for it?[0m
+[09:57] [0m[31;1m[Clan] Ser :[0m i'm debating doing a max run solo last resume just for main[0m
+[09:57] [0m[31;1m[Clan] Ser :[0m sure i might die a few times, but eh[0m
+[09:57] [0m[31;1m[Clan] Timmy :[0m timmy put og axe on ahhouse because timmy is sick of pausing sectionz for dupers[0m
+[09:57] [0m               :P[0m
+[09:57] [0m[31;1m[Clan] Ser :[0m laf[0m
+[09:57] [0m[31;1m[Clan] Timmy :[0m now i can just sit here for days on end[0m
+[09:58] [0m[31;1m[Clan] Nameless :[0m grin[0m
+[09:58] [0m[31;1m[Clan] Ser :[0m was gonna go for graft[0m
+[09:58] [0m[31;1m[Clan] Elektra :[0m i'd like to try that[0m
+[09:58] [0m[31;1m[Clan] Ser :[0m ziphe's not on so we might have more time[0m
+[09:58] [0m[31;1m[Clan] Nix :[0m i might get in on that[0m
+[09:58] [0m[31;1m[Clan] Elektra :[0m if i can play this boot[0m
+[09:59] [0m[37;1mFlaxen flaps :[0m you can press MY button[0m
+[09:59] [0m[37;1mWhoknows flaps :[0m that doesnt mean what you think it does[0m
+[09:59] [0m[37;1mAyeisha flaps :[0m I'm willing to risk it[0m
+[10:01] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[10:02] [0m[31;1m[Clan] Nameless :[0m so whats next[0m
+[10:02] [0m[31;1m[Clan] Ser :[0m i got 2 more refreshes[0m
+[10:02] [0m[31;1m[Clan] Nameless :[0m ah ok[0m
+[10:02] [0m[31;1m[Clan] Ser :[0m then would appreciate help smacking isleth[0m
+[10:02] [0m[34;1mNauda shouts:[0m zee zee zip[0m
+[10:02] [0m[31;1m[Clan] Ser :[0m well kathaelis[0m
+[10:02] [0m[31;1m[Clan] Nameless :[0m sure thing[0m
+[10:02] [0m[31;1m[Clan] Ser :[0m then i'm gonna try for conglom[0m
+[10:02] [0m[31;1m[Clan] Nameless :[0m nod. then i can reset tacos for everyone still around?[0m
+[10:04] [0mFlaxen {Professions}: it means EXACTLY what I think it means[0m
+[10:04] [0mStasis {Professions}: Hi ho, hi ho ... it's off to work I go.[0m
+[10:04] [0mElminster {Professions}: Hi ho, hi ho ... it's off to work I go.[0m
+[10:04] [0mEphemeral <Craft>: and we LIKED it![0m
+[10:04] [0mFlaxen {Professions}: mt[0m
+[10:04] [0mFlaxen {Professions}: i am all over the place[0m
+[10:04] [0mFlaxen <Craft>: line[0m
+[10:04] [0mRaest {Professions}: someone hit Flaxen with the Ritalin?[0m
+[10:05] [0mSpace <Craft>: flaxen[0m
+[10:06] [0m[37;1mRaest flaps :[0m who took the bound mask from ss?[0m
+[10:06] [0m[37;1mSpace flaps :[0m maybe nauda? cos he is going for a secz button run and may need corpses?[0m
+[10:07] [0m[37;1mNauda flaps :[0m I did[0m
+[10:07] [0m[37;1mNauda flaps :[0m coming back out[0m
+[10:07] [0m[37;1mNauda flaps :[0m 1 chance[0m
+[10:08] [0m[37;1mNauda flaps :[0m ss[0m
+[10:17] [0m[37;1mNauda flaps :[0m og mask back at ss[0m
+[10:17] [0m[37;1mKenny flaps :[0m SS was looking barren[0m
+[10:19] [0m[31;1m[Clan] Aka enters the game.[0m  [0m
+[10:19] [0m[37;1mTony <.oO>:[0m greetings, if you happen to have a spare moment and an OG mask may i please get a[0m
+[10:19] [0m            chance to dupe?[0m
+[10:21] [0m[31;1m[Clan] Sonaten enters the game.[0m  [0m
+[10:21] [0m[37;1mNauda <.oO>:[0m at ss[0m
+[10:21] [0m[31;1m[Clan] Nameless :[0m i keep thinking your name says seoman instead of sonaten[0m
+[10:21] [0m[37;1mNauda <.oO>:[0m slow the spread, use the masks[0m
+[10:21] [0m[37;1mGore <.oO>:[0m that's my freedom you're asking for!!![0m
+[10:22] [0m[37;1mNauda <.oO>:[0m Al Gore delivering Freedom in big pack since 2001[0m
+[10:22] [0m[37;1mTony <.oO>:[0m BOOM[0m
+[10:27] [0m[31;1m[Clan] Ser :[0m gotta check on tower crew[0m
+[10:28] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[10:29] [0m[31;1m[Clan] Ser :[0m i hate it when i run an area and forget to turn ktrig on[0m
+[10:30] [0m[37;1mNauda <.oO>:[0m someone killed kenny[0m
+[10:30] [0m[37;1mTony <.oO>:[0m again?[0m
+[10:30] [0m[37;1mNauda <.oO>:[0m rez him good folk[0m
+[10:30] [0m[37;1mRaest <.oO>:[0m you bastards![0m
+[10:30] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[10:32] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[10:32] [0m[31;1m[Clan] Nameless :[0m heh[0m
+[10:32] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[10:33] [0m[31;1m[Clan] Ser :[0m hmm[0m
+[10:33] [0m[31;1m[Clan] Nameless :[0m onward to kath?[0m
+[10:33] [0m[31;1m[Clan] Ser :[0m no gloves/cloak yet on my runs[0m
+[10:33] [0m[31;1m[Clan] Nameless :[0m should be some cloaks in cbox[0m
+[10:33] [0m[37;1mOscar flaps :[0m how the fuck am i in the cemetery already[0m
+[10:33] [0m[31;1m[Clan] Nameless :[0m i tossed 3 in so if not then everyone else got there[0m
+[10:33] [0m[37;1mWhoknows flaps :[0m predeath death[0m
+[10:33] [0m[37;1mMaverik flaps :[0m laaaaaf[0m
+[10:33] [0m[37;1mNauda flaps :[0m blame Maverik[0m
+[10:34] [0m[31;1m[Clan] Ser :[0m at kath[0m
+[10:34] [0m[31;1m[Clan] Nameless :[0m brt[0m
+[10:34] [0m[31;1m[Clan] Ser :[0m theres 1 left[0m
+[10:34] [0m[31;1m[Clan] Nameless :[0m killing elemental then brt[0m
+[10:34] [0m[31;1m[Clan] Ser :[0m someone must have hamstring'd the wights[0m
+[10:34] [0m[31;1m[Clan] Nameless :[0m heh[0m
+[10:34] [0m[37;1mOscar flaps :[0m laf, was there a death message for me or is this my new custom loading room?!?![0m
+[10:35] [0m[37;1mLocrian flaps :[0m might just load there now. you know, you've made it your home.[0m
+[10:35] [0m[37;1mOscar flaps :[0m <3[0m
+[10:35] [0m[37;1mOscar flaps :[0m home is where the heart is[0m
+[10:35] [0m[37;1mLocrian flaps :[0m perhaps this is the first step to taking over death's job.[0m
+[10:36] [0m[37;1mNameless flaps :[0m laf[0m
+[10:36] [0m[37;1mFlaxen flaps :[0m booties[0m
+[10:39] [0m[34;1mZiphe shouts:[0m rnjesus saves![0m
+[10:39] [0m[34;1mEcholoc shouts:[0m everyone else takes full damage[0m
+[10:42] [0m[35;1mAl [Jedi(76)]:[0m Al.  The answer is always Al.[0m
+[10:43] [0m[31;1m[Clan] Oscar :[0m sweet, i got a shitton of stones to use[0m
+[10:56] [0m[31;1m[Clan] Nameless :[0m nice[0m
+[10:56] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[10:57] [0m[34;1mTex shouts:[0m when buffy said that tingled im sure didnt mean by a vampire[0m
+[10:57] [0m[34;1mDin shouts:[0m you apparently didn't watch the show[0m
+[10:58] [0m[34;1mNameless shouts:[0m summer and tingles, friends with each other, dying in buff vampire land[0m
+[11:01] [0m[37;1mNameless flaps :[0m who wants taco dungeon reset?[0m
+[11:04] [0m[31;1m[Clan] Oscar :[0m laf, youre hitting it?[0m
+[11:04] [0m[31;1m[Clan] Oscar :[0m how many hrs to go[0m
+[11:05] [0m[31;1m[Clan] Nameless :[0m conglom?[0m
+[11:05] [0m[31;1m[Clan] Nameless :[0m ded, killed 2[0m
+[11:05] [0m[31;1m[Clan] Oscar :[0m you want refreshes/help?[0m
+[11:05] [0m[31;1m[Clan] Oscar :[0m I can come hit[0m
+[11:05] [0m[31;1m[Clan] Nameless :[0m not solo of course, but yeah[0m
+[11:05] [0m[31;1m[Clan] Nameless :[0m i need to recorpse, blew all of them tanking those dumb mentals[0m
+[11:06] [0m[31;1m[Clan] Oscar :[0m rf + done :D[0m
+[11:06] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[11:06] [0m[31;1m[Clan] Nameless :[0m i would 100% die[0m
+[11:06] [0m[31;1m[Clan] Nameless :[0m rf eats too much karma[0m
+[11:07] [0m[37;1mNameless flaps :[0m last call for taco[0m
+[11:07] [0m[31;1m[Clan] Oscar :[0m i mean for corpsing[0m
+[11:07] [0m[31;1m[Clan] Nameless :[0m o[0m
+[11:07] [0m[31;1m[Clan] Oscar :[0m aegis lvl 64/5[0m
+[11:07] [0m[31;1m[Clan] Oscar :[0m you dont do that?[0m
+[11:07] [0m[37;1mHsima flaps :[0m yer a taco[0m
+[11:08] [0m[31;1m[Clan] Nameless :[0m nah, i corpse in chess or rimalkins usually[0m
+[11:08] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[11:08] [0m[31;1m[Clan] Oscar :[0m anyone got hearts of willy I could snag?[0m
+[11:09] [0m[31;1m[Clan] Nameless :[0m i have 12[0m
+[11:09] [0m[31;1m[Clan] Timmy :[0m no willy for you[0m
+[11:09] [0m[31;1m[Clan] Oscar :[0m i need ruby dust, stars of earth, and hearts of willy[0m
+[11:09] [0m[31;1m[Clan] Nameless :[0m 2 sup 2 good 4 avg 3 1[0m
+[11:10] [0mOscar <Craft>: in the market for ruby dust, stars of earth, hearts of willy[0m
+[11:10] [0m[37;1mBenek flaps :[0m now i want tacos.[0m
+[11:10] [0m[31;1m[Clan] Nameless :[0m but yeah, after i finish tacos, ill top off corpses or whatever and can do[0m
+[11:10] [0m                  some more congloms[0m
+[11:10] [0m[31;1m[Clan] Nameless :[0m if i dont have to tank the full stack of mentals im fine, but all... 9 or 12[0m
+[11:10] [0m                  or whatever at onces hurts[0m
+[11:13] [0m[31;1m[Clan] Timmy :[0m i sit there with repeat combat/kill elemental 1[0m
+[11:13] [0m[31;1m[Clan] Timmy :[0m and kill the ones that spawn[0m
+[11:13] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[11:13] [0m[31;1m[Clan] Nameless :[0m just space and ziphe didnt so i cant kill mentals fast enough to get past the[0m
+[11:13] [0m                  ones spawning[0m
+[11:13] [0m[37;1mBenek flaps :[0m this one easy trick to never be hungry again...[0m
+[11:13] [0m[31;1m[Clan] Nameless :[0m my dmg is pathetic :([0m
+[11:13] [0m[31;1m[Clan] Timmy :[0m murderers[0m
+[11:13] [0m[37;1mBenek flaps :[0m dcctors hate it[0m
+[11:14] [0m[31;1m[Clan] Timmy :[0m have you considered wiping and starting as a gallant?[0m
+[11:14] [0m[37;1mNameless flaps :[0m is it.... eating dumpster clams?[0m
+[11:14] [0m[31;1m[Clan] Timmy :[0m i know the name brucie is free[0m
+[11:14] [0m[31;1m[Clan] Timmy :[0m or brucette[0m
+[11:14] [0m[37;1mBenek flaps :[0m lol[0m
+[11:14] [0m[31;1m[Clan] Timmy :[0m brucildha?[0m
+[11:14] [0m[31;1m[Clan] Nameless :[0m Character Powerbottom does not exist @ this realm (3k).[0m
+[11:15] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[11:15] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[11:16] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[11:16] [0m[31;1m[Clan] Toren enters the game.[0m  [0m
+[11:17] [0m[31;1m[Clan] Nameless :[0m forgot you had a necro heh[0m
+[11:18] [0m[31;1m[Clan] Toren :[0m anyone want pres's before i pop back over?[0m
+[11:18] [0m[31;1m[Clan] Prism enters the game.[0m  [0m
+[11:19] [0m[31;1m[Clan] Toren leaves the game.[0m  [0m
+[11:19] [0m[31;1m[Clan] Toren enters the game.[0m  [0m
+[11:20] [0m[31;1m[Clan] Nameless :[0m bigboi secz time soon?![0m
+[11:20] [0m[31;1m[Clan] Timmy :[0m sorry i'm already here, big boy timmy[0m
+[11:20] [0m[31;1m[Clan] Prism :[0m Not sure today, two people getting their second shots haha[0m
+[11:20] [0m[31;1m[Clan] Timmy :[0m oh you were talking to prism? confusing[0m
+[11:20] [0m[31;1m[Clan] Toren leaves the game.[0m  [0m
+[11:20] [0m[31;1m[Clan] Prism :[0m Yea, cuz you a SCRUB compared to me![0m
+[11:20] [0m[31;1m[Clan] Nameless :[0m hehehe[0m
+[11:21] [0m[31;1m[Clan] Timmy :[0m prism mean[0m
+[11:21] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[11:21] [0m[31;1m[Clan] Prism :[0m who has og auro[0m
+[11:21] [0m[31;1m[Clan] Nameless :[0m sapce[0m
+[11:21] [0m[31;1m[Clan] Decav :[0m Idk but @ me when you find out[0m
+[11:21] [0m[31;1m[Clan] Nameless :[0m space even[0m
+[11:21] [0m[31;1m[Clan] Nix :[0m auro guardian usually spawns with it[0m
+[11:21] [0m[31;1m[Clan] Nameless :[0m grin[0m
+[11:21] [0m[31;1m[Clan] Prism :[0m VERY FUNNY NIX[0m
+[11:22] [0m[31;1m[Clan] Timmy :[0m mask probably sitting at ss[0m
+[11:22] [0m[31;1m[Clan] Decav :[0m tho maybe i wanna dupe a shard instead[0m
+[11:22] [0m[31;1m[Clan] Elektra :[0m sorry about that[0m
+[11:22] [0m[31;1m[Clan] Decav :[0m ser, what weapons are good for psi?![0m
+[11:22] [0m[31;1m[Clan] Elektra :[0m done with beloch i guess[0m
+[11:22] [0m[31;1m[Clan] Elektra :[0m wc100 weapons[0m
+[11:22] [0m[31;1m[Clan] Decav :[0m hammer, shard, what else? Im a weapons noob[0m
+[11:23] [0m[31;1m[Clan] Elektra :[0m psiwielded weapons are reduced to their wc only i believe[0m
+[11:23] [0m[31;1m[Clan] Byron :[0m +pen is nice too[0m
+[11:23] [0m[31;1m[Clan] Elektra :[0m oh does that carry through on psiwield[0m
+[11:23] [0m[31;1m[Clan] Byron :[0m pretty sure that goes through on genarm/psiwield[0m
+[11:23] [0m[31;1m[Clan] Elektra :[0m of course one is wielded normally[0m
+[11:23] [0m[31;1m[Clan] Decav :[0m sick[0m
+[11:23] [0m[31;1m[Clan] Decav :[0m im using redaxe atm for hp/sp heals. i guess i should xmute that to a sword[0m
+[11:23] [0m               though?[0m
+[11:23] [0m[31;1m[Clan] Byron :[0m if you want sure? unless youre a lumberjack[0m
+[11:24] [0m[31;1m[Clan] Decav :[0m does swordsman prof/mskill help psiwield?[0m
+[11:24] [0m[31;1m[Clan] Byron :[0m why sword? swordsman?[0m
+[11:24] [0m[31;1m[Clan] Byron :[0m ya[0m
+[11:24] [0m[31;1m[Clan] Byron :[0m o[0m
+[11:24] [0m[31;1m[Clan] Byron :[0m cant answer that[0m
+[11:24] [0m[31;1m[Clan] Byron :[0m if it adds to +mskill[0m
+[11:24] [0m[31;1m[Clan] Byron :[0m dunno, but if it were lumberjack/axe it definitely would[0m
+[11:25] [0m[31;1m[Clan] Vidae enters the game.[0m  [0m
+[11:26] [0m[31;1m[Clan] Vidae :[0m space had og, I duped, mask is apparently at ss[0m
+[11:26] [0m[31;1m[Clan] Byron :[0m anyone sitting on ruby/ruby dust/star of earths they dont want?[0m
+[11:27] [0m[31;1m[Clan] Nameless :[0m assuming psiwielded axe can proc it[0m
+[11:27] [0m[31;1m[Clan] Nix :[0m just angel dust here[0m
+[11:27] [0m[31;1m[Clan] Byron :[0m i bet[0m
+[11:27] [0m[31;1m[Clan] Nameless :[0m booger sugar[0m
+[11:27] [0m[31;1m[Clan] Nix :[0m sleep is for the week[0m
+[11:27] [0m[31;1m[Clan] Nameless :[0m i can give you some BIG willy if you still need[0m
+[11:28] [0m[31;1m[Clan] Byron :[0m i'll take all the willy you got[0m
+[11:28] [0m[34;1mTuba shouts:[0m no let them die then reanimate them vagrant![0m
+[11:28] [0m[31;1m[Clan] Nameless :[0m ill finish tacos then drop by cbox or somethin[0m
+[11:28] [0m[34;1mVagrant shouts:[0m hahaha!![0m
+[11:29] [0m[34;1mTex shouts:[0m with no pants[0m
+[11:32] [0m[31;1m[Clan] Toxin enters the game.[0m  [0m
+[11:33] [0m[31;1m[Clan] Ser :[0m stupid symbol[0m
+[11:33] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[11:33] [0m[Auction] Robert : Up for bids: Spork Lance (wicked) (spicy) (enchanted).[0m
+[11:33] [0m[Auction] Robert : Din has requested 10,000 as the opening offer.[0m
+[11:33] [0m[Auction] Robert : Got 10,000 from Twanger(knig).  Do I hear 10,500?[0m
+[11:33] [0m[Auction] Robert : Got 10,500 from Byron(bard).  Do I hear 11,550?[0m
+[11:33] [0m[31;1m[Clan] Decav :[0m anyone know wc of spork?[0m
+[11:33] [0m[31;1m[Clan] Nik enters the game.[0m  [0m
+[11:33] [0m[Auction] Byron (bard) : yours[0m
+[11:33] [0m[Auction] Robert : Got 20,000 from Twanger(knig).  Do I hear 22,000?[0m
+[11:33] [0m[Auction] Robert : Got 100,000 from Kagour(jugg).  Do I hear 110,000?[0m
+[11:33] [0m[31;1m[Clan] Prism :[0m I think it's like 90?[0m
+[11:33] [0m[31;1m[Clan] Decav :[0m oh pretty good[0m
+[11:33] [0m[31;1m[Clan] Byron :[0m lots of knights on[0m
+[11:33] [0m[Auction] Robert : 100,000 going once![0m
+[11:34] [0m[Auction] Robert : Got 110,000 from Twanger(knig).  Do I hear 121,000?[0m
+[11:34] [0m[Auction] Ziphe (prie) : spicy pork[0m
+[11:34] [0m[Auction] Robert : Got 121,000 from Kremlin(gent).  Do I hear 133,100?[0m
+[11:34] [0m[31;1m[Clan] Decav :[0m i think psi caps wc based on psiwield skill (guessing) so 100wc might not matter[0m
+[11:34] [0m               for me yet. ill test it tho[0m
+[11:34] [0m[Auction] Robert : Got 150,000 from Twanger(knig).  Do I hear 165,000?[0m
+[11:34] [0m[31;1m[Clan] Prism :[0m do you have a shard?[0m
+[11:34] [0m[Auction] Nameless (bard) : wow i guess i know what im auctioning and not just leaving ina  box[0m
+[11:34] [0m[31;1m[Clan] Decav :[0m not yet[0m
+[11:34] [0m[31;1m[Clan] Elektra :[0m nr said 90[0m
+[11:34] [0m[Auction] Prism (gent) : What is it?[0m
+[11:34] [0m[Auction] Tuba (necr) : now i'm hungry, good thing it's lunch time[0m
+[11:34] [0m[31;1m[Clan] Elektra :[0m with my hone 97[0m
+[11:34] [0m[Auction] Robert : Got 200,000 from Kagour(jugg).  Do I hear 220,000?[0m
+[11:34] [0m[Auction] Ziphe (prie) : spicy pork[0m
+[11:34] [0m[31;1m[Clan] Elektra :[0m with nr's hone probably 99 or 100[0m
+[11:34] [0m[31;1m[Clan] Prism :[0m yea spork is nice to get honed[0m
+[11:34] [0m[Auction] Robert : Got 220,000 from Twanger(knig).  Do I hear 242,000?[0m
+[11:34] [0m[31;1m[Clan] Decav :[0m what is a hone?[0m
+[11:34] [0m[31;1m[Clan] Prism :[0m knight sharpens it[0m
+[11:34] [0m[31;1m[Clan] Prism :[0m adds wc[0m
+[11:34] [0m[Auction] Robert : 220,000 going once![0m
+[11:35] [0m[31;1m[Clan] Decav :[0m o nice[0m
+[11:35] [0m[Auction] Prism (gent) : I should start doing tacos[0m
+[11:35] [0m[Auction] Robert : 220,000 going twice![0m
+[11:35] [0m[31;1m[Clan] Decav :[0m how often can they do it[0m
+[11:35] [0m[31;1m[Clan] Nameless :[0m its like a pony but more horselike[0m
+[11:35] [0m[31;1m[Clan] Prism :[0m once per weapon[0m
+[11:35] [0m[31;1m[Clan] Elektra :[0m only on edged weapons[0m
+[11:35] [0m[Auction] Robert : Sold to Twanger for 220,000 coins![0m
+[11:35] [0m[31;1m[Clan] Decav :[0m very cool![0m
+[11:35] [0m[31;1m[Clan] Elektra :[0m no[0m
+[11:35] [0m[31;1m[Clan] Elektra :[0m a better knight can upgrade[0m
+[11:35] [0m[31;1m[Clan] Prism :[0m right[0m
+[11:35] [0m[31;1m[Clan] Elektra :[0m if i hone then NR can "improve" it[0m
+[11:35] [0m[31;1m[Clan] Elektra :[0m to take it up to his level[0m
+[11:36] [0m[31;1m[Clan] Nameless :[0m almost taco assembly time[0m
+[11:37] [0m[31;1m[Clan] Prism :[0m Anyone know where tv is?[0m
+[11:37] [0m[31;1m[Clan] Prism :[0m actually nm I don't need string anymore I forgot[0m
+[11:38] [0m[31;1m[Clan] Nameless :[0m o[0m
+[11:38] [0m[31;1m[Clan] Nameless :[0m i have a string in my butt[0m
+[11:38] [0m[31;1m[Clan] Nameless :[0m string2 that is[0m
+[11:38] [0m[31;1m[Clan] Prism :[0m You should DEFINITELY see a doctor[0m
+[11:39] [0m[31;1m[Clan] Nameless :[0m haha[0m
+[11:39] [0m[31;1m[Clan] Elektra :[0m i am so close to level[0m
+[11:39] [0m[31;1m[Clan] Elektra :[0m could get it this boot[0m
+[11:39] [0m[31;1m[Clan] Nameless :[0m same[0m
+[11:39] [0m[31;1m[Clan] Nameless :[0m 30b to lvl[0m
+[11:39] [0m[31;1m[Clan] Byron :[0m o thats ez[0m
+[11:39] [0m[31;1m[Clan] Nameless :[0m xnod[0m
+[11:41] [0m[31;1m[Clan] Nameless :[0m i need to not forget i can just rainbow all these taco fools and speed up this[0m
+[11:41] [0m                  godforsaken area[0m
+[11:42] [0m[31;1m[Clan] Nameless :[0m woo guac[0m
+[11:42] [0m[31;1m[Clan] Byron :[0m i run rainbow always almost[0m
+[11:43] [0m[31;1m[Clan] Byron :[0m even a lot of times outside tacos[0m
+[11:43] [0m[31;1m[Clan] Nameless :[0m im hoping with next dodge or whatever ill be able to do that[0m
+[11:43] [0m[31;1m[Clan] Byron :[0m But I think nix/mine is probably a fucking lot stronger[0m
+[11:43] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[11:44] [0m[31;1m[Clan] Nameless :[0m still in the awkward stage of needing more rhythm to not just blow karma[0m
+[11:44] [0m                  trying to restart song on bad rounds above like... 40mils i think[0m
+[11:44] [0m[31;1m[Clan] Prism :[0m I believe in you[0m
+[11:45] [0m[31;1m[Clan] Byron :[0m nog[0m
+[11:45] [0m[31;1m[Clan] Byron :[0m I can just facetank at this point too w/ my dodge heh[0m
+[11:45] [0m[31;1m[Clan] Nameless :[0m ooo nice[0m
+[11:45] [0m[31;1m[Clan] Byron :[0m Nix and I have pretty gross dr[0m
+[11:45] [0m[31;1m[Clan] Nameless :[0m facetank as in just ab/blink/hs or just saying no gear but other prots[0m
+[11:45] [0m[31;1m[Clan] Nix :[0m i handle myself pretty well[0m
+[11:46] [0m[31;1m[Clan] Byron :[0m avoid blow[0m
+[11:46] [0m[31;1m[Clan] Byron :[0m and whatever else[0m
+[11:46] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[11:46] [0m[31;1m[Clan] Byron :[0m but avoid blow is the workhorse no matter how you look at it[0m
+[11:46] [0m[31;1m[Clan] Nix :[0m nod[0m
+[11:46] [0m[31;1m[Clan] Nix :[0m i wish i had more karma[0m
+[11:46] [0m[31;1m[Clan] Nix :[0m +cha would be huge[0m
+[11:46] [0m[31;1m[Clan] Nameless :[0m i should setup another mode for tanking, rainbow on, but still keep defense[0m
+[11:46] [0m                  songs up[0m
+[11:46] [0m[31;1m[Clan] Byron :[0m sub 275 cha fuggo[0m
+[11:46] [0m[31;1m[Clan] Nix :[0m i'm going to max int/wis this level and dump the rest into cha or con[0m
+[11:47] [0m[31;1m[Clan] Nameless :[0m heh[0m
+[11:47] [0m[31;1m[Clan] Prism :[0m I'm about to max str but my int/cha are both still at 25, I'm an ugly and dumb[0m
+[11:47] [0m               fucker[0m
+[11:47] [0m[31;1m[Clan] Byron :[0m When I have real internet soonish I'm gonna set you up on my bard tt[0m
+[11:47] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[11:47] [0m[31;1m[Clan] Byron :[0m is vorpal nobreak?[0m
+[11:47] [0m[31;1m[Clan] Byron :[0m btw[0m
+[11:47] [0m[31;1m[Clan] Nameless :[0m it should be nobreak[0m
+[11:47] [0m[31;1m[Clan] Nix :[0m only when it snickers..when it snacks it breaks[0m
+[11:47] [0m[31;1m[Clan] Byron :[0m anyone have lettuce wrap now that i think of it?[0m
+[11:47] [0m[31;1m[Clan] Nameless :[0m i think redaxe is the main breakable bs weap i know of[0m
+[11:48] [0m[31;1m[Clan] Nameless :[0m well i have enough ingredients to make another dtaco, or i could do a works[0m
+[11:48] [0m                  and maybe luck into wrap[0m
+[11:48] [0m[31;1m[Clan] Nameless :[0m kinda hoping i can get a spork and make a sweet 100k to fuel my gentech[0m
+[11:48] [0m                  addiction for like... a phase or two[0m
+[11:49] [0m[31;1m[Clan] Byron :[0m anyone got legendary ruby dust?[0m
+[11:49] [0m[31;1m[Clan] Ser :[0m ya 18 of em[0m
+[11:49] [0m[31;1m[Clan] Byron :[0m oo[0m
+[11:49] [0m[31;1m[Clan] Byron :[0m can i have a few?[0m
+[11:49] [0m[31;1m[Clan] Ser :[0m sure come kill conglom[0m
+[11:49] [0m[31;1m[Clan] Michael :[0m you need coins to phae nameless?[0m
+[11:49] [0m[31;1m[Clan] Nameless :[0m ooo you got to guac[0m
+[11:50] [0m[31;1m[Clan] Nameless :[0m i dont yet, but i knocked myself out of the 10mils already[0m
+[11:50] [0m[31;1m[Clan] Byron :[0m Here's all I'm looking for, ruby dust / ruby / star of earth, hearts of willy /[0m
+[11:50] [0m               compassion[0m
+[11:50] [0m[31;1m[Clan] Byron :[0m omw[0m
+[11:50] [0m[31;1m[Clan] Byron :[0m i got hearts for you to xmute up if you can[0m
+[11:50] [0m[31;1m[Clan] Prism :[0m uh[0m
+[11:50] [0m[31;1m[Clan] Ser :[0m i have 19 ruby, 31 star[0m
+[11:50] [0m[31;1m[Clan] Michael :[0m let me know when ya do because while I'm not uber rich... wtf do I use coins[0m
+[11:50] [0m                 for as a Jensaarai lol[0m
+[11:50] [0m[31;1m[Clan] Elektra :[0m i have some of those byron[0m
+[11:50] [0m[31;1m[Clan] Prism :[0m my stash is full, legit 999 in it, so if you want literally any of it you can[0m
+[11:50] [0m               have it[0m
+[11:50] [0m[31;1m[Clan] Byron :[0m killing blockers[0m
+[11:50] [0m[31;1m[Clan] Byron :[0m woo, ty[0m
+[11:50] [0m[31;1m[Clan] Elektra :[0m i have 19 ruby 35 dust 49 star and unlimited hearts[0m
+[11:50] [0m[31;1m[Clan] Ser :[0m prism i can condense for you[0m
+[11:51] [0m[31;1m[Clan] Prism :[0m Oh I forgot I made a macro for that[0m
+[11:51] [0m[31;1m[Clan] Nameless :[0m also, whoever decided to make it so you can phase other things higher than[0m
+[11:51] [0m                  slot purge needs to have their balls squished[0m
+[11:51] [0m[31;1m[Clan] Prism :[0m now I'm at 971 :P[0m
+[11:51] [0m[31;1m[Clan] Byron :[0m My xmuter can upgrade hearts of rejuv/rage/soul/unseen[0m
+[11:52] [0m[31;1m[Clan] Nameless :[0m nice, spork![0m
+[11:52] [0m[31;1m[Clan] Byron :[0m only 1 jar at conglom[0m
+[11:52] [0m[31;1m[Clan] Byron :[0m o[0m
+[11:52] [0m[31;1m[Clan] Byron :[0m youre here too[0m
+[11:55] [0m[31;1m[Clan] Nameless :[0m ill be down to conglom in a few more mobs[0m
+[11:57] [0m[31;1m[Clan] Nameless :[0m kinda wish bards had a setting that could either exclude shields from wear[0m
+[11:57] [0m                  all, or i guess just a setting that if performing actively, wear all wont[0m
+[11:57] [0m                  screw you[0m
+[11:57] [0m[31;1m[Clan] Ser :[0m easy, smuggle shield[0m
+[11:58] [0m[37;1mSimonz flaps :[0m secz reset[0m
+[11:58] [0m[31;1m[Clan] Decav :[0m why do most psi go swordsman over lumberjack?[0m
+[11:58] [0m[31;1m[Clan] Nameless :[0m cant smuggle aylin sadly[0m
+[11:58] [0m[31;1m[Clan] Prism :[0m shards are swords right?[0m
+[11:58] [0m[31;1m[Clan] Decav :[0m does prof affect psiwield? assume not right?[0m
+[11:58] [0m[31;1m[Clan] Nameless :[0m more of the good weaps are sword, even if axe prof is better ish[0m
+[11:59] [0m[31;1m[Clan] Decav :[0m hmm[0m
+[11:59] [0m[31;1m[Clan] Nameless :[0m i am curious thougha bout someone going xmuter and psiwielding things xmuted[0m
+[11:59] [0m                  to axe[0m
+[11:59] [0m[31;1m[Clan] Nameless :[0m since i would imagine they wouldnt interfere with the xmute limit[0m
+[11:59] [0m[31;1m[Clan] Byron :[0m they would i bet[0m
+[11:59] [0m[31;1m[Clan] Decav :[0m if profs impact psiwield[0m
+[11:59] [0m[31;1m[Clan] Nameless :[0m just be expensive on colors[0m
+[12:00] [0m[31;1m[Clan] Decav :[0m i think psiwield is intended to be purely scaled on the skills. so im curious if[0m
+[12:00] [0m               mskills/profs help it[0m
+[12:00] [0m[31;1m[Clan] Nameless :[0m mskills dont affect psiwield, but unsure on profs, since the swordsman is[0m
+[12:00] [0m                  mskill related[0m
+[12:00] [0m[37;1mSimonz flaps :[0m last call for secz[0m
+[12:00] [0m[31;1m[Clan] Decav :[0m "damaging attacks with a sword"[0m
+[12:00] [0m[31;1m[Clan] Nix :[0m when are we going to run secz?[0m
+[12:00] [0m[31;1m[Clan] Decav :[0m yeah idk[0m
+[12:00] [0m[31;1m[Clan] Nameless :[0m i want to asap[0m
+[12:00] [0m[31;1m[Clan] Decav :[0m ill test it once i get swordsman[0m
+[12:01] [0m[31;1m[Clan] Decav :[0m but if it is indeed mainhand only i feel like lumberjack is better[0m
+[12:01] [0mPDFd  Wm:g Wc: 42% Gx: 16.06% Fx: 31.26%[0m
+[12:01] [0m[31;1m[Clan] Byron :[0m if swordsman is +mskill bonus[0m
+[12:01] [0m[31;1m[Clan] Decav :[0m its not[0m
+[12:01] [0m[31;1m[Clan] Byron :[0m then lumberjack is 100% ebtter[0m
+[12:01] [0m[32mSpace tells you:[0m funny, i was waiting for natural reset :D[0m
+[12:01] [0m[31;1m[Clan] Byron :[0m nog[0m
+[12:01] [0m[32mYou say:[0m ahah my b space[0m
+[12:01] [0m[31;1m[Clan] Decav :[0m i think swordsman==lumberjack, raw +dmg not a boost to teh mskill[0m
+[12:02] [0m[31;1m[Clan] Byron :[0m nog[0m
+[12:02] [0m[32mYou tell Space:[0m there an eta?[0m
+[12:02] [0m[32mSpace says:[0m  its ok :D[0m
+[12:02] [0m[31;1m[Clan] Nameless :[0m peepee poopoo[0m
+[12:02] [0m[32mSpace says:[0m well i was asking clan mage to come check timer :D[0m
+[12:02] [0m[31;1m[Clan] Aka :[0m that's my name don't wear it out[0m
+[12:02] [0m[31;1m[Clan] Nameless :[0m one day ill finish a competent taco stepper[0m
+[12:03] [0m[31;1m[Clan] Byron :[0m repeat nocombat/grab taco[0m
+[12:03] [0m[32mYou say:[0m resetting again and giving away whatever ring you want[0m
+[12:03] [0m[31;1m[Clan] Byron :[0m literally my taco bot[0m
+[12:03] [0m[31;1m[Clan] Byron :[0m repeat nocombat/assemble cheesy taco[0m
+[12:03] [0m[32mSpace says:[0m no its ok[0m
+[12:03] [0m[32mSpace says:[0m no need, just in future be nice to ask :)[0m
+[12:04] [0m[31;1m[Clan] Nameless :[0m the wings bit helps for dtaco itself, but with lettuce punting you east or[0m
+[12:04] [0m                  west i guess i can just have the trigger run all west then 2 e[0m
+[12:04] [0m[32mYou say:[0m what, no qoh here. ok will do[0m
+[12:04] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[12:04] [0m[31;1m[Clan] Byron :[0m i combine it with a repeat always/west[0m
+[12:04] [0m[31;1m[Clan] Byron :[0m sometimes[0m
+[12:04] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[12:05] [0m[31;1m[Clan] Nameless :[0m and grab taco is a universal ingredient identifier? dont have to list all the[0m
+[12:05] [0m                  potentials in the room?[0m
+[12:05] [0m[31;1m[Clan] Byron :[0m no[0m
+[12:05] [0m[31;1m[Clan] Byron :[0m just exmaple[0m
+[12:05] [0m[31;1m[Clan] Byron :[0m grab shell[0m
+[12:05] [0m[31;1m[Clan] Nameless :[0m would be a tragedy if like every 5 rounds or so i grabbed meatloaf ;p[0m
+[12:05] [0m[31;1m[Clan] Byron :[0m change it in each room[0m
+[12:05] [0m[31;1m[Clan] Byron :[0m working as designed[0m
+[12:05] [0m[31;1m[Clan] Prism :[0m I never do taco, ever, literally no idea how to even get to the place. I should[0m
+[12:05] [0m               prob learn that huh[0m
+[12:06] [0m[31;1m[Clan] Byron :[0m or you could stay in sz[0m
+[12:06] [0m[31;1m[Clan] Byron :[0m seems to be wroking out ok for you :D[0m
+[12:06] [0m[32mYou say:[0m greaves, regen, focus? or auction, medium, other?[0m
+[12:06] [0m[31;1m[Clan] Nameless :[0m hehehe[0m
+[12:06] [31;1m[Clan] Dangerzone enters the game.[0m  [0m
+[12:06] [0mYou can currently reforge 2 items.[0m
+[12:06] [0m[31;1m[Clan] Byron :[0m anyone able to help me headband boscar?[0m
+[12:06] [0m[32mYou say:[0m send tell[0m
+[12:06] [0mYou can currently reforge 2 items.[0m
+[12:06] [0m[31;1m[Clan] Nameless :[0m i could, but i dont have mine yet[0m
+[12:06] [0m[31;1m[Clan] Prism :[0m I won't be playing Prism forever, I'm already close to not[0m
+[12:06] [0m               getting anything new lol[0m
+[12:06] [0m[32mYou say:[0m can i reset?[0m
+[12:06] [0m[31;1m[Clan] Prism :[0m I think order 15 is the last cool thing[0m
+[12:06] [0m[31;1m[Clan] Byron :[0m perfect time for hc![0m
+[12:06] [0m[31;1m[Clan] Decav :[0m time to join the alt crew![0m
+[12:07] [0m[31;1m[Clan] Nameless :[0m xnod, hcparty![0m
+[12:07] [0m[32mHavox says:[0m 24min[0m
+[12:07] [0m[31;1m[Clan] Prism :[0m haha[0m
+[12:07] [0m[31;1m[Clan] Byron :[0m im cranking my hardcore this boot w +stat gems[0m
+[12:07] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[12:07] [0m[31;1m[Clan] Decav :[0m decav's already a gear farmer. it's kinda nice[0m
+[12:07] [0m[31;1m[Clan] Byron :[0m On byron it's like +20% of my base, my alt it's like +4000%[0m
+[12:07] [0m[31;1m[Clan] Nameless :[0m not goin hard with inductor stuff?[0m
+[12:07] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Deserts of Fantasy![0m
+[12:07] [0m                          We are localizing it now - get ready![0m
+[12:07] [0m[32mSpace tells you:[0m there no harm no foul[0m
+[12:07] [0m[31;1m[Clan] Michael :[0m I always get stuck at... wtf guild would my hc be[0m
+[12:07] [0m[31;1m[Clan] Byron :[0m i like priest a lot for it[0m
+[12:07] [0m[31;1m[Clan] Decav :[0m depends what your goal is[0m
+[12:07] [0m[31;1m[Clan] Nameless :[0m im enjoying mental a lot[0m
+[12:07] [0m[32mSpace tells you:[0m 24mn is a long time, i would never say no to anyone refreshing while i waited[0m
+[12:07] [0m        :)[0m
+[12:07] [0m[31;1m[Clan] Byron :[0m mentals are nice hc guild[0m
+[12:07] [0m[31;1m[Clan] Byron :[0m ya[0m
+[12:07] [0m[31;1m[Clan] Byron :[0m juggers are prolly the best[0m
+[12:08] [0m[31;1m[Clan] Nameless :[0m can run around my chess endlessly already[0m
+[12:08] [0m[31;1m[Clan] Decav :[0m 130? solo? Jedi.. 100.. Android. like fast lvl 50ish? Mage or mental[0m
+[12:08] [0m[31;1m[Clan] Roken :[0m anyone need roh? I have --  greaves, regen, focus? or auction, medium, other?[0m
+[12:08] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[12:08] [0m[32mSpace tells you:[0m i appreciate your offering rings, but really no harm no foul you keep em :)[0m
+[12:08] [0m[31;1m[Clan] Saim :[0m i could use one[0m
+[12:08] [0m[31;1m[Clan] Nameless :[0m il ike the focus[0m
+[12:09] [0m[31;1m[Clan] Michael :[0m i always need Roh I aint picky, but I also need it less than others[0m
+[12:09] [0m[31;1m[Clan] Prism :[0m Zelligar takes me 100 years to kill[0m
+[12:10] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[12:10] [0m[Auction] Robert : Up for bids: Spork Lance (wicked) (enchanted).[0m
+[12:10] [0m[Auction] Robert : Nameless has requested 33,333 as the opening offer.[0m
+[12:10] [0m[Auction] Nameless (bard) : i herd you liek cutlery[0m
+[12:10] [0m[31;1m[Clan] Roken :[0m ok and last one for now has power, bow, exotic[0m
+[12:10] [0m[Auction] Robert : Got 33,333 from Twanger(knig).  Do I hear 36,666?[0m
+[12:10] [0m[Auction] Prism (gent) : Wow what a steal![0m
+[12:10] [0m[32;1mFrom afar, you thank Space.[0m[0m
+[12:10] [0m[Auction] Nauda (necr) : did you lick it already?[0m
+[12:10] [0m[32;1mFrom afar, Space bows before you.[0m[0m
+[12:10] [0m[Auction] Robert : 33,333 going once![0m
+[12:10] [0m[31;1m[Clan] Byron :[0m if anyone comes across lettuce wrap...holla[0m
+[12:10] [0m[Auction] Robert : 33,333 going twice![0m
+[12:10] [0m[Auction] Hyperion (mage) : that costs extra[0m
+[12:10] [0m[31;1m[Clan] Prism :[0m what's wrap do[0m
+[12:11] [0m[Auction] Nameless (bard) : been sitting in the sun in a bowl of potato salad (with raisins!)[0m
+[12:11] [0m[Auction] Robert : Sold to Twanger for 33,333 coins![0m
+[12:11] [0m[31;1m[Clan] Sock :[0m changes to blunt wc[0m
+[12:11] [0m[Auction] Nameless (bard) : jk i hate potato salad[0m
+[12:11] [0m[31;1m[Clan] Prism :[0m oh[0m
+[12:11] [0m[31;1m[Clan] Roken :[0m focus ring in cbox[0m
+[12:11] [0m[31;1m[Clan] Roken :[0m and last ring in cbox[0m
+[12:12] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[12:12] [0m[31;1m[Clan] Roken :[0m anyone have reforges?[0m
+[12:12] [0m[31;1m[Clan] Nameless :[0m i do[0m
+[12:12] [0m[31;1m[Clan] Michael :[0m I got plenty[0m
+[12:13] [0m[31;1m[Clan] Nameless :[0m i wanna kill a conglom[0m
+[12:13] [0m[31;1m[Clan] Nameless :[0m or two[0m
+[12:13] [0m[31;1m[Clan] Byron :[0m i got golems[0m
+[12:13] [0m[31;1m[Clan] Michael :[0m when I finally go back to my kniggit gobj it'll be an interesting experience[0m
+[12:13] [0mYou can currently reforge 2 items.[0m
+[12:13] [0m[31;1m[Clan] Prism :[0m Anyone wanna do some belochs?[0m
+[12:13] [0m[31;1m[Clan] Prism :[0m I'm tryharding this boot, need 2 potions hehehehe[0m
+[12:13] [0m[31;1m[Clan] Decav :[0m wow prism going real tryhard this boot[0m
+[12:13] [0m[31;1m[Clan] Nameless :[0m :D[0m
+[12:13] [0m[31;1m[Clan] Prism :[0m or 3 potions idk whatever[0m
+[12:14] [0m[31;1m[Clan] Decav :[0m trying to run more O?[0m
+[12:14] [0m[31;1m[Clan] Prism :[0m yea wanna try 50 O[0m
+[12:14] [0m[31;1m[Clan] Nameless :[0m yeah i guess i can do belly, only need the bplate from[0m
+[12:14] [0m                  conglom, can do that later[0m
+[12:14] [0m[31;1m[Clan] Nix :[0m i can come hit as soon as i get out of tacos[0m
+[12:14] [0mYou can currently reforge 2 items.[0m
+[12:15] [0m[31;1m[Clan] Byron :[0m hmmm 4.4mil class mob?[0m
+[12:15] [0m[31;1m[Clan] Nameless :[0m yo momma[0m
+[12:15] [0m[31;1m[Clan] Byron :[0m i overshot on chess dungeon[0m
+[12:15] [0m[31;1m[Clan] Nameless :[0m delundar is here, i think thats about the right size[0m
+[12:16] [0m[32mYou tell Michael:[0m ok, may I please have 3 forges?[0m
+[12:16] [0m[32;1mFrom afar, Michael nods to you.[0m[0m
+[12:16] [0m[34;1mNauda shouts:[0m We require more minerals![0m
+[12:16] [0m[34;1mNameless shouts:[0m YOU MUST CONSTRUCT ADDITIONAL PYLONS[0m
+[12:16] [0m[32mMichael tells you:[0m meet shop?[0m
+[12:16] [0m[34;1mBenek shouts:[0m hehehe[0m
+[12:16] [0m[34;1mSimonz shouts:[0m My life for Aiur![0m
+[12:17] [0m[37;1mNauda flaps :[0m 8inix bring pylon online?[0m
+[12:17] [0m[34;1mBenek shouts:[0m cheeeewweeeeey[0m
+[12:17] [0m[34;1mBenek shouts:[0m that's what the protoss drones say when you click on them.[0m
+[12:18] [0m[32mYou tell Michael:[0m at cbox[0m
+[12:19] [0m[31;1m[Clan] Michael :[0m stupid phone calls made me miss my repair droid[0m
+[12:19] [0m[32mMichael says:[0m what ya want em reforged to?[0m
+[12:19] [0m[32mYou say:[0m to defense[0m
+[12:20] [0m[32mMichael says:[0m from which ac?[0m
+[12:20] [0m[32mYou say:[0m spirit mind, ring uh idk[0m
+[12:20] [0m[32mYou say:[0m i think all mind[0m
+[12:20] [0m[32mYou say:[0m work for maximum defense[0m
+[12:20] [0m[31;1m[Clan] Roken :[0m who has axe?[0m
+[12:20] [0m[31;1m[Clan] Byron :[0m ahouse[0m
+[12:20] [0m[31;1m[Clan] Prism :[0m AH[0m
+[12:20] [0m[31;1m[Clan] Decav :[0m ahouse[0m
+[12:21] [0m[31;1m[Clan] Prism :[0m I bitched to timmy last night about how its never put up there and then they did[0m
+[12:21] [0m               it :P[0m
+[12:21] [0mGuru {Professions}: how about "vaf sabbatical": a period of leave granted from a profession to[0m
+[12:21] [0m                    study another one.  At the conclusion of the study, you can decide to either[0m
+[12:21] [0m                    permanently resign from the old profession or return to it where you left[0m
+[12:21] [0m                    off.[0m
+[12:21] [0m[31;1m[Clan] Decav :[0m haha nice guy that timmy[0m
+[12:21] [0m[31;1m[Clan] Roken :[0m ok :D[0m
+[12:21] [0m[32mMichael says:[0m haha i had other in inventory[0m
+[12:22] [0m[32mYou say:[0m oops am i taking your eq?[0m
+[12:22] [0m[32mMichael says:[0m nope[0m
+[12:22] [0m[32mMichael says:[0m I didn't see which one was reforged[0m
+[12:22] [0mRaest {Professions}: but can't you join all professions but are restricted to how many you can[0m
+[12:22] [0m                     get to master?[0m
+[12:22] [0m[32mMichael says:[0m make sure you got the right one lol[0m
+[12:22] [0m[32mMichael says:[0m it didn't append the short description even though it did[0m
+[12:22] [0m              reforge[0m
+[12:22] [0mRaest {Professions}: ignore me, i'm thinking crafting[0m
+[12:23] [0m[31;1m[Clan] Byron :[0m any legendary hearts of destruction?[0m
+[12:26] [0m[32mElektra says:[0m  oo roh[0m
+[12:30] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[12:30] [0m[31;1m[Clan] Toren enters the game.[0m  [0m
+[12:30] [0m[31;1m[Clan] Nameless :[0m ah man, sorva, thats a blast from the past[0m
+[12:30] [0m[31;1m[Clan] Elektra :[0m sorva isn't on[0m
+[12:31] [0m[31;1m[Clan] Nameless :[0m byrons bard exit msg[0m
+[12:31] [0m[31;1m[Clan] Elektra :[0m ah[0m
+[12:31] [0m[31;1m[Clan] Toren leaves the game.[0m  [0m
+[12:31] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[12:32] [0m[37;1mWhoknows <.oO>:[0m hax[0m
+[12:32] [0m[37;1mKagour <.oO>:[0m woot[0m
+[12:33] [0m[31;1m[Clan] Slacker enters the game.[0m  [0m
+[12:34] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[12:34] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[12:35] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[12:35] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[12:38] [0m[31;1m[Clan] Nameless :[0m when i grow up and become a big strong bard, i hope i do the big big dmg![0m
+[12:40] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[12:43] [0m[32mYou say:[0m reaxe[0m
+[12:43] [0m[32mYou say:[0m redaxe[0m
+[12:43] [0m[32mYou say:[0m 29[0m
+[12:44] [0m[34;1mBlunt shouts:[0m norbs[0m
+[12:45] [0mFlaxen {Professions}: Hi ho, hi ho ... it's off to work I go.[0m
+[12:45] [0m #  Item                 : How long?    CurBid BuyNow High Bidder Seller[0m
+[12:45] [0mFlaxen {Professions}: Hi ho, hi ho ... it's off to work I go.[0m
+[12:46] [0mZachitnik <Craft>: Hi. Do forged shields have any shield block rate?[0m
+[12:46] [0m[34;1mSpace shouts:[0m dude, its a blunt! lets smoke 'em![0m
+[12:47] [0m[Clan] Roken wisps into existence.[0m
+[12:47] [0m[Clan] Roken wisps into existence.[0m
+[12:47] [0m[34;1mNameless shouts:[0m gasp[0m
+[12:47] [0mElektra <Craft>: you mean crafted shields?[0m
+[12:47] [0m[34;1mRaest shouts:[0m Zelligar wanted and Oscar Meyer weiner![0m
+[12:47] [0m[34;1mBlunt shouts:[0m dis my amulet[0m
+[12:48] [0m[34;1mSpace shouts:[0m so you pointed him to the mask at ss @raest ?[0m
+[12:48] [0mElektra <Craft>: i don't believe so[0m
+[12:48] [0m[34;1mNauda shouts:[0m Broccoli are good for joints, just not too moist.[0m
+[12:48] [0m[31;1m[Clan] Oscar :[0m anyone want to kill a queen? i got a refresh[0m
+[12:48] [0m[31;1m[Clan] Prism :[0m I'm still doing belochs wah[0m
+[12:48] [0m[34;1mSpace shouts:[0m yikes broccoli vile veg[0m
+[12:48] [0mElektra <Craft>: reforgers (a profession) can reforge ac to smd, which is kind-of like a block[0m
+[12:48] [0m                 effect... makes mobs more likely to miss you.[0m
+[12:49] [0m[34;1mPrism shouts:[0m Broccoli #1 vegetable[0m
+[12:49] [0m[34;1mSpace shouts:[0m broccoli isonly good if its the albert kind, with proper non woke 007 in the[0m
+[12:49] [0m              production line[0m
+[12:49] [0m[34;1mAka shouts:[0m me and broccoli go way back[0m
+[12:50] [0m[31;1m[Clan] Nix :[0m you going to give me the ring?[0m
+[12:50] [0m[31;1m[Clan] Oscar :[0m depends whats on it[0m
+[12:50] [0m[31;1m[Clan] Nameless :[0m the a ring[0m
+[12:50] [0m[31;1m[Clan] Oscar :[0m i was just gonna poly the cards[0m
+[12:51] [0m[34;1mNightrider shouts:[0m get your own priest ! no mends for u[0m
+[12:52] [0mNauda <Craft>: smd works on reglar attacks but not on specials?[0m
+[12:52] [0mNauda <Craft>: smd works on reglar attacks but not on specials, unlike shield block?[0m
+[12:53] [0m[32mDrax says:[0m some gear on the ground of lord room[0m
+[12:53] [0m[32;1mFrom afar, you thank Drax.[0m[0m
+[12:55] [0mElektra <Craft>: i never tested if smd works on specials... should test it... but I'd be[0m
+[12:55] [0m                 surprised if it did.[0m
+[12:56] [0mElektra <Craft>: don't specials always hit?[0m
+[12:56] [0m[31;1m[Clan] Elektra :[0m like spell resistance or whatever doesn't make it miss... just sets damage to 0[0m
+[12:56] [0m[34;1mNightrider shouts:[0m woo die die die[0m
+[12:56] [0mElektra <Craft>: like spell resistance or whatever doesn't make it miss... just sets damage to 0[0m
+[12:56] [0mNauda <Craft>: there is that anti special ring from rim king[0m
+[12:56] [0mElektra <Craft>: ah that is new to me, heh[0m
+[12:57] [0mFlaxen <Craft>: yo yo yo[0m
+[12:57] [0m[34;1mZiphe shouts:[0m pepe le moo[0m
+[12:57] [0m[31;1m[Clan] Oscar :[0m anyone w a necro they dont care about wasting its zelligar?[0m
+[12:57] [0m[31;1m[Clan] Oscar :[0m and can port boscar in[0m
+[12:58] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[12:58] [0m[31;1m[Clan] Oscar :[0m woot[0m
+[12:58] [0m[31;1m[Clan] Oscar :[0m nik on it[0m
+[12:58] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[12:59] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[12:59] [0m[31;1m[Clan] Boscar enters the game.[0m  [0m
+[13:01] [0m[37;1mBliss flaps :[0m sectionz reset[0m
+[13:02] [0m[34;1mTex shouts:[0m shennaiganes take that goofy crap off the wall it goes on voodoo[0m
+[13:02] [0m[31;1m[Clan] Boscar :[0m oo my ftouch is already pretty badass[0m
+[13:02] [0m[31;1m[Clan] Boscar :[0m even before doing the quest[0m
+[13:02] [0m[31;1m[Clan] Nameless :[0m nice[0m
+[13:03] [0m[31;1m[Clan] Nameless :[0m i forget, do necroes have a thing to tell when a room will reset?[0m
+[13:03] [0m[31;1m[Clan] Nameless :[0m some sorta mask[0m
+[13:03] [0m[31;1m[Clan] Nameless :[0m or is that mages[0m
+[13:03] [0m[31;1m[Clan] Decav :[0m mages[0m
+[13:03] [0m[31;1m[Clan] Michael :[0m thats mages on 3S[0m
+[13:03] [0m[31;1m[Clan] Boscar :[0m both kind of do[0m
+[13:03] [0m[31;1m[Clan] Michael :[0m maybe on 3k too[0m
+[13:03] [0m[31;1m[Clan] Boscar :[0m mages exatly[0m
+[13:03] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[13:03] [0m[31;1m[Clan] Decav :[0m i thought its the one thing necros dont have[0m
+[13:03] [0m[31;1m[Clan] Boscar :[0m necros can see the last time it was killed[0m
+[13:03] [1;37;40m Auto Dissipate on Shield is [ON]
+[13:03] [1;37;40m Auto Dissipate on Shield is [ON]
+[13:03] [1;37;40m Auto Dissipate on Shield is [ON]
+[13:03] [1;37;40m Auto Dissipate on Shield is [ON]
+[13:03] [1;37;40m Auto Dissipate on Shield is [ON]
+[13:03] [1;37;40m Auto Dissipate on Shield is [ON]
+[13:03] [0m[31;1m[Clan] Boscar :[0m so, you can deduce when its going to reset sometimes based on that[0m
+[13:03] [0m[31;1m[Clan] Decav :[0m only if the mob is alive?[0m
+[13:03] [0m[31;1m[Clan] Decav :[0m or just a room power?[0m
+[13:04] [0m[31;1m[Clan] Boscar :[0m no, you see what was vanquished in the room[0m
+[13:04] [0m[31;1m[Clan] Boscar :[0m it gives like a 'many moons ago'[0m
+[13:04] [0m[31;1m[Clan] Decav :[0m oh nice[0m
+[13:04] [0m[31;1m[Clan] Boscar :[0m and other descriptive stuff[0m
+[13:04] [0m[31;1m[Clan] Nameless :[0m i miss the gypsy room[0m
+[13:04] [0m[31;1m[Clan] Boscar leaves the game.[0m  [0m
+[13:04] [0m[37;1mBliss flaps :[0m final call, resetting[0m
+[13:04] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[13:05] [0m[31;1m[Clan] Nameless :[0m E do you need to portset the room outside of queen? or not gonna do[0m
+[13:05] [0m                  skin/inductor this boot?[0m
+[13:05] [0m[31;1m[Clan] Saim :[0m thats why you need to play a necro and mage at the same time duh[0m
+[13:05] [0m[31;1m[Clan] Nameless :[0m boo no skin[0m
+[13:07] [0m[31;1m[Clan] Aka :[0m i miss the oracle room under gypsy too[0m
+[13:07] [0m[31;1m[Clan] Martyr :[0m wanna roll some queens/[0m
+[13:07] [0m[31;1m[Clan] Nameless :[0m sure, ill check one more thing then head back to town[0m
+[13:08] [0m[34;1mKenny shouts:[0m FORE!!!!![0m
+[13:08] [0m[31;1m[Clan] Martyr :[0m you get #s gyet prism?[0m
+[13:08] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[13:08] [0m[31;1m[Clan] Prism :[0m yea[0m
+[13:12] [0m[31;1m[Clan] Martyr :[0m hows your dmg?[0m
+[13:12] [0m[31;1m[Clan] Prism :[0m in 30/160 I'm usually like 3-5k[0m
+[13:12] [0m[31;1m[Clan] Martyr :[0m 190 O?[0m
+[13:12] [0m[31;1m[Clan] Prism :[0m 7-12k[0m
+[13:12] [0m[31;1m[Clan] Michael :[0m I should get numbers to compare to non jens[0m
+[13:12] [0m[31;1m[Clan] Nameless :[0m hmm, is exo random drop or is it still fucky[0m
+[13:12] [0m[31;1m[Clan] Martyr :[0m ok, gonna reset and runback w byron[0m
+[13:12] [0m[31;1m[Clan] Prism :[0m well 7-10k really, a lot depends on weapons[0m
+[13:13] [0m[31;1m[Clan] Martyr leaves the game.[0m  [0m
+[13:13] [0m[31;1m[Clan] Byron enters the game.[0m  [0m
+[13:13] [0m[31;1m[Clan] Nameless :[0m who is gonna tank queen? me?[0m
+[13:13] [0m[31;1m[Clan] Byron :[0m no me[0m
+[13:14] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[13:15] [0m[31;1m[Clan] Nameless :[0m ahhhh i see the benefit of the book upgrade[0m
+[13:16] [0m[31;1m[Clan] Nix :[0m what do you contend that to be? =P[0m
+[13:16] [0m[31;1m[Clan] Nameless :[0m longer song duration[0m
+[13:17] [0m[31;1m[Clan] Byron :[0m huh[0m
+[13:17] [0m[31;1m[Clan] Nameless :[0m rainbow lasts for 8 rounds now vs 7[0m
+[13:17] [0m[31;1m[Clan] Byron :[0m nah thats always been 8[0m
+[13:17] [0m[31;1m[Clan] Byron :[0m laf[0m
+[13:17] [0m[31;1m[Clan] Nameless :[0m has it?[0m
+[13:17] [0m[31;1m[Clan] Nix :[0m nod[0m
+[13:17] [0m[31;1m[Clan] Byron :[0m ya[0m
+[13:17] [0m[31;1m[Clan] Byron :[0m 8 dtypes[0m
+[13:17] [0m[31;1m[Clan] Byron :[0m 8 rounds[0m
+[13:17] [0m[31;1m[Clan] Nameless :[0m ah[0m
+[13:17] [0m[31;1m[Clan] Nix :[0m item donates, reduces voice costs and slightly improves karma regen[0m
+[13:17] [0m[31;1m[Clan] Byron :[0m it does each dtype but e/b by default[0m
+[13:17] [0m[31;1m[Clan] Nix :[0m coin is voice pool[0m
+[13:17] [0m[31;1m[Clan] Nameless :[0m well poop[0m
+[13:18] [0m[31;1m[Clan] Nameless :[0m i might try to get to 25mil item donates and see if something happens then[0m
+[13:19] [0m[31;1m[Clan] Nix :[0m 160m or bust![0m
+[13:19] [0m[31;1m[Clan] Nameless :[0m heh[0m
+[13:19] [0m[31;1m[Clan] Nameless :[0m i cant even imagine, thats like doing regular donates all the last 10 ish[0m
+[13:19] [0m                  years[0m
+[13:20] [0m[31;1m[Clan] Byron :[0m back at queen[0m
+[13:24] [0m[31;1m[Clan] Nameless :[0m mystic eyes are generally hated now huh[0m
+[13:25] [0m[31;1m[Clan] Nameless :[0m like is hould just get the epower[0m
+[13:25] [0m[31;1m[Clan] Byron :[0m huh[0m
+[13:25] [0m[31;1m[Clan] Byron :[0m eyes are nice[0m
+[13:25] [0m[31;1m[Clan] Byron :[0m farsight is really nice too[0m
+[13:25] [0m[31;1m[Clan] Byron :[0m i use both[0m
+[13:25] [0m[31;1m[Clan] Nameless :[0m ahhh nod[0m
+[13:25] [0m[31;1m[Clan] Nix :[0m why are they hated[0m
+[13:25] [0m[31;1m[Clan] Nameless :[0m wasnt sure if id get hate for dropping them somewhere that might want to be[0m
+[13:25] [0m                  unloaded[0m
+[13:25] [0m[31;1m[Clan] Nix :[0m cause people can't unload rooms?[0m
+[13:25] [0m[31;1m[Clan] Nix :[0m who cares[0m
+[13:25] [0m[31;1m[Clan] Byron :[0m you can dissolve them[0m
+[13:26] [0m[31;1m[Clan] Byron :[0m and its not like knight or whatever watch that is ALL boot[0m
+[13:26] [0m[31;1m[Clan] Nix :[0m fucking knights leave there falcons circling in rooms and necros have there[0m
+[13:26] [0m             roomwatch[0m
+[13:26] [0m[31;1m[Clan] Nameless :[0m fair[0m
+[13:26] [0m[31;1m[Clan] Saim :[0m soonish ill be leaving my droid in there too[0m
+[13:26] [0m[31;1m[Clan] Nix :[0m i tend to dissolve them when asked... depends who asks tho[0m
+[13:26] [0m[31;1m[Clan] Saim :[0m fuck all yall[0m
+[13:26] [0m[31;1m[Clan] Nameless :[0m hahah[0m
+[13:26] [0m[31;1m[Clan] Nix :[0m I must win this game![0m
+[13:27] [0m[31;1m[Clan] Nameless :[0m 2 jars missing for more aoe[0m
+[13:28] [0m[31;1m[Clan] Nameless :[0m are we almost ready for big girthy secz?[0m
+[13:29] [0m[31;1m[Clan] Nameless :[0m if not ill run terra and zelli[0m
+[13:29] [0m[31;1m[Clan] Nameless :[0m unsure if ser still needs hammer, so might skip terra[0m
+[13:31] [0mByron <Craft>: anyone have legendary cancers tears or chaosstone bars to spare?[0m
+[13:32] [0mHsima <Craft>: someone code a thing that when you pick up mats, turns anything under some[0m
+[13:32] [0m               threshold into like 1 gold coin[0m
+[13:32] [0mByron <Craft>: laf nog[0m
+[13:33] [0mSimonz <Craft>: ...why?[0m
+[13:33] [0mHsima <Craft>: then I'd only have legendary crap and I could sell it[0m
+[13:33] [0mNameless <Craft>: true alchemy![0m
+[13:33] [0mNameless <Craft>: turn mats into gold![0m
+[13:33] [0mByron <Craft>: yeah, crafting has way too much junk mats[0m
+[13:33] [0mByron <Craft>: that turn the satchel into a full time job[0m
+[13:33] [0mHsima <Craft>: or give it to people, or whatever, instead I just have a satchel full of garbage[0m
+[13:33] [0m               nobody wants[0m
+[13:33] [0mSimonz <Craft>: that's what transmuting is for...[0m
+[13:34] [0mSimonz <Craft>: I will take all your things heh[0m
+[13:34] [0mHsima <Craft>: that's fine, but it would be a nice option for people with a low interest who are[0m
+[13:34] [0m               mostly just picking stuff up blind and don't really care[0m
+[13:35] [0mSimonz <Craft>: I also wrote an alias to dump low-end mining mats that I didn't want to to[0m
+[13:35] [0m                crafting box[0m
+[13:35] [0m[31;1m[Clan] Nameless :[0m lets see, what else do i need to do[0m
+[13:36] [0m[31;1m[Clan] Nameless :[0m farm aoe, farm both queens, wait for taco reset to stock up on guacs and get a[0m
+[13:36] [0m                  salsa[0m
+[13:37] [0m[31;1m[Clan] Byron :[0m The Queen of Hearts has reset.[0m
+[13:37] [0m[31;1m[Clan] Aka leaves the game.[0m  [0m
+[13:38] [0m[31;1m[Clan] Byron :[0m run run[0m
+[13:38] [0m[31;1m[Clan] Tyrant enters the game.[0m  [0m
+[13:38] [0m[31;1m[Clan] Nameless :[0m whee[0m
+[13:39] [0m[31;1m[Clan] Nameless :[0m popped embig so gonna bum rush the 2 mobs that give me troubles i suppose[0m
+[13:39] [0m[31;1m[Clan] Nameless :[0m someday ill start pumping maxhp, maybe do a stat reset and get rid of this[0m
+[13:39] [0m                  pesky con[0m
+[13:41] [0m[31;1m[Clan] Byron :[0m con isnt bad to have[0m
+[13:41] [0m[31;1m[Clan] Byron :[0m its voice[0m
+[13:42] [0m[31;1m[Clan] Nameless :[0m imagine 200 though is maybe overkill[0m
+[13:42] [0m[31;1m[Clan] Nix :[0m that's what i have[0m
+[13:42] [0m[31;1m[Clan] Nameless :[0m ahh[0m
+[13:42] [0m[31;1m[Clan] Nix :[0m and +2k max hp[0m
+[13:42] [0m[31;1m[Clan] Byron :[0m i'm maxed con[0m
+[13:42] [0m[31;1m[Clan] Byron :[0m maxed con/dex/cha[0m
+[13:42] [0m[32mMarlon tells you:[0m can you relist the redaxe with a buyout price please when you get a chance?[0m
+[13:42] [0m[31;1m[Clan] Byron :[0m I have 35 stats to spend still[0m
+[13:42] [0m[31;1m[Clan] Nix :[0m i want to max it again, but i'm going to raise the dmg stats so i can see where i[0m
+[13:42] [0m             fall... and then whine to TH if my shit sucks[0m
+[13:42] [0m[31;1m[Clan] Byron :[0m could max str almost[0m
+[13:42] [0m[31;1m[Clan] Nameless :[0m interesting[0m
+[13:42] [0m[31;1m[Clan] Byron :[0m ya i like that idea nix[0m
+[13:43] [0m[31;1m[Clan] Nameless :[0m tired of seeing all these other guilds dumpstering my dmg! :p[0m
+[13:43] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[13:44] [0m[Auction] Marlon (bree) : tell sent to roken asking to relist w a buyout so others know[0m
+[13:44] [0m[31;1m[Clan] Byron :[0m talk to tony :P[0m
+[13:45] [0m[31;1m[Clan] Nameless :[0m :p[0m
+[13:45] [0m[31;1m[Clan] Nameless :[0m rip mystics[0m
+[13:46] [0m[32;1mFrom afar, Space boggles at you.[0m[0m
+[13:46] [0m[32mKillergate tells you:[0m pls cancel axe auction quick before someone makes a bid :) You have no[0m
+[13:46] [0m        buyout on it[0m
+[13:46] [0m[32mSpace tells you:[0m no buyout for redaxe?[0m
+[13:47] [0m[32mSpace tells you:[0m its the community duplicate one, please cancel and relist it for 10/11[0m
+[13:47] [0m[31;1m[Clan] Nameless :[0m ive noticed that when casting, melee dmg take a huge dropoff, now for my[0m
+[13:47] [0m                  subguild its likely negligible, but do gallants try to juggle casting caustic[0m
+[13:47] [0m                  and having pauses to let the stacks wear off and melee in the meantime?[0m
+[13:48] [0m[31;1m[Clan] Byron :[0m casting doesnt affect your melee if you do it through reflex/repeat/etc[0m
+[13:48] [0m[31;1m[Clan] Byron :[0m so, no[0m
+[13:48] [0m[31;1m[Clan] Byron :[0m we're mages. always be casting[0m
+[13:48] [0m[31;1m[Clan] Nameless :[0m how not?[0m
+[13:48] [0m[31;1m[Clan] Byron :[0m not sure what you mean[0m
+[13:48] [0m[31;1m[Clan] Byron :[0m how do you use critic?[0m
+[13:48] [0m[31;1m[Clan] Nameless :[0m i mean i have mine tied to my hpbar, i dont use reflex[0m
+[13:48] [0m[31;1m[Clan] Byron :[0m laf[0m
+[13:49] [0m[31;1m[Clan] Byron :[0m you're joking[0m
+[13:49] [0m[31;1m[Clan] Byron :[0m get reflex[0m
+[13:49] [0m[31;1m[Clan] Tyrant :[0m get reflex[0m
+[13:49] [0m[31;1m[Clan] Tyrant :[0m i need reflex 2/3 if you meet someone i'll come too heh[0m
+[13:49] [0m[31;1m[Clan] Nameless :[0m interesting[0m
+[13:50] [0m[31;1m[Clan] Byron :[0m hey roken, could you cancel and relist axe?[0m
+[13:50] [0m[31;1m[Clan] Byron :[0m nobody can buy/dupe it[0m
+[13:50] [0m[32;1mFrom afar, Byron shouts 'WAKE UP!' at you. (at 2:50 pm)[0m[0m
+[13:50] [0m[32mByron tells you:[0m could you cancel and relist axe?  Without a buyout, nobody can buy/dupe it.[0m
+[13:50] [0m[31;1m[Clan] Nameless :[0m i dont have any free skillpoints[0m
+[13:50] [0m[31;1m[Clan] Byron :[0m make your next one reflex[0m
+[13:51] [0m[31;1m[Clan] Byron :[0m and cast all your spells through that[0m
+[13:51] [0m[31;1m[Clan] Nameless :[0m does it make a big difference?[0m
+[13:51] [0m[31;1m[Clan] Tyrant :[0m saitama needs 4 lvls ;)[0m
+[13:51] [0m[31;1m[Clan] Byron :[0m yers[0m
+[13:51] [0m[31;1m[Clan] Byron :[0m it literally makes bards what they are[0m
+[13:51] [0m[31;1m[Clan] Nameless :[0m huh[0m
+[13:51] [0m[31;1m[Clan] Nameless :[0m like its not just a qol thing, it alters mechanics?[0m
+[13:51] [0m[31;1m[Clan] Byron :[0m yes[0m
+[13:51] [0m[31;1m[Clan] Byron :[0m you can keep melee and now cast[0m
+[13:51] [0m[31;1m[Clan] Byron :[0m and do other stuff[0m
+[13:51] [0m[31;1m[Clan] Nameless :[0m ahhhh[0m
+[13:51] [0m[31;1m[Clan] Nameless :[0m ok yeah, thats probably part of my woes[0m
+[13:51] [0m[32;1mFrom afar, Killergate shouts 'WAKE UP!' at you. (at 2:51 pm)[0m[0m
+[13:52] [0m[31;1m[Clan] Byron :[0m yeah, do that asap[0m
+[13:52] [0m[31;1m[Clan] Byron :[0m like get a skill quest or somerhing[0m
+[13:52] [0m[31;1m[Clan] Byron :[0m Or hop onto your hc and grind 5 lvls heh[0m
+[13:52] [0m[31;1m[Clan] Nameless :[0m a lmoni ploni i can probably do[0m
+[13:52] [0m[31;1m[Clan] Byron :[0m nog[0m
+[13:54] [0m[31;1m[Clan] Nameless :[0m twiddle, boat waiting[0m
+[13:55] [0m[31;1m[Clan] Nameless :[0m if i end up struggle bussin i may just play mental for awhile and get my point[0m
+[13:55] [0m                  that way[0m
+[13:56] [0m[31;1m[Clan] Byron :[0m go to wemudtogether[0m
+[13:56] [0m[31;1m[Clan] Byron :[0m its easy to do it w 10 coin increments[0m
+[13:56] [0m[31;1m[Clan] Byron :[0m for the weight[0m
+[13:56] [0m[31;1m[Clan] Byron :[0m too[0m
+[13:56] [0m[31;1m[Clan] Nameless :[0m that one has nothin listed[0m
+[13:57] [0m[31;1m[Clan] Byron :[0m oh[0m
+[13:57] [0m[31;1m[Clan] Byron :[0m i do it w 10 coins[0m
+[13:57] [0m[31;1m[Clan] Byron :[0m so when you see it has a 1[0m
+[13:57] [0m[31;1m[Clan] Byron :[0m you know its the heavier coin[0m
+[13:57] [0m[31;1m[Clan] Nameless :[0m oh its that one weight puzzle[0m
+[13:57] [0m[31;1m[Clan] Byron :[0m ya[0m
+[13:58] [0m[31;1m[Clan] Elektra :[0m so rim's king has a bs ring?[0m
+[13:58] [0m[31;1m[Clan] Nameless :[0m ish[0m
+[13:58] [0m[31;1m[Clan] Nameless :[0m its no roh, but i dont hate it[0m
+[14:00] [0m[31;1m[Clan] Byron :[0m ya[0m
+[14:00] [0m[31;1m[Clan] Byron :[0m its nice[0m
+[14:00] [0m[31;1m[Clan] Byron :[0m blocks specials[0m
+[14:00] [0m[31;1m[Clan] Nameless :[0m i mean is that any different than smd?[0m
+[14:00] [0m[31;1m[Clan] Byron :[0m smd doesnt affect specials[0m
+[14:00] [0m[31;1m[Clan] Byron :[0m afaik[0m
+[14:00] [0m[31;1m[Clan] Nameless :[0m i thought thats what smd specifically meant?[0m
+[14:00] [0m[31;1m[Clan] Saim :[0m smd is melee[0m
+[14:00] [0m[31;1m[Clan] Nameless :[0m special melee defense?[0m
+[14:00] [0m[31;1m[Clan] Byron :[0m melee[0m
+[14:01] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[14:02] [0m[32mThom tells you:[0m is there a way you can relist your redaxe with a buynow?[0m
+[14:03] [0m[31;1m[Clan] Sock :[0m at cbox for enhances[0m
+[14:03] [0m[31;1m[Clan] Byron :[0m damni im in hell[0m
+[14:03] [0m[31;1m[Clan] Sock :[0m and afk again[0m
+[14:03] [0m[31;1m[Clan] Tyrant :[0m doh forgot to reforge smd[0m
+[14:04] [0m[31;1m[Clan] Elektra :[0m i used 3[0m
+[14:04] [0m[31;1m[Clan] Byron :[0m elektra, want to portset at bbeast?[0m
+[14:04] [0m[31;1m[Clan] Elektra :[0m sure[0m
+[14:04] [0m[31;1m[Clan] Byron :[0m killing it now[0m
+[14:04] [0m[31;1m[Clan] Nameless :[0m oh right, i should probably get botd for aka[0m
+[14:04] [0m[31;1m[Clan] Elektra :[0m i mean[0m
+[14:04] [0m[31;1m[Clan] Nameless :[0m unless you are gonna tyrant this boot?[0m
+[14:04] [0m[31;1m[Clan] Elektra :[0m i won't go there except to help you with botd or something[0m
+[14:04] [0m[31;1m[Clan] Elektra :[0m which i'm sure you don't need?[0m
+[14:05] [0m[31;1m[Clan] Byron :[0m nog, would like the help after possible[0m
+[14:05] [0m[31;1m[Clan] Byron :[0m ok, behind bb[0m
+[14:09] [0m[31;1m[Clan] Elektra :[0m argh[0m
+[14:09] [0m[31;1m[Clan] Elektra :[0m mistyped my hell alias[0m
+[14:10] [0m[31;1m[Clan] Nameless :[0m :([0m
+[14:10] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[14:11] [0m[31;1m[Clan] Timmy :[0m you auctioned axe without a buy out price roken :D[0m
+[14:11] [0m[31;1m[Clan] Elektra :[0m argh where is my map[0m
+[14:11] [0m[31;1m[Clan] Elektra :[0m found it[0m
+[14:12] [0m[31;1m[Clan] Byron :[0m where you headed[0m
+[14:12] [0m[32mTimmy tells you:[0m any chance you could re-auction axe with a buyout price[0m
+[14:12] [0m[31;1m[Clan] Elektra :[0m botd?[0m
+[14:12] [0m[31;1m[Clan] Byron :[0m nog[0m
+[14:13] [0m[31;1m[Clan] Elektra :[0m right adam[0m
+[14:13] [0m[31;1m[Clan] Byron :[0m hmm that didnt work so well[0m
+[14:13] [0m[31;1m[Clan] Byron :[0m thought my cat would fuck the worms up[0m
+[14:13] [0m[31;1m[Clan] Byron :[0m just wanted to test it heh[0m
+[14:14] [0m[31;1m[Clan] Nameless :[0m im a big fan of randomly getting punted around in the desert in taslen[0m
+[14:14] [0m[31;1m[Clan] Nameless :[0m very realistic desert wandering simulator[0m
+[14:14] [0m[31;1m[Clan] Nameless :[0m sorry, i let my pp out for a walk and it killed you byron[0m
+[14:14] [0m[31;1m[Clan] Saim :[0m u lose your cat?[0m
+[14:15] [0m[31;1m[Clan] Byron :[0m nah[0m
+[14:15] [0m[31;1m[Clan] Saim :[0m nice[0m
+[14:15] [0m[31;1m[Clan] Tyrant :[0m "large worm" lmao[0m
+[14:15] [0m[31;1m[Clan] Byron :[0m those motherfuckers hurt[0m
+[14:15] [0m[31;1m[Clan] Byron :[0m bad[0m
+[14:16] [0m[31;1m[Clan] Nameless :[0m im impressed[0m
+[14:18] [0m[31;1m[Clan] Byron :[0m any chance you'd be able to port oscar into there?[0m
+[14:18] [0m[31;1m[Clan] Byron :[0m he can golem them[0m
+[14:18] [0m[31;1m[Clan] Byron :[0m i think[0m
+[14:18] [0m[31;1m[Clan] Byron :[0m heh[0m
+[14:19] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[14:19] [0m[32mFrank tells you:[0m u there?[0m
+[14:20] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[14:23] [0m[37;1mOrthas <.oO>:[0m that tingles[0m
+[14:27] [0m[34;1mFlaxen shouts:[0m eep opp ork[0m
+[14:27] [0m[34;1mKyoujin shouts:[0m ah ah![0m
+[14:27] [0m[37;1mAliyna flaps :[0m shinin', gleamin, streamin, Flaxen Waxen....[0m
+[14:27] [0m[31;1m[Clan] Elektra :[0m botd in[0m
+[14:27] [0m[31;1m[Clan] Elektra :[0m someone put the hot sauce on it[0m
+[14:27] [0m[31;1m[Clan] Oscar :[0m could you port me into there?[0m
+[14:27] [0m[31;1m[Clan] Elektra :[0m make it wc100[0m
+[14:28] [0m[31;1m[Clan] Elektra :[0m where?[0m
+[14:28] [0m[31;1m[Clan] Oscar :[0m behind bb[0m
+[14:28] [0m[31;1m[Clan] Elektra :[0m sure, but why?[0m
+[14:28] [0m[31;1m[Clan] Oscar :[0m testing[0m
+[14:28] [0m[31;1m[Clan] Oscar :[0m if i can tank the room w golem[0m
+[14:28] [0m[31;1m[Clan] Oscar :[0m i couldnt w cat[0m
+[14:28] [0m[31;1m[Clan] Nameless :[0m i relaly should have dropped stuff off at house[0m
+[14:29] [0m[31;1m[Clan] Elektra :[0m fyi i have cup if anyone wants a dupe[0m
+[14:29] [0m[31;1m[Clan] Nameless :[0m ooo nice[0m
+[14:29] [0m[31;1m[Clan] Nameless :[0m i wish i had more dupe s:([0m
+[14:29] [0m[31;1m[Clan] Prism :[0m cup?[0m
+[14:29] [0m[31;1m[Clan] Elektra :[0m lord stanley's[0m
+[14:29] [0m[31;1m[Clan] Nameless :[0m stanley[0m
+[14:29] [0m[31;1m[Clan] Oscar :[0m stanley cup[0m
+[14:29] [0m[31;1m[Clan] Nameless :[0m yea[0m
+[14:29] [0m[31;1m[Clan] Oscar :[0m its nice[0m
+[14:29] [0m[31;1m[Clan] Prism :[0m o[0m
+[14:29] [0m[31;1m[Clan] Nameless :[0m test to see if i can be ported out of this room e?[0m
+[14:29] [0m[31;1m[Clan] Timmy :[0m ohh yes i'll grab a dupe from you when mine reset :)[0m
+[14:29] [0m[31;1m[Clan] Prism :[0m what's that do again? I forgot[0m
+[14:29] [0m[31;1m[Clan] Nameless :[0m makes a mob spawn to block a hit randomly[0m
+[14:30] [0m[31;1m[Clan] Nameless :[0m so pseudo dr and shitty free corpses[0m
+[14:30] [0m[31;1m[Clan] Prism :[0m hey that's neato[0m
+[14:30] [0m[31;1m[Clan] Elektra :[0m it's great if you have a dog[0m
+[14:30] [0m[31;1m[Clan] Oscar :[0m its great imo[0m
+[14:30] [0m[31;1m[Clan] Elektra :[0m dog food![0m
+[14:30] [0m[31;1m[Clan] Nameless :[0m its wonderful on sii[0m
+[14:30] [0m[31;1m[Clan] Oscar :[0m free corpse is free corpse[0m
+[14:30] [0m[31;1m[Clan] Oscar :[0m usually you get some minimum[0m
+[14:31] [0m[31;1m[Clan] Nameless :[0m guessing noport?[0m
+[14:31] [0m[31;1m[Clan] Oscar :[0m huh[0m
+[14:32] [0m[31;1m[Clan] Nameless :[0m trying to see if i can get ported out of here before i test and see if this is[0m
+[14:32] [0m                  a dtrap[0m
+[14:32] [0m[31;1m[Clan] Nameless :[0m regular dtrap is ok im jsut scared of a quitout one[0m
+[14:34] [0m[31;1m[Clan] Oscar :[0m oo i can golem these fuck yes[0m
+[14:34] [0m[31;1m[Clan] Nameless :[0m woo[0m
+[14:34] [0m[31;1m[Clan] Oscar :[0m they straight fuck the golem up but to be expected[0m
+[14:35] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[14:35] [0m[31;1m[Clan] Decav :[0m its how oscar heals sat[0m
+[14:35] [0m[31;1m[Clan] Oscar :[0m best way[0m
+[14:36] [0m[31;1m[Clan] Nameless :[0m leeroy jenkins i guess[0m
+[14:36] [0m[31;1m[Clan] Nameless :[0m fingers crossed i dont lose all my shit and then whine the rest of boot[0m
+[14:36] [0m[31;1m[Clan] Oscar :[0m hmm?[0m
+[14:36] [0m[31;1m[Clan] Nameless :[0m in a place i cant leave, and the floor north seems to be pretty clearly a[0m
+[14:36] [0m                  death trap[0m
+[14:36] [0m[31;1m[Clan] Oscar :[0m whats the place[0m
+[14:36] [0m[31;1m[Clan] Nameless :[0m and since its a tensor area im leery its gonna quit me out[0m
+[14:37] [0m[31;1m[Clan] Nameless :[0m taslen, was looking for almoni ploni[0m
+[14:37] [0m[31;1m[Clan] Decav :[0m afaik no quit traps in almoni area. the tomb is like in the nw somewhere[0m
+[14:37] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[14:38] [0m[31;1m[Clan] Decav :[0m pilot training is an easy skillpoint too[0m
+[14:38] [0m[31;1m[Clan] Decav :[0m i finally did it the other day[0m
+[14:38] [0m[31;1m[Clan] Wasp :[0m fuck[0m
+[14:38] [0m[31;1m[Clan] Nameless :[0m cool, regular dtrap[0m
+[14:38] [0m[31;1m[Clan] Wasp :[0m i just duplicated a large rabbit[0m
+[14:38] [0m[31;1m[Clan] Wasp :[0m intead of cae[0m
+[14:39] [0m[31;1m[Clan] Nameless :[0m im probably best off just trying to do saitama for a single questpoint[0m
+[14:39] [0m[31;1m[Clan] Nameless :[0m only 2 4 8 12 and 19 are unsolved on skillquests[0m
+[14:40] [0m[34;1mCrolack shouts:[0m oo oo[0m
+[14:43] [0m[31;1m[Clan] Decav :[0m 12 is easy[0m
+[14:43] [0m[31;1m[Clan] Nameless :[0m err i have 12[0m
+[14:43] [0m[31;1m[Clan] Nameless :[0m 16 i meant[0m
+[14:44] [0m[31;1m[Clan] Decav :[0m youre an elemental, just hit behind someone for like 2 hours you'll get lvl 50 :P[0m
+[14:44] [0m[31;1m[Clan] Nameless :[0m i probably will, if i cant figure out this questy thing fast[0m
+[14:44] [0m[31;1m[Clan] Decav :[0m almoni should take <2h though[0m
+[14:44] [0m[31;1m[Clan] Decav :[0m annoying part is the coins/measuring them[0m
+[14:45] [0m[31;1m[Clan] Nameless :[0m exploring is one of my weak suits lately, so once i find the damn thing i[0m
+[14:45] [0m                  should be able to figure it out[0m
+[14:45] [0m[31;1m[Clan] Oscar :[0m just search sand in every room[0m
+[14:45] [0m[31;1m[Clan] Oscar :[0m til you find the door[0m
+[14:49] [0m[31;1m[Clan] Elektra :[0m ok[0m
+[14:49] [0m[31;1m[Clan] Elektra :[0m what else doo i need[0m
+[14:49] [0m[31;1m[Clan] Elektra :[0m besides 4 rings and 1 potion[0m
+[14:50] [0m[31;1m[Clan] Elektra :[0m oh aura[0m
+[14:56] [0m[31;1m[Clan] Decav :[0m heh im considering duping a terra hammer[0m
+[14:57] [0m[31;1m[Clan] Nameless :[0m dupe a paul2 string![0m
+[14:57] [0m[31;1m[Clan] Nameless :[0m can get you tag later maybe[0m
+[14:57] [0m[31;1m[Clan] Decav :[0m is there a level req on it?[0m
+[14:57] [0m[31;1m[Clan] Decav :[0m oh im playing my psi[0m
+[14:57] [0m[31;1m[Clan] Elektra :[0m i need that tag also[0m
+[14:57] [0m[31;1m[Clan] Nameless :[0m ahhh[0m
+[14:57] [0m[31;1m[Clan] Decav :[0m so 1 for a blue ring. 1 for a hammer to psiwield[0m
+[14:57] [0m[31;1m[Clan] Decav :[0m he's gonna have 80spr + red axe[0m
+[14:58] [0m[31;1m[Clan] Decav :[0m tier4 implants have some that are like 10 psi per round, cost jumps pretty fast[0m
+[14:59] [0m[31;1m[Clan] Decav :[0m and its like 30combat days to get the power to turn hp to psi, so you just use sp[0m
+[14:59] [0m               until then[0m
+[15:02] [0m[31;1m[Clan] Oscar :[0m works taco = lettuce wrap + salsa, right?[0m
+[15:02] [0m[31;1m[Clan] Nameless :[0m yea[0m
+[15:02] [0m[31;1m[Clan] Nameless :[0m and the fire and lime[0m
+[15:03] [0m[31;1m[Clan] Oscar :[0m i guess wet wipe too.  which is actually a super sick HC item[0m
+[15:03] [0m[31;1m[Clan] Oscar :[0m room peace[0m
+[15:03] [0m[31;1m[Clan] Nameless :[0m ok maybe i overestimated my rather small brainpower[0m
+[15:03] [0m[31;1m[Clan] Oscar :[0m i'm gonna get onto HC soon-ish[0m
+[15:03] [0m[31;1m[Clan] Wasp :[0m wet wipe isn't works[0m
+[15:04] [0m[31;1m[Clan] Nameless :[0m wipe is meat i think[0m
+[15:04] [0m[31;1m[Clan] Tyrant :[0m yeh meaty[0m
+[15:04] [0m[31;1m[Clan] Oscar :[0m hot sauce[0m
+[15:04] [0m[31;1m[Clan] Wasp :[0m meat is wipe and beans and jalapenos and twists[0m
+[15:04] [0m[31;1m[Clan] Oscar :[0m i guess i can make a spicy spork[0m
+[15:04] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[15:04] [0m[31;1m[Clan] Oscar :[0m actually it doesnt convert e -> fire[0m
+[15:04] [0m[31;1m[Clan] Oscar :[0m just adds fire right[0m
+[15:04] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[15:04] [0m[31;1m[Clan] Oscar :[0m I can use it on that botd[0m
+[15:04] [0m[31;1m[Clan] Nameless :[0m so best to use on botd[0m
+[15:04] [0m[31;1m[Clan] Nameless :[0m nod[0m
+[15:04] [0m[31;1m[Clan] Wasp :[0m yes[0m
+[15:04] [0m[31;1m[Clan] Wasp :[0m i boxed that...[0m
+[15:04] [0m[31;1m[Clan] Oscar :[0m cool.  i'll spicy it up[0m
+[15:05] [0m[31;1m[Clan] Wasp :[0m and asked if someone had a spare hot sauce to +fire the botd[0m
+[15:05] [0m[31;1m[Clan] Wasp :[0m :)[0m
+[15:05] [0m[31;1m[Clan] Oscar :[0m i need lettuce[0m
+[15:05] [0m[31;1m[Clan] Wasp :[0m it's not for me[0m
+[15:05] [0m[31;1m[Clan] Wasp :[0m whoever HC or whatever can use it[0m
+[15:05] [0m[31;1m[Clan] Oscar :[0m or oil of impact[0m
+[15:05] [0m[31;1m[Clan] Wasp :[0m i'm running tacos now[0m
+[15:05] [0m[31;1m[Clan] Oscar :[0m nog, same[0m
+[15:07] [0m[31;1m[Clan] Oscar :[0m salsa, that'll work. i'll have to see if someone can save boscar to this dungeon[0m
+[15:09] [0m[34;1mKenny shouts:[0m I am a sweet birch![0m
+[15:09] [0m[34;1mNauda shouts:[0m sweet and sour birch[0m
+[15:11] [0m[31;1m[Clan] Oscar :[0m spicy btod in[0m
+[15:11] [0m[31;1m[Clan] Decav :[0m whats wc on that[0m
+[15:11] [0m[31;1m[Clan] Wasp :[0m 100 now[0m
+[15:11] [0m[31;1m[Clan] Decav :[0m whats it before spicy?[0m
+[15:11] [0m[34;1mKenny shouts:[0m What a great name[0m
+[15:11] [0m[31;1m[Clan] Decav :[0m spicy should work on psiwield i assume? just adds to the raw wc?[0m
+[15:12] [0m[31;1m[Clan] Oscar :[0m 100 now[0m
+[15:12] [0m[31;1m[Clan] Wasp :[0m yep[0m
+[15:12] [0m[31;1m[Clan] Wasp :[0m i think lettuce adds only 10 now[0m
+[15:12] [0m[31;1m[Clan] Oscar :[0m ugh fuckin lag[0m
+[15:12] [0m[31;1m[Clan] Wasp :[0m other 2 add 20[0m
+[15:12] [0m[31;1m[Clan] Oscar :[0m couldnt get golem in front of me[0m
+[15:12] [0m[31;1m[Clan] Decav :[0m nod[0m
+[15:12] [0m[31;1m[Clan] Wasp :[0m but lettuce of course also converts to blunt[0m
+[15:12] [0m[31;1m[Clan] Decav :[0m cool cool.. learning weapons is a whole new part of 3k for me :p[0m
+[15:12] [0m[31;1m[Clan] Decav :[0m its fun[0m
+[15:14] [0m[31;1m[Clan] Decav :[0m anyone wanna do wsea reps later ?[0m
+[15:14] [0m[31;1m[Clan] Decav :[0m going to try to get to 100k[0m
+[15:14] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[15:15] [0m[31;1m[Clan] Wasp :[0m did you get into your taco dungeon that you wanted?[0m
+[15:15] [0m[31;1m[Clan] Wasp :[0m dd could rally you[0m
+[15:19] [0m[31;1m[Clan] Wasp :[0m lime wedge. :([0m
+[15:19] [0m[31;1m[Clan] Oscar :[0m nah, wanna do that tho so i can get the salsa out?[0m
+[15:20] [0m[31;1m[Clan] Wasp :[0m ok[0m
+[15:20] [0m[31;1m[Clan] Wasp :[0m let me kill this thing[0m
+[15:20] [0m[31;1m[Clan] Oscar :[0m sweet[0m
+[15:20] [0m[31;1m[Clan] Oscar :[0m no rush[0m
+[15:20] [0m[31;1m[Clan] Oscar :[0m i'm mostly waiting on chaos stone bars and trying to scrounge up a cancer tear[0m
+[15:21] [0m[31;1m[Clan] Oscar :[0m so i can make this platemail then play hc[0m
+[15:21] [0mOscar <Craft>: anyone with chaosstone bars or cancer tears to spare?[0m
+[15:22] [0m[31;1m[Clan] Tyrant :[0m anyone able to reforge my gear? 8 reforges[0m
+[15:23] [0m[31;1m[Clan] Tyrant :[0m i got a nice +9 floaties pot or i would just hop back to aka quick heh[0m
+[15:23] [0m[31;1m[Clan] Wasp :[0m god damn thing[0m
+[15:23] [0m[31;1m[Clan] Wasp :[0m fuck it, used embig[0m
+[15:23] [0m[31;1m[Clan] Wasp :[0m only way i can kill it[0m
+[15:23] [0m[31;1m[Clan] Oscar :[0m whatre you fighting[0m
+[15:23] [0m[31;1m[Clan] Wasp :[0m works[0m
+[15:23] [0m[31;1m[Clan] Wasp :[0m it just heals up to me[0m
+[15:24] [0m[31;1m[Clan] Oscar :[0m o[0m
+[15:24] [0m[31;1m[Clan] Tyrant :[0m the heals are nuts[0m
+[15:24] [0m[31;1m[Clan] Wasp :[0m unless i embig[0m
+[15:24] [0m[31;1m[Clan] Wasp :[0m s'[0m
+[15:24] [0m[31;1m[Clan] Wasp :[0m s'ok[0m
+[15:25] [0m[31;1m[Clan] Oscar :[0m meet @ tacos[0m
+[15:26] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[15:26] [0m[31;1m[Clan] Boscar enters the game.[0m  [0m
+[15:29] [0m[31;1m[Clan] Boscar leaves the game.[0m  [0m
+[15:29] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[15:30] [0m[31;1m[Clan] Wasp :[0m heh 3x beans[0m
+[15:30] [0m[31;1m[Clan] Martyr :[0m woo/boo[0m
+[15:30] [0m[31;1m[Clan] Wasp :[0m i have one to spare if someone wants blunt/poison[0m
+[15:35] [0m[31;1m[Clan] Elektra :[0m whee refresh is up[0m
+[15:36] [0m[31;1m[Clan] Elektra :[0m time for a queen to die[0m
+[15:36] [0m[31;1m[Clan] Martyr :[0m i can slide queens[0m
+[15:36] [0m[31;1m[Clan] Elektra :[0m i can only tank 1[0m
+[15:36] [0m[31;1m[Clan] Elektra :[0m at a time... well maybe 2 with good dmaage[0m
+[15:36] [0m[31;1m[Clan] Elektra :[0m someone finishing up[0m
+[15:36] [0m[31;1m[Clan] Elektra :[0m (i hope)[0m
+[15:36] [0m[31;1m[Clan] Elektra :[0m ender[0m
+[15:38] [0m[31;1m[Clan] Nameless :[0m sweet, done[0m
+[15:39] [0m[37;1m[JEDI]:[0m Wennic Ber'ni'lok arrives at the Academy.[0m
+[15:39] [0m[31;1m[Clan] Nameless :[0m now, someone able to do the reflex thing?[0m
+[15:39] [0m[31;1m[Clan] Slacker :[0m I can do that in a min[0m
+[15:39] [0m[31;1m[Clan] Elektra :[0m ender tanking for me[0m
+[15:41] [0m[31;1m[Clan] Nameless :[0m oh queen[0m
+[15:49] [0m[31;1m[Clan] Elektra :[0m anyone able to tank beloch?[0m
+[15:50] [0m[31;1m[Clan] Elektra :[0m hmm i might not have time[0m
+[15:50] [0m[31;1m[Clan] Elektra :[0m i just called him[0m
+[15:50] [0m[31;1m[Clan] Nameless :[0m hmm[0m
+[15:50] [0m[31;1m[Clan] Elektra :[0m you can do it nameless![0m
+[15:50] [0m[31;1m[Clan] Nameless :[0m i can but id need more dmg[0m
+[15:50] [0m[31;1m[Clan] Nameless :[0m maybe[0m
+[15:50] [0m[31;1m[Clan] Elektra :[0m i have 66 corpses for you if that helps[0m
+[15:50] [0m[31;1m[Clan] Elektra :[0m nik you free?[0m
+[15:51] [0m[31;1m[Clan] Elektra :[0m or saim[0m
+[15:51] [0m[31;1m[Clan] Elektra :[0m or decav?[0m
+[15:51] [0m[31;1m[Clan] Elektra :[0m i have a cae potion for you decav if you can hit?[0m
+[15:52] [0m[31;1m[Clan] Martyr :[0m i'll come on w byron after i kill actress[0m
+[15:52] [0m[31;1m[Clan] Nameless :[0m so reflex has changed my life[0m
+[15:52] [0m[31;1m[Clan] Martyr :[0m laf, yeah[0m
+[15:52] [0m[31;1m[Clan] Nameless :[0m dear lord have i been dumb[0m
+[15:52] [0m[31;1m[Clan] Martyr :[0m its the best thing ever[0m
+[15:52] [0m[31;1m[Clan] Nameless :[0m sp no longer budges[0m
+[15:53] [0m[31;1m[Clan] Nix :[0m how were you casting before?[0m
+[15:53] [0m[31;1m[Clan] Martyr :[0m its amazing for bard[0m
+[15:53] [0m[31;1m[Clan] Decav :[0m ya i can hit if you still need[0m
+[15:53] [0m[31;1m[Clan] Nameless :[0m had it as part of my hpbar[0m
+[15:53] [0m[31;1m[Clan] Nix :[0m doh[0m
+[15:53] [0m[31;1m[Clan] Elektra :[0m no one can hit?[0m
+[15:53] [0m[31;1m[Clan] Decav :[0m where are ya[0m
+[15:53] [0m[31;1m[Clan] Elektra :[0m beloch[0m
+[15:53] [0m[31;1m[Clan] Decav :[0m o[0m
+[15:53] [0m[31;1m[Clan] Elektra :[0m just killing this one[0m
+[15:53] [0m[31;1m[Clan] Nix :[0m brt[0m
+[15:53] [0m[31;1m[Clan] Elektra :[0m thanks[0m
+[15:54] [0m[31;1m[Clan] Elektra :[0m just killing this one[0m
+[15:54] [0m[31;1m[Clan] Elektra :[0m wife wants to leave for drinking[0m
+[15:54] [0m[31;1m[Clan] Nameless :[0m i can kill more tho[0m
+[15:54] [0m[31;1m[Clan] Elektra :[0m supposed to be at neighbors at 5pm... 6 minutes[0m
+[15:54] [0m[31;1m[Clan] Nix :[0m cell phone ftw![0m
+[15:54] [0m[31;1m[Clan] Elektra :[0m heh[0m
+[15:54] [0m[31;1m[Clan] Nameless :[0m if we need[0m
+[15:54] [0m[31;1m[Clan] Elektra :[0m and i actually have 5 rings to wear[0m
+[15:54] [0m[31;1m[Clan] Prism :[0m I only have 1 ring and it's a cocoon, sad![0m
+[15:54] [0m[31;1m[Clan] Elektra :[0m thanks peeps[0m
+[15:54] [0m[31;1m[Clan] Elektra :[0m i'll make it back to you later[0m
+[15:54] [0m[31;1m[Clan] Elektra :[0m i'll idle wasp to reset his reforges[0m
+[15:54] [0m[31;1m[Clan] Elektra :[0m he's out at the moment[0m
+[15:55] [0m[31;1m[Clan] Nameless :[0m we should run the quick secz path tonight[0m
+[15:55] [0m[31;1m[Clan] Nameless :[0m the 40 one[0m
+[15:57] [0m[31;1m[Clan] Elektra :[0m ok, wife glaring[0m
+[15:57] [0m[31;1m[Clan] Elektra :[0m laf[0m
+[15:57] [0m[31;1m[Clan] Decav :[0m haha[0m
+[15:57] [0m[31;1m[Clan] Elektra :[0m oh nearly dead?[0m
+[15:57] [0m[31;1m[Clan] Decav :[0m dont aggro[0m
+[15:57] [0m[31;1m[Clan] Decav :[0m gogogo[0m
+[15:58] [0m[31;1m[Clan] Nameless :[0m nevermind im an idiot, how do i syntax reflex[0m
+[15:58] [0m[31;1m[Clan] Nameless :[0m since it apparently wasnt casting that whole time[0m
+[15:58] [0m[31;1m[Clan] Decav :[0m reflex add hp <80% smile[0m
+[15:58] [0m[31;1m[Clan] Tyrant :[0m reflex add hp <100% emote sharts.[0m
+[15:58] [0m[31;1m[Clan] Decav :[0m lmao[0m
+[15:59] [0m[31;1m[Clan] Nameless :[0m ahh the greater than goes before the number[0m
+[15:59] [0m[31;1m[Clan] Nameless :[0m natty beloch[0m
+[15:59] [0m[31;1m[Clan] Tyrant :[0m sounds like a reggae song[0m
+[15:59] [0m[31;1m[Clan] Nameless :[0m laf[0m
+[16:03] [0m[32mPrism tells you:[0m Did you know that you forgot to put a buyout on axe?[0m
+[16:06] [0m[31;1m[Clan] Nameless :[0m hmm, well reflex works but seems to be basically the same as my hpbar setup[0m
+[16:06] [0m[31;1m[Clan] Martyr :[0m but its mudside[0m
+[16:06] [0m[31;1m[Clan] Martyr :[0m big difference[0m
+[16:06] [0m[31;1m[Clan] Martyr :[0m its why i prefer mudside every time if i can[0m
+[16:06] [0m[31;1m[Clan] Martyr :[0m like how i heal w/ priest, etc.[0m
+[16:06] [0m[31;1m[Clan] Nameless :[0m thats true, so if i get hit with lag i wont just not cast[0m
+[16:09] [0m[34;1mZiphe shouts:[0m smoked[0m
+[16:09] [0m[34;1mNightrider shouts:[0m Whoa Mugen Dies?[0m
+[16:09] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[16:10] [0m[34;1mVolt shouts:[0m smokey?!?  what you doin back there??[0m
+[16:10] [0m[34;1mSpace shouts:[0m he's makin out with the bandit[0m
+[16:11] [0m[34;1mPresmir shouts:[0m 3k has the smoke monster? I love his work on Lost[0m
+[16:11] [0m[31;1m[Clan] Martyr :[0m nog same for healing[0m
+[16:11] [0m[31;1m[Clan] Martyr :[0m why you dont want it client side[0m
+[16:11] [0m[31;1m[Clan] Nameless :[0m mostly didnt want to have to spend a skillpoint on somethin[0m
+[16:12] [0m[31;1m[Clan] Nameless :[0m i mean aside from i guess maxing fleecing and maybe survival nothing else[0m
+[16:12] [0m                  makes sense[0m
+[16:12] [0m[31;1m[Clan] Martyr :[0m what are your skill points in?[0m
+[22:31] [0m[32mSpace tells you:[0m i assume you saw all the tells by now?[0m
+[22:31] [0m[32mYou tell Space:[0m ya[0m
+[22:31] [0m[32mSpace tells you:[0m so i dont need to talk to you about  it?[0m
+[22:32] [0m[32mYou tell Space:[0m well i can't cancel it[0m
+[22:32] [0m[32mSpace tells you:[0m yup now you cant cos that moron Thom placed a bid[0m
+[22:32] [0m[32mSpace tells you:[0m in futur kindly be a little more mindful of community items :)[0m
+[22:33] [0m[32mYou tell Space:[0m a buy now option wasn't prompted, where did I miss it? It asked for a opening[0m
+[22:33] [0m        bid and time lot[0m
+[22:33] [0m[32mSpace tells you:[0m it is always prompted[0m
+[22:33] [0m[32mSpace tells you:[0m just take any piece of garbage and try to auction it and you will see[0m
+[22:33] [0m[32mYou tell Space:[0m assumption was it was auto cuz thats my first[0m
+[22:33] [0m[32mSpace tells you:[0m ah[0m
+[22:33] [0m[32mSpace tells you:[0m well the best way is[0m
+[22:34] [0m[32mSpace tells you:[0m auction axe/10/11/48[0m
+[22:34] [0m[32mSpace tells you:[0m replace '/' with whatever command seprator your cline uses[0m
+[22:34] [0m[32mSpace tells you:[0m which in my case is ';'[0m
+[22:34] [0m[32mSpace tells you:[0m so i go auction axe;10;11;48[0m
+[22:34] [0m[32mYou tell Space:[0m ahh i miss clicked 'enter'[0m
+[22:34] [0m[32;1mFrom afar, Space nods to you.[0m[0m
+[22:35] [0m[32;1mFrom afar, Simonz raises an eyebrow at you.[0m[0m
+[22:35] [0m[32mSpace tells you:[0m yeah common mistake[0m
+[22:35] [0m[32mYou tell Space:[0m i saw prompt this time[0m
+[22:35] [0m[32;1mFrom afar, Space nods to you.[0m[0m
+[22:39] [0m[31;1m[Clan] Elektra :[0m everytime i see Khan reconnects, I want to shout KHANNNNNNNNN!!!!!![0m
+[22:39] [0m[31;1m[Clan] Nix :[0m laf[0m
+[22:39] [0m[31;1m[Clan] Elektra :[0m i should just setup a trig[0m
+[22:40] [0m[31;1m[Clan] Ser :[0m no balls[0m
+[22:40] [0m[34;1mKenny shouts:[0m i am a thorny boonjum![0m
+[22:40] [0m[31;1m[Clan] Nix :[0m laf[0m
+[22:41] [0m[34;1mVolt shouts:[0m is that variant protected on the pfizer version?[0m
+[22:42] [0m[32mYou tell Ser:[0m i see i fucked the economy with my trigger enter finger, missed the 'instant' buy[0m
+[22:42] [0m        prompt[0m
+[22:42] [0m[32mSer tells you:[0m laf[0m
+[22:42] [0m[32mSer tells you:[0m <3 you bud[0m
+[22:42] [0m[32mSer tells you:[0m people were biiiiiitching[0m
+[22:43] [0m[32mYou tell Ser:[0m it got frank's attention[0m
+[22:43] [0m[32mSer tells you:[0m laf[0m
+[22:43] [0m[32mSer tells you:[0m frank = zanadu[0m
+[22:43] [0m[32mSer tells you:[0m it probably affected him personally[0m
+[22:43] [0m[32mSer tells you:[0m like someone gave him cash to fix it[0m
+[22:44] [0m[32;1mFrom afar, Ser grins at you.[0m[0m
+[22:44] [0m[32mYou tell Ser:[0m for real he is?[0m
+[22:44] [0m[32mYou tell Ser:[0m makes sense truly[0m
+[22:45] [0m[32mSer tells you:[0m yeah you didn't know?[0m
+[22:45] [0m[32mSer tells you:[0m merrick = turnhold[0m
+[22:46] [0m[35;1mSimonz [Jedi(Knight)]:[0m com for this line, welcome![0m
+[22:49] [0mNameless <Craft>: hehehe[0m
+[22:49] [0mNameless <Craft>: master wiener wrangler hehehehe[0m
+[22:51] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[22:57] [0m[37;1mCaeli flaps :[0m So, glass is cheaper than plexiglass.[0m
+[22:57] [0m[37;1mSer flaps :[0m well, i'm shocked.[0m
+[22:58] [0m[37;1mSpace flaps :[0m it should be, one has been around forever the other needed tech advancements[0m
+[22:58] [0m[37;1mSer flaps :[0m SHOCKED![0m
+[22:59] [0m[37;1mCaeli flaps :[0m Well, my experience with glass is stained only.[0m
+[23:05] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:05] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:05] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:05] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:09] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:09] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:09] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:09] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:09] [0m[34;1mSimonz shouts:[0m WITCHES!!!  We used to do it on broomsticks with demons.  Then we did it in the[0m
+[23:09] [0m               garden with hoes.  Now we do it in other guilds. =/[0m
+[23:09] [0m[32mGrampa says: [0mThey pay me 800 dollars a week to tell a cat and mouse what[0m
+[23:09] [0m[34;1mKenny shouts:[0m OMG[0m
+[23:09] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:09] [0m[34;1mSpace shouts:[0m they havent yet killed kenny dem bastards[0m
+[23:09] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:10] [0m[32mGrampa says: [0mThey pay me 800 dollars a week to tell a cat and mouse what[0m
+[23:10] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:10] [0m[32mGrampa says: [0mThey pay me 800 dollars a week to tell a cat and mouse what[0m
+[23:10] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:10] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:11] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:11] [0m[34;1mSimonz shouts:[0m can always use more ions around[0m
+[23:11] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:11] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:11] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:12] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:12] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:12] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:13] [0m[32mGrampa says: [0mThey pay me 800 dollars a week to tell a cat and mouse what[0m
+[23:13] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:13] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:14] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:14] [0m[32mGrampa says: [0mThey pay me 800 dollars a week to tell a cat and mouse what[0m
+[23:14] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:14] [0m[37;1mAliyna flaps :[0m is it just me or did the MUD's connection go derpy?[0m
+[23:14] [0m[37;1mBenek flaps :[0m i lost connection[0m
+[23:14] [0m[37;1mRhyson flaps :[0m yup derp[0m
+[23:14] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:15] [0m[37;1mJeraud flaps :[0m Nothing here.[0m
+[23:15] [0m[37;1mBenek flaps :[0m and then couldn't get back for a couple minutes[0m
+[23:15] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:15] [0m[37;1mSimonz flaps :[0m I was fine[0m
+[23:15] [0m[37;1mDin flaps :[0m fine here, but that seems to be happening a lot lately.  Some people lose connection[0m
+[23:15] [0m            for a few mins, others are fine[0m
+[23:16] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:16] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:16] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:16] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:17] [0m[34;1mKenny shouts:[0m TREE JUSTICE[0m
+[23:18] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:18] [0m[37;1mVolt flaps :[0m the classic bump-of-the-surge-protector-switch.  never seen it[0m
+[23:18] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:18] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:18] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:18] [0m[34;1mSimonz shouts:[0m 4 670sp charms @ CoT, ping me in 1999![0m
+[23:19] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:19] [0m[34;1mSpace shouts:[0m lies he is bonking beloch![0m
+[23:19] [0m[37;1mAliyna flaps :[0m okay, this is getting silly[0m
+[23:19] [0m[32mPatty says: [0mEhh, I don't know what Margie sees in that blob of hers.[0m
+[23:19] [0m[34;1mVolt shouts:[0m need to use compatability mode to ping[0m
+[23:19] [0m[34;1mSimonz shouts:[0m well, more like beloch is bonking me while everyone else is bonking him.  it's[0m
+[23:19] [0m               complicated[0m
+[23:19] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:20] [0m[34;1mKenny shouts:[0m its bonkers[0m
+[23:20] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:20] [0m[37;1mBenek flaps :[0m i blame comcast.[0m
+[23:20] [0m[37;1mNameless flaps :[0m just lost conection twice[0m
+[23:20] [0m[32mSelma says: [0mAin't nothing like wearing a dress with no undies.[0m
+[23:20] [0m[37;1mBenek flaps :[0m me too over the last 5 minutes[0m
+[23:21] [0m[37;1mVolt flaps :[0m every connection is sacred[0m
+[23:23] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[23:26] [0m[34;1mKenny shouts:[0m hey ladies, i got my nose finger[0m
+[23:30] [0;32mNed says:[0m Doodly darnit!  Someone bring our new visitor some OJ!          [0m
+[23:30] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:31] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:32] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:33] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:33] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:33] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:34] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:34] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:34] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:34] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:34] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:35] [0m[32mNed says:[0m I'm gonna kill you doodly-dead!                                  [0m
+[23:40] [0m[37;1mAliyna flaps :[0m sorry to ask. but I could really use a priest's help for this wound I've got.[0m
+[23:40] [0m[37;1mAlassra flaps :[0m It's lupus.[0m
+[23:40] [0m[37;1mZiphe flaps :[0m magic[0m
+[23:41] [0m[32mSer tells you:[0m can you not cancel the auction[0m
+[23:41] [0m[37;1mSpace flaps :[0m s/e/n/up from bank is the hospital for when you cant find a priest[0m
+[23:41] [0m[37;1mAliyna flaps :[0m thanks.[0m
+[23:41] [0m[37;1mBenek flaps :[0m i'm at cot but i don't know if my spell will fix[0m
+[23:41] [0m[37;1mZiphe flaps :[0m a reboot fixed it[0m
+[23:41] [0m[37;1mAliyna flaps :[0m it's taken care of.[0m
+[23:42] [0m[37;1mSpace flaps :[0m oh no ziphe not another reboot, you wanna take a break, you logout, let us not get[0m
+[23:42] [0m              subjected to mroe 4 day (or in this case 1 day) boots :p[0m
+[23:42] [0m[37;1mZiphe flaps :[0m hey I had a 12 day break since it was 3 crappy 4 day boots :P[0m
+[23:43] [0m[37;1mZiphe flaps :[0m now I'm ready to be lazy on long boots[0m
+[23:43] [0m[37;1mSpace flaps :[0m well stop wishing for more reboots then![0m
+[23:43] [0m[32mSer tells you:[0m if you wanna burn a refresh on queen come here[0m
+[23:43] [0m[32mYou tell Ser:[0m no, thom bidded[0m
+[23:45] [0m[32mYou tell Ser:[0m all burned on freshes[0m
+[23:46] [0m[34;1mSpace shouts:[0m a black cat in the necro lab![0m
+[23:53] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[23:59] [0mYou can currently reforge 0 items.[0m

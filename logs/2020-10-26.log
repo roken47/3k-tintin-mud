@@ -1,0 +1,1123 @@
+- = LOG STARTED [00:00] = -
+[00:00] [0m[34;1mUkyo shouts:[0m This one time, at Lag Camp. . .[0m
+[00:01] [0m[34;1mSpace shouts:[0m ah so it wasnt only me[0m
+[00:01] [0m[34;1mUkyo shouts:[0m 1.30, i'd say yea, we all felt that.[0m
+[00:01] [0m[34;1mSpace shouts:[0m was double minded if i should try a reconnect or not[0m
+[00:24] [0m[31;1m[Clan] Nik leaves the game.[0m  [0m
+[00:24] [0m[31;1m[Clan] Yik enters the game.[0m  [0m
+[00:31] [0m[34;1mTex shouts:[0m reading the bible proves fruitless. YEP! TWEETED.[0m
+[05:10] [0mYou can currently reforge 4 items.[0m
+[05:18] [0m[37;1mSamiel flaps :[0m so Nourmagedov retired undefeated, amazing[0m
+[05:20] [0m[37;1mSamiel flaps :[0m no UFC enthusiasts around?[0m
+[05:22] [0m[37;1mBruce flaps :[0m it's prime bot time[0m
+[05:22] [0m[37;1mSamiel flaps :[0m dealth the killing blow[0m
+[05:22] [0m[37;1mSamiel flaps :[0m dealt the killing blow[0m
+[05:23] [0m[37;1mSamiel flaps :[0m bah silly h[0m
+[05:23] [0m[37;1mGaidin flaps :[0m #if {"%1" == "Turnhold"} {reply no, i'm here}[0m
+[05:24] [0m[37;1mAgni flaps :[0m amateurish... need to respond after a random delay[0m
+[05:24] [0m[37;1mXiu flaps :[0m what i love are the botchecks from invis wizards that show up as[0m
+[05:24] [0m            a tell from "Someone" and reply doesn't work. it's like this[0m
+[05:24] [0m            feels like a setup, man. ;P[0m
+[05:25] [0m[37;1mGaidin flaps :[0m #if {"%1" == "Turnhold"} {#delay {@rand{1,20}} {reply[0m
+[05:25] [0m               {bot_check_responses[@rand{1,16}]}}[0m
+[05:26] [0m[37;1mAgni flaps :[0m that's more like it[0m
+[05:26] [0m[37;1mThadar flaps :[0m just mudsex all mesages to be safe.[0m
+[05:26] [0m[37;1mXiu flaps :[0m good idea. do that long enuf and you should either get fewer[0m
+[05:26] [0m            messages or at least far more interesting ones[0m
+[05:27] [0m[37;1mGaidin flaps :[0m I got botchecked pretty regularly for a few week period, then[0m
+[05:27] [0m               nothing.  I think they've got a pretty good idea who the[0m
+[05:27] [0m               actual habitual botters are.[0m
+[05:27] [0m[37;1mSamiel flaps :[0m oh they absoilutley know who they are[0m
+[05:27] [0m[37;1mKarvec flaps :[0m botbotbot[0m
+[05:28] [0m[37;1mAgni flaps :[0m I once responded to a botcheck and turnhold insulted me saying[0m
+[05:28] [0m             "your bot sucks anyway". that hurt.[0m
+[05:28] [0m[37;1mXiu flaps :[0m i don't get botchecked much, i think any wiz snooping my[0m
+[05:28] [0m            activity for 12 seconds realizes "nobody writes a bot to be that[0m
+[05:28] [0m            inefficient"[0m
+[05:28] [0m[37;1mGaidin flaps :[0m I dunno, there have been some bad bots.  Remember the 16k APM[0m
+[05:28] [0m               fark-up?[0m
+[05:29] [0m[37;1mGaidin flaps :[0m Or whatever insane number it was[0m
+[05:29] [0m[37;1mSamiel flaps :[0m do I remember the mud lagging into crashing? sure[0m
+[05:30] [0m[37;1mXiu flaps :[0m what did somebody have a bot that was sending that much to the[0m
+[05:30] [0m            mud? that's asking to get busted beyond a certain point it[0m
+[05:30] [0m            defies human ability[0m
+[05:30] [0m[37;1mLeianne flaps :[0m well, frank said apm 74 is already too high :p[0m
+[05:30] [0m[37;1mGaidin flaps :[0m Yea, it was rediculously high.  Didn't crash the mud, but CPU[0m
+[05:30] [0m               was pinned.[0m
+[05:30] [0m[37;1mLeianne flaps :[0m not to mention that apm 16k[0m
+[05:31] [0m[37;1mTurak flaps :[0m to get stuff like that you have to have triggers literally[0m
+[05:31] [0m              responding to themselves[0m
+[05:31] [0m[37;1mSamiel flaps :[0m what would you even need an APM like that for?[0m
+[05:31] [0m[37;1mSevenofnine flaps :[0m @Xiu reply to "someone" works[0m
+[05:31] [0m[37;1mGaidin flaps :[0m Probably bad logic or a broken trigger and it was just[0m
+[05:31] [0m               endlessly sending commands.[0m
+[05:31] [0m[37;1mTurak flaps :[0m it likely wasnt anything actual and just a trigger looping[0m
+[05:31] [0m              into itself[0m
+[05:31] [0m[37;1mSevenofnine flaps :[0m they get the reply and it completes the botcheck, you[0m
+[05:31] [0m                    just dont get to see that reply went thru[0m
+[05:32] [0m[37;1mXiu flaps :[0m they must have fixed that semi-recently because i know i always[0m
+[05:32] [0m            got "cannot find that person" on reply to someone before[0m
+[05:32] [0m[37;1mTurak flaps :[0m just because it tells you that doesnt mean they dont see it[0m
+[05:32] [0m[37;1mGaidin flaps :[0m For a while, it was something like fake tells failed by real[0m
+[05:32] [0m               tells worked.[0m
+[05:32] [0m[37;1mGaidin flaps :[0m Or vice versa.[0m
+[05:33] [0m[37;1mSevenofnine flaps :[0m oh, cannot find that person is what you see, but wiz[0m
+[05:33] [0m                    sees your reply to them[0m
+[05:33] [0m[37;1mXiu flaps :[0m oh i gotcha it's funky on my end but they see it. would be nice[0m
+[05:33] [0m            if it appeared to work, simply still use "someone" as the target[0m
+[05:33] [0m            so as not to un-invis them[0m
+[05:33] [0m[37;1mLeianne flaps :[0m I would just shout if cant reply to tell from someone. then[0m
+[05:33] [0m                he will say he see what I typed[0m
+[05:33] [0m[37;1mGaidin flaps :[0m Or, there are some sneaky ways to see which wizzes are around[0m
+[05:33] [0m               but invis.[0m
+[05:35] [0m[37;1mXiu flaps :[0m at least they're using tell tho so my alarm has a chance to[0m
+[05:35] [0m            catch it in the spam. there would be ways to "botcheck" me that[0m
+[05:35] [0m            i just wouldn't be able to respond to[0m
+[05:37] [0m[37;1mThadar flaps :[0m i put on my robe and wizard hat... but would you like me to[0m
+[05:37] [0m               take them off?[0m
+[05:38] [0m[37;1mSamiel flaps :[0m no[0m
+[05:38] [0m[37;1mXiu flaps :[0m only if you don't stop there[0m
+[05:39] [0m[37;1mThadar flaps :[0m :P[0m
+[05:39] [0m[37;1mLeianne flaps :[0m there was once that Frank botcheck with tell to multiple[0m
+[05:39] [0m                people which I couldn't capture. Luckily Space warned me[0m
+[05:39] [0m                about that and Frank said I am supposed to check tellhist[0m
+[05:39] [0m[37;1mSamiel flaps :[0m You can leave your hat on!![0m
+[05:41] [0m[37;1mSamiel flaps :[0m or.. and here's a crazy thought you could always try, like,[0m
+[05:41] [0m               you know, not botting..[0m
+[05:41] [0m[37;1mXiu flaps :[0m botchecking is one part of being a wiz that i know i wouldn't[0m
+[05:41] [0m            like and woudln't be good at[0m
+[05:41] [0m[37;1mGaidin flaps :[0m Yea, haven't seen a faketell one in a while.  Supposedly, all[0m
+[05:41] [0m               real botchecks are real tells.[0m
+[05:41] [0m[37;1mLeianne flaps :[0m that's why I have to avoid fighting in the same room with[0m
+[05:41] [0m                Xaryl and Archangel. Each combat round is scrolling my[0m
+[05:41] [0m                screen off at least 2 pages[0m
+[05:41] [0m[37;1mGaidin flaps :[0m Samiel, you can get botchecked while not botting.  And a fake[0m
+[05:41] [0m               tell scrolls right off the screen in seconds.[0m
+[05:42] [0m[37;1mTurak flaps :[0m it also depends an awful lot on what guild you're in[0m
+[05:42] [0m[37;1mTurak flaps :[0m some guilds can literally spawn a page of spam every round[0m
+[05:42] [0m[37;1mKarvec flaps :[0m and/or how much you gag[0m
+[05:42] [0m[37;1mGaidin flaps :[0m *cough*necros*cough*[0m
+[05:42] [0m[37;1mTurak flaps :[0m and how much you need/can gag away yeah[0m
+[05:43] [0m[37;1mLeianne flaps :[0m bot or no bot, if you scroll off a few pages each combat[0m
+[05:43] [0m                round, there is no way you can see the actual tell unless[0m
+[05:43] [0m                you capture it with trigger[0m
+[05:44] [0m[37;1mSamiel flaps :[0m or some kind of chat monitorwindow[0m
+[05:44] [0m[37;1mNauda flaps :[0m it's year 2525 and 3k is still the same[0m
+[05:44] [0m[37;1mLeianne flaps :[0m yea.. that appeared in tellhist turak :p[0m
+[05:44] [0m[37;1mGaidin flaps :[0m Yea, that's what I have.  But fake tells don't go to the chat[0m
+[05:44] [0m               monitor.  They just appear inline.[0m
+[05:44] [0m[37;1mLeianne flaps :[0m I do a tellhst after each kill now :p[0m
+[05:44] [0m[37;1mTurak flaps :[0m hehe[0m
+[05:45] [0m[37;1mThadar flaps :[0m as part of your bot? brilliant.[0m
+[05:45] [0m[37;1mLeianne flaps :[0m kill trigger == bot ?[0m
+[05:46] [0m[37;1mLeianne flaps :[0m brilliant[0m
+[05:46] [0m[37;1mNauda flaps :[0m do tellhist 1 after each kill if last is a new one )[0m
+[05:46] [0m[37;1mXiu flaps :[0m here's what i think would be evil; a guild where your (required[0m
+[05:46] [0m            for normal play) guild follower uses the mud tell system to[0m
+[05:46] [0m            inform you of everything it does. 4 rnds gone by? yeah your[0m
+[05:46] [0m            tellhist is just the last bunch of junk your follower did. beep[0m
+[05:46] [0m            on tells? hope you love beeps.[0m
+[05:47] [0m[37;1mTurak flaps :[0m heh[0m
+[05:47] [0m[37;1mBruce flaps :[0m #act {annoying follower tells you}{#nop} {0}[0m
+[05:47] [0m[37;1mBruce flaps :[0m done![0m
+[05:56] [0m[37;1mSamiel flaps :[0m personally I'd just code up some kind of dest bomb that[0m
+[05:56] [0m               requires the bot/player to do something specific between[0m
+[05:56] [0m               kills or boom[0m
+[05:59] [0m[37;1mNauda flaps :[0m talking about botting in game where most efficient way to play[0m
+[05:59] [0m              is to bot, makes sense[0m
+[06:02] [0m[37;1mSamiel flaps :[0m I've hd this character since 1997 and I'm still not level 100[0m
+[06:02] [0m               efficiency clearly isn't much of a prioirity to me[0m
+[06:03] [0m[37;1mSevenofnine flaps :[0m do note Nauda you have a differnt definition of botting,[0m
+[06:03] [0m                    to you all scripting is botting, as per rules only[0m
+[06:03] [0m                    running scripts to kill mob to mob while afk is botting[0m
+[06:04] [0m[37;1mXiu flaps :[0m obviously some guilds are different but to me nothing has really[0m
+[06:04] [0m            changed about how fun it is to kill mobs as i've gotten bigger.[0m
+[06:04] [0m            other than tweaks that were made along the way which i'd benefit[0m
+[06:04] [0m            from regardless of my size. taking 100 rounds to kill a 50k mob[0m
+[06:04] [0m            looks the same as taking 100 rounds to kill a 50m mob, so i've[0m
+[06:04] [0m            never really "gotten" the point of botting.[0m
+[06:06] [0m[32;1mFrom afar, you go 'Woo Woo!' at Astaroth.[0m[0m
+[06:06] [0m[32;1mFrom afar, Astaroth thanks you.[0m[0m
+[06:06] [0m[34;1mDangerzone shouts:[0m woo woo Astaroth![0m
+[06:06] [0m[37;1mSamiel flaps :[0m at it's most simple this a game about making small numbers[0m
+[06:06] [0m               bigger..[0m
+[06:07] [0m[34;1mSevenofnine shouts:[0m dude he is not watching the screen he is cutting grass,[0m
+[06:07] [0m                    he will reply to you in about 90 minutes[0m
+[06:07] [0m[37;1mSevenofnine flaps :[0m i think having to watch screen roll for 100 rounds is an[0m
+[06:07] [0m                    eye sore :D just this line is all that matters to me    [0m
+[06:07] [0m                    3,727,360xp   138,050xp/rnd in  27 rnds  Red Foot Soldie[0m
+[06:08] [0m[37;1mAstaroth flaps :[0m 7/9 do you have friends in rl, were you drop on your head[0m
+[06:08] [0m                 as a baby?[0m
+[06:08] [0m[37;1mSevenofnine flaps :[0m awww the bot speaks, did i hurt your feelings by outting[0m
+[06:08] [0m                    you ?[0m
+[06:08] [0m[37;1mAstaroth flaps :[0m why do i have to reply to you anyways[0m
+[06:09] [0m[37;1mAstaroth flaps :[0m yeah my feelings are hurt boo hoo hoo[0m
+[06:09] [0m[37;1mAstaroth flaps :[0m do anyone like you?[0m
+[06:09] [0m[37;1mEnder flaps :[0m wait, dropping babies is bad?[0m
+[06:09] [0m[37;1mKrataok flaps :[0m I like to like Space![0m
+[06:09] [0m[37;1mXiu flaps :[0m depends how they land and/or bounce[0m
+[06:10] [0m[37;1mEnder flaps :[0m man, they bounce til at least 9 years old. i have data-driven[0m
+[06:10] [0m              proof.[0m
+[06:10] [0m[37;1mSevenofnine flaps :[0m dude i am a cyborg with metal cranium :D what would a[0m
+[06:10] [0m                    bounce do to me ;)[0m
+[06:11] [0m[37;1mEnder flaps :[0m ok. How about fork and socket?[0m
+[06:11] [0m[37;1mXiu flaps :[0m i was dropped on my head as a baby plenty of times but luckily[0m
+[06:11] [0m            it was already up my ass so plenty of cushioning[0m
+[06:11] [0m[37;1mEnder flaps :[0m heh[0m
+[06:11] [0m[37;1mSevenofnine flaps :[0m ouch ender now you are scaring me[0m
+[06:11] [0m[37;1mAstaroth flaps :[0m you must of been a teacher's pet or something[0m
+[06:12] [0m[37;1mSamiel flaps :[0m oh give it a rest astaroth you baby[0m
+[06:12] [0m[37;1mAstaroth flaps :[0m wah wah wah[0m
+[06:12] [0m[37;1mSevenofnine flaps :[0m better than being a artifact desting obnoxious bot :)[0m
+[06:13] [0m[37;1mAstaroth flaps :[0m yeah i guess i'll dest every nec artifact from now on[0m
+[06:13] [0m[37;1mSevenofnine flaps :[0m wont matter to me, already have you on ignore list[0m
+[06:13] [0m[37;1mEnder flaps :[0m Also, make sure you both have keys to the we're all friends[0m
+[06:13] [0m              sharing toys house?[0m
+[06:13] [0m[37;1mXiu flaps :[0m i wish they'd remove the ahouse ban on artifacts. used to be if[0m
+[06:13] [0m            i found one (esp if nobody in the guild was on) i could just put[0m
+[06:13] [0m            it up for 10 with buyitnow of 11 and then ppl could see/collect[0m
+[06:13] [0m            it.[0m
+[06:14] [0m[37;1mSevenofnine flaps :[0m Not I ender, i dont think the clubhouse idea will work[0m
+[06:14] [0m                    at all[0m
+[06:14] [0m[37;1mAstaroth flaps :[0m oh you do? why are you bothering to reply on here to me[0m
+[06:14] [0m                 then[0m
+[06:14] [0m[37;1mEnder flaps :[0m What if a baby proof it:)[0m
+[06:15] [0m[37;1mSevenofnine flaps :[0m but you cant bot proof it, selfish  bots like him will[0m
+[06:15] [0m                    grab/wear/afk kill[0m
+[06:15] [0m[37;1mTurnhold flaps :[0m Shush, it's too early for ya'lls nonsense.[0m
+[06:15] [0m[37;1mAstaroth flaps :[0m so cassist is a bot thing ok[0m
+[06:15] [0m[37;1mLeianne flaps :[0m TH the peace keeper is on :p[0m
+[06:16] [0m[37;1mXiu flaps :[0m nothing changes the conversation like massive boons. 'cept maybe[0m
+[06:16] [0m            a round of dests, that'll do it too.[0m
+[06:16] [0m[37;1mDangerzone flaps :[0m aye aya TH too early for drama[0m
+[06:16] [0m[37;1mAstaroth flaps :[0m i'm not really here, i'm letting my bot program talk[0m
+[06:16] [0m[37;1mTurnhold flaps :[0m well, let it talk in tells[0m
+[06:16] [0m[37;1mTurnhold flaps :[0m and get it off public lines.[0m
+[06:16] [0m[37;1mXiu flaps :[0m Turing tests for everyone![0m
+[06:16] [0m[37;1mAstaroth flaps :[0m but he got me on ignored, i'm so so sad, my mud life is[0m
+[06:16] [0m                 over[0m
+[06:16] [0m[37;1mSevenofnine flaps :[0m for the record, he was not in any party when he spawned[0m
+[06:16] [0m                    necro artifact, he was in the mines, solo[0m
+[06:17] [0m[37;1mSevenofnine flaps :[0m so this cassist nonsense is just a lie[0m
+[06:17] [0m[37;1mAstaroth flaps :[0m is there a rule that i have to answer your tells[0m
+[06:18] [0mYou can currently reforge 8 items.[0m
+[06:18] [0m[37;1mAstaroth flaps :[0m so i'm a bot if i don't answer your right away[0m
+[06:18] [0m[37;1mSevenofnine flaps :[0m no, absolutely not, but there is no rule in me calling a[0m
+[06:18] [0m                    bot a bot, for responding 90min later[0m
+[06:18] [0m[37;1mTurnhold flaps :[0m JFC, ya'll don't listen.[0m
+[06:18] [0m[37;1mSevenofnine flaps :[0m ok i am done TH, sorry[0m
+[06:18] [0m[37;1mTurnhold flaps :[0m shut it, take it to tells, or else.[0m
+[06:28] [0m[37;1mEnder flaps :[0m anyone buy/sell a lot of domains? I have a few, nothing crazy.[0m
+[06:28] [0m              Was just offered 2K for one as 'the max budget' through some[0m
+[06:28] [0m              intermediary service.[0m
+[06:28] [0m[37;1mEnder flaps :[0m Dunno if its a form people fill out, or the service - do you[0m
+[06:28] [0m              usually haggle over this stuf?[0m
+[06:31] [0m[34;1mSevenofnine shouts:[0m wooo![0m
+[06:32] [0m[34;1mTurak shouts:[0m thanks everyone[0m
+[06:34] [0m[32mYou tell Ender:[0m may I ask, what's the domain url?[0m
+[06:35] [0m[32mEnder tells you:[0m jointmind.com[0m
+[06:35] [0m[32mEnder tells you:[0m which can go a few ways i guess[0m
+[06:36] [0m[32mYou tell Ender:[0m like winning the lottery! this your form of investment or[0m
+[06:36] [0m        had something in mind for it?[0m
+[06:36] [0m[31;1m[Clan] Oscar :[0m morning[0m
+[06:36] [0m[32;1mFrom afar, you smile at Ender.[0m[0m
+[06:36] [0m[31;1m[Clan] Dangerzone :[0m wooo booy, drama or no drama? fc-h if yes[0m
+[06:36] [0m[32mEnder tells you:[0m I buy domains mostly for project ideas, do a lot of[0m
+[06:36] [0m        software/startup kind of stuff.[0m
+[06:37] [0m[31;1m[Clan] Oscar :[0m wha[0m
+[06:37] [0m[32mEnder tells you:[0m I hold onto them for 2 years or so. in my searches i do[0m
+[06:37] [0m        occassionaly come across ones that might be more valuable. But I've[0m
+[06:37] [0m        only sold a couple, and never for piles of money:)[0m
+[06:38] [0m[34;1mSevenofnine shouts:[0m woo! good job oscar[0m
+[06:38] [0m[34;1mHooligan shouts:[0m An the oscar goes to...[0m
+[06:39] [0m[34;1mVilgan shouts: [0mI want everyone to know that Oscar is a big dumb meany.[0m
+[06:42] [0m[31;1m[Clan] Oscar :[0m karvec, when you ge tback around, could you chessboard me?[0m
+[06:42] [0m[32mSpace tells you (Roken,Fluffy,Sleepy,Hooligan):[0m resetting zombies, come to entrance[0m
+[06:44] [0m[32mSpace tells you:[0m you roken right?[0m
+[06:44] [0m[31;1m[Clan] Dangerzone :[0m oscar, space(7/9) was fighting with astra[0m
+[06:44] [0m[32mSpace tells you:[0m resetting zombies come if you want a reset[0m
+[06:44] [0m[32mYou tell Space:[0m yep, but not saved[0m
+[06:44] [0m[32mSpace tells you:[0m kk[0m
+[06:44] [0m[32;1mFrom afar, you thank Space.[0m[0m
+[06:44] [0m[32;1mFrom afar, Space sticks his thumb up at you and says 'No problemo'.[0m[0m
+[06:52] [0m[31;1m[Clan] Oscar :[0m lol missed that[0m
+[06:56] [0m[37;1mOscar flaps :[0m Tell them you're insulted by their lowball efforts and sue[0m
+[06:56] [0m              them for slander[0m
+[07:14] [0m[37;1mEnder flaps :[0m heh. missed that Oscar. Fortunately, we don't sue people in[0m
+[07:14] [0m              Canada[0m
+[07:16] [0m[37;1mSamiel flaps :[0m it'seh, "we don't sue people in Canada eh"[0m
+[07:16] [0m[37;1mEcholoc flaps :[0m take off, eh[0m
+[07:16] [0m[37;1mSamiel flaps :[0m ya hoser[0m
+[07:17] [0m[37;1mEnder flaps :[0m it's been so long I dont even remember what made 'eh' a thing.[0m
+[07:17] [0m[37;1mSamiel flaps :[0m canadians[0m
+[07:18] [0m[37;1mEnder flaps :[0m grin, hoser:) Like some SNL comedy skit or something.[0m
+[07:18] [0mYou can currently reforge 12 items.[0m
+[07:18] [0m[37;1mEcholoc flaps :[0m This movie was shot in 3B - three beers - and it looks good,[0m
+[07:18] [0m                eh?[0m
+[07:19] [0m[37;1mEnder flaps :[0m heh bob and doug mackenzie right.[0m
+[07:19] [0m[37;1mEcholoc flaps :[0m something like that[0m
+[07:20] [0m[37;1mEnder flaps :[0m maybe it was an old, angry canadian that sucker punched rick[0m
+[07:20] [0m              moranis.[0m
+[07:21] [0m[37;1mEcholoc flaps :[0m https://www.justwatch.com/us/movie/the-adventures-of-bob-and[0m
+[07:21] [0m                -doug-mckenzie-strange-brew[0m
+[07:25] [0m[37;1mEcholoc flaps :[0m there are angry canadians?[0m
+[07:35] [0m[37;1mEnder flaps :[0m Yah, I mean all that anger and malaise has to fester[0m
+[07:35] [0m              somewhere, until one day, one too many sorry's and boom.[0m
+[07:35] [0m              Parking lot meltdown, midlife sports car...[0m
+[07:36] [0m[37;1mSamiel flaps :[0m I presumed it explained ice hockey tbh[0m
+[07:36] [0m[37;1mWert flaps :[0m ender is saying he has a sportscar now and recently got in a[0m
+[07:36] [0m             parking lot fight, congrats ender![0m
+[07:36] [0m[37;1mEcholoc flaps :[0m Falling Down... ya, i have seen it before[0m
+[07:36] [0m[37;1mEnder flaps :[0m I would have won too if the other guy had hair to grab.[0m
+[07:37] [0m[37;1mEnder flaps :[0m grin, brain. Talking about cars and I 'brake great' instead of[0m
+[07:37] [0m              break grate.[0m
+[07:43] [0m[37;1mGaidin flaps :[0m Well, if you don't brake great then you might break grates.[0m
+[07:44] [0m[31;1m[Clan] Zorbaine walks into the rain.[0m  [0m
+[07:44] [0m[31;1m[Clan] Zorbaine :[0m heeeeeyyyyyyyy[0m
+[07:44] [0m[31;1m[Clan] Oscar :[0m yo zorbz[0m
+[07:45] [0m[31;1m[Clan] Zorbaine :[0m Guess I'll come back when Aka is on ;p[0m
+[07:47] [0m[31;1m[Clan] Oscar :[0m abandoning us so soon?[0m
+[07:47] [0mYou can currently reforge 0 items.[0m
+[07:48] [0m[37;1mEcholoc flaps :[0m then wouldn't you be Breaking bad?[0m
+[07:49] [0m[37;1mEnder flaps :[0m nice[0m
+[07:51] [0m[31;1m[Clan] Zorbaine :[0m well the dungeon looks pretty clean, nice work[0m
+[07:51] [0m[31;1m[Clan] Zorbaine :[0m that guy Karvec though...[0m
+[07:51] [0m[31;1m[Clan] Zorbaine :[0m wave[0m
+[07:53] [0m[37;1mHooligan flaps :[0m zombie reset in about 90 seconds[0m
+[07:53] [0m[34;1mHooligan shouts:[0m zombie reset in about 90 seconds[0m
+[07:54] [0m[37;1mEcholoc flaps :[0m i can help bbq some zombies after reset,send tell if[0m
+[07:54] [0m                interested :)[0m
+[07:55] [0m[34;1mHooligan shouts:[0m last call for zomies[0m
+[07:57] [0m[31;1m[Clan] Karvec :[0m what[0m
+[07:58] [0m[31;1m[Clan] Karvec :[0m bards are so fking OP[0m
+[08:03] [0m[31;1m[Clan] Oscar :[0m you sound like tony begging to be downgraded[0m
+[08:03] [0m[31;1m[Clan] Oscar :[0m enjoy it while you got critic :D[0m
+[08:18] [0mYou can currently reforge 4 items.[0m
+[08:48] [0m[31;1m[Clan] Aka :[0m ah missed zorbs by an hour[0m
+[08:50] [0m[31;1m[Clan] Oscar :[0m he said some pretty nasty stuff about you[0m
+[08:53] [0m[31;1m[Clan] Aka :[0m haha i've got his car and he's in ukraine, we've got to sort[0m
+[08:53] [0m             out if he's selling it or whatnot[0m
+[08:53] [0m[34;1mVilgan shouts: [0mArgh, I'm dying!  Trout is a meany![0m
+[08:54] [0m[31;1m[Clan] Saim :[0m sell it, and see how much you make first obviously[0m
+[08:57] [0m[32mYou tell Szodrin:[0m oh man, were there any talks of me dead last night?[0m
+[08:58] [0m[32mSzodrin tells you:[0m not that I noticed, but wizards tend to notice people[0m
+[08:58] [0m        that are in the graveyard upwards of an hour[0m
+[08:58] [0m[32mYou tell Szodrin:[0m oh gotcha[0m
+[08:59] [0m[32mSzodrin tells you:[0m I think the viewpoint is, if you aren't aware you're[0m
+[08:59] [0m        dead after 30+ minutes, you probably weren't checking in every 10[0m
+[08:59] [0m        :P[0m
+[09:01] [0m[32mYou tell Szodrin:[0m unfortunuate i couldn't sneak in a few minutes while I[0m
+[09:01] [0m        fall asleep[0m
+[09:01] [0m[32mYou tell Szodrin:[0m no harm this time hehe[0m
+[09:07] [0m[31;1m[Clan] Bruce :[0m and he's had glvl 70 for a number of hours now, we might have[0m
+[09:07] [0m               to remove him from guild[0m
+[09:09] [0m[31;1m[Clan] Bruce :[0m wl[0m
+[09:09] [0m[31;1m[Clan] Bruce :[0m heh[0m
+[09:10] [0m[31;1m[Clan] Aka :[0m or invite him into bardclan[0m
+[09:12] [0m[31;1m[Clan] Bruce :[0m downgrade bards they're too op[0m
+[09:18] [0mYou can currently reforge 8 items.[0m
+[09:19] [0mFluffy <.oO>: you go girl, shake that eexp![0m
+[09:20] [0m[34;1mEcholoc shouts:[0m thanks everyone[0m
+[09:49] [0m[31;1m[Clan] Mud leaves the game.[0m  [0m
+[09:50] [0m[32mSpace tells you (Roken,Fluffy,Sleepy,Hooligan):[0m resetting zombies, come to entrance[0m
+[10:03] [0m[31;1m[Clan] Bruce :[0m the worst thing i've done today is upgrade to tintin 2.02.04[0m
+[10:03] [0m[31;1m[Clan] Bruce :[0m fffffsssss[0m
+[10:07] [0m[31;1m[Clan] Oscar :[0m why?[0m
+[10:07] [0m[31;1m[Clan] Bruce :[0m it breaks literally everything[0m
+[10:07] [0m[31;1m[Clan] Bruce :[0m like priorities change, can't use priority {0} anymore on[0m
+[10:07] [0m               trigs[0m
+[10:07] [0m[31;1m[Clan] Bruce :[0m and a bunch of other stuff i haven't figured out yet[0m
+[10:09] [0m[31;1m[Clan] Oscar :[0m this is intentional per scandum?[0m
+[10:10] [0m[31;1m[Clan] Oscar :[0m seems...insane[0m
+[10:11] [0m[31;1m[Clan] Bruce :[0m like this is spamming me on 3s now when a trig fires[0m
+[10:11] [0m[31;1m[Clan] Bruce :[0m DEBUG_STACK[100] [050] = check_all_aliases(3k,perform smile[0m
+[10:11] [0m               for enordi)[0m
+[10:11] [0m[31;1m[Clan] Bruce :[0m no fricking idea what that means[0m
+[10:18] [0mYou can currently reforge 12 items.[0m
+[10:19] [0m[31;1m[Clan] Oscar :[0m wow[0m
+[10:19] [0m[31;1m[Clan] Oscar :[0m not upgrading for sure lol[0m
+[10:20] [0m[31;1m[Clan] Bruce :[0m don't, literally everything is broken[0m
+[10:26] [0m[31;1m[Clan] Szodrin :[0m did you back up?[0m
+[10:26] [0m[31;1m[Clan] Szodrin :[0m separate folder?[0m
+[10:48] [0mYou can currently reforge 0 items.[0m
+[11:09] [0m[31;1m[Clan] Akir :[0m hihi[0m
+[11:10] [0m[31;1m[Clan] Szodrin :[0m hey hey hey[0m
+[11:18] [0mYou can currently reforge 4 items.[0m
+[11:22] [0m[31;1m[Clan] Szodrin :[0m [11:22] [Tex tells you]:  just ask george[0m
+[11:23] [0m[31;1m[Clan] Szodrin :[0m which, I assume, references Biden's latest gaffe[0m
+[11:23] [0m[31;1m[Clan] Akir :[0m What did I miss?[0m
+[11:23] [0m[31;1m[Clan] Szodrin :[0m I just don't understand Tex, lol[0m
+[11:23] [0m[31;1m[Clan] Akir :[0m Oh that[0m
+[11:23] [0m[31;1m[Clan] Akir :[0m He is nice but is weird :P[0m
+[11:23] [0m[31;1m[Clan] Bruce :[0m i love tex but i think he's smoked a lot of weed[0m
+[11:24] [0m[31;1m[Clan] Akir :[0m I just sneezed for the 75th time this morning. This is how I'm[0m
+[11:24] [0m              going to die, bye everyone[0m
+[11:24] [0m[31;1m[Clan] Bruce :[0m gtfo[0m
+[11:24] [0m[31;1m[Clan] Szodrin :[0m I'll give him this much, he's trolling both sides[0m
+[11:24] [0m[31;1m[Clan] Szodrin :[0m oh, bye Akir, take care[0m
+[11:24] [0m[31;1m[Clan] Szodrin :[0m anyway...[0m
+[11:24] [0m[31;1m[Clan] Akir :[0m :([0m
+[11:24] [0m[31;1m[Clan] Szodrin :[0m :D[0m
+[11:27] [0m[31;1m[Clan] Bruce :[0m so now that akir is dead[0m
+[11:28] [0m[31;1m[Clan] Bruce :[0m can we replace him with tex?[0m
+[11:28] [0m[31;1m[Clan] Akir :[0m You should probably do that anyway[0m
+[11:28] [0m[31;1m[Clan] Bruce :[0m it's no fun when you agree[0m
+[11:29] [0m[31;1m[Clan] Bruce :[0m way to ruin it[0m
+[11:29] [0m[31;1m[Clan] Bruce :[0m party pooper[0m
+[11:29] [0m[31;1m[Clan] Akir :[0m :D[0m
+[11:30] [0m[31;1m[Clan] Szodrin :[0m lol, razorfist is always entertaining[0m
+[11:31] [0m[31;1m[Clan] Szodrin :[0m he actually had a really good couple of videos on the[0m
+[11:31] [0m                 Michael Jackson accusations as well[0m
+[11:37] [0m[31;1m[Clan] Szodrin :[0m laf[0m
+[11:37] [0m[31;1m[Clan] Szodrin :[0m [11:37] [Tex tells you]:  i just tweeted Fake news loser :P[0m
+[11:37] [0m                 to trumps official page on latest tweet Im waiting for[0m
+[11:37] [0m                 black helicopters now[0m
+[11:38] [0m[31;1m[Clan] Akir :[0m lmao what[0m
+[11:47] [0m[31;1m[Clan] Bruce :[0m ffs abyss always breaks for me[0m
+[11:50] [0m[31;1m[Clan] Szodrin :[0m it's supposed to[0m
+[11:50] [0m[31;1m[Clan] Szodrin :[0m everyone in there contributes[0m
+[11:52] [0m[31;1m[Clan] Szodrin :[0m can you handle NoC2?[0m
+[11:52] [0m[31;1m[Clan] Bruce :[0m yeah[0m
+[11:52] [0m[31;1m[Clan] Szodrin :[0m shrug, just wait out the reset there[0m
+[11:53] [0m[31;1m[Clan] Szodrin :[0m less coins, but you can always collect the drops and sell[0m
+[11:53] [0m                 them like B does[0m
+[11:53] [0m[31;1m[Clan] Bruce :[0m noc2 better if i have a big hitter with me, otherwise not[0m
+[11:53] [0m               efficient xp[0m
+[11:53] [0m[31;1m[Clan] Szodrin :[0m Aka probably wouldn't mind a tank[0m
+[11:54] [0m[31;1m[Clan] Szodrin :[0m sorry, I tend to try to fix things in discussions, my wife[0m
+[11:54] [0m                 hates it[0m
+[11:54] [0m[31;1m[Clan] Szodrin :[0m never can turn it on myself though[0m
+[11:54] [0m[31;1m[Clan] Saim :[0m use duct tape[0m
+[11:54] [0m[31;1m[Clan] Saim :[0m fix her real good[0m
+[12:00] [0m[31;1m[Clan] Szodrin :[0m lol[0m
+[12:01] [0m[31;1m[Clan] Bruce :[0m anyone spare a couple of reforges? preferably loads from auro[0m
+[12:01] [0m               :D[0m
+[12:02] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[12:02] [0m                          Northern Hills of Fantasy!  We are localizing it[0m
+[12:02] [0m                          now - get ready![0m
+[12:11] [0m[34;1mWhoknows shouts:[0m Regulators!!! Mount up![0m
+[12:16] [0m[34;1mCrolack shouts:[0m Naw.[0m
+[12:16] [0m[34;1mEcholoc shouts:[0m later[0m
+[12:18] [0mYou can currently reforge 8 items.[0m
+[12:37] [0m[34;1mGumby shouts:[0m northgate 10n/theme fire[0m
+[12:37] [0m[34;1mEnder shouts:[0m the roof, the roof, the roof is on fire.[0m
+[12:38] [0m[34;1mKrataok shouts:[0m we don't need no water[0m
+[12:38] [0m[34;1mWhoknows shouts:[0m Let the Muther...[0m
+[12:38] [0m[34;1mYik shouts:[0m epa suggests not getting tap water in your eyes[0m
+[12:53] [0m[34;1mEcholoc shouts:[0m Westbound and down, Loaded up and trucking. We gonna do what[0m
+[12:53] [0m                they say can't be done[0m
+[12:54] [0m[34;1mUrsus shouts:[0m I'm rooting for the Bears[0m
+[12:56] [0m[31;1m[Clan] Yik :[0m anyone need some harmonizes?[0m
+[12:56] [0m[34;1mEcholoc shouts:[0m Da Bears![0m
+[12:56] [0m[31;1m[Clan] Akir :[0m idk what that does![0m
+[12:57] [0m[31;1m[Clan] Yik :[0m sii ability that lets you roll the dice on some random stuff[0m
+[12:57] [0m[31;1m[Clan] Akir :[0m Oh I'm just chess botting but thanks![0m
+[12:58] [0m[31;1m[Clan] Yik :[0m biggest hopes tend to making a weapons wc switch to somethin[0m
+[12:58] [0m             else or making a freezer light weight[0m
+[12:59] [0m[31;1m[Clan] Yik :[0m usually dont use it on armor cause it could make all the e or b[0m
+[12:59] [0m             ac turn into somethin else, altho a lightweight auro shield[0m
+[12:59] [0m             would be nice[0m
+[13:04] [0m[31;1m[Clan] Oscar :[0m you can fuck my shit up[0m
+[13:04] [0m[31;1m[Clan] Oscar :[0m ss?[0m
+[13:05] [0m[31;1m[Clan] Oscar :[0m oo electric[0m
+[13:10] [0m[31;1m[Clan] Yik :[0m i got an electric axe this boot as well \o/[0m
+[13:18] [0mYou can currently reforge 12 items.[0m
+[13:39] [0m[31;1m[Clan] Szodrin :[0m sure, Yik, I'll take a roll[0m
+[13:40] [0m[31;1m[Clan] Szodrin :[0m oh, ld[0m
+[13:41] [0m[31;1m[Clan] Oscar :[0m YA SNOOZE YA LOOZE SCRUB[0m
+[13:45] [0mYou can currently reforge 0 items.[0m
+[13:46] [0m[31;1m[Clan] Akir :[0m Anyone need a transmute for anything before I blow it for[0m
+[13:46] [0m              skillups?[0m
+[13:58] [0m[34;1mGumby shouts:[0m big letters[0m
+[13:58] [0m[34;1mTex shouts:[0m fake news[0m
+[14:04] [0m[31;1m[Clan] Szodrin :[0m I wouldn't mind taking another shot at Beloch if some folks[0m
+[14:04] [0m                 are willing, finally have a refresh burning up my pocket[0m
+[14:05] [0m[31;1m[Clan] Szodrin :[0m you know what... screw it, I need to work on at least one[0m
+[14:05] [0m                 more glvl so I can get slides[0m
+[14:05] [0m[31;1m[Clan] Szodrin :[0m well, A slide[0m
+[14:07] [0m[31;1m[Clan] Szodrin :[0m grrr, but I'm only 5glvls from a healing increase on Szod[0m
+[14:13] [0m[31;1m[Clan] Oscar :[0m lol[0m
+[14:13] [0m[31;1m[Clan] Oscar :[0m all good things[0m
+[14:14] [0m[31;1m[Clan] Oscar :[0m I think slides are the best choice though[0m
+[14:14] [0m[31;1m[Clan] Oscar :[0m personally[0m
+[14:14] [0m[31;1m[Clan] Taleast :[0m yeah, I'm gonna pick up at least 1 before moving on[0m
+[14:14] [0m[31;1m[Clan] Taleast :[0m glvl 30 is a LOOOOONG way off though[0m
+[14:14] [0m[31;1m[Clan] Taleast :[0m multi-boot[0m
+[14:16] [0m[31;1m[Clan] Oscar :[0m yeah[0m
+[14:16] [0m[31;1m[Clan] Taleast :[0m Str: 120    Dex: 191    Wis: 141    Int: 30     Con: 145   [0m
+[14:16] [0m                 Cha: 50[0m
+[14:17] [0m[31;1m[Clan] Oscar :[0m gentech are super easy/lazy gxp too[0m
+[14:17] [0m[31;1m[Clan] Taleast :[0m any advice?[0m
+[14:17] [0m[31;1m[Clan] Taleast :[0m been a month or two[0m
+[14:17] [0m[31;1m[Clan] Taleast :[0m actually, don't worry about it, only 1 free stat train[0m
+[14:17] [0m[31;1m[Clan] Oscar :[0m str/wis = dmg[0m
+[14:17] [0m[31;1m[Clan] Akir :[0m golems yawn[0m
+[14:17] [0m[31;1m[Clan] Oscar :[0m dex = tanking[0m
+[14:18] [0m[31;1m[Clan] Oscar :[0m con = hps, so go from there[0m
+[14:18] [0m[31;1m[Clan] Oscar :[0m i'd do str/dex/wis[0m
+[14:18] [0m[31;1m[Clan] Saim :[0m cha = beauty[0m
+[14:18] [0mYou can currently reforge 4 items.[0m
+[14:18] [0m[31;1m[Clan] Saim :[0m max cha[0m
+[14:18] [0m[31;1m[Clan] Oscar :[0m Well, in gentech cha is also your chance of failing[0m
+[14:18] [0m               experiments[0m
+[14:18] [0m[34;1mUrsus shouts:[0m running through a room I see "26HAAitem~teeth~Teeth~exa #NHide[0m
+[14:18] [0m              {9}."   I think I just saw behind the matrix![0m
+[14:18] [0m[31;1m[Clan] Taleast :[0m YEAH, SAIM![0m
+[14:19] [0m[31;1m[Clan] Taleast :[0m :tosses golden locks:[0m
+[14:19] [0m[31;1m[Clan] Saim :[0m the most beautiful gentech[0m
+[14:19] [0m[31;1m[Clan] Oscar :[0m lol[0m
+[14:19] [0m[34;1mGaidin shouts:[0m That's just a MIP line that didn't get gagged properly.[0m
+[14:19] [0m[34;1mGumby shouts:[0m you need to be gagged properly ;-)[0m
+[14:19] [0m[34;1mSaim shouts:[0m that what she said[0m
+[14:24] [0m[34;1mElindal shouts:[0m no, that's what i told her.[0m
+[14:27] [0m[31;1m[Clan] Akir :[0m Gentech are super cool[0m
+[14:27] [0m[31;1m[Clan] Akir :[0m I should play Prism more ![0m
+[14:28] [0m[31;1m[Clan] Taleast :[0m I love the theme, not so much the gxp system[0m
+[14:28] [0m[31;1m[Clan] Taleast :[0m I prefer guilds where you can gxp on anything[0m
+[14:28] [0m[31;1m[Clan] Akir :[0m I dislike the bonus for mob class, I think that's annoying[0m
+[14:31] [0m[31;1m[Clan] Taleast :[0m anyone want to drag a baby gen? laf, I don't think I've[0m
+[14:31] [0m                 asked for a drag in at least a day or two[0m
+[14:32] [0m[31;1m[Clan] Taleast :[0m I'm so needy[0m
+[14:36] [0m[31;1m[Clan] Oscar :[0m I can drag you around if you want[0m
+[14:36] [0m[31;1m[Clan] Oscar :[0m meet at chessboard[0m
+[14:42] [0m[37;1mVoodoo flaps :[0m Crolack is the smartest person in the whole flat world.[0m
+[14:43] [0m[37;1mEnder flaps :[0m it's a tower of turtles just fyi.[0m
+[14:44] [0m[37;1mGaidin flaps :[0m But what are the turtles standing on?[0m
+[14:44] [0m[37;1mEnder flaps :[0m nice, another night i wont get to sleep.[0m
+[14:44] [0m[34;1mUrsus shouts:[0m can't fool me.. it's turtles aaall the way down![0m
+[14:45] [0m[37;1mUrsus flaps :[0m I really need to ansi flap and shout to different colors... :([0m
+[14:45] [0m[37;1mSamiel flaps :[0m hehe w/ling is a 3k tradition[0m
+[14:46] [0m[37;1mEnder flaps :[0m tell that to my team on slack[0m
+[14:46] [0m[37;1mEnder flaps :[0m not to rehash the whole 'separate computer for mud' thing:)[0m
+[14:48] [0m[37;1mGaidin flaps :[0m There's even a command to fix it: redo[0m
+[15:12] [0mYou can currently reforge 0 items.[0m
+[15:18] [0mYou can currently reforge 4 items.[0m
+[15:40] [0m[31;1m[Clan] Dangerzone :[0m when is an appropriate time to drag me to refresh room[0m
+[15:40] [0m                    1?[0m
+[15:42] [0m[31;1m[Clan] Dangerzone :[0m jus' bored. Think i need a good codewar puzzle[0m
+[15:43] [0m[31;1m[Clan] Taleast :[0m hey! Aka's on GHC![0m
+[15:43] [0m[31;1m[Clan] Taleast :[0m woot![0m
+[15:43] [0m[36m<BS> Dangerzone :[0m why can't i inscribe my helmet? has 5 of 6 slots used. Is[0m
+[15:43] [0m                  it b/c it was reforged?[0m
+[15:43] [0m[36m<BS> Xiu :[0m does it have eternity?[0m
+[15:45] [0m[36m<BS> Dangerzone :[0m no[0m
+[15:45] [0m[36m<BS> Din :[0m if it already has eternity, you can't put another on.  Also, if[0m
+[15:45] [0m           you put it on or moved while you were still inscribing, it's[0m
+[15:45] [0m           locked out[0m
+[15:45] [0m[36m<BS> Din :[0m but you can rdispell and try again[0m
+[15:45] [0m[36m<BS> Dangerzone :[0m put on then[0m
+[15:45] [0m[36m<BS> Dangerzone :[0m good to know[0m
+[15:46] [0m[36m<BS> Xiu :[0m yeah don't wear items you're inscribing or move until the process[0m
+[15:46] [0m           completes[0m
+[15:47] [0m[36m<BS> Dangerzone :[0m unintentional, must've thought I placed 'power' rune[0m
+[15:47] [0m                  before moving on[0m
+[15:47] [0m[37;1mCrolack flaps :[0m *shoves Voodoo off the edge*[0m
+[15:47] [0m[37;1mVoodoo flaps :[0m play cult! murder Crolack![0m
+[15:52] [0m[37;1mDangerzone flaps :[0m muuuuuuurrrrrderrrr[0m
+[15:57] [0m[37;1mEcholoc flaps :[0m redrum[0m
+[15:57] [0m[37;1mHsima flaps :[0m colohce[0m
+[16:12] [0m[37;1mHooligan flaps :[0m I totally thought that said whore hooker...[0m
+[16:18] [0m[37;1mDangerzone flaps :[0m bring hooligan to 3k![0m
+[16:18] [0mYou can currently reforge 8 items.[0m
+[16:19] [0m[31;1m[Clan] Anecdote leaves the game.[0m  [0m
+[16:31] [0m[34;1mEnder shouts:[0m If life was truly driven by random chaos, would the nozzle of[0m
+[16:31] [0m              my 70% alcohol based hand sanitizer always have hardened bits[0m
+[16:31] [0m              that direct the spray right into my eyes?[0m
+[16:31] [0m[34;1mYik shouts:[0m seems bout right[0m
+[16:32] [0m[34;1mUrsus shouts:[0m is that really 'chaos' though?  or that you bought your hand[0m
+[16:32] [0m              sanitizer from Earl's Van from behind the quickstop?[0m
+[16:32] [0m[34;1mEnder shouts:[0m (a) Earl is a good dude. (b) it is for sure either an argument[0m
+[16:32] [0m              for an intelligent designer whose sole purpose is to make[0m
+[16:32] [0m              itself laugh[0m
+[16:32] [0m[34;1mEnder shouts:[0m or (c) like, another mud on top of this mud.[0m
+[16:33] [0m[34;1mYik shouts:[0m skip the middle man, just spray alcohol directly into eyes[0m
+[16:33] [0m[34;1mGaidin shouts:[0m God really need to start responding to botchecks, though.[0m
+[16:33] [0m[34;1mUrsus shouts:[0m simulation theory does make alot of sense to me.  my sims[0m
+[16:33] [0m              always end up playing alot of video games.. and I do randomly[0m
+[16:33] [0m              torture them for my amusement.....[0m
+[16:35] [0m[32mVoodoo tells you:[0m Sweep the leg. Have a problem with that Mr. Dangerzone?[0m
+[16:35] [0m[34;1mAkir shouts:[0m NO SENSEI![0m
+[16:35] [0m[34;1mTransitory shouts:[0m NO SENSEI![0m
+[16:35] [0m[34;1mGumby shouts:[0m no sensei![0m
+[16:35] [0m[34;1mHooligan shouts:[0m Your killing him![0m
+[16:35] [0m[34;1mAlassra shouts:[0m No, Sensei![0m
+[16:35] [0m[34;1mTransitory shouts:[0m GET HIM A BODYBAG! HAHAHA[0m
+[16:35] [0m[34;1mAlassra shouts:[0m #TeamMiguel[0m
+[16:35] [0m[34;1mHooligan shouts:[0m Danny I'm sorry1[0m
+[16:36] [0m[34;1mDin shouts:[0m whenever i play sims, i get upset with them for farting around[0m
+[16:36] [0m            playing video games when they should be working on guitar skill[0m
+[16:36] [0m            or working out or getting ready for work, then realize i'm the[0m
+[16:36] [0m            sim and the sims sucks[0m
+[16:36] [0m[34;1mXiu shouts:[0m no problem, sensei[0m
+[16:36] [0m[34;1mAkir shouts:[0m YES, #TeamMiguel all the way. Robby sucks, I hate his stupid[0m
+[16:36] [0m             face.[0m
+[16:36] [0m[34;1mUrsus shouts:[0m if Sims 5 launches without a 'release pandemic', 'start social[0m
+[16:36] [0m              justice riot', or 'elect dictator' option, I'm not buying[0m
+[16:37] [0m[34;1mHooligan shouts:[0m Koala Kai?  More mercy![0m
+[16:37] [0m[34;1mSparkie shouts:[0m wooo[0m
+[16:40] [0m[34;1mGumby shouts:[0m sparkie-ly![0m
+[17:21] [0mnewb Gumby [cyborg/111]: too bad, he might have grown up to be the muffinman[0m
+[17:21] [0m                         :([0m
+[17:21] [0mnewb Alassra [necromancer/132]: and his final form as the Stay Puft[0m
+[17:21] [0m                                Marshmallow Man?[0m
+[17:21] [0mnewb Gumby [cyborg/111]: choose the form of the destructor![0m
+[17:26] [0mYou can currently reforge 12 items.[0m
+[17:30] [0m[31;1m[Clan] Akir :[0m yawn[0m
+[17:41] [0m[31;1m[Clan] Karvec :[0m he changed priority[0m
+[17:41] [0m[31;1m[Clan] Karvec :[0m mine is working fine[0m
+[17:41] [0m[31;1m[Clan] Karvec :[0m other than i need to go back through and change priority on[0m
+[17:41] [0m                a few things[0m
+[17:41] [0m[31;1m[Clan] Karvec :[0m sorry, just saw clan chat from before 12[0m
+[17:41] [0m[31;1m[Clan] Karvec :[0m :P[0m
+[17:41] [0m[37;1mUrsus flaps :[0m aww.. .just discovered that amazing randi died[0m
+[17:41] [0m[37;1mAlassra flaps :[0m yeah a couple of days ago[0m
+[17:42] [0m[37;1mUrsus flaps :[0m I missed it somehow[0m
+[17:42] [0m[37;1mUrsus flaps :[0m catching up on my podcasts[0m
+[17:45] [0m[37;1mTaleast flaps :[0m I admittedly don't remember him, you said that and I thought[0m
+[17:45] [0m                about the Rooster Magic episode of South Park[0m
+[17:45] [0m[37;1mSamiel flaps :[0m I only know him from debuking fraud clips on youtube[0m
+[17:45] [0m[37;1mTaleast flaps :[0m and then I laughed because I remembered Cartmen recounting[0m
+[17:45] [0m                the finale[0m
+[17:47] [0m[37;1mTaleast flaps :[0m wait, I think I do remember him, I think I saw him[0m
+[17:47] [0m                explaining spoon bending and preventing a guy from using[0m
+[17:47] [0m                wind to flip a book page using styrofoam packing peanuts[0m
+[17:47] [0m[37;1mUrsus flaps :[0m heh.. nog.  a well known skeptic who debunked alot of cons and[0m
+[17:47] [0m              conmen[0m
+[17:48] [0m[31;1m[Clan] Seoman enters the game.[0m  [0m
+[17:49] [0m[37;1mUrsus flaps :[0m he sponsored the million dollar challenge..  if anyone could[0m
+[17:49] [0m              perform or prove something supernatural that he coudln't[0m
+[17:49] [0m              debunk or explain, they'd get a million dollars.   stood for[0m
+[17:49] [0m              like 50 years[0m
+[17:49] [0m[37;1mOscar flaps :[0m that dude was awesome[0m
+[17:50] [0m[31;1m[Clan] Teg leaves the game.[0m  [0m
+[17:53] [0m[31;1m[Clan] Akir :[0m is that with embiggen?[0m
+[17:53] [0m[31;1m[Clan] Akir :[0m mt[0m
+[18:02] [0m[31;1m[Clan] Karvec :[0m XP Gain for the last 30 minutes: 392,335,930[0m
+[18:02] [0m[31;1m[Clan] Karvec :[0m without embiggen[0m
+[18:02] [0m[31;1m[Clan] Xaryl :[0m bs![0m
+[18:02] [0m[31;1m[Clan] Karvec :[0m i know it's like double Ser's[0m
+[18:02] [0m[31;1m[Clan] Karvec :[0m stupid[0m
+[18:03] [0m[31;1m[Clan] Taleast :[0m well that's not a very nice name to call someone[0m
+[18:04] [0m[31;1m[Clan] Taleast :[0m I like Chuck, but then people couldn't ask what was 'up'[0m
+[18:04] [0m                 any more[0m
+[18:11] [0m[31;1m[Clan] Taleast :[0m testing[0m
+[18:11] [0m[31;1m[Clan] Taleast :[0m good[0m
+[18:12] [0m[31;1m[Clan] Taleast :[0m been a while since I played Tal, I fixed the issue with[0m
+[18:12] [0m                 channel history updating chatline monitor on Szod[0m
+[18:12] [0m[31;1m[Clan] Oscar :[0m karvec, any chance you can pop ser on to MR a cocon?[0m
+[18:12] [0m[31;1m[Clan] Taleast :[0m you don't want a transmute?[0m
+[18:12] [0m[31;1m[Clan] Oscar :[0m I xmuted spork[0m
+[18:12] [0m[31;1m[Clan] Karvec :[0m sure[0m
+[18:12] [0m[31;1m[Clan] Taleast :[0m oh[0m
+[18:12] [0m[31;1m[Clan] Karvec :[0m bplate?[0m
+[18:12] [0m[31;1m[Clan] Oscar :[0m greaves[0m
+[18:13] [0m[31;1m[Clan] Oscar :[0m I wonder what lvl xmuter you need for cocoon[0m
+[18:13] [0m[31;1m[Clan] Ser :[0m ~80[0m
+[18:13] [0m[31;1m[Clan] Oscar :[0m good to know[0m
+[18:13] [0m[31;1m[Clan] Oscar :[0m is it reforged already?[0m
+[18:13] [0m[31;1m[Clan] Oscar :[0m dont remember if i reforged it[0m
+[18:14] [0m[31;1m[Clan] Oscar :[0m anyone able to reforge cocoon quick?[0m
+[18:14] [0m[31;1m[Clan] Sock :[0m sure[0m
+[18:15] [0m[31;1m[Clan] Ser :[0m You have 2 days 1 hour 29 minutes 57 seconds before you can use[0m
+[18:15] [0m             a reset VAF.[0m
+[18:15] [0m[31;1m[Clan] Ser :[0m sigh[0m
+[18:16] [0m[31;1m[Clan] Oscar :[0m careful, you play bard enough you won't go back[0m
+[18:16] [0m[31;1m[Clan] Karvec :[0m nah i'm too close to glevel[0m
+[18:16] [0m[31;1m[Clan] Oscar :[0m anything special for this glvl?[0m
+[18:17] [0m[31;1m[Clan] Oscar :[0m psicorp are so insane at krank size, but fuck there needs to[0m
+[18:17] [0m               be a better mid/not krank size lol[0m
+[18:19] [0m[31;1m[Clan] Oscar :[0m Your next available reset is avaiable on Mon Nov 23 21:32:41[0m
+[18:19] [0m               2020.[0m
+[18:19] [0m[31;1m[Clan] Oscar :[0m One month until S mage[0m
+[18:19] [0m[31;1m[Clan] Oscar :[0m If I'm 160 (which wouldn't be tough) by then, all my skills[0m
+[18:19] [0m               are uncapped too[0m
+[18:41] [0mYou can currently reforge 0 items.[0m
+[18:44] [0mYou can currently reforge 4 items.[0m
+[18:47] [0m[34;1mTex shouts:[0m any one currently fightin ned and is not in room with him now[0m
+[18:48] [0m[31;1m[Clan] Akir :[0m 160 is a big mage glevel right[0m
+[18:48] [0m[34;1mSpace shouts:[0m i think Frank took care of people bouncing Ned ?[0m
+[18:50] [0m[31;1m[Clan] Oscar :[0m 150 is the last spell[0m
+[18:50] [0m[31;1m[Clan] Akir :[0m o[0m
+[18:52] [0m[31;1m[Clan] Oscar :[0m 160 is where all your skills are uncapped[0m
+[18:52] [0m[31;1m[Clan] Oscar :[0m So, 150 is "big"[0m
+[18:53] [0m[31;1m[Clan] Akir :[0m nodnod[0m
+[18:53] [0m[31;1m[Clan] Oscar :[0m 160 is when you can dump a ton of gxp from potential (which[0m
+[18:53] [0m               is a weird skill thing that opens other skills but doesnt do[0m
+[18:53] [0m               much) into other stuff[0m
+[18:54] [0m[31;1m[Clan] Oscar :[0m But...it took me 20 days to get 150.  Not sure how much[0m
+[18:54] [0m               longer this party is gonna last though so get a mage while[0m
+[18:54] [0m               the gettin is good[0m
+[18:54] [0m[31;1m[Clan] Oscar :[0m that used to take like 150 days[0m
+[18:55] [0m[31;1m[Clan] Akir :[0m So you just joined when they were fast, INTERESTING[0m
+[18:56] [0m[31;1m[Clan] Oscar :[0m I didn't join knowing this, it's just something I noticed[0m
+[18:56] [0m[31;1m[Clan] Oscar :[0m They've been getting tweaked[0m
+[18:56] [0m[31;1m[Clan] Oscar :[0m And there weren't (and still aren't really) any small mages.[0m
+[18:56] [0m               It's just elmo/hyperion/havox[0m
+[18:57] [0m[31;1m[Clan] Oscar :[0m So, tweaks that are appropriate for their size benefitted me[0m
+[18:57] [0m               as well[0m
+[18:57] [0m[31;1m[Clan] Taleast :[0m if I could do things useful to my other characters other[0m
+[18:57] [0m                 than eternal powers I'd probably consider mages[0m
+[18:57] [0m[31;1m[Clan] Akir :[0m my rl friend just came back today and decided to play again,[0m
+[18:57] [0m              he's glevel 70 in there laf, I told him I think he could do a[0m
+[18:57] [0m              lot worse with a guild but he could also do better[0m
+[18:57] [0m[31;1m[Clan] Taleast :[0m the tanking issues I see you going through though make me[0m
+[18:57] [0m                 thing I'd get really frustrated[0m
+[18:57] [0m[31;1m[Clan] Oscar :[0m My tanking issues are self inflicted[0m
+[18:57] [0m[31;1m[Clan] Karvec :[0m can i wield a redaxe[0m
+[18:57] [0m[31;1m[Clan] Oscar :[0m Mostly[0m
+[18:57] [0m[31;1m[Clan] Akir :[0m yes you may[0m
+[18:57] [0m[31;1m[Clan] Karvec :[0m as a mage[0m
+[18:58] [0m[31;1m[Clan] Oscar :[0m You can only wield a dagger or a staff[0m
+[18:58] [0m[31;1m[Clan] Taleast :[0m thank you for asking[0m
+[18:58] [0m[31;1m[Clan] Akir :[0m turn it into a dagger[0m
+[18:58] [0m[31;1m[Clan] Oscar :[0m Redaxe you can't MR anymore[0m
+[18:58] [0m[31;1m[Clan] Oscar :[0m That was something Nix and I got nerfed heh[0m
+[18:58] [0m[31;1m[Clan] Taleast :[0m nog, can't transmute either[0m
+[18:58] [0m[31;1m[Clan] Akir :[0m can just transmute it tho right?[0m
+[18:58] [0m[31;1m[Clan] Karvec :[0m YES YOU CAN[0m
+[18:58] [0m[31;1m[Clan] Oscar :[0m no?[0m
+[18:58] [0m[31;1m[Clan] Karvec :[0m YES YOU CAN OSCAR YOU DUMB SHIT[0m
+[18:58] [0m[31;1m[Clan] Akir :[0m wait you can't transmute red axe anymore? since when[0m
+[18:58] [0m[31;1m[Clan] Karvec :[0m you just need OG[0m
+[18:58] [0m[31;1m[Clan] Oscar :[0m So you can do it to OG but not a dupe?[0m
+[18:58] [0m[31;1m[Clan] Karvec :[0m or the 2nd OG[0m
+[18:58] [0m[31;1m[Clan] Oscar :[0m that's weird[0m
+[18:58] [0m[31;1m[Clan] Taleast :[0m oh[0m
+[18:58] [0m[31;1m[Clan] Karvec :[0m nod[0m
+[18:58] [0m[31;1m[Clan] Oscar :[0m who wants the OG redaxe[0m
+[18:58] [0m[31;1m[Clan] Oscar :[0m fucking curse[0m
+[18:59] [0m[31;1m[Clan] Taleast :[0m do the dupes also become daggers?[0m
+[18:59] [0m[31;1m[Clan] Karvec :[0m no[0m
+[18:59] [0m[31;1m[Clan] Oscar :[0m prolly not[0m
+[18:59] [0m[31;1m[Clan] Oscar :[0m But, I'd keep that mage info to yourself[0m
+[18:59] [0m[31;1m[Clan] Oscar :[0m Because you know what happens to good things[0m
+[18:59] [0m[31;1m[Clan] Taleast :[0m agreed[0m
+[19:01] [0m[31;1m[Clan] Oscar :[0m I actually prefer spork to redaxe atm, but when I go summoner[0m
+[19:01] [0m               I might need a tad more sp regen[0m
+[19:14] [0m[31;1m[Clan] Akir :[0m omg only 1 more con for this stupid level[0m
+[19:14] [0m[31;1m[Clan] Akir :[0m And only 16 more until I'm done with it for a while, everyone[0m
+[19:14] [0m              congratulate me[0m
+[19:15] [0m[31;1m[Clan] Aka :[0m This is a congratulation.[0m
+[19:22] [0m[31;1m[Clan] Oscar :[0m woo[0m
+[19:22] [0m[31;1m[Clan] Oscar :[0m i thought you were buying eternal stuff?[0m
+[19:22] [0m[31;1m[Clan] Akir :[0m thank you Aka[0m
+[19:22] [0m[31;1m[Clan] Akir :[0m I'm getting 130 and stats first[0m
+[19:23] [0m[31;1m[Clan] Oscar :[0m nod[0m
+[19:23] [0m[31;1m[Clan] Akir :[0m I have a lot of eternal powers I wanna get haha[0m
+[19:23] [0m[31;1m[Clan] Oscar :[0m stat slut jedis[0m
+[19:23] [0m[31;1m[Clan] Taleast :[0m I care about you, Akir[0m
+[19:23] [0m[31;1m[Clan] Akir :[0m I appreciate you, Tal[0m
+[19:23] [0m[31;1m[Clan] Akir :[0m Yea Jedi really are stat sluts, that's why Embiggen is so good[0m
+[19:23] [0m[31;1m[Clan] Oscar :[0m crafting is nice for jedi too[0m
+[19:24] [0m[31;1m[Clan] Oscar :[0m and now that vigilant flasks dont bind[0m
+[19:24] [0m[31;1m[Clan] Akir :[0m idk what that does![0m
+[19:24] [0m[31;1m[Clan] Oscar :[0m the event reps[0m
+[19:24] [0m[31;1m[Clan] Akir :[0m oh nod I haven't messed with them much[0m
+[19:24] [0m[31;1m[Clan] Oscar :[0m you can buy potions from the shop north of science[0m
+[19:24] [0m[31;1m[Clan] Oscar :[0m You can add ac/wc/stats[0m
+[19:24] [0m[31;1m[Clan] Akir :[0m oo[0m
+[19:24] [0m[31;1m[Clan] Akir :[0m Is it rep based?[0m
+[19:24] [0m[31;1m[Clan] Oscar :[0m Yep[0m
+[19:24] [0m[31;1m[Clan] Oscar :[0m It's super awesome[0m
+[19:25] [0m[31;1m[Clan] Akir :[0m I should probably start checking those out huh[0m
+[19:25] [0m[31;1m[Clan] Akir :[0m They have scalers?[0m
+[19:25] [0m[31;1m[Clan] Oscar :[0m yep[0m
+[19:25] [0m[31;1m[Clan] Akir :[0m k[0m
+[19:25] [0m[31;1m[Clan] Oscar :[0m And at the end of each event (if you kill the boss), you get[0m
+[19:25] [0m               a +stat potion[0m
+[19:25] [0m[31;1m[Clan] Akir :[0m yummy[0m
+[19:25] [0m[31;1m[Clan] Oscar :[0m Oscar usually can't kill the boss[0m
+[19:25] [0m[31;1m[Clan] Oscar :[0m So I settle for reps[0m
+[19:25] [0m[31;1m[Clan] Akir :[0m nod[0m
+[19:26] [0m[31;1m[Clan] Oscar :[0m The Vigilant                        liked     [0m
+[19:26] [0m               |---*----------------|     59885[0m
+[19:26] [0m[31;1m[Clan] Oscar :[0m thats the line on reps[0m
+[19:26] [0m[31;1m[Clan] Akir :[0m nod[0m
+[19:26] [0m[31;1m[Clan] Oscar :[0m http://tinyurl.com/y8fqoc57[0m
+[19:26] [0m[31;1m[Clan] Oscar :[0m Is the spreadsheet Ser made[0m
+[19:26] [0m[31;1m[Clan] Oscar :[0m For mob sizes/scaler[0m
+[19:27] [0m[31;1m[Clan] Akir :[0m oooo, thanks![0m
+[19:27] [0m[31;1m[Clan] Akir :[0m and they've got random properties right?[0m
+[19:28] [0m[31;1m[Clan] Oscar :[0m yep[0m
+[19:28] [0m[31;1m[Clan] Oscar :[0m random dtypes[0m
+[19:28] [0m[31;1m[Clan] Akir :[0m nog[0m
+[19:28] [0m[31;1m[Clan] Akir :[0m Jedi probably do really well in that area tbh[0m
+[19:28] [0m[31;1m[Clan] Akir :[0m that area = those areas[0m
+[19:28] [0m[31;1m[Clan] Oscar :[0m Dunno.  'events' shows you the current status[0m
+[19:29] [0m[31;1m[Clan] Oscar :[0m Give the next one a whirl I'd say[0m
+[19:29] [0m[31;1m[Clan] Akir :[0m Man I'm learning so much today[0m
+[19:29] [0m[31;1m[Clan] Oscar :[0m Knowing is half of the battle![0m
+[19:29] [0m[31;1m[Clan] Akir :[0m G I JOE![0m
+[19:30] [0m[31;1m[Clan] Akir :[0m Why does my con cost 2b and my dex/wis cost 192m[0m
+[19:32] [0m[31;1m[Clan] Karvec :[0m cuz your con is 227+[0m
+[19:32] [0m[31;1m[Clan] Karvec :[0m guys i'm almost glevel 81[0m
+[19:32] [0m[31;1m[Clan] Oscar :[0m big brain[0m
+[19:32] [0m[31;1m[Clan] Akir :[0m nice![0m
+[19:32] [0m[31;1m[Clan] Oscar :[0m woot[0m
+[19:32] [0m[31;1m[Clan] Karvec :[0m only 2 days guild age[0m
+[19:32] [0m[31;1m[Clan] Karvec :[0m flex[0m
+[19:32] [0m[31;1m[Clan] Oscar :[0m BS[0m
+[19:33] [0m[31;1m[Clan] Akir :[0m get 85 for new caustic!!!![0m
+[19:33] [0m[31;1m[Clan] Karvec :[0m new caustic?[0m
+[19:33] [0m[31;1m[Clan] Karvec :[0m isn't the old one good enough?[0m
+[19:33] [0m[31;1m[Clan] Oscar :[0m I don't think that was changed[0m
+[19:33] [0m[31;1m[Clan] Akir :[0m just kidding[0m
+[19:33] [0m[31;1m[Clan] Akir :[0m I wonder if it will be[0m
+[19:33] [0m[31;1m[Clan] Oscar :[0m Rumor is it's gonna be 85 or 90[0m
+[19:33] [0m[31;1m[Clan] Oscar :[0m I wonder too[0m
+[19:33] [0m[31;1m[Clan] Akir :[0m wow 90, jeez[0m
+[19:33] [0m[31;1m[Clan] Oscar :[0m If you boys lay low, hopefully he forgets about it[0m
+[19:33] [0m[31;1m[Clan] Akir :[0m you boys?! I don't even have it![0m
+[19:34] [0m[31;1m[Clan] Karvec :[0m well i dunno if wizzes can still check massxp[0m
+[19:34] [0m[31;1m[Clan] Oscar :[0m I'm sure they got that and other stats[0m
+[19:35] [0m[31;1m[Clan] Taleast :[0m they didn't have to remove the entire mechanic, they can[0m
+[19:35] [0m                 just restrict access to the command[0m
+[19:35] [0m[31;1m[Clan] Oscar :[0m I know kiki has some crazy stat collector thing for eveyr[0m
+[19:35] [0m               boot they dump[0m
+[19:35] [0m[31;1m[Clan] Akir :[0m I bet they laugh at my xp/hr[0m
+[19:35] [0m[31;1m[Clan] Karvec :[0m i dont remember coding this 10+ years ago but i really[0m
+[19:35] [0m                appreciate that my bot stops for me to resing vamp[0m
+[19:35] [0m[31;1m[Clan] Oscar :[0m massxp just had 0 benefits from a wiz standpoint[0m
+[19:36] [0m[31;1m[Clan] Karvec :[0m oscar what did you say to train, all knowledge?[0m
+[19:36] [0m[31;1m[Clan] Oscar :[0m And only bitching.  All it really measured was whose bot was[0m
+[19:36] [0m               the best[0m
+[19:36] [0m[31;1m[Clan] Oscar :[0m definitely knowledge[0m
+[19:36] [0m[31;1m[Clan] Oscar :[0m What are your stats?[0m
+[19:36] [0m[31;1m[Clan] Taleast :[0m oh, no, I think you misunderstood my point[0m
+[19:36] [0m[31;1m[Clan] Karvec :[0m Str: 150    Dex: 285    Wis: 182    Int: 116    Con: 275   [0m
+[19:36] [0m                Cha: 170[0m
+[19:36] [0m[31;1m[Clan] Taleast :[0m I'm saying, they probably have access to massxp and just[0m
+[19:36] [0m                 restricted the command from players[0m
+[19:36] [0m[31;1m[Clan] Oscar :[0m skills i mean[0m
+[19:37] [0m[31;1m[Clan] Oscar :[0m stats dont matter to bards[0m
+[19:37] [0m[31;1m[Clan] Akir :[0m 285 wtf hax[0m
+[19:37] [0m[31;1m[Clan] Karvec :[0m lol[0m
+[19:37] [0m[31;1m[Clan] Karvec :[0m you should see my str/con on ser[0m
+[19:37] [0m[31;1m[Clan] Oscar :[0m Once you max dex, you can just buy eternal powers[0m
+[19:37] [0m[31;1m[Clan] Akir :[0m so I can have 275 dex and 1 con as a bard?[0m
+[19:37] [0m[31;1m[Clan] Akir :[0m owned nerd[0m
+[19:37] [0m[31;1m[Clan] Oscar :[0m sure, +hp :D[0m
+[19:37] [0m[31;1m[Clan] Akir :[0m shit[0m
+[19:38] [0m[31;1m[Clan] Karvec :[0m everything maxed, 40/50 spellcraft, 55/57 harmony, 67/73[0m
+[19:38] [0m                rhythm, 40/80 knowledge[0m
+[19:38] [0m[31;1m[Clan] Akir :[0m omg LOW rhythm!!!![0m
+[19:38] [0m[31;1m[Clan] Karvec :[0m so low[0m
+[19:38] [0m[31;1m[Clan] Oscar :[0m whats your power?[0m
+[19:38] [0m[31;1m[Clan] Karvec :[0m 36/36[0m
+[19:38] [0m[31;1m[Clan] Oscar :[0m alac is 10?[0m
+[19:38] [0m[31;1m[Clan] Akir :[0m Someone told me 60 knowledge increases bandage healing %age[0m
+[19:38] [0m              cap[0m
+[19:38] [0m[31;1m[Clan] Karvec :[0m yah[0m
+[19:38] [0m[31;1m[Clan] Oscar :[0m dunno about that Akir.  Maybe[0m
+[19:39] [0m[31;1m[Clan] Karvec :[0m well since i rarely bandage[0m
+[19:39] [0m[31;1m[Clan] Oscar :[0m Guess you're on the harmony/rhythm train now[0m
+[19:39] [0m[31;1m[Clan] Karvec :[0m i'm not going to worry about it...  do i keep maxing[0m
+[19:39] [0m                singing/playing?[0m
+[19:39] [0m[31;1m[Clan] Oscar :[0m You'll have to[0m
+[19:39] [0m[31;1m[Clan] Oscar :[0m Rhythm doesn't open just from harmony[0m
+[19:39] [0m[31;1m[Clan] Karvec :[0m ok[0m
+[19:39] [0m[31;1m[Clan] Oscar :[0m It's from opening the playing/singing[0m
+[19:39] [0m[31;1m[Clan] Oscar :[0m And then training those[0m
+[19:40] [0m[31;1m[Clan] Oscar :[0m So it's Harmony -> playing -> singing -> rhy5thm[0m
+[19:40] [0m[31;1m[Clan] Oscar :[0m or something like that[0m
+[19:42] [0m[31;1m[Clan] Karvec :[0m ok[0m
+[19:42] [0m[31;1m[Clan] Karvec :[0m i didnt even buy ashes or dust this boot[0m
+[19:43] [0m[31;1m[Clan] Karvec :[0m oscar maybe needs to[0m
+[19:43] [0m[31;1m[Clan] Oscar :[0m if you're not fighting anything tough, don't need to[0m
+[19:44] [0m[31;1m[Clan] Karvec :[0m fine i'll go do treehouse[0m
+[19:44] [0m[31;1m[Clan] Karvec :[0m wanna come?[0m
+[19:44] [0m[31;1m[Clan] Oscar :[0m ya[0m
+[19:44] [0m[31;1m[Clan] Oscar :[0m i got taleast[0m
+[19:44] [0m[31;1m[Clan] Karvec :[0m ok we'll kill one of us[0m
+[19:44] [0mYou can currently reforge 8 items.[0m
+[19:44] [0m[31;1m[Clan] Oscar :[0m awesome[0m
+[19:44] [0m[31;1m[Clan] Oscar :[0m I can slow mobs[0m
+[19:44] [0m[31;1m[Clan] Karvec :[0m i know :P[0m
+[19:44] [0m[31;1m[Clan] Oscar :[0m So you'll be really set[0m
+[19:44] [0m[31;1m[Clan] Karvec :[0m finishing kill[0m
+[19:44] [0m[31;1m[Clan] Oscar :[0m ok[0m
+[19:44] [0m[31;1m[Clan] Oscar :[0m rally us[0m
+[19:44] [0m[31;1m[Clan] Karvec :[0m ok[0m
+[19:45] [0m[31;1m[Clan] Oscar :[0m I can probably do a decent scaler treehouse[0m
+[19:45] [0m[31;1m[Clan] Oscar :[0m w golem[0m
+[19:47] [0m[34;1mSpace shouts:[0m UG Necs[0m
+[19:47] [0m[34;1mWhoknows shouts:[0m UG Golems![0m
+[19:49] [0m[34;1mSpace shouts:[0m golem got upgraded[0m
+[19:50] [0m[34;1mSpace shouts:[0m and now it needs your shield, thanks[0m
+[19:50] [0m[34;1mVagrant shouts:[0m pew pe wpew[0m
+[19:51] [0m[31;1m[Clan] Akir :[0m Do we have a clan discord?[0m
+[19:51] [0m[31;1m[Clan] Karvec :[0m do we need one?[0m
+[19:51] [0m[31;1m[Clan] Akir :[0m I don't know, if people wanted to use voice maybe?[0m
+[20:06] [0m[31;1m[Clan] Karvec :[0m did you make one yet[0m
+[20:06] [0m[31;1m[Clan] Akir :[0m I'm far too lazy to do stuff like that[0m
+[20:14] [0m[31;1m[Clan] Oscar :[0m https://discord.gg/7Cxk27[0m
+[20:18] [0m[31;1m[Clan] Karvec :[0m ok all the losers are on discord, when are the cool kids[0m
+[20:18] [0m                gonna join[0m
+[20:18] [0m[31;1m[Clan] Akir :[0m but wait I'm on Discord :([0m
+[20:44] [0mYou can currently reforge 12 items.[0m
+[20:53] [0mYou can currently reforge 0 items.[0m
+[21:30] [0m[31;1m[Clan] Taleast :[0m I miss Carson: https://www.youtube.com/watch?v=GM2iXWi4a7A[0m
+[21:30] [0m[31;1m[Clan] Taleast :[0m I can't believe they let the film from his old episodes[0m
+[21:30] [0m                 diefilm die[0m
+[21:31] [0m[31;1m[Clan] Taleast :[0m for what it's worth, even though I don't like Biden, I'm[0m
+[21:31] [0m                 pretty sure most candidates have other people write/help[0m
+[21:31] [0m                 with speeches[0m
+[21:32] [0m[31;1m[Clan] Akir :[0m they're called speechwriters :P[0m
+[21:32] [0m[31;1m[Clan] Oscar :[0m lol[0m
+[21:32] [0m[31;1m[Clan] Taleast :[0m nog, politicians are politicians are politicians[0m
+[21:33] [0m[31;1m[Clan] Oscar :[0m I really enjoy the melania/trump memes[0m
+[21:33] [0m[31;1m[Clan] Taleast :[0m I remember I used to sneak awake to watch Carson even as a[0m
+[21:33] [0m                 young kid[0m
+[21:33] [0m[31;1m[Clan] Taleast :[0m oh?[0m
+[21:33] [0m[31;1m[Clan] Oscar :[0m https://www.instagram.com/p/CGsNGjNpLFB/[0m
+[21:33] [0m[31;1m[Clan] Taleast :[0m bah I hate instagram[0m
+[21:34] [0m[31;1m[Clan] Taleast :[0m yeah I don't know what's goin on there[0m
+[21:34] [0m[31;1m[Clan] Oscar :[0m I mean, anyone who thinks a slovenian super model is marrying[0m
+[21:34] [0m               an old rich man for love is an idiot[0m
+[21:34] [0m[31;1m[Clan] Taleast :[0m that man marries women like people get new cars[0m
+[21:34] [0m[31;1m[Clan] Akir :[0m hahaha[0m
+[21:34] [0m[31;1m[Clan] Akir :[0m I bet she hates that he won so much.. just wanted to be a[0m
+[21:34] [0m              trophy wife, live in luxury, now she has to do shit[0m
+[21:35] [0m[31;1m[Clan] Oscar :[0m oh yeah[0m
+[21:35] [0m[31;1m[Clan] Taleast :[0m actually that's a pretty good take, lol[0m
+[21:35] [0m[31;1m[Clan] Oscar :[0m her disdain is obvious[0m
+[21:36] [0m[31;1m[Clan] Oscar :[0m It took her like a fucking year or two to even move into the[0m
+[21:36] [0m               white house?[0m
+[21:36] [0m[31;1m[Clan] Akir :[0m laf yea[0m
+[21:39] [0m[31;1m[Clan] Taleast :[0m OK, fuck it, I think I may have to reinstall the old[0m
+[21:39] [0m                 Baldur's Gate games and give them another go before I try[0m
+[21:39] [0m                 the 3rd[0m
+[21:39] [0m[31;1m[Clan] Oscar :[0m I played the 1st one[0m
+[21:39] [0m[31;1m[Clan] Oscar :[0m That was fun[0m
+[21:39] [0m[31;1m[Clan] Nix :[0m nod i remember that one[0m
+[21:39] [0m[31;1m[Clan] Taleast :[0m ditto[0m
+[21:40] [0m[31;1m[Clan] Oscar :[0m I remember aggro'ing some shopkeepers in a bar[0m
+[21:40] [0m[31;1m[Clan] Taleast :[0m like... 25 years ago[0m
+[21:40] [0m[31;1m[Clan] Oscar :[0m And getting my shit rocked[0m
+[21:40] [0m[31;1m[Clan] Akir :[0m laf[0m
+[21:40] [0m[31;1m[Clan] Oscar :[0m And then I couldn't enter the main town anymore[0m
+[21:40] [0m[31;1m[Clan] Oscar :[0m Without getting killed[0m
+[21:40] [0m[31;1m[Clan] Oscar :[0m That was fun[0m
+[21:41] [0m[31;1m[Clan] Oscar :[0m Where'd you come from Nix, blow any more shit up?[0m
+[21:41] [0m[31;1m[Clan] Nix :[0m nah, closed on the house today[0m
+[21:41] [0m[31;1m[Clan] Nix :[0m so been running all day[0m
+[21:41] [0m[31;1m[Clan] Nix :[0m fucking ac electric screwed me[0m
+[21:41] [0m[31;1m[Clan] Oscar :[0m Don't you lawyers have lawyers to do that for you?[0m
+[21:41] [0m[31;1m[Clan] Taleast :[0m I just remember the cashier's check story[0m
+[21:41] [0m[31;1m[Clan] Oscar :[0m Or do you have a policy against giving blood to other[0m
+[21:41] [0m               bloodsuckers[0m
+[21:41] [0m[31;1m[Clan] Taleast :[0m thought the house went yesterday for some reason[0m
+[21:41] [0m[31;1m[Clan] Nix :[0m yeah self-represented is the way to be dawg[0m
+[21:42] [0m[31;1m[Clan] Taleast :[0m screwed you?[0m
+[21:42] [0m[31;1m[Clan] Nix :[0m today at 10am, no power there until tomorrow morning, electric[0m
+[21:42] [0m             company came to shut off the service at the homeowner's request[0m
+[21:42] [0m             (prior owner) and then told me they couldn't turn it back on[0m
+[21:42] [0m             until tomorrow =P[0m
+[21:42] [0m[31;1m[Clan] Nix :[0m even tho i had it setup to just transfer into my name[0m
+[21:42] [0m[31;1m[Clan] Oscar :[0m all sorted now?[0m
+[21:42] [0m[31;1m[Clan] Nix :[0m will be in the am[0m
+[21:42] [0m[31;1m[Clan] Oscar :[0m sweet[0m
+[21:42] [0m[31;1m[Clan] Oscar :[0m congrats[0m
+[21:42] [0m[31;1m[Clan] Nix :[0m and amy is going to crush my credit card =([0m
+[21:43] [0m[31;1m[Clan] Taleast :[0m laf[0m
+[21:43] [0m[31;1m[Clan] Taleast :[0m laf laf[0m
+[21:43] [0m[31;1m[Clan] Oscar :[0m lol, give her the $500 limit card[0m
+[21:43] [0m[31;1m[Clan] Nix :[0m she wants to furnish the whole house immediatley[0m
+[21:43] [0m[31;1m[Clan] Taleast :[0m I know that feeling[0m
+[21:43] [0m[31;1m[Clan] Nix :[0m we have plenty of stuff[0m
+[21:43] [0m[31;1m[Clan] Oscar :[0m Babe I called the bank, I'm not sure what's going on[0m
+[21:43] [0m[31;1m[Clan] Akir :[0m Women, am I right fellas?[0m
+[21:43] [0m[31;1m[Clan] Taleast :[0m sad thing is my wife got me to buy into it this last time[0m
+[21:43] [0m[31;1m[Clan] Nix :[0m but she's got these grandiose plans, i'm screwed[0m
+[21:43] [0m[31;1m[Clan] Taleast :[0m she was mourning her mom and we were trying to find a way[0m
+[21:43] [0m                 to revamp the room so it wouldn't be as much of an open[0m
+[21:43] [0m                 room[0m
+[21:43] [0m[31;1m[Clan] Taleast :[0m they all do, bro[0m
+[21:43] [0m[31;1m[Clan] Oscar :[0m lol[0m
+[21:44] [0m[31;1m[Clan] Taleast :[0m er as much of an open wound[0m
+[21:44] [0mYou can currently reforge 4 items.[0m
+[21:44] [0m[31;1m[Clan] Oscar :[0m I'm gonna accidentally drop some restoration hardware[0m
+[21:44] [0m               catalogs off at your house[0m
+[21:44] [0m[31;1m[Clan] Nix :[0m i love when i get asked "Do you like this?" ... "Nah, not[0m
+[21:44] [0m             really" .. "ok well i bought it already"[0m
+[21:44] [0m[31;1m[Clan] Taleast :[0m lol[0m
+[21:44] [0m[31;1m[Clan] Taleast :[0m nice![0m
+[21:44] [0m[31;1m[Clan] Taleast :[0m lol was for Oscar though[0m
+[21:45] [0m[31;1m[Clan] Nix :[0m my mom has an antique shop up in princeton, new jersey the two[0m
+[21:45] [0m             of them are going to be the death of me[0m
+[21:45] [0m[31;1m[Clan] Taleast :[0m since he actually has the power to fuck with your life[0m
+[21:45] [0m[31;1m[Clan] Taleast :[0m oh no, she's gonna do you like that?[0m
+[21:45] [0m[31;1m[Clan] Taleast :[0m save the receipts, man! get sexy time for them![0m
+[21:45] [0m[31;1m[Clan] Nix :[0m she was trying to sell me this plaid chair... pretty cool[0m
+[21:45] [0m             looking, i was like i'd pay 250 tops, and i get that 1,000 yard[0m
+[21:45] [0m             stare... Robert this is a $3,500 chair[0m
+[21:45] [0m[31;1m[Clan] Akir :[0m jesus christ[0m
+[21:45] [0m[31;1m[Clan] Oscar :[0m laf laf laf[0m
+[21:45] [0m[31;1m[Clan] Akir :[0m you know how many vafs you can get for $3,500?[0m
+[21:46] [0m[31;1m[Clan] Nix :[0m lol[0m
+[21:46] [0m[31;1m[Clan] Taleast :[0m all of them, many times over, at a discount[0m
+[21:46] [0m[31;1m[Clan] Taleast :[0m might be able to buy a port[0m
+[21:46] [0m[31;1m[Clan] Oscar :[0m laf, was just gonna say you can buy 3s[0m
+[21:47] [0m[31;1m[Clan] Taleast :[0m on the positive side, for christmas season I can put it on[0m
+[21:47] [0m                 my amazon card and pay it off with payments instead of[0m
+[21:47] [0m                 rushing to pay it off in one month[0m
+[21:47] [0m[31;1m[Clan] Taleast :[0m I'll need your help figuring out who to give the bigger[0m
+[21:47] [0m                 presents to, I'm behind on the active wizzes[0m
+[21:48] [0m[31;1m[Clan] Nix :[0m TH[0m
+[21:48] [0m[31;1m[Clan] Taleast :[0m says the bard :P[0m
+[21:48] [0m[31;1m[Clan] Nix :[0m lol[0m
+[21:48] [0m[31;1m[Clan] Taleast :[0m TH, Frank, Adalius obviously, who else has made neat shit?[0m
+[21:49] [0m[31;1m[Clan] Nix :[0m kiki[0m
+[21:49] [0m[31;1m[Clan] Nix :[0m do ya luv me[0m
+[21:49] [0m[31;1m[Clan] Akir :[0m Is that what the christmas vafs are? you buy wizards something[0m
+[21:49] [0m              from their wish lists and that counts?[0m
+[21:49] [0m[31;1m[Clan] Taleast :[0m nog[0m
+[21:49] [0m[31;1m[Clan] Akir :[0m Interesting[0m
+[21:49] [0m[31;1m[Clan] Taleast :[0m so, if you have a store card, get everything together and[0m
+[21:49] [0m                 get interest free payments for like 6 months[0m
+[21:52] [0m[31;1m[Clan] Taleast :[0m 4.5m gxp from glvl 15 thanks to Oscar and Karvec[0m
+[21:52] [0m[31;1m[Clan] Oscar :[0m woot[0m
+[21:52] [0m[31;1m[Clan] Taleast :[0m at 687k per hour currently[0m
+[21:52] [0m[31;1m[Clan] Oscar :[0m I vaf'd to TH/Frank/Rasta/Adalius/Kiki I think last year[0m
+[21:53] [0m[31;1m[Clan] Taleast :[0m but is there anyone else?[0m
+[21:53] [0m[31;1m[Clan] Taleast :[0m don't want to miss active wizzes just because I don't talk[0m
+[21:53] [0m                 to them[0m
+[21:53] [0m[31;1m[Clan] Oscar :[0m Flaxen[0m
+[21:53] [0m[31;1m[Clan] Taleast :[0m mixed feelings about Flaxen, lol[0m
+[21:53] [0m[31;1m[Clan] Oscar :[0m yeah, same[0m
+[21:53] [0m[31;1m[Clan] Nix :[0m i might send frank a bottle poopouri[0m
+[21:53] [0m[31;1m[Clan] Akir :[0m Flaxen called me a mean name[0m
+[21:53] [0m[31;1m[Clan] Taleast :[0m but yeah, probably get him something[0m
+[21:54] [0m[31;1m[Clan] Taleast :[0m son?[0m
+[21:54] [0m[31;1m[Clan] Akir :[0m if he called me that he'd be the first person to do so :([0m
+[21:54] [0m[31;1m[Clan] Akir :[0m thanks for bringing that up[0m
+[21:54] [0m[31;1m[Clan] Taleast :[0m ouch[0m
+[21:54] [0m[31;1m[Clan] Taleast :[0m dude, you can't do that to me, you're taking the fun out of[0m
+[21:54] [0m                 it :([0m
+[21:54] [0m[31;1m[Clan] Akir :[0m Yay![0m
+[21:55] [0m[31;1m[Clan] Taleast :[0m my wife recently commented that it hurts to see both my[0m
+[21:55] [0m                 parents because her mom died and her dad is dead to her[0m
+[21:56] [0m[31;1m[Clan] Taleast :[0m motherfucker (literally) had an affair, remarried, left her[0m
+[21:56] [0m                 in a house with no front (just plastic covering remodeling[0m
+[21:56] [0m                 work) in the fucking winter[0m
+[21:56] [0m[31;1m[Clan] Akir :[0m Sounds like a great guy[0m
+[21:57] [0m[31;1m[Clan] Taleast :[0m that man has made both her and my life hell at times, just[0m
+[21:57] [0m                 for existing[0m
+[21:57] [0m[31;1m[Clan] Taleast :[0m she worried about me for a long while because of him, that[0m
+[21:57] [0m                 I'd leave her[0m
+[21:58] [0m[31;1m[Clan] Taleast :[0m not entirely sure if he was fucking up the ornaments she[0m
+[21:58] [0m                 was leaving on her mom's grave too[0m
+[21:58] [0m[31;1m[Clan] Taleast :[0m could just be really asshole grounds workers[0m
+[21:58] [0m[31;1m[Clan] Taleast :[0m but he appears to be vindictive from experience[0m
+[21:59] [0m[31;1m[Clan] Taleast :[0m anyway, on a lighter note...[0m
+[21:59] [0m[31;1m[Clan] Taleast :[0m I'm trying to think of a lighter note[0m
+[21:59] [0m[37;1mAgni flaps :[0m resetting zombies[0m
+[21:59] [0m[31;1m[Clan] Taleast :[0m well, are you happy with the house still, Nix[0m
+[21:59] [0m[31;1m[Clan] Nix :[0m yeah it's sweet[0m
+[21:59] [0m[31;1m[Clan] Taleast :[0m after everything is said and done[0m
+[21:59] [0m[31;1m[Clan] Taleast :[0m cool[0m
+[22:00] [0m[31;1m[Clan] Nix :[0m just need to close on my current house so i can replenish the[0m
+[22:00] [0m             bank =P[0m
+[22:00] [0m[31;1m[Clan] Akir :[0m need to close on your house so you can replenish my vampire[0m
+[22:00] [0m              groups[0m
+[22:00] [0m[31;1m[Clan] Taleast :[0m that pretty much a done deal then?[0m
+[22:00] [0m[31;1m[Clan] Taleast :[0m lol[0m
+[22:00] [0m[31;1m[Clan] Nix :[0m yeah we're all set[0m
+[22:00] [0m[31;1m[Clan] Taleast :[0m I had about 300 corpses but I've eaten into that a little[0m
+[22:00] [0m                 for myself, lol[0m
+[22:00] [0m[31;1m[Clan] Karvec :[0m hey do you leeches wanna do hotel[0m
+[22:01] [0m[31;1m[Clan] Akir :[0m I'm SAVED :([0m
+[22:01] [0m[31;1m[Clan] Karvec :[0m ok the rest of you leeches[0m
+[22:01] [0m[31;1m[Clan] Yik :[0m did you say leech?[0m
+[22:01] [0m[31;1m[Clan] Taleast :[0m not sure why you're sad about that, do you WANT to go to[0m
+[22:01] [0m                 hell?[0m
+[22:01] [0m[31;1m[Clan] Nix :[0m i am going to pass i still need to get some gear[0m
+[22:01] [0m[31;1m[Clan] Karvec :[0m at entrancr[0m
+[22:02] [0m[31;1m[Clan] Taleast :[0m I think when Oscar comes up for air he'll be interested, I[0m
+[22:02] [0m                 need to grab a few more corpses[0m
+[22:02] [0m[31;1m[Clan] Karvec :[0m ok well bug yik for invite[0m
+[22:03] [0m[31;1m[Clan] Karvec :[0m hahahahaha[0m
+[22:03] [0m[31;1m[Clan] Yik :[0m haha sounds good[0m
+[22:03] [0m[31;1m[Clan] Oscar :[0m i'm in[0m
+[22:03] [0m[31;1m[Clan] Oscar :[0m omw to entrance[0m
+[22:04] [0m[31;1m[Clan] Karvec :[0m ok fi ishing kill[0m
+[22:05] [0m[34;1mKarvec shouts:[0m why did they get rid of phones w keyboards[0m
+[22:06] [0m[34;1mUrsus shouts:[0m cause people didn't buy em[0m
+[22:06] [0m[31;1m[Clan] Karvec :[0m oh im gonna hit glevel 81 today[0m
+[22:06] [0m[31;1m[Clan] Akir :[0m hell ya buddy[0m
+[22:06] [0m[31;1m[Clan] Taleast :[0m woot![0m
+[22:06] [0m[31;1m[Clan] Nix :[0m 15minutes[0m
+[22:06] [0m[31;1m[Clan] Nix :[0m you got nothing left to get[0m
+[22:06] [0m[31;1m[Clan] Karvec :[0m thanks nix[0m
+[22:06] [0m[31;1m[Clan] Nix :[0m your first gl in just shy of 7 years![0m
+[22:06] [0m[31;1m[Clan] Karvec :[0m youre just a real optimist[0m
+[22:07] [0m[31;1m[Clan] Nix :[0m no i meant gxp wise =P[0m
+[22:07] [0m[31;1m[Clan] Nix :[0m you still have power to acquire[0m
+[22:07] [0m[31;1m[Clan] Karvec :[0m laf yah im close[0m
+[22:07] [0m[31;1m[Clan] Nix :[0m you have 14k[0m
+[22:10] [0m[31;1m[Clan] Karvec :[0m thanks for the stats, didnt know itdb been 7 yeads[0m
+[22:10] [0m[31;1m[Clan] Karvec :[0m years[0m
+[22:10] [0m[34;1mKarvec shouts:[0m its been 7 long yeets[0m
+[22:10] [0m[31;1m[Clan] Nix :[0m 12/17/2013 at 9:03pm[0m
+[22:10] [0m[31;1m[Clan] Akir :[0m rofl[0m
+[22:11] [0m[31;1m[Clan] Taleast :[0m close? you're not even breathing hard[0m
+[22:11] [0m[37;1mLeianne flaps :[0m just wondering if anyone has managed to train dog to 100%[0m
+[22:11] [0m                dodge. If that's the case, will it dodge all attacks[0m
+[22:12] [0m[37;1mOscar flaps :[0m Isn't there a dog xp top list somewhere?[0m
+[22:12] [0m[37;1mLeianne flaps :[0m don't know. try to see if is worth it to further train my[0m
+[22:12] [0m                dog[0m
+[22:13] [0m[37;1mLeianne flaps :[0m btw, Abyss just resets if you were waiting[0m
+[22:13] [0m[37;1mJaeger flaps :[0m dog toplist is at pinnacle pound[0m
+[22:14] [0m[37;1mLeianne flaps :[0m does it list out the dodge % ?[0m
+[22:14] [0m[37;1mUrsus flaps :[0m I can pretty much guarentee one thing... if[0m
+[22:14] [0m              anything/anyone/any-whatever gets 100% dodge against all[0m
+[22:14] [0m              attacks on 3k.. the wizards will remove/nerf it[0m
+[22:15] [0m[37;1mJaeger flaps :[0m at lvl 30, all geared up, dog is 65% dodge[0m
+[22:16] [0m[37;1mLeianne flaps :[0m thanks Jaeger[0m
+[22:20] [0m[31;1m[Clan] Taleast :[0m holy shit, 3 weeks to 2077[0m
+[22:20] [0m[31;1m[Clan] Karvec :[0m hey nix[0m
+[22:20] [0m[31;1m[Clan] Karvec :[0m how close am i[0m
+[22:21] [0m[31;1m[Clan] Karvec :[0m oo what's mystic venom[0m
+[22:21] [0m[31;1m[Clan] Karvec :[0m do i need to start backstabbing stuff[0m
+[22:22] [0m[31;1m[Clan] Karvec :[0m guys i can't do homework like this[0m
+[22:22] [0m[31;1m[Clan] Karvec :[0m i need a day off[0m
+[22:22] [0m[31;1m[Clan] Akir :[0m time to Serbot![0m
+[22:23] [0m[31;1m[Clan] Karvec :[0m ser can't bot[0m
+[22:23] [0m[31;1m[Clan] Taleast :[0m laf, I was just asking my wife if she'd poison me in my[0m
+[22:23] [0m                 sleep for taking tomorrow off[0m
+[22:23] [0m[31;1m[Clan] Karvec :[0m for another like 2 days[0m
+[22:23] [0m[31;1m[Clan] Taleast :[0m go do homework, I can fuck off[0m
+[22:23] [0m[31;1m[Clan] Taleast :[0m or you can just let things be[0m
+[22:23] [0m[31;1m[Clan] Taleast :[0m whatever works[0m
+[22:24] [0m[31;1m[Clan] Taleast :[0m I'm saying, you don't have to talk to us, or you can ld, or[0m
+[22:24] [0m                 solo, or whatever[0m
+[22:25] [0m[31;1m[Clan] Taleast :[0m glvl 14 is doubtful on timeslide, Oscar[0m
+[22:26] [0m[31;1m[Clan] Oscar :[0m i say go for it[0m
+[22:26] [0m[31;1m[Clan] Taleast :[0m lol[0m
+[22:26] [0m[31;1m[Clan] Akir :[0m haha[0m
+[22:26] [0m[31;1m[Clan] Oscar :[0m worst is you lose a slot[0m
+[22:26] [0m[31;1m[Clan] Oscar :[0m and you regain it next glvl[0m
+[22:26] [0m[31;1m[Clan] Yik :[0m roll the dice![0m
+[22:26] [0m[31;1m[Clan] Taleast :[0m what else would I get I suppose?[0m
+[22:26] [0m[31;1m[Clan] Oscar :[0m it's not like losing a slot in GHC[0m
+[22:26] [0m[31;1m[Clan] Taleast :[0m you can lose a slot in ghc?[0m
+[22:26] [0m[31;1m[Clan] Oscar :[0m you can lose a slot anytime you fail an experiment[0m
+[22:27] [0m[31;1m[Clan] Taleast :[0m ouch[0m
+[22:27] [0m[31;1m[Clan] Oscar :[0m I catastrophically failed + died + lost a slot on a 98%[0m
+[22:27] [0m               certain experiment[0m
+[22:27] [0m[31;1m[Clan] Taleast :[0m that's fucked up right there[0m
+[22:27] [0m[31;1m[Clan] Oscar :[0m Agreed[0m
+[22:27] [0m[31;1m[Clan] Taleast :[0m catastrophic should be limited to low chance experiments[0m
+[22:28] [0m[31;1m[Clan] Oscar :[0m And I have all 3 research experiments[0m
+[22:28] [0m[31;1m[Clan] Taleast :[0m once you get to likely+ worst that should be possible is[0m
+[22:28] [0m                 lose the money[0m
+[22:29] [0m[31;1m[Clan] Taleast :[0m ooooh, I'm close to metab[0m
+[22:29] [0m[31;1m[Clan] Taleast :[0m it's currently ambiguous[0m
+[22:29] [0m[31;1m[Clan] Akir :[0m I am also ambiguous[0m
+[22:29] [0m[31;1m[Clan] Taleast :[0m laf, Yik and that dog[0m
+[22:30] [0m[31;1m[Clan] Taleast :[0m I would literally laf myself to death if the twist was it[0m
+[22:30] [0m                 was a tomodachi[0m
+[22:44] [0mYou can currently reforge 8 items.[0m
+[23:15] [0m[31;1m[Clan] Karvec :[0m oo my knowledge max is 100[0m
+[23:29] [0m[31;1m[Clan] Akir :[0m yawnnnnnnnnn[0m
+[23:50] [0m[31;1m[Clan] Xaro leaves the game.[0m  [0m

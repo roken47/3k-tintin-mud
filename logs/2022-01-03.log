@@ -1,0 +1,471 @@
+[01:44] [0m[32mYou say:[0m doo dah day[0m
+[01:48] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[02:21] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[15:43] [0m[31;1m[Clan] Reacher :[0m well[0m
+[15:43] [0m[31;1m[Clan] Reacher :[0m got sucked into cocktail hour at my neighbors[0m
+[15:43] [0m[31;1m[Clan] Reacher :[0m so will be after dinner probably name[0m
+[15:43] [0m[31;1m[Clan] Reacher :[0m heh if  you have other plans its fine[0m
+[15:43] [0m[31;1m[Clan] Reacher :[0m making ok exp solo now that i'm tanking bigger stuff[0m
+[15:44] [0m[37;1mRoken flaps :[0m how many of you use pihole?[0m
+[15:44] [0m[37;1mMisha flaps :[0m I should shut my pihole[0m
+[15:44] [0m[37;1mMotivation flaps :[0m don't currently, but I've been curious. it's basically just an ad-blocker for[0m
+[15:44] [0m                   your local network, right?[0m
+[15:44] [0m[37;1mRoken flaps :[0m haha np ill add you to the list[0m
+[15:45] [0m[37;1mMotivation flaps :[0m or are there other upsides besides that?[0m
+[15:45] [0m[37;1mRoken flaps :[0m yes moti[0m
+[15:46] [0m[37;1mRoken flaps :[0m not really. Upside is for most ads you won't need to install an adblocker on every[0m
+[15:46] [0m              device. It doesn't do ads like Youtube well. Ublock ftw the win there. Its great[0m
+[15:46] [0m              for TVs or mobile games with ads[0m
+[15:47] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[15:48] [0m[37;1mMotivation flaps :[0m nod, the only reason i might not do it is because I've used some sites that[0m
+[15:48] [0m                   ublock breaks, and disabling it in-browser seems much simpler than disabling[0m
+[15:48] [0m                   it in a network gateway[0m
+[15:49] [0m[37;1mRoken flaps :[0m this doesnt break sites because it doesnt behave like an adblocker but instead a[0m
+[15:49] [0m              DNS resolver[0m
+[15:49] [0m[37;1mMotivation flaps :[0m hm. interesting[0m
+[15:50] [0m[34;1mBeebo shouts:[0m When is the vaf sale, usually?[0m
+[15:50] [0m[34;1mKitt shouts:[0m next yr[0m
+[15:51] [0m[34;1mKitt shouts:[0m just pass your monies to me![0m
+[15:51] [0m[34;1mTeg shouts:[0m There typically seem to be drives twice a year. One during the summer, one during[0m
+[15:51] [0m            December.[0m
+[15:52] [0m[37;1mZorge flaps :[0m I remember when pi-hole blocked youtube ads :([0m
+[15:52] [0m[31;1m[Clan] Nameless :[0m whee[0m
+[15:52] [0m[31;1m[Clan] Nameless :[0m oh post cokctails is fine[0m
+[15:53] [0m[37;1mTeg flaps :[0m I've considered getting a pi board for pi hole, but I just use uBlock Origin[0m
+[15:53] [0m[37;1mTeg flaps :[0m I realize that's not helpful for tv typically[0m
+[15:53] [0m[37;1mZorge flaps :[0m I still use adblocker in the browser to block youtube stuff[0m
+[15:54] [0m[37;1mZorge flaps :[0m and I have pi3 running pi-hole[0m
+[15:54] [0m[37;1mTeg flaps :[0m have you checked for updates? Maybe their blacklist needs a change.[0m
+[15:56] [0m[37;1mZorge flaps :[0m the problem now is that content and ads are stores on the same domains, before it[0m
+[15:56] [0m              used to be seprate[0m
+[15:56] [0m[37;1mRoken flaps :[0m pihole runs into issues with overlay ads. Ads that roll with the video. I think[0m
+[15:56] [0m              pihole would block the whole video if adding yt's vid url[0m
+[15:57] [0m[37;1mRoken flaps :[0m eh ha zorge said it too[0m
+[15:59] [0m[37;1mZorge flaps :[0m before you were able to just add those domains hosting ads to your blacklist and[0m
+[15:59] [0m              you were set[0m
+[15:59] [0m[37;1mZorge flaps :[0m but it hasnt been true for years now[0m
+[16:03] [0m[37;1mTeg flaps :[0m I need to get my chatline monitor working for changers[0m
+[16:03] [0m[37;1mZion flaps :[0m flapchat but not changers[0m
+[16:03] [0m[37;1mZion flaps :[0m Your priorities are right sir[0m
+[16:03] [0m[37;1mTeg flaps :[0m lol, at work and sick, I'm worse at keeping chatlines straight than normal[0m
+[16:07] [0m[37;1mTeg flaps :[0m oh I'm using regex, but I appreciate it, just need to check the pattern matching[0m
+[16:07] [0m            when I have more time[0m
+[16:07] [0m[37;1mTeg flaps :[0m le sigh[0m
+[16:07] [0m[37;1mZion flaps :[0m freetime problems gotcha![0m
+[16:19] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[16:19] [0m[34;1mZethrak shouts:[0m that dog is a menace, Dennis.[0m
+[16:20] [0m[34;1mLizergic shouts:[0m bark bark bark[0m
+[16:44] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[17:02] [0m[34;1mMurder shouts:[0m laf[0m
+[17:18] [0m[37;1m[JEDI]:[0m Durnoth arrives at the Academy.[0m
+[17:21] [0m[34;1mZion shouts:[0m Oh my[0m
+[17:25] [0m[31;1m[Clan] Saitama leaves the game.[0m  [0m
+[17:29] [0m[31;1m[Clan] Teg :[0m Waterhouse is testing the changes to mages currently[0m
+[17:31] [0m[31;1m[Clan] Teg :[0m he dropped from 163 to 158 and his skills are about 30% lower[0m
+[17:31] [0m[31;1m[Clan] Teg :[0m also gxp rate took a sizeable hit[0m
+[17:33] [0m[34;1mZethrak shouts:[0m :O[0m
+[17:33] [0m[31;1m[Clan] Toren :[0m mission destroy all interest in mages accomplished[0m
+[17:38] [0m[31;1m[Clan] Teg :[0m ¯\_(?)_/¯[0m
+[17:39] [0m[31;1m[Clan] Teg :[0m as much as I dislike Shaitan, Ada signed off on this and defended it to the level[0m
+[17:39] [0m             that he chased Guru away[0m
+[17:39] [0m[31;1m[Clan] Teg :[0m for telling the truth[0m
+[17:40] [0m[31;1m[Clan] Teg :[0m volunteer staff or not, something this fucked doesn't happen in a vacuum[0m
+[17:41] [0m[31;1m[Clan] Teg :[0m and they flat out lied about "not considering veterans, HLC and BIA characters when[0m
+[17:41] [0m             balancing"[0m
+[17:41] [0m[31;1m[Clan] Teg :[0m because there's no way a newb could have made the progress I did[0m
+[17:41] [0m[31;1m[Clan] Teg :[0m between stats, guides, epowers...[0m
+[17:43] [0m[31;1m[Clan] Teg :[0m I mean, they obviously "didn't" consider it, but they're mad about it after the[0m
+[17:43] [0m             fact, so they do consider it for use-case[0m
+[17:44] [0m[31;1m[Clan] Toren :[0m imo they should've taken note of the creation of an extremely vibrant and[0m
+[17:44] [0m               interested community and tried to replicate that elsewhere[0m
+[17:45] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[17:45] [0m[31;1m[Clan] Toren :[0m cause i don't think any player besides those who were made others were advancing[0m
+[17:45] [0m               faster than they did in the past cared[0m
+[17:45] [0m[31;1m[Clan] Toren :[0m and that attitude (that others ahve it easier than you did in the past) is toxic[0m
+[17:45] [0m               and needs to go[0m
+[17:46] [0m[31;1m[Clan] Toren :[0m i dont think they have bad intentinos[0m
+[17:46] [0m[31;1m[Clan] Toren :[0m intentions*[0m
+[17:47] [0m[31;1m[Clan] Toren :[0m but, i think mages should have been more of a model than an exception[0m
+[17:47] [0m[31;1m[Clan] Toren :[0m and if you want to allocate hours to fixing a guild, get someone in sii[0m
+[17:47] [0m[31;1m[Clan] Toren :[0m who weren't even touched during the whole rebalance[0m
+[17:48] [0m[31;1m[Clan] Teg :[0m I don't think so either, but I think they are punishing the players for their[0m
+[17:48] [0m             short-sightedness and I think they're forgetting that mages require a little more[0m
+[17:48] [0m             foresight to play effectively due to the way sat works[0m
+[17:49] [0m[31;1m[Clan] Toren :[0m well, i dont think mages are brain surgery to play[0m
+[17:49] [0m[31;1m[Clan] Nix :[0m yeah i agree, you figured it out after all...[0m
+[17:49] [0m[31;1m[Clan] Toren :[0m especially w/ the contingency changes[0m
+[17:49] [0m[31;1m[Clan] Toren :[0m zinger[0m
+[17:49] [0m[31;1m[Clan] Nix :[0m BAZINGA![0m
+[17:49] [0m[31;1m[Clan] Teg :[0m the point I'm making though is you can't just idle or weather linkdeath or lag like[0m
+[17:49] [0m             a cyborg or something else can[0m
+[17:50] [0m[31;1m[Clan] Toren :[0m well, you can, you just gotta visit the old man[0m
+[17:50] [0m[31;1m[Clan] Toren :[0m :D[0m
+[17:50] [0m[31;1m[Clan] Teg :[0m that's precisely my point and you know it :P[0m
+[17:50] [0m[31;1m[Clan] Toren :[0m laf[0m
+[17:52] [0m[31;1m[Clan] Nix :[0m i blew through mages[0m
+[17:53] [0m[31;1m[Clan] Nix :[0m it was a breeze[0m
+[17:53] [0m[34;1mPdog shouts:[0m i ran out of drugs :([0m
+[17:53] [0m[31;1m[Clan] Toren :[0m you also gswapped in :P[0m
+[17:53] [0m[31;1m[Clan] Nix :[0m lol[0m
+[17:53] [0m[34;1mDalandra shouts:[0m i ran out of mana[0m
+[17:53] [0m[31;1m[Clan] Teg :[0m because of all those benefits I mentioned[0m
+[17:53] [0m[31;1m[Clan] Toren :[0m and had 14k sps to work w[0m
+[17:53] [0m[31;1m[Clan] Pipin :[0m CHEATER[0m
+[17:53] [0m[31;1m[Clan] Teg :[0m which they say they don't take into consideration when balancing[0m
+[17:53] [0m[31;1m[Clan] Nix :[0m some say breeze... i say TALENT![0m
+[17:53] [0m[31;1m[Clan] Teg :[0m some say the breeze causes a whistle :D[0m
+[17:54] [0m[31;1m[Clan] Teg :[0m [17:53] [Waterhouse tells you]:  getting 23.4k/hr in max scaler hotel[0m
+[17:54] [0m[34;1mPdog shouts:[0m wanna trade?[0m
+[17:54] [0m[31;1m[Clan] Nix :[0m i mean atleast he's doing max scaler i guess[0m
+[17:54] [0m[31;1m[Clan] Nix :[0m maybe they'll increase it?[0m
+[17:54] [0m[31;1m[Clan] Nix :[0m is summoner viable now?[0m
+[17:54] [0m[31;1m[Clan] Teg :[0m consider what I told you though[0m
+[17:54] [0m[31;1m[Clan] Teg :[0m he's rolling with 180+ days of gxp[0m
+[17:55] [0m[34;1mZethrak shouts:[0m I ran out of mayonaise.[0m
+[17:55] [0m[31;1m[Clan] Taleast leaves the game.[0m  [0m
+[17:55] [0m[31;1m[Clan] Nix :[0m i wonder how far i'll drop, i was only at 150[0m
+[17:55] [0m[31;1m[Clan] Toren :[0m really?[0m
+[17:55] [0m[31;1m[Clan] Toren :[0m that's really low[0m
+[17:55] [0m[31;1m[Clan] Nix :[0m but i probably won't play again[0m
+[17:55] [0m[31;1m[Clan] Teg :[0m if they reduce the gxp to 1/3rd and he was 64 days in...[0m
+[17:56] [0m[31;1m[Clan] Toren :[0m so...costs increased 3x and gxp rate cut 33%[0m
+[17:56] [0m[31;1m[Clan] Toren :[0m 9x the curve[0m
+[17:56] [0m[31;1m[Clan] Teg :[0m I don't know if the costs increased by 3x, I just know what his skills are and that[0m
+[17:56] [0m             gxp rate is 1/3 what it was[0m
+[17:56] [0m[31;1m[Clan] Toren :[0m summoner isn't getting fixded[0m
+[17:56] [0m[31;1m[Clan] Toren :[0m i asked[0m
+[17:57] [0m[31;1m[Clan] Teg :[0m I could maintain about 70k in SZ non-stop[0m
+[17:57] [0m[31;1m[Clan] Toren :[0m only good things are allowed to be changed[0m
+[17:57] [0m[31;1m[Clan] Toren :[0m broken things wont be fixed[0m
+[17:57] [0m[31;1m[Clan] Nix :[0m wtf[0m
+[17:57] [0m[31;1m[Clan] Nix :[0m that's horse shit[0m
+[17:58] [0m[31;1m[Clan] Nix :[0m that's literally the only playstyle that would intrigue me enough to go back there[0m
+[17:58] [0m[31;1m[Clan] Toren :[0m it's fucked[0m
+[17:58] [0m[31;1m[Clan] Toren :[0m i wish S was viable[0m
+[17:59] [0m[31;1m[Clan] Teg :[0m don't worry, in 5+ years they'll make it good/viable again for a year or two[0m
+[17:59] [0m[31;1m[Clan] Teg :[0m they run this fucking mud like they're part of the department of transportation[0m
+[18:00] [0m[31;1m[Clan] Teg :[0m good stuff slips in, but 90% of the development is rework[0m
+[18:00] [0m[31;1m[Clan] Teg :[0m glad I gswapped necro and got some decent xp in before hand[0m
+[18:01] [0m[31;1m[Clan] Teg :[0m well... actually I'm kind of annoyed I wasted the money on this mud to get gswap[0m
+[18:02] [0m[31;1m[Clan] Nix :[0m but... you still have us[0m
+[18:02] [0m[31;1m[Clan] Nix :[0m the jolliest bunch of assholes this side of the nut house![0m
+[18:02] [0m[31;1m[Clan] Teg :[0m you'll have to try it out, WH is telling me it's not 100% what I think it is[0m
+[18:02] [0m[31;1m[Clan] Teg :[0m but it sure sounds like what I laid out[0m
+[18:03] [0m[31;1m[Clan] Pipin :[0m im defintely not gonna play a mage unless i can wield a redaxe.[0m
+[18:05] [0m[31;1m[Clan] Nix :[0m alas... i got that nerfed[0m
+[18:06] [0m[31;1m[Clan] Nix :[0m well you can still reddagger but you need an OG redaxe[0m
+[18:06] [0m[31;1m[Clan] Nix :[0m ...so wait for a long boot and buy it off ahouse for 11 coins[0m
+[18:12] [0m[31;1m[Clan] Teg :[0m I hope the elder mages are happy with the changes, at 1/3rd the rate they're[0m
+[18:12] [0m             effectively frozen now[0m
+[18:13] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[18:16] [0m[31;1m[Clan] Teg :[0m not spirit?[0m
+[18:16] [0m[31;1m[Clan] Teg :[0m w/l[0m
+[18:31] [0m[37;1mElektra flaps :[0m i guess no one remembers connor, who was logo, fellow, and my college roommate,[0m
+[18:31] [0m                but his wife passed away today[0m
+[18:31] [0m[37;1mElektra flaps :[0m https://www.caringbridge.org/visit/paigepowers[0m
+[18:31] [0m[37;1mPdog flaps :[0m i do[0m
+[18:32] [0m[37;1mElektra flaps :[0m very nice lady... was '92 Wellesley (my sister was '94), and married Mike who[0m
+[18:32] [0m                was a year ahead of me at MIT, '91.[0m
+[18:32] [0m[37;1mInix flaps :[0m condolences[0m
+[18:32] [0m[37;1mZethrak flaps :[0m yes, sorry for your loss.[0m
+[18:34] [0m[37;1mEllegon flaps :[0m condolences :([0m
+[18:34] [0m[37;1mSadiesdaddy flaps :[0m so sorry[0m
+[18:36] [0m[34;1mSadiesdaddy shouts:[0m Why do Smurfs taste like dingleberries?[0m
+[18:37] [0m[34;1mPdog shouts:[0m i dunno, but whenever i sing jingle bell rock, i always change it to dingleberry[0m
+[18:38] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[18:50] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in Deserts of Fantasy![0m
+[18:50] [0m                          We are localizing it now - get ready![0m
+[18:55] [0m[31;1m[Clan] Falthrice leaves the game.[0m  [0m
+[19:56] [0m[31;1m[Clan] Nameless :[0m he saw a sunset and it made him BIG horny[0m
+[19:56] [0m[31;1m[Clan] Nameless :[0m or somethin[0m
+[19:57] [0m[31;1m[Clan] Nameless :[0m and then lena was lik e"what are you doing step savior?"[0m
+[20:08] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[20:13] [0m[31;1m[Clan] Reacher :[0m whee, lvl 42![0m
+[20:13] [0m[31;1m[Clan] Toren :[0m woo2[0m
+[20:13] [0m[31;1m[Clan] Reacher :[0m vorpal blade ftw[0m
+[20:13] [0m[31;1m[Clan] Teg :[0m does that mean ... yep[0m
+[20:14] [0m[Auction] Robert : Up for bids: Whore steak.[0m
+[20:14] [0m[Auction] Robert : Toren has requested 5,000 as the opening offer.[0m
+[20:14] [0m[Auction] Prism (gent) : Give that back to Nix wtf[0m
+[20:14] [0m[Auction] Al (jugg) : oooh, i love to eat a good whoresteak[0m
+[20:14] [0m[Auction] Robert : Got 5,000 from Al(jugg).  Do I hear 5,250?[0m
+[20:14] [0m[Auction] Zion (chan) : where is the sauce?[0m
+[20:14] [0m[Auction] Al (jugg) : i provide the sauce, homey[0m
+[20:14] [0m[Auction] Robert : 5,000 going once![0m
+[20:14] [0m[31;1m[Clan] Pipin :[0m get out!! im mapping[0m
+[20:14] [0m[Auction] Prism (gent) : *pukes*[0m
+[20:14] [0m[Auction] Robert : 5,000 going twice![0m
+[20:15] [0m[Auction] Robert : Sold to Al for 5,000 coins![0m
+[20:15] [0m[31;1m[Clan] Toren :[0m MOM!  I"M VACUUMING MY ROOM[0m
+[20:32] [0m[31;1m[Clan] Reacher :[0m whee, and support has 5 hits/rnd![0m
+[20:32] [0m[31;1m[Clan] Pipin :[0m mmmm[0m
+[20:42] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[20:43] [0m[31;1m[Clan] Toren :[0m sounds like gnome is a much better cyborg heh[0m
+[20:43] [0m[31;1m[Clan] Reacher :[0m well grapple[0m
+[20:43] [0m[31;1m[Clan] Toren :[0m dmg too[0m
+[20:43] [0m[31;1m[Clan] Toren :[0m tank better[0m
+[20:43] [0m[31;1m[Clan] Toren :[0m and sounds like gnomes hit ebtter too[0m
+[20:43] [0m[31;1m[Clan] Reacher :[0m and plating can tank all damage types as e/b[0m
+[20:44] [0m[31;1m[Clan] Toren :[0m there's 1 salamander on, how times have changed[0m
+[20:46] [0m[34;1mFluffy shouts:[0m mr ed has bone berserk!![0m
+[20:47] [0m[31;1m[Clan] Pipin :[0m jeeze hooligan is 101[0m
+[20:49] [0m[31;1m[Clan] Nameless :[0m hooligan is cool again[0m
+[21:00] [0mCSsRPDFd  Wm:g Wc: 86% Gx: 81.08% Fx: 72.23%[0m
+[21:07] [0m[32mErig says: [0mThere is a key to his room on my desk![0m
+[21:11] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[21:12] [0m[32mErig says: [0mThank god! Someone has finally come to my rescue![0m
+[21:14] [0m[32mErig says: [0mThank god! Someone has finally come to my rescue![0m
+[21:17] [0m[32mErig says: [0mThere is a key to his room on my desk![0m
+[21:25] [0m[37;1mVagrant <.oO>:[0m blang blang[0m
+[21:26] [0m[37;1mEsper <.oO>:[0m damn, dude![0m
+[21:26] [0m[37;1mVagrant <.oO>:[0m gotta bring all the bois to the yard[0m
+[21:28] [0m[32mErig says: [0mYou must stop Zelligar! He has gone crazy![0m
+[21:36] [0m[31;1m[Clan] Reacher :[0m ugh even with con100 can't eat the food i made[0m
+[21:37] [0m[31;1m[Clan] Toren :[0m huh[0m
+[21:37] [0m[31;1m[Clan] Toren :[0m theres a min con to eat food?[0m
+[21:41] [0m[31;1m[Clan] Reacher :[0m hsima and i can make foods that are impossible for any player to eat[0m
+[21:41] [0m[31;1m[Clan] Reacher :[0m an unfortunate bug that flaxen never fixed[0m
+[21:42] [0m[32mErig says: [0mThank god! Someone has finally come to my rescue![0m
+[21:42] [0m[31;1m[Clan] Teg :[0m night, gents[0m
+[21:43] [0m[31;1m[Clan] Reacher :[0m wave[0m
+[21:44] [0m[37;1m[JEDI]:[0m Reena Bel Noir arrives at the Academy.[0m
+[21:49] [0m[31;1m[Clan] Toren :[0m hmm interesting[0m
+[21:49] [0m[31;1m[Clan] Toren :[0m what if you embiggen[0m
+[21:49] [0m[31;1m[Clan] Reacher :[0m i can't[0m
+[21:49] [0m[31;1m[Clan] Toren :[0m i mean others[0m
+[21:49] [0m[31;1m[Clan] Reacher :[0m but for elektra/wasp[0m
+[21:49] [0m[31;1m[Clan] Toren :[0m for the impossible foods[0m
+[21:49] [0m[31;1m[Clan] Reacher :[0m i wonder[0m
+[21:49] [0m[31;1m[Clan] Reacher :[0m i thought there was a cap that your food capacity hit... hsima thought it was[0m
+[21:49] [0m                 con100[0m
+[21:50] [0m[31;1m[Clan] Toren :[0m ot the lab![0m
+[21:50] [0m[31;1m[Clan] Reacher :[0m but it's not... but less than 275[0m
+[21:50] [0m[34;1mMalikai shouts:[0m I am here![0m
+[21:50] [0m[34;1mZion shouts:[0m with or without pants?[0m
+[21:50] [0m[34;1mMalikai shouts:[0m I don't Know![0m
+[21:51] [0m[34;1mZion shouts:[0m Absolute professional.  Get this guy some finished oak doloreses[0m
+[21:51] [0m[37;1mInix flaps :[0m alright now, who's littering steaks at magic?[0m
+[21:52] [0m[37;1mXiu flaps :[0m no name in long desc?[0m
+[21:52] [0m[37;1mMotivation flaps :[0m i guess that was me, someone left them in the whorehouse so i left them there[0m
+[21:52] [0m                   in case someone else wanted steaks for their dog[0m
+[21:53] [0m[37;1mZion flaps :[0m whoredogsteaks[0m
+[21:53] [0m[34;1mFluffy shouts:[0m sit ubu, sit ... good dog![0m
+[21:53] [0m[37;1mInix flaps :[0m hrmm, we should have a non-newbie donation bin or something in pinnacle.[0m
+[21:54] [0m[37;1mZion flaps :[0m the floor under the table at Surreal Spirits[0m
+[21:54] [0m[37;1mInix flaps :[0m drop in artifacts and steaks and whatnot[0m
+[21:54] [0m[37;1mZion flaps :[0m sort through peanut shells[0m
+[21:54] [0m[37;1mLance flaps :[0m like 3s?[0m
+[21:54] [0m[37;1mPdog flaps :[0m it's been suggested multiple times, heh[0m
+[21:54] [0m[37;1mInix flaps :[0m my understanding is items in a box are less taxing on the CPU than items on the[0m
+[21:54] [0m             ground, I could be wrong, just thinking[0m
+[21:54] [0m[37;1mLocrian flaps :[0m what about the bin at the recruitment hall for core guilds? dunno if that would[0m
+[21:54] [0m                work.[0m
+[21:55] [0m[37;1mMotivation flaps :[0m i could put the steaks in the auction house for 11/12/48[0m
+[21:55] [0m[37;1mInix flaps :[0m Then you'd get to increase your ahouse avatar too, if someone bought 'em :P[0m
+[21:55] [0m[37;1mToren flaps :[0m you can't remove stuff from that box if you're not a core guild member though[0m
+[21:56] [0m[37;1mInix flaps :[0m Also, I think Robert should donate all the taxes he gets to Oogatang or whatever[0m
+[21:56] [0m             the boost mob is called.[0m
+[21:57] [0m[37;1mLocrian flaps :[0m i like that idea too[0m
+[21:57] [0m[34;1mMinimali shouts:[0m I am here too![0m
+[21:57] [0m[37;1mCrolack flaps :[0m 8Inix, does Fluffy like the fluff soul?[0m
+[21:57] [0m[37;1mInix flaps :[0m [30;1m([34;1m8[30;1m)[0mInix : It is decidedly so[0m
+[21:58] [0m[37;1mInix flaps :[0m Croslack's just upset there isn't a croslack soul[0m
+[21:58] [0m[37;1mPdog flaps :[0m there is a 'lack' soul :)[0m
+[21:58] [0m[37;1mFluffy flaps :[0m get off your ass and code one, crow boi![0m
+[21:58] [0m[37;1mPdog flaps :[0m seems appropriate[0m
+[21:58] [0m[37;1mNameless flaps :[0m milk exists[0m
+[21:58] [0m[37;1mCrolack flaps :[0m I coded the pie soul[0m
+[21:59] [0m[37;1mNameless flaps :[0m There is no reason to 'pickle' here.[0m
+[21:59] [0m[37;1mXiu flaps :[0m i was told there would be punch and pie, and thanks to Crolack i don't have to[0m
+[21:59] [0m            complain that i was lied to.[0m
+[22:00] [0m[37;1mNameless flaps :[0m i have the punch![0m
+[22:11] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[22:38] [0m[37;1m[JEDI]:[0m Herah Wylann arrives at the Academy.[0m
+[22:40] [0m[37;1mAdalius flaps :[0m Mostly afk, but objects in boxes cost just as much CPU wise as objects on the[0m
+[22:40] [0m                ground, with the exception for very specific things (goodberries & fireseeds;[0m
+[22:40] [0m                Jedi holocrons; a few other very specific cases)[0m
+[22:41] [0m[37;1mNameless flaps :[0m munch munch time[0m
+[22:45] [0m[37;1mBeebo flaps :[0m So why were witches closed after the recode?[0m
+[22:45] [0m[37;1mApocalypse flaps :[0m brooms started getting sticky[0m
+[22:45] [0m[37;1mXiu flaps :[0m impossible to close them before the recode? *ducks*[0m
+[22:45] [0m[37;1mMotivation flaps :[0m they were recoded for mudders to hunt them down and burn them[0m
+[22:45] [0m[37;1mSevenofnine flaps :[0m because Azazel decoed them and broke them[0m
+[22:46] [0m[37;1mZion flaps :[0m anyone heard from azazel in last 36 months?  I've been trying to get int ouch[0m
+[22:46] [0m[37;1mApocalypse flaps :[0m he flew off the handle[0m
+[22:47] [0m[37;1mApocalypse flaps :[0m i'm here all night..[0m
+[22:47] [0m[37;1mEsper flaps :[0m He was on a few weeks ago - he comes and goes[0m
+[22:47] [0m[37;1mZion flaps :[0m thanks![0m
+[22:47] [0m[37;1mApocalypse flaps :[0m remember to tip your waiter/waitress/bartender[0m
+[22:48] [0m[37;1mXiu flaps :[0m and toss a coin to your witcher... altho we don't have that guild so nevermind.[0m
+[22:48] [0m[37;1mXiu flaps :[0m it's one of the ways i know we're not in the perfect timeline; 3k doesn't have a[0m
+[22:48] [0m            witcher guild. that and... well covid and pretty much 65% of everything else.[0m
+[22:49] [0m[34;1mZion shouts:[0m should have brought a steak... they love steak[0m
+[22:49] [0m[37;1mZethrak flaps :[0m all you have to do is wiz and make it. WIN![0m
+[22:49] [0m[37;1mBeebo flaps :[0m I bet you could wizmenow and code witchers[0m
+[22:49] [0m[31;1m[Clan] Reacher :[0m eek[0m
+[22:49] [0m[37;1mZion flaps :[0m anyone can uncomment out code[0m
+[22:49] [0m[37;1mBeebo flaps :[0m jinx!  pinch poke you owe me a coke![0m
+[22:50] [0m[37;1mZethrak flaps :[0m :D[0m
+[22:50] [0m[37;1mXiu flaps :[0m knowing me i'd typo it and everyone would wonder why i recoded witches to be great[0m
+[22:50] [0m            with swords[0m
+[22:50] [0m[37;1mZethrak flaps :[0m rofl[0m
+[22:50] [0m[34;1mLizergic shouts:[0m what's the command to see the commands for all my chatlines?[0m
+[22:50] [0m[34;1mZion shouts:[0m chatlines[0m
+[22:50] [0m[34;1mZethrak shouts:[0m :O[0m
+[22:51] [0m[34;1mBeebo shouts:[0m Thanks for that[0m
+[22:51] [0m[34;1mZion shouts:[0m Remember all "eu chat" is a card game not a political chat.[0m
+[22:53] [0m[37;1mLizergic flaps :[0m Witcher is overwrought outdated pseudo-angst nihilist garbage[0m
+[22:53] [0m[37;1mHeimdall flaps :[0m nod i like it too[0m
+[22:54] [0m[37;1mLizergic flaps :[0m Yeah, I remember being 17 years old once too.[0m
+[22:54] [0m[37;1mNameless flaps :[0m yo momma[0m
+[22:54] [0m[37;1mHeimdall flaps :[0m ooo so sophisticated[0m
+[22:55] [0m[37;1mLizergic flaps :[0m As long as I'm doing this, Duchamp and Rothko suck too.[0m
+[22:55] [0m[31;1m[Clan] Sock wiggles off your foot.[0m  [0m
+[22:56] [0m[37;1mLizergic flaps :[0m oh yeah, and postmodern art was literally a psyop by the CIA[0m
+[22:56] [0m[37;1mXiu flaps :[0m well shoot in that case i'll wiz and code a guild based on elric of melnibone.[0m
+[22:56] [0m            sorted.[0m
+[22:58] [0m[37;1mLocrian flaps :[0m jugger clan line disconnect and reconnect notices are the coolest. kudos to that[0m
+[22:58] [0m                guild for their clever coding![0m
+[22:59] [0m[37;1mLizergic flaps :[0m Wikipedia says Elric was inspired by Brecht. Even though Brecht was a commie,[0m
+[22:59] [0m                 he made one of the most relevant passages ever, so maybe he had some real soul[0m
+[22:59] [0m                 to him[0m
+[22:59] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[23:00] [0m[37;1mBeebo flaps :[0m You could code a guild based on cia-psyops that uses postmodern art to do psionic[0m
+[23:00] [0m              damage[0m
+[23:00] [0m[37;1mLizergic flaps :[0m I come here to get away from real life, Beebo[0m
+[23:01] [0m[37;1mZethrak flaps :[0m i want a Larp guild that says lightning bolt and throws a wad of tinfoil.[0m
+[23:01] [0m[37;1mXiu flaps :[0m they could have a super heavy guild artifact; A Polybius Arcade Machine.[0m
+[23:01] [0m[37;1mZethrak flaps :[0m but it does actual damage.[0m
+[23:02] [0m[37;1mXiu flaps :[0m nobody would know what it does because it makes you forget what it did. but it's[0m
+[23:02] [0m            awesome.[0m
+[23:02] [0m[37;1mZion flaps :[0m totally awesome.. everyone knows[0m
+[23:02] [0m[37;1mLocrian flaps :[0m bards have a lightning bolt. i can just emote that i throw tinfoil each time.[0m
+[23:02] [0m[37;1mZethrak flaps :[0m rofl[0m
+[23:02] [0m[37;1mZion flaps :[0m it works[0m
+[23:03] [0m[37;1mLocrian flaps :[0m suh-weet[0m
+[23:03] [0m[37;1mXiu flaps :[0m innovate, adapt, overcome[0m
+[23:03] [0m[37;1mLizergic flaps :[0m tinfoil hats don't work only because they don't surround properly. A tinfoil[0m
+[23:03] [0m                 bodysuit held away from the flesh by wooden studs would basically be a Fariday[0m
+[23:03] [0m                 Cage. It might work.[0m
+[23:03] [0m[37;1mZethrak flaps :[0m *takes notes*[0m
+[23:04] [0m[37;1mZion flaps :[0m pretty sure tinfoil hats were proven to amplify the signals rather than block them[0m
+[23:04] [0m[37;1mZethrak flaps :[0m I will test one in a microwave oven with the door safety removed and get back to[0m
+[23:04] [0m                you.[0m
+[23:04] [0m[37;1mZion flaps :[0m hard for an unsealed/halfdome metal wrap to be a faraday cage... all unsealed and[0m
+[23:04] [0m             such[0m
+[23:04] [0m[37;1mHeimdall flaps :[0m better phone reception, and you can unlock your car from further away[0m
+[23:05] [0m[37;1mLocrian flaps :[0m you should have come to try that out a couple of weeks ago here, zehtrak. our[0m
+[23:05] [0m                microwave turned on when we opened the door.[0m
+[23:05] [0m[37;1mZethrak flaps :[0m ack![0m
+[23:05] [0m[37;1mLocrian flaps :[0m isn't that what you're after?![0m
+[23:05] [0m[37;1mZion flaps :[0m plus everyone in the know knows that you have to wear lead underpands because all[0m
+[23:05] [0m             the sensors are in the middle of the earth with the lizard people per the United[0m
+[23:05] [0m             peoples act of lizard nonviolence of 1983[0m
+[23:05] [1;37;40m set to 1 hour Idle Timeout
+[23:05] [0m[37;1mZethrak flaps :[0m for science, but not for you. :D[0m
+[23:05] [0m[37;1mHeimdall flaps :[0m i still used the microwave, but im not sure about the long term effects yet[0m
+[23:06] [0m[37;1mLizergic flaps :[0m that's quite possible Zethrack, think of the geometry. A tinfoil hat is a[0m
+[23:06] [0m                 concave reflector. When the beams bounce up theough your body, they reflect and[0m
+[23:06] [0m                 focus on the inside of the cap.[0m
+[23:06] [0m[37;1mXiu flaps :[0m dunno if it was ever true or not but i had heard that super old school microwaves[0m
+[23:06] [0m            didn't have a cutoff switch on the door. you could just open it while it was[0m
+[23:06] [0m            running.[0m
+[23:06] [0m[37;1mZion flaps :[0m trooth[0m
+[23:06] [0m[37;1mZion flaps :[0m if you hold your arm in long enough you will cook from the inside out[0m
+[23:06] [0m[37;1mZethrak flaps :[0m great, now i'm hungry.[0m
+[23:06] [0m[37;1mZion flaps :[0m it's not the cool bruce banner ionizing radiation[0m
+[23:07] [0m[37;1mLizergic flaps :[0m only thing I know about microwaves is Ghetto Lobster[0m
+[23:07] [0m[37;1mXiu flaps :[0m good tip if you dont' feel like buying a turkey for thanksgiving. family better be[0m
+[23:07] [0m            next level thankful when they're eating your arm[0m
+[23:07] [0m[37;1mZethrak flaps :[0m that meal cost you an arm... just an arm, you kept your leg.[0m
+[23:08] [0m[37;1mZethrak flaps :[0m i am often glad that the things i enjoy as reality in movies are not possible[0m
+[23:08] [0m                for the most part in real life.[0m
+[23:09] [0m[37;1mLizergic flaps :[0m nah, real life is even worse.[0m
+[23:09] [0m[37;1mMotivation flaps :[0m like sexy pizza deliveries?[0m
+[23:10] [0m[37;1mZethrak flaps :[0m think of the delays. 30 minutes or less... not any more![0m
+[23:11] [0m[37;1mZethrak flaps :[0m papa johns went down the drain when papa john left. Their really good deals[0m
+[23:11] [0m                vanished. The old $12 3 topping large was replaced by a $12 small cheese, you[0m
+[23:11] [0m                had to pick up yuourse.f[0m
+[23:13] [0m[37;1mLizergic flaps :[0m oh boy. You know why Papa left, right? It's kind of a pattern. Get rid of[0m
+[23:13] [0m                 people for a certain reason and then everthing goes to garbage.[0m
+[23:13] [0m[37;1mZethrak flaps :[0m anyone remember the Subway Seafood and Crab?[0m
+[23:14] [0m[37;1mTchazzar flaps :[0m Now I am hungry.[0m
+[23:14] [0m[37;1mZethrak flaps :[0m that was the best sub they ever had.[0m
+[23:16] [0m[37;1mXiu flaps :[0m had a bad sandwiche once. it was sub-standard. *ducks again*[0m
+[23:16] [0m[37;1mLizergic flaps :[0m Remember when they declared a global emergency because of the common cold and[0m
+[23:16] [0m                 Subway couldn't get roast beef?[0m
+[23:16] [0m[37;1mZethrak flaps :[0m i did not know about that.[0m
+[23:17] [0m[37;1mLizergic flaps :[0m Go to Subway, ask for Roast Beef. We're living the nightmare[0m
+[23:18] [0m[37;1mLeibniz flaps :[0m For someone claiming to want to escape from the troubles of reality, you sure[0m
+[23:18] [0m                seem to be unavoidable for comment upon the subject[0m
+[23:19] [0m[37;1mLizergic flaps :[0m yes, you've called me out on my hypocricy, and how fitting a handle you have[0m
+[23:19] [0m                 for doing so[0m
+[23:22] [0m[37;1mLeibniz flaps :[0m Well, that part is annoying, I was more pointing to how counterproductive your[0m
+[23:22] [0m                choice of subject matter is[0m
+[23:22] [0m[37;1mZion flaps :[0m I asked for cheese cookies once[0m
+[23:22] [0m[37;1mZethrak flaps :[0m is that a thing? for real?[0m
+[23:22] [0m[37;1mLocrian flaps :[0m i'm in agreement with leibniz. bit of a chip hang'n on a shoulder.[0m
+[23:22] [0m[37;1mLizergic flaps :[0m chese danishes are sublime[0m
+[23:23] [0m[37;1mLocrian flaps :[0m zion makes cheese cookies all the time.[0m
+[23:23] [0m[37;1mZethrak flaps :[0m i have never heard of them before. I shall now do a internet search.[0m
+[23:24] [0m[37;1mLocrian flaps :[0m omg, they really are a thing. :p[0m
+[23:24] [0m[37;1mHeimdall flaps :[0m they can be made, but they arent meant to be made[0m
+[23:24] [0m[37;1m[JEDI]:[0m Janath Meelin arrives at the Academy.[0m
+[23:25] [0m[37;1mZethrak flaps :[0m yeah, i just found a cheddar cookie recipe, it looks amazing.[0m
+[23:25] [0m[37;1mZion flaps :[0m I make them as little sticks like a kitkat bar of cheese cookie[0m
+[23:25] [0m[37;1mZion flaps :[0m full blown blastphemy[0m
+[23:25] [0m[37;1mZethrak flaps :[0m *drools all over*[0m
+[23:26] [0m[37;1mZion flaps :[0m not going to say I don't use some cayanne pepper on some for christmas special[0m
+[23:26] [0m             cheese cookies[0m
+[23:27] [0m[37;1mZethrak flaps :[0m on the same web site, they have a recipe for savory cheese thumbprint cookies[0m
+[23:27] [0m                with bourbon tomato jam.[0m
+[23:27] [0m[37;1mZethrak flaps :[0m i don't even know how to process that.[0m
+[23:27] [0m[37;1mZion flaps :[0m Muahaha I read that as bourbon toe jam...[0m
+[23:27] [0m[37;1mZethrak flaps :[0m lol[0m
+[23:28] [0m[37;1mLocrian flaps :[0m well, i got a lot of cheese in the fridge. heimdall! prepare thyself for cookies[0m
+[23:28] [0m                henceforth![0m
+[23:28] [0m[37;1mZion flaps :[0m and the cheesening begins[0m
+[23:28] [0m[37;1mZethrak flaps :[0m hehehe[0m
+[23:28] [0m[37;1mZion flaps :[0m it will be a gouda time[0m
+[23:28] [0m[37;1mLizergic flaps :[0m Burbon is the drink of America.[0m
+[23:39] [0m[34;1mKong shouts:[0m New arch foe haha![0m
+[23:39] [0m[37;1mMotivation flaps :[0m i thought bud light is the drink of america[0m
+[23:43] [0m[37;1mLizergic flaps :[0m Bud Light is the drink of the New York City Madison Street set vision of[0m
+[23:43] [0m                 "America" that 90% of europeans and 50% of americans believe is a real thing.[0m
+[23:43] [0m                 Meanwhile, even the Deep South is producing genuses, while Jon Liebowitz is[0m
+[23:43] [0m                 declaring war upon them under false pretenses[0m
+[23:44] [0m[37;1mZethrak flaps :[0m my favorite drink is cranberry grape juice... so good. soooo gooood.[0m
+[23:44] [0m[37;1mLizergic flaps :[0m Bud Light tastes like water.[0m
+[23:44] [0m[37;1mPdog flaps :[0m american's will buy literally anything in a bottle though[0m
+[23:44] [0m[37;1mZion flaps :[0m #belldelphenebathwater[0m
+[23:44] [0m[37;1mPdog flaps :[0m beer, water, juice, pears, rocks, you name it[0m
+[23:44] [0m[37;1mPdog flaps :[0m it's in a bottle? SHUT UP AND TAKE MY MONEY[0m
+[23:45] [0m[37;1mVoodoo flaps :[0m MOIST![0m
+[23:45] [0m[37;1mLizergic flaps :[0m Real Americans don't buy the oh-so-cutely named "Soylent," and that's ijn a[0m
+[23:45] [0m                 bottle[0m
+[23:45] [0m[34;1mZion shouts:[0m Racist[0m
+[23:45] [0m[37;1mPdog flaps :[0m i prefer my soylent green right off the assembly line[0m
+[23:45] [0m[37;1mKong flaps :[0m Soylent green is people![0m
+[23:45] [0m[37;1mXiu flaps :[0m if i could save time in a bottle, the first thing that i'd like to do... is sell it[0m
+[23:45] [0m            to Americans![0m
+[23:45] [0m[37;1mPdog flaps :[0m it still has the faint taste of whatever the person you're eating ate last[0m
+[23:46] [0m[37;1mZethrak flaps :[0m Belle and that Ok Boomer girl should co-host a talk show.[0m
+[23:46] [0m[37;1mHeimdall flaps :[0m tastes best when still warm[0m
+[23:47] [0m[37;1mLizergic flaps :[0m "time in a bottle" is the blood of young people, and *certain* people living in[0m
+[23:47] [0m                 America buy a lot of it[0m
+[23:48] [0m[37;1mZethrak flaps :[0m reminds me of that movie In Time ... i think it was called. Had a lot of[0m
+[23:48] [0m                potential, but the main character wasn't very likeable.[0m
+[23:48] [0m[37;1mLizergic flaps :[0m But so does everybody with a seat in the EU[0m
+[23:49] [0m[37;1mLizergic flaps :[0m of course the main character wasn't likeable, he was Justin Timberlake. Who[0m
+[23:49] [0m                 doesn't hate Justin Timberlake?[0m
+[23:49] [0m[37;1mZethrak flaps :[0m Jessica Beals?[0m
+[23:49] [0m[37;1mZion flaps :[0m I hear justin Bieber like him[0m
+[23:49] [0m[37;1mApocalypse flaps :[0m how can u hate timberlake? he showed us Janet's boobs[0m
+[23:50] [0m[37;1mZion flaps :[0m so he's a bridge builder not a sucker[0m
+[23:50] [0m[37;1mLizergic flaps :[0m Equilibrium is a better movie than The Matrix[0m
+[23:50] [0m[37;1mApocalypse flaps :[0m ok, one of em[0m
+[23:50] [0m[37;1mZethrak flaps :[0m for the longest time, i thought that song was sung by a female artist.[0m
+[23:51] [0m[37;1mZion flaps :[0m who remembers targ?[0m
+[23:51] [0m[37;1mLizergic flaps :[0m For the longest time I thought Journey had a female lead singer[0m
+[23:51] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[23:55] [0m[31;1m[Clan] Mako leaves the game.[0m  [0m

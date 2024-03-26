@@ -1,0 +1,394 @@
+- = LOG STARTED [00:00] = -
+[07:09] [0mYou can currently reforge 12 items.[0m
+[07:09] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[07:18] [0mYour transmuter's stone bursts with 6 new colours![0m
+[07:21] [0m[31;1m[Clan] Taleast :[0m belated 'hey', Oscar[0m
+[07:22] [0m[31;1m[Clan] Oscar :[0m mornin[0m
+[07:31] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[07:40] [0m[37;1mHsima flaps :[0m It warms his cold, dark heart[0m
+[07:48] [0mOscar <Craft>: ANy chance someone has 1 legendary titanium bar or ore I could have?[0m
+[08:00] [0m[37;1m[JEDI]:[0m Bithoff Jonansaan arrives at the Academy.[0m
+[08:08] [0m[35;1mTaleast [Jedi(45)]:[0m woot![0m
+[08:09] [0m[35;1mAl [Jedi(65)]:[0m that's adequate for now[0m
+[08:10] [0m[35;1mTaleast [Jedi(45)]:[0m Al, who has mastered hibernation trance?[0m
+[08:10] [0m[35;1mAl [Jedi(65)]:[0m Rhaan, Bithoff mastered hibernation trance[0m
+[08:11] [0m[35;1mTaleast [Jedi(45)]:[0m Al, who has mastered meditation?[0m
+[08:11] [0m[35;1mAl [Jedi(65)]:[0m Ylenic, Rhaan, Herah mastered meditation[0m
+[08:13] [0m[35;1mTaleast [Jedi(45)]:[0m Al, who has mastered mindblock?[0m
+[08:13] [0m[35;1mAl [Jedi(65)]:[0m Herah, Alyssa mastered mindblock[0m
+[08:14] [0m[35;1mTaleast [Jedi(45)]:[0m Thanks, Al![0m
+[08:28] [0m[37;1m[JEDI]:[0m Kerran Halcyon arrives at the Academy.[0m
+[08:57] [0m[37;1m[JEDI]:[0m Ylenic It'kla arrives at the Academy.[0m
+[08:58] [0m[35;1mTaleast [Jedi(45)]:[0m looks like Ylenic on the meditation list is wrong[0m
+[08:58] [0m[35;1mTaleast [Jedi(45)]:[0m Ylenic It'kla has not mastered that skill well enough to teach you.[0m
+[08:59] [0m[35;1mTaleast [Jedi(45)]:[0m or there are those that master that can't teach AT[0m
+[08:59] [0m[35;1mAl [Jedi(65)]:[0m hmmm[0m
+[09:02] [0m[34;1mFlaxen shouts:[0m who's botting ?[0m
+[09:02] [0m[34;1mEphemeral shouts:[0m Not I![0m
+[09:02] [0m[34;1mHsima shouts:[0m ooh, me, me![0m
+[09:02] [0m[34;1mSpace shouts:[0m #METOO[0m
+[09:03] [0m[34;1mSer shouts:[0m estoy poopin[0m
+[09:03] [0m[34;1mUq shouts:[0m I am now[0m
+[09:03] [0m[34;1mTerran shouts:[0m hmm, is this one of those entrapment situations?[0m
+[09:03] [0m[34;1mTaleast shouts:[0m I'm not botting! <Bot response 2.3>[0m
+[09:03] [0m[34;1mAl shouts:[0m noti[0m
+[09:03] [0m[35;1mAl [Jedi(65)]:[0m battle meditation is why[0m
+[09:03] [0m[31;1m[Clan] Ser :[0m i really am, pants around my ankles[0m
+[09:03] [0m[34;1mHsima shouts:[0m response_strings['not_botting'][0m
+[09:03] [0m[31;1m[Clan] Ser :[0m shh[0m
+[09:04] [0m[31;1m[Clan] Taleast :[0m will it crawl back up if I talk to you?[0m
+[09:04] [0m[35;1mAl [Jedi(65)]:[0m it threw up a false positive because 'meditation' is part of the 'battle[0m
+[09:04] [0m               meditationæ[0m
+[09:04] [0m[35;1mAl [Jedi(65)]:[0m same if you do force[0m
+[09:04] [0m[31;1m[Clan] Taleast :[0m aha![0m
+[09:04] [0m[35;1mTaleast [Jedi(45)]:[0m aha![0m
+[09:04] [0m[35;1mAl [Jedi(65)]:[0m Al, who has mastered force?[0m
+[09:04] [0m[35;1mAl [Jedi(65)]:[0m Tobias, Talia, Rhaan, Reena, Janath, Herah, H'ssani, Fondon, Bithoff, Durnoth,[0m
+[09:04] [0m               Alyssa mastered force[0m
+[09:04] [0m[31;1m[Clan] Ser :[0m nah, i am a little constipated from pizza, i should go pound my coffee and try[0m
+[09:04] [0m             again[0m
+[09:05] [0m[35;1mAl [Jedi(65)]:[0m that's gonna have to get fixed eventually![0m
+[09:05] [0m[35;1mAl [Jedi(65)]:[0m al's a crap coder :)[0m
+[09:05] [0m[35;1mAl [Jedi(65)]:[0m but thanks tfor that, homey![0m
+[09:05] [0m[31;1m[Clan] Taleast :[0m maybe just try drinking it this time, might be part of your trouble[0m
+[09:05] [0m[31;1m[Clan] Ser :[0m i have some work to do so thats a solid plan anyways otw ill be in here awhile[0m
+[09:05] [0m[31;1m[Clan] Taleast :[0m solid plan...[0m
+[09:05] [0m[31;1m[Clan] Ser :[0m as solid as my poop[0m
+[09:07] [0m[35;1mTaleast [Jedi(45)]:[0m You know I was aware of that limitation and forgot about it, still better to[0m
+[09:07] [0m                    have a slightly flawed tool. Thanks for your help, Al.[0m
+[09:08] [0m[35;1mAl [Jedi(65)]:[0m anytime bud.  once i add the tell version of the doggone thing, i can iterate[0m
+[09:08] [0m               through all the distinct skills/trainers more effecctively[0m
+[11:47] [0m[37;1m[JEDI]:[0m Alyssa K'tal arrives at the Academy.[0m
+[12:20] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[12:39] [0m[31;1m[Clan] Byron :[0m https://i.redd.it/eikgv3pxm6g51.gif[0m
+[12:57] [0m[37;1m[JEDI]:[0m H'ssani C'talan arrives at the Academy.[0m
+[12:58] [0m[31;1m[Clan] Cambiador enters the game.[0m  [0m
+[13:18] [0mnewb Thorryk [Newbie]: hello[0m
+[13:18] [0mnewb Samiel [cyborg/58]: hello ! welcome to 3k[0m
+[13:18] [0mnewb Thom [bard/100]: hello and welcome[0m
+[13:18] [0mnewb Thorryk [Newbie]: I played here decades ago and can see a lot is the same but a lot has[0m
+[13:18] [0m                       also changed[0m
+[13:19] [0mnewb Samiel [cyborg/58]: yes it has welcome back[0m
+[13:19] [0mnewb Thorryk [Newbie]: thanks[0m
+[13:21] [0mnewb Thorryk [Newbie]: as far as guilds go, hopefully I can find something that fits my style[0m
+[13:25] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[13:33] [0m[31;1m[Clan] Taleast :[0m woot![0m
+[16:35] [0m[35;1mWound [Jedi(Knight)]:[0m love breaking a weapon with a repair droid...[0m
+[16:35] [0m[35;1mWound [Jedi(Knight)]:[0m werkin'[0m
+[16:35] [0m[35;1mTaleast [Jedi(45)]:[0m back in a bit[0m
+[16:52] [0mYour transmuter's stone bursts with 6 new colours![0m
+[16:56] [0m[37;1m[JEDI]:[0m Tobias Kel'ach'nar arrives at the Academy.[0m
+[17:27] [0m[31;1m[Clan] Ser :[0m internet down until tomorrow i think[0m
+[17:27] [0m[37;1m[JEDI]:[0m Rhaan arrives at the Academy.[0m
+[17:28] [0m[31;1m[Clan] Szodrin :[0m doh[0m
+[17:28] [0m[31;1m[Clan] Ser :[0m thank god for tintin on vps and tmux[0m
+[17:28] [0m[31;1m[Clan] Ser :[0m and cell phones[0m
+[17:36] [0m[31;1m[Clan] Roken :[0m so far gcp costs nothing.. you?[0m
+[17:43] [0m[35;1mAl [Jedi(65)]:[0m raise your kids right, jedis--make them fans of Queen early[0m
+[17:52] [0mYour transmuter's stone bursts with 4 new colours![0m
+[18:03] [0m[37;1m[JEDI]:[0m Talia Ska arrives at the Academy.[0m
+[18:03] [0m[34;1mAtreyu shouts:[0m Hoooooooooooooooooooooooo[0m
+[18:26] [0mYou can currently reforge 12 items.[0m
+[18:27] [0mYou can currently reforge 0 items.[0m
+[19:06] [0mYou can currently reforge 4 items.[0m
+[19:09] [0m[31;1m[Clan] Michael leaves the game.[0m  [0m
+[20:03] [0m<- ! The Vigilant ! -> :  A destabilization Kayos event has been detected in[0m
+[20:03] [0m                          Deserts of Fantasy!  We are localizing it now -[0m
+[20:03] [0m                          get ready![0m
+[20:06] [0mYou can currently reforge 8 items.[0m
+[20:24] [0m[31;1m[Clan] Taleast :[0m got dup item 1 tonight![0m
+[20:24] [0m[31;1m[Clan] Taleast :[0m only 15b to go to have a reasonable reset time :D[0m
+[20:29] [0m[32mKerym says: [0mWell met, Swordbrother Dangerzone, May the Seldarine's Blessings be upon you.[0m
+[20:30] [0m[31;1m[Clan] Archangel :[0m So tomorrow?[0m
+[20:30] [0m[31;1m[Clan] Ser :[0m i've been dragging uq for the last 12 hours and i'm up 11bil[0m
+[20:30] [0m             from yesterday, c'mon taleast[0m
+[20:31] [0m[31;1m[Clan] Ser :[0m get with the program[0m
+[20:31] [0m[31;1m[Clan] Byron :[0m Wtf, I'm not invited to leech?[0m
+[20:32] [0m[31;1m[Clan] Byron :[0m I feel attacked[0m
+[20:37] [0m[31;1m[Clan] Nix :[0m invited to leach?[0m
+[20:38] [0m[31;1m[Clan] Nix :[0m since when are you ever invited... you aggresive insert[0m
+[20:38] [0m             yourself in to parties[0m
+[20:38] [0m[31;1m[Clan] Byron :[0m If by "aggresively insert" you mean rallying you into my[0m
+[20:38] [0m               banner and following you into hotel[0m
+[20:39] [0m[31;1m[Clan] Byron :[0m Then sounds like you should be more careful[0m
+[20:39] [0m[31;1m[Clan] Ser :[0m laf[0m
+[20:39] [0m[31;1m[Clan] Ser :[0m never fly solo without a banner[0m
+[20:39] [0m[31;1m[Clan] Byron :[0m Not while Toren's around![0m
+[20:39] [0m[31;1m[Clan] Nix :[0m or i log in an forget he's in the banner from the day before[0m
+[20:39] [0m             and bang! i have a shadow[0m
+[20:39] [0m[31;1m[Clan] Taleast :[0m laf, I turn around for 5 minutes to talk to my wife (daily[0m
+[20:39] [0m                 allotment) and you get all chatty[0m
+[20:40] [0m[31;1m[Clan] Nix :[0m been on the phone putting out political fires =([0m
+[20:40] [0m[31;1m[Clan] Byron :[0m fuckin right you do nix[0m
+[20:40] [0m[31;1m[Clan] Nix :[0m grats on dupe 1![0m
+[20:40] [0m[31;1m[Clan] Taleast :[0m thanks![0m
+[20:40] [0m[31;1m[Clan] Byron :[0m #action {You stop following Nix} {follow nix}[0m
+[20:40] [0m[31;1m[Clan] Taleast :[0m laf[0m
+[20:51] [0m[31;1m[Clan] Ser :[0m lol generating a world for 7dtd and my server has been[0m
+[20:51] [0m             flatlineed for almost an hour[0m
+[20:51] [0m[31;1m[Clan] Ser :[0m flatlined being 100% cpu (just 2 cpu)[0m
+[20:51] [0m[31;1m[Clan] Byron :[0m 7dtd?[0m
+[20:51] [0m[31;1m[Clan] Ser :[0m 7 days to die[0m
+[20:51] [0m[31;1m[Clan] Ser :[0m zombie survival crafting game[0m
+[20:51] [0m[31;1m[Clan] Byron :[0m oh[0m
+[20:52] [0m[31;1m[Clan] Byron :[0m oh, btw. anyone got opal dust?[0m
+[20:52] [0m[31;1m[Clan] Taleast :[0m I bought it but haven't started playing it yet[0m
+[20:53] [0m[31;1m[Clan] Taleast :[0m for you I do[0m
+[20:53] [0m[31;1m[Clan] Byron :[0m oo[0m
+[20:53] [0m[31;1m[Clan] Taleast :[0m I've got a legendary[0m
+[20:53] [0m[31;1m[Clan] Byron :[0m fuck yes[0m
+[20:53] [0m[31;1m[Clan] Byron :[0m that's what i've been trying ot xmute up to[0m
+[20:53] [0m[31;1m[Clan] Taleast :[0m in clan crafting box[0m
+[20:53] [0m[31;1m[Clan] Nix :[0m opal dust, you sound like a bunch of drug dealers[0m
+[20:53] [0m[31;1m[Clan] Byron :[0m but slogging away in this mine like some schlub[0m
+[20:53] [0m[31;1m[Clan] Nix :[0m yo you got any meth?[0m
+[20:54] [0m[31;1m[Clan] Nix :[0m its in the crafting box ={[0m
+[20:54] [0m[31;1m[Clan] Byron :[0m dust dust got that opal dust![0m
+[20:54] [0m[31;1m[Clan] Taleast :[0m it's spelled mythril in our discussions, Nix, get with the[0m
+[20:54] [0m                 program[0m
+[20:54] [0m[31;1m[Clan] Ser :[0m i started watching letterkenny[0m
+[20:54] [0m[31;1m[Clan] Byron :[0m Laf, that show looks great[0m
+[20:55] [0m[31;1m[Clan] Taleast :[0m agreed, seen bits and pieces through memes, never watched[0m
+[20:55] [0m                 it, planned to[0m
+[20:55] [0m[31;1m[Clan] Ser :[0m the 1st ep was good[0m
+[20:55] [0m[31;1m[Clan] Byron :[0m I'm trying to find how to download los espookys[0m
+[20:55] [0m[31;1m[Clan] Taleast :[0m "If you heckle me so help me god I'll staple your tongue to[0m
+[20:55] [0m                 your taint so you can see me kick your ass!"[0m
+[20:56] [0m[31;1m[Clan] Taleast :[0m or something like that[0m
+[20:56] [0m[31;1m[Clan] Ser :[0m i put all my vms behind a firewall[0m
+[20:57] [0m[31;1m[Clan] Ser :[0m but i have no way to access anything behind the firewall except[0m
+[20:57] [0m             through esxi's interface[0m
+[20:57] [0m[31;1m[Clan] Ser :[0m so i can't put the management portion behind a firewall :([0m
+[20:57] [0m[31;1m[Clan] Ser :[0m i guess i could enable ssh or throw a windows client on there[0m
+[20:57] [0m             so i can RDP[0m
+[20:58] [0m[31;1m[Clan] Ser :[0m but i can never get vncserver working right[0m
+[20:58] [0m[31;1m[Clan] Martyr :[0m fuck[0m
+[20:58] [0m[31;1m[Clan] Martyr :[0m i dont have a lengedary essence fo knowledge[0m
+[20:58] [0m[31;1m[Clan] Ser :[0m i have 2[0m
+[20:58] [0m[31;1m[Clan] Taleast :[0m sorry, bro, neither do I[0m
+[20:58] [0m[31;1m[Clan] Martyr :[0m hook a brutha up?[0m
+[20:58] [0m[31;1m[Clan] Ser :[0m sorry busy[0m
+[20:58] [0m[31;1m[Clan] Martyr :[0m laf[0m
+[20:58] [0m[31;1m[Clan] Nix :[0m i have 3, 500k per[0m
+[20:59] [0m[31;1m[Clan] Ser :[0m i'll go cheap, 250k per[0m
+[20:59] [0m[31;1m[Clan] Nix :[0m 249,999[0m
+[20:59] [0m[31;1m[Clan] Byron :[0m Sure Nix,  I'll un-sabotage your tt setup for 1mil then[0m
+[20:59] [0m[31;1m[Clan] Ser :[0m laf[0m
+[20:59] [0m[31;1m[Clan] Taleast :[0m I'll go cheaper, I'll sell Ser's for 200k[0m
+[20:59] [0m[31;1m[Clan] Ser :[0m you should never have let byron touch your stuff nix xD[0m
+[21:00] [0m[31;1m[Clan] Nix :[0m Tal what kinda dealer you?!?!? get off my turf son[0m
+[21:00] [0m[31;1m[Clan] Byron :[0m the best I can do is 1.99[0m
+[21:00] [0m[31;1m[Clan] Taleast :[0m d00d, I was going to pay you 150k to steal them from Ser[0m
+[21:00] [0m[31;1m[Clan] Taleast :[0m I got you[0m
+[21:00] [0m[31;1m[Clan] Nix :[0m im still on parimd he can nerf that shit all he wants[0m
+[21:00] [0m[31;1m[Clan] Nix :[0m the 3kdb that is[0m
+[21:00] [0m[31;1m[Clan] Nix :[0m i'll sell my key to the russians again[0m
+[21:01] [0m[31;1m[Clan] Byron :[0m laf[0m
+[21:01] [0m[31;1m[Clan] Nix :[0m in other news.. i rented The Lords of Salem last night.. wow[0m
+[21:01] [0m[31;1m[Clan] Nix :[0m whacky as hell[0m
+[21:01] [0m[31;1m[Clan] Taleast :[0m I thought all the politicians already did that[0m
+[21:01] [0m[31;1m[Clan] Taleast :[0m #addingPoliticsForFunAndProfit[0m
+[21:02] [0m[31;1m[Clan] Nix :[0m oh i'm no politician, i just represent a few[0m
+[21:02] [0m[31;1m[Clan] Taleast :[0m well you can't represent them if I don't get them in[0m
+[21:02] [0m                 trouble first[0m
+[21:04] [0m[31;1m[Clan] Taleast :[0m movie sounds familiar, Nix, I'll have to look it up later[0m
+[21:04] [0m[31;1m[Clan] Taleast :[0m I've got some work to do still :([0m
+[21:05] [0m[31;1m[Clan] Taleast :[0m sprint is over tomorrow[0m
+[21:05] [0m[31;1m[Clan] Nix :[0m by Rob Zombie[0m
+[21:05] [0m[31;1m[Clan] Taleast :[0m oh, nevermind, I think Rob is a cool d00d, but I don't like[0m
+[21:05] [0m                 his movies[0m
+[21:05] [0m[31;1m[Clan] Taleast :[0m Devil's rejects was better, but the rest aren't my cup of[0m
+[21:05] [0m                 tea[0m
+[21:06] [0m[31;1m[Clan] Nix :[0m Devil's Rejects is the best... the Halloween remakes are pretty[0m
+[21:06] [0m             damn good too[0m
+[21:06] [0mYou can currently reforge 12 items.[0m
+[21:06] [0m[31;1m[Clan] Byron :[0m i love his horror stuff[0m
+[21:06] [0m[31;1m[Clan] Byron :[0m really wish that wrestling movie would've happen[0m
+[21:07] [0m[31;1m[Clan] Byron :[0m https://wp.me/p2zxX7-dRuj[0m
+[21:08] [0m[31;1m[Clan] Taleast :[0m I'll tell you a movie that most people I've talked to[0m
+[21:08] [0m                 haven't seen[0m
+[21:08] [0m[31;1m[Clan] Taleast :[0m Behind the Mask: The Rise of Leslie Vernon[0m
+[21:08] [0m[31;1m[Clan] Nix :[0m he was suppsoed to do a broad street bullies movie too[0m
+[21:09] [0m[31;1m[Clan] Nix :[0m bout the flyers in the 70's and how they just brutalized teams[0m
+[21:10] [0m[31;1m[Clan] Taleast :[0m someone available to teach RI 9, please?[0m
+[21:10] [0m[31;1m[Clan] Byron :[0m RI 9?[0m
+[21:10] [0m[31;1m[Clan] Taleast :[0m doh[0m
+[21:10] [0m[31;1m[Clan] Aka :[0m reduce injury[0m
+[21:10] [0m[31;1m[Clan] Taleast :[0m sorry, multitasking again[0m
+[21:10] [0m[31;1m[Clan] Taleast :[0m or what passes for it[0m
+[21:37] [0mByron <Craft>: So 5 legendary bars + 1 superior = 4 superior bars?[0m
+[21:37] [0mByron <Craft>: I thought smelting tended to upgrade one of the lower bars[0m
+[21:37] [0m[31;1m[Clan] Byron :[0m fuck me[0m
+[21:37] [0m[31;1m[Clan] Byron :[0m wasted those bars[0m
+[21:38] [0mByron <Craft>: errr ores[0m
+[21:38] [0m[31;1m[Clan] Byron :[0m need 5 titanium bars[0m
+[21:38] [0m[31;1m[Clan] Taleast :[0m let me check my alt[0m
+[21:39] [0m[31;1m[Clan] Byron :[0m fucked up and lost all these titanium ores by adding 1[0m
+[21:39] [0m               superior :([0m
+[21:39] [0m[31;1m[Clan] Byron :[0m thinking it would upgrade that one[0m
+[21:39] [0m[31;1m[Clan] Teg :[0m sorry bro, no tit ore[0m
+[21:40] [0m[31;1m[Clan] Byron :[0m its ok[0m
+[21:40] [0m[31;1m[Clan] Teg :[0m can get some though[0m
+[21:40] [0m[31;1m[Clan] Byron :[0m I just blew all my colors xmuting the legendary ores up[0m
+[21:41] [0m[31;1m[Clan] Byron :[0m Makes no fucking sense that 5 legendary ores + 1 superior = 4[0m
+[21:41] [0m               superior bars[0m
+[21:41] [0m[31;1m[Clan] Teg :[0m that doesn't uusally happen to me[0m
+[21:43] [0m[31;1m[Clan] Byron :[0m a lot of crafting stuff makes no sense to me[0m
+[21:43] [0m[31;1m[Clan] Ser :[0m do you have the mskills[0m
+[21:43] [0m[31;1m[Clan] Byron :[0m ya[0m
+[21:43] [0m[31;1m[Clan] Byron :[0m I ahve +3 on a ROH too[0m
+[21:43] [0m[31;1m[Clan] Byron :[0m atm[0m
+[21:43] [0m[31;1m[Clan] Byron :[0m for mining[0m
+[21:44] [0m[31;1m[Clan] Ser :[0m if you need anything xmuted lemme know[0m
+[21:44] [0m[31;1m[Clan] Byron :[0m I just want to use this other legendary gem i made[0m
+[21:44] [0m[31;1m[Clan] Byron :[0m and need 5 titanium bars[0m
+[21:44] [0m[31;1m[Clan] Byron :[0m I thought I was there[0m
+[21:44] [0m[31;1m[Clan] Ser :[0m i should go on a crafting kick to finish out transmuter[0m
+[21:44] [0m[31;1m[Clan] Byron :[0m But now I'm back to 0[0m
+[21:45] [0m[31;1m[Clan] Byron :[0m cause of them all fucking being superior[0m
+[21:45] [0m[31;1m[Clan] Ser :[0m want me to mine foe you[0m
+[21:45] [0m[31;1m[Clan] Byron :[0m if you want sure[0m
+[21:45] [0m[31;1m[Clan] Ser :[0m is my miner helpful[0m
+[21:45] [0m[31;1m[Clan] Teg :[0m Yeah, you should definitely go on a mining spree to max my[0m
+[21:45] [0m             transmuter. Good idea, Ser![0m
+[21:45] [0m[31;1m[Clan] Byron :[0m very[0m
+[21:45] [0m[31;1m[Clan] Ser :[0m good[0m
+[21:45] [0m[31;1m[Clan] Byron :[0m I literally hmflee/teleport out of the miner if your script[0m
+[21:45] [0m               fucks up[0m
+[21:46] [0m[31;1m[Clan] Byron :[0m Cause I have no idea what i'm doing otherwise[0m
+[21:46] [0m[31;1m[Clan] Byron :[0m I hate mining and crafting in general[0m
+[21:46] [0m[31;1m[Clan] Ser :[0m i think i did a good job w it[0m
+[21:46] [0m[31;1m[Clan] Byron :[0m But I like +stats[0m
+[21:46] [0m[31;1m[Clan] Byron :[0m I agree[0m
+[21:46] [0m[31;1m[Clan] Ser :[0m and the mines are mappable[0m
+[21:47] [0m[31;1m[Clan] Ser :[0m and the miner enters/exits at the sameplace each level since[0m
+[21:47] [0m             you can pick floors now[0m
+[21:47] [0m[31;1m[Clan] Byron :[0m I'm making the 2=handed spear since thats what oscar can get[0m
+[21:47] [0m               a major gem into... 5 titanium bars, hematites, and 3 mithril[0m
+[21:47] [0m               shards[0m
+[21:47] [0m[31;1m[Clan] Teg :[0m nog, no more having to drop down chutes[0m
+[21:47] [0m[31;1m[Clan] Byron :[0m I think I have everything else[0m
+[21:48] [0m[31;1m[Clan] Ser :[0m you doing it this boot or next[0m
+[21:48] [0m[31;1m[Clan] Byron :[0m this boot[0m
+[21:48] [0m[31;1m[Clan] Byron :[0m cause its wrangled[0m
+[21:48] [0m[31;1m[Clan] Ser :[0m oooohhhhh[0m
+[21:48] [0m[31;1m[Clan] Byron :[0m I can't stash it for next[0m
+[21:48] [0m[31;1m[Clan] Byron :[0m Which is whty I'm pissed off about losing all that titanium[0m
+[21:48] [0m               ore[0m
+[21:49] [0m[31;1m[Clan] Byron :[0m after blowing all my xmutes getting it close[0m
+[21:49] [0m[31;1m[Clan] Byron :[0m i wonder if i can xmute ebon bar to titanium 1:1[0m
+[21:49] [0m[31;1m[Clan] Byron :[0m or adamanitum[0m
+[21:50] [0m[31;1m[Clan] Teg :[0m I know you can transmute between types, but never done it and[0m
+[21:50] [0m             not sure about ore/bars[0m
+[21:50] [0m[31;1m[Clan] Byron :[0m gonna try[0m
+[21:50] [0m[31;1m[Clan] Teg :[0m try with just one[0m
+[21:50] [0m[31;1m[Clan] Ser :[0m i should add a prospect variable[0m
+[21:51] [0m[31;1m[Clan] Oscar :[0m hmmm[0m
+[21:51] [0m[31;1m[Clan] Oscar :[0m dont think i can[0m
+[21:51] [0m[31;1m[Clan] Oscar :[0m maybe as a bar ?[0m
+[21:52] [0m[31;1m[Clan] Oscar :[0m nope[0m
+[21:52] [0m[31;1m[Clan] Oscar :[0m cant[0m
+[21:53] [0mOscar <Craft>: Anyone got legendary titanium bars they aren't going to use?[0m
+[21:54] [0mDin <Craft>: i've got 3 legendary bars[0m
+[21:55] [0m[31;1m[Clan] Byron :[0m got 3 bars for din[0m
+[21:55] [0m[31;1m[Clan] Byron :[0m from*[0m
+[21:59] [0mEli <Craft>: you guys are making me want to craft[0m
+[22:03] [0m[31;1m[Clan] Ser :[0m titanium?[0m
+[22:04] [0m[31;1m[Clan] Taleast :[0m no, mahogany[0m
+[22:04] [0m[31;1m[Clan] Taleast :[0m Din gave Byron wood[0m
+[22:06] [0mYou can currently reforge 12 items.[0m
+[22:06] [0m[31;1m[Clan] Ser :[0m i have something like 400 chaostone ore to transmute when i hit[0m
+[22:06] [0m             90[0m
+[22:07] [0m[31;1m[Clan] Ser :[0m that was easier to max than transmuter ffs[0m
+[22:07] [0m[31;1m[Clan] Ser :[0m i should just buy hearts[0m
+[22:09] [0m[31;1m[Clan] Ser :[0m you just want the bars?  or you have colors for ore?[0m
+[22:10] [0m[31;1m[Clan] Byron :[0m ya titanium[0m
+[22:10] [0m[31;1m[Clan] Byron :[0m I only need 2 more bars[0m
+[22:11] [0m[31;1m[Clan] Byron :[0m I blew all my colors xmuting stuf fup[0m
+[22:11] [0m[31;1m[Clan] Ser :[0m i have 11[0m
+[22:11] [0m[31;1m[Clan] Byron :[0m fuck yeah[0m
+[22:11] [0m[31;1m[Clan] Byron :[0m can i get 2?[0m
+[22:11] [0m[31;1m[Clan] Ser :[0m you can have em all i mined em for ya[0m
+[22:11] [0m[31;1m[Clan] Byron :[0m how the fuck you get 11 lgendary ?[0m
+[22:11] [0m[31;1m[Clan] Byron :[0m i've been mining all day for nothging[0m
+[22:11] [0m[31;1m[Clan] Ser :[0m i mined 55 ore total[0m
+[22:12] [0m[31;1m[Clan] Ser :[0m and 6 were legendary, xmuted rest to legendary, inserted all[0m
+[22:12] [0m             into smelter, smelt'ed, poof 11[0m
+[22:12] [0m[31;1m[Clan] Ser :[0m boxed[0m
+[22:13] [0m[31;1m[Clan] Oscar :[0m god damn[0m
+[22:13] [0m[31;1m[Clan] Oscar :[0m ty[0m
+[22:14] [0m[31;1m[Clan] Ser :[0m i dont know what is more efficient for transmuter, transmuting[0m
+[22:14] [0m             ore up or prospecting and transmuting ingredients[0m
+[22:14] [0m[31;1m[Clan] Ser :[0m i guess ore probably huh[0m
+[22:15] [0m[31;1m[Clan] Oscar :[0m sounds like it[0m
+[22:15] [0m[31;1m[Clan] Oscar :[0m ty[0m
+[22:15] [0m[31;1m[Clan] Oscar :[0m was able to make spear[0m
+[22:15] [0m[31;1m[Clan] Oscar :[0m lets lore it now[0m
+[22:15] [0m[31;1m[Clan] Ser :[0m o/[0m
+[22:15] [0m[31;1m[Clan] Byron :[0m laf[0m
+[22:15] [0m[31;1m[Clan] Byron :[0m garbage[0m
+[22:15] [0m[31;1m[Clan] Ser :[0m damnit i forgot to escape the first \[0m
+[22:16] [0m[31;1m[Clan] Taleast :[0m expensive and time-consuming garbage![0m
+[22:16] [0m[31;1m[Clan] Ser :[0m expected, most are[0m
+[22:16] [0m[31;1m[Clan] Byron :[0m it's literally no better than the one w/o the major[0m
+[22:16] [0m               aggression gem[0m
+[22:16] [0m[31;1m[Clan] Taleast :[0m but, you still have the satisfaction of putting your all[0m
+[22:16] [0m                 into somethin[0m
+[22:16] [0m[31;1m[Clan] Ser :[0m could probably make one with fucking great regen top end tho[0m
+[22:16] [0m[31;1m[Clan] Byron :[0m can you see the wc?[0m
+[22:16] [0m[31;1m[Clan] Byron :[0m i put both in box[0m
+[22:16] [0m[31;1m[Clan] Ser :[0m yah[0m
+[22:16] [0m[31;1m[Clan] Byron :[0m i want to see how much more ac the 2-handed w/ major blades[0m
+[22:16] [0m               aggression has[0m
+[22:16] [0m[31;1m[Clan] Byron :[0m err wc[0m
+[22:17] [0m[31;1m[Clan] Ser :[0m 35/30[0m
+[22:17] [0m[31;1m[Clan] Byron :[0m laf[0m
+[22:17] [0m[31;1m[Clan] Byron :[0m you're joking[0m
+[22:17] [0m[31;1m[Clan] Ser :[0m nope[0m
+[22:17] [0m[31;1m[Clan] Byron :[0m such garbage[0m
+[22:17] [0m[31;1m[Clan] Taleast :[0m it may need rebalancing[0m
+[22:18] [0m[31;1m[Clan] Taleast :[0m a little[0m
+[22:18] [0m[31;1m[Clan] Byron :[0m my feedback on crafting when i ptested it 10 years ago was[0m
+[22:18] [0m               that the weapons were garbage[0m
+[22:18] [0m[31;1m[Clan] Byron :[0m and doesnt look like thats been cahnged[0m
+[22:18] [0m[31;1m[Clan] Byron :[0m it should at least be like...laser sword quality[0m
+[22:18] [0m[31;1m[Clan] Ser :[0m yeah but look how many gems you can put in a chaostone weapon[0m
+[22:20] [0m[31;1m[Clan] Byron :[0m 3?[0m
+[22:20] [0m[31;1m[Clan] Ser :[0m even the dagger is 2 major gems so you could have +36 in a stat[0m
+[22:20] [0m             before gemchant[0m
+[22:20] [0m[31;1m[Clan] Byron :[0m yeah, that's exactly why I'm doing crafting[0m
+[22:20] [0m[31;1m[Clan] Byron :[0m for the +stats[0m
+[22:20] [0m[31;1m[Clan] Byron :[0m But I fucking hate every second of it[0m
+[22:20] [0m[31;1m[Clan] Byron :[0m It's awful[0m
+[22:21] [0m[31;1m[Clan] Byron :[0m Every part of it mostly[0m
+[22:21] [0m[31;1m[Clan] Byron :[0m I would rather actually be risking my life somewhere in west[0m
+[22:21] [0m               virginia[0m
+[22:21] [0m[31;1m[Clan] Byron :[0m Praying for coal[0m
+[22:21] [0m[31;1m[Clan] Yik :[0m laff[0m
+[22:26] [0m[31;1m[Clan] Ser :[0m woo transmuter 89[0m
+[22:26] [0m[31;1m[Clan] Byron :[0m woot[0m
+[22:26] [0m[31;1m[Clan] Taleast :[0m woot![0m
+[22:27] [0m[31;1m[Clan] Byron :[0m you can xmute cocoon w/o any mods?[0m
+[22:27] [0m[31;1m[Clan] Ser :[0m i enhance and xmute cocoon[0m
+[22:27] [0m[31;1m[Clan] Ser :[0m havent been able to do taco + enhanced tho[0m
+[22:28] [0m[31;1m[Clan] Sock wiggles on your foot.[0m  [0m
+[22:28] [0m[31;1m[Clan] Taleast :[0m surprises me though that cocoon can be transmuted but,[0m
+[22:28] [0m                 based upon emotes, there isn't a 3k character in existence[0m
+[22:28] [0m                 that could transmute an enhanced and smeared pitch black or[0m
+[22:28] [0m                 twilight armour[0m
+[22:28] [0m[31;1m[Clan] Taleast :[0m cocoon seems better[0m
+[22:28] [0m[31;1m[Clan] Sock :[0m laf 67 hearts of damnation on sock[0m
+[22:29] [0m[31;1m[Clan] Taleast :[0m damn[0m
+[22:36] [0m[31;1m[Clan] Anecdote enters the game.[0m  [0m
+[22:37] [0m[31;1m[Clan] Byron :[0m night[0m
+[22:37] [0m[31;1m[Clan] Karvec enters the game.[0m  [0m
+[22:37] [0m[31;1m[Clan] Byron :[0m lots of junk in the cboxes[0m
+[22:37] [0m[31;1m[Clan] Byron :[0m for xmuters[0m
+[22:37] [0m[31;1m[Clan] Byron :[0m btw[0m
+[22:37] [0m[31;1m[Clan] Ser :[0m phasemetal+?[0m
+[22:37] [0m[31;1m[Clan] Byron :[0m nah[0m
+[22:38] [0m[31;1m[Clan] Byron :[0m i'm still too low prolly[0m
+[22:38] [0m[31;1m[Clan] Byron :[0m obsidian is max[0m
+[22:38] [0m[31;1m[Clan] Byron :[0m i'm at[0m
+[22:38] [0m[31;1m[Clan] Byron :[0m just about to get into nethernium[0m
+[23:06] [0mYou can currently reforge 12 items.[0m

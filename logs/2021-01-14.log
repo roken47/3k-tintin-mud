@@ -1,0 +1,420 @@
+- = LOG STARTED [00:00] = -
+[08:53] [0m[31;1m[Clan] Roken wisps into existence.[0m  [0m
+[08:53] [0mYou can currently reforge 0 items.[0m
+[09:08] [0mYou can currently reforge 4 items.[0m
+[09:39] [0m[34;1mTony shouts:[0m Section Z > 3k   (according to Wert)[0m
+[09:40] [0m[34;1mZiphe shouts:[0m 3k + sz = 3k * xp[0m
+[09:41] [0m[34;1mSally shouts:[0m secZ , Rim, Hotel, Tree, Silver Blue   all good places[0m
+[09:41] [0m[34;1mAka shouts:[0m i like Fraggle Rock[0m
+[10:08] [0mYou can currently reforge 8 items.[0m
+[10:39] [0m[34;1mTex shouts:[0m caffinated rules all else drools[0m
+[10:49] [0m[37;1mDerfus flaps :[0m Beerfest might be canceled again due to covid.[0m
+[10:49] [0m[37;1mInix flaps :[0m due to lack of hustle[0m
+[11:00] [0m[34;1mDerfus shouts:[0m If that's the clone, you better hope you don't run into the[0m
+[11:00] [0m               original.[0m
+[11:14] [0m[31;1m[Clan] Byron leaves the game.[0m  [0m
+[11:15] [0m[31;1m[Clan] Toren enters the game.[0m  [0m
+[11:16] [0m[31;1m[Clan] Toren leaves the game.[0m  [0m
+[11:17] [0m[31;1m[Clan] Oscar enters the game.[0m  [0m
+[11:28] [0mYou can currently reforge 12 items.[0m
+[11:43] [0mYou can currently reforge 0 items.[0m
+[11:49] [0m[36m<BS> Prismal[0m smacks the cat in your honor!!!  WOO WOO!![0m
+[12:09] [0m[31;1m[Clan] Oscar :[0m anyone happem to have a low alt or something i could get[0m
+[12:09] [0m               their sector z?[0m
+[12:09] [0m[31;1m[Clan] Oscar :[0m scaler 85 or 90ish[0m
+[12:22] [0m[37;1mCrolack flaps :[0m Siegfried and Roy reunite - https://tinyurl.com/y4rlo7uj[0m
+[12:23] [0m[31;1m[Clan] Decav :[0m you're welcome to join my 93 and we can race for mobs :O[0m
+[12:23] [0m[31;1m[Clan] Decav :[0m tho only like 8 floors left[0m
+[12:28] [0mYou can currently reforge 4 items.[0m
+[12:30] [0m[31;1m[Clan] Oscar :[0m i'm trying 97[0m
+[12:30] [0m[31;1m[Clan] Oscar :[0m i know i can do it, but it's not sustainable[0m
+[12:30] [0m[31;1m[Clan] Oscar :[0m didnt feel like leaving/corpse running[0m
+[12:30] [0m[31;1m[Clan] Decav :[0m nog, in my testing 94 is where it started to make me wimpy[0m
+[12:30] [0m               reliably. 93 is fine and where i'm grinding at now[0m
+[12:30] [0m[31;1m[Clan] Decav :[0m w/ p.sphere at 500 mantle at 1[0m
+[12:31] [0m[31;1m[Clan] Oscar :[0m i need to figure out the psphere conting that works[0m
+[12:31] [0m[31;1m[Clan] Oscar :[0m why mantle 1?[0m
+[12:31] [0m[31;1m[Clan] Decav :[0m seems fine at 1, e/b not really hitting me much at all. im[0m
+[12:31] [0m               also tanking unslowed for more gxp[0m
+[12:32] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[12:32] [0m[31;1m[Clan] Decav :[0m its the cloud eyes and soldiers specials that start to hurt[0m
+[12:32] [0m[31;1m[Clan] Decav :[0m oh hmm, you know i used to do 95 once upon a time with[0m
+[12:32] [0m               pws/atrophy/slow, that might make it less corpse intensive at[0m
+[12:32] [0m               97[0m
+[12:33] [0m[31;1m[Clan] Decav :[0m i had better smd then, only at ok this boot[0m
+[12:33] [0m[31;1m[Clan] Decav :[0m try tossing in some atrophies on cloud eyes, should make it[0m
+[12:33] [0m               more efficient[0m
+[12:34] [0m[31;1m[Clan] Decav :[0m also dunno if you saw/care, $COF is a thing now too for mage[0m
+[12:34] [0m               hpbar[0m
+[12:34] [0m[31;1m[Clan] Oscar :[0m hmm will do[0m
+[12:34] [0m[31;1m[Clan] Oscar :[0m ty[0m
+[12:34] [0m[31;1m[Clan] Oscar :[0m I dont use mage hpbar, I use MIP[0m
+[12:34] [0m[31;1m[Clan] Decav :[0m ahh right[0m
+[12:34] [0m[31;1m[Clan] Oscar :[0m but nice to have that now[0m
+[12:34] [0m[31;1m[Clan] Oscar :[0m I wish there was a universal set of options from MIP[0m
+[12:34] [0m[31;1m[Clan] Oscar :[0m with that kind of info[0m
+[12:35] [0m[31;1m[Clan] Oscar :[0m so its agnostic across gobjs[0m
+[12:35] [0m[31;1m[Clan] Decav :[0m yeah the MIP implementation left me still wanting. though i[0m
+[12:35] [0m               finally got a little fremen up and running on 3s using 3kdb,[0m
+[12:35] [0m               andw orking on porting decav over slowly[0m
+[12:35] [0m[31;1m[Clan] Decav :[0m but i didnt use MIP. i just used the hpbar / normal captures[0m
+[12:36] [0m[31;1m[Clan] Oscar :[0m nog[0m
+[12:36] [0m[31;1m[Clan] Oscar :[0m I use a hybrid on some chars[0m
+[12:36] [0m[31;1m[Clan] Oscar :[0m there's some stuff you can only get w/ MIMP[0m
+[12:36] [0m[31;1m[Clan] Oscar :[0m MIP*[0m
+[12:45] [0m[34;1mLocrian shouts:[0m YAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1[0m
+[13:29] [0m[37;1mEcholoc flaps :[0m “When life gives you lemons, don't make lemonade. Make[0m
+[13:29] [0m                life take the lemons back! Get mad! I don't want your[0m
+[13:29] [0m                lemons, what am I supposed to do with these? Demand to see[0m
+[13:29] [0m                life's manager! Make life rue the day it thought it could[0m
+[13:29] [0m                give Cave Johnson lemons! Do you know who I am? I'm the man[0m
+[13:29] [0m                who's gonna burn your house down! With the lemons! I'm gonna[0m
+[13:29] [0m                get my engineers to invent a combustible lemon that burns[0m
+[13:29] [0m                your house down!” - Cave Johnson[0m
+[13:30] [0m[37;1mGik flaps :[0m we're throwing science at the wall and seeing what sticks[0m
+[13:30] [0m[37;1mEcholoc flaps :[0m She is married, To Science![0m
+[13:39] [0m[37;1mLocrian flaps :[0m lemons can conduct electricity actually. so, i'm sure with[0m
+[13:39] [0m                some flammable items, like dryer lint, you could at least[0m
+[13:39] [0m                successully start a fire.[0m
+[13:39] [0m[37;1mZartan flaps :[0m Potato's do also[0m
+[13:40] [0m[37;1mLocrian flaps :[0m yep.[0m
+[13:40] [0m[37;1mGaidin flaps :[0m With enough electricity, *anything* is conductive.[0m
+[13:40] [0m[37;1mZartan flaps :[0m Potatos generate it also[0m
+[13:40] [0m[37;1mZartan flaps :[0m gotta set em up properly.[0m
+[13:41] [0m[37;1mGik flaps :[0m we should have a potato science fair[0m
+[13:41] [0m[37;1mZartan flaps :[0m Im in![0m
+[13:44] [0m[37;1mTuba flaps :[0m and a bring your daughter to work day[0m
+[13:44] [0m[37;1mGik flaps :[0m just leave em in the employee daycare center[0m
+[13:44] [0m[37;1mGaidin flaps :[0m https://lmgtfy.app/?q=irish+scientists[0m
+[13:45] [0m[37;1mEcholoc flaps :[0m i may try and get the kids to start playing... bring your[0m
+[13:45] [0m                daughter to mud day![0m
+[13:45] [0m[37;1mRhyson flaps :[0m don't do it! they'll end up more bs twice as fast[0m
+[13:45] [0m[37;1mTuba flaps :[0m Estas usando este software de traduccion de forma incorrecta.[0m
+[13:45] [0m             Por favor consulta el manual.[0m
+[13:46] [0m[37;1mZartan flaps :[0m holy crap i can read spanish![0m
+[13:46] [0m[37;1mZartan flaps :[0m Mucho Gusto![0m
+[13:46] [0m[37;1mEcholoc flaps :[0m i really dont mind other people becoming BS :)[0m
+[13:46] [0m[37;1mZartan flaps :[0m im going to let my kid play my char[0m
+[13:47] [0m[37;1mZartan flaps :[0m 3k taught me to type faster[0m
+[13:47] [0m[37;1mAdalius flaps :[0m Sorry my 'wipe someone for allowing multiple people to play[0m
+[13:47] [0m                their character' alarm bell just went off, what'd I miss?[0m
+[13:47] [0m[37;1mEcholoc flaps :[0m prebuilt party! :)[0m
+[13:47] [0m[37;1mZartan flaps :[0m my kid is like 18mo old. she can read fine.[0m
+[13:47] [0m[34;1mDaeth shouts:[0m I think kids count as clones tho right?[0m
+[13:47] [0m[37;1mRhyson flaps :[0m It may be a TOS violation, but meh. I'm gonna write a book on[0m
+[13:47] [0m               mudding: The Four-Hour Mudweek. And outsource grinding my[0m
+[13:47] [0m               characters.[0m
+[13:48] [0m[37;1mZartan flaps :[0m Chinese gold miners[0m
+[13:48] [0m[34;1mLiskerlol shouts:[0m its my wifes account!  we just share the same computer.[0m
+[13:48] [0m[34;1mZartan shouts:[0m Thats what they all claim![0m
+[13:48] [0m[37;1mRhyson flaps :[0m The only thing more dangerous than adventuring Tensor areas[0m
+[13:48] [0m               on 3k? Satire.[0m
+[13:48] [0m[34;1mVolt shouts:[0m Nobody would marry a mudder[0m
+[13:49] [0m[37;1mZartan flaps :[0m 3k has an Inquistion force they send to your home to verrify[0m
+[13:49] [0m               your account[0m
+[13:49] [0m[37;1mZartan flaps :[0m they probe your anus also[0m
+[13:49] [0m[37;1mZartan flaps :[0m w/l[0m
+[13:50] [0m[37;1mLiskerlol flaps :[0m come on over to verify.  bring beers and steaks.[0m
+[13:53] [0m[37;1mZartan flaps :[0m =-j[0m
+[14:03] [0m[37;1mZartan flaps :[0m Verify, yes Verryl[0m
+[14:03] [0mYou can currently reforge 8 items.[0m
+[14:08] [0m[34;1mLocrian shouts:[0m DOUBLE YAY!!!!!!!!!!!!!!!!!!!!!!!!!![0m
+[14:10] [0m[34;1mVolt shouts:[0m get back to the bridge.  frost giants will invade[0m
+[14:28] [0m[36m<BS> Taris :[0m Focus?  Just mowing 'em down.  Whereas freeform is a super long[0m
+[14:28] [0m             fight.  Whatever, I need the xp.  Focus it is![0m
+[14:30] [0m[36m<BS> Prismal :[0m interesting, I see about the same dmg in either form[0m
+[14:30] [0m[36m<BS> Taris :[0m Funny what 900 glvls will do, eh?[0m
+[14:31] [0m[36m<BS> Prismal :[0m stop being such a slacker[0m
+[14:31] [0m[36m<BS> Taris :[0m I am a slacker.  I didn't go hunting once this season.[0m
+[14:31] [0m[36m<BS> Zokko :[0m frank already told us it would be across the board[0m
+[14:31] [0m[36m<BS> Prismal :[0m I appreciate that I don't feel bad when I'm not tanking now[0m
+[14:32] [0m[36m<BS> Zokko :[0m all the modes are about even for dmg, which to me made it way[0m
+[14:32] [0m             more viable to be tank or non-tank without destroying my[0m
+[14:32] [0m             ability to hit[0m
+[14:33] [0m[36m<BS> Zokko :[0m yea exactly. now we are pretty even with the other guilds that[0m
+[14:33] [0m             get gxp for healing. they mostly can do the same amount of dmg[0m
+[14:33] [0m             regardless[0m
+[14:33] [0m[36m<BS> Zokko :[0m to me thats a huge boon[0m
+[14:33] [0m[36m<BS> Taris :[0m While that may be true at big boy size, at little boy size, if[0m
+[14:33] [0m             I'm throwing out 1000 damage per round in 2 hits vs 1000 damage[0m
+[14:33] [0m             in 7 hits, the 2 hits doesn't get stopped short as badly by mob[0m
+[14:33] [0m             AC[0m
+[14:33] [0m[36m<BS> Zokko :[0m on top of letting us have unfettered romp for 2 boots at the[0m
+[14:33] [0m             end of the year[0m
+[14:34] [0m[36m<BS> Zokko :[0m it depends on what your fighting tbh[0m
+[14:34] [0m[36m<BS> Zokko :[0m if you fighting stuff that super dodging, freeform might be[0m
+[14:34] [0m             better[0m
+[14:34] [0m[36m<BS> Zokko :[0m at your level you really shouldnt be though[0m
+[14:34] [0m[36m<BS> Taris :[0m Chess pieces do dodge at this scale but not too badly.[0m
+[14:34] [0m[36m<BS> Zokko :[0m either mode should be about the same[0m
+[14:34] [0m[36m<BS> Prismal :[0m yeah, I base all my stuff on numbers giving total dmg done at[0m
+[14:34] [0m               the end of the round[0m
+[14:35] [0m[36m<BS> Prismal :[0m I ignore dmg per hit[0m
+[14:35] [0m[36m<BS> Taris :[0m I don't have numbers so I have to gauge by xp rate[0m
+[14:36] [0m[36m<BS> Zokko :[0m xp rate will go up or down depending on how fast you can kill,[0m
+[14:36] [0m             so if you fighting stuff that gives more gxp than your xp rate[0m
+[14:36] [0m             will probably dip[0m
+[14:36] [0m[36m<BS> Taris :[0m But to that end, in freeform vs chess pieces I pull about 4.6,[0m
+[14:36] [0m             4.7M / 30[0m
+[14:36] [0m[36m<BS> Xiu :[0m well as far as tanking or not tanking you still take a huge gxp[0m
+[14:36] [0m           nerf for not tanking which kind of sucks[0m
+[14:36] [0m[36m<BS> Taris :[0m Right now I'm at 5.5 and I've been on for what, 15 minutes?[0m
+[14:37] [0m[36m<BS> Zokko :[0m yea so do monks[0m
+[14:37] [0m[36m<BS> Zokko :[0m and borg[0m
+[14:37] [0m[36m<BS> Prismal :[0m I'm fine with that as a trade off, right now we dont' have a[0m
+[14:37] [0m               lot of downsides anymore[0m
+[14:38] [0m[36m<BS> Zokko :[0m yea before it was damn near pointless to not tank[0m
+[14:38] [0m[36m<BS> Zokko :[0m your dmg was just gimped[0m
+[14:38] [0m[36m<BS> Taris :[0m Not mine!  *snicker snicker*[0m
+[14:38] [0m[36m<BS> Zokko :[0m post 65[0m
+[14:38] [0m[36m<BS> Prismal :[0m focused might be better at Taris's glv since I assume focused[0m
+[14:38] [0m               still has more penetration, and he may not have enough glev[0m
+[14:38] [0m               bonus to offset that in freeform yet[0m
+[14:39] [0m[36m<BS> Zokko :[0m maybe. i didnt do a lot of testing with any other mode at low[0m
+[14:39] [0m             level tbh :)[0m
+[14:39] [0m[36m<BS> Zokko :[0m i used freeform 99% of the time[0m
+[14:39] [0m[36m<BS> Xiu :[0m well you'd have been testing at low level with the old maths[0m
+[14:39] [0m           anyway[0m
+[14:39] [0m[36m<BS> Taris :[0m Well, as an old fucker, as soon as you got 2 attacks in[0m
+[14:39] [0m             focused, that's what you did for...  until you got delayed, and[0m
+[14:39] [0m             then passive.[0m
+[14:40] [0m[36m<BS> Zokko :[0m yea but i would have tested the viability of it. ive used way[0m
+[14:40] [0m             more now. i actually used in event[0m
+[14:40] [0m[36m<BS> Taris :[0m Then when freeform changed it was WAY nice rendering focused[0m
+[14:40] [0m             obsolete, and allegedly delayed (which I couldn't have tested)[0m
+[14:40] [0m[36m<BS> Zokko :[0m overall the change to modes dmg is beneficial imo[0m
+[14:41] [0m[36m<BS> Taris :[0m At big fella size I'm sure it's lovely.  At my size, it makes[0m
+[14:41] [0m             freeform suck again.  :P[0m
+[14:41] [0m[36m<BS> Taris :[0m Doesn't stop me from using it though.  I'm silly like that.[0m
+[14:42] [0m[36m<BS> Zokko :[0m i mean prismal and xiu are the only ones who didnt take a hit[0m
+[14:43] [0m[36m<BS> Taris :[0m Right now I'm at 8.3M/30 which is not quite double what I can[0m
+[14:43] [0m             do in freeform on these mobs.  And I think it's more than I got[0m
+[14:43] [0m             before in freeform so technically this is an upgrade.[0m
+[14:43] [0m[36m<BS> Zokko :[0m and if you raise your glvl you raise your dmg ;0[0m
+[14:43] [0m[36m<BS> Taris :[0m 78.105%...[0m
+[14:44] [0m[36m<BS> Taris :[0m Of course, here in about 15 minutes I'm gonna go lift.  Pesky[0m
+[14:44] [0m             real life.[0m
+[14:44] [0m[36m<BS> Zokko :[0m hehe i still play when i run, i just check in every 10 mins[0m
+[14:45] [0m[36m<BS> Taris :[0m I don't.  Get up at about 0630, wake up a little bit while I[0m
+[14:45] [0m             wait for sunrise and the park to be open, go run.  Come home,[0m
+[14:45] [0m             THEN goof off.[0m
+[14:46] [0m[36m<BS> Zokko :[0m i dont run outside[0m
+[14:46] [0m[36m<BS> Zokko :[0m well outside my house ;0[0m
+[14:46] [0m[36m<BS> Taris :[0m Unless school's in.  Then it's get up at 0500, leave the house[0m
+[14:46] [0m             by about 0520, meet up with the students at 0600, and then[0m
+[14:46] [0m             smoke the snot out of 'em for an hour.[0m
+[14:47] [0m[36m<BS> Zokko :[0m last year son and i got stopped by the police while jogging at[0m
+[14:47] [0m             night in runners gear, so i went and got a treadmill[0m
+[14:48] [0m[36m<BS> Zokko :[0m actually end of 2019, my bad 2020 totally fucked my timetables[0m
+[14:48] [0m[36m<BS> Taris :[0m 11M/30.  Focus does WAY better.[0m
+[14:49] [0m[36m<BS> Taris :[0m In March 2020 I messed up my already bad knee while working on[0m
+[14:49] [0m             a tree stump in the front yard.  Spent the rest of the year[0m
+[14:49] [0m             trying to get back up to speed.[0m
+[14:50] [0m[36m<BS> Taris :[0m But I run in the morning.  The park opens at sunrise so the[0m
+[14:50] [0m             cops don't give a fuck as long as there's light.[0m
+[14:51] [0m[36m<BS> Taris :[0m Of course, I did forget what time the sun came up one morning[0m
+[14:51] [0m             and ran the track in the dark.  Never again.  My knees and[0m
+[14:51] [0m             ankles aren't up to the task of running on an uneven gravel[0m
+[14:51] [0m             track with tree roots in the dark.[0m
+[14:51] [0m[36m<BS> Taris :[0m Sometimes I'm not that bright.  No sunrise pun intended.[0m
+[14:59] [0m[36m<BS> Taris :[0m Yeah.  Looks like about 12M to 13M per 30 minutes vs 4.5M in[0m
+[14:59] [0m             freeform.  Just in case we get new recruits.[0m
+[15:03] [0mYou can currently reforge 12 items.[0m
+[15:07] [0m[34;1mHeffalump shouts:[0m woooooo[0m
+[15:07] [0m[34;1mDaeth shouts:[0m NUMBERS>letters!![0m
+[15:07] [0m[34;1mEcholoc shouts:[0m woot[0m
+[15:07] [0m[34;1mSimonz shouts:[0m looks like the same font size to me[0m
+[15:08] [0mYou can currently reforge 0 items.[0m
+[15:41] [0m[Auction] Robert : Up for bids: Balangool Boots (Bright Green Aura) and[0m
+[15:41] [0m                   Balangool Gloves (Bright Green Aura).[0m
+[15:41] [0m[Auction] Robert : Ziphe has requested 5,000 as the opening offer.[0m
+[15:41] [0m[Auction] Ziphe (prie) : scaler 148 +19 wis/dex[0m
+[15:42] [0m[Auction] Robert : Got 5,000 from Sally(jedi).  Do I hear 5,250?[0m
+[15:42] [0m[Auction] Robert : 5,000 going once![0m
+[15:42] [0m[Auction] Robert : 5,000 going twice![0m
+[15:42] [0m[34;1mNauda shouts:[0m unstoppable bot meets an immovable object[0m
+[15:42] [0m[Auction] Robert : Sold to Sally for 5,000 coins![0m
+[16:03] [0mYou can currently reforge 4 items.[0m
+[16:24] [0m[31;1m[Clan] Falthrice enters the game.[0m  [0m
+[16:24] [0m[31;1m[Clan] Prism :[0m ITS SZOOOOOOOOOOOOOOOOO and hes gone okay that was cool tho[0m
+[17:03] [0mYou can currently reforge 8 items.[0m
+[17:18] [0m[34;1mNightrider shouts:[0m Are we there Yet??[0m
+[17:23] [0m[37;1mCaeli flaps :[0m Do lawyers have to go through metal detectors at courthouses?[0m
+[17:23] [0m[37;1mEcholoc flaps :[0m why would they get a pass?[0m
+[17:23] [0m[37;1mMaverik flaps :[0m does a duck with a boner drag weeds?[0m
+[17:24] [0m[37;1mTurnhold flaps :[0m you're spare parts, aren't ya bud?[0m
+[17:24] [0m[37;1mCaeli flaps :[0m I'm having a discussion on whether or not members of Congress[0m
+[17:24] [0m              should have to go through one.[0m
+[17:24] [0m[37;1mSquirrel flaps :[0m a psyche eval? I agree[0m
+[17:25] [0m[37;1mEcholoc flaps :[0m everyone should go through. or it defeats the puropose[0m
+[17:25] [0m[37;1mEcholoc flaps :[0m nobody is special enough to bypass security measures.[0m
+[17:25] [0m[37;1mSer flaps :[0m they get to set the rules by which they govern themselves[0m
+[17:26] [0m[37;1mVerminous flaps :[0m Congress are the ones the metal detectors are supposed to[0m
+[17:26] [0m                  be protecting, amongst other politicians.[0m
+[17:27] [0m[37;1mWhoknows flaps :[0m ya know what's messed up? No industry is allowed to collude[0m
+[17:27] [0m                 to set pricing or wages, yet congress sets their own wages[0m
+[17:27] [0m                 and benefits[0m
+[17:27] [0m[37;1mStasis flaps :[0m they need Willy Wonker to set up the "bad egg" detectors at[0m
+[17:27] [0m               Congress.[0m
+[17:27] [0m[37;1mCaeli flaps :[0m But, they have one that wants to bring her Glock "lock and[0m
+[17:27] [0m              loaded" at all times.[0m
+[17:27] [0m[37;1mEcholoc flaps :[0m if that is legal then they shoudl be able to do it.[0m
+[17:28] [0m[37;1mEcholoc flaps :[0m still passing throug the detector. take it off, hand it[0m
+[17:28] [0m                over, pass through, get it back.[0m
+[17:31] [0m[37;1mWhoknows flaps :[0m if they've been trained in firearm use and handling I don't[0m
+[17:31] [0m                 see why they shouldn't be allowed to carry. but if any one[0m
+[17:31] [0m                 of them handles their firearm at a metal detector they need[0m
+[17:31] [0m                 to be slapped silly and banned from firearm use forever[0m
+[17:31] [0m[37;1mEcholoc flaps :[0m just like your keys, remove it, put it in the box, get it[0m
+[17:31] [0m                back on the other side.[0m
+[17:33] [0m[34;1mTex shouts:[0m but but but its all maveriks fault[0m
+[17:33] [0m[34;1mMaverik shouts:[0m it's not my fault dammit!![0m
+[17:53] [0m[32mMeeseeks tells you:[0m Hi! I'm Mr. Meeseeks![0m
+[17:53] [0m[34;1mPrism shouts:[0m Hi there![0m
+[17:53] [0m[34;1mGik shouts:[0m do you need help with somethin?[0m
+[17:54] [0m[34;1mTex shouts:[0m me seek it[0m
+[17:54] [0m[34;1mAlassra shouts:[0m Existence is pain![0m
+[17:54] [0m[34;1mDaeth shouts:[0m I caused you to kill yourself in the Rick & morty dnd game mr.[0m
+[17:54] [0m              Meseeks[0m
+[17:54] [0m[34;1mZiphe shouts:[0m existance is pain![0m
+[17:54] [0m[34;1mDerfus shouts:[0m That's life for you.[0m
+[17:54] [0m[34;1mSarge shouts:[0m Well, he roped me into this!![0m
+[17:55] [0m[34;1mRaest shouts:[0m I'm lookin' at ya![0m
+[17:56] [0m[32mSiem tells you:[0m To be fair, you have to have a very high IQ to understand[0m
+[17:56] [0m        Rick and Morty. The humor is extremely subtle, and without a solid[0m
+[17:56] [0m        grasp of theoretical physics most of the jokes will go over a[0m
+[17:56] [0m        typical viewer's head.[0m
+[17:56] [0m[34;1mPrism shouts:[0m My ex brother in law once told me I didn't like Big Bang[0m
+[17:56] [0m              Theory because I didn't understand the math.[0m
+[17:56] [0m[34;1mZiphe shouts:[0m Mr. Poopie Butthole doesn't think you need a high IQ[0m
+[17:56] [0m[34;1mSiem shouts:[0m laf[0m
+[17:56] [0m[34;1mMerrick shouts:[0m OOOOOOOOOOOOOOWWEEEEEEEEEEEEEEEEEEEEEEEEE[0m
+[17:57] [0m[34;1mRaest shouts:[0m my wife accidentally found a Plumbus for sale on etsy[0m
+[17:57] [0m[37;1mRhyson flaps :[0m So... been trying to work out more.... work out why the girls[0m
+[17:57] [0m               don't like my selfies on IG.[0m
+[17:57] [0m[37;1mRaest flaps :[0m dikpiks aren't "selfies"[0m
+[17:57] [0m[34;1mAlassra shouts:[0m Show Me What You Gottttt[0m
+[17:58] [0m[34;1mTurnhold shouts:[0m I LIKE WHAT YOU GOT[0m
+[18:00] [0m[34;1mMentok shouts:[0m woot?[0m
+[18:05] [0mYou can currently reforge 12 items.[0m
+[18:06] [0m[31;1m[Clan] Oscar :[0m new mage arcanum looks soooooo sick[0m
+[18:06] [0m[31;1m[Clan] Oscar :[0m woot woot woot[0m
+[18:07] [0m[31;1m[Clan] Gik :[0m whats that?[0m
+[18:07] [0m[31;1m[Clan] Oscar :[0m dunno yet, but alluding to an omega type second affect of[0m
+[18:07] [0m               spells[0m
+[18:07] [0m[31;1m[Clan] Gik :[0m ooo![0m
+[18:07] [0m[31;1m[Clan] Oscar :[0m where you put points into a spell to unlock other stuff it[0m
+[18:07] [0m               does[0m
+[18:07] [0m[31;1m[Clan] Gik :[0m sweet, i love puttin points in stuff![0m
+[18:08] [0m[31;1m[Clan] Oscar :[0m laf[0m
+[18:08] [0m[31;1m[Clan] Oscar :[0m put a knife into crack while youre at it[0m
+[18:09] [0m[31;1m[Clan] Gik :[0m haha! tryin to[0m
+[18:10] [0m[31;1m[Clan] Oscar :[0m not the good kind tho[0m
+[18:10] [0m[31;1m[Clan] Oscar :[0m the bad[0m
+[18:10] [0m[31;1m[Clan] Oscar :[0m pointy hat wearing kind[0m
+[18:10] [0m[37;1mCaeli flaps :[0m So, I woke up to a clean downstairs of my apartment 2 days in[0m
+[18:10] [0m              a row and laundry being done![0m
+[18:10] [0m[37;1mOscar flaps :[0m sounds like you got an intruded[0m
+[18:10] [0m[37;1mOscar flaps :[0m u strapped?[0m
+[18:11] [0m[37;1mOscar flaps :[0m intruder bah[0m
+[18:11] [0m[37;1mOscar flaps :[0m intruder bah[0m
+[18:11] [0m[37;1mCaeli flaps :[0m No, just a suddenly attentive SO. I wish I had the money for a[0m
+[18:11] [0m              gun and license.[0m
+[18:12] [0m[31;1m[Clan] Gik :[0m XD[0m
+[18:13] [0m[37;1mDerfus flaps :[0m I love these chromatic forks I got from Walmart, so shiny![0m
+[18:15] [0m[34;1mHeffalump shouts:[0m woooo[0m
+[18:19] [0m[37;1mNightrider flaps :[0m so you gpt rid of the guy and got a new SO[0m
+[18:19] [0m[37;1mNightrider flaps :[0m nice job[0m
+[18:22] [0m[37;1mDerfus flaps :[0m Rainbow chromatic silverware. :O[0m
+[18:26] [0m[37;1mDerfus flaps :[0m I got one of those bumper stickers that say honk if you think[0m
+[18:26] [0m               I'm sexy, then I sit at a green light making people honk[0m
+[18:26] [0m               their horns until I feel better.[0m
+[18:26] [0m[37;1mHealbot flaps :[0m I want a bumper sticker that says 'if you can read this[0m
+[18:26] [0m                you're too close' but i want it in braille[0m
+[18:29] [0m[37;1mEllegon flaps :[0m Sticker "Rocks get kicked up when you follow this close."[0m
+[18:29] [0m                then keep some spare rocks to toss at em.[0m
+[18:30] [0m[37;1mDerfus flaps :[0m That bumper sticker joke was from my trauma group. lol[0m
+[18:34] [0m[34;1mTex shouts:[0m cheese burger with mayo and tomatoes[0m
+[18:35] [0m[37;1mDerfus flaps :[0m Homemade Mac & Cheese for dinner here. Cheap and easy meal.[0m
+[18:35] [0m[37;1mDerfus flaps :[0m wl but whatever[0m
+[18:36] [0m[37;1mWhoknows flaps :[0m so homemade? u made the pasta, and cheese?[0m
+[18:36] [0m[37;1mDerfus flaps :[0m I milked a bunch of squirrels and such.[0m
+[18:36] [0m[37;1mWhoknows flaps :[0m at least it wasnt cats..[0m
+[18:37] [0m[37;1mDerfus flaps :[0m Oh next time![0m
+[18:37] [0m[37;1mDerfus flaps :[0m Actually that would be interesting making my own noodles.[0m
+[18:39] [0m[37;1mDerfus flaps :[0m I should find a gluten free noodle recipe, cheese is harder[0m
+[18:39] [0m               to make without the proper setup.[0m
+[18:48] [0m[36m<BS> Taris :[0m Oh how I enjoy this weapon.  Too bad it's lame.  (sad face)[0m
+[18:50] [0m[34;1mEcholoc shouts:[0m thanks[0m
+[19:05] [0mYou can currently reforge 12 items.[0m
+[19:17] [0m[34;1mNightrider shouts:[0m release the kracken Fart[0m
+[19:17] [0m[34;1mDerfus shouts:[0m Someone's baking brownies![0m
+[20:00] [0m[34;1mLocrian shouts:[0m YAY!!!!!!!!!!!!!!!!!!!!!!!![0m
+[20:02] [0m[31;1m[Clan] Oscar :[0m interesting comment from zan on the destroy thing[0m
+[20:02] [0m[31;1m[Clan] Oscar :[0m per hmhist[0m
+[20:05] [0mYou can currently reforge 12 items.[0m
+[20:13] [0m[34;1mTerran shouts:[0m 16 minutes to morgue cutoff...for those who are working on[0m
+[20:13] [0m               that[0m
+[20:19] [0m[31;1m[Clan] Decav leaves the game.[0m  [0m
+[20:19] [0m[31;1m[Clan] Sonaten enters the game.[0m  [0m
+[20:21] [0m[37;1mDerfus flaps :[0m I am an android killing other androids.[0m
+[20:24] [0m[31;1m[Clan] Ser :[0m reboot in 1 hr[0m
+[20:24] [0m[31;1m[Clan] Ser :[0m didnt even realize[0m
+[20:24] [0m[31;1m[Clan] Prism :[0m reboots suck![0m
+[20:29] [0m[37;1mZiphe flaps :[0m [*****] corpse {24}[0m
+[20:29] [0m[37;1mZiphe flaps :[0m very efficient these days[0m
+[20:34] [0mArmy shouts: Game reboot in 55 minutes 32 seconds [0m
+[20:34] [0m[37;1mDerfus flaps :[0m Reboot canceled.[0m
+[20:35] [0m[37;1mEcholoc flaps :[0m good luck with that[0m
+[20:35] [0m[37;1mZiphe flaps :[0m reboot is how the man holds me down, man[0m
+[20:48] [0mArmy shouts: Game reboot in 41 minutes 29 seconds [0m
+[20:56] [0m[34;1mEcholoc shouts:[0m my body is ready![0m
+[20:57] [0m[37;1mRaest flaps :[0m so who is the driving force behind wemudtogether?[0m
+[20:57] [0m[34;1mTex shouts:[0m the end is near cancel the circus blame maverik cancel voting[0m
+[20:57] [0m            registration blame maverik its reboot soon cancel the pizza oh[0m
+[20:57] [0m            wait better not with the pizza ok xome on in[0m
+[20:57] [0m[37;1mEcholoc flaps :[0m one of the players :)[0m
+[20:57] [0m[37;1mAlassra flaps :[0m Q[0m
+[20:57] [0m[37;1mDaeth flaps :[0m NEVER cancel pizza[0m
+[20:58] [0mArmy shouts: Game reboot in 30 minutes 56 seconds [0m
+[21:01] [0m[37;1mHeimdall flaps :[0m myself (aka elminster) and locrian are doing wemudtogether[0m
+[21:02] [0m[37;1mPrismal flaps :[0m they do more than mud together[0m
+[21:03] [0m[37;1mApocalypse flaps :[0m tmi[0m
+[21:06] [0mArmy shouts: Game reboot in 23 minutes 2 seconds [0m
+[21:12] [0mArmy shouts: Game reboot in 17 minutes 6 seconds [0m
+[21:17] [0mArmy shouts: Game reboot in 12 minutes 39 seconds [0m
+[21:18] [0m[34;1mDaeth shouts:[0m hands!!![0m
+[21:19] [0m[34;1mTex shouts:[0m none of that jazz[0m
+[21:19] [0m[34;1mEcholoc shouts:[0m and all that Jazz:)[0m
+[21:19] [0m[34;1mJazz shouts:[0m :0[0m
+[21:19] [0mEcholoc <.oO>: Boom![0m
+[21:19] [0mOscar <.oO>: woo![0m
+[21:19] [0mAlassra <.oO>: thanks! :)[0m
+[21:20] [0mArmy shouts: Game reboot in 9 minutes 19 seconds [0m
+[21:20] [0m[31;1m[Clan] Oscar leaves the game.[0m  [0m
+[21:21] [0m[31;1m[Clan] Martyr enters the game.[0m  [0m
+[21:23] [0mArmy shouts: Game reboot in 6 minutes 49 seconds [0m
+[21:24] [0mArmy shouts: TELL ARMY if you want a free transport![0m
+[21:24] [0mArmy shouts: Game reboot in 4 minutes 56 seconds [0m
+[21:25] [0m[34;1mEcholoc shouts:[0m woot[0m
+[21:25] [0m[34;1mDaeth shouts:[0m reboot is maveriks fault[0m
+[21:25] [0m[34;1mMaverik shouts:[0m it's still not my fault dammit!![0m
+[21:25] [0m[34;1mTex shouts:[0m blame maverik[0m
+[21:26] [0mArmy shouts: Game reboot in 3 minutes 32 seconds [0m
+[21:27] [0mArmy shouts: Game reboot in 2 minutes 29 seconds [0m
+[21:28] [0mArmy shouts: Game reboot in 1 minute 41 seconds [0m
+[21:28] [0m[31;1m[Clan] Slacker leaves the game.[0m  [0m
+[21:28] [0m[34;1mPrism shouts:[0m fartnoise[0m
+[21:28] [0m[31;1m[Clan] Nix leaves the game.[0m  [0m
+[21:28] [0m[31;1m[Clan] Roor enters the game.[0m  [0m
+[21:28] [0m[31;1m[Clan] Falthrice leaves the game.[0m  [0m
+[21:28] [0m[31;1m[Clan] Roor leaves the game.[0m  [0m
+[21:28] [0mArmy shouts: Game reboot in 1 minute 5 seconds [0m
+[21:28] [0m[31;1m[Clan] Nix materializes into existence.[0m  [0m
+[21:29] [0m[31;1m[Clan] Bruce leaves the game.[0m  [0m
+[21:29] [0mArmy shouts: Game reboot in 38 seconds [0m
+[21:29] [0m[34;1mSimonz shouts:[0m last first![0m
+[21:29] [0m[34;1mPrism shouts:[0m No.[0m
+[21:29] [0mArmy shouts: Game reboot in 18 seconds [0m
+[21:29] [0mArmy shouts: Game reboot in 3 seconds [0m
+[21:30] [0mArmy shouts: Following the tracks of a long abandoned rail system[0m

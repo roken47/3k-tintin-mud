@@ -1,0 +1,19 @@
+#class {bot} {open}
+#var {area} {dundee1}
+#var {botpath} {e;n;n;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;s;e;e;e;e;e;e;e;e;e;e;s;w;w;w;w;w;w;w;w;w;w;n;n;n;n;n;w}
+
+#act {^[MoNSTaR]{Swamp Crocodile|Red-bellied Watersnake|Drop bear|Cane Toad|Marbled Reed Frog|Swamp Sparrow|Tricolored Heron}} {
+	#if {"%1" == "Red-bellied Watersnake"} {#var mobname snake};
+	#if {"%1" == "Drop Bear"} {#var mobname bear};
+	#if {"%1" == "Cane Toad"} {#var mobname toad};
+	#if {"%1" == "Marbled Reed Frog"} {#var mobname frog};
+	#if {"%1" == "Swamp Sparrow"} {#var mobname sparrow};
+	#if {"%1" == "Tricolored Heron"} {#var mobname heron};
+	#if {"%1" == "Swamp Crocodile"} {#var mobname crocodile};
+	_check_mob
+	}
+#act {You've killed} {#nop} {1}
+
+#class {bot} {close}
+
+#read bots/generic.tin

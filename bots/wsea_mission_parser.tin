@@ -1,0 +1,34 @@
+#class {wsea_mission_parser} {kill}
+#class {wsea_mission_parser} {open}
+#nop
+
+/*
+|  |                      |         Strange mountain ore        |  0  |
+|  |                      |         Mystical forest root        |  0  |
+|--+----------------------+-------------------------------------+-----|
+| 5|     Sewer Cleanup    |                                     |     |
+|  |                      |        Vanquish sewer monster       |  60 |
+|--+----------------------+-------------------------------------+-----|
+| 6|     Slum Cleanup     |                                     |     |
+|  |                      |       Dispose of shady leaders      |  66 |
+|  |                      |         Dispose of ruffians         |  90 |
+|  |                      |         Dispose of brigands         |  0  |
+!--!----------------------!-------------------------------------!-----!
+*/
+
+
+
+/* 	SLUM CLEANUP 	*/
+
+#act {|%s|%s|%sDispose of shady leaders%s|%s%d%s|} {#math {mob_count[leader]} {%6 / 33};};
+#act {|%s|%s|%sDispose of ruffians%s|%s%d%s|} {#math {mob_count[ruffian]} {%6 / 10};};
+#act {|%s|%s|%sDispose of brigands%s|%s%d%s|} {#math {mob_count[brigand]} {%6 / 20};};
+
+
+/*	SEWER CLEANUP	*/
+#act {|%s|%s|%sVanquish sewer monster%s|%s%d%s|} {#math {mob_count[sewer]} {%6 / 5};};
+
+
+
+flip;#delay {1} {#class {wsea_mission_parser} {kill}}
+#class {wsea_mission_parser} {close}
